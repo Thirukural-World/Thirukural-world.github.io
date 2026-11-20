@@ -1,0 +1,930 @@
+{
+  "chapterNum": 32,
+  "nameTa": "இன்னாசெய்யாமை",
+  "nameEn": "Not doing Evil",
+  "nameHi": "अहिंसा",
+  "paal": "அறத்துப்பால்",
+  "iyal": "துறவறவியல்",
+  "kurals": [
+    {
+      "num": 311,
+      "line1": "சிறப்பீனும் செல்வம் பெறினும் பிறர்க்கின்னா",
+      "line2": "செய்யாமை மாசற்றார் கோள்.",
+      "enLine1": "Though ill to neighbour wrought should glorious pride of wealth secure,",
+      "enLine2": "No ill to do is fixed decree of men in spirit pure.",
+      "hiLine1": "तप-प्राप्त धन भी मिले, फिर भी साधु-सुजान ।",
+      "hiLine2": "हानि न करना अन्य की, मानें लक्ष्य महान ॥",
+      "general": "பெருமையைத் தரும் செல்வம் கிடைப்பதாக இருந்தாலும், பிறருக்குத் துன்பம் செய்யாமல் இருப்பதே குற்றமற்ற சான்றோர்களின் கொள்கையாகும்.",
+      "en": "Even if doing harm to others would bring glorious wealth, not inflicting evil is the firm resolve of the pure in spirit.",
+      "hi": "चाहे तप से प्राप्त होने वाला महान धन भी क्यों न मिले, फिर भी बुद्धिमान सज्जन किसी अन्य की हानि न करने को ही अपना महान लक्ष्य मानते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சிறப்பீனும் <br>(Sirappeenum)",
+          "ta": "பெருமையைத் தரும்",
+          "en": "Glorious pride",
+          "hi": "तप-प्राप्त"
+        },
+        {
+          "no": 2,
+          "word": "செல்வம் <br>(Selvam)",
+          "ta": "செல்வம்",
+          "en": "Wealth",
+          "hi": "धन भी"
+        },
+        {
+          "no": 3,
+          "word": "பெறினும் <br>(Perinum)",
+          "ta": "பெற்றாலும்",
+          "en": "Though secure",
+          "hi": "मिले फिर भी"
+        },
+        {
+          "no": 4,
+          "word": "பிறர்க்கின்னா <br>(Pirarkkinnaa)",
+          "ta": "பிறர்க்குத் துன்பம்",
+          "en": "Ill to neighbour",
+          "hi": "अन्य की हानि"
+        },
+        {
+          "no": 5,
+          "word": "செய்யாமை <br>(Seyyaamai)",
+          "ta": "செய்யாதிருத்தல்",
+          "en": "Doing no ill",
+          "hi": "न करना ही"
+        },
+        {
+          "no": 6,
+          "word": "மாசற்றார் <br>(Maasatraar)",
+          "ta": "குற்றமற்றவரின்",
+          "en": "Men in spirit pure",
+          "hi": "साधु-सुजान का"
+        },
+        {
+          "no": 7,
+          "word": "கோள் <br>(Kol)",
+          "ta": "கொள்கை",
+          "en": "Fixed decree",
+          "hi": "महान लक्ष्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சிறப்பீனும் செல்வம் பெறினும் பிறர்க்கின்னா",
+          "line2": "செய்யாமை மாசற்றார் கோள்."
+        },
+        "en": {
+          "line1": "Though ill to neighbour wrought should glorious pride of wealth secure,",
+          "line2": "No ill to do is fixed decree of men in spirit pure."
+        },
+        "hi": {
+          "line1": "तप-प्राप्त धन भी मिले, फिर भी साधु-सुजान ।",
+          "line2": "हानि न करना अन्य की, मानें लक्ष्य महान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sirappeenum Selvam Perinum Pirarkkinnaa",
+            "line2": "Seyyaamai Maasatraar Kol."
+          },
+          "hi": {
+            "line1": "सिरप्पीनुम् सॆल्वम् पॆरिनुम् पिरर्क्किन्ना",
+            "line2": "सॆय्यामै मासरार् कोळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பெருமையைத் தரும் செல்வம் கிடைப்பதாக இருந்தாலும், பிறருக்குத் துன்பம் செய்யாமல் இருப்பதே குற்றமற்ற சான்றோர்களின் கொள்கையாகும்.",
+        "en": "People of pure character make it an unbreakable rule never to harm anyone, even if doing so promised vast wealth or prestige.",
+        "hi": "चाहे तप से प्राप्त होने वाला महान धन भी क्यों न मिले, फिर भी बुद्धिमान सज्जन किसी अन्य की हानि न करने को ही अपना महान लक्ष्य मानते हैं।"
+      }
+    },
+    {
+      "num": 312,
+      "line1": "கறுத்தின்னா செய்தவக் கண்ணும் மறுத்தின்னா",
+      "line2": "செய்யாமை மாசற்றார் கோள்.",
+      "enLine1": "Though malice work its worst, planning no ill return, to endure,",
+      "enLine2": "And work no ill, is fixed decree of men in spirit pure.",
+      "hiLine1": "बुरा किया यदि क्रोध से, फिर भी सधु-सुजान ।",
+      "hiLine2": "ना करना प्रतिकार ही, मानें लक्ष्य महान ॥",
+      "general": "ஒருவர் சினம் கொண்டு தமக்குத் தீங்கு செய்தபோதிலும், தாம் திருப்பித் தீங்கு செய்யாமல் இருப்பதே குற்றமற்ற சான்றோரின் கொள்கையாகும்.",
+      "en": "Even when others act out of malice and do harm, not returning evil for evil is the firm principle of the pure in spirit.",
+      "hi": "यदि किसी ने क्रोधवश आपका बुरा किया भी हो, तब भी साधु-सज्जन व्यक्ति उसका प्रतिकार (बदला) न करने को ही अपना महान लक्ष्य मानते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கறுத்து <br>(Karuththu)",
+          "ta": "சினம் கொண்டு",
+          "en": "With malice",
+          "hi": "क्रोध से"
+        },
+        {
+          "no": 2,
+          "word": "இன்னா <br>(Innaa)",
+          "ta": "தீங்கு",
+          "en": "Ill / harm",
+          "hi": "बुरा"
+        },
+        {
+          "no": 3,
+          "word": "செய்தவக் கண்ணும் <br>(Seydhavak kannum)",
+          "ta": "செய்தபோதிலும்",
+          "en": "Even when done",
+          "hi": "यदि किया फिर भी"
+        },
+        {
+          "no": 4,
+          "word": "மறுத்து <br>(Maruththu)",
+          "ta": "திருப்பி",
+          "en": "In return",
+          "hi": "प्रतिकार"
+        },
+        {
+          "no": 5,
+          "word": "இன்னா செய்யாமை <br>(Innaa seyyaamai)",
+          "ta": "தீங்கு செய்யாமை",
+          "en": "Work no ill",
+          "hi": "न करना ही"
+        },
+        {
+          "no": 6,
+          "word": "மாசற்றார் <br>(Maasatraar)",
+          "ta": "குற்றமற்றவரின்",
+          "en": "Men in spirit pure",
+          "hi": "साधु-सुजान का"
+        },
+        {
+          "no": 7,
+          "word": "கோள் <br>(Kol)",
+          "ta": "கொள்கை",
+          "en": "Fixed decree",
+          "hi": "महान लक्ष्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கறுத்தின்னா செய்தவக் கண்ணும் மறுத்தின்னா",
+          "line2": "செய்யாமை மாசற்றார் கோள்."
+        },
+        "en": {
+          "line1": "Though malice work its worst, planning no ill return, to endure,",
+          "line2": "And work no ill, is fixed decree of men in spirit pure."
+        },
+        "hi": {
+          "line1": "बुरा किया यदि क्रोध से, फिर भी सधु-सुजान ।",
+          "line2": "ना करना प्रतिकार ही, मानें लक्ष्य महान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Karuththinnaa Seydhavak Kannum Maruththinnaa",
+            "line2": "Seyyaamai Maasatraar Kol."
+          },
+          "hi": {
+            "line1": "करुत्तिन्ना सॆय्दवक् कण्णुम् मरुत्तिन्ना",
+            "line2": "सॆय्यामै मासरार् कोळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவர் சினம் கொண்டு தமக்குத் தீங்கு செய்தபோதிலும், தாம் திருப்பித் தீங்கு செய்யாமல் இருப்பதே குற்றமற்ற சான்றோரின் கொள்கையாகும்.",
+        "en": "Even when provoked by spiteful wrongs, refusing to retaliate with harm is the steadfast code of noble minds.",
+        "hi": "यदि किसी ने क्रोधवश आपका बुरा किया भी हो, तब भी साधु-सज्जन व्यक्ति उसका प्रतिकार (बदला) न करने को ही अपना महान लक्ष्य मानते हैं।"
+      }
+    },
+    {
+      "num": 313,
+      "line1": "செய்யாமை செற்றார்க்கும் இன்னாத செய்தபின்",
+      "line2": "உய்யா விழுமந் தரும்.",
+      "enLine1": "Though unprovoked thy soul malicious foes should sting,",
+      "enLine2": "Retaliation wrought inevitable woes will bring.",
+      "hiLine1": "'बुरा किया कारण बिना', करके यही विचार ।",
+      "hiLine2": "किया अगर प्रतिकार तो, होगा दुःख अपार ॥",
+      "general": "தாம் தீங்கு செய்யாதிருக்கவும் பகைத்துத் தீங்கு செய்தவர்க்கும், தாம் திருப்பித் தீங்கு செய்தால் அது நீங்காத பெருந்துன்பத்தைத் தரும்.",
+      "en": "Even toward enemies who harm you without provocation, returning evil for evil will bring inescapable sorrow.",
+      "hi": "'इसने बिना किसी कारण के मेरा बुरा किया है' ऐसा विचार करके यदि आपने प्रतिकार (बदला) किया, तो उससे आपको अपार दुख ही प्राप्त होगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செய்யாமை <br>(Seyyaamai)",
+          "ta": "தீங்கு செய்யாதிருக்க",
+          "en": "Unprovoked",
+          "hi": "कारण बिना"
+        },
+        {
+          "no": 2,
+          "word": "செற்றார்க்கும் <br>(Setraarkkum)",
+          "ta": "பகைத்தவர்க்கும்",
+          "en": "Malicious foes",
+          "hi": "बुरा करने वाले से"
+        },
+        {
+          "no": 3,
+          "word": "இன்னாத <br>(Innaadha)",
+          "ta": "தீமைகளை",
+          "en": "Evil / retaliation",
+          "hi": "प्रतिकार"
+        },
+        {
+          "no": 4,
+          "word": "செய்தபின் <br>(Seydhabin)",
+          "ta": "செய்தால்",
+          "en": "If wrought",
+          "hi": "यदि किया तो"
+        },
+        {
+          "no": 5,
+          "word": "உய்யா <br>(Uyyaa)",
+          "ta": "தப்ப முடியாத",
+          "en": "Inevitable",
+          "hi": "अपार"
+        },
+        {
+          "no": 6,
+          "word": "விழுமம் <br>(Vizhumam)",
+          "ta": "துன்பத்தை",
+          "en": "Woes",
+          "hi": "दुख"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Will bring",
+          "hi": "होगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செய்யாமை செற்றார்க்கும் இன்னாத செய்தபின்",
+          "line2": "உய்யா விழுமந் தரும்."
+        },
+        "en": {
+          "line1": "Though unprovoked thy soul malicious foes should sting,",
+          "line2": "Retaliation wrought inevitable woes will bring."
+        },
+        "hi": {
+          "line1": "'बुरा किया कारण बिना', करके यही विचार ।",
+          "line2": "किया अगर प्रतिकार तो, होगा दुःख अपार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seyyaamai Setraarkkum Innaadha Seydhabin",
+            "line2": "Uyyaa Vizhumandh Tharum."
+          },
+          "hi": {
+            "line1": "सॆय्यामै सॆत्रार्क्कुम् इन्नाद सॆय्दबिन्",
+            "line2": "उय्या विऴुमन् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தாம் தீங்கு செய்யாதிருக்கவும் பகைத்துத் தீங்கு செய்தவர்க்கும், தாம் திருப்பித் தீங்கு செய்தால் அது நீங்காத பெருந்துன்பத்தைத் தரும்.",
+        "en": "Even when someone attacks you without any reason, striking back in vengeance only traps you in unavoidable misery.",
+        "hi": "'इसने बिना किसी कारण के मेरा बुरा किया है' ऐसा विचार करके यदि आपने प्रतिकार (बदला) किया, तो उससे आपको अपार दुख ही प्राप्त होगा।"
+      }
+    },
+    {
+      "num": 314,
+      "line1": "இன்னாசெய் தாரை ஒறுத்தல் அவர்நாண",
+      "line2": "நன்னயஞ் செய்து விடல்.",
+      "enLine1": "To punish wrong, with kindly benefits the doers ply ;",
+      "enLine2": "Thus shame their souls ; but pass the ill unheeded by.",
+      "hiLine1": "बुरा किया तो कर भला, बुरा भला फिर भूल ।",
+      "hiLine2": "पानी पानी हो रहा, बस उसको यह शूल ॥",
+      "general": "நமக்குத் தீமை செய்தவரைத் தண்டிக்கும் வழி, அவர்கள் வெட்கப்படும்படி அவர்களுக்கு நல்ல உதவிகளைச் செய்துவிட்டு அத்தீமையை மறந்துவிடுதலாகும்.",
+      "en": "The true punishment for those who have done you evil is to shame them by doing them good in return and forgetting the wrong.",
+      "hi": "यदि किसी ने आपका बुरा किया हो, तो उसके बदले में उसका भला करके उस बुराई-भलाई को भूल जाओ; वह स्वयं लज्जित (पानी-पानी) हो जाएगा—यही उसके लिए पर्याप्त दंड है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்னா <br>(Innaa)",
+          "ta": "தீமை",
+          "en": "Wrong",
+          "hi": "बुरा"
+        },
+        {
+          "no": 2,
+          "word": "செய்தாரை <br>(Seydhaarai)",
+          "ta": "செய்தவரை",
+          "en": "The doers",
+          "hi": "किया तो"
+        },
+        {
+          "no": 3,
+          "word": "ஒறுத்தல் <br>(Oruththal)",
+          "ta": "தண்டிப்பது",
+          "en": "To punish",
+          "hi": "दंड देना"
+        },
+        {
+          "no": 4,
+          "word": "அவர்நாண <br>(Avarnaana)",
+          "ta": "அவர் வெட்கப்படும்படி",
+          "en": "Shame their souls",
+          "hi": "पानी-पानी हो जाना"
+        },
+        {
+          "no": 5,
+          "word": "நன்னயஞ் <br>(Nannayanj)",
+          "ta": "நல்ல உதவிகளைச்",
+          "en": "Kindly benefits",
+          "hi": "भला"
+        },
+        {
+          "no": 6,
+          "word": "செய்து <br>(Seydhu)",
+          "ta": "செய்து",
+          "en": "Doing",
+          "hi": "करके"
+        },
+        {
+          "no": 7,
+          "word": "விடல் <br>(Vidal)",
+          "ta": "மறந்துவிடுதல்",
+          "en": "Pass unheeded",
+          "hi": "भूल जाना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்னாசெய் தாரை ஒறுத்தல் அவர்நாண",
+          "line2": "நன்னயஞ் செய்து விடல்."
+        },
+        "en": {
+          "line1": "To punish wrong, with kindly benefits the doers ply ;",
+          "line2": "Thus shame their souls ; but pass the ill unheeded by."
+        },
+        "hi": {
+          "line1": "बुरा किया तो कर भला, बुरा भला फिर भूल ।",
+          "line2": "पानी पानी हो रहा, बस उसको यह शूल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Innaa Seydhaarai Oruththal Avarnaana",
+            "line2": "Nannayanj Seydhu Vidal."
+          },
+          "hi": {
+            "line1": "इन्नासॆय् दारै ऒरुत्तल् अवर्नाण",
+            "line2": "नन्नयञ् सॆय्दु विडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நமக்குத் தீமை செய்தவரைத் தண்டிக்கும் வழி, அவர்கள் வெட்கப்படும்படி அவர்களுக்கு நல்ல உதவிகளைச் செய்துவிட்டு அத்தீமையை மறந்துவிடுதலாகும்.",
+        "en": "The noblest way to answer a wrongdoer is to repay their cruelty with kindness—letting their own conscience humble them while you move on.",
+        "hi": "यदि किसी ने आपका बुरा किया हो, तो उसके बदले में उसका भला करके उस बुराई-भलाई को भूल जाओ; वह स्वयं लज्जित (पानी-पानी) हो जाएगा—यही उसके लिए पर्याप्त दंड है।"
+      }
+    },
+    {
+      "num": 315,
+      "line1": "அறிவினான் ஆகுவது உண்டோ பிறிதின்நோய்",
+      "line2": "தந்நோய்போல் போற்றாக் கடை.",
+      "enLine1": "From wisdom's vaunted lore what doth the learner gain,",
+      "enLine2": "If as his own he guard not others' souls from pain ?",
+      "hiLine1": "माने नहिं पर दुःख को, यदि निज दुःख समान ।",
+      "hiLine2": "तो होता क्या लाभ है, रखते तत्वज्ञान ॥",
+      "general": "மற்ற உயிர்களின் துன்பத்தைத் தம் துன்பம் போலக் கருதிப் பாதுகாக்காவிட்டால், ஒருவர் பெற்ற அறிவினால் ஆகும் பயன் உண்டோ?",
+      "en": "What is the use of wisdom if one does not guard other beings from pain just as one guards oneself from pain?",
+      "hi": "यदि कोई व्यक्ति दूसरे के दुख को अपने दुख के समान न माने, तो उसे तत्वज्ञान रखने से भला क्या लाभ होगा?",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறிவினான் <br>(Arivinaan)",
+          "ta": "அறிவினால்",
+          "en": "From wisdom's lore",
+          "hi": "तत्वज्ञान रखने से"
+        },
+        {
+          "no": 2,
+          "word": "ஆகுவது <br>(Aaguvadhu)",
+          "ta": "உண்டாகும் பயன்",
+          "en": "What gain",
+          "hi": "क्या लाभ"
+        },
+        {
+          "no": 3,
+          "word": "உண்டோ <br>(Undo)",
+          "ta": "உண்டோ",
+          "en": "Is there",
+          "hi": "होता है"
+        },
+        {
+          "no": 4,
+          "word": "பிறிதின்நோய் <br>(Piridhinnoy)",
+          "ta": "பிற உயிரின் துன்பத்தை",
+          "en": "Others' pain",
+          "hi": "पर दुख को"
+        },
+        {
+          "no": 5,
+          "word": "தந்நோய்போல் <br>(Thannoybol)",
+          "ta": "தன் துன்பம் போல்",
+          "en": "As his own",
+          "hi": "निज दुख समान"
+        },
+        {
+          "no": 6,
+          "word": "போற்றா <br>(Potraa)",
+          "ta": "கருதிக் காக்கா",
+          "en": "Not guarding",
+          "hi": "न माने"
+        },
+        {
+          "no": 7,
+          "word": "கடை <br>(Kadai)",
+          "ta": "விடின்",
+          "en": "If",
+          "hi": "यदि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறிவினான் ஆகுவது உண்டோ பிறிதின்நோய்",
+          "line2": "தந்நோய்போல் போற்றாக் கடை."
+        },
+        "en": {
+          "line1": "From wisdom's vaunted lore what doth the learner gain,",
+          "line2": "If as his own he guard not others' souls from pain ?"
+        },
+        "hi": {
+          "line1": "माने नहिं पर दुःख को, यदि निज दुःख समान ।",
+          "line2": "तो होता क्या लाभ है, रखते तत्वज्ञान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arivinaan Aaguvadhu Undo Piridhinnoy",
+            "line2": "Thannoybol Potraa Kadai."
+          },
+          "hi": {
+            "line1": "अरिविनन् आगुवदु उण्डो पिरिदिन्नोय्",
+            "line2": "तन्नोय्बोल् पोत्राक् कडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மற்ற உயிர்களின் துன்பத்தைத் தம் துன்பம் போலக் கருதிப் பாதுகாக்காவிட்டால், ஒருவர் பெற்ற அறிவினால் ஆகும் பயன் உண்டோ?",
+        "en": "All your learning and intelligence mean nothing if they don't move you to feel another's pain as your own.",
+        "hi": "यदि कोई व्यक्ति दूसरे के दुख को अपने दुख के समान न माने, तो उसे तत्वज्ञान रखने से भला क्या लाभ होगा?"
+      }
+    },
+    {
+      "num": 316,
+      "line1": "இன்னா எனத்தான் உணர்ந்தவை துன்னாமை",
+      "line2": "வேண்டும் பிறன்கண் செயல்.",
+      "enLine1": "What his own soul has felt as bitter pain,",
+      "enLine2": "From making others feel should man abstain.",
+      "hiLine1": "कोई समझे जब स्वयं, बुरा फलाना कर्म ।",
+      "hiLine2": "अन्यों पर उस कर्म को, नहीं करे, यह धर्म ॥",
+      "general": "தனக்குத் துன்பம் தருவன என்று தான் உணர்ந்த செயல்களை, பிறரிடத்திலும் செய்யாமல் விலக்க வேண்டும்.",
+      "en": "What a man himself has felt to be painful, he should refrain from inflicting upon others.",
+      "hi": "जब कोई व्यक्ति स्वयं यह समझ ले कि अमुक कर्म बुरा (दुखदायी) है, तो उसे दूसरों के प्रति वह कर्म कभी नहीं करना चाहिए—यही धर्म है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்னா <br>(Innaa)",
+          "ta": "துன்பமானவை",
+          "en": "Bitter pain",
+          "hi": "बुरा"
+        },
+        {
+          "no": 2,
+          "word": "எனத்தான் <br>(Enaththaan)",
+          "ta": "என்று தான்",
+          "en": "What his own soul",
+          "hi": "जब स्वयं"
+        },
+        {
+          "no": 3,
+          "word": "உணர்ந்தவை <br>(Unarndhavai)",
+          "ta": "அனுபவித்து உணர்ந்தவற்றை",
+          "en": "Has felt",
+          "hi": "समझे कर्म"
+        },
+        {
+          "no": 4,
+          "word": "துன்னாமை <br>(Thunnaamai)",
+          "ta": "பொருந்தாமல் விலக்க",
+          "en": "Abstain from",
+          "hi": "नहीं करे"
+        },
+        {
+          "no": 5,
+          "word": "வேண்டும் <br>(Vendum)",
+          "ta": "வேண்டும்",
+          "en": "Should",
+          "hi": "यह धर्म है"
+        },
+        {
+          "no": 6,
+          "word": "பிறன்கண் <br>(Pirankan)",
+          "ta": "பிறரிடத்தில்",
+          "en": "Upon others",
+          "hi": "अन्यों पर"
+        },
+        {
+          "no": 7,
+          "word": "செயல் <br>(Seyal)",
+          "ta": "செய்வதை",
+          "en": "Doing / making feel",
+          "hi": "उस कर्म को"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்னா எனத்தான் உணர்ந்தவை துன்னாமை",
+          "line2": "வேண்டும் பிறன்கண் செயல்."
+        },
+        "en": {
+          "line1": "What his own soul has felt as bitter pain,",
+          "line2": "From making others feel should man abstain."
+        },
+        "hi": {
+          "line1": "कोई समझे जब स्वयं, बुरा फलाना कर्म ।",
+          "line2": "अन्यों पर उस कर्म को, नहीं करे, यह धर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Innaa Enaththaan Unarndhavai Thunnaamai",
+            "line2": "Vendum Pirankan Seyal."
+          },
+          "hi": {
+            "line1": "इन्ना एनत्तान् उणर्न्दवै तुन्नामै",
+            "line2": "वेण्डुम् पिरन्कण् सॆयल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தனக்குத் துன்பம் தருவன என்று தான் உணர்ந்த செயல்களை, பிறரிடத்திலும் செய்யாமல் விலக்க வேண்டும்.",
+        "en": "If you already know from personal experience how deeply something hurts, never inflict that same pain on someone else.",
+        "hi": "जब कोई व्यक्ति स्वयं यह समझ ले कि अमुक कर्म बुरा (दुखदायी) है, तो उसे दूसरों के प्रति वह कर्म कभी नहीं करना चाहिए—यही धर्म है।"
+      }
+    },
+    {
+      "num": 317,
+      "line1": "எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம்",
+      "line2": "மாணாசெய் யாமை தலை.",
+      "enLine1": "To work no wilful woe, in any wise, through all the days,",
+      "enLine2": "To any living soul, is virtue's highest praise.",
+      "hiLine1": "किसी व्यक्ति को उल्प भी, जो भी समय अनिष्ट ।",
+      "hiLine2": "मनपूर्वक करना नहीं, सबसे यही वरिष्ठ ॥",
+      "general": "எவ்வளவு சிறிதளவும் எக்காலத்திலும் எவருக்கும் மனத்தால் எண்ணித் தீமை செய்யாதிருத்தலே எல்லா அறங்களுள்ளும் தலையாயது.",
+      "en": "Not willfully causing even the slightest harm to anyone, at any time, in any way, is the highest of all virtues.",
+      "hi": "किसी भी व्यक्ति का किसी भी समय जान-बूझकर (मनपूर्वक) थोड़ा-सा भी अहित न करना ही सबसे श्रेष्ठ धर्म है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எனைத்தானும் <br>(Enaiththaanum)",
+          "ta": "எவ்வளவு சிறிதளவும்",
+          "en": "In any wise",
+          "hi": "अल्प भी"
+        },
+        {
+          "no": 2,
+          "word": "எஞ்ஞான்றும் <br>(Enjnaandrum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "Through all days",
+          "hi": "किसी भी समय"
+        },
+        {
+          "no": 3,
+          "word": "யார்க்கும் <br>(Yaarkkum)",
+          "ta": "எவருக்கும்",
+          "en": "To any living soul",
+          "hi": "किसी व्यक्ति को"
+        },
+        {
+          "no": 4,
+          "word": "மனத்தானாம் <br>(Manaththaanaam)",
+          "ta": "மனத்தாலும் (தெரிந்தே)",
+          "en": "Wilfully",
+          "hi": "मनपूर्वक"
+        },
+        {
+          "no": 5,
+          "word": "மாணா <br>(Maanaa)",
+          "ta": "தீமை",
+          "en": "Woe / evil",
+          "hi": "अनिष्ट"
+        },
+        {
+          "no": 6,
+          "word": "செய்யாமை <br>(Seyyaamai)",
+          "ta": "செய்யாதிருத்தல்",
+          "en": "Working no",
+          "hi": "न करना"
+        },
+        {
+          "no": 7,
+          "word": "தலை <br>(Thalai)",
+          "ta": "தலையாய அறம்",
+          "en": "Highest praise",
+          "hi": "सबसे वरिष्ठ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம்",
+          "line2": "மாணாசெய் யாமை தலை."
+        },
+        "en": {
+          "line1": "To work no wilful woe, in any wise, through all the days,",
+          "line2": "To any living soul, is virtue's highest praise."
+        },
+        "hi": {
+          "line1": "किसी व्यक्ति को उल्प भी, जो भी समय अनिष्ट ।",
+          "line2": "मनपूर्वक करना नहीं, सबसे यही वरिष्ठ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Enaiththaanum Enjnaandrum Yaarkkum Manaththaanaam",
+            "line2": "Maanaa Seyyaamai Thalai."
+          },
+          "hi": {
+            "line1": "एनैत्तानुम् एञ्ञान्द्रुम् यार्क्कुम् मनत्तानाम्",
+            "line2": "माणासॆय् यामै तलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எவ்வளவு சிறிதளவும் எக்காலத்திலும் எவருக்கும் மனத்தால் எண்ணித் தீமை செய்யாதிருத்தலே எல்லா அறங்களுள்ளும் தலையாயது.",
+        "en": "Refusing to intentionally cause even the smallest harm to any living being, at any time, is the supreme moral standard.",
+        "hi": "किसी भी व्यक्ति का किसी भी समय जान-बूझकर (मनपूर्वक) थोड़ा-सा भी अहित न करना ही सबसे श्रेष्ठ धर्म है।"
+      }
+    },
+    {
+      "num": 318,
+      "line1": "தன்னுயிர்க்கு இன்னாமை தானறிவான் என்கொலோ",
+      "line2": "மன்னுயிர்க்கு இன்னா செயல்.",
+      "enLine1": "Whose soul has felt the bitter smart of wrong, how can",
+      "enLine2": "He wrongs inflict on ever-living soul of man ?",
+      "hiLine1": "जिससे अपना अहित हो, उसका है दृढ़ ज्ञान ।",
+      "hiLine2": "फिर अन्यों का अहित क्यों, करता है नादान ॥",
+      "general": "தன் உயிருக்குத் துன்பம் எது என்பதைத் தானே நன்கு அறிந்தவன், நிலைபெற்ற மற்ற உயிர்களுக்குத் துன்பம் செய்வது ஏனோ?",
+      "en": "How can one who knows from his own experience what causes pain to his own life inflict pain on other living beings?",
+      "hi": "मनुष्य को यह दृढ़ ज्ञान है कि किस बात से उसका अपना अहित होता है; फिर भी वह नादान दूसरों का अहित क्यों करता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "தன்னுயிர்க்கு <br>(Thannuyirkku)",
+          "ta": "தன் உயிருக்கு",
+          "en": "To his own soul",
+          "hi": "अपना"
+        },
+        {
+          "no": 2,
+          "word": "இன்னாமை <br>(Innaamai)",
+          "ta": "துன்பமாவதை",
+          "en": "Smart of wrong",
+          "hi": "अहित"
+        },
+        {
+          "no": 3,
+          "word": "தானறிவான் <br>(Thaanarivaan)",
+          "ta": "தானே அறிந்தவன்",
+          "en": "Who knows himself",
+          "hi": "दृढ़ ज्ञान है"
+        },
+        {
+          "no": 4,
+          "word": "என்கொலோ <br>(Enkolo)",
+          "ta": "என்ன காரணத்தாலோ",
+          "en": "How can he",
+          "hi": "क्यों करता है नादान"
+        },
+        {
+          "no": 5,
+          "word": "மன்னுயிர்க்கு <br>(Mannuyirkku)",
+          "ta": "மற்ற உயிர்களுக்கு",
+          "en": "On living soul",
+          "hi": "अन्यों का"
+        },
+        {
+          "no": 6,
+          "word": "இன்னா <br>(Innaa)",
+          "ta": "துன்பம்",
+          "en": "Wrongs / pain",
+          "hi": "अहित"
+        },
+        {
+          "no": 7,
+          "word": "செயல் <br>(Seyal)",
+          "ta": "செய்வது",
+          "en": "Inflicting",
+          "hi": "करना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தன்னுயிர்க்கு இன்னாமை தானறிவான் என்கொலோ",
+          "line2": "மன்னுயிர்க்கு இன்னா செயல்."
+        },
+        "en": {
+          "line1": "Whose soul has felt the bitter smart of wrong, how can",
+          "line2": "He wrongs inflict on ever-living soul of man ?"
+        },
+        "hi": {
+          "line1": "जिससे अपना अहित हो, उसका है दृढ़ ज्ञान ।",
+          "line2": "फिर अन्यों का अहित क्यों, करता है नादान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thannuyirkku Innaamai Thaanarivaan Enkolo",
+            "line2": "Mannuyirkku Innaa Seyal."
+          },
+          "hi": {
+            "line1": "तन्नुयिर्क्कु इन्नामै तानरिवान् एन्कोलो",
+            "line2": "मन्नुयिर्क्कु इन्ना सॆयल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன் உயிருக்குத் துன்பம் எது என்பதைத் தானே நன்கு அறிந்தவன், நிலைபெற்ற மற்ற உயிர்களுக்குத் துன்பம் செய்வது ஏனோ?",
+        "en": "Since you know firsthand how badly injury hurts you, why would you ever knowingly inflict that same hurt on another?",
+        "hi": "मनुष्य को यह दृढ़ ज्ञान है कि किस बात से उसका अपना अहित होता है; फिर भी वह नादान दूसरों का अहित क्यों करता है?"
+      }
+    },
+    {
+      "num": 319,
+      "line1": "பிறர்க்கின்னா முற்பகல் செய்யின் தமக்கின்னா",
+      "line2": "பிற்பகல் தாமே வரும்.",
+      "enLine1": "If, ere the noontide, you to others evil do,",
+      "enLine2": "Before the eventide will evil visit you.",
+      "hiLine1": "दिया सबेरे अन्य को, यदि तुमने संताप ।",
+      "hiLine2": "वही ताप फिर साँझ को, तुमपर आवे आप ॥",
+      "general": "ஒருவன் முற்பகலில் பிறருக்குத் துன்பம் செய்தால், பிற்பகலில் அவனுக்குத் தானாகவே துன்பம் வந்து சேரும்.",
+      "en": "If one inflicts evil on others in the forenoon, evil will come upon oneself of its own accord in the afternoon.",
+      "hi": "यदि तुमने सुबह (मुற்பகल) किसी अन्य व्यक्ति को कोई संताप (कष्ट) दिया, तो वही कष्ट शाम (साँझ) को अपने आप तुम पर आ पड़ेगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பிறர்க்கின்னா <br>(Pirarkkinnaa)",
+          "ta": "பிறர்க்குத் துன்பத்தை",
+          "en": "Evil to others",
+          "hi": "अन्य को संताप"
+        },
+        {
+          "no": 2,
+          "word": "முற்பகல் <br>(Murpagal)",
+          "ta": "முற்பகலில்",
+          "en": "Ere the noontide",
+          "hi": "सबेरे"
+        },
+        {
+          "no": 3,
+          "word": "செய்யின் <br>(Seyyin)",
+          "ta": "செய்தால்",
+          "en": "If you do",
+          "hi": "यदि दिया"
+        },
+        {
+          "no": 4,
+          "word": "தமக்கின்னா <br>(Thamakkinnaa)",
+          "ta": "தமக்குத் துன்பம்",
+          "en": "Evil to you",
+          "hi": "वही ताप तुम पर"
+        },
+        {
+          "no": 5,
+          "word": "பிற்பகல் <br>(Pirpagal)",
+          "ta": "பிற்பகலில்",
+          "en": "Before eventide",
+          "hi": "साँझ को"
+        },
+        {
+          "no": 6,
+          "word": "தாமே <br>(Thaame)",
+          "ta": "தானாகவே",
+          "en": "By itself",
+          "hi": "अपने आप"
+        },
+        {
+          "no": 7,
+          "word": "வரும் <br>(Varum)",
+          "ta": "வந்து சேரும்",
+          "en": "Will visit",
+          "hi": "आवेगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பிறர்க்கின்னா முற்பகல் செய்யின் தமக்கின்னா",
+          "line2": "பிற்பகல் தாமே வரும்."
+        },
+        "en": {
+          "line1": "If, ere the noontide, you to others evil do,",
+          "line2": "Before the eventide will evil visit you."
+        },
+        "hi": {
+          "line1": "दिया सबेरे अन्य को, यदि तुमने संताप ।",
+          "line2": "वही ताप फिर साँझ को, तुमपर आवे आप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pirarkkinnaa Murpagal Seyyin Thamakkinnaa",
+            "line2": "Pirpagal Thaame Varum."
+          },
+          "hi": {
+            "line1": "पिरर्क्किन्ना मुर्पगल् सॆय्यिन् तमक्किन्ना",
+            "line2": "पिर्पगल् तामे वरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் முற்பகலில் பிறருக்குத் துன்பம் செய்தால், பிற்பகலில் அவனுக்குத் தானாகவே துன்பம் வந்து சேரும்.",
+        "en": "The harm you send out in the morning circles back to find you before the day is done.",
+        "hi": "यदि तुमने सुबह (मुற்பகल) किसी अन्य व्यक्ति को कोई संताप (कष्ट) दिया, तो वही कष्ट शाम (साँझ) को अपने आप तुम पर आ पड़ेगा।"
+      }
+    },
+    {
+      "num": 320,
+      "line1": "நோயெல்லாம் நோய்செய்தார் மேலவாம் நோய்செய்யார்",
+      "line2": "நோயின்மை வேண்டு பவர்.",
+      "enLine1": "O'er every evil-doer evil broodeth still ;",
+      "enLine2": "He evil shuns who freedom seeks from ill.",
+      "hiLine1": "जो दुःख देगा अन्य को, स्वयं करे दुःख-भोग ।",
+      "hiLine2": "दुःख-वर्जन की चाह से, दुःख न दें बुधलोग ॥",
+      "general": "எல்லாத் துன்பங்களும் பிறருக்குத் துன்பம் செய்தவர்களையே வந்து சேரும்; ஆதலால் தமக்குத் துன்பம் இல்லாமல் இருக்க விரும்புவோர் பிறருக்குத் துன்பம் செய்யமாட்டார்கள்.",
+      "en": "All suffering falls back upon those who inflict suffering; therefore, those who wish to be free from pain never cause pain to others.",
+      "hi": "जो व्यक्ति दूसरों को दुख देता है, वह स्वयं दुख भोगता है; इसलिए अपने दुख को दूर रखने की इच्छा से बुद्धिमान लोग किसी को दुख नहीं देते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நோயெல்லாம் <br>(Noyellaam)",
+          "ta": "எல்லாத் துன்பங்களும்",
+          "en": "All evil / suffering",
+          "hi": "सारा दुख"
+        },
+        {
+          "no": 2,
+          "word": "நோய்செய்தார் <br>(Noyseydhaar)",
+          "ta": "துன்பம் செய்தவர்",
+          "en": "Evil-doers",
+          "hi": "अन्य को दुख देने वाले"
+        },
+        {
+          "no": 3,
+          "word": "மேலவாம் <br>(Melavaam)",
+          "ta": "மேலேயே சாரும்",
+          "en": "Broodeth o'er",
+          "hi": "स्वयं भोगते हैं"
+        },
+        {
+          "no": 4,
+          "word": "நோய்செய்யார் <br>(Noyseyyaar)",
+          "ta": "துன்பம் செய்யார்",
+          "en": "Shun evil",
+          "hi": "दुख न दें बुधलोग"
+        },
+        {
+          "no": 5,
+          "word": "நோயின்மை <br>(Noyinmai)",
+          "ta": "துன்பமின்மையை",
+          "en": "Freedom from ill",
+          "hi": "दुख-वर्जन की"
+        },
+        {
+          "no": 6,
+          "word": "வேண்டு <br>(Vendu)",
+          "ta": "விரும்பு",
+          "en": "Seeking",
+          "hi": "चाह से"
+        },
+        {
+          "no": 7,
+          "word": "பவர் <br>(Pavar)",
+          "ta": "பவர்",
+          "en": "Those who",
+          "hi": "वाले"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நோயெல்லாம் நோய்செய்தார் மேலவாம் நோய்செய்யார்",
+          "line2": "நோயின்மை வேண்டு பவர்."
+        },
+        "en": {
+          "line1": "O'er every evil-doer evil broodeth still ;",
+          "line2": "He evil shuns who freedom seeks from ill."
+        },
+        "hi": {
+          "line1": "जो दुःख देगा अन्य को, स्वयं करे दुःख-भोग ।",
+          "line2": "दुःख-वर्जन की चाह से, दुःख न दें बुधलोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Noyellaam Noyseydhaar Melavaam Noyseyyaar",
+            "line2": "Noyinmai Vendu Pavar."
+          },
+          "hi": {
+            "line1": "नोयॆल्लाम् नोय्सॆय्दार् मेलवाम् नोय्सॆय्यार्",
+            "line2": "नोयिन्मै वेण्डु पवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லாத் துன்பங்களும் பிறருக்குத் துன்பம் செய்தவர்களையே வந்து சேரும்; ஆதலால் தமக்குத் துன்பம் இல்லாமல் இருக்க விரும்புவோர் பிறருக்குத் துன்பம் செய்யமாட்டார்கள்.",
+        "en": "Every sorrow eventually settles back on the one who caused it—which is why wise people who value peace never inflict harm on others.",
+        "hi": "जो व्यक्ति दूसरों को दुख देता है, वह स्वयं दुख भोगता है; इसलिए अपने दुख को दूर रखने की इच्छा से बुद्धिमान लोग किसी को दुख नहीं देते।"
+      }
+    }
+  ]
+}

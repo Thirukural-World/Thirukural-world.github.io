@@ -1,0 +1,930 @@
+{
+  "chapterNum": 78,
+  "nameTa": "படைச்செருக்கு",
+  "nameEn": "Military Spirit",
+  "nameHi": "सैन्य-साहस",
+  "paal": "பொருட்பால்",
+  "iyal": "அங்கவியல்",
+  "kurals": [
+    {
+      "num": 771,
+      "line1": "என்னைமுன் னில்லன்மின் றெவ்விர் பலரென்னை",
+      "line2": "முன்னின்று கன்னின் றவர்.",
+      "enLine1": "Ye foes! stand not before my lord! for many a one",
+      "enLine2": "Who did my lord withstand, now stands in stone!",
+      "hiLine1": "डटे रहो मत शत्रुओ, मेरे अधिप समक्ष ।",
+      "hiLine2": "डट कर कई शिला हुए, मेरे अधिप समक्ष ॥",
+      "general": "பகைவர்களே, என் தலைவன் முன் போரில் எதிர்த்து நிற்காதீர்கள்; அவனை எதிர்த்து நின்ற பலர் இன்று நடுகல்லாகி நிற்கிறார்கள்.",
+      "en": "O enemies, do not stand before my commander in battle; many who dared to face him now stand only as memorial stones.",
+      "hi": "हे शत्रुओं! मेरे स्वामी के समक्ष युद्ध में मत डटे रहो, क्योंकि उनके सामने डटकर लड़ने वाले अनेक वीर आज स्मारक-शिला (वीर-पत्थर) बन चुके हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "என் ஐ முன் <br>(En ai mun)",
+          "ta": "என் தலைவன் முன்",
+          "en": "Before my lord",
+          "hi": "मेरे अधिप समक्ष"
+        },
+        {
+          "no": 2,
+          "word": "நில்லன்மின் <br>(Nillanmin)",
+          "ta": "நிற்காதீர்கள்",
+          "en": "Stand not",
+          "hi": "डटे रहो मत"
+        },
+        {
+          "no": 3,
+          "word": "தெவ்விர் <br>(Thevvir)",
+          "ta": "பகைவர்களே",
+          "en": "Ye foes",
+          "hi": "शत्रुओ"
+        },
+        {
+          "no": 4,
+          "word": "பலர் <br>(Palar)",
+          "ta": "பலர்",
+          "en": "Many a one",
+          "hi": "कई"
+        },
+        {
+          "no": 5,
+          "word": "என் ஐ முன்னின்று <br>(En ai munnindru)",
+          "ta": "என் தலைவனை எதிர்த்து நின்று",
+          "en": "My lord withstand",
+          "hi": "डट कर समक्ष"
+        },
+        {
+          "no": 6,
+          "word": "கல் <br>(Kal)",
+          "ta": "நடுகல்லாய்",
+          "en": "In stone",
+          "hi": "शिला"
+        },
+        {
+          "no": 7,
+          "word": "நின்றவர் <br>(Nindravar)",
+          "ta": "நிற்கின்றவர் ஆவர்",
+          "en": "Now stands",
+          "hi": "हुए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "என்னைமுன் னில்லன்மின் றெவ்விர் பலரென்னை",
+          "line2": "முன்னின்று கன்னின் றவர்."
+        },
+        "en": {
+          "line1": "Ye foes! stand not before my lord! for many a one",
+          "line2": "Who did my lord withstand, now stands in stone!"
+        },
+        "hi": {
+          "line1": "डटे रहो मत शत्रुओ, मेरे अधिप समक्ष ।",
+          "line2": "डट कर कई शिला हुए, मेरे अधिप समक्ष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ennaimun Nillanmin Revvir Palarennai",
+            "line2": "Munninru Kannin Ravar."
+          },
+          "hi": {
+            "line1": "ऎन्नैमुन् निल्लन्मिन् रॆव्विर् पलरॆन्नै",
+            "line2": "मुन्निन्द्रु कन्निन् रवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைவர்களே, என் தலைவன் முன் போரில் எதிர்த்து நிற்காதீர்கள்; அவனை எதிர்த்து நின்ற பலர் இன்று நடுகல்லாகி நிற்கிறார்கள்.",
+        "en": "Think twice before challenging a proven warrior—his past rivals are remembered only on headstones.",
+        "hi": "हे शत्रुओं! मेरे स्वामी के समक्ष युद्ध में मत डटे रहो, क्योंकि उनके सामने डटकर लड़ने वाले अनेक वीर आज स्मारक-शिला (वीर-पत्थर) बन चुके हैं।"
+      }
+    },
+    {
+      "num": 772,
+      "line1": "கான முயலெய்த வம்பினில் யானை",
+      "line2": "பிழைத்தவே லேந்த லினிது.",
+      "enLine1": "Who aims at elephant, though dart should fail, has greater praise",
+      "enLine2": "Than he who woodland hare with wingèd arrow slays.",
+      "hiLine1": "वन में शश पर जो लगा, धरने से वह बाण ।",
+      "hiLine2": "गज पर चूके भाल को, धरने में है मान ॥",
+      "general": "காட்டு முயலைக் கொன்ற அம்பை ஏந்துவதை விட, யானையின் மேல் எறிந்து தவறிய வேலைக் கையில் ஏந்துவது இனிதானது.",
+      "en": "It is nobler to hold the spear that missed an elephant than the arrow that struck down a woodland hare.",
+      "hi": "वन में खरगोश (शश) पर सटीक लगने वाले बाण को धारण करने की अपेक्षा, हाथी पर चलाकर चूक गए भाले को हाथ में रखना अधिक गौरवपूर्ण है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கான முயல் <br>(Kaana muyal)",
+          "ta": "காட்டு முயலை",
+          "en": "Woodland hare",
+          "hi": "वन में शश पर"
+        },
+        {
+          "no": 2,
+          "word": "எய்த <br>(Eydha)",
+          "ta": "குறி தவறாமல் எய்த",
+          "en": "Slays",
+          "hi": "जो लगा"
+        },
+        {
+          "no": 3,
+          "word": "அம்பினில் <br>(Ambinil)",
+          "ta": "அம்பை விட",
+          "en": "Winged arrow",
+          "hi": "बाण धरने से"
+        },
+        {
+          "no": 4,
+          "word": "யானை <br>(Yaanai)",
+          "ta": "யானையை",
+          "en": "At elephant",
+          "hi": "गज पर"
+        },
+        {
+          "no": 5,
+          "word": "பிழைத்த <br>(Pizhaiththa)",
+          "ta": "குறி தவறிய",
+          "en": "Should fail",
+          "hi": "चूके"
+        },
+        {
+          "no": 6,
+          "word": "வேல் ஏந்தல் <br>(Vel endhal)",
+          "ta": "வேலை ஏந்துதல்",
+          "en": "Dart in hand",
+          "hi": "भाल को धरने में"
+        },
+        {
+          "no": 7,
+          "word": "இனிது <br>(Inidhu)",
+          "ta": "சிறந்தது",
+          "en": "Greater praise",
+          "hi": "है मान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கான முயலெய்த வம்பினில் யானை",
+          "line2": "பிழைத்தவே லேந்த லினிது."
+        },
+        "en": {
+          "line1": "Who aims at elephant, though dart should fail, has greater praise",
+          "line2": "Than he who woodland hare with wingèd arrow slays."
+        },
+        "hi": {
+          "line1": "वन में शश पर जो लगा, धरने से वह बाण ।",
+          "line2": "गज पर चूके भाल को, धरने में है मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaana Muyaleytha Vambinil Yaanai",
+            "line2": "Pizhaiththave Lendha Linidhu."
+          },
+          "hi": {
+            "line1": "कान मुयलॆय्द वम्बिनिल् यानै",
+            "line2": "पिऴैत्तवे लेन्द लिनिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "காட்டு முயலைக் கொன்ற அம்பை ஏந்துவதை விட, யானையின் மேல் எறிந்து தவறிய வேலைக் கையில் ஏந்துவது இனிதானது.",
+        "en": "Aiming big and missing earns more respect than playing it safe on easy targets.",
+        "hi": "वन में खरगोश (शश) पर सटीक लगने वाले बाण को धारण करने की अपेक्षा, हाथी पर चलाकर चूक गए भाले को हाथ में रखना अधिक गौरवपूर्ण है।"
+      }
+    },
+    {
+      "num": 773,
+      "line1": "பேராண்மை யென்ப தறுகணொன் றுற்றக்கா",
+      "line2": "லூராண்மை மற்றத னெஃகு.",
+      "enLine1": "Fierceness in hour of strife heroic greatness shows;",
+      "enLine2": "Its edge is kindness to our suffering foes.",
+      "hiLine1": "निर्दय साहस को कहें, महा धीरता सार ।",
+      "hiLine2": "संकट में उपकार है, उसकी तीक्ष्ण धार ॥",
+      "general": "பகைவரை அஞ்சாமல் எதிர்க்கும் தறுகண்மையைப் பேராண்மை என்பர்; அவர்களுக்குத் துன்பம் வந்தபோது உதவுதல் அவ்வீரவாளின் கூர்மையாகும்.",
+      "en": "Fierce fearlessness in battle is called supreme manliness, and showing mercy to fallen foes in distress is its sharpest edge.",
+      "hi": "युद्ध में निर्भय साहस दिखाने को ही महा धीरता (वीरता का सार) कहते हैं, और संकट में पड़े शत्रु पर उपकार करना उसकी तीक्ष्ण धार है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பேராண்மை <br>(Peraanmai)",
+          "ta": "பெரிய ஆண்மை",
+          "en": "Heroic greatness",
+          "hi": "महा धीरता सार"
+        },
+        {
+          "no": 2,
+          "word": "என்பது <br>(Enbadhu)",
+          "ta": "என்பது",
+          "en": "Shows",
+          "hi": "कहें"
+        },
+        {
+          "no": 3,
+          "word": "தறுகண் <br>(Tharukan)",
+          "ta": "அஞ்சாமை",
+          "en": "Fierceness",
+          "hi": "निर्दय साहस को"
+        },
+        {
+          "no": 4,
+          "word": "ஒன்று உற்றக்கால் <br>(Ondru utrakkaal)",
+          "ta": "பகைவர்க்குத் துன்பம் வந்தபோது",
+          "en": "Suffering foes",
+          "hi": "संकट में"
+        },
+        {
+          "no": 5,
+          "word": "ஊராண்மை <br>(Ooraanmai)",
+          "ta": "உதவி செய்தல்",
+          "en": "Kindness",
+          "hi": "उपकार है"
+        },
+        {
+          "no": 6,
+          "word": "மற்று அதன் <br>(Matru adhan)",
+          "ta": "அதன்",
+          "en": "Its",
+          "hi": "उसकी"
+        },
+        {
+          "no": 7,
+          "word": "எஃகு <br>(Ehgu)",
+          "ta": "கூர்மை ஆகும்",
+          "en": "Edge",
+          "hi": "तीक्ष्ण धार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பேராண்மை யென்ப தறுகணொன் றுற்றக்கா",
+          "line2": "லூராண்மை மற்றத னெஃகு."
+        },
+        "en": {
+          "line1": "Fierceness in hour of strife heroic greatness shows;",
+          "line2": "Its edge is kindness to our suffering foes."
+        },
+        "hi": {
+          "line1": "निर्दय साहस को कहें, महा धीरता सार ।",
+          "line2": "संकट में उपकार है, उसकी तीक्ष्ण धार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Peraanmai Yenpa Tharuganon Rutrakkaa",
+            "line2": "Looraanmai Matradha Nehgu."
+          },
+          "hi": {
+            "line1": "पेराण्मै यॆन्ब दरुगणॊन् रुत्रक्का",
+            "line2": "लूराण्मै मत्रद नॆह्गु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைவரை அஞ்சாமல் எதிர்க்கும் தறுகண்மையைப் பேராண்மை என்பர்; அவர்களுக்குத் துன்பம் வந்தபோது உதவுதல் அவ்வீரவாளின் கூர்மையாகும்.",
+        "en": "True bravery is fierce in the fight, yet magnanimous and compassionate toward a defeated opponent.",
+        "hi": "युद्ध में निर्भय साहस दिखाने को ही महा धीरता (वीरता का सार) कहते हैं, और संकट में पड़े शत्रु पर उपकार करना उसकी तीक्ष्ण धार है।"
+      }
+    },
+    {
+      "num": 774,
+      "line1": "கைவேல் களிற்றொடு போக்கி வருபவன்",
+      "line2": "மெய்வேல் பறியா நகும்.",
+      "enLine1": "At elephant he hurls the dart in hand; for weapon pressed,",
+      "enLine2": "He laughs and plucks the javelin from his wounded breast.",
+      "hiLine1": "कर-भाला गज पर चला, फिरा खोजते अन्य ।",
+      "hiLine2": "खींच भाल छाती लगा, हर्षित हुआ सुधन्य ॥",
+      "general": "கையிலிருந்த வேலை யானையின் மேல் எறிந்துவிட்டு மற்றொரு வேல் தேடி வருபவன், தன் மார்பில் தைத்த வேலைப் பிடுங்கி எடுத்து மகிழ்வான்.",
+      "en": "Having hurled his spear at an elephant and looking for another, the warrior laughs with joy as he pulls the javelin stuck in his own chest.",
+      "hi": "हाथ का भाला हाथी पर चलाकर जब वीर दूसरा शस्त्र खोजने लगा, तो अपनी ही छाती में धँसे भाले को खींचकर वह हर्षित हो उठा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கை வேல் <br>(Kai vel)",
+          "ta": "கையில் இருந்த வேலை",
+          "en": "Dart in hand",
+          "hi": "कर-भाला"
+        },
+        {
+          "no": 2,
+          "word": "களிற்றொடு <br>(Kalitrodu)",
+          "ta": "யானையின் மேல்",
+          "en": "At elephant",
+          "hi": "गज पर"
+        },
+        {
+          "no": 3,
+          "word": "போக்கி <br>(Pokki)",
+          "ta": "எறிந்துவிட்டு",
+          "en": "He hurls",
+          "hi": "चला"
+        },
+        {
+          "no": 4,
+          "word": "வருபவன் <br>(Varubavan)",
+          "ta": "திரும்பி வருபவன்",
+          "en": "Weapon pressed",
+          "hi": "फिरा खोजते अन्य"
+        },
+        {
+          "no": 5,
+          "word": "மெய் வேல் <br>(Mey vel)",
+          "ta": "உடம்பில் தைத்த வேலை",
+          "en": "Javelin from breast",
+          "hi": "भाल छाती लगा"
+        },
+        {
+          "no": 6,
+          "word": "பறியா <br>(Pariyaa)",
+          "ta": "பிடுங்கி எடுத்து",
+          "en": "Plucks",
+          "hi": "खींच"
+        },
+        {
+          "no": 7,
+          "word": "நகும் <br>(Nagum)",
+          "ta": "மகிழ்வான்",
+          "en": "He laughs",
+          "hi": "हर्षित हुआ सुधन्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கைவேல் களிற்றொடு போக்கி வருபவன்",
+          "line2": "மெய்வேல் பறியா நகும்."
+        },
+        "en": {
+          "line1": "At elephant he hurls the dart in hand; for weapon pressed,",
+          "line2": "He laughs and plucks the javelin from his wounded breast."
+        },
+        "hi": {
+          "line1": "कर-भाला गज पर चला, फिरा खोजते अन्य ।",
+          "line2": "खींच भाल छाती लगा, हर्षित हुआ सुधन्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaivel Kalitrodu Pokki Varubavan",
+            "line2": "Meyvel Pariyaa Nagum."
+          },
+          "hi": {
+            "line1": "कैवेल् कळित्रॊडु पोक्कि वरुबवन्",
+            "line2": "मॆय्वेल परिया नगुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கையிலிருந்த வேலை யானையின் மேல் எறிந்துவிட்டு மற்றொரு வேல் தேடி வருபவன், தன் மார்பில் தைத்த வேலைப் பிடுங்கி எடுத்து மகிழ்வான்.",
+        "en": "Out of weapons in the heat of battle, a fearless soldier treats even a spear in his own chest as a fresh weapon to throw.",
+        "hi": "हाथ का भाला हाथी पर चलाकर जब वीर दूसरा शस्त्र खोजने लगा, तो अपनी ही छाती में धँसे भाले को खींचकर वह हर्षित हो उठा।"
+      }
+    },
+    {
+      "num": 775,
+      "line1": "விழித்தகண் வேல்கொண் டெறிய வழித்திமைப்பி",
+      "line2": "னோட்டன்றோ வன்கண் ணவர்க்கு.",
+      "enLine1": "To hero fearless must it not defeat appear,",
+      "enLine2": "If he but wink his eye when foeman hurls his spear.",
+      "hiLine1": "क्रुद्ध नेत्र यदि देख कर, रिपु का भाल-प्रहार ।",
+      "hiLine2": "झपकेंगे तो क्या नहीं, वह वीरों को हार ॥",
+      "general": "பகைவனைச் சினந்து பார்த்த கண், அவன் வேலைக் கொண்டு எறியும்போது இமைத்தாலும் அது வீரர்களுக்குத் தோல்வி அல்லவோ?",
+      "en": "If a warrior's fierce eyes merely blink when an enemy hurls a spear, is that not considered a defeat for the brave?",
+      "hi": "शत्रु के भाले का प्रहार देखकर यदि वीर के क्रुद्ध नेत्र झपक भी जाएँ, तो क्या वह वीरों के लिए हार के समान नहीं है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "விழித்த கண் <br>(Vizhiththa kan)",
+          "ta": "சினந்து பார்த்த கண்",
+          "en": "Eye",
+          "hi": "क्रुद्ध नेत्र"
+        },
+        {
+          "no": 2,
+          "word": "வேல் கொண்டு <br>(Vel kondu)",
+          "ta": "வேலைக் கொண்டு",
+          "en": "Spear",
+          "hi": "भाल-प्रहार"
+        },
+        {
+          "no": 3,
+          "word": "எறிய <br>(Eriya)",
+          "ta": "பகைவன் எறியும்போது",
+          "en": "Foeman hurls",
+          "hi": "रिपु का देख कर"
+        },
+        {
+          "no": 4,
+          "word": "அழித்து இமைப்பின் <br>(Azhiththu imaippin)",
+          "ta": "பார்வை மாறி இமைத்தால்",
+          "en": "But wink",
+          "hi": "यदि झपकेंगे"
+        },
+        {
+          "no": 5,
+          "word": "ஓட்டு அன்றோ <br>(Ottu andro)",
+          "ta": "தோல்வி அல்லவா",
+          "en": "Defeat appear",
+          "hi": "तो क्या नहीं हार"
+        },
+        {
+          "no": 6,
+          "word": "வன்கண்ணவர்க்கு <br>(Vankannavarkku)",
+          "ta": "வீரர்களுக்கு",
+          "en": "To hero fearless",
+          "hi": "वह वीरों को"
+        },
+        {
+          "no": 7,
+          "word": "தோல்வி <br>(Tholvi)",
+          "ta": "தோல்வி",
+          "en": "Defeat",
+          "hi": "हार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விழித்தகண் வேல்கொண் டெறிய வழித்திமைப்பி",
+          "line2": "னோட்டன்றோ வன்கண் ணவர்க்கு."
+        },
+        "en": {
+          "line1": "To hero fearless must it not defeat appear,",
+          "line2": "If he but wink his eye when foeman hurls his spear."
+        },
+        "hi": {
+          "line1": "क्रुद्ध नेत्र यदि देख कर, रिपु का भाल-प्रहार ।",
+          "line2": "झपकेंगे तो क्या नहीं, वह वीरों को हार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vizhiththagan Velkon Deriya Vazhiththimaippi",
+            "line2": "Nottanro Vankan Navarkku."
+          },
+          "hi": {
+            "line1": "विऴित्तगण् वेल्गॊण् डॆरिय वऴित्तिमैप्पि",
+            "line2": "नोट्टन्द्रो वन्कण् णवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைவனைச் சினந்து பார்த்த கண், அவன் வேலைக் கொண்டு எறியும்போது இமைத்தாலும் அது வீரர்களுக்குத் தோல்வி அல்லவோ?",
+        "en": "For a true warrior, even flinching at an incoming blow feels like a loss.",
+        "hi": "शत्रु के भाले का प्रहार देखकर यदि वीर के क्रुद्ध नेत्र झपक भी जाएँ, तो क्या वह वीरों के लिए हार के समान नहीं है?"
+      }
+    },
+    {
+      "num": 776,
+      "line1": "விழுப்புண் படாதநா ளெல்லாம் வழுக்கினுள்",
+      "line2": "வைக்குந் தன்னாளை யெடுத்து.",
+      "enLine1": "The heroes, counting up their days, set down as vain",
+      "enLine2": "Each day when they no glorious wound sustain.",
+      "hiLine1": "'गहरा घाव लगा नहीं', ऐसे दिन सब व्यर्थ ।",
+      "hiLine2": "बीते निज दिन गणन कर, यों मानता समर्थ ॥",
+      "general": "வீரன் தன் வாழ்நாட்களைக் கணக்கிடும்போது, போரில் விழுப்புண் படாத நாட்களை எல்லாம் வீணான நாட்களுள் சேர்த்துக் கொள்வான்.",
+      "en": "Counting the days of his life, a true hero marks as wasted every day on which he received no noble battle wound.",
+      "hi": "समर्थ वीर अपने बीते हुए दिनों की गणना करते हुए उन सभी दिनों को व्यर्थ मानता है, जिनमें उसे युद्ध में कोई गहरा घाव नहीं लगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "விழுப்புண் <br>(Vizhuppun)",
+          "ta": "விழுப்புண்",
+          "en": "Glorious wound",
+          "hi": "गहरा घाव"
+        },
+        {
+          "no": 2,
+          "word": "படாத நாள் <br>(Padaadha naal)",
+          "ta": "படாத நாட்கள்",
+          "en": "Each day",
+          "hi": "लगा नहीं ऐसे दिन"
+        },
+        {
+          "no": 3,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாம்",
+          "en": "All",
+          "hi": "सब"
+        },
+        {
+          "no": 4,
+          "word": "வழுக்கினுள் <br>(Vazhukkinul)",
+          "ta": "வீணான நாட்களுள்",
+          "en": "As vain",
+          "hi": "व्यर्थ"
+        },
+        {
+          "no": 5,
+          "word": "வைக்கும் <br>(Vaikkum)",
+          "ta": "சேர்த்துக் கொள்வான்",
+          "en": "Set down",
+          "hi": "मानता"
+        },
+        {
+          "no": 6,
+          "word": "தன் நாளை <br>(Than naalai)",
+          "ta": "தன் வாழ்நாளை",
+          "en": "Counting up days",
+          "hi": "बीते निज दिन"
+        },
+        {
+          "no": 7,
+          "word": "எடுத்து <br>(Eduththu)",
+          "ta": "எண்ணிப் பார்த்து",
+          "en": "Counting",
+          "hi": "गणन कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விழுப்புண் படாதநா ளெல்லாம் வழுக்கினுள்",
+          "line2": "வைக்குந் தன்னாளை யெடுத்து."
+        },
+        "en": {
+          "line1": "The heroes, counting up their days, set down as vain",
+          "line2": "Each day when they no glorious wound sustain."
+        },
+        "hi": {
+          "line1": "'गहरा घाव लगा नहीं', ऐसे दिन सब व्यर्थ ।",
+          "line2": "बीते निज दिन गणन कर, यों मानता समर्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vizhuppun Padaadhanaa Lellaam Vazhukkinul",
+            "line2": "Vaikkun Thannaalai Yeduththu."
+          },
+          "hi": {
+            "line1": "विऴुप्पुण् पडादना ळॆल्लाम् वऴुक्किनुळ्",
+            "line2": "वैक्कुन् तन्नाळै यॆडुत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வீரன் தன் வாழ்நாட்களைக் கணக்கிடும்போது, போரில் விழுப்புண் படாத நாட்களை எல்லாம் வீணான நாட்களுள் சேர்த்துக் கொள்வான்.",
+        "en": "To a dedicated warrior, any day without real action or scars earned in battle feels like a wasted day.",
+        "hi": "समर्थ वीर अपने बीते हुए दिनों की गणना करते हुए उन सभी दिनों को व्यर्थ मानता है, जिनमें उसे युद्ध में कोई गहरा घाव नहीं लगा।"
+      }
+    },
+    {
+      "num": 777,
+      "line1": "சுழலு மிசைவேண்டி வேண்டா வுயிரார்",
+      "line2": "கழல்யாப்புக் காரிகை நீர்த்து.",
+      "enLine1": "Who seek for world-wide fame, regardless of their life,",
+      "enLine2": "The glorious clasp adorns, sign of heroic strife.",
+      "hiLine1": "जग व्यापी यश चाहते, प्राणों की नहिं चाह ।",
+      "hiLine2": "ऐसों का धरना कड़ा, शोभाकर है, वाह ॥",
+      "general": "உலகம் சுற்றி வரும் புகழை விரும்பித் தம் உயிரையும் பொருட்படுத்தாத வீரர்கள் காலில் வீரக்கழல் கட்டிக்கொள்வது அழகுடையதாகும்.",
+      "en": "For heroes who seek far-reaching fame without caring for their own lives, wearing the warrior's anklet is a fitting ornament.",
+      "hi": "जो अपने प्राणों की परवाह न करके संसार में व्याप्त होने वाला यश चाहते हैं, ऐसे वीरों का पैरों में वीर-कड़ा (कज़ल) पहनना अत्यन्त शोभा देता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சுழலும் <br>(Suzhalum)",
+          "ta": "உலகெங்கும் சுற்றி வரும்",
+          "en": "World-wide",
+          "hi": "जग व्यापी"
+        },
+        {
+          "no": 2,
+          "word": "இசை வேண்டி <br>(Isai vendi)",
+          "ta": "புகழை விரும்பி",
+          "en": "Seek for fame",
+          "hi": "यश चाहते"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டா உயிரார் <br>(Vendaa uyiraar)",
+          "ta": "உயிரை விரும்பாத வீரர்களின்",
+          "en": "Regardless of life",
+          "hi": "प्राणों की नहिं चाह"
+        },
+        {
+          "no": 4,
+          "word": "கழல் யாப்பு <br>(Kazhal yaappu)",
+          "ta": "வீரக்கழல் அணிவது",
+          "en": "Glorious clasp",
+          "hi": "धरना कड़ा"
+        },
+        {
+          "no": 5,
+          "word": "காரிகை <br>(Kaarigai)",
+          "ta": "அழகு",
+          "en": "Adorns",
+          "hi": "शोभाकर है"
+        },
+        {
+          "no": 6,
+          "word": "நீர்த்து <br>(Neerththu)",
+          "ta": "தன்மை உடையது",
+          "en": "Sign of strife",
+          "hi": "वाह"
+        },
+        {
+          "no": 7,
+          "word": "புகழ் <br>(Pugazh)",
+          "ta": "புகழ்",
+          "en": "Fame",
+          "hi": "यश"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சுழலு மிசைவேண்டி வேண்டா வுயிரார்",
+          "line2": "கழல்யாப்புக் காரிகை நீர்த்து."
+        },
+        "en": {
+          "line1": "Who seek for world-wide fame, regardless of their life,",
+          "line2": "The glorious clasp adorns, sign of heroic strife."
+        },
+        "hi": {
+          "line1": "जग व्यापी यश चाहते, प्राणों की नहिं चाह ।",
+          "line2": "ऐसों का धरना कड़ा, शोभाकर है, वाह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Suzhalu Misaivendi Vendaa Vuyiraar",
+            "line2": "Kazhalyaappuk Kaarigai Neerththu."
+          },
+          "hi": {
+            "line1": "सुऴलु मिसैवेण्डि वेण्डा वुयिरार्",
+            "line2": "कऴल्याप्पुक् कारिगै नीर्त्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உலகம் சுற்றி வரும் புகழை விரும்பித் தம் உயிரையும் பொருட்படுத்தாத வீரர்கள் காலில் வீரக்கழல் கட்டிக்கொள்வது அழகுடையதாகும்.",
+        "en": "Badges of honor truly belong only to those willing to put everything on the line for lasting renown.",
+        "hi": "जो अपने प्राणों की परवाह न करके संसार में व्याप्त होने वाला यश चाहते हैं, ऐसे वीरों का पैरों में वीर-कड़ा (कज़ल) पहनना अत्यन्त शोभा देता है।"
+      }
+    },
+    {
+      "num": 778,
+      "line1": "உறினுயி ரஞ்சா மறவ ரிறைவன்",
+      "line2": "செறினுஞ்சீர் குன்ற லிலர்.",
+      "enLine1": "Fearless they rush where'er 'the tide of battle rolls';",
+      "enLine2": "The king's reproof damps not the ardour of their eager souls.",
+      "hiLine1": "प्राण-भय-रहित वीर जो, जब छिड़ता है युद्ध ।",
+      "hiLine2": "साहस खो कर ना रुकें, नृप भी रोकें क्रुद्ध ॥",
+      "general": "போர் வந்தால் உயிருக்கு அஞ்சாத வீரர்கள், அரசன் சினந்து தடுத்தாலும் தம் வீரச் சிறப்பு குறையாமல் போரிடுவார்கள்.",
+      "en": "Brave warriors who do not fear for their lives in battle never lose their ardor, even if the king himself reproves them.",
+      "hi": "युद्ध छिड़ने पर जो वीर प्राणों के भय से रहित होते हैं, वे राजा के क्रोधित होकर रोकने पर भी अपना साहस खोकर नहीं रुकते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உறின் <br>(Urin)",
+          "ta": "போர் வந்தால்",
+          "en": "Battle rolls",
+          "hi": "जब छिड़ता है युद्ध"
+        },
+        {
+          "no": 2,
+          "word": "உயிர் அஞ்சா <br>(Uyir anjaa)",
+          "ta": "உயிருக்கு அஞ்சாத",
+          "en": "Fearless",
+          "hi": "प्राण-भय-रहित"
+        },
+        {
+          "no": 3,
+          "word": "மறவர் <br>(Maravar)",
+          "ta": "வீரர்கள்",
+          "en": "Eager souls",
+          "hi": "वीर जो"
+        },
+        {
+          "no": 4,
+          "word": "இறைவன் <br>(Iraivan)",
+          "ta": "அரசன்",
+          "en": "The king's",
+          "hi": "नृप भी"
+        },
+        {
+          "no": 5,
+          "word": "செறினும் <br>(Serinum)",
+          "ta": "சினந்து தடுத்தாலும்",
+          "en": "Reproof",
+          "hi": "रोकें क्रुद्ध"
+        },
+        {
+          "no": 6,
+          "word": "சீர் <br>(Seer)",
+          "ta": "தம் வீரச் சிறப்பு",
+          "en": "Ardour",
+          "hi": "साहस"
+        },
+        {
+          "no": 7,
+          "word": "குன்றல் இலர் <br>(Kundral ilar)",
+          "ta": "குறைய மாட்டார்கள்",
+          "en": "Damps not",
+          "hi": "खो कर ना रुकें"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உறினுயி ரஞ்சா மறவ ரிறைவன்",
+          "line2": "செறினுஞ்சீர் குன்ற லிலர்."
+        },
+        "en": {
+          "line1": "Fearless they rush where'er 'the tide of battle rolls';",
+          "line2": "The king's reproof damps not the ardour of their eager souls."
+        },
+        "hi": {
+          "line1": "प्राण-भय-रहित वीर जो, जब छिड़ता है युद्ध ।",
+          "line2": "साहस खो कर ना रुकें, नृप भी रोकें क्रुद्ध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Urinuyi Ranjaa Marava Riraivan",
+            "line2": "Serinunjeer Kunra Lilar."
+          },
+          "hi": {
+            "line1": "उरिनुयि रञ्जा मरव रिरैवन्",
+            "line2": "सॆरिनुञ्जीर् कुन्द्र लिलर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "போர் வந்தால் உயிருக்கு அஞ்சாத வீரர்கள், அரசன் சினந்து தடுத்தாலும் தம் வீரச் சிறப்பு குறையாமல் போரிடுவார்கள்.",
+        "en": "Fierce fighters stay fired up even when leadership tries to hold them back.",
+        "hi": "युद्ध छिड़ने पर जो वीर प्राणों के भय से रहित होते हैं, वे राजा के क्रोधित होकर रोकने पर भी अपना साहस खोकर नहीं रुकते।"
+      }
+    },
+    {
+      "num": 779,
+      "line1": "இழைத்த திகவாமைச் சாவாரை யாரே",
+      "line2": "பிழைத்த தொறுக்கிற் பவர்.",
+      "enLine1": "Who says they err, and visits them with scorn,",
+      "enLine2": "Who die and faithful guard the vow they've sworn?",
+      "hiLine1": "प्रण रखने हित प्राण भी, छोड़ेंगे जो चण्ड ।",
+      "hiLine2": "कौन उन्हें प्रण-भंग का, दे सकता है दण्ड ॥",
+      "general": "தாம் செய்த சபதத்தைத் தவறாமல் காத்து உயிர் விடும் வீரர்களைப் பார்த்துத் தவறு செய்தார் என்று இகழ்பவர் யார்?",
+      "en": "Who can dare accuse of failure those heroes who give up their lives faithfully keeping the vow they swore?",
+      "hi": "अपना प्रण (प्रतिज्ञा) निभाने के लिए जो प्रचण्ड वीर अपने प्राण भी त्याग देते हैं, उन्हें भला प्रण-भंग का दण्ड कौन दे सकता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "இழைத்தது <br>(Izhaiththadhu)",
+          "ta": "செய்த சபதத்தை",
+          "en": "Vow they've sworn",
+          "hi": "प्रण"
+        },
+        {
+          "no": 2,
+          "word": "இகவாமை <br>(Igavaamai)",
+          "ta": "தவறாமல் காத்து",
+          "en": "Faithful guard",
+          "hi": "रखने हित"
+        },
+        {
+          "no": 3,
+          "word": "சாவாரை <br>(Saavaarai)",
+          "ta": "உயிர் விடும் வீரரை",
+          "en": "Who die",
+          "hi": "प्राण भी छोड़ेंगे जो चण्ड"
+        },
+        {
+          "no": 4,
+          "word": "யாரே <br>(Yaare)",
+          "ta": "யார் தான்",
+          "en": "Who",
+          "hi": "कौन"
+        },
+        {
+          "no": 5,
+          "word": "பிழைத்தது <br>(Pizhaiththadhu)",
+          "ta": "தவறு செய்ததாக",
+          "en": "Says they err",
+          "hi": "प्रण-भंग का"
+        },
+        {
+          "no": 6,
+          "word": "ஒறுக்கிற்பவர் <br>(Orukkirpavar)",
+          "ta": "பழிப்பவர்",
+          "en": "Visits with scorn",
+          "hi": "दे सकता है दण्ड"
+        },
+        {
+          "no": 7,
+          "word": "சபதம் <br>(Sabadham)",
+          "ta": "சபதம்",
+          "en": "Vow",
+          "hi": "प्रतिज्ञा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இழைத்த திகவாமைச் சாவாரை யாரே",
+          "line2": "பிழைத்த தொறுக்கிற் பவர்."
+        },
+        "en": {
+          "line1": "Who says they err, and visits them with scorn,",
+          "line2": "Who die and faithful guard the vow they've sworn?"
+        },
+        "hi": {
+          "line1": "प्रण रखने हित प्राण भी, छोड़ेंगे जो चण्ड ।",
+          "line2": "कौन उन्हें प्रण-भंग का, दे सकता है दण्ड ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Izhaiththa Thigavaamais Saavaarai Yaare",
+            "line2": "Pizhaiththa Thorukkir Pavar."
+          },
+          "hi": {
+            "line1": "इऴैत्त दिगवामैच् सावारै यारे",
+            "line2": "पिऴैत्त दॊरुक्किर पवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தாம் செய்த சபதத்தைத் தவறாமல் காத்து உயிர் விடும் வீரர்களைப் பார்த்துத் தவறு செய்தார் என்று இகழ்பவர் யார்?",
+        "en": "No one can fault someone who keeps their word right to the end.",
+        "hi": "अपना प्रण (प्रतिज्ञा) निभाने के लिए जो प्रचण्ड वीर अपने प्राण भी त्याग देते हैं, उन्हें भला प्रण-भंग का दण्ड कौन दे सकता है?"
+      }
+    },
+    {
+      "num": 780,
+      "line1": "புரந்தார்கண் ணீர்மல்கச் சாகிற்பிற் சாக்கா",
+      "line2": "டிரந்துகோட் டக்க துடைத்து.",
+      "enLine1": "If monarch's eyes o'erflow with tears for hero slain,",
+      "enLine2": "Who would not beg such boon of glorious death to gain?",
+      "hiLine1": "दृग भर आये भूप के, सुन जिसका देहांत ।",
+      "hiLine2": "ग्रहण योग्य है माँग कर, उसका जैसा अंत ॥",
+      "general": "தம்மைக் காத்த அரசனின் கண்கள் நீரால் நிரம்பும்படி போரில் வீர மரணம் அடைவது கிடைத்தால், அந்தச் சாவு இரந்து கேட்டுப் பெறத்தக்க பெருமையுடையது.",
+      "en": "If one can die in battle such that the ruler's eyes fill with tears of grief, that death is worth begging for as a boon.",
+      "hi": "जिस वीर का देहान्त सुनकर राजा के नेत्रों में आँसू भर आएँ, उस वीर जैसी मृत्यु तो माँगकर भी स्वीकार करने योग्य है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "புரந்தார் <br>(Purandhaar)",
+          "ta": "காத்த அரசனின்",
+          "en": "Monarch's",
+          "hi": "भूप के"
+        },
+        {
+          "no": 2,
+          "word": "கண் நீர் மல்க <br>(Kan neer malga)",
+          "ta": "கண்கள் நீரால் நிரம்ப",
+          "en": "Eyes o'erflow with tears",
+          "hi": "दृग भर आये"
+        },
+        {
+          "no": 3,
+          "word": "சாகிற்பின் <br>(Saagirpin)",
+          "ta": "வீர மரணம் அடைந்தால்",
+          "en": "For hero slain",
+          "hi": "सुन जिसका देहांत"
+        },
+        {
+          "no": 4,
+          "word": "சாக்காடு <br>(Saakkaadu)",
+          "ta": "அந்தச் சாவு",
+          "en": "Glorious death",
+          "hi": "उसका जैसा अंत"
+        },
+        {
+          "no": 5,
+          "word": "இரந்து <br>(Irandhu)",
+          "ta": "இரந்து கேட்டுப்",
+          "en": "Would beg",
+          "hi": "माँग कर"
+        },
+        {
+          "no": 6,
+          "word": "கோட்டக்கது <br>(Kottakkadhu)",
+          "ta": "பெறத்தக்க பெருமை",
+          "en": "Boon to gain",
+          "hi": "ग्रहण योग्य है"
+        },
+        {
+          "no": 7,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "உடையது ஆகும்",
+          "en": "Has",
+          "hi": "है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புரந்தார்கண் ணீர்மல்கச் சாகிற்பிற் சாக்கா",
+          "line2": "டிரந்துகோட் டக்க துடைத்து."
+        },
+        "en": {
+          "line1": "If monarch's eyes o'erflow with tears for hero slain,",
+          "line2": "Who would not beg such boon of glorious death to gain?"
+        },
+        "hi": {
+          "line1": "दृग भर आये भूप के, सुन जिसका देहांत ।",
+          "line2": "ग्रहण योग्य है माँग कर, उसका जैसा अंत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Purandhaarkan Neermalkas Saagirpir Saakkaa",
+            "line2": "Dirandhugot Dakka Thudaiththu."
+          },
+          "hi": {
+            "line1": "पुरन्दार्गण् णीर्मल्गच् सागिर्पिर् साक्का",
+            "line2": "डिरन्दुगोट् टक्क दुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம்மைக் காத்த அரசனின் கண்கள் நீரால் நிரம்பும்படி போரில் வீர மரணம் அடைவது கிடைத்தால், அந்தச் சாவு இரந்து கேட்டுப் பெறத்தக்க பெருமையுடையது.",
+        "en": "To serve so faithfully that your leader genuinely mourns your loss is the highest honor a warrior can earn.",
+        "hi": "जिस वीर का देहान्त सुनकर राजा के नेत्रों में आँसू भर आएँ, उस वीर जैसी मृत्यु तो माँगकर भी स्वीकार करने योग्य है।"
+      }
+    }
+  ]
+}

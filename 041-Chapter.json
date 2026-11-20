@@ -1,0 +1,930 @@
+{
+  "chapterNum": 41,
+  "nameTa": "கல்லாமை",
+  "nameEn": "Ignorance",
+  "nameHi": "अशिक्षा",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 401,
+      "line1": "அரங்கின்றி வட்டாடி யற்றே நிரம்பிய",
+      "line2": "நூலின்றிக் கோட்டிக் கொளல்.",
+      "enLine1": "Like those at draughts would play without the checquered square,",
+      "enLine2": "Men void of ample lore would counsels of the learned share.",
+      "hiLine1": "सभा-मध्य यों बोलना, बिना पढ़े सदग्रन्थ ।",
+      "hiLine2": "है पासे का खेल ज्यों, बिन चौसर का बंध ॥",
+      "general": "நிரம்பிய நூலறிவு இல்லாமல் அறிஞர் அவையில் பேசத் துணிவது, அரங்கு (கட்டம்) இல்லாமல் வட்டாடுவதைப் போன்றதாகும்.",
+      "en": "Attempting to speak in an assembly of scholars without thorough knowledge of books is like playing dice without a game board.",
+      "hi": "बिना सद्ग्रंथों का अध्ययन किए विद्वानों की सभा के बीच बोलने का प्रयास करना वैसा ही है, जैसे बिना चौसर बिछाए पासे का खेल खेलना।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அரங்கு இன்றி <br>(Arangu indri)",
+          "ta": "அரங்கு (கட்டம்) இல்லாமல்",
+          "en": "Without checquered square",
+          "hi": "बिन चौसर का बंध"
+        },
+        {
+          "no": 2,
+          "word": "வட்டாடி <br>(Vattaadi)",
+          "ta": "வட்டாடியது",
+          "en": "At draughts play",
+          "hi": "पासे का खेल"
+        },
+        {
+          "no": 3,
+          "word": "அற்றே <br>(Atre)",
+          "ta": "போன்றதே",
+          "en": "Like",
+          "hi": "ज्यों है"
+        },
+        {
+          "no": 4,
+          "word": "நிரம்பிய <br>(Nirambiya)",
+          "ta": "நிறைந்த",
+          "en": "Ample",
+          "hi": "पढ़े हुए"
+        },
+        {
+          "no": 5,
+          "word": "நூல் இன்றி <br>(Nool indri)",
+          "ta": "நூலறிவு இல்லாமல்",
+          "en": "Void of lore",
+          "hi": "बिना सदग्रन्थ"
+        },
+        {
+          "no": 6,
+          "word": "கோட்டி <br>(Kotti)",
+          "ta": "அவையில்",
+          "en": "Counsels of learned",
+          "hi": "सभा-मध्य"
+        },
+        {
+          "no": 7,
+          "word": "கொளல் <br>(Kolal)",
+          "ta": "பேசுதல்",
+          "en": "Share / speak",
+          "hi": "बोलना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அரங்கின்றி வட்டாடி யற்றே நிரம்பிய",
+          "line2": "நூலின்றிக் கோட்டிக் கொளல்."
+        },
+        "en": {
+          "line1": "Like those at draughts would play without the checquered square,",
+          "line2": "Men void of ample lore would counsels of the learned share."
+        },
+        "hi": {
+          "line1": "सभा-मध्य यों बोलना, बिना पढ़े सदग्रन्थ ।",
+          "line2": "है पासे का खेल ज्यों, बिन चौसर का बंध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arangindri Vattaadi Yatre Nirambiya",
+            "line2": "Noolindrik Kottik Kolal."
+          },
+          "hi": {
+            "line1": "अरङ्गिन्द्रि वट्टाडि यत्रे निरम्बिय",
+            "line2": "नूलिन्द्रिक् कोट्टिक् कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நிரம்பிய நூலறிவு இல்லாமல் அறிஞர் அவையில் பேசத் துணிவது, அரங்கு (கட்டம்) இல்லாமல் வட்டாடுவதைப் போன்றதாகும்.",
+        "en": "Trying to debate in a learned assembly without solid study is like rolling dice without a board to play on.",
+        "hi": "बिना सद्ग्रंथों का अध्ययन किए विद्वानों की सभा के बीच बोलने का प्रयास करना वैसा ही है, जैसे बिना चौसर बिछाए पासे का खेल खेलना।"
+      }
+    },
+    {
+      "num": 402,
+      "line1": "கல்லாதான் சொற்கா முறுதன் முலையிரண்டு",
+      "line2": "மில்லாதாள் பெண்காமுற் றற்று.",
+      "enLine1": "Like those who doat on hoyden's undeveloped charms are they,",
+      "enLine2": "Of learning void, who eagerly their power of words display.",
+      "hiLine1": "यों है अपढ़ मनुष्य की, भाषण-पटुता-चाह ।",
+      "hiLine2": "ज्यों दोनों कुचरहित की, स्त्रीत्व-भोग की चाह ॥",
+      "general": "கல்வி கற்காதவன் அவையில் பேச விரும்புதல், மார்பகம் இல்லாத பெண் பெண்மை இன்பத்தை விரும்புவது போன்றதாகும்.",
+      "en": "An unlearned person's eagerness to make speeches is like a woman lacking full womanhood desiring the pleasures of beauty.",
+      "hi": "अनपढ़ मनुष्य की भाषण-पटुता (बोलने की चतुरता) की चाह वैसी ही है, जैसे बिना स्तनों वाली स्त्री के स्त्रीत्व-भोग की चाह।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கல்லாதான் <br>(Kallaadhaan)",
+          "ta": "கல்வி கற்காதவன்",
+          "en": "Of learning void",
+          "hi": "अपढ़ मनुष्य की"
+        },
+        {
+          "no": 2,
+          "word": "சொல் <br>(Sol)",
+          "ta": "பேச",
+          "en": "Power of words",
+          "hi": "भाषण-पटुता"
+        },
+        {
+          "no": 3,
+          "word": "காமுறுதல் <br>(Kaamurudhal)",
+          "ta": "விரும்புதல்",
+          "en": "Eagerly display",
+          "hi": "चाह"
+        },
+        {
+          "no": 4,
+          "word": "முலை இரண்டும் <br>(Mulai irandum)",
+          "ta": "இரு மார்பகங்களும்",
+          "en": "Undeveloped charms",
+          "hi": "दोनों कुच"
+        },
+        {
+          "no": 5,
+          "word": "இல்லாதாள் <br>(Illaadhaal)",
+          "ta": "இல்லாதவள்",
+          "en": "Hoyden / lacking",
+          "hi": "रहित की"
+        },
+        {
+          "no": 6,
+          "word": "பெண் <br>(Pen)",
+          "ta": "பெண்மையை",
+          "en": "Womanhood",
+          "hi": "स्त्रीत्व-भोग की"
+        },
+        {
+          "no": 7,
+          "word": "காமுற்றற்று <br>(Kaamutratru)",
+          "ta": "விரும்பியது போன்றது",
+          "en": "Doat on / like",
+          "hi": "चाह ज्यों है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கல்லாதான் சொற்கா முறுதன் முலையிரண்டு",
+          "line2": "மில்லாதாள் பெண்காமுற் றற்று."
+        },
+        "en": {
+          "line1": "Like those who doat on hoyden's undeveloped charms are they,",
+          "line2": "Of learning void, who eagerly their power of words display."
+        },
+        "hi": {
+          "line1": "यों है अपढ़ मनुष्य की, भाषण-पटुता-चाह ।",
+          "line2": "ज्यों दोनों कुचरहित की, स्त्रीत्व-भोग की चाह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kallaadhaan Sorkaa Murudhal Mulaiyirandu",
+            "line2": "Millaadhaal Penkaamut Ratru."
+          },
+          "hi": {
+            "line1": "कल्लादान् सॊर्का मुरुदन् मुलैयिरण्डु",
+            "line2": "मिल्लादाळ् पॆण्कामुर् रत्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கல்வி கற்காதவன் அவையில் பேச விரும்புதல், மார்பகம் இல்லாத பெண் பெண்மை இன்பத்தை விரும்புவது போன்றதாகும்.",
+        "en": "An uneducated person longing to show off their eloquence is as mismatched and futile as longing for maturity where the substance isn't there.",
+        "hi": "अनपढ़ मनुष्य की भाषण-पटुता (बोलने की चतुरता) की चाह वैसी ही है, जैसे बिना स्तनों वाली स्त्री के स्त्रीत्व-भोग की चाह।"
+      }
+    },
+    {
+      "num": 403,
+      "line1": "கல்லா தவரு நனிநல்லர் கற்றார்முற்",
+      "line2": "சொல்லா திருக்கப் பெறின்.",
+      "enLine1": "The blockheads, too, may men of worth appear,",
+      "enLine2": "If they can keep from speaking where the learned hear!",
+      "hiLine1": "अपढ़ लोग भी मानिये, उत्तम गुण का भौन ।",
+      "hiLine2": "विद्वानों के सामने, यदि साधेंगे मौन ॥",
+      "general": "கல்வி கற்காதவர்களும், கற்றவர்கள் முன்னே பேசாமல் அமைதியாக இருக்கப் பெற்றால் மிகவும் நல்லவர்களாக மதிக்கப்படுவர்.",
+      "en": "Even the unlearned are regarded as very worthy people, provided they refrain from speaking in the presence of the learned.",
+      "hi": "यदि अनपढ़ लोग भी विद्वानों के सामने मौन साध लें (चुप रहें), तो उन्हें भी उत्तम गुणों का घर (भवन) ही मानिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கல்லாதவரும் <br>(Kallaadhavarum)",
+          "ta": "கல்லாதவர்களும்",
+          "en": "The blockheads, too",
+          "hi": "अपढ़ लोग भी"
+        },
+        {
+          "no": 2,
+          "word": "நனி நல்லர் <br>(Nani nallar)",
+          "ta": "மிக நல்லவர்",
+          "en": "Men of worth",
+          "hi": "उत्तम गुण का भौन"
+        },
+        {
+          "no": 3,
+          "word": "கற்றார் முன் <br>(Katraar mun)",
+          "ta": "கற்றவர் முன்னே",
+          "en": "Where learned hear",
+          "hi": "विद्वानों के सामने"
+        },
+        {
+          "no": 4,
+          "word": "சொல்லாது <br>(Sollaadhu)",
+          "ta": "பேசாமல்",
+          "en": "Keep from speaking",
+          "hi": "मौन"
+        },
+        {
+          "no": 5,
+          "word": "இருக்க <br>(Irukka)",
+          "ta": "இருக்க",
+          "en": "Remain",
+          "hi": "साधेंगे"
+        },
+        {
+          "no": 6,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "பெற்றால்",
+          "en": "If they can",
+          "hi": "यदि"
+        },
+        {
+          "no": 7,
+          "word": "நனி <br>(Nani)",
+          "ta": "மிகவும்",
+          "en": "Very",
+          "hi": "मानिये"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கல்லா தவரு நனிநல்லர் கற்றார்முற்",
+          "line2": "சொல்லா திருக்கப் பெறின்."
+        },
+        "en": {
+          "line1": "The blockheads, too, may men of worth appear,",
+          "line2": "If they can keep from speaking where the learned hear!"
+        },
+        "hi": {
+          "line1": "अपढ़ लोग भी मानिये, उत्तम गुण का भौन ।",
+          "line2": "विद्वानों के सामने, यदि साधेंगे मौन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kallaa Dhavaru Naninallar Katraarmur",
+            "line2": "Sollaa Thirukkap Perin."
+          },
+          "hi": {
+            "line1": "कल्ला दवरु ननिनल्लर् कत्रार्मुर्",
+            "line2": "सॊल्ला तिरुक्कप् पॆरिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கல்வி கற்காதவர்களும், கற்றவர்கள் முன்னே பேசாமல் அமைதியாக இருக்கப் பெற்றால் மிகவும் நல்லவர்களாக மதிக்கப்படுவர்.",
+        "en": "Even people without formal learning earn genuine respect if they simply have the wisdom to stay quiet in front of scholars.",
+        "hi": "यदि अनपढ़ लोग भी विद्वानों के सामने मौन साध लें (चुप रहें), तो उन्हें भी उत्तम गुणों का घर (भवन) ही मानिए।"
+      }
+    },
+    {
+      "num": 404,
+      "line1": "கல்லாதா னொட்பங் கழியநன் றாயினுங்",
+      "line2": "கொள்ளா ரறிவுடை யார்.",
+      "enLine1": "From blockheads' lips, when words of wisdom glibly flow,",
+      "enLine2": "The wise receive them not, though good they seem to show.",
+      "hiLine1": "बहूत श्रेष्ठ ही क्यों न हो, कभी मूर्ख का ज्ञान ।",
+      "hiLine2": "विद्वज्जन का तो उसे, नहीं मिलेगा मान ॥",
+      "general": "கல்வி கற்காதவனது அறிவுடைமை மிகவும் நல்லதாகத் தோன்றினாலும், அறிவுடையவர்கள் அதனை ஏற்றுக்கொள்ள மாட்டார்கள்.",
+      "en": "Even if the cleverness of an unlearned person appears exceedingly good, the wise will not accept it as genuine.",
+      "hi": "मूर्ख (अशिक्षित) व्यक्ति का ज्ञान चाहे कितना भी श्रेष्ठ क्यों न प्रतीत होता हो, विद्वज्जन से उसे कभी मान-सम्मान नहीं मिलेगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கல்லாதான் <br>(Kallaadhaan)",
+          "ta": "கல்லாதவனது",
+          "en": "From blockheads",
+          "hi": "मूर्ख का"
+        },
+        {
+          "no": 2,
+          "word": "ஒட்பம் <br>(Otpam)",
+          "ta": "அறிவுடைமை",
+          "en": "Words of wisdom",
+          "hi": "ज्ञान"
+        },
+        {
+          "no": 3,
+          "word": "கழிய <br>(Kazhiya)",
+          "ta": "மிகவும்",
+          "en": "Exceedingly",
+          "hi": "बहूत"
+        },
+        {
+          "no": 4,
+          "word": "நன்று ஆயினும் <br>(Nandru aayinum)",
+          "ta": "நல்லதாயினும்",
+          "en": "Though good",
+          "hi": "श्रेष्ठ ही क्यों न हो"
+        },
+        {
+          "no": 5,
+          "word": "கொள்ளார் <br>(Kollaar)",
+          "ta": "ஏற்றுக்கொள்ளார்",
+          "en": "Receive not",
+          "hi": "नहीं मिलेगा मान"
+        },
+        {
+          "no": 6,
+          "word": "அறிவுடையார் <br>(Arivudaiyaar)",
+          "ta": "அறிவுடையோர்",
+          "en": "The wise",
+          "hi": "विद्वज्जन का"
+        },
+        {
+          "no": 7,
+          "word": "ஆயினும் <br>(Aayinum)",
+          "ta": "இருந்தாலும்",
+          "en": "Even when",
+          "hi": "तो भी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கல்லாதா னொட்பங் கழியநன் றாயினுங்",
+          "line2": "கொள்ளா ரறிவுடை யார்."
+        },
+        "en": {
+          "line1": "From blockheads' lips, when words of wisdom glibly flow,",
+          "line2": "The wise receive them not, though good they seem to show."
+        },
+        "hi": {
+          "line1": "बहूत श्रेष्ठ ही क्यों न हो, कभी मूर्ख का ज्ञान ।",
+          "line2": "विद्वज्जन का तो उसे, नहीं मिलेगा मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kallaadhaa Notpang Kazhiyanan Raayinung",
+            "line2": "Kollaa Rarivudai Yaar."
+          },
+          "hi": {
+            "line1": "कल्लादा नॊट्पङ् कऴियनन् रायिनुङ्",
+            "line2": "कॊळ्ळा ररिवुडै यार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கல்வி கற்காதவனது அறிவுடைமை மிகவும் நல்லதாகத் தோன்றினாலும், அறிவுடையவர்கள் அதனை ஏற்றுக்கொள்ள மாட்டார்கள்.",
+        "en": "Even when an uneducated person happens to say something clever, true scholars don't take it seriously.",
+        "hi": "मूर्ख (अशिक्षित) व्यक्ति का ज्ञान चाहे कितना भी श्रेष्ठ क्यों न प्रतीत होता हो, विद्वज्जन से उसे कभी मान-सम्मान नहीं मिलेगा।"
+      }
+    },
+    {
+      "num": 405,
+      "line1": "கல்லா வொருவன் றகைமை தலைப்பெய்து",
+      "line2": "சொல்லாடச் சோர்வு படும்.",
+      "enLine1": "As worthless shows the worth of man unlearned,",
+      "enLine2": "When council meets, by words he speaks discerned.",
+      "hiLine1": "माने यदि कोई अपढ़, बुद्धिमान ही आप ।",
+      "hiLine2": "मिटे भाव वह जब करें, बुध से वार्तालाप ॥",
+      "general": "கல்வி கற்காத ஒருவன் தன்னைப் பெருமையுடையவனாகக் கருதிக்கொண்டாலும், கற்றவர்களோடு கூடிப் பேசும்போது அவன் பெருமை கெட்டுப்போகும்.",
+      "en": "The self-assumed greatness of an unlearned man collapses the moment he meets scholars and engages in conversation.",
+      "hi": "यदि कोई अनपढ़ व्यक्ति स्वयं को बहुत बुद्धिमान मानता हो, तो विद्वानों के साथ वार्तालाप करते ही उसका वह झूठा अभिमान मिट जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கல்லா ஒருவன் <br>(Kallaa oruvan)",
+          "ta": "கல்லாத ஒருவனது",
+          "en": "Man unlearned",
+          "hi": "कोई अपढ़"
+        },
+        {
+          "no": 2,
+          "word": "தகைமை <br>(Thagaimai)",
+          "ta": "பெருமை (மதிப்பு)",
+          "en": "Worth",
+          "hi": "बुद्धिमान ही आप माने"
+        },
+        {
+          "no": 3,
+          "word": "தலைப்பெய்து <br>(Thalaippeydhu)",
+          "ta": "கற்றவரோடு கூடி",
+          "en": "When council meets",
+          "hi": "बुध से"
+        },
+        {
+          "no": 4,
+          "word": "சொல்லாட <br>(Sollaada)",
+          "ta": "பேசும்போது",
+          "en": "By words he speaks",
+          "hi": "जब करें वार्तालाप"
+        },
+        {
+          "no": 5,
+          "word": "சோர்வு <br>(Sorvu)",
+          "ta": "குறைவு (தாழ்வு)",
+          "en": "Worthless",
+          "hi": "मिटे भाव वह"
+        },
+        {
+          "no": 6,
+          "word": "படும் <br>(Padum)",
+          "ta": "உண்டாகும்",
+          "en": "Shows / discerned",
+          "hi": "मिट जाता है"
+        },
+        {
+          "no": 7,
+          "word": "ஒருவன் <br>(Oruvan)",
+          "ta": "ஒருவன்",
+          "en": "One",
+          "hi": "कोई"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கல்லா வொருவன் றகைமை தலைப்பெய்து",
+          "line2": "சொல்லாடச் சோர்வு படும்."
+        },
+        "en": {
+          "line1": "As worthless shows the worth of man unlearned,",
+          "line2": "When council meets, by words he speaks discerned."
+        },
+        "hi": {
+          "line1": "माने यदि कोई अपढ़, बुद्धिमान ही आप ।",
+          "line2": "मिटे भाव वह जब करें, बुध से वार्तालाप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kallaa Oruvan Thagaimai Thalaippeydhu",
+            "line2": "Sollaadach Sorvu Padum."
+          },
+          "hi": {
+            "line1": "कल्ला वॊरुवन् रगैमै तलैप्पॆय्दु",
+            "line2": "सॊल्लाडच् सोर्वु पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கல்வி கற்காத ஒருவன் தன்னைப் பெருமையுடையவனாகக் கருதிக்கொண்டாலும், கற்றவர்களோடு கூடிப் பேசும்போது அவன் பெருமை கெட்டுப்போகும்.",
+        "en": "An uneducated person's inflated sense of prestige crumbles the instant they try to hold a conversation with the learned.",
+        "hi": "यदि कोई अनपढ़ व्यक्ति स्वयं को बहुत बुद्धिमान मानता हो, तो विद्वानों के साथ वार्तालाप करते ही उसका वह झूठा अभिमान मिट जाता है।"
+      }
+    },
+    {
+      "num": 406,
+      "line1": "உளரென்னு மாத்திரைய ரல்லாற் பயவாக்",
+      "line2": "களரனையர் கல்லா தவர்.",
+      "enLine1": "'They are': so much is true of men untaught;",
+      "enLine2": "But, like a barren field, they yield us nought!",
+      "hiLine1": "जीवित मात्र रहा अपढ़, और न कुछ वह, जान ।",
+      "hiLine2": "उत्पादक जो ना रही, ऊसर भूमि समान ॥",
+      "general": "கல்வி கற்காதவர்கள் 'உயிரோடு இருக்கிறார்கள்' என்று சொல்லும் அளவினரே அல்லாமல், விளைச்சல் தராத களர் நிலத்தைப் போன்றவர் ஆவர்.",
+      "en": "Of the unlearned, one can only say that they merely exist; otherwise, they are like barren land that yields no harvest.",
+      "hi": "अनपढ़ व्यक्ति केवल जीवित मात्र रहता है, इसके सिवा वह और कुछ नहीं—यह जान लो कि वह किसी काम की न रहने वाली ऊसर भूमि के समान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உளர் என்னும் <br>(Ular ennum)",
+          "ta": "உயிரோடு உள்ளார் என்னும்",
+          "en": "'They are'",
+          "hi": "जीवित मात्र रहा"
+        },
+        {
+          "no": 2,
+          "word": "மாத்திரையர் <br>(Maaththiraiyar)",
+          "ta": "அளவினரே",
+          "en": "So much is true",
+          "hi": "और न कुछ वह"
+        },
+        {
+          "no": 3,
+          "word": "அல்லால் <br>(Allaal)",
+          "ta": "அல்லாமல்",
+          "en": "But",
+          "hi": "जान"
+        },
+        {
+          "no": 4,
+          "word": "பயவா <br>(Payavaa)",
+          "ta": "பயன் தராத",
+          "en": "Yield us nought",
+          "hi": "उत्पादक जो ना रही"
+        },
+        {
+          "no": 5,
+          "word": "களர் <br>(Kalar)",
+          "ta": "களர் நிலம்",
+          "en": "Barren field",
+          "hi": "ऊसर भूमि"
+        },
+        {
+          "no": 6,
+          "word": "அனையர் <br>(Anaiyar)",
+          "ta": "போன்றவர்",
+          "en": "Like",
+          "hi": "समान"
+        },
+        {
+          "no": 7,
+          "word": "கல்லாதவர் <br>(Kallaadhavar)",
+          "ta": "கல்லாதவர்",
+          "en": "Men untaught",
+          "hi": "अपढ़"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உளரென்னு மாத்திரைய ரல்லாற் பயவாக்",
+          "line2": "களரனையர் கல்லா தவர்."
+        },
+        "en": {
+          "line1": "'They are': so much is true of men untaught;",
+          "line2": "But, like a barren field, they yield us nought!"
+        },
+        "hi": {
+          "line1": "जीवित मात्र रहा अपढ़, और न कुछ वह, जान ।",
+          "line2": "उत्पादक जो ना रही, ऊसर भूमि समान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ularennu Maaththiraiya Rallaar Payavaak",
+            "line2": "Kalaranaiyar Kallaa Dhavar."
+          },
+          "hi": {
+            "line1": "उळरॆन्नु मात्तिरैय रल्लार् पयवाक्",
+            "line2": "कळरनैयर् कल्ला दवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கல்வி கற்காதவர்கள் 'உயிரோடு இருக்கிறார்கள்' என்று சொல்லும் அளவினரே அல்லாமல், விளைச்சல் தராத களர் நிலத்தைப் போன்றவர் ஆவர்.",
+        "en": "The only thing you can say about people without learning is that they exist; like barren soil, they produce nothing of value.",
+        "hi": "अनपढ़ व्यक्ति केवल जीवित मात्र रहता है, इसके सिवा वह और कुछ नहीं—यह जान लो कि वह किसी काम की न रहने वाली ऊसर भूमि के समान है।"
+      }
+    },
+    {
+      "num": 407,
+      "line1": "நுண்மா ணுழைபுல மில்லா னெழினல",
+      "line2": "மண்மாண் புனைபாவை யற்று.",
+      "enLine1": "Who lack the power of subtle, large, and penetrating sense,",
+      "enLine2": "Like puppet, decked with ornaments of clay, their beauty's vain pretence.",
+      "hiLine1": "सूक्ष्म बुद्धि जिसकी नहीं, प्रतिभा नहीं अनूप ।",
+      "hiLine2": "मिट्टी की सुठि मूर्ति सम, उसका खिलता रूप ॥",
+      "general": "நுட்பமானதும் மாட்சிமையுடையதும் ஆகிய ஆராயும் அறிவு இல்லாதவனின் அழகும் நலமும், மண்ணால் அழகாகச் செய்யப்பட்ட பொம்மையைப் போன்றது.",
+      "en": "The outward beauty and charm of one who lacks subtle, noble, and penetrating intellect is like a finely painted clay doll.",
+      "hi": "जिसके पास सूक्ष्म बुद्धि और अनुपम प्रतिभा नहीं है, उसका खिलता हुआ बाहरी रूप-सौंदर्य मिट्टी की सुंदर बनी हुई मूर्ति के समान (निष्प्राण) है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நுண்மாண் <br>(Nunmaan)",
+          "ta": "நுட்பமும் மாட்சியுமான",
+          "en": "Subtle, large",
+          "hi": "सूक्ष्म"
+        },
+        {
+          "no": 2,
+          "word": "நுழைபுலம் <br>(Nuzhaibulam)",
+          "ta": "ஆராயும் அறிவு",
+          "en": "Penetrating sense",
+          "hi": "बुद्धि प्रतिभा"
+        },
+        {
+          "no": 3,
+          "word": "இல்லான் <br>(Illaana)",
+          "ta": "இல்லாதவனது",
+          "en": "Who lack",
+          "hi": "जिसकी नहीं"
+        },
+        {
+          "no": 4,
+          "word": "எழில் நலம் <br>(Ezhil nalam)",
+          "ta": "அழகிய தோற்றம்",
+          "en": "Beauty's pretence",
+          "hi": "खिलता रूप"
+        },
+        {
+          "no": 5,
+          "word": "மண் மாண் <br>(Man maan)",
+          "ta": "மண்ணால் அழகுற",
+          "en": "Of clay",
+          "hi": "मिट्टी की सुठि"
+        },
+        {
+          "no": 6,
+          "word": "புனைபாவை <br>(Punaipaavai)",
+          "ta": "செய்யப்பட்ட பொம்மை",
+          "en": "Puppet decked",
+          "hi": "मूर्ति"
+        },
+        {
+          "no": 7,
+          "word": "அற்று <br>(Atru)",
+          "ta": "போன்றது",
+          "en": "Like",
+          "hi": "सम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நுண்மா ணுழைபுல மில்லா னெழினல",
+          "line2": "மண்மாண் புனைபாவை யற்று."
+        },
+        "en": {
+          "line1": "Who lack the power of subtle, large, and penetrating sense,",
+          "line2": "Like puppet, decked with ornaments of clay, their beauty's vain pretence."
+        },
+        "hi": {
+          "line1": "सूक्ष्म बुद्धि जिसकी नहीं, प्रतिभा नहीं अनूप ।",
+          "line2": "मिट्टी की सुठि मूर्ति सम, उसका खिलता रूप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nunmaa Nuzhaibula Millaa Nezhinala",
+            "line2": "Manmaan Punaipaavai Yatru."
+          },
+          "hi": {
+            "line1": "नुण्मा णुऴैपुल मिल्ला नॆऴिनल",
+            "line2": "मण्माण् पुनैपावै यत्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நுட்பமானதும் மாட்சிமையுடையதும் ஆகிய ஆராயும் அறிவு இல்லாதவனின் அழகும் நலமும், மண்ணால் அழகாகச் செய்யப்பட்ட பொம்மையைப் போன்றது.",
+        "en": "Outward beauty without sharp, penetrating intelligence is nothing more than a finely painted clay doll.",
+        "hi": "जिसके पास सूक्ष्म बुद्धि और अनुपम प्रतिभा नहीं है, उसका खिलता हुआ बाहरी रूप-सौंदर्य मिट्टी की सुंदर बनी हुई मूर्ति के समान (निष्प्राण) है।"
+      }
+    },
+    {
+      "num": 408,
+      "line1": "நல்லார்கட் பட்ட வறுமையி னின்னாதே",
+      "line2": "கல்லார்கட் பட்ட திரு.",
+      "enLine1": "To men unlearned, from fortune's favour greater evil springs",
+      "enLine2": "Than poverty to men of goodly wisdom brings.",
+      "hiLine1": "शिक्षित के दारिद्र्य से, करती अधिक विपत्ति ।",
+      "hiLine2": "मूर्ख जनों के पास जो, जमी हुई संपत्ति ॥",
+      "general": "கற்றறிந்த நல்லவர்களிடம் உண்டான வறுமையைவிட, கல்வி கற்காதவர்களிடம் சேர்ந்துள்ள செல்வம் மிகவும் துன்பம் தருவதாகும்.",
+      "en": "Wealth in the hands of the unlearned causes far greater misery than poverty suffered by the learned and good.",
+      "hi": "शिक्षित सज्जन की दरिद्रता से भी अधिक विपत्ति (अनिष्ट) तब होती है, जब मूर्ख (अशिक्षित) लोगों के पास संपत्ति जमा हो जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நல்லார்கண் <br>(Nallaarkan)",
+          "ta": "கற்ற நல்லவர்களிடம்",
+          "en": "Men of goodly wisdom",
+          "hi": "शिक्षित के"
+        },
+        {
+          "no": 2,
+          "word": "பட்ட <br>(Patta)",
+          "ta": "உண்டான",
+          "en": "Brings",
+          "hi": "का"
+        },
+        {
+          "no": 3,
+          "word": "வறுமையின் <br>(Varumaiyin)",
+          "ta": "வறுமையைவிட",
+          "en": "Than poverty",
+          "hi": "दारिद्र्य से"
+        },
+        {
+          "no": 4,
+          "word": "இன்னாதே <br>(Innaadhe)",
+          "ta": "மிகத் துன்பமானதே",
+          "en": "Greater evil springs",
+          "hi": "करती अधिक विपत्ति"
+        },
+        {
+          "no": 5,
+          "word": "கல்லார்கண் <br>(Kallaarkan)",
+          "ta": "கல்லாதவரிடம்",
+          "en": "To men unlearned",
+          "hi": "मूर्ख जनों के पास"
+        },
+        {
+          "no": 6,
+          "word": "பட்ட <br>(Patta)",
+          "ta": "சேர்ந்த",
+          "en": "From fortune's favour",
+          "hi": "जमी हुई"
+        },
+        {
+          "no": 7,
+          "word": "திரு <br>(Thiru)",
+          "ta": "செல்வம்",
+          "en": "Fortune / wealth",
+          "hi": "संपत्ति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நல்லார்கட் பட்ட வறுமையி னின்னாதே",
+          "line2": "கல்லார்கட் பட்ட திரு."
+        },
+        "en": {
+          "line1": "To men unlearned, from fortune's favour greater evil springs",
+          "line2": "Than poverty to men of goodly wisdom brings."
+        },
+        "hi": {
+          "line1": "शिक्षित के दारिद्र्य से, करती अधिक विपत्ति ।",
+          "line2": "मूर्ख जनों के पास जो, जमी हुई संपत्ति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nallaarkan Patta Varumaiyin Innaadhe",
+            "line2": "Kallaarkan Patta Thiru."
+          },
+          "hi": {
+            "line1": "नल्लार्कण् पट्ट वरुमैयि निन्नादे",
+            "line2": "कल्लार्कण् पट्ट तिरु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கற்றறிந்த நல்லவர்களிடம் உண்டான வறுமையைவிட, கல்வி கற்காதவர்களிடம் சேர்ந்துள்ள செல்வம் மிகவும் துன்பம் தருவதாகும்.",
+        "en": "Wealth piling up in the hands of the ignorant causes far more harm than poverty ever does to wise, good people.",
+        "hi": "शिक्षित सज्जन की दरिद्रता से भी अधिक विपत्ति (अनिष्ट) तब होती है, जब मूर्ख (अशिक्षित) लोगों के पास संपत्ति जमा हो जाती है।"
+      }
+    },
+    {
+      "num": 409,
+      "line1": "மேற்பிறந்தார் ஆயினும் கல்லாதார் கீழ்பிறந்தும்",
+      "line2": "கற்றார் அனைத்திலர் பாடு.",
+      "enLine1": "Lower are men unlearned, though noble be their race,",
+      "enLine2": "Than low-born men adorned with learning's grace.",
+      "hiLine1": "उच्च जाति का क्यों न हो, तो भी अपढ़ अजान ।",
+      "hiLine2": "नीच किन्तु शिक्षित सदृश, पाता नहिं सम्मान ॥",
+      "general": "உயர்ந்த குடியில் பிறந்தவராயினும் கல்வி கற்காதவர்கள், தாழ்ந்த குடியில் பிறந்தும் கற்றவர்களின் பெருமைக்குச் சமமான பெருமை உடையவர் ஆகார்.",
+      "en": "Even if born into a high lineage, the unlearned do not possess the dignity and worth of the learned, even if the latter are of humble birth.",
+      "hi": "अनपढ़ और अज्ञानी व्यक्ति चाहे उच्च जाति में ही क्यों न जन्मा हो, फिर भी वह निम्न मानी जाने वाली जाति में जन्मे शिक्षित व्यक्ति के समान सम्मान नहीं पाता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மேற்பிறந்தாராயினும் <br>(Merpirandhaaraayinum)",
+          "ta": "உயர் குடியில் பிறந்தாலும்",
+          "en": "Though noble be their race",
+          "hi": "उच्च जाति का क्यों न हो"
+        },
+        {
+          "no": 2,
+          "word": "கல்லாதார் <br>(Kallaadhaar)",
+          "ta": "கல்லாதவர்கள்",
+          "en": "Men unlearned",
+          "hi": "अपढ़ अजान"
+        },
+        {
+          "no": 3,
+          "word": "கீழ்பிறந்தும் <br>(Keezhpirandhum)",
+          "ta": "தாழ்ந்த குடியில் பிறந்தும்",
+          "en": "Low-born men",
+          "hi": "नीच किन्तु"
+        },
+        {
+          "no": 4,
+          "word": "கற்றார் <br>(Katraar)",
+          "ta": "கற்றவர்களின்",
+          "en": "Learning's grace",
+          "hi": "शिक्षित"
+        },
+        {
+          "no": 5,
+          "word": "அனைத்திலர் <br>(Anaiththilar)",
+          "ta": "அளவினர் அல்லர்",
+          "en": "Lower are",
+          "hi": "सदृश पाता नहिं"
+        },
+        {
+          "no": 6,
+          "word": "பாடு <br>(Paadu)",
+          "ta": "பெருமை",
+          "en": "Dignity / worth",
+          "hi": "सम्मान"
+        },
+        {
+          "no": 7,
+          "word": "ஆயினும் <br>(Aayinum)",
+          "ta": "ஆனாலும்",
+          "en": "Though",
+          "hi": "तो भी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மேற்பிறந்தார் ஆயினும் கல்லாதார் கீழ்பிறந்தும்",
+          "line2": "கற்றார் அனைத்திலர் பாடு."
+        },
+        "en": {
+          "line1": "Lower are men unlearned, though noble be their race,",
+          "line2": "Than low-born men adorned with learning's grace."
+        },
+        "hi": {
+          "line1": "उच्च जाति का क्यों न हो, तो भी अपढ़ अजान ।",
+          "line2": "नीच किन्तु शिक्षित सदृश, पाता नहिं सम्मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Merpirandhaar Aayinum Kallaadhaar Keezhpirandhum",
+            "line2": "Katraar Anaiththilar Paadu."
+          },
+          "hi": {
+            "line1": "मेर्पिरन्दार् आयिनुम् कल्लादार् कीऴ्पिरन्दुम्",
+            "line2": "कत्रार् अनैत्तिलर् पाडु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உயர்ந்த குடியில் பிறந்தவராயினும் கல்வி கற்காதவர்கள், தாழ்ந்த குடியில் பிறந்தும் கற்றவர்களின் பெருமைக்குச் சமமான பெருமை உடையவர் ஆகார்.",
+        "en": "No matter how prestigious a family someone is born into, without learning they can never match the stature of a humble-born scholar.",
+        "hi": "अनपढ़ और अज्ञानी व्यक्ति चाहे उच्च जाति में ही क्यों न जन्मा हो, फिर भी वह निम्न मानी जाने वाली जाति में जन्मे शिक्षित व्यक्ति के समान सम्मान नहीं पाता।"
+      }
+    },
+    {
+      "num": 410,
+      "line1": "விலங்கொடு மக்கள் அனையர் இலங்குநூல்",
+      "line2": "கற்றாரோடு ஏனை யவர்.",
+      "enLine1": "Learning's irradiating grace who gain,",
+      "enLine2": "Others excel, as men the bestial train.",
+      "hiLine1": "नर से पशु की जो रहा, तुलना में अति भेद ।",
+      "hiLine2": "अध्येत सदग्रन्थ के, तथा अपढ़ में भेद ॥",
+      "general": "அறிவொளி வீசும் நூல்களைக் கற்றவர்களுக்கும் மற்ற கல்லாதவர்களுக்கும் உள்ள வேறுபாடு, மக்களுக்கும் விலங்குகளுக்கும் உள்ள வேறுபாட்டைப் போன்றது.",
+      "en": "The difference between those who have studied illuminating books and those who have not is like the difference between human beings and beasts.",
+      "hi": "मनुष्य और पशु की तुलना में जैसा अत्यधिक भेद है, ठीक वैसा ही भेद सद्ग्रंथों का अध्ययन करने वाले विद्वानों और अनपढ़ लोगों के बीच होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "விலங்கொடு <br>(Vilangodu)",
+          "ta": "விலங்குகளுக்கும்",
+          "en": "Bestial train",
+          "hi": "पशु की"
+        },
+        {
+          "no": 2,
+          "word": "மக்கள் <br>(Makkal)",
+          "ta": "மக்களுக்கும்",
+          "en": "Men",
+          "hi": "नर से"
+        },
+        {
+          "no": 3,
+          "word": "அனையர் <br>(Anaiyar)",
+          "ta": "ஒப்பானவர்",
+          "en": "As / excel",
+          "hi": "तुलना में अति भेद"
+        },
+        {
+          "no": 4,
+          "word": "இலங்கு நூல் <br>(Ilangu nool)",
+          "ta": "அறிவொளி தரும் நூல்களை",
+          "en": "Irradiating grace",
+          "hi": "सदग्रन्थ के"
+        },
+        {
+          "no": 5,
+          "word": "கற்றாரோடு <br>(Katraarodu)",
+          "ta": "கற்றவரோடு",
+          "en": "Who gain",
+          "hi": "अध्येत"
+        },
+        {
+          "no": 6,
+          "word": "ஏனை <br>(Enai)",
+          "ta": "மற்ற",
+          "en": "Others",
+          "hi": "तथा"
+        },
+        {
+          "no": 7,
+          "word": "அவர் <br>(Avar)",
+          "ta": "கல்லாதவர்",
+          "en": "The unlearned",
+          "hi": "अपढ़ में भेद"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விலங்கொடு மக்கள் அனையர் இலங்குநூல்",
+          "line2": "கற்றாரோடு ஏனை யவர்."
+        },
+        "en": {
+          "line1": "Learning's irradiating grace who gain,",
+          "line2": "Others excel, as men the bestial train."
+        },
+        "hi": {
+          "line1": "नर से पशु की जो रहा, तुलना में अति भेद ।",
+          "line2": "अध्येत सदग्रन्थ के, तथा अपढ़ में भेद ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vilangodu Makkal Anaiyar Ilangunool",
+            "line2": "Katraarodu Enai Yavar."
+          },
+          "hi": {
+            "line1": "विलङ्गॊडु मक्कळ् अनैयर् इलङ्गुनूल्",
+            "line2": "कत्रारोडु एनै यवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறிவொளி வீசும் நூல்களைக் கற்றவர்களுக்கும் மற்ற கல்லாதவர்களுக்கும் உள்ள வேறுபாடு, மக்களுக்கும் விலங்குகளுக்கும் உள்ள வேறுபாட்டைப் போன்றது.",
+        "en": "The gap between those who pursue illuminating knowledge and those who remain unlearned is as vast as the gap between humans and animals.",
+        "hi": "मनुष्य और पशु की तुलना में जैसा अत्यधिक भेद है, ठीक वैसा ही भेद सद्ग्रंथों का अध्ययन करने वाले विद्वानों और अनपढ़ लोगों के बीच होता है।"
+      }
+    }
+  ]
+}

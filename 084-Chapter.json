@@ -1,0 +1,930 @@
+{
+  "chapterNum": 84,
+  "nameTa": "பேதைமை",
+  "nameEn": "Folly",
+  "nameHi": "मूढ़ता",
+  "paal": "பொருட்பால்",
+  "iyal": "அங்கவியல்",
+  "kurals": [
+    {
+      "num": 831,
+      "line1": "பேதைமை யென்பதொன் றியாதெனி னேதங்கொண்",
+      "line2": "டூதியம் போக விடல்.",
+      "enLine1": "What one thing merits folly's special name?",
+      "enLine2": "Letting gain go, loss for one's own to claim!",
+      "hiLine1": "किसको कहना मूढ़ता, जो है दारुण दाग ।",
+      "hiLine2": "हानिप्रद को ग्रहण कर, लाभप्रद का त्याग ॥",
+      "general": "பேதைமை என்று சொல்லப்படும் ஒன்று யாதென்றால், தனக்குக் கேடு தருவதைக் கையில் கொண்டு, நன்மை தரும் ஊதியத்தைக் கைவிட்டு விடுவதேயாகும்.",
+      "en": "If one asks what folly truly is, it is embracing what brings harm while letting go of what brings gain.",
+      "hi": "यदि पूछा जाए कि मूढ़ता क्या है, तो हानिकारक वस्तु को ग्रहण कर लेना और लाभदायक वस्तु को छोड़ देना ही सबसे बड़ी मूढ़ता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பேதைமை <br>(Pedhaimai)",
+          "ta": "அறியாமை",
+          "en": "Folly",
+          "hi": "मूढ़ता"
+        },
+        {
+          "no": 2,
+          "word": "என்பது ஒன்று <br>(Enbadhu ondru)",
+          "ta": "எனப்படுவது",
+          "en": "What one thing",
+          "hi": "किसको कहना"
+        },
+        {
+          "no": 3,
+          "word": "யாதெனின் <br>(Yaadhenin)",
+          "ta": "எதுவென்றால்",
+          "en": "Merits name",
+          "hi": "जो है"
+        },
+        {
+          "no": 4,
+          "word": "ஏதம் <br>(Edham)",
+          "ta": "குற்றத்தை (கேட்டை)",
+          "en": "Loss",
+          "hi": "हानिप्रद को"
+        },
+        {
+          "no": 5,
+          "word": "கொண்டு <br>(Kondu)",
+          "ta": "ஏற்றுக்கொண்டு",
+          "en": "Claim",
+          "hi": "ग्रहण कर"
+        },
+        {
+          "no": 6,
+          "word": "ஊதியம் <br>(Oodhiyam)",
+          "ta": "நன்மையை",
+          "en": "Gain",
+          "hi": "लाभप्रद का"
+        },
+        {
+          "no": 7,
+          "word": "போக விடல் <br>(Poga vidal)",
+          "ta": "கைவிடுதல்",
+          "en": "Letting go",
+          "hi": "त्याग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பேதைமை யென்பதொன் றியாதெனி னேதங்கொண்",
+          "line2": "டூதியம் போக விடல்."
+        },
+        "en": {
+          "line1": "What one thing merits folly's special name?",
+          "line2": "Letting gain go, loss for one's own to claim!"
+        },
+        "hi": {
+          "line1": "किसको कहना मूढ़ता, जो है दारुण दाग ।",
+          "line2": "हानिप्रद को ग्रहण कर, लाभप्रद का त्याग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pedhaimai Yenpadhon Riyaadheni Nedhanggon",
+            "line2": "Doodhiyam Poga Vidal."
+          },
+          "hi": {
+            "line1": "पेदैमै यॆन्बदॊन् रियादॆनि नेदङ्गॊण्",
+            "line2": "डूदियम् पोग विडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பேதைமை என்று சொல்லப்படும் ஒன்று யாதென்றால், தனக்குக் கேடு தருவதைக் கையில் கொண்டு, நன்மை தரும் ஊதியத்தைக் கைவிட்டு விடுவதேயாகும்.",
+        "en": "Folly in its purest form is trading away something genuinely beneficial for something that hurts you.",
+        "hi": "यदि पूछा जाए कि मूढ़ता क्या है, तो हानिकारक वस्तु को ग्रहण कर लेना और लाभदायक वस्तु को छोड़ देना ही सबसे बड़ी मूढ़ता है।"
+      }
+    },
+    {
+      "num": 832,
+      "line1": "பேதைமையு ளெல்லாம் பேதைமை காதன்மை",
+      "line2": "கையல்ல தன்கட் செயல்.",
+      "enLine1": "'Mid follies chiefest folly is to fix your love",
+      "enLine2": "On deeds which to your station unbefitting prove.",
+      "hiLine1": "परम मूढ़ता मूढ़ में, जानो उसे प्रसिद्ध ।",
+      "hiLine2": "उन सब में आसक्ति हो, जो हैं कर्म निषिद्ध ॥",
+      "general": "அறியாமைகள் எல்லாவற்றிலும் பெரிய அறியாமை, தனக்குத் தகுதியில்லாத கீழான செயல்களில் விருப்பம் கொண்டு ஈடுபடுவதாகும்.",
+      "en": "The greatest of all follies is to set one's heart on actions that are improper and unworthy of oneself.",
+      "hi": "सभी मूढ़ताओं में सबसे बड़ी मूढ़ता यह है कि व्यक्ति उन निषिद्ध और अनुचित कर्मों में आसक्ति रखे जो उसके योग्य नहीं हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பேதைமையுள் எல்லாம் <br>(Pedhaimaiyul ellaam)",
+          "ta": "அறியாமைகள் எல்லாவற்றிலும்",
+          "en": "'Mid follies",
+          "hi": "परम मूढ़ता"
+        },
+        {
+          "no": 2,
+          "word": "பேதைமை <br>(Pedhaimai)",
+          "ta": "பெரிய அறியாமை",
+          "en": "Chiefest folly",
+          "hi": "मूढ़ में प्रसिद्ध"
+        },
+        {
+          "no": 3,
+          "word": "காதன்மை <br>(Kaadhanmai)",
+          "ta": "விருப்பம் கொள்ளுதல்",
+          "en": "Fix your love",
+          "hi": "आसक्ति हो"
+        },
+        {
+          "no": 4,
+          "word": "கை அல்ல <br>(Kai alla)",
+          "ta": "ஒழுக்கமல்லாத",
+          "en": "Unbefitting",
+          "hi": "निषिद्ध"
+        },
+        {
+          "no": 5,
+          "word": "தன்கண் <br>(Thankan)",
+          "ta": "தன்னிடத்து",
+          "en": "To your station",
+          "hi": "उन सब में"
+        },
+        {
+          "no": 6,
+          "word": "செயல் <br>(Seyal)",
+          "ta": "செயலைச் செய்தல்",
+          "en": "Deeds",
+          "hi": "कर्म"
+        },
+        {
+          "no": 7,
+          "word": "அறியாமை <br>(Ariyaamai)",
+          "ta": "அறியாமை",
+          "en": "Ignorance",
+          "hi": "अज्ञान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பேதைமையு ளெல்லாம் பேதைமை காதன்மை",
+          "line2": "கையல்ல தன்கட் செயல்."
+        },
+        "en": {
+          "line1": "'Mid follies chiefest folly is to fix your love",
+          "line2": "On deeds which to your station unbefitting prove."
+        },
+        "hi": {
+          "line1": "परम मूढ़ता मूढ़ में, जानो उसे प्रसिद्ध ।",
+          "line2": "उन सब में आसक्ति हो, जो हैं कर्म निषिद्ध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pedhaimaiyu Lellaam Pedhaimai Kaadhanmai",
+            "line2": "Kaiyalla Thankat Seyal."
+          },
+          "hi": {
+            "line1": "पेदैमैयु ळॆल्लाम् पेदैमै कादन्मै",
+            "line2": "कैयल्ल तन्गड् सॆयल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறியாமைகள் எல்லாவற்றிலும் பெரிய அறியாமை, தனக்குத் தகுதியில்லாத கீழான செயல்களில் விருப்பம் கொண்டு ஈடுபடுவதாகும்.",
+        "en": "The worst kind of foolishness is falling in love with habits and actions that are beneath you.",
+        "hi": "सभी मूढ़ताओं में सबसे बड़ी मूढ़ता यह है कि व्यक्ति उन निषिद्ध और अनुचित कर्मों में आसक्ति रखे जो उसके योग्य नहीं हैं।"
+      }
+    },
+    {
+      "num": 833,
+      "line1": "நாணாமை நாடாமை நாரின்மை யாதொன்றும்",
+      "line2": "பேணாமை பேதை தொழில்.",
+      "enLine1": "Ashamed of nothing, searching nothing out, of loveless heart,",
+      "enLine2": "Nought cherishing, 'tis thus the fool will play his part.",
+      "hiLine1": "निर्दयता, निर्लज्जता, निर्विचार का भाव ।",
+      "hiLine2": "पोषण भी नहिं पोष्य का, ये हैं मूढ़ स्वभाव ॥",
+      "general": "தீமைக்கு நாணாமை, நல்லதை ஆராயாமை, அன்பில்லாத தன்மை, பாதுகாக்க வேண்டிய எதையும் பேணாமை ஆகியவை பேதையின் செயல்களாகும்.",
+      "en": "Shamelessness, lack of inquiry, lack of affection, and neglecting everything worth cherishing—these are the ways of a fool.",
+      "hi": "निर्लज्जता, बिना सोचे-समझे काम करना, निर्दयता और पालन करने योग्य वस्तुओं या कर्तव्यों की उपेक्षा करना—ये सब मूढ़ व्यक्ति के स्वभाव हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நாணாமை <br>(Naanaamai)",
+          "ta": "வெட்கப்படாமை",
+          "en": "Ashamed of nothing",
+          "hi": "निर्लज्जता"
+        },
+        {
+          "no": 2,
+          "word": "நாடாமை <br>(Naadaamai)",
+          "ta": "ஆராயாமை",
+          "en": "Searching nothing out",
+          "hi": "निर्विचार का भाव"
+        },
+        {
+          "no": 3,
+          "word": "நார் இன்மை <br>(Naar inmai)",
+          "ta": "அன்பின்மை",
+          "en": "Loveless heart",
+          "hi": "निर्दयता"
+        },
+        {
+          "no": 4,
+          "word": "யாதொன்றும் <br>(Yaadhondrum)",
+          "ta": "எதனையும்",
+          "en": "Nought",
+          "hi": "पोष्य का"
+        },
+        {
+          "no": 5,
+          "word": "பேணாமை <br>(Penaamai)",
+          "ta": "பாதுகாக்காமை",
+          "en": "Not cherishing",
+          "hi": "पोषण भी नहिं"
+        },
+        {
+          "no": 6,
+          "word": "பேதை <br>(Pedhai)",
+          "ta": "பேதையின்",
+          "en": "Fool",
+          "hi": "मूढ़"
+        },
+        {
+          "no": 7,
+          "word": "தொழில் <br>(Thozhil)",
+          "ta": "செயல்",
+          "en": "Play his part",
+          "hi": "स्वभाव"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாணாமை நாடாமை நாரின்மை யாதொன்றும்",
+          "line2": "பேணாமை பேதை தொழில்."
+        },
+        "en": {
+          "line1": "Ashamed of nothing, searching nothing out, of loveless heart,",
+          "line2": "Nought cherishing, 'tis thus the fool will play his part."
+        },
+        "hi": {
+          "line1": "निर्दयता, निर्लज्जता, निर्विचार का भाव ।",
+          "line2": "पोषण भी नहिं पोष्य का, ये हैं मूढ़ स्वभाव ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naanaamai Naadaamai Naarinmai Yaadhondrum",
+            "line2": "Penaamai Pedhai Thozhil."
+          },
+          "hi": {
+            "line1": "नाणामै नाडामै नारिन्मै यादॊन्द्रुम्",
+            "line2": "पेणामै पेदै तॊऴिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தீமைக்கு நாணாமை, நல்லதை ஆராயாமை, அன்பில்லாத தன்மை, பாதுகாக்க வேண்டிய எதையும் பேணாமை ஆகியவை பேதையின் செயல்களாகும்.",
+        "en": "No shame, no curiosity, no empathy, and no care for anything—that's the classic toolkit of foolishness.",
+        "hi": "निर्लज्जता, बिना सोचे-समझे काम करना, निर्दयता और पालन करने योग्य वस्तुओं या कर्तव्यों की उपेक्षा करना—ये सब मूढ़ व्यक्ति के स्वभाव हैं।"
+      }
+    },
+    {
+      "num": 834,
+      "line1": "ஓதி யுணர்ந்தும் பிறர்க்குரைத்துந் தானடங்காப்",
+      "line2": "பேதையிற் பேதையா ரில்.",
+      "enLine1": "The sacred law he reads and learns, to other men expounds,—",
+      "enLine2": "Himself obeys not : where can greater fool be found?",
+      "hiLine1": "शास्त्रों का कर अध्ययन, अर्थ जानते गूढ़ ।",
+      "hiLine2": "शिक्षक भी, पर नहिं वशी, उनसे बडा न मूढ़ ॥",
+      "general": "நல்ல நூல்களைக் கற்று, அவற்றின் பொருளை உணர்ந்து, பிறருக்கும் எடுத்துரைத்து, தான் மட்டும் அடங்கி நடக்காத பேதையைப் போலப் பெரிய பேதை வேறு யாரும் இல்லை.",
+      "en": "There is no greater fool than one who studies wisdom, understands it, and preaches it to others, yet fails to practice self-control.",
+      "hi": "जो शास्त्रों का अध्ययन करके उनके गूढ़ अर्थ को जानता है और दूसरों को उपदेश भी देता है, किन्तु स्वयं अपने वश में नहीं रहता, उससे बड़ा कोई मूढ़ नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஓதி <br>(Odhi)",
+          "ta": "நூல்களைக் கற்று",
+          "en": "Reads",
+          "hi": "शास्त्रों का कर अध्ययन"
+        },
+        {
+          "no": 2,
+          "word": "உணர்ந்தும் <br>(Unarndhum)",
+          "ta": "பொருளை உணர்ந்தும்",
+          "en": "Learns",
+          "hi": "अर्थ जानते गूढ़"
+        },
+        {
+          "no": 3,
+          "word": "பிறர்க்கு உரைத்தும் <br>(Pirarkku uraiththum)",
+          "ta": "பிறருக்குச் சொல்லியும்",
+          "en": "To other men expounds",
+          "hi": "शिक्षक भी"
+        },
+        {
+          "no": 4,
+          "word": "தான் அடங்கா <br>(Thaan adangaa)",
+          "ta": "தான் அடங்கி நடவாத",
+          "en": "Himself obeys not",
+          "hi": "पर नहिं वशी"
+        },
+        {
+          "no": 5,
+          "word": "பேதையின் <br>(Pedhaiyin)",
+          "ta": "பேதையை விட",
+          "en": "Than fool",
+          "hi": "उनसे बड़ा"
+        },
+        {
+          "no": 6,
+          "word": "பேதையார் <br>(Pedhaiyaar)",
+          "ta": "பெரிய பேதையார்",
+          "en": "Greater fool",
+          "hi": "न मूढ़"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Where can be found",
+          "hi": "नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஓதி யுணர்ந்தும் பிறர்க்குரைத்துந் தானடங்காப்",
+          "line2": "பேதையிற் பேதையா ரில்."
+        },
+        "en": {
+          "line1": "The sacred law he reads and learns, to other men expounds,—",
+          "line2": "Himself obeys not : where can greater fool be found?"
+        },
+        "hi": {
+          "line1": "शास्त्रों का कर अध्ययन, अर्थ जानते गूढ़ ।",
+          "line2": "शिक्षक भी, पर नहिं वशी, उनसे बडा न मूढ़ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Odhi Yunarndhum Pirarkkuraiththun Thaanadanggaap",
+            "line2": "Pedhaiyir Pedhaiyaa Ril."
+          },
+          "hi": {
+            "line1": "ओदि युणर्न्दुम् पिरर्क्कुरैत्तुन् तानडङ्गाप्",
+            "line2": "पेदैयिर् पेदैया रिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்ல நூல்களைக் கற்று, அவற்றின் பொருளை உணர்ந்து, பிறருக்கும் எடுத்துரைத்து, தான் மட்டும் அடங்கி நடக்காத பேதையைப் போலப் பெரிய பேதை வேறு யாரும் இல்லை.",
+        "en": "Nobody is more foolish than someone who knows the rules, lectures everyone else about them, and ignores them personally.",
+        "hi": "जो शास्त्रों का अध्ययन करके उनके गूढ़ अर्थ को जानता है और दूसरों को उपदेश भी देता है, किन्तु स्वयं अपने वश में नहीं रहता, उससे बड़ा कोई मूढ़ नहीं है।"
+      }
+    },
+    {
+      "num": 835,
+      "line1": "ஒருமை செயலாற்றும் பேதை யெழுமையுந்",
+      "line2": "தான்புக் கழுந்து மளறு.",
+      "enLine1": "The fool will merit hell in one brief life on earth,",
+      "enLine2": "In which he entering sinks through sevenfold round of birth.",
+      "hiLine1": "सात जन्म जो यातना, मिले नरक के गर्त ।",
+      "hiLine2": "मूढ़ एक ही में बना, लेने में सुसमर्थ ॥",
+      "general": "பேதை ஒரு பிறப்பில் செய்யும் தீய செயலாலேயே, தான் ஏழு பிறப்புகளிலும் புகுந்து வருந்தும் நரகத் துன்பத்தைத் தேடிக்கொள்வான்.",
+      "en": "Through the actions of a single lifetime, a fool brings upon himself a hellish ruin that persists across seven births.",
+      "hi": "सात जन्मों में नरक के गड्ढे में गिरकर जो यातना मिलती है, मूढ़ व्यक्ति एक ही जन्म में अपने कर्मों से उसे पाने में समर्थ हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒருமை <br>(Orumai)",
+          "ta": "ஒரு பிறப்பில்",
+          "en": "One brief life",
+          "hi": "एक ही में"
+        },
+        {
+          "no": 2,
+          "word": "செயல் ஆற்றும் <br>(Seyal aatrum)",
+          "ta": "செய்யும் தீய செயலால்",
+          "en": "Will merit",
+          "hi": "बना लेने में सुसमर्थ"
+        },
+        {
+          "no": 3,
+          "word": "பேதை <br>(Pedhai)",
+          "ta": "பேதை",
+          "en": "The fool",
+          "hi": "मूढ़"
+        },
+        {
+          "no": 4,
+          "word": "எழுமையும் <br>(Ezhumaiyum)",
+          "ta": "ஏழு பிறப்பிலும்",
+          "en": "Sevenfold round of birth",
+          "hi": "सात जन्म"
+        },
+        {
+          "no": 5,
+          "word": "தான் புக்கு <br>(Thaan pukku)",
+          "ta": "தான் புகுந்து",
+          "en": "He entering",
+          "hi": "मिले"
+        },
+        {
+          "no": 6,
+          "word": "அழுந்தும் <br>(Azhundhum)",
+          "ta": "மூழ்கி வருந்தும்",
+          "en": "Sinks",
+          "hi": "जो यातना"
+        },
+        {
+          "no": 7,
+          "word": "அளறு <br>(Alaru)",
+          "ta": "நரகம்",
+          "en": "Hell",
+          "hi": "नरक के गर्त"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒருமை செயலாற்றும் பேதை யெழுமையுந்",
+          "line2": "தான்புக் கழுந்து மளறு."
+        },
+        "en": {
+          "line1": "The fool will merit hell in one brief life on earth,",
+          "line2": "In which he entering sinks through sevenfold round of birth."
+        },
+        "hi": {
+          "line1": "सात जन्म जो यातना, मिले नरक के गर्त ।",
+          "line2": "मूढ़ एक ही में बना, लेने में सुसमर्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Orumai Seyalaatrum Pedhai Yezhumaiyun",
+            "line2": "Thaanpuk Kazhundhu Malaru."
+          },
+          "hi": {
+            "line1": "ऒरुमै सॆयलात्र्रुम् पेदै यॆऴुमैयुन्",
+            "line2": "तान्बुक् कऴुन्दु मळरु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பேதை ஒரு பிறப்பில் செய்யும் தீய செயலாலேயே, தான் ஏழு பிறப்புகளிலும் புகுந்து வருந்தும் நரகத் துன்பத்தைத் தேடிக்கொள்வான்.",
+        "en": "A fool can dig a hole in one lifetime deep enough to trap themselves for generations.",
+        "hi": "सात जन्मों में नरक के गड्ढे में गिरकर जो यातना मिलती है, मूढ़ व्यक्ति एक ही जन्म में अपने कर्मों से उसे पाने में समर्थ हो जाता है।"
+      }
+    },
+    {
+      "num": 836,
+      "line1": "பொய்படு மொன்றோ புனைபூணுங் கையறியாப்",
+      "line2": "பேதை வினைமேற் கொளின்.",
+      "enLine1": "When fool some task attempts with uninstructed pains,",
+      "enLine2": "It fails ; nor that alone, himself he binds with chains.",
+      "hiLine1": "प्रविधि-ज्ञान बिन मूढ़ यदि, शुरू करेगा काम ।",
+      "hiLine2": "वह पहनेगा हथकड़ी, बिगड़ेगा ही काम ॥",
+      "general": "செய்யும் முறை அறியாத பேதை ஒரு செயலை மேற்கொண்டால், அச்செயல் கெடுவது மட்டுமல்லாமல் அவனும் தன்னைக் கட்டிக்கொள்ளும் விலங்கைப் பூண்டுகொள்வான்.",
+      "en": "When an inexperienced fool takes on a task without knowing how, not only does the work fail, he ends up binding himself in chains.",
+      "hi": "विधि या कौशल के ज्ञान के बिना यदि कोई मूढ़ किसी काम को शुरू करता है, तो उसका काम तो बिगड़ेगा ही, साथ ही वह स्वयं भी बन्धन (हथकड़ी) में पड़ जाएगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொய்படும் ஒன்றோ <br>(Poypadum ondro)",
+          "ta": "கெடுவது மட்டுமா",
+          "en": "It fails; nor that alone",
+          "hi": "बिगड़ेगा ही काम"
+        },
+        {
+          "no": 2,
+          "word": "புனை பூணும் <br>(Punai poonum)",
+          "ta": "விலங்கைப் பூண்டுகொள்வான்",
+          "en": "Binds with chains",
+          "hi": "वह पहनेगा हथकड़ी"
+        },
+        {
+          "no": 3,
+          "word": "கை அறியா <br>(Kai ariyaa)",
+          "ta": "செய்யும் முறை அறியாத",
+          "en": "With uninstructed pains",
+          "hi": "प्रविधि-ज्ञान बिन"
+        },
+        {
+          "no": 4,
+          "word": "பேதை <br>(Pedhai)",
+          "ta": "பேதை",
+          "en": "Fool",
+          "hi": "मूढ़ यदि"
+        },
+        {
+          "no": 5,
+          "word": "வினை <br>(Vinai)",
+          "ta": "ஒரு செயலை",
+          "en": "Some task",
+          "hi": "काम"
+        },
+        {
+          "no": 6,
+          "word": "மேற்கொளின் <br>(Merkolin)",
+          "ta": "மேற்கொண்டால்",
+          "en": "Attempts",
+          "hi": "शुरू करेगा"
+        },
+        {
+          "no": 7,
+          "word": "தவறு <br>(Thavaru)",
+          "ta": "தவறு",
+          "en": "Failure",
+          "hi": "विफलता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொய்படு மொன்றோ புனைபூணுங் கையறியாப்",
+          "line2": "பேதை வினைமேற் கொளின்."
+        },
+        "en": {
+          "line1": "When fool some task attempts with uninstructed pains,",
+          "line2": "It fails ; nor that alone, himself he binds with chains."
+        },
+        "hi": {
+          "line1": "प्रविधि-ज्ञान बिन मूढ़ यदि, शुरू करेगा काम ।",
+          "line2": "वह पहनेगा हथकड़ी, बिगड़ेगा ही काम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Poypadu Monro Punaiboonung Kaiyariyaap",
+            "line2": "Pedhai Vinaimer Kolin."
+          },
+          "hi": {
+            "line1": "पॊय्पडु मॊन्द्रो पुनैपूणुङ् कैयरियाप्",
+            "line2": "पेदै विनैमेर् कॊळिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செய்யும் முறை அறியாத பேதை ஒரு செயலை மேற்கொண்டால், அச்செயல் கெடுவது மட்டுமல்லாமல் அவனும் தன்னைக் கட்டிக்கொள்ளும் விலங்கைப் பூண்டுகொள்வான்.",
+        "en": "Jump into a complex job without knowing the basics and you won't just fail—you'll trap yourself in the fallout.",
+        "hi": "विधि या कौशल के ज्ञान के बिना यदि कोई मूढ़ किसी काम को शुरू करता है, तो उसका काम तो बिगड़ेगा ही, साथ ही वह स्वयं भी बन्धन (हथकड़ी) में पड़ जाएगा।"
+      }
+    },
+    {
+      "num": 837,
+      "line1": "ஏதிலா ராரத் தமர்பசிப்பர் பேதை",
+      "line2": "பெருஞ்செல்வ முற்றக் கடை.",
+      "enLine1": "When fools are blessed with fortune's bounteous store,",
+      "enLine2": "Their foes feed full, their friends are prey to hunger sore.",
+      "hiLine1": "जम जाये तो प्रचुर धन, अगर मूढ़ के पास ।",
+      "hiLine2": "भोग करेंगे अन्य जन, परिजन तो उपवास ॥",
+      "general": "பேதைப் பண்புடையவனிடம் பெரிய செல்வம் வந்து சேருமானால், அயலார் வயிறார உண்டு மகிழ, அவனது சுற்றத்தாரோ பசியால் வாடுவார்கள்.",
+      "en": "When a fool acquires great wealth, strangers and rivals feast on it while his own loved ones go hungry.",
+      "hi": "यदि किसी मूढ़ के पास बहुत अधिक धन एकत्र हो जाए, तो बाहरी लोग उसका भोग करेंगे और उसके अपने परिवार वाले भूखे रहेंगे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஏதிலார் <br>(Edhilaar)",
+          "ta": "அயலார்",
+          "en": "Their foes",
+          "hi": "अन्य जन"
+        },
+        {
+          "no": 2,
+          "word": "ஆர <br>(Aara)",
+          "ta": "நிறைய உண்டு மகிழ",
+          "en": "Feed full",
+          "hi": "भोग करेंगे"
+        },
+        {
+          "no": 3,
+          "word": "தமர் <br>(Thamar)",
+          "ta": "உறவினர்",
+          "en": "Their friends",
+          "hi": "परिजन तो"
+        },
+        {
+          "no": 4,
+          "word": "பசிப்பர் <br>(Pasippar)",
+          "ta": "பசியால் வாடுவர்",
+          "en": "Prey to hunger sore",
+          "hi": "उपवास"
+        },
+        {
+          "no": 5,
+          "word": "பேதை <br>(Pedhai)",
+          "ta": "பேதை",
+          "en": "Fools",
+          "hi": "अगर मूढ़ के पास"
+        },
+        {
+          "no": 6,
+          "word": "பெருஞ்செல்வம் <br>(Perunjelvam)",
+          "ta": "பெரிய செல்வத்தை",
+          "en": "Fortune's bounteous store",
+          "hi": "प्रचुर धन"
+        },
+        {
+          "no": 7,
+          "word": "உற்றக்கடை <br>(Utrakkadai)",
+          "ta": "அடைந்தால்",
+          "en": "Are blessed with",
+          "hi": "जम जाये तो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஏதிலா ராரத் தமர்பசிப்பர் பேதை",
+          "line2": "பெருஞ்செல்வ முற்றக் கடை."
+        },
+        "en": {
+          "line1": "When fools are blessed with fortune's bounteous store,",
+          "line2": "Their foes feed full, their friends are prey to hunger sore."
+        },
+        "hi": {
+          "line1": "जम जाये तो प्रचुर धन, अगर मूढ़ के पास ।",
+          "line2": "भोग करेंगे अन्य जन, परिजन तो उपवास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Edhilaar Aara Thamar Pasippar",
+            "line2": "Pedhai Perunjelvam Utrakkadai."
+          },
+          "hi": {
+            "line1": "एदिला रारत् तमर्पसिप्पर् पेदै",
+            "line2": "पॆरुञ्सॆल्व मुत्रक् कडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பேதைப் பண்புடையவனிடம் பெரிய செல்வம் வந்து சேருமானால், அயலார் வயிறார உண்டு மகிழ, அவனது சுற்றத்தாரோ பசியால் வாடுவார்கள்.",
+        "en": "When foolish people strike it rich, freeloaders and outsiders live well off them while their own family goes without.",
+        "hi": "यदि किसी मूढ़ के पास बहुत अधिक धन एकत्र हो जाए, तो बाहरी लोग उसका भोग करेंगे और उसके अपने परिवार वाले भूखे रहेंगे।"
+      }
+    },
+    {
+      "num": 838,
+      "line1": "மைய லொருவன் களித்தற்றாற் பேதைதன்",
+      "line2": "கையொன் றுடைமை பெறின்.",
+      "enLine1": "When folly's hand grasps wealth's increase, 'twill be",
+      "enLine2": "As when a madman raves in drunken glee.",
+      "hiLine1": "लगना है संपत्ति का, एक मूढ़ के हस्त ।",
+      "hiLine2": "पागल का होना यथा, ताड़ी पी कर मस्त ॥",
+      "general": "பேதை ஒருவன் தன் கையில் பொருள் உடைமையைப் பெற்றால், அது பித்தன் ஒருவன் கள்ளுண்டு மயங்கி ஆடுவது போன்றதாகும்.",
+      "en": "When a fool gets hold of wealth, he behaves just like a madman intoxicated by liquor.",
+      "hi": "किसी मूढ़ व्यक्ति के हाथ में सम्पत्ति लग जाना वैसा ही है, जैसे कोई पागल व्यक्ति ताड़ी (मदिरा) पीकर मस्त हो जाए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மையல் ஒருவன் <br>(Maiyal oruvan)",
+          "ta": "பித்தன் ஒருவன்",
+          "en": "A madman",
+          "hi": "पागल का"
+        },
+        {
+          "no": 2,
+          "word": "களித்தற்று <br>(Kaliththatru)",
+          "ta": "கள் குடித்துக் களிப்பது போன்றது",
+          "en": "Raves in drunken glee",
+          "hi": "ताड़ी पी कर मस्त होना यथा"
+        },
+        {
+          "no": 3,
+          "word": "பேதை <br>(Pedhai)",
+          "ta": "பேதை",
+          "en": "Folly's",
+          "hi": "एक मूढ़ के"
+        },
+        {
+          "no": 4,
+          "word": "தன் கையுள் <br>(Than kaiyul)",
+          "ta": "தன் கையில்",
+          "en": "Hand grasps",
+          "hi": "हस्त"
+        },
+        {
+          "no": 5,
+          "word": "ஒன்று <br>(Ondru)",
+          "ta": "ஒரு பொருளை",
+          "en": "Wealth's increase",
+          "hi": "संपत्ति का"
+        },
+        {
+          "no": 6,
+          "word": "உடைமை <br>(Udaimai)",
+          "ta": "உடைமையாகப்",
+          "en": "Possession",
+          "hi": "लगना"
+        },
+        {
+          "no": 7,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "பெற்றால்",
+          "en": "When",
+          "hi": "पाए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மைய லொருவன் களித்தற்றாற் பேதைதன்",
+          "line2": "கையொன் றுடைமை பெறின்."
+        },
+        "en": {
+          "line1": "When folly's hand grasps wealth's increase, 'twill be",
+          "line2": "As when a madman raves in drunken glee."
+        },
+        "hi": {
+          "line1": "लगना है संपत्ति का, एक मूढ़ के हस्त ।",
+          "line2": "पागल का होना यथा, ताड़ी पी कर मस्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Maiya Loruvan Kaliththatraar Pedhaidhan",
+            "line2": "Kaiyon Rudaimai Perin."
+          },
+          "hi": {
+            "line1": "मैय लॊरुवन् कळित्तत्रार् पेदैतन्",
+            "line2": "कैयॊन् रुडैमै पॆरिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பேதை ஒருவன் தன் கையில் பொருள் உடைமையைப் பெற்றால், அது பித்தன் ஒருவன் கள்ளுண்டு மயங்கி ஆடுவது போன்றதாகும்.",
+        "en": "Putting money into a fool's hands is like handing a bottle of liquor to someone already losing their mind.",
+        "hi": "किसी मूढ़ व्यक्ति के हाथ में सम्पत्ति लग जाना वैसा ही है, जैसे कोई पागल व्यक्ति ताड़ी (मदिरा) पीकर मस्त हो जाए।"
+      }
+    },
+    {
+      "num": 839,
+      "line1": "பெரிதினிது பேதையார் கேண்மை பிரிவின்கட்",
+      "line2": "பீழை தருவதொன் றில்.",
+      "enLine1": "Friendship of fools is very pleasant thing;",
+      "enLine2": "Parting with them will leave behind no sting.",
+      "hiLine1": "पीड़ा तो देती नहीं, जब होती है भंग ।",
+      "hiLine2": "सो मूढ़ों की मित्रता, है अति मधुर प्रसंग ॥",
+      "general": "பேதையரின் நட்பு மிகவும் இனிமையானதாகும்; ஏனென்றால் அவர்களைப் பிரிந்து செல்லும்போது அது எந்தத் துன்பத்தையும் தருவதில்லை.",
+      "en": "Friendship with fools has one great sweetness: when it ends, parting from them causes no sorrow at all.",
+      "hi": "मूढ़ों की मित्रता बहुत मधुर प्रसंग (अच्छी बात) है, क्योंकि जब वह टूटती है तब उससे कोई पीड़ा या दुःख नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பெரிது இனிது <br>(Peridhu inidhu)",
+          "ta": "மிகவும் இனிமையானது",
+          "en": "Very pleasant thing",
+          "hi": "है अति मधुर प्रसंग"
+        },
+        {
+          "no": 2,
+          "word": "பேதையார் <br>(Pedhaiyaar)",
+          "ta": "பேதையரின்",
+          "en": "Of fools",
+          "hi": "मूढ़ों की"
+        },
+        {
+          "no": 3,
+          "word": "கேண்மை <br>(Kenmai)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "मित्रता"
+        },
+        {
+          "no": 4,
+          "word": "பிரிவின்கண் <br>(Pirivinkan)",
+          "ta": "பிரியும் போது",
+          "en": "Parting with them",
+          "hi": "जब होती है भंग"
+        },
+        {
+          "no": 5,
+          "word": "பீழை <br>(Peezhai)",
+          "ta": "துன்பம்",
+          "en": "Sting",
+          "hi": "पीड़ा"
+        },
+        {
+          "no": 6,
+          "word": "தருவது ஒன்று <br>(Tharuvadhu ondru)",
+          "ta": "தருவது ஒன்றும்",
+          "en": "Will leave behind",
+          "hi": "तो देती"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "No",
+          "hi": "नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பெரிதினிது பேதையார் கேண்மை பிரிவின்கட்",
+          "line2": "பீழை தருவதொன் றில்."
+        },
+        "en": {
+          "line1": "Friendship of fools is very pleasant thing;",
+          "line2": "Parting with them will leave behind no sting."
+        },
+        "hi": {
+          "line1": "पीड़ा तो देती नहीं, जब होती है भंग ।",
+          "line2": "सो मूढ़ों की मित्रता, है अति मधुर प्रसंग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Peridhinidhu Pedhaiyaar Kenmai Pirivinkat",
+            "line2": "Peezhai Tharuvadhon Ril."
+          },
+          "hi": {
+            "line1": "पॆरिदिनिदु पेदैयार् केण्मै पिरिविन्गड्",
+            "line2": "पीऴै तरुवदॊन् रिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பேதையரின் நட்பு மிகவும் இனிமையானதாகும்; ஏனென்றால் அவர்களைப் பிரிந்து செல்லும்போது அது எந்தத் துன்பத்தையும் தருவதில்லை.",
+        "en": "The best perk of being friends with fools is that walking away from them doesn't hurt a bit.",
+        "hi": "मूढ़ों की मित्रता बहुत मधुर प्रसंग (अच्छी बात) है, क्योंकि जब वह टूटती है तब उससे कोई पीड़ा या दुःख नहीं होता।"
+      }
+    },
+    {
+      "num": 840,
+      "line1": "கழாஅக்கால் பள்ளியுள் வைத்தற்றாற் சான்றோர்",
+      "line2": "குழாஅத்துப் பேதை புகல்.",
+      "enLine1": "Like him who seeks his couch with unwashed feet,",
+      "enLine2": "Is fool whose foot intrudes where wise men meet.",
+      "hiLine1": "सुधी-सभा में मूढ़ का, घुसना है यों, खैर ।",
+      "hiLine2": "ज्यों रखना धोये बिना, स्वच्छ सेज पर पैर ॥",
+      "general": "அறிவுடைய சான்றோர்களின் கூட்டத்திற்குள் பேதை ஒருவன் நுழைவது, கழுவாத அழுக்குக் காலைப் படுக்கைக்குள் வைப்பது போன்றதாகும்.",
+      "en": "A fool intruding into a gathering of the wise is like someone stepping onto a clean bed with unwashed feet.",
+      "hi": "विद्वानों की सभा में किसी मूढ़ व्यक्ति का प्रवेश करना वैसा ही है, जैसे कोई बिना धोए गन्दे पैर स्वच्छ बिस्तर पर रख दे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கழாஅக் கால் <br>(Kazhaaak kaal)",
+          "ta": "கழுவாத காலை",
+          "en": "Unwashed feet",
+          "hi": "धोये बिना पैर"
+        },
+        {
+          "no": 2,
+          "word": "பள்ளியுள் <br>(Palliyul)",
+          "ta": "படுக்கையில்",
+          "en": "Couch",
+          "hi": "स्वच्छ सेज पर"
+        },
+        {
+          "no": 3,
+          "word": "வைத்தற்று <br>(Vaiththatru)",
+          "ta": "வைப்பது போன்றது",
+          "en": "Like him who seeks",
+          "hi": "ज्यों रखना"
+        },
+        {
+          "no": 4,
+          "word": "சான்றோர் <br>(Saandror)",
+          "ta": "சான்றோர்களின்",
+          "en": "Wise men",
+          "hi": "सुधी"
+        },
+        {
+          "no": 5,
+          "word": "குழாஅத்து <br>(Kuzhaaaththu)",
+          "ta": "கூட்டத்தில்",
+          "en": "Where meet",
+          "hi": "सभा में"
+        },
+        {
+          "no": 6,
+          "word": "பேதை <br>(Pedhai)",
+          "ta": "பேதை",
+          "en": "Fool",
+          "hi": "मूढ़ का"
+        },
+        {
+          "no": 7,
+          "word": "புகல் <br>(Pugal)",
+          "ta": "நுழைதல்",
+          "en": "Intrudes",
+          "hi": "घुसना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கழாஅக்கால் பள்ளியுள் வைத்தற்றாற் சான்றோர்",
+          "line2": "குழாஅத்துப் பேதை புகல்."
+        },
+        "en": {
+          "line1": "Like him who seeks his couch with unwashed feet,",
+          "line2": "Is fool whose foot intrudes where wise men meet."
+        },
+        "hi": {
+          "line1": "सुधी-सभा में मूढ़ का, घुसना है यों, खैर ।",
+          "line2": "ज्यों रखना धोये बिना, स्वच्छ सेज पर पैर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kazhaaakkaal Palliyul Vaiththatraar Saanror",
+            "line2": "Kuzhaaaththup Pedhai Pugal."
+          },
+          "hi": {
+            "line1": "कऴाअक्काल् पळ्ळियुळ् वैत्तत्रार् सान्द्रोर्",
+            "line2": "कुऴाअत्तुप् पेदै पुगल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறிவுடைய சான்றோர்களின் கூட்டத்திற்குள் பேதை ஒருவன் நுழைவது, கழுவாத அழுக்குக் காலைப் படுக்கைக்குள் வைப்பது போன்றதாகும்.",
+        "en": "A fool crashing a room full of thoughtful people is just like tracking mud onto fresh sheets.",
+        "hi": "विद्वानों की सभा में किसी मूढ़ व्यक्ति का प्रवेश करना वैसा ही है, जैसे कोई बिना धोए गन्दे पैर स्वच्छ बिस्तर पर रख दे।"
+      }
+    }
+  ]
+}

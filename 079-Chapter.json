@@ -1,0 +1,930 @@
+{
+  "chapterNum": 79,
+  "nameTa": "நட்பு",
+  "nameEn": "Friendship",
+  "nameHi": "मैत्री",
+  "paal": "பொருட்பால்",
+  "iyal": "அங்கவியல்",
+  "kurals": [
+    {
+      "num": 781,
+      "line1": "செயற்கரிய யாவுள நட்பி னதுபோல்",
+      "line2": "வினைக்கரிய யாவுள காப்பு.",
+      "enLine1": "What so hard for men to gain as friendship true?",
+      "enLine2": "What so sure defence 'gainst all that foe can do?",
+      "hiLine1": "करने को मैत्री सदृश, कृति है कौन महान ।",
+      "hiLine2": "दुर्लभ-रक्षक शत्रु से, उसके कौन समान ॥",
+      "general": "நட்பைப் போலச் செய்துகொள்வதற்கு அரிய செயல் வேறு எதுவும் இல்லை; அதுபோலத் தீய செயல்களிலிருந்து காக்கும் காவலும் வேறு எதுவும் இல்லை.",
+      "en": "What is as difficult to build as true friendship, and what is as strong a shield against hostile schemes as friendship?",
+      "hi": "सच्ची मैत्री करने के समान अन्य कौन-सा महान कार्य है, और शत्रु के प्रहारों से रक्षा करने में उसके समान दुर्लभ कवच और क्या है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "செயற்கு அரிய <br>(Seyarku ariya)",
+          "ta": "செய்வதற்கு அரியவை",
+          "en": "Hard to gain",
+          "hi": "करने को महान"
+        },
+        {
+          "no": 2,
+          "word": "யாவுள <br>(Yaavula)",
+          "ta": "யாவை உள்ளன",
+          "en": "What",
+          "hi": "कौन"
+        },
+        {
+          "no": 3,
+          "word": "நட்பின் <br>(Natpin)",
+          "ta": "நட்பைப் போல",
+          "en": "As friendship true",
+          "hi": "मैत्री सदृश"
+        },
+        {
+          "no": 4,
+          "word": "அது போல் <br>(Adhu pol)",
+          "ta": "அதைப் போல",
+          "en": "So",
+          "hi": "उसके समान"
+        },
+        {
+          "no": 5,
+          "word": "வினைக்கு அரிய <br>(Vinaikku ariya)",
+          "ta": "பகைவர் செயலுக்கு அரிய",
+          "en": "'Gainst all foe can do",
+          "hi": "शत्रु से"
+        },
+        {
+          "no": 6,
+          "word": "யாவுள <br>(Yaavula)",
+          "ta": "யாவை உள்ளன",
+          "en": "What",
+          "hi": "कौन"
+        },
+        {
+          "no": 7,
+          "word": "காப்பு <br>(Kaappu)",
+          "ta": "பாதுகாப்பு",
+          "en": "Sure defence",
+          "hi": "दुर्लभ-रक्षक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செயற்கரிய யாவுள நட்பி னதுபோல்",
+          "line2": "வினைக்கரிய யாவுள காப்பு."
+        },
+        "en": {
+          "line1": "What so hard for men to gain as friendship true?",
+          "line2": "What so sure defence 'gainst all that foe can do?"
+        },
+        "hi": {
+          "line1": "करने को मैत्री सदृश, कृति है कौन महान ।",
+          "line2": "दुर्लभ-रक्षक शत्रु से, उसके कौन समान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seyarkariya Yaavula Natpi Nadhubol",
+            "line2": "Vinaikkariya Yaavula Kaappu."
+          },
+          "hi": {
+            "line1": "सॆयर्करिय यावुळ नट्पि नदुपोल्",
+            "line2": "विनैक्करिय यावुळ काप्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நட்பைப் போலச் செய்துகொள்வதற்கு அரிய செயல் வேறு எதுவும் இல்லை; அதுபோலத் தீய செயல்களிலிருந்து காக்கும் காவலும் வேறு எதுவும் இல்லை.",
+        "en": "Nothing is harder to earn than genuine friendship—and nothing protects you better once you have it.",
+        "hi": "सच्ची मैत्री करने के समान अन्य कौन-सा महान कार्य है, और शत्रु के प्रहारों से रक्षा करने में उसके समान दुर्लभ कवच और क्या है?"
+      }
+    },
+    {
+      "num": 782,
+      "line1": "நிறைநீர நீரவர் கேண்மை பிறைமதிப்",
+      "line2": "பின்னீர பேதையார் நட்பு.",
+      "enLine1": "Friendship with men fulfilled of good waxes like the crescent moon;",
+      "enLine2": "Friendship with men of foolish mood, like the full orb, waneth soon.",
+      "hiLine1": "प्राज्ञ मित्रता यों बढ़े, यथा दूज का चाँद ।",
+      "hiLine2": "मूर्ख मित्रता यों घटे, ज्यों पूनो के बाद ॥",
+      "general": "அறிவு நிறைந்த பெரியோரின் நட்பு வளர்பிறை போல நாளுக்கு நாள் வளரும்; அறிவற்ற பேதையரின் நட்போ தேய்பிறை போல நாளுக்கு நாள் தேய்ந்து அழியும்.",
+      "en": "Friendship with the wise grows steadily like the waxing crescent moon; friendship with fools shrinks like the waning moon after full moon.",
+      "hi": "बुद्धिमान लोगों की मित्रता द्वितीया के चाँद की तरह दिन-प्रतिदिन बढ़ती है, जबकि मूर्खों की मित्रता पूर्णिमा के बाद के चाँद की तरह घटती जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நிறை நீர <br>(Nirai neera)",
+          "ta": "வளர்பிறை போன்றது",
+          "en": "Waxes like crescent moon",
+          "hi": "यथा दूज का चाँद बढ़े"
+        },
+        {
+          "no": 2,
+          "word": "நீரவர் <br>(Neeravar)",
+          "ta": "நற்குணமுடையவரின்",
+          "en": "Men fulfilled of good",
+          "hi": "प्राज्ञ"
+        },
+        {
+          "no": 3,
+          "word": "கேண்மை <br>(Kenmai)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "मित्रता"
+        },
+        {
+          "no": 4,
+          "word": "பிறைமதிப் <br>(Piraimadhip)",
+          "ta": "நிறைமதியின்",
+          "en": "Like the full orb",
+          "hi": "ज्यों पूनो के बाद"
+        },
+        {
+          "no": 5,
+          "word": "பின் நீர <br>(Pin neera)",
+          "ta": "தேய்பிறை போன்றது",
+          "en": "Waneth soon",
+          "hi": "यों घटे"
+        },
+        {
+          "no": 6,
+          "word": "பேதையார் <br>(Pedhaiyaar)",
+          "ta": "அறிவிலாதவரின்",
+          "en": "Men of foolish mood",
+          "hi": "मूर्ख"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "मित्रता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நிறைநீர நீரவர் கேண்மை பிறைமதிப்",
+          "line2": "பின்னீர பேதையார் நட்பு."
+        },
+        "en": {
+          "line1": "Friendship with men fulfilled of good waxes like the crescent moon;",
+          "line2": "Friendship with men of foolish mood, like the full orb, waneth soon."
+        },
+        "hi": {
+          "line1": "प्राज्ञ मित्रता यों बढ़े, यथा दूज का चाँद ।",
+          "line2": "मूर्ख मित्रता यों घटे, ज्यों पूनो के बाद ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Niraineera Neeravar Kenmai Piraimadhip",
+            "line2": "Pinneera Pedhaiyaar Natpu."
+          },
+          "hi": {
+            "line1": "निरैनीर नीरवर् केण्मै पिरैमदिप्",
+            "line2": "पिन्नीर पेदैयार् नट्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறிவு நிறைந்த பெரியோரின் நட்பு வளர்பிறை போல நாளுக்கு நாள் வளரும்; அறிவற்ற பேதையரின் நட்போ தேய்பிறை போல நாளுக்கு நாள் தேய்ந்து அழியும்.",
+        "en": "Friendship with wise people grows brighter over time like a waxing moon; friendship with fools fades away just as fast.",
+        "hi": "बुद्धिमान लोगों की मित्रता द्वितीया के चाँद की तरह दिन-प्रतिदिन बढ़ती है, जबकि मूर्खों की मित्रता पूर्णिमा के बाद के चाँद की तरह घटती जाती है।"
+      }
+    },
+    {
+      "num": 783,
+      "line1": "நவிறொறு நூனயம் போலும் பயிறொறும்",
+      "line2": "பண்புடை யாளர் தொடர்பு.",
+      "enLine1": "Learned scroll the more you ponder, sweeter grows the mental food;",
+      "enLine2": "So the heart by use grows fonder, bound in friendship with the good.",
+      "hiLine1": "करते करते अध्ययन, अधिक सुखद ज्यों ग्रन्थ ।",
+      "hiLine2": "परिचय बढ़ बढ़ सुजन की, मैत्री दे आनन्द ॥",
+      "general": "நல்ல நூல்களைக் கற்கக் கற்க அவற்றின் பொருள் இனிமை தருவது போல, நற்பண்புடையவர்களின் நட்பு பழகப் பழக இன்பம் தரும்.",
+      "en": "Just as a great book reveals deeper beauty every time you read it, friendship with noble people grows sweeter the more you associate with them.",
+      "hi": "जिस प्रकार बार-बार अध्ययन करने से उत्तम ग्रन्थ अधिक सुखद लगता है, उसी प्रकार सज्जनों का परिचय और उनकी मित्रता बढ़ने पर अधिकाधिक आनन्द देती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நவில் தொறும் <br>(Navil thorum)",
+          "ta": "படிக்கப் படிக்க",
+          "en": "The more you ponder",
+          "hi": "करते करते अध्ययन"
+        },
+        {
+          "no": 2,
+          "word": "நூல் நயம் <br>(Nool nayam)",
+          "ta": "நூலின் இனிமை",
+          "en": "Learned scroll",
+          "hi": "अधिक सुखद ग्रन्थ"
+        },
+        {
+          "no": 3,
+          "word": "போலும் <br>(Polum)",
+          "ta": "போல",
+          "en": "So",
+          "hi": "ज्यों"
+        },
+        {
+          "no": 4,
+          "word": "பயில் தொறும் <br>(Payil thorum)",
+          "ta": "பழகப் பழக",
+          "en": "By use grows fonder",
+          "hi": "परिचय बढ़ बढ़"
+        },
+        {
+          "no": 5,
+          "word": "பண்புடையாளர் <br>(Panbudaiyaalar)",
+          "ta": "நற்பண்புடையவரின்",
+          "en": "With the good",
+          "hi": "सुजन की"
+        },
+        {
+          "no": 6,
+          "word": "தொடர்பு <br>(Thodarbu)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "मैत्री"
+        },
+        {
+          "no": 7,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "இன்பம்",
+          "en": "Sweeter",
+          "hi": "आनन्द"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நவிறொறு நூனயம் போலும் பயிறொறும்",
+          "line2": "பண்புடை யாளர் தொடர்பு."
+        },
+        "en": {
+          "line1": "Learned scroll the more you ponder, sweeter grows the mental food;",
+          "line2": "So the heart by use grows fonder, bound in friendship with the good."
+        },
+        "hi": {
+          "line1": "करते करते अध्ययन, अधिक सुखद ज्यों ग्रन्थ ।",
+          "line2": "परिचय बढ़ बढ़ सुजन की, मैत्री दे आनन्द ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naviroru Noonayam Polum Payirorum",
+            "line2": "Panpudai Yaalar Thodarpu."
+          },
+          "hi": {
+            "line1": "नविरॊरु नूनयम् पोलुम् पयिरॊरुम्",
+            "line2": "पण्बुडै याळर् तॊडर्बु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்ல நூல்களைக் கற்கக் கற்க அவற்றின் பொருள் இனிமை தருவது போல, நற்பண்புடையவர்களின் நட்பு பழகப் பழக இன்பம் தரும்.",
+        "en": "Good friendships are like classic books—the deeper you go, the richer and more rewarding they get.",
+        "hi": "जिस प्रकार बार-बार अध्ययन करने से उत्तम ग्रन्थ अधिक सुखद लगता है, उसी प्रकार सज्जनों का परिचय और उनकी मित्रता बढ़ने पर अधिकाधिक आनन्द देती है।"
+      }
+    },
+    {
+      "num": 784,
+      "line1": "நகுதற் பொருட்டன்று நட்டன் மிகுதிக்கண்",
+      "line2": "மேற்சென் றிடித்தற் பொருட்டு.",
+      "enLine1": "Not for laughter only friendship all the pleasant day,",
+      "enLine2": "But for strokes of sharp reproving, when from right you stray.",
+      "hiLine1": "हँसी-खेल करना नहीं, मैत्री का उपकार ।",
+      "hiLine2": "आगे बढ़ अति देख कर, करना है फटकार ॥",
+      "general": "நட்புக் கொள்வது சிரித்து மகிழ்வதற்காக மட்டும் அன்று; நண்பன் தவறு செய்யும்போது முந்திச் சென்று கண்டித்துத் திருத்துவதற்காகவே ஆகும்.",
+      "en": "Friendship is not merely for laughing and passing pleasant time together; it is for stepping up to correct a friend when they cross the line.",
+      "hi": "मित्रता का उद्देश्य केवल हँसी-खेल करना नहीं है, बल्कि मित्र को मर्यादा से आगे बढ़ता (अति करता) देखकर उसे डाँटकर सही रास्ते पर लाना है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நகுதல் பொருட்டு <br>(Nagudhal poruttu)",
+          "ta": "சிரித்து மகிழும் பொருட்டு",
+          "en": "For laughter only",
+          "hi": "हँसी-खेल करना"
+        },
+        {
+          "no": 2,
+          "word": "அன்று <br>(Andru)",
+          "ta": "அல்ல",
+          "en": "Not",
+          "hi": "नहीं"
+        },
+        {
+          "no": 3,
+          "word": "நட்டல் <br>(Nattal)",
+          "ta": "நட்புக் கொள்ளுதல்",
+          "en": "Friendship",
+          "hi": "मैत्री का उपकार"
+        },
+        {
+          "no": 4,
+          "word": "மிகுதிக்கண் <br>(Migudhikkan)",
+          "ta": "தவறு மிகும்போது",
+          "en": "When from right you stray",
+          "hi": "अति देख कर"
+        },
+        {
+          "no": 5,
+          "word": "மேல் சென்று <br>(Mel sendru)",
+          "ta": "முன் சென்று",
+          "en": "Stepping in",
+          "hi": "आगे बढ़"
+        },
+        {
+          "no": 6,
+          "word": "இடித்தல் <br>(Idiththal)",
+          "ta": "கண்டித்துத் திருத்தும்",
+          "en": "Sharp reproving",
+          "hi": "करना है फटकार"
+        },
+        {
+          "no": 7,
+          "word": "பொருட்டு <br>(Poruttu)",
+          "ta": "பொருட்டாகும்",
+          "en": "For",
+          "hi": "लिये"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நகுதற் பொருட்டன்று நட்டன் மிகுதிக்கண்",
+          "line2": "மேற்சென் றிடித்தற் பொருட்டு."
+        },
+        "en": {
+          "line1": "Not for laughter only friendship all the pleasant day,",
+          "line2": "But for strokes of sharp reproving, when from right you stray."
+        },
+        "hi": {
+          "line1": "हँसी-खेल करना नहीं, मैत्री का उपकार ।",
+          "line2": "आगे बढ़ अति देख कर, करना है फटकार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nagudhar Poruttanru Nattan Migudhikkan",
+            "line2": "Mersen Ridiththar Poruttu."
+          },
+          "hi": {
+            "line1": "नगुदर् पॊरुट्टन्द्रु नट्टन् मिगुदिक्कण्",
+            "line2": "मेर्त्सॆन् रिडित्तर् पॊरुट्टु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நட்புக் கொள்வது சிரித்து மகிழ்வதற்காக மட்டும் அன்று; நண்பன் தவறு செய்யும்போது முந்திச் சென்று கண்டித்துத் திருத்துவதற்காகவே ஆகும்.",
+        "en": "Real friendship isn't just about good times and laughs—it's having the courage to call a friend out when they're messing up.",
+        "hi": "मित्रता का उद्देश्य केवल हँसी-खेल करना नहीं है, बल्कि मित्र को मर्यादा से आगे बढ़ता (अति करता) देखकर उसे डाँटकर सही रास्ते पर लाना है।"
+      }
+    },
+    {
+      "num": 785,
+      "line1": "புணர்ச்சி பழகுதல் வேண்டா வுணர்ச்சிதா",
+      "line2": "னட்பாங் கிழமை தரும்.",
+      "enLine1": "Not association constant, not affection's token bind;",
+      "enLine2": "'Tis the unison of feeling friends unites of kindred mind.",
+      "hiLine1": "परिचय औ' संपर्क की, नहीं ज़रूरत यार ।",
+      "hiLine2": "देता है भावैक्य ही, मैत्री का अधिकार ॥",
+      "general": "நட்புக்கு எப்போதும் உடனிருத்தலும் பழகுதலும் தேவையில்லை; இருவரின் உள்ளப் பொருத்தமே நட்பு என்னும் உரிமையைத் தரும்.",
+      "en": "Constant physical proximity and frequent meetings are not required; shared understanding and harmony of heart alone create the bond of friendship.",
+      "hi": "मित्रता के लिए निरन्तर परिचय और संपर्क की आवश्यकता नहीं है; हृदय की भावनाओं की एकता ही मैत्री का सच्चा अधिकार देती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "புணர்ச்சி <br>(Punarchi)",
+          "ta": "உடனிருத்தலும்",
+          "en": "Association constant",
+          "hi": "संपर्क की"
+        },
+        {
+          "no": 2,
+          "word": "பழகுதல் <br>(Pazhagudhal)",
+          "ta": "அடிக்கடி பழகுதலும்",
+          "en": "Familiarity",
+          "hi": "परिचय औ'"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டா <br>(Vendaa)",
+          "ta": "தேவையில்லை",
+          "en": "Not",
+          "hi": "नहीं ज़रूरत"
+        },
+        {
+          "no": 4,
+          "word": "உணர்ச்சி தான் <br>(Unarchi thaan)",
+          "ta": "மன ஒற்றுமையே",
+          "en": "Unison of feeling",
+          "hi": "भावैक्य ही"
+        },
+        {
+          "no": 5,
+          "word": "நட்பு ஆம் <br>(Natpu aam)",
+          "ta": "நட்பாகும்",
+          "en": "Friends unites",
+          "hi": "मैत्री का"
+        },
+        {
+          "no": 6,
+          "word": "கிழமை <br>(Kizhamai)",
+          "ta": "உரிமையைத்",
+          "en": "Right",
+          "hi": "अधिकार"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Gives",
+          "hi": "देता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புணர்ச்சி பழகுதல் வேண்டா வுணர்ச்சிதா",
+          "line2": "னட்பாங் கிழமை தரும்."
+        },
+        "en": {
+          "line1": "Not association constant, not affection's token bind;",
+          "line2": "'Tis the unison of feeling friends unites of kindred mind."
+        },
+        "hi": {
+          "line1": "परिचय औ' संपर्क की, नहीं ज़रूरत यार ।",
+          "line2": "देता है भावैक्य ही, मैत्री का अधिकार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Punarchchi Pazhagudhal Vendaa Vunarchchidhaa",
+            "line2": "Natpaang Kizhamai Tharum."
+          },
+          "hi": {
+            "line1": "पुणर्चि पऴगुदल् वेण्डा वुणर्चिदा",
+            "line2": "नट्पाङ् किऴमै तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நட்புக்கு எப்போதும் உடனிருத்தலும் பழகுதலும் தேவையில்லை; இருவரின் உள்ளப் பொருத்தமே நட்பு என்னும் உரிமையைத் தரும்.",
+        "en": "You don't need to hang out every day to be true friends—a deep alignment of hearts and values does all the work.",
+        "hi": "मित्रता के लिए निरन्तर परिचय और संपर्क की आवश्यकता नहीं है; हृदय की भावनाओं की एकता ही मैत्री का सच्चा अधिकार देती है।"
+      }
+    },
+    {
+      "num": 786,
+      "line1": "முகநக நட்பது நட்பன்று நெஞ்சத்",
+      "line2": "தகநக நட்பது நட்பு.",
+      "enLine1": "Not the face's smile of welcome shows the friend sincere,",
+      "enLine2": "But the heart's rejoicing gladness when the friend is near.",
+      "hiLine1": "केवल मुख खिल जाय तो, मैत्री कहा न जाय ।",
+      "hiLine2": "सही मित्रता है वही, जिससे जी खिल जाय ॥",
+      "general": "முகம் மட்டும் மலரும்படி பழகுவது நட்பு ஆகாது; உள்ளம் அன்பால் மலரும்படி பழகுவதே உண்மையான நட்பாகும்.",
+      "en": "Smiling only on the face is not true friendship; genuine friendship is when the heart itself rejoices with warmth.",
+      "hi": "केवल मुख पर मुस्कान आ जाने को मित्रता नहीं कहा जाता; सच्ची मित्रता तो वही है जिससे हृदय भी खिल उठे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "முகம் நக <br>(Mugam naga)",
+          "ta": "முகம் மட்டும் சிரிக்க",
+          "en": "Face's smile",
+          "hi": "केवल मुख खिल जाय"
+        },
+        {
+          "no": 2,
+          "word": "நட்பது <br>(Natpadhu)",
+          "ta": "பழகுவது",
+          "en": "Shows",
+          "hi": "मैत्री"
+        },
+        {
+          "no": 3,
+          "word": "நட்பு அன்று <br>(Natpu andru)",
+          "ta": "நட்பு அல்ல",
+          "en": "Not friend sincere",
+          "hi": "कहा न जाय"
+        },
+        {
+          "no": 4,
+          "word": "நெஞ்சத்து <br>(Nenjaththu)",
+          "ta": "உள்ளத்தின்",
+          "en": "The heart's",
+          "hi": "जिससे जी"
+        },
+        {
+          "no": 5,
+          "word": "அகம் நக <br>(Agam naga)",
+          "ta": "உள்ளம் மகிழ",
+          "en": "Rejoicing gladness",
+          "hi": "खिल जाय"
+        },
+        {
+          "no": 6,
+          "word": "நட்பது <br>(Natpadhu)",
+          "ta": "பழகுவதே",
+          "en": "Is",
+          "hi": "वही"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "உண்மை நட்பு",
+          "en": "Friendship",
+          "hi": "सही मित्रता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "முகநக நட்பது நட்பன்று நெஞ்சத்",
+          "line2": "தகநக நட்பது நட்பு."
+        },
+        "en": {
+          "line1": "Not the face's smile of welcome shows the friend sincere,",
+          "line2": "But the heart's rejoicing gladness when the friend is near."
+        },
+        "hi": {
+          "line1": "केवल मुख खिल जाय तो, मैत्री कहा न जाय ।",
+          "line2": "सही मित्रता है वही, जिससे जी खिल जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Muganaga Natpadhu Natpanru Nenjath",
+            "line2": "Thaganaga Natpadhu Natpu."
+          },
+          "hi": {
+            "line1": "मुगनग नट्पदु नट्पन्द्रु नॆञ्जत्",
+            "line2": "तगनग नट्पदु नट्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முகம் மட்டும் மலரும்படி பழகுவது நட்பு ஆகாது; உள்ளம் அன்பால் மலரும்படி பழகுவதே உண்மையான நட்பாகும்.",
+        "en": "Polite smiles don't make a friend; real friendship is when your heart genuinely lights up to see them.",
+        "hi": "केवल मुख पर मुस्कान आ जाने को मित्रता नहीं कहा जाता; सच्ची मित्रता तो वही है जिससे हृदय भी खिल उठे।"
+      }
+    },
+    {
+      "num": 787,
+      "line1": "அழிவி னவைநீக்கி யாறுய்த் தழிவின்க",
+      "line2": "ணல்ல லுழப்பதா நட்பு.",
+      "enLine1": "Friendship from ruin saves, in way of virtue keeps;",
+      "enLine2": "In troublous time, it weeps with him who weeps.",
+      "hiLine1": "चला सुपथ पर मित्र को, हटा कुपथ से दूर ।",
+      "hiLine2": "सह सकती दुख विपद में, मैत्री वही ज़रूर ॥",
+      "general": "கெடுதி தரும் தீய வழிகளிலிருந்து நண்பனை நீக்கி நல்வழியில் செலுத்தி, அவனுக்கு அழிவு வந்த காலத்தில் தானும் துன்பப்படுவதே நட்பாகும்.",
+      "en": "True friendship turns a friend away from ruin, guides them onto the right path, and shares their sorrow in times of distress.",
+      "hi": "मित्र को बुरे रास्ते से हटाकर अच्छे मार्ग पर चलाना और विपत्ति के समय उसके दुःख को स्वयं सह लेना ही सच्ची मित्रता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அழிவின் அவை <br>(Azhivin avai)",
+          "ta": "அழிவைத் தரும் தீமைகளை",
+          "en": "From ruin",
+          "hi": "कुपथ से दूर"
+        },
+        {
+          "no": 2,
+          "word": "நீக்கி <br>(Neekki)",
+          "ta": "நீக்கி",
+          "en": "Saves",
+          "hi": "हटा"
+        },
+        {
+          "no": 3,
+          "word": "ஆறு உய்த்து <br>(Aaru uyththu)",
+          "ta": "நல்வழியில் செலுத்தி",
+          "en": "Way of virtue keeps",
+          "hi": "चला सुपथ पर"
+        },
+        {
+          "no": 4,
+          "word": "அழிவின்கண் <br>(Azhivinkan)",
+          "ta": "துன்பம் வந்தபோது",
+          "en": "In troublous time",
+          "hi": "विपद में"
+        },
+        {
+          "no": 5,
+          "word": "அல்லல் <br>(Allal)",
+          "ta": "துயரத்தை",
+          "en": "Sorrow",
+          "hi": "दुख"
+        },
+        {
+          "no": 6,
+          "word": "உழப்பது ஆம் <br>(Uzhappadhu aam)",
+          "ta": "தானும் அனுபவிப்பதே",
+          "en": "Weeps with him",
+          "hi": "सह सकती"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "मैत्री वही ज़रूर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அழிவி னவைநீக்கி யாறுய்த் தழிவின்க",
+          "line2": "ணல்ல லுழப்பதா நட்பு."
+        },
+        "en": {
+          "line1": "Friendship from ruin saves, in way of virtue keeps;",
+          "line2": "In troublous time, it weeps with him who weeps."
+        },
+        "hi": {
+          "line1": "चला सुपथ पर मित्र को, हटा कुपथ से दूर ।",
+          "line2": "सह सकती दुख विपद में, मैत्री वही ज़रूर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Azhivi Navaineekki Yaaruyth Thazhivinka",
+            "line2": "Nalla Luzhappadhaa Natpu."
+          },
+          "hi": {
+            "line1": "अऴिवि नवैनीक्कि यारुय्त् तऴिविन्ग",
+            "line2": "णल्ल लुऴप्पदा नट्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கெடுதி தரும் தீய வழிகளிலிருந்து நண்பனை நீக்கி நல்வழியில் செலுத்தி, அவனுக்கு அழிவு வந்த காலத்தில் தானும் துன்பப்படுவதே நட்பாகும்.",
+        "en": "A real friend steers you away from bad choices, keeps you on track, and stands right beside you when things fall apart.",
+        "hi": "मित्र को बुरे रास्ते से हटाकर अच्छे मार्ग पर चलाना और विपत्ति के समय उसके दुःख को स्वयं सह लेना ही सच्ची मित्रता है।"
+      }
+    },
+    {
+      "num": 788,
+      "line1": "உடுக்கை யிழந்தவன் கைபோல வாங்கே",
+      "line2": "யிடுக்கண் களைவதா நட்பு.",
+      "enLine1": "As hand of him whose vesture slips away,",
+      "enLine2": "Friendship at once the coming grief will stay.",
+      "hiLine1": "ज्यों धोती के खिसकते, थाम उसे ले हस्त ।",
+      "hiLine2": "मित्र वही जो दुःख हो, तो झट कर दे पस्त ॥",
+      "general": "உடுத்திய ஆடை நழுவும்போது கை உடனே சென்று அதைத் தாங்கிப் பிடிப்பது போல, நண்பனுக்குத் துன்பம் வந்த உடனே சென்று அதை நீக்குவதே நட்பாகும்.",
+      "en": "Just as one's hand instinctively catches slipping clothing, true friendship rushes immediately to relieve a friend's distress.",
+      "hi": "जिस प्रकार धोती (वस्त्र) के खिसकते ही हाथ तुरन्त उसे थाम लेता है, उसी प्रकार मित्र वही है जो दुःख आने पर झट से उसे दूर कर दे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உடுக்கை <br>(Udukkai)",
+          "ta": "உடுத்திய ஆடையை",
+          "en": "Vesture",
+          "hi": "धोती के"
+        },
+        {
+          "no": 2,
+          "word": "இழந்தவன் <br>(Izhandhavan)",
+          "ta": "நழுவ விட்டவனின்",
+          "en": "Slips away",
+          "hi": "खिसकते"
+        },
+        {
+          "no": 3,
+          "word": "கை போல <br>(Kai pola)",
+          "ta": "கை போல",
+          "en": "As hand of him",
+          "hi": "ज्यों थाम ले हस्त"
+        },
+        {
+          "no": 4,
+          "word": "ஆங்கே <br>(Aange)",
+          "ta": "உடனே சென்று",
+          "en": "At once",
+          "hi": "झट"
+        },
+        {
+          "no": 5,
+          "word": "இடுக்கண் <br>(Idukkan)",
+          "ta": "துன்பத்தை",
+          "en": "Coming grief",
+          "hi": "दुःख"
+        },
+        {
+          "no": 6,
+          "word": "களைவது ஆம் <br>(Kalaivadhu aam)",
+          "ta": "நீக்குவதே",
+          "en": "Will stay",
+          "hi": "कर दे पस्त"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "मित्र वही"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உடுக்கை யிழந்தவன் கைபோல வாங்கே",
+          "line2": "யிடுக்கண் களைவதா நட்பு."
+        },
+        "en": {
+          "line1": "As hand of him whose vesture slips away,",
+          "line2": "Friendship at once the coming grief will stay."
+        },
+        "hi": {
+          "line1": "ज्यों धोती के खिसकते, थाम उसे ले हस्त ।",
+          "line2": "मित्र वही जो दुःख हो, तो झट कर दे पस्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Udukkai Yizhandhavan Kaibola Vaangge",
+            "line2": "Yidukkan Kalaivadhaa Natpu."
+          },
+          "hi": {
+            "line1": "उडुक्कै यिऴन्दवन् कैबोल वाङ्गे",
+            "line2": "यिडुक्कण् कळैवदा नट्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உடுத்திய ஆடை நழுவும்போது கை உடனே சென்று அதைத் தாங்கிப் பிடிப்பது போல, நண்பனுக்குத் துன்பம் வந்த உடனே சென்று அதை நீக்குவதே நட்பாகும்.",
+        "en": "True friendship reacts automatically—just like your hand catching a slipping garment before it falls.",
+        "hi": "जिस प्रकार धोती (वस्त्र) के खिसकते ही हाथ तुरन्त उसे थाम लेता है, उसी प्रकार मित्र वही है जो दुःख आने पर झट से उसे दूर कर दे।"
+      }
+    },
+    {
+      "num": 789,
+      "line1": "நட்பிற்கு வீற்றிருக்கை யாதெனிற் கொட்பின்றி",
+      "line2": "யொல்லும்வா யூன்று நிலை.",
+      "enLine1": "And where is friendship's royal seat? In stable mind,",
+      "enLine2": "Where friend in every time of need support may find.",
+      "hiLine1": "यथा शक्ति सब काल में, भेद बिना उपकार ।",
+      "hiLine2": "करने की क्षमता सुदृढ़, है मैत्री-दरबार ॥",
+      "general": "நட்பு பெருமையுடன் வீற்றிருக்கும் இடம் எதுவென்றால், எக்காலத்தும் மாறுபாடின்றி இயன்ற அளவு நண்பனைத் தாங்கும் உறுதியான நிலையேயாகும்.",
+      "en": "Where does friendship sit enthroned? In unwavering steadiness that supports a friend in every possible way.",
+      "hi": "सब समय, बिना किसी भेदभाव के, अपनी शक्ति के अनुसार उपकार और सहायता करने की सुदृढ़ क्षमता ही मैत्री का सिंहासन (दरबार) है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நட்பிற்கு <br>(Natpirku)",
+          "ta": "நட்புக்கு",
+          "en": "Friendship's",
+          "hi": "मैत्री"
+        },
+        {
+          "no": 2,
+          "word": "வீற்றிருக்கை <br>(Veetrirukkai)",
+          "ta": "சிறந்த இருக்கை",
+          "en": "Royal seat",
+          "hi": "दरबार"
+        },
+        {
+          "no": 3,
+          "word": "யாதெனின் <br>(Yaadhenin)",
+          "ta": "எதுவென்றால்",
+          "en": "Where is",
+          "hi": "है"
+        },
+        {
+          "no": 4,
+          "word": "கொட்பு இன்றி <br>(Kotpu indri)",
+          "ta": "மாறுபாடின்றி",
+          "en": "In stable mind",
+          "hi": "भेद बिना"
+        },
+        {
+          "no": 5,
+          "word": "ஒல்லும் வாய் <br>(Ollum vaay)",
+          "ta": "இயன்ற அளவு",
+          "en": "In every time of need",
+          "hi": "यथा शक्ति सब काल में"
+        },
+        {
+          "no": 6,
+          "word": "ஊன்றும் <br>(Oondrum)",
+          "ta": "தாங்கும்",
+          "en": "Support",
+          "hi": "उपकार करने की"
+        },
+        {
+          "no": 7,
+          "word": "நிலை <br>(Nilai)",
+          "ta": "உறுதியான நிலை",
+          "en": "May find",
+          "hi": "क्षमता सुदृढ़"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நட்பிற்கு வீற்றிருக்கை யாதெனிற் கொட்பின்றி",
+          "line2": "யொல்லும்வா யூன்று நிலை."
+        },
+        "en": {
+          "line1": "And where is friendship's royal seat? In stable mind,",
+          "line2": "Where friend in every time of need support may find."
+        },
+        "hi": {
+          "line1": "यथा शक्ति सब काल में, भेद बिना उपकार ।",
+          "line2": "करने की क्षमता सुदृढ़, है मैत्री-दरबार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Natpirku Veetrirukkai Yaadhenir Kotpinri",
+            "line2": "Yollumvaa Yoonru Nilai."
+          },
+          "hi": {
+            "line1": "नट्पिरकु वीत्रिरुक्कै यादॆनिर गॊट्पिन्द्रि",
+            "line2": "यॊल्लुम्वा यून्द्रु निलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நட்பு பெருமையுடன் வீற்றிருக்கும் இடம் எதுவென்றால், எக்காலத்தும் மாறுபாடின்றி இயன்ற அளவு நண்பனைத் தாங்கும் உறுதியான நிலையேயாகும்.",
+        "en": "Friendship's highest throne is simple reliability—showing up and backing your friend up whenever they need it.",
+        "hi": "सब समय, बिना किसी भेदभाव के, अपनी शक्ति के अनुसार उपकार और सहायता करने की सुदृढ़ क्षमता ही मैत्री का सिंहासन (दरबार) है।"
+      }
+    },
+    {
+      "num": 790,
+      "line1": "இனைய ரிவரெமக் கின்னம்யா மென்று",
+      "line2": "புனையினும் புல்லென்னு நட்பு.",
+      "enLine1": "Mean is the friendship that men blazon forth,",
+      "enLine2": "'He's thus to me,' and 'such to him my worth.'",
+      "hiLine1": "'ऐसे ये मेरे लिये', 'मैं हूँ इनका यार' ।",
+      "hiLine2": "मैत्री की महिमा गयी, यों करते उपचार ॥",
+      "general": "'இவர் எமக்கு இத்தகையவர், யாம் இவர்க்கு இத்தகையவர்' என்று பிறரிடம் புனைந்து பேசினாலும், அத்தகைய நட்பு சிறப்பற்றதாகிவிடும்.",
+      "en": "Even if people boast, 'He is so close to me and I am so dear to him,' friendship loses its nobility when it is paraded like that.",
+      "hi": "'ये मेरे लिए ऐसे हैं' और 'मैं इनका इतना बड़ा मित्र हूँ'—इस प्रकार दिखावटी बखान करने से मैत्री की सारी महिमा नष्ट हो जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இனையர் இவர் <br>(Inaiyar ivar)",
+          "ta": "இவர் இத்தகையவர்",
+          "en": "He's thus",
+          "hi": "ऐसे ये"
+        },
+        {
+          "no": 2,
+          "word": "எமக்கு <br>(Emakku)",
+          "ta": "எமக்கு",
+          "en": "To me",
+          "hi": "मेरे लिये"
+        },
+        {
+          "no": 3,
+          "word": "இன்னம் யாம் <br>(Innam yaam)",
+          "ta": "யாம் இத்தகையவர்",
+          "en": "Such to him my worth",
+          "hi": "मैं हूँ इनका यार"
+        },
+        {
+          "no": 4,
+          "word": "என்று <br>(Endru)",
+          "ta": "என்று",
+          "en": "That",
+          "hi": "यों"
+        },
+        {
+          "no": 5,
+          "word": "புனையினும் <br>(Punaiyinum)",
+          "ta": "புகழ்ந்து பேசினாலும்",
+          "en": "Men blazon forth",
+          "hi": "करते उपचार"
+        },
+        {
+          "no": 6,
+          "word": "புல்லென்னும் <br>(Pullennum)",
+          "ta": "சிறப்பற்றுப் போகும்",
+          "en": "Mean is",
+          "hi": "महिमा गयी"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "मैत्री की"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இனைய ரிவரெமக் கின்னம்யா மென்று",
+          "line2": "புனையினும் புல்லென்னு நட்பு."
+        },
+        "en": {
+          "line1": "Mean is the friendship that men blazon forth,",
+          "line2": "'He's thus to me,' and 'such to him my worth.'"
+        },
+        "hi": {
+          "line1": "'ऐसे ये मेरे लिये', 'मैं हूँ इनका यार' ।",
+          "line2": "मैत्री की महिमा गयी, यों करते उपचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inaiya Rivaremak Kinnamyaa Menru",
+            "line2": "Punaiyinum Pullennu Natpu."
+          },
+          "hi": {
+            "line1": "इनैय रिवरॆमक् किन्नम्या मॆन्द्रु",
+            "line2": "पुनैयिनुम् पुल्लॆन्नु नट्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'இவர் எமக்கு இத்தகையவர், யாம் இவர்க்கு இத்தகையவர்' என்று பிறரிடம் புனைந்து பேசினாலும், அத்தகைய நட்பு சிறப்பற்றதாகிவிடும்.",
+        "en": "Friendship cheapens fast when people brag about how tight they are or keep score for show.",
+        "hi": "'ये मेरे लिए ऐसे हैं' और 'मैं इनका इतना बड़ा मित्र हूँ'—इस प्रकार दिखावटी बखान करने से मैत्री की सारी महिमा नष्ट हो जाती है।"
+      }
+    }
+  ]
+}

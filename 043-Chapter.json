@@ -1,0 +1,930 @@
+{
+  "chapterNum": 43,
+  "nameTa": "அறிவுடைமை",
+  "nameEn": "The Possession of Knowledge",
+  "nameHi": "बुद्धिमत्ता",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 421,
+      "line1": "அறிவற்றங் காக்குங் கருவி செறுவார்க்கு",
+      "line2": "முள்ளழிக்க லாகா வரண்.",
+      "enLine1": "True wisdom wards off woes, A circling fortress high;",
+      "enLine2": "Its inner strength man's eager foes Unshaken will defy.",
+      "hiLine1": "रक्षा हित के नाश से, बुद्धिरूप औजार ।",
+      "hiLine2": "है रिपुओं के लिये, दुर्गम दुर्ग आपार ॥",
+      "general": "அறிவு என்பது அழிவு வராமல் காக்கும் கருவியாகும்; அது பகைவர்களால் உள்ளே புகுந்து அழிக்க முடியாத உறுதியான அரணும் ஆகும்.",
+      "en": "Wisdom is a weapon that wards off destruction; it is also an inner fortress that enemies cannot breach or destroy.",
+      "hi": "हित (कल्याण) के नाश से रक्षा करने वाला बुद्धिरूपी औजार शत्रुओं के लिए एक अत्यंत दुर्गम और अपार दुर्ग (किले) के समान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "அறிவானது",
+          "en": "True wisdom",
+          "hi": "बुद्धिरूप औजार"
+        },
+        {
+          "no": 2,
+          "word": "அற்றம் <br>(Atram)",
+          "ta": "அழிவு வராமல்",
+          "en": "Woes",
+          "hi": "हित के नाश से"
+        },
+        {
+          "no": 3,
+          "word": "காக்கும் <br>(Kaakkum)",
+          "ta": "காக்கும்",
+          "en": "Wards off",
+          "hi": "रक्षा"
+        },
+        {
+          "no": 4,
+          "word": "கருவி <br>(Karuvi)",
+          "ta": "கருவியாகும்",
+          "en": "Weapon / tool",
+          "hi": "औजार है"
+        },
+        {
+          "no": 5,
+          "word": "செறுவார்க்கும் <br>(Seruvaarkkum)",
+          "ta": "பகைவர்களுக்கும்",
+          "en": "Eager foes",
+          "hi": "रिपुओं के लिये"
+        },
+        {
+          "no": 6,
+          "word": "உள்ளழிக்கல் ஆகா <br>(Ullazhikkal aagaa)",
+          "ta": "உள்ளே அழிக்க முடியாத",
+          "en": "Unshaken will defy",
+          "hi": "दुर्गम आपार"
+        },
+        {
+          "no": 7,
+          "word": "அரண் <br>(Aran)",
+          "ta": "அரண் ஆகும்",
+          "en": "Fortress",
+          "hi": "दुर्ग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறிவற்றங் காக்குங் கருவி செறுவார்க்கு",
+          "line2": "முள்ளழிக்க லாகா வரண்."
+        },
+        "en": {
+          "line1": "True wisdom wards off woes, A circling fortress high;",
+          "line2": "Its inner strength man's eager foes Unshaken will defy."
+        },
+        "hi": {
+          "line1": "रक्षा हित के नाश से, बुद्धिरूप औजार ।",
+          "line2": "है रिपुओं के लिये, दुर्गम दुर्ग आपार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arivatram Kaakkum Karuvi Seruvaarkkum",
+            "line2": "Ullazhikkal Aagaa Aran."
+          },
+          "hi": {
+            "line1": "अरिवत्रङ् काक्कुङ् करुवि सॆरुवार्क्कु",
+            "line2": "मुळ्ळऴिक्क लागा वरण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறிவு என்பது அழிவு வராமல் காக்கும் கருவியாகும்; அது பகைவர்களால் உள்ளே புகுந்து அழிக்க முடியாத உறுதியான அரணும் ஆகும்.",
+        "en": "Wisdom is both a shield against ruin and an inner fortress that no enemy can break into.",
+        "hi": "हित (कल्याण) के नाश से रक्षा करने वाला बुद्धिरूपी औजार शत्रुओं के लिए एक अत्यंत दुर्गम और अपार दुर्ग (किले) के समान है।"
+      }
+    },
+    {
+      "num": 422,
+      "line1": "சென்ற விடத்தாற் செலவிடா தீதொரீஇ",
+      "line2": "நன்றின்பா லுய்ப்ப தறிவு.",
+      "enLine1": "Wisdom restrains, nor suffers mind to wander where it would;",
+      "enLine2": "From every evil calls it back, and guides in way of good.",
+      "hiLine1": "मनमाना जाने न दे, पाप-मार्ग से थाम ।",
+      "hiLine2": "मन को लाना सुपथ पर, रहा बुद्धि का काम ॥",
+      "general": "மனத்தைச் சென்ற இடமெல்லாம் செல்ல விடாமல், தீமையிலிருந்து விலக்கி நன்மையின் வழியில் செலுத்துவதே அறிவாகும்.",
+      "en": "Wisdom is keeping the mind from wandering wherever it pleases, turning it away from evil, and guiding it toward what is good.",
+      "hi": "मन को मनमाने ढंग से भटकने न देना, उसे पाप के मार्ग से थामकर अच्छे मार्ग (सुपथ) पर लाना ही बुद्धि का कार्य है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சென்ற இடத்தால் <br>(Sendra idaththaal)",
+          "ta": "மனம் சென்ற வழியே",
+          "en": "Where it would",
+          "hi": "मनमाना"
+        },
+        {
+          "no": 2,
+          "word": "செலவிடாது <br>(Selavidaadhu)",
+          "ta": "செல்ல விடாமல்",
+          "en": "Restrains / suffers not",
+          "hi": "जाने न दे"
+        },
+        {
+          "no": 3,
+          "word": "தீது <br>(Theedhu)",
+          "ta": "தீமையிலிருந்து",
+          "en": "From evil",
+          "hi": "पाप-मार्ग से"
+        },
+        {
+          "no": 4,
+          "word": "ஒரீஇ <br>(Oreei)",
+          "ta": "விலக்கி",
+          "en": "Calls it back",
+          "hi": "थाम"
+        },
+        {
+          "no": 5,
+          "word": "நன்றின்பால் <br>(Nandrinbaal)",
+          "ta": "நன்மையின் பக்கம்",
+          "en": "Way of good",
+          "hi": "सुपथ पर"
+        },
+        {
+          "no": 6,
+          "word": "உய்ப்பது <br>(Uyppadhu)",
+          "ta": "செலுத்துவதே",
+          "en": "Guides",
+          "hi": "लाना"
+        },
+        {
+          "no": 7,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "அறிவாகும்",
+          "en": "Wisdom",
+          "hi": "बुद्धि का काम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சென்ற விடத்தாற் செலவிடா தீதொரீஇ",
+          "line2": "நன்றின்பா லுய்ப்ப தறிவு."
+        },
+        "en": {
+          "line1": "Wisdom restrains, nor suffers mind to wander where it would;",
+          "line2": "From every evil calls it back, and guides in way of good."
+        },
+        "hi": {
+          "line1": "मनमाना जाने न दे, पाप-मार्ग से थाम ।",
+          "line2": "मन को लाना सुपथ पर, रहा बुद्धि का काम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sendra Idaththaal Selavidaa Theedhoreei",
+            "line2": "Nandrinbaal Uyppadhu Arivu."
+          },
+          "hi": {
+            "line1": "सॆन्द्र विडत्तार् सॆलविडा तीदॊरीइ",
+            "line2": "नन्द्रिन्बा लुय्प्प दरिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனத்தைச் சென்ற இடமெல்லாம் செல்ல விடாமல், தீமையிலிருந்து விலக்கி நன்மையின் வழியில் செலுத்துவதே அறிவாகும்.",
+        "en": "True intelligence keeps your mind from chasing every impulse—pulling it back from harm and steering it toward what is right.",
+        "hi": "मन को मनमाने ढंग से भटकने न देना, उसे पाप के मार्ग से थामकर अच्छे मार्ग (सुपथ) पर लाना ही बुद्धि का कार्य है।"
+      }
+    },
+    {
+      "num": 423,
+      "line1": "எப்பொருள் யார்யார்வாய்க் கேட்பினு மப்பொருண்",
+      "line2": "மெய்ப்பொருள் காண்ப தறிவு.",
+      "enLine1": "Though things diverse from divers sages' lips we learn,",
+      "enLine2": "'Tis wisdom's part in each the true thing to discern.",
+      "hiLine1": "चाहे जिससे भी सुनें, कोई भी हो बात ।",
+      "hiLine2": "तत्व-बोध उस बात का, बुद्धि युक्तता ज्ञात ॥",
+      "general": "எந்தப் பொருளை யார் யார் வாயிலாகக் கேட்டாலும், அந்தப் பொருளின் உண்மைத் தன்மையை ஆராய்ந்து காண்பதே அறிவாகும்.",
+      "en": "Whatever matter one hears from whomever's mouth, discerning the real truth in that matter is wisdom.",
+      "hi": "चाहे किसी से भी कोई भी बात सुनें, उस बात के वास्तविक तत्व (सच्चाई) को समझ लेना ही बुद्धिमत्ता कहलाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எப்பொருள் <br>(Epporul)",
+          "ta": "எந்தப் பொருளை",
+          "en": "Things diverse",
+          "hi": "कोई भी बात"
+        },
+        {
+          "no": 2,
+          "word": "யார் யார் <br>(Yaar yaar)",
+          "ta": "யார் யார்",
+          "en": "Divers sages",
+          "hi": "चाहे जिससे भी"
+        },
+        {
+          "no": 3,
+          "word": "வாய் <br>(Vaay)",
+          "ta": "வாயிலாக",
+          "en": "Lips",
+          "hi": "मुख से"
+        },
+        {
+          "no": 4,
+          "word": "கேட்பினும் <br>(Ketpinum)",
+          "ta": "கேட்டாலும்",
+          "en": "We learn / hear",
+          "hi": "सुनें"
+        },
+        {
+          "no": 5,
+          "word": "அப்பொருள் <br>(Apporul)",
+          "ta": "அந்தப் பொருளின்",
+          "en": "In each",
+          "hi": "उस बात का"
+        },
+        {
+          "no": 6,
+          "word": "மெய்ப்பொருள் <br>(Meypporul)",
+          "ta": "உண்மைப் பொருளை",
+          "en": "The true thing",
+          "hi": "तत्व-बोध"
+        },
+        {
+          "no": 7,
+          "word": "காண்பது அறிவு <br>(Kaanbadhu arivu)",
+          "ta": "காண்பதே அறிவு",
+          "en": "Wisdom's part to discern",
+          "hi": "बुद्धि युक्तता ज्ञात"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எப்பொருள் யார்யார்வாய்க் கேட்பினு மப்பொருண்",
+          "line2": "மெய்ப்பொருள் காண்ப தறிவு."
+        },
+        "en": {
+          "line1": "Though things diverse from divers sages' lips we learn,",
+          "line2": "'Tis wisdom's part in each the true thing to discern."
+        },
+        "hi": {
+          "line1": "चाहे जिससे भी सुनें, कोई भी हो बात ।",
+          "line2": "तत्व-बोध उस बात का, बुद्धि युक्तता ज्ञात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Epporul Yaaryaarvaayk Ketpinum Apporul",
+            "line2": "Meypporul Kaanbadhu Arivu."
+          },
+          "hi": {
+            "line1": "ऎप्पॊरुळ् यार्यार्वाय्क् केट्पिनु मप्पॊरुण्",
+            "line2": "मॆय्प्पॊरुळ् काण्ब दरिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எந்தப் பொருளை யார் யார் வாயிலாகக் கேட்டாலும், அந்தப் பொருளின் உண்மைத் தன்மையை ஆராய்ந்து காண்பதே அறிவாகும்.",
+        "en": "No matter who tells you something, wisdom is looking past the speaker and testing the claim to find what is actually true.",
+        "hi": "चाहे किसी से भी कोई भी बात सुनें, उस बात के वास्तविक तत्व (सच्चाई) को समझ लेना ही बुद्धिमत्ता कहलाती है।"
+      }
+    },
+    {
+      "num": 424,
+      "line1": "எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய்",
+      "line2": "நுண்பொருள் காண்ப தறிவு.",
+      "enLine1": "Wisdom hath use of lucid speech, words that acceptance win,",
+      "enLine2": "And subtle sense of other men's discourse takes in.",
+      "hiLine1": "कह प्रभावकर ढंग से, सुगम बना स्वविचार ।",
+      "hiLine2": "सुधी समझता अन्य के, सूक्ष्म कथन का सार ॥",
+      "general": "தான் சொல்லும் கருத்தை எளிய பொருளையுடையதாகக் கேட்பவர் மனத்தில் பதியும்படிச் சொல்லி, பிறர் சொல்லும் நுட்பமான பொருளையும் அறிவதே அறிவாகும்.",
+      "en": "Wisdom is expressing one's own thoughts simply so that others readily grasp them, while discerning the subtle meaning in what others say.",
+      "hi": "अपने विचार को प्रभावशाली ढंग से सरल (सुगम) बनाकर कहना, और दूसरों के सूक्ष्म कथनों का सार समझ लेना ही बुद्धिमान (सुधी) का गुण है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எண்பொருள் ஆக <br>(Enporul aagha)",
+          "ta": "எளிய பொருளாக",
+          "en": "Lucid speech",
+          "hi": "सुगम बना"
+        },
+        {
+          "no": 2,
+          "word": "செலச்சொல்லி <br>(Selachcholli)",
+          "ta": "மனத்தில் பதியச் சொல்லி",
+          "en": "Words that acceptance win",
+          "hi": "प्रभावकर ढंग से कह"
+        },
+        {
+          "no": 3,
+          "word": "தான் <br>(Thaan)",
+          "ta": "தான்",
+          "en": "Oneself",
+          "hi": "सुधी"
+        },
+        {
+          "no": 4,
+          "word": "பிறர்வாய் <br>(Pirarvaay)",
+          "ta": "மற்றவர் வாயிலிருந்து",
+          "en": "Other men's discourse",
+          "hi": "अन्य के"
+        },
+        {
+          "no": 5,
+          "word": "நுண்பொருள் <br>(Nunporul)",
+          "ta": "நுட்பமான பொருளை",
+          "en": "Subtle sense",
+          "hi": "सूक्ष्म कथन का सार"
+        },
+        {
+          "no": 6,
+          "word": "காண்பது <br>(Kaanbadhu)",
+          "ta": "உணர்ந்து கொள்வதே",
+          "en": "Takes in",
+          "hi": "समझता"
+        },
+        {
+          "no": 7,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "அறிவாகும்",
+          "en": "Wisdom",
+          "hi": "बुद्धिमत्ता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய்",
+          "line2": "நுண்பொருள் காண்ப தறிவு."
+        },
+        "en": {
+          "line1": "Wisdom hath use of lucid speech, words that acceptance win,",
+          "line2": "And subtle sense of other men's discourse takes in."
+        },
+        "hi": {
+          "line1": "कह प्रभावकर ढंग से, सुगम बना स्वविचार ।",
+          "line2": "सुधी समझता अन्य के, सूक्ष्म कथन का सार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Enporula Vaaghach Selachchollith Thaanpirarvaay",
+            "line2": "Nunporul Kaanbadhu Arivu."
+          },
+          "hi": {
+            "line1": "ऎण्पॊरुळ वागच् सॆलच्चॊल्लित् तान्पिरर्वाय्",
+            "line2": "नुण्पॊरुळ् काण्ब दरिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தான் சொல்லும் கருத்தை எளிய பொருளையுடையதாகக் கேட்பவர் மனத்தில் பதியும்படிச் சொல்லி, பிறர் சொல்லும் நுட்பமான பொருளையும் அறிவதே அறிவாகும்.",
+        "en": "True wisdom means speaking so clearly that anyone can follow, while listening sharply enough to catch the subtle layers in what others say.",
+        "hi": "अपने विचार को प्रभावशाली ढंग से सरल (सुगम) बनाकर कहना, और दूसरों के सूक्ष्म कथनों का सार समझ लेना ही बुद्धिमान (सुधी) का गुण है।"
+      }
+    },
+    {
+      "num": 425,
+      "line1": "உலகந் தழீஇய தொட்ப மலர்தலுங்",
+      "line2": "கூம்பலு மில்ல தறிவு.",
+      "enLine1": "Wisdom embraces frank the world, to no caprice exposed;",
+      "enLine2": "Unlike the lotus flower, now opened wide, now petals strictly closed.",
+      "hiLine1": "मैत्री उत्तम जगत की, करते हैं धीमान ।",
+      "hiLine2": "खिल कर सकुचाती नहीं, सुधी-मित्रता बान ॥",
+      "general": "உலகத்து உயர்ந்தோரைத் தழுவி நட்புக்கொள்வதுதான் அறிவு; அந்த நட்பு தாமரை போல் ஒருமுறை மலர்ந்து பின் கூம்பிப் போகாமல் ஒரே தன்மையதாய் இருக்க வேண்டும்.",
+      "en": "Wisdom is forming friendship with the noble of the world—a friendship that does not bloom one moment and close up the next.",
+      "hi": "बुद्धिमान लोग संसार के उत्तम लोगों से ऐसी मित्रता करते हैं जो कभी कमल की तरह खिलकर फिर संकुचित (बंद) नहीं होती, बल्कि सदा एकरस बनी रहती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உலகம் <br>(Ulagam)",
+          "ta": "உலகத்து உயர்ந்தோரை",
+          "en": "The world",
+          "hi": "जगत की"
+        },
+        {
+          "no": 2,
+          "word": "தழீஇயது <br>(Thazheeiyadhu)",
+          "ta": "தழுவிக் கொள்வது",
+          "en": "Embraces frank",
+          "hi": "मैत्री करते हैं"
+        },
+        {
+          "no": 3,
+          "word": "ஒட்பம் <br>(Otpam)",
+          "ta": "நட்பு (அறிவுடைமை)",
+          "en": "Wisdom / friendship",
+          "hi": "सुधी-मित्रता"
+        },
+        {
+          "no": 4,
+          "word": "மலர்தலும் <br>(Malardhalum)",
+          "ta": "முதலில் மலர்தலும்",
+          "en": "Opened wide",
+          "hi": "खिल कर"
+        },
+        {
+          "no": 5,
+          "word": "கூம்பலும் <br>(Koombalum)",
+          "ta": "பின்னர் வாடுதலும்",
+          "en": "Petals closed",
+          "hi": "सकुचाती"
+        },
+        {
+          "no": 6,
+          "word": "இல்லது <br>(Illadhu)",
+          "ta": "இல்லாததே",
+          "en": "Unlike / not",
+          "hi": "नहीं"
+        },
+        {
+          "no": 7,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "அறிவாகும்",
+          "en": "Wisdom",
+          "hi": "धीमान बान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உலகந் தழீஇய தொட்ப மலர்தலுங்",
+          "line2": "கூம்பலு மில்ல தறிவு."
+        },
+        "en": {
+          "line1": "Wisdom embraces frank the world, to no caprice exposed;",
+          "line2": "Unlike the lotus flower, now opened wide, now petals strictly closed."
+        },
+        "hi": {
+          "line1": "मैत्री उत्तम जगत की, करते हैं धीमान ।",
+          "line2": "खिल कर सकुचाती नहीं, सुधी-मित्रता बान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ulagam Thazheeiyadhu Otpam Malardhalum",
+            "line2": "Koombalum Illadhu Arivu."
+          },
+          "hi": {
+            "line1": "उलगन् तऴीइय दॊट्प मलर्दलुङ्",
+            "line2": "कूम्बलु मिल्ल दरिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உலகத்து உயர்ந்தோரைத் தழுவி நட்புக்கொள்வதுதான் அறிவு; அந்த நட்பு தாமரை போல் ஒருமுறை மலர்ந்து பின் கூம்பிப் போகாமல் ஒரே தன்மையதாய் இருக்க வேண்டும்.",
+        "en": "Wisdom builds steady relationships with wise people—never swinging from warm enthusiasm one day to cold withdrawal the next.",
+        "hi": "बुद्धिमान लोग संसार के उत्तम लोगों से ऐसी मित्रता करते हैं जो कभी कमल की तरह खिलकर फिर संकुचित (बंद) नहीं होती, बल्कि सदा एकरस बनी रहती है।"
+      }
+    },
+    {
+      "num": 426,
+      "line1": "எவ்வ துறைவ துலக முலகத்தோ",
+      "line2": "டவ்வ துறைவ தறிவு.",
+      "enLine1": "As dwells the world, so with the world to dwell",
+      "enLine2": "In harmony—this is to wisely live and well.",
+      "hiLine1": "जैसा लोकाचार है, उसके ही उपयुक्त ।",
+      "hiLine2": "जो करना है आचरण, वही सुधी के युक्त ॥",
+      "general": "உலகம் எவ்வாறு உயர்ந்த வழியில் நடக்கிறதோ, அவ்வாறே உலகத்தோடு பொருந்தி நடப்பதே அறிவாகும்.",
+      "en": "Living in harmony with the world, following the way the world lives, is true wisdom.",
+      "hi": "संसार में जैसा उत्तम लोकाचार (व्यवहार) प्रचलित हो, उसी के अनुरूप आचरण करना ही बुद्धिमान (सुधी) व्यक्ति के योग्य है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எவ்வது <br>(Evvadhu)",
+          "ta": "எவ்வாறு",
+          "en": "As",
+          "hi": "जैसा"
+        },
+        {
+          "no": 2,
+          "word": "உறைவது <br>(Uraivadhu)",
+          "ta": "வாழ்கிறதோ",
+          "en": "Dwells",
+          "hi": "लोकाचार है"
+        },
+        {
+          "no": 3,
+          "word": "உலகம் <br>(Ulagam)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "संसार"
+        },
+        {
+          "no": 4,
+          "word": "உலகத்தோடு <br>(Ulagaththodu)",
+          "ta": "அவ்வுலகத்தோடு",
+          "en": "With the world",
+          "hi": "उसके ही उपयुक्त"
+        },
+        {
+          "no": 5,
+          "word": "அவ்வது <br>(Avvadhu)",
+          "ta": "அவ்வாறு",
+          "en": "So",
+          "hi": "वही"
+        },
+        {
+          "no": 6,
+          "word": "உறைவது <br>(Uraivadhu)",
+          "ta": "பொருந்தி வாழ்வதே",
+          "en": "To dwell in harmony",
+          "hi": "आचरण करना"
+        },
+        {
+          "no": 7,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "அறிவாகும்",
+          "en": "Wisely live",
+          "hi": "सुधी के युक्त"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எவ்வ துறைவ துலக முலகத்தோ",
+          "line2": "டவ்வ துறைவ தறிவு."
+        },
+        "en": {
+          "line1": "As dwells the world, so with the world to dwell",
+          "line2": "In harmony—this is to wisely live and well."
+        },
+        "hi": {
+          "line1": "जैसा लोकाचार है, उसके ही उपयुक्त ।",
+          "line2": "जो करना है आचरण, वही सुधी के युक्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Evvadhu Uraivadhu Ulagam Ulagaththodu",
+            "line2": "Avvadhu Uraivadhu Arivu."
+          },
+          "hi": {
+            "line1": "ऎव्व दुरैव दुलग मुलगत्तो",
+            "line2": "डव्व दुरैव दरिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உலகம் எவ்வாறு உயர்ந்த வழியில் நடக்கிறதோ, அவ்வாறே உலகத்தோடு பொருந்தி நடப்பதே அறிவாகும்.",
+        "en": "Adapting gracefully and living in harmony with the healthy ways of society is the mark of practical wisdom.",
+        "hi": "संसार में जैसा उत्तम लोकाचार (व्यवहार) प्रचलित हो, उसी के अनुरूप आचरण करना ही बुद्धिमान (सुधी) व्यक्ति के योग्य है।"
+      }
+    },
+    {
+      "num": 427,
+      "line1": "அறிவுடையா ராவ தறிவா ரறிவிலா",
+      "line2": "ரஃதறி கல்லா தவர்.",
+      "enLine1": "The wise discern, the foolish fail to see,",
+      "enLine2": "And minds prepare for things about to be.",
+      "hiLine1": "बुद्धिमान वे हैं जिन्हें, है भविष्य का ज्ञान ।",
+      "hiLine2": "बुद्धिहीन वे हैं जिन्हें, प्राप्त नहीं वह जान ॥",
+      "general": "அறிவுடையவர்கள் எதிர்காலத்தில் நிகழப்போவதை முன்னதாகவே அறிவார்கள்; அறிவில்லாதவர்கள் அதனை அறிய மாட்டாதவர்கள் ஆவர்.",
+      "en": "The wise foresee what is going to happen in the future; the foolish are those who cannot foresee it.",
+      "hi": "बुद्धिमान वे लोग हैं जिन्हें आने वाले भविष्य का ज्ञान होता है; और बुद्धिहीन वे हैं जिन्हें वह दूरदर्शिता प्राप्त नहीं होती।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறிவுடையார் <br>(Arivudaiyaar)",
+          "ta": "அறிவுடையவர்கள்",
+          "en": "The wise",
+          "hi": "बुद्धिमान वे हैं"
+        },
+        {
+          "no": 2,
+          "word": "ஆவது <br>(Aavadhu)",
+          "ta": "வரப்போவதை",
+          "en": "Things about to be",
+          "hi": "भविष्य का"
+        },
+        {
+          "no": 3,
+          "word": "அறிவார் <br>(Arivaar)",
+          "ta": "முன்னரே அறிவர்",
+          "en": "Discern / prepare",
+          "hi": "ज्ञान है"
+        },
+        {
+          "no": 4,
+          "word": "அறிவிலார் <br>(Arivilaar)",
+          "ta": "அறிவில்லாதவர்",
+          "en": "The foolish",
+          "hi": "बुद्धिहीन वे हैं"
+        },
+        {
+          "no": 5,
+          "word": "அஃது <br>(Agdhu)",
+          "ta": "அதனை",
+          "en": "That",
+          "hi": "वह"
+        },
+        {
+          "no": 6,
+          "word": "அறிகல்லா <br>(Arigallaa)",
+          "ta": "அறிய மாட்டாத",
+          "en": "Fail to see",
+          "hi": "प्राप्त नहीं"
+        },
+        {
+          "no": 7,
+          "word": "தவர் <br>(Dhavar)",
+          "ta": "வர்கள்",
+          "en": "Those who",
+          "hi": "जान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறிவுடையா ராவ தறிவா ரறிவிலா",
+          "line2": "ரஃதறி கல்லா தவர்."
+        },
+        "en": {
+          "line1": "The wise discern, the foolish fail to see,",
+          "line2": "And minds prepare for things about to be."
+        },
+        "hi": {
+          "line1": "बुद्धिमान वे हैं जिन्हें, है भविष्य का ज्ञान ।",
+          "line2": "बुद्धिहीन वे हैं जिन्हें, प्राप्त नहीं वह जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arivudaiyaar Aavadhu Arivaar Arivilaar",
+            "line2": "Agdhari Kallaa Dhavar."
+          },
+          "hi": {
+            "line1": "अरिवुडैया राव दरिवा ररिविला",
+            "line2": "रक्दरि कल्ला दवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறிவுடையவர்கள் எதிர்காலத்தில் நிகழப்போவதை முன்னதாகவே அறிவார்கள்; அறிவில்லாதவர்கள் அதனை அறிய மாட்டாதவர்கள் ஆவர்.",
+        "en": "Wise people anticipate what is coming and prepare ahead of time; foolish people are caught off guard because they fail to look ahead.",
+        "hi": "बुद्धिमान वे लोग हैं जिन्हें आने वाले भविष्य का ज्ञान होता है; और बुद्धिहीन वे हैं जिन्हें वह दूरदर्शिता प्राप्त नहीं होती।"
+      }
+    },
+    {
+      "num": 428,
+      "line1": "அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ",
+      "line2": "தஞ்ச லறிவார் தொழில்.",
+      "enLine1": "Folly meets fearful ills with fearless heart;",
+      "enLine2": "To fear where cause of fear exists is wisdom's part.",
+      "hiLine1": "निर्भयता भेतव्य से, है जड़ता का नाम ।",
+      "hiLine2": "भय रखना भेतव्य से, रहा सुधी का काम ॥",
+      "general": "அஞ்ச வேண்டிய தீமைக்கு அஞ்சாமல் இருப்பது அறியாமையாகும்; அஞ்ச வேண்டியதற்கு அஞ்சி விலகுவதே அறிவுடையவர் செயலாயிருக்கும்.",
+      "en": "Not fearing what ought to be feared is folly; fearing what ought to be feared is the work of the wise.",
+      "hi": "जिस भेतव्य (डरने योग्य बुराई/खतरे) से डरना चाहिए उससे निडर रहना मूर्खता है, और डरने योग्य बात से सावधान रहकर भय रखना ही बुद्धिमान का काम है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அஞ்சுவது <br>(Anjuvadhu)",
+          "ta": "அஞ்ச வேண்டியதற்கு",
+          "en": "Fearful ills",
+          "hi": "भेतव्य से"
+        },
+        {
+          "no": 2,
+          "word": "அஞ்சாமை <br>(Anjaamai)",
+          "ta": "அஞ்சாமல் இருப்பது",
+          "en": "With fearless heart",
+          "hi": "निर्भयता"
+        },
+        {
+          "no": 3,
+          "word": "பேதைமை <br>(Pedhaimai)",
+          "ta": "அறியாமை",
+          "en": "Folly",
+          "hi": "जड़ता का नाम"
+        },
+        {
+          "no": 4,
+          "word": "அஞ்சுவது <br>(Anjuvadhu)",
+          "ta": "அஞ்ச வேண்டியதற்கு",
+          "en": "Cause of fear",
+          "hi": "भेतव्य से"
+        },
+        {
+          "no": 5,
+          "word": "அஞ்சல் <br>(Anjal)",
+          "ta": "அஞ்சுதல்",
+          "en": "To fear",
+          "hi": "भय रखना"
+        },
+        {
+          "no": 6,
+          "word": "அறிவார் <br>(Arivaar)",
+          "ta": "அறிவுடையோர்",
+          "en": "Wisdom's",
+          "hi": "सुधी का"
+        },
+        {
+          "no": 7,
+          "word": "தொழில் <br>(Thozhil)",
+          "ta": "செயலாகும்",
+          "en": "Part / work",
+          "hi": "काम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ",
+          "line2": "தஞ்ச லறிவார் தொழில்."
+        },
+        "en": {
+          "line1": "Folly meets fearful ills with fearless heart;",
+          "line2": "To fear where cause of fear exists is wisdom's part."
+        },
+        "hi": {
+          "line1": "निर्भयता भेतव्य से, है जड़ता का नाम ।",
+          "line2": "भय रखना भेतव्य से, रहा सुधी का काम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Anjuvadhu Anjaamai Pedhaimai Anjuvadhu",
+            "line2": "Anjal Arivaar Thozhil."
+          },
+          "hi": {
+            "line1": "अञ्जुव दञ्जामै पेदैमै यञ्जुव",
+            "line2": "दञ्ज लरिवार् तॊऴिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அஞ்ச வேண்டிய தீமைக்கு அஞ்சாமல் இருப்பது அறியாமையாகும்; அஞ்ச வேண்டியதற்கு அஞ்சி விலகுவதே அறிவுடையவர் செயலாயிருக்கும்.",
+        "en": "Ignoring real dangers is recklessness, not bravery; wisdom knows what truly deserves caution and respects it.",
+        "hi": "जिस भेतव्य (डरने योग्य बुराई/खतरे) से डरना चाहिए उससे निडर रहना मूर्खता है, और डरने योग्य बात से सावधान रहकर भय रखना ही बुद्धिमान का काम है।"
+      }
+    },
+    {
+      "num": 429,
+      "line1": "எதிரதாக் காக்கு மறிவினார்க் கில்லை",
+      "line2": "யதிர வருவதோர் நோய்.",
+      "enLine1": "The wise with watchful soul who coming ills foresee;",
+      "enLine2": "From coming evil's dreaded shock are free.",
+      "hiLine1": "जो भावी को जान कर, रक्षा करता आप ।",
+      "hiLine2": "दुःख न दे उस प्राज्ञ को, भयकारी संताप ॥",
+      "general": "எதிர்காலத்தில் வரப்போகும் துன்பத்தை முன்பே அறிந்து காத்துக்கொள்ளும் அறிவுடையவர்க்கு, அவர்களை நடுங்கச் செய்யும் துன்பம் எதுவும் இல்லை.",
+      "en": "To the wise who foresee coming troubles and guard against them, no terrifying affliction can ever arrive.",
+      "hi": "जो व्यक्ति भविष्य में आने वाले संकट को पहले ही जानकर स्वयं अपनी रक्षा कर लेता है, उस बुद्धिमान (प्राज्ञ) को कोई भी भयानक संताप दुख नहीं दे सकता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எதிரதா <br>(Edhiradhaa)",
+          "ta": "வரப்போகும் துன்பத்தை",
+          "en": "Coming ills",
+          "hi": "भावी को"
+        },
+        {
+          "no": 2,
+          "word": "காக்கும் <br>(Kaakkum)",
+          "ta": "முன்னரே காக்கும்",
+          "en": "Watchful soul",
+          "hi": "रक्षा करता आप"
+        },
+        {
+          "no": 3,
+          "word": "அறிவினார்க்கு <br>(Arivinaarkku)",
+          "ta": "அறிவுடையவர்க்கு",
+          "en": "The wise",
+          "hi": "उस प्राज्ञ को"
+        },
+        {
+          "no": 4,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "Are free / none",
+          "hi": "न दे"
+        },
+        {
+          "no": 5,
+          "word": "அதிர <br>(Adhira)",
+          "ta": "நடுங்கும்படி",
+          "en": "Dreaded shock",
+          "hi": "भयकारी"
+        },
+        {
+          "no": 6,
+          "word": "வருவதோர் <br>(Varuvadhor)",
+          "ta": "வரக்கூடிய ஒரு",
+          "en": "Coming",
+          "hi": "आने वाला"
+        },
+        {
+          "no": 7,
+          "word": "நோய் <br>(Noy)",
+          "ta": "துன்பம்",
+          "en": "Evil / affliction",
+          "hi": "दुःख संताप"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எதிரதாக் காக்கு மறிவினார்க் கில்லை",
+          "line2": "யதிர வருவதோர் நோய்."
+        },
+        "en": {
+          "line1": "The wise with watchful soul who coming ills foresee;",
+          "line2": "From coming evil's dreaded shock are free."
+        },
+        "hi": {
+          "line1": "जो भावी को जान कर, रक्षा करता आप ।",
+          "line2": "दुःख न दे उस प्राज्ञ को, भयकारी संताप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Edhiradhaak Kaakkum Arivinaarkku Illai",
+            "line2": "Adhira Varuvadhor Noy."
+          },
+          "hi": {
+            "line1": "ऎदिरदाक् काक्कु मरिविनार्क् किल्लै",
+            "line2": "यदिर वरुवदोर् नोय्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எதிர்காலத்தில் வரப்போகும் துன்பத்தை முன்பே அறிந்து காத்துக்கொள்ளும் அறிவுடையவர்க்கு, அவர்களை நடுங்கச் செய்யும் துன்பம் எதுவும் இல்லை.",
+        "en": "Those who spot trouble on the horizon and prepare early won't be blindsided by sudden crises.",
+        "hi": "जो व्यक्ति भविष्य में आने वाले संकट को पहले ही जानकर स्वयं अपनी रक्षा कर लेता है, उस बुद्धिमान (प्राज्ञ) को कोई भी भयानक संताप दुख नहीं दे सकता।"
+      }
+    },
+    {
+      "num": 430,
+      "line1": "அறிவுடையா ரெல்லா முடையா ரறிவிலா",
+      "line2": "ரென்னுடைய ரேனு மிலர்.",
+      "enLine1": "The wise is rich, with ev'ry blessing blest;",
+      "enLine2": "The fool is poor, of everything possessed.",
+      "hiLine1": "सब धन से संपन्न हैं, जो होते मतिमान ।",
+      "hiLine2": "चाहे सब कुछ क्यों न हो, मूर्ख दरिद्र समान ॥",
+      "general": "அறிவுடையவர்கள் வேறு எதுவும் இல்லாவிட்டாலும் எல்லாச் செல்வமும் உடையவரே; அறிவில்லாதவர்கள் வேறு என்ன செல்வம் உடையவராக இருந்தாலும் ஒன்றுமில்லாதவரே.",
+      "en": "The wise possess everything, even if they have nothing else; the foolish possess nothing, even if they own everything.",
+      "hi": "जो लोग बुद्धिमान (मतिमान) होते हैं वे सब प्रकार के धन से संपन्न हैं; और मूर्ख व्यक्ति के पास चाहे सब कुछ क्यों न हो, वह दरिद्र के समान ही है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறிவுடையார் <br>(Arivudaiyaar)",
+          "ta": "அறிவுடையவர்கள்",
+          "en": "The wise",
+          "hi": "जो होते मतिमान"
+        },
+        {
+          "no": 2,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாவற்றையும்",
+          "en": "Ev'ry blessing",
+          "hi": "सब धन से"
+        },
+        {
+          "no": 3,
+          "word": "உடையார் <br>(Udaiyaar)",
+          "ta": "உடையவரே",
+          "en": "Is rich / blest",
+          "hi": "संपन्न हैं"
+        },
+        {
+          "no": 4,
+          "word": "அறிவிலார் <br>(Arivilaar)",
+          "ta": "அறிவில்லாதவர்",
+          "en": "The fool",
+          "hi": "मूर्ख"
+        },
+        {
+          "no": 5,
+          "word": "என் உடையரேனும் <br>(En udaiyarenum)",
+          "ta": "என்ன உடையவராயினும்",
+          "en": "Of everything possessed",
+          "hi": "चाहे सब कुछ क्यों न हो"
+        },
+        {
+          "no": 6,
+          "word": "இலர் <br>(Ilar)",
+          "ta": "ஒன்றுமில்லாதவரே",
+          "en": "Is poor / nothing",
+          "hi": "दरिद्र समान"
+        },
+        {
+          "no": 7,
+          "word": "ஏனும் <br>(Enum)",
+          "ta": "இருப்பினும்",
+          "en": "Even if",
+          "hi": "क्यों न हो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறிவுடையா ரெல்லா முடையா ரறிவிலா",
+          "line2": "ரென்னுடைய ரேனு மிலர்."
+        },
+        "en": {
+          "line1": "The wise is rich, with ev'ry blessing blest;",
+          "line2": "The fool is poor, of everything possessed."
+        },
+        "hi": {
+          "line1": "सब धन से संपन्न हैं, जो होते मतिमान ।",
+          "line2": "चाहे सब कुछ क्यों न हो, मूर्ख दरिद्र समान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arivudaiyaar Ellaam Udaiyaar Arivilaar",
+            "line2": "Ennudaiya Renum Ilar."
+          },
+          "hi": {
+            "line1": "अरिवुडैया रॆल्ला मुडैया ररिविला",
+            "line2": "रॆन्नुडैय रेनु मिलर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறிவுடையவர்கள் வேறு எதுவும் இல்லாவிட்டாலும் எல்லாச் செல்வமும் உடையவரே; அறிவில்லாதவர்கள் வேறு என்ன செல்வம் உடையவராக இருந்தாலும் ஒன்றுமில்லாதவரே.",
+        "en": "Someone with wisdom has everything they truly need; someone without wisdom remains impoverished no matter how much they own.",
+        "hi": "जो लोग बुद्धिमान (मतिमान) होते हैं वे सब प्रकार के धन से संपन्न हैं; और मूर्ख व्यक्ति के पास चाहे सब कुछ क्यों न हो, वह दरिद्र के समान ही है।"
+      }
+    }
+  ]
+}

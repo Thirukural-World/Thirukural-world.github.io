@@ -1,0 +1,930 @@
+{
+  "chapterNum": 57,
+  "nameTa": "வெருவந்த செய்யாமை",
+  "nameEn": "Absence of 'Terrorism'",
+  "nameHi": "भयकारी कर्म न करना",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 561,
+      "line1": "தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தா",
+      "line2": "லொத்தாங் கொறுப்பது வேந்து.",
+      "enLine1": "Who punishes, investigation made in due degree,",
+      "enLine2": "So as to stay advance of crime, a king is he.",
+      "hiLine1": "भूप वही जो दोष का, करके उचित विचार ।",
+      "hiLine2": "योग्य दण्ड से इस तरह, फिर नहिं हो वह कार ॥",
+      "general": "குற்றத்தைத் தக்கபடி ஆராய்ந்து, மீண்டும் அக்குற்றம் தலைதூக்காத வகையில் குற்றத்திற்கு ஏற்பத் தண்டிப்பவனே சிறந்த அரசன் ஆவான்.",
+      "en": "He alone is a true king who investigates a crime thoroughly and inflicts a fitting punishment so that the offense does not recur.",
+      "hi": "सच्चा राजा वही है जो अपराध का उचित विचार (जाँच) करके उसे ऐसा योग्य दण्ड दे जिससे वह अपराध फिर से न होने पाए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தக்காங்கு <br>(Thakkaangu)",
+          "ta": "தக்கபடி",
+          "en": "In due degree",
+          "hi": "उचित विचार करके"
+        },
+        {
+          "no": 2,
+          "word": "நாடி <br>(Naadi)",
+          "ta": "ஆராய்ந்து",
+          "en": "Investigation made",
+          "hi": "दोष का"
+        },
+        {
+          "no": 3,
+          "word": "தலைச்செல்லா வண்ணத்தால் <br>(Thalaich chellaa vannaththaal)",
+          "ta": "மீண்டும் நிகழாதவாறு",
+          "en": "Stay advance of crime",
+          "hi": "फिर नहिं हो वह कार"
+        },
+        {
+          "no": 4,
+          "word": "ஒத்தாங்கு <br>(Oththaangu)",
+          "ta": "குற்றத்திற்குத் தக்கபடி",
+          "en": "Fittingly",
+          "hi": "योग्य"
+        },
+        {
+          "no": 5,
+          "word": "ஒறுப்பது <br>(Oruppadhu)",
+          "ta": "தண்டிப்பவன்",
+          "en": "Who punishes",
+          "hi": "दण्ड से"
+        },
+        {
+          "no": 6,
+          "word": "வேந்து <br>(Vendhu)",
+          "ta": "அரசன் ஆவான்",
+          "en": "A king is he",
+          "hi": "भूप वही"
+        },
+        {
+          "no": 7,
+          "word": "தக்க <br>(Thakka)",
+          "ta": "தகுந்த",
+          "en": "Due",
+          "hi": "उचित"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தா",
+          "line2": "லொத்தாங் கொறுப்பது வேந்து."
+        },
+        "en": {
+          "line1": "Who punishes, investigation made in due degree,",
+          "line2": "So as to stay advance of crime, a king is he."
+        },
+        "hi": {
+          "line1": "भूप वही जो दोष का, करके उचित विचार ।",
+          "line2": "योग्य दण्ड से इस तरह, फिर नहिं हो वह कार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thakkaangu Naadith Thalaichchellaa Vannaththaa",
+            "line2": "Loththaang Koruppadhu Vendhu."
+          },
+          "hi": {
+            "line1": "तक्काङ्गु नाडित् तलैच्चॆल्ला वण्णत्ता",
+            "line2": "लॊत्ताङ् कॊऱुप्पदु वेन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குற்றத்தைத் தக்கபடி ஆராய்ந்து, மீண்டும் அக்குற்றம் தலைதூக்காத வகையில் குற்றத்திற்கு ஏற்பத் தண்டிப்பவனே சிறந்த அரசன் ஆவான்.",
+        "en": "True leadership investigates fairly and applies proportional accountability so misconduct doesn't repeat.",
+        "hi": "सच्चा राजा वही है जो अपराध का उचित विचार (जाँच) करके उसे ऐसा योग्य दण्ड दे जिससे वह अपराध फिर से न होने पाए।"
+      }
+    },
+    {
+      "num": 562,
+      "line1": "கடிதோச்சி மெல்ல வெறிக நெடிதாக்க",
+      "line2": "நீங்காமை வேண்டு பவர்.",
+      "enLine1": "For length of days with still increasing joys on Heav'n who call,",
+      "enLine2": "Should raise the rod with brow severe, but let it gently fall.",
+      "hiLine1": "राजश्री चिरकाल यदि, रखना चाहें साथ ।",
+      "hiLine2": "दिखा दण्ड की उग्रता, करना मृदु आघात ॥",
+      "general": "தமது ஆட்சியும் செல்வமும் நெடுங்காலம் நீங்காமல் நிலைத்திருக்க விரும்பும் அரசர், தண்டனையைக் கடுமையாகக் காட்டி ஆனால் மென்மையாகச் செலுத்த வேண்டும்.",
+      "en": "Those who wish their lasting prosperity never to depart should raise the rod severely in warning, yet strike gently in punishment.",
+      "hi": "जो राजा अपनी राजलक्ष्मी को चिरकाल तक अपने साथ बनाए रखना चाहते हैं, उन्हें दण्ड की उग्रता केवल दिखानी चाहिए और आघात (दण्ड) मृदु ही करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கடிது ஓச்சி <br>(Kadidhu ochi)",
+          "ta": "கடுமையாக ஓங்கி",
+          "en": "Raise rod severe",
+          "hi": "दिखा दण्ड की उग्रता"
+        },
+        {
+          "no": 2,
+          "word": "மெல்ல <br>(Mella)",
+          "ta": "மெதுவாக",
+          "en": "Gently",
+          "hi": "मृदु"
+        },
+        {
+          "no": 3,
+          "word": "எறிக <br>(Eriga)",
+          "ta": "அடிக்க வேண்டும்",
+          "en": "Let it fall",
+          "hi": "करना आघात"
+        },
+        {
+          "no": 4,
+          "word": "நெடிது ஆக்கம் <br>(Nedidhu aakkam)",
+          "ta": "நெடுங்காலச் செல்வம்",
+          "en": "Length of increasing joys",
+          "hi": "राजश्री चिरकाल"
+        },
+        {
+          "no": 5,
+          "word": "நீங்காமை <br>(Neengaamai)",
+          "ta": "நீங்காமல் இருக்க",
+          "en": "Never depart",
+          "hi": "रखना साथ"
+        },
+        {
+          "no": 6,
+          "word": "வேண்டுபவர் <br>(Vendubavar)",
+          "ta": "விரும்புவோர்",
+          "en": "Who call",
+          "hi": "यदि चाहें"
+        },
+        {
+          "no": 7,
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "செல்வ வளம்",
+          "en": "Prosperity",
+          "hi": "राजश्री"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கடிதோச்சி மெல்ல வெறிக நெடிதாக்க",
+          "line2": "நீங்காமை வேண்டு பவர்."
+        },
+        "en": {
+          "line1": "For length of days with still increasing joys on Heav'n who call,",
+          "line2": "Should raise the rod with brow severe, but let it gently fall."
+        },
+        "hi": {
+          "line1": "राजश्री चिरकाल यदि, रखना चाहें साथ ।",
+          "line2": "दिखा दण्ड की उग्रता, करना मृदु आघात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kadidhochchi Mella Veriga Nedidhaakka",
+            "line2": "Neengaamai Vendu Pavar."
+          },
+          "hi": {
+            "line1": "कडिदोच्चि मॆल्ल वॆऱिग नॆडिदाक्क",
+            "line2": "नीङ्गामै वेण्डु पवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தமது ஆட்சியும் செல்வமும் நெடுங்காலம் நீங்காமல் நிலைத்திருக்க விரும்பும் அரசர், தண்டனையைக் கடுமையாகக் காட்டி ஆனால் மென்மையாகச் செலுத்த வேண்டும்.",
+        "en": "To sustain lasting success, project firm deterrence—but temper actual punishment with restraint and mercy.",
+        "hi": "जो राजा अपनी राजलक्ष्मी को चिरकाल तक अपने साथ बनाए रखना चाहते हैं, उन्हें दण्ड की उग्रता केवल दिखानी चाहिए और आघात (दण्ड) मृदु ही करना चाहिए।"
+      }
+    },
+    {
+      "num": 563,
+      "line1": "வெருவந்த செய்தொழுகும் வெங்கோல னாயி",
+      "line2": "னொருவந்த மொல்லைக் கெடும்.",
+      "enLine1": "Where subjects dread of cruel wrongs endure,",
+      "enLine2": "Ruin to unjust king is swift and sure.",
+      "hiLine1": "यदि भयकारी कर्म कर, करे प्रजा को त्रस्त ।",
+      "hiLine2": "निश्चय जल्दी क्रूर वह, हो जावेगा अस्त ॥",
+      "general": "குடிமக்கள் அஞ்சும்படியான கொடிய செயல்களைச் செய்து ஆளும் கொடுங்கோலனாக அரசன் இருந்தால், அவன் நிச்சயமாக விரைவில் அழிந்து போவான்.",
+      "en": "If a king rules with a cruel sceptre, committing acts that fill his subjects with terror, his downfall is certain and swift.",
+      "hi": "यदि कोई राजा भयकारी कर्म करके अपनी प्रजा को त्रस्त करता है, तो वह क्रूर राजा निश्चित रूप से शीघ्र ही अस्त (नष्ट) हो जाएगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வெருவந்த <br>(Veruvandha)",
+          "ta": "அச்சம் தருவனவற்றை",
+          "en": "Dread of cruel wrongs",
+          "hi": "भयकारी कर्म कर"
+        },
+        {
+          "no": 2,
+          "word": "செய்து ஒழுகும் <br>(Seydhu ozhugum)",
+          "ta": "செய்து நடக்கும்",
+          "en": "Endure / doing",
+          "hi": "करे त्रस्त"
+        },
+        {
+          "no": 3,
+          "word": "வெங்கோலன் <br>(Vengolan)",
+          "ta": "கொடுங்கோலன்",
+          "en": "Unjust king",
+          "hi": "क्रूर वह"
+        },
+        {
+          "no": 4,
+          "word": "ஆயின் <br>(Aayin)",
+          "ta": "ஆனால்",
+          "en": "If",
+          "hi": "यदि"
+        },
+        {
+          "no": 5,
+          "word": "ஒருவந்தம் <br>(Oruvandham)",
+          "ta": "நிச்சயமாக",
+          "en": "And sure",
+          "hi": "निश्चय"
+        },
+        {
+          "no": 6,
+          "word": "ஒல்லை <br>(Ollai)",
+          "ta": "விரைவில்",
+          "en": "Swift",
+          "hi": "जल्दी"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "அழிந்து போவான்",
+          "en": "Ruin",
+          "hi": "हो जावेगा अस्त"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வெருவந்த செய்தொழுகும் வெங்கோல னாயி",
+          "line2": "னொருவந்த மொல்லைக் கெடும்."
+        },
+        "en": {
+          "line1": "Where subjects dread of cruel wrongs endure,",
+          "line2": "Ruin to unjust king is swift and sure."
+        },
+        "hi": {
+          "line1": "यदि भयकारी कर्म कर, करे प्रजा को त्रस्त ।",
+          "line2": "निश्चय जल्दी क्रूर वह, हो जावेगा अस्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Veruvandha Seydhozhugum Vengola Naayi",
+            "line2": "Noruvandha Mollaik Kedum."
+          },
+          "hi": {
+            "line1": "वॆरुवन्द सॆय्दॊऴुगुम् वॆङ्कोल नायि",
+            "line2": "नॊरुवन्द मॊल्लैक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குடிமக்கள் அஞ்சும்படியான கொடிய செயல்களைச் செய்து ஆளும் கொடுங்கோலனாக அரசன் இருந்தால், அவன் நிச்சயமாக விரைவில் அழிந்து போவான்.",
+        "en": "Rule through fear and intimidation, and your downfall is guaranteed to come fast.",
+        "hi": "यदि कोई राजा भयकारी कर्म करके अपनी प्रजा को त्रस्त करता है, तो वह क्रूर राजा निश्चित रूप से शीघ्र ही अस्त (नष्ट) हो जाएगा।"
+      }
+    },
+    {
+      "num": 564,
+      "line1": "இறைகடிய னென்றுரைக்கு மின்னாச்சொல் வேந்த",
+      "line2": "னுறைகடுகி யொல்லைக் கெடும்.",
+      "enLine1": "'Ah! cruel is our king,' where subjects sadly say,",
+      "enLine2": "His age shall dwindle, swift his joy of life decay.",
+      "hiLine1": "जिस नृप की दुष्कीर्ति हो, 'राजा है अति क्रूर' ।",
+      "hiLine2": "अल्प आयु हो जल्द वह, होगा नष्ट ज़रूर ॥",
+      "general": "'நம் அரசன் கொடியவன்' என்று குடிமக்கள் நொந்து கூறும் இழிசொல்லுக்கு ஆளான அரசன், தன் வாழ்நாள் குறைந்து விரைவில் அழிந்து போவான்.",
+      "en": "A king against whom subjects utter the bitter complaint 'Our ruler is cruel' will see his life shortened and swiftly perish.",
+      "hi": "जिस राजा की यह दुष्कीर्ति हो जाए कि 'राजा अति क्रूर है', वह अल्पायु होकर निश्चित रूप से शीघ्र ही नष्ट हो जाएगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இறை கடியன் <br>(Irai kadiyan)",
+          "ta": "அரசன் கொடியவன்",
+          "en": "Cruel is our king",
+          "hi": "राजा है अति क्रूर"
+        },
+        {
+          "no": 2,
+          "word": "என்று உரைக்கும் <br>(Endru uraikkum)",
+          "ta": "என்று கூறும்",
+          "en": "Where subjects say",
+          "hi": "दुष्कीर्ति हो"
+        },
+        {
+          "no": 3,
+          "word": "இன்னாச் சொல் <br>(Innaach sol)",
+          "ta": "துன்பச் சொல்லுக்குரிய",
+          "en": "Sadly",
+          "hi": "दुष्कीर्ति"
+        },
+        {
+          "no": 4,
+          "word": "வேந்தன் <br>(Vendhan)",
+          "ta": "அரசன்",
+          "en": "King",
+          "hi": "नृप"
+        },
+        {
+          "no": 5,
+          "word": "உறை கடுகி <br>(Urai kadugi)",
+          "ta": "வாழ்நாள் சுருங்கி",
+          "en": "His age shall dwindle",
+          "hi": "अल्प आयु हो"
+        },
+        {
+          "no": 6,
+          "word": "ஒல்லை <br>(Ollai)",
+          "ta": "விரைவில்",
+          "en": "Swift",
+          "hi": "जल्द"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "அழிந்து போவான்",
+          "en": "Decay",
+          "hi": "होगा नष्ट ज़रूर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இறைகடிய னென்றுரைக்கு மின்னாச்சொல் வேந்த",
+          "line2": "னுறைகடுகி யொல்லைக் கெடும்."
+        },
+        "en": {
+          "line1": "'Ah! cruel is our king,' where subjects sadly say,",
+          "line2": "His age shall dwindle, swift his joy of life decay."
+        },
+        "hi": {
+          "line1": "जिस नृप की दुष्कीर्ति हो, 'राजा है अति क्रूर' ।",
+          "line2": "अल्प आयु हो जल्द वह, होगा नष्ट ज़रूर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Iraikadiya Nendruraikku Minnaachchol Vendha",
+            "line2": "Nuraikadugi Yollaik Kedum."
+          },
+          "hi": {
+            "line1": "इरैकडिय नॆन्द्रुरैक्कु मिन्नाच्चॊल् वेन्द",
+            "line2": "नुरैकडुगि यॊल्लैक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'நம் அரசன் கொடியவன்' என்று குடிமக்கள் நொந்து கூறும் இழிசொல்லுக்கு ஆளான அரசன், தன் வாழ்நாள் குறைந்து விரைவில் அழிந்து போவான்.",
+        "en": "When the people's verdict is 'our leader is cruel,' that leader's reign and vitality quickly unravel.",
+        "hi": "जिस राजा की यह दुष्कीर्ति हो जाए कि 'राजा अति क्रूर है', वह अल्पायु होकर निश्चित रूप से शीघ्र ही नष्ट हो जाएगा।"
+      }
+    },
+    {
+      "num": 565,
+      "line1": "அருஞ்செவ்வி யின்னா முகத்தான் பெருஞ்செல்வம்",
+      "line2": "பேஎய்கண் டன்ன துடைத்து.",
+      "enLine1": "Whom subjects scarce may see, of harsh forbidding countenance;",
+      "enLine2": "His ample wealth shall waste, blasted by demon's glance.",
+      "hiLine1": "अप्रसन्न जिसका वदन, भेंट नहीं आसान ।",
+      "hiLine2": "ज्यों अपार धन भूत-वश, उसका धन भी जान ॥",
+      "general": "மக்கள் எளிதில் காண முடியாதவனாய், கடுகடுத்த முகத்துடன் இருப்பவனுடைய பெருஞ்செல்வம், பேய் காத்து நிற்கும் செல்வத்தைப் போலப் பயனற்றதாகும்.",
+      "en": "The vast wealth of a ruler who is hard to approach and wears a harsh, forbidding face is like treasure guarded by a demon—useless to anyone.",
+      "hi": "जिसका मुख अप्रसन्न रहता हो और जिससे मिलना आसान न हो, उसका विशाल धन भी उसी प्रकार व्यर्थ जानो जैसे कोई अपार धन भूत के अधीन हो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அருஞ்செவ்வி <br>(Arunjevvi)",
+          "ta": "காணுதற்கு அரிய காட்சியும்",
+          "en": "Scarce may see",
+          "hi": "भेंट नहीं आसान"
+        },
+        {
+          "no": 2,
+          "word": "இன்னா முகத்தான் <br>(Innaa mugaththaan)",
+          "ta": "இனிமையற்ற முகமும் உடையவனின்",
+          "en": "Harsh forbidding countenance",
+          "hi": "अप्रसन्न जिसका वदन"
+        },
+        {
+          "no": 3,
+          "word": "பெருஞ்செல்வம் <br>(Perunjelvam)",
+          "ta": "பெரிய செல்வம்",
+          "en": "Ample wealth",
+          "hi": "अपार धन"
+        },
+        {
+          "no": 4,
+          "word": "பேஎய் <br>(Pey)",
+          "ta": "பேய்",
+          "en": "Demon's",
+          "hi": "भूत-वश"
+        },
+        {
+          "no": 5,
+          "word": "கண்டன்னது <br>(Kandannadhu)",
+          "ta": "காத்து நின்றது போன்ற",
+          "en": "Glance",
+          "hi": "ज्यों"
+        },
+        {
+          "no": 6,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "தன்மையது",
+          "en": "Shall waste / is like",
+          "hi": "जान"
+        },
+        {
+          "no": 7,
+          "word": "செல்வம் <br>(Selvam)",
+          "ta": "செல்வம்",
+          "en": "Wealth",
+          "hi": "उसका धन भी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அருஞ்செவ்வி யின்னா முகத்தான் பெருஞ்செல்வம்",
+          "line2": "பேஎய்கண் டன்ன துடைத்து."
+        },
+        "en": {
+          "line1": "Whom subjects scarce may see, of harsh forbidding countenance;",
+          "line2": "His ample wealth shall waste, blasted by demon's glance."
+        },
+        "hi": {
+          "line1": "अप्रसन्न जिसका वदन, भेंट नहीं आसान ।",
+          "line2": "ज्यों अपार धन भूत-वश, उसका धन भी जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arunjevvi Yinnaa Mugaththaan Perunjelvam",
+            "line2": "Peeykan Danna Dhudaiththu."
+          },
+          "hi": {
+            "line1": "अरुञ्जेव्वि यिन्ना मुगत्तान् पॆरुञ्जॆल्वम्",
+            "line2": "पेएय्कण् डन्न दुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மக்கள் எளிதில் காண முடியாதவனாய், கடுகடுத்த முகத்துடன் இருப்பவனுடைய பெருஞ்செல்வம், பேய் காத்து நிற்கும் செல்வத்தைப் போலப் பயனற்றதாகும்.",
+        "en": "An unapproachable, scowling leader's vast resources do nobody any good—it's like cursed treasure nobody can touch.",
+        "hi": "जिसका मुख अप्रसन्न रहता हो और जिससे मिलना आसान न हो, उसका विशाल धन भी उसी प्रकार व्यर्थ जानो जैसे कोई अपार धन भूत के अधीन हो।"
+      }
+    },
+    {
+      "num": 566,
+      "line1": "கடுஞ்சொல்லன் கண்ணில னாயி னெடுஞ்செல்வ",
+      "line2": "நீடின்றி யாங்கே கெடும்.",
+      "enLine1": "The tyrant, harsh in speech and hard of eye,",
+      "enLine2": "His ample joy, swift fading, soon shall die.",
+      "hiLine1": "कटु भाषी यदि हो तथा, दया-दृष्टि से हीन ।",
+      "hiLine2": "विपुल विभव नृप का मिटे, तत्क्षण हो स्थितिहीन ॥",
+      "general": "கடுமையான சொற்களைப் பேசுபவனாகவும், கண்ணோட்டம் இல்லாதவனாகவும் அரசன் இருந்தால், அவனது பெரிய செல்வம் நிலைக்காமல் உடனே அழிந்துவிடும்.",
+      "en": "If a ruler is harsh in speech and devoid of compassion, his great prosperity will not last long and will perish right there.",
+      "hi": "यदि राजा कटु वचन बोलने वाला और दया-दृष्टि से हीन हो, तो उसका विशाल वैभव भी तत्क्षण मिटकर स्थितिहीन हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கடுஞ்சொல்லன் <br>(Kadunjollan)",
+          "ta": "கடுஞ்சொல் உடையவனும்",
+          "en": "Harsh in speech",
+          "hi": "कटु भाषी"
+        },
+        {
+          "no": 2,
+          "word": "கண்ணிலன் <br>(Kannilan)",
+          "ta": "கண்ணோட்டம் இல்லாதவனும்",
+          "en": "Hard of eye",
+          "hi": "दया-दृष्टि से हीन"
+        },
+        {
+          "no": 3,
+          "word": "ஆயின் <br>(Aayin)",
+          "ta": "ஆனால்",
+          "en": "If",
+          "hi": "यदि हो तथा"
+        },
+        {
+          "no": 4,
+          "word": "நெடுஞ்செல்வம் <br>(Nedunjelvam)",
+          "ta": "பெரிய செல்வம்",
+          "en": "Ample joy / wealth",
+          "hi": "विपुल विभव नृप का"
+        },
+        {
+          "no": 5,
+          "word": "நீடு இன்றி <br>(Needu indri)",
+          "ta": "நீடிக்காமல்",
+          "en": "Swift fading",
+          "hi": "तत्क्षण"
+        },
+        {
+          "no": 6,
+          "word": "ஆங்கே <br>(Aange)",
+          "ta": "அப்பொழுதே",
+          "en": "Soon",
+          "hi": "स्थितिहीन"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "அழிந்துவிடும்",
+          "en": "Shall die",
+          "hi": "मिटे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கடுஞ்சொல்லன் கண்ணில னாயி னெடுஞ்செல்வ",
+          "line2": "நீடின்றி யாங்கே கெடும்."
+        },
+        "en": {
+          "line1": "The tyrant, harsh in speech and hard of eye,",
+          "line2": "His ample joy, swift fading, soon shall die."
+        },
+        "hi": {
+          "line1": "कटु भाषी यदि हो तथा, दया-दृष्टि से हीन ।",
+          "line2": "विपुल विभव नृप का मिटे, तत्क्षण हो स्थितिहीन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kadunjollan Kannila Naayi Nedunjelva",
+            "line2": "Needindri Yaange Kedum."
+          },
+          "hi": {
+            "line1": "कडुञ्जॊल्लन् कण्णिल नायि नॆडुञ्जॆल्व",
+            "line2": "नीडिन्द्रि याङ्गे कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கடுமையான சொற்களைப் பேசுபவனாகவும், கண்ணோட்டம் இல்லாதவனாகவும் அரசன் இருந்தால், அவனது பெரிய செல்வம் நிலைக்காமல் உடனே அழிந்துவிடும்.",
+        "en": "Harsh words and a heartless attitude will quickly wipe out even the largest fortune.",
+        "hi": "यदि राजा कटु वचन बोलने वाला और दया-दृष्टि से हीन हो, तो उसका विशाल वैभव भी तत्क्षण मिटकर स्थितिहीन हो जाता है।"
+      }
+    },
+    {
+      "num": 567,
+      "line1": "கடுமொழியுங் கையிகந்த தண்டமும் வேந்த",
+      "line2": "னடுமுரண் டேய்க்கு மரம்.",
+      "enLine1": "Harsh words and punishments severe beyond the right,",
+      "enLine2": "Are file that wears away the monarch's conquering might.",
+      "hiLine1": "कटु भाषण नृप का तथा, देना दण्ड अमान ।",
+      "hiLine2": "शत्रु-दमन की शक्ति को, घिसती रेती जान ॥",
+      "general": "கடுமையான சொற்களும் அளவுக்கு மீறிய தண்டனையும், அரசனின் பகைவரை வெல்லும் வலிமையைத் தேய்த்துவிடும் அரமாகும்.",
+      "en": "Harsh language and excessive, disproportionate punishments act like a file that wears down a king's conquering strength.",
+      "hi": "राजा का कटु भाषण और अमर्यादित (अत्यधिक) दण्ड देना — ये दोनों शत्रुओं का दमन करने वाली उसकी शक्ति को घिसने वाली रेती के समान हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கடுமொழியும் <br>(Kadumozhiyum)",
+          "ta": "கடுமையான சொல்லும்",
+          "en": "Harsh words",
+          "hi": "कटु भाषण"
+        },
+        {
+          "no": 2,
+          "word": "கை இகந்த தண்டமும் <br>(Kai igandha thandamum)",
+          "ta": "அளவு கடந்த தண்டனையும்",
+          "en": "Punishments beyond right",
+          "hi": "देना दण्ड अमान"
+        },
+        {
+          "no": 3,
+          "word": "வேந்தன் <br>(Vendhan)",
+          "ta": "அரசனது",
+          "en": "The monarch's",
+          "hi": "नृप का"
+        },
+        {
+          "no": 4,
+          "word": "அடுமுரண் <br>(Adumuran)",
+          "ta": "பகை வெல்லும் வலிமையை",
+          "en": "Conquering might",
+          "hi": "शत्रु-दमन की शक्ति को"
+        },
+        {
+          "no": 5,
+          "word": "தேய்க்கும் <br>(Theykkum)",
+          "ta": "தேய்த்து அழிக்கும்",
+          "en": "Wears away",
+          "hi": "घिसती"
+        },
+        {
+          "no": 6,
+          "word": "அரம் <br>(Aram)",
+          "ta": "அரம் ஆகும்",
+          "en": "Are file",
+          "hi": "रेती जान"
+        },
+        {
+          "no": 7,
+          "word": "தண்டம் <br>(Thandam)",
+          "ta": "தண்டனை",
+          "en": "Punishment",
+          "hi": "दण्ड"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கடுமொழியுங் கையிகந்த தண்டமும் வேந்த",
+          "line2": "னடுமுரண் டேய்க்கு மரம்."
+        },
+        "en": {
+          "line1": "Harsh words and punishments severe beyond the right,",
+          "line2": "Are file that wears away the monarch's conquering might."
+        },
+        "hi": {
+          "line1": "कटु भाषण नृप का तथा, देना दण्ड अमान ।",
+          "line2": "शत्रु-दमन की शक्ति को, घिसती रेती जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kadumozhiyung Kaiyigandha Thandamum Vendha",
+            "line2": "Nadumuran Deykku Maram."
+          },
+          "hi": {
+            "line1": "कडुमॊऴियुङ् कैयिगन्द तण्डमुम् वेन्द",
+            "line2": "नडुमुरण् डेय्क्कु मरम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கடுமையான சொற்களும் அளவுக்கு மீறிய தண்டனையும், அரசனின் பகைவரை வெல்லும் வலிமையைத் தேய்த்துவிடும் அரமாகும்.",
+        "en": "Abusive speech and over-the-top penalties don't show strength—they steadily file away a leader's real power.",
+        "hi": "राजा का कटु भाषण और अमर्यादित (अत्यधिक) दण्ड देना — ये दोनों शत्रुओं का दमन करने वाली उसकी शक्ति को घिसने वाली रेती के समान हैं।"
+      }
+    },
+    {
+      "num": 568,
+      "line1": "இனத்தாற்றி யெண்ணாத வேந்தன் சினத்தாற்றிச்",
+      "line2": "சீறிற் சிறுகுந் திரு.",
+      "enLine1": "Who leaves the work to those around, and thinks of it no more;",
+      "enLine2": "If he in wrathful mood reprove, his prosperous days are o'er!",
+      "hiLine1": "सचिवों की न सलाह ले, फिर होने पर कष्ट ।",
+      "hiLine2": "आग-बबूला नृप हुआ, तो श्री होगी नष्ट ॥",
+      "general": "அமைச்சர் முதலிய சுற்றத்தாரோடு ஆராய்ந்து எண்ணிப் பார்க்காத அரசன், செயல் கெட்டபோது சினம் கொண்டு சீறினால் அவனது செல்வம் சுருங்கும்.",
+      "en": "If a king fails to deliberate with his ministers and then flies into a rage when trouble arises, his prosperity will dwindle.",
+      "hi": "जो राजा पहले अपने सचिवों की सलाह नहीं लेता और फिर कार्य में कष्ट या बाधा आने पर आग-बबूला होकर क्रोध करता है, उसकी राजलक्ष्मी नष्ट हो जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இனத்து ஆற்றி <br>(Inaththu aatri)",
+          "ta": "அமைச்சர் கூட்டத்தில் வைத்து",
+          "en": "To those around",
+          "hi": "सचिवों की सलाह"
+        },
+        {
+          "no": 2,
+          "word": "எண்ணாத <br>(Ennaadha)",
+          "ta": "ஆராயாத",
+          "en": "Thinks of it no more",
+          "hi": "न ले"
+        },
+        {
+          "no": 3,
+          "word": "வேந்தன் <br>(Vendhan)",
+          "ta": "அரசன்",
+          "en": "King",
+          "hi": "नृप"
+        },
+        {
+          "no": 4,
+          "word": "சினத்து ஆற்றி <br>(Sinaththu aatri)",
+          "ta": "சினம் கொண்டு",
+          "en": "In wrathful mood",
+          "hi": "आग-बबूला हुआ"
+        },
+        {
+          "no": 5,
+          "word": "சீறின் <br>(Seerin)",
+          "ta": "சீறினால்",
+          "en": "Reprove",
+          "hi": "होने पर कष्ट"
+        },
+        {
+          "no": 6,
+          "word": "சிறுகும் <br>(Sirugum)",
+          "ta": "குறைந்து போகும்",
+          "en": "Are o'er / dwindle",
+          "hi": "होगी नष्ट"
+        },
+        {
+          "no": 7,
+          "word": "திரு <br>(Thiru)",
+          "ta": "செல்வம்",
+          "en": "Prosperous days",
+          "hi": "श्री"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இனத்தாற்றி யெண்ணாத வேந்தன் சினத்தாற்றிச்",
+          "line2": "சீறிற் சிறுகுந் திரு."
+        },
+        "en": {
+          "line1": "Who leaves the work to those around, and thinks of it no more;",
+          "line2": "If he in wrathful mood reprove, his prosperous days are o'er!"
+        },
+        "hi": {
+          "line1": "सचिवों की न सलाह ले, फिर होने पर कष्ट ।",
+          "line2": "आग-बबूला नृप हुआ, तो श्री होगी नष्ट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inaththaatri Yennaadha Vendhan Sinaththaatrich",
+            "line2": "Seerir Sirugun Thiru."
+          },
+          "hi": {
+            "line1": "इनत्तात्रि यॆण्णाद वेन्दन् सिनत्तात्रिच्",
+            "line2": "सीरिर् सिरुगुन् तिरु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அமைச்சர் முதலிய சுற்றத்தாரோடு ஆராய்ந்து எண்ணிப் பார்க்காத அரசன், செயல் கெட்டபோது சினம் கொண்டு சீறினால் அவனது செல்வம் சுருங்கும்.",
+        "en": "Skipping consultation with your team and then lashing out in anger when things go wrong only shrinks your success.",
+        "hi": "जो राजा पहले अपने सचिवों की सलाह नहीं लेता और फिर कार्य में कष्ट या बाधा आने पर आग-बबूला होकर क्रोध करता है, उसकी राजलक्ष्मी नष्ट हो जाती है।"
+      }
+    },
+    {
+      "num": 569,
+      "line1": "செருவந்த போழ்திற் சிறைசெய்யா வேந்தன்",
+      "line2": "வெருவந்து வெய்து கெடும்.",
+      "enLine1": "Who builds no fort whence he may foe defy,",
+      "enLine2": "In time of war shall fear and swiftly die.",
+      "hiLine1": "दुर्ग बनाया यदि नहीं, रक्षा के अनुरूप ।",
+      "hiLine2": "युद्ध छिड़ा तो हकबका, शीघ्र मिटे वह भूप ॥",
+      "general": "போர் வருவதற்கு முன்னரே தக்க கோட்டை அரணைக் கட்டாத அரசன், போர் வந்தபோது அஞ்சி நடுங்கி விரைவில் அழிந்து போவான்.",
+      "en": "A king who fails to build strong defenses beforehand will panic when war arrives and swiftly perish.",
+      "hi": "यदि राजा ने अपनी रक्षा के अनुरूप सुदृढ़ दुर्ग नहीं बनाया है, तो युद्ध छिड़ने पर वह घबराकर (हकबका कर) शीघ्र ही नष्ट हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செரு வந்த போழ்தில் <br>(Seru vandha pozhdhil)",
+          "ta": "போர் வந்த காலத்தில்",
+          "en": "In time of war",
+          "hi": "युद्ध छिड़ा तो"
+        },
+        {
+          "no": 2,
+          "word": "சிறை செய்யா <br>(Sirai seyyaa)",
+          "ta": "கோட்டை அரண் கட்டாத",
+          "en": "Builds no fort",
+          "hi": "दुर्ग बनाया यदि नहीं"
+        },
+        {
+          "no": 3,
+          "word": "வேந்தன் <br>(Vendhan)",
+          "ta": "அரசன்",
+          "en": "King",
+          "hi": "वह भूप"
+        },
+        {
+          "no": 4,
+          "word": "வெருவந்து <br>(Veruvandhu)",
+          "ta": "அஞ்சி நடுங்கி",
+          "en": "Shall fear",
+          "hi": "हकबका"
+        },
+        {
+          "no": 5,
+          "word": "வெய்து <br>(Veydhu)",
+          "ta": "விரைவில்",
+          "en": "Swiftly",
+          "hi": "शीघ्र"
+        },
+        {
+          "no": 6,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "அழிந்து போவான்",
+          "en": "Die",
+          "hi": "मिटे"
+        },
+        {
+          "no": 7,
+          "word": "சிறை <br>(Sirai)",
+          "ta": "பாதுகாப்பு அரண்",
+          "en": "Fort",
+          "hi": "रक्षा के अनुरूप"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செருவந்த போழ்திற் சிறைசெய்யா வேந்தன்",
+          "line2": "வெருவந்து வெய்து கெடும்."
+        },
+        "en": {
+          "line1": "Who builds no fort whence he may foe defy,",
+          "line2": "In time of war shall fear and swiftly die."
+        },
+        "hi": {
+          "line1": "दुर्ग बनाया यदि नहीं, रक्षा के अनुरूप ।",
+          "line2": "युद्ध छिड़ा तो हकबका, शीघ्र मिटे वह भूप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seruvandha Pozhdhir Siraiseyyaa Vendhan",
+            "line2": "Veruvandhu Veydhu Kedum."
+          },
+          "hi": {
+            "line1": "सॆरुवन्द पोऴ्तिर् सिरैसॆय्या वेन्दन्",
+            "line2": "वॆरुवन्दु वॆय्दु कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "போர் வருவதற்கு முன்னரே தக்க கோட்டை அரணைக் கட்டாத அரசன், போர் வந்தபோது அஞ்சி நடுங்கி விரைவில் அழிந்து போவான்.",
+        "en": "Failing to build proper defenses in peacetime leaves you panicked and vulnerable when a crisis hits.",
+        "hi": "यदि राजा ने अपनी रक्षा के अनुरूप सुदृढ़ दुर्ग नहीं बनाया है, तो युद्ध छिड़ने पर वह घबराकर (हकबका कर) शीघ्र ही नष्ट हो जाता है।"
+      }
+    },
+    {
+      "num": 570,
+      "line1": "கல்லார்ப் பிணிக்குங் கடுங்கோ லதுவல்ல",
+      "line2": "தில்லை நிலக்குப் பொறை.",
+      "enLine1": "Tyrants with fools their counsels share:",
+      "enLine2": "Earth can no heavier burthen bear!",
+      "hiLine1": "मूर्खों को मंत्री रखे, यदि शासक बहु क्रूर ।",
+      "hiLine2": "उनसे औ' नहिं भूमि को, भार रूप भरपूर ॥",
+      "general": "அறிவற்றவர்களைத் தன் சுற்றமாகக் கட்டி வைத்துக்கொள்ளும் கொடுங்கோலனை விட, இவ்வுலகம் சுமப்பதற்குரிய பெரிய பாரம் வேறு எதுவுமில்லை.",
+      "en": "There is no heavier burden for the earth to bear than a cruel tyrant who surrounds himself with ignorant fools.",
+      "hi": "यदि अत्यन्त क्रूर शासक मूर्खों को अपना मंत्री बनाकर रखे, तो पृथ्वी के लिए उनसे बढ़कर कोई दूसरा भारी बोझ नहीं हो सकता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கல்லார் <br>(Kallaar)",
+          "ta": "அறிவிலிகளை",
+          "en": "With fools",
+          "hi": "मूर्खों को"
+        },
+        {
+          "no": 2,
+          "word": "பிணிக்கும் <br>(Pinikkum)",
+          "ta": "கூட வைத்துக்கொள்ளும்",
+          "en": "Counsels share",
+          "hi": "मंत्री रखे"
+        },
+        {
+          "no": 3,
+          "word": "கடுங்கோல் <br>(Kadungol)",
+          "ta": "கொடுங்கோலன்",
+          "en": "Tyrants",
+          "hi": "शासक बहु क्रूर"
+        },
+        {
+          "no": 4,
+          "word": "அது அல்லது <br>(Adhu alladhu)",
+          "ta": "அவனைத் தவிர",
+          "en": "Than that",
+          "hi": "उनसे औ' नहिं"
+        },
+        {
+          "no": 5,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "வேறு இல்லை",
+          "en": "No",
+          "hi": "नहिं"
+        },
+        {
+          "no": 6,
+          "word": "நிலக்கு <br>(Nilakku)",
+          "ta": "பூமிக்கு",
+          "en": "Earth",
+          "hi": "भूमि को"
+        },
+        {
+          "no": 7,
+          "word": "பொறை <br>(Porai)",
+          "ta": "பெரிய பாரம்",
+          "en": "Heavier burthen",
+          "hi": "भार रूप भरपूर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கல்லார்ப் பிணிக்குங் கடுங்கோ லதுவல்ல",
+          "line2": "தில்லை நிலக்குப் பொறை."
+        },
+        "en": {
+          "line1": "Tyrants with fools their counsels share:",
+          "line2": "Earth can no heavier burthen bear!"
+        },
+        "hi": {
+          "line1": "मूर्खों को मंत्री रखे, यदि शासक बहु क्रूर ।",
+          "line2": "उनसे औ' नहिं भूमि को, भार रूप भरपूर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kallaarp Pinikkung Kadungo Ladhuvalla",
+            "line2": "Dhillai Nilakkup Porai."
+          },
+          "hi": {
+            "line1": "कल्लार्प् पिणिक्कुङ् कडुङ्को लदुवल्ल",
+            "line2": "तिल्लै निलक्कुप् पॊऱै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறிவற்றவர்களைத் தன் சுற்றமாகக் கட்டி வைத்துக்கொள்ளும் கொடுங்கோலனை விட, இவ்வுலகம் சுமப்பதற்குரிய பெரிய பாரம் வேறு எதுவுமில்லை.",
+        "en": "A tyrant surrounded by ignorant advisors is the heaviest deadweight the world can carry.",
+        "hi": "यदि अत्यन्त क्रूर शासक मूर्खों को अपना मंत्री बनाकर रखे, तो पृथ्वी के लिए उनसे बढ़कर कोई दूसरा भारी बोझ नहीं हो सकता।"
+      }
+    }
+  ]
+}

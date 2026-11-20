@@ -1,0 +1,930 @@
+{
+  "chapterNum": 53,
+  "nameTa": "சுற்றந்தழால்",
+  "nameEn": "Cherishing One's Kindred",
+  "nameHi": "बन्धुओं को अपनाना",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 521,
+      "line1": "பற்றற்ற கண்ணும் பழைமைபா ராட்டுதல்",
+      "line2": "சுற்றத்தார் கண்ணே யுள.",
+      "enLine1": "When wealth is fled, old kindness still to show,",
+      "enLine2": "Is kindly grace that only kinsmen know.",
+      "hiLine1": "यद्यपि निर्धन हो गये, पहले कृत उपकार ।",
+      "hiLine2": "कहते रहे बखान कर, केवल नातेदार ॥",
+      "general": "ஒருவன் செல்வம் அற்று வறுமையுற்ற காலத்திலும், பழைய உரிமையையும் அன்பையும் பாராட்டி உதவுதல் சுற்றத்தாரிடத்தில் மட்டுமே காணப்படும்.",
+      "en": "Even when one has lost all wealth, the grace of cherishing old bonds and kindness is found only among true kinsmen.",
+      "hi": "यद्यपि मनुष्य निर्धन ही क्यों न हो जाए, फिर भी उसके पहले किए गए उपकारों और पुराने स्नेह का बखान केवल अपने नातेदार (बन्धु-बान्धव) ही करते रहते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பற்று அற்ற கண்ணும் <br>(Patru atra kannum)",
+          "ta": "செல்வம் இல்லாத போதும்",
+          "en": "When wealth is fled",
+          "hi": "यद्यपि निर्धन हो गये"
+        },
+        {
+          "no": 2,
+          "word": "பழைமை <br>(Pazhaimai)",
+          "ta": "பழைய உறவை",
+          "en": "Old kindness",
+          "hi": "पहले कृत उपकार"
+        },
+        {
+          "no": 3,
+          "word": "பாராட்டுதல் <br>(Paaraattudhal)",
+          "ta": "பாராட்டி மதித்தல்",
+          "en": "Still to show",
+          "hi": "कहते रहे बखान कर"
+        },
+        {
+          "no": 4,
+          "word": "சுற்றத்தார் <br>(Sutraththaar)",
+          "ta": "சுற்றத்தாரிடம்",
+          "en": "Kinsmen",
+          "hi": "नातेदार"
+        },
+        {
+          "no": 5,
+          "word": "கண்ணே <br>(Kanne)",
+          "ta": "மட்டுமே",
+          "en": "Only",
+          "hi": "केवल"
+        },
+        {
+          "no": 6,
+          "word": "உள <br>(Ula)",
+          "ta": "உள்ளது",
+          "en": "Know / exists",
+          "hi": "करते रहते हैं"
+        },
+        {
+          "no": 7,
+          "word": "கண்ணும் <br>(Kannum)",
+          "ta": "இடத்திலும்",
+          "en": "Even when",
+          "hi": "यद्यपि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பற்றற்ற கண்ணும் பழைமைபா ராட்டுதல்",
+          "line2": "சுற்றத்தார் கண்ணே யுள."
+        },
+        "en": {
+          "line1": "When wealth is fled, old kindness still to show,",
+          "line2": "Is kindly grace that only kinsmen know."
+        },
+        "hi": {
+          "line1": "यद्यपि निर्धन हो गये, पहले कृत उपकार ।",
+          "line2": "कहते रहे बखान कर, केवल नातेदार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Patratra Kannum Pazhaimai Paaraattudhal",
+            "line2": "Sutraththaar Kanne Ula."
+          },
+          "hi": {
+            "line1": "पत्रत्र कण्णुम् पऴमैपा राट्टुदल्",
+            "line2": "सुत्रत्तार् कण्णे युळ."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் செல்வம் அற்று வறுமையுற்ற காலத்திலும், பழைய உரிமையையும் அன்பையும் பாராட்டி உதவுதல் சுற்றத்தாரிடத்தில் மட்டுமே காணப்படும்.",
+        "en": "Even when your fortune is gone, true family and close kin are the ones who still honor old ties and stand by you.",
+        "hi": "यद्यपि मनुष्य निर्धन ही क्यों न हो जाए, फिर भी उसके पहले किए गए उपकारों और पुराने स्नेह का बखान केवल अपने नातेदार (बन्धु-बान्धव) ही करते रहते हैं।"
+      }
+    },
+    {
+      "num": 522,
+      "line1": "விருப்பறாச் சுற்ற மியையி னருப்பறா",
+      "line2": "வாக்கம் பலவுந் தரும்.",
+      "enLine1": "The gift of kin's unfailing love bestows",
+      "enLine2": "Much gain of good, like flower that fadeless blows.",
+      "hiLine1": "बन्धु-वर्ग ऐसा मिले, जिसका प्रेम अटूट ।",
+      "hiLine2": "तो वह दे संपति सब , जिसकी वृद्धिअटूट ॥",
+      "general": "அன்பு நீங்காத சுற்றம் ஒருவனுக்குக் கிடைத்தால், அது வாடாத மலர் போலக் குறையாத பல நன்மைகளையும் வளத்தையும் தரும்.",
+      "en": "If one is blessed with kinsmen of unfailing affection, it brings abundant, ever-blooming prosperity.",
+      "hi": "यदि किसी को ऐसा बन्धु-वर्ग मिल जाए जिसका प्रेम अटूट हो, तो वह उसे ऐसी सारी सम्पत्ति और उन्नति प्रदान करता है जिसकी वृद्धि कभी रुकती नहीं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "விருப்பு அறா <br>(Viruppu araa)",
+          "ta": "அன்பு நீங்காத",
+          "en": "Unfailing love",
+          "hi": "जिसका प्रेम अटूट"
+        },
+        {
+          "no": 2,
+          "word": "சுற்றம் <br>(Sutram)",
+          "ta": "சுற்றம்",
+          "en": "Kin",
+          "hi": "बन्धु-वर्ग"
+        },
+        {
+          "no": 3,
+          "word": "இயையின் <br>(Iyaiyin)",
+          "ta": "கிடைத்தால்",
+          "en": "Gift of / if obtained",
+          "hi": "ऐसा मिले"
+        },
+        {
+          "no": 4,
+          "word": "அருப்பு அறா <br>(Aruppu araa)",
+          "ta": "வாடாமல் மலரும்",
+          "en": "Fadeless blows",
+          "hi": "वृद्धि अटूट"
+        },
+        {
+          "no": 5,
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "செல்வ வளம்",
+          "en": "Gain of good",
+          "hi": "संपति सब"
+        },
+        {
+          "no": 6,
+          "word": "பலவும் <br>(Palavum)",
+          "ta": "பலவற்றையும்",
+          "en": "Much",
+          "hi": "सब"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Bestows",
+          "hi": "तो वह दे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விருப்பறாச் சுற்ற மியையி னருப்பறா",
+          "line2": "வாக்கம் பலவுந் தரும்."
+        },
+        "en": {
+          "line1": "The gift of kin's unfailing love bestows",
+          "line2": "Much gain of good, like flower that fadeless blows."
+        },
+        "hi": {
+          "line1": "बन्धु-वर्ग ऐसा मिले, जिसका प्रेम अटूट ।",
+          "line2": "तो वह दे संपति सब , जिसकी वृद्धिअटूट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Virupparaach Sutram Iyaiyi Narupparaa",
+            "line2": "Vaakkam Palavun Tharum."
+          },
+          "hi": {
+            "line1": "विरुप्पराच् सुत्र मियैयि नरुप्परा",
+            "line2": "वाक्कम् पलवुन् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அன்பு நீங்காத சுற்றம் ஒருவனுக்குக் கிடைத்தால், அது வாடாத மலர் போலக் குறையாத பல நன்மைகளையும் வளத்தையும் தரும்.",
+        "en": "Having a circle of kin whose affection never fades brings lasting blessings and steady growth.",
+        "hi": "यदि किसी को ऐसा बन्धु-वर्ग मिल जाए जिसका प्रेम अटूट हो, तो वह उसे ऐसी सारी सम्पत्ति और उन्नति प्रदान करता है जिसकी वृद्धि कभी रुकती नहीं।"
+      }
+    },
+    {
+      "num": 523,
+      "line1": "அளவளா வில்லாதான் வாழ்க்கை குளவளாக்",
+      "line2": "கோடின்றி நீர்நிறைந் தற்று.",
+      "enLine1": "His joy of life who mingles not with kinsmen gathered round,",
+      "enLine2": "Is lake where streams pour in, with no encircling bound.",
+      "hiLine1": "मिलनसार जो है नहीं, जीवन उसका व्यर्थ ।",
+      "hiLine2": "तट बिन विस्तृत ताल ज्यों, भरता जल से व्यर्थ ॥",
+      "general": "சுற்றத்தாரோடு கலந்து பழகாதவனுடைய செல்வ வாழ்க்கை, கரையில்லாத குளத்தில் நீர் நிறைந்து வீணாவதைப் போன்றதாகும்.",
+      "en": "The life of one who does not mingle warmly with kinsmen is like a tank filled with water without any banks to hold it.",
+      "hi": "जो व्यक्ति अपने बन्धु-बान्धवों से मिलनसार नहीं रहता, उसका जीवन उसी प्रकार व्यर्थ है जैसे बिना किनारे के विस्तृत तालाब में पानी भरकर बह जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அளவளாவு <br>(Alavalaavu)",
+          "ta": "கலந்து பழகுதல்",
+          "en": "Mingles with kinsmen",
+          "hi": "मिलनसार"
+        },
+        {
+          "no": 2,
+          "word": "இல்லாதான் <br>(Illaadhaan)",
+          "ta": "இல்லாதவனது",
+          "en": "Who does not",
+          "hi": "जो है नहीं"
+        },
+        {
+          "no": 3,
+          "word": "வாழ்க்கை <br>(Vaazhkkai)",
+          "ta": "வாழ்க்கை",
+          "en": "Joy of life",
+          "hi": "जीवन उसका व्यर्थ"
+        },
+        {
+          "no": 4,
+          "word": "குளவளாக் கோடு <br>(Kulavalaak kodu)",
+          "ta": "குளத்தின் கரை",
+          "en": "Encircling bound of lake",
+          "hi": "तट बिन ताल"
+        },
+        {
+          "no": 5,
+          "word": "இன்றி <br>(Indri)",
+          "ta": "இல்லாமல்",
+          "en": "With no",
+          "hi": "बिन"
+        },
+        {
+          "no": 6,
+          "word": "நீர் நிறைந்து <br>(Neer niraindhu)",
+          "ta": "நீர் நிறைந்தது",
+          "en": "Streams pour in",
+          "hi": "भरता जल से"
+        },
+        {
+          "no": 7,
+          "word": "அற்று <br>(Atru)",
+          "ta": "போன்றது",
+          "en": "Is like",
+          "hi": "ज्यों"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அளவளா வில்லாதான் வாழ்க்கை குளவளாக்",
+          "line2": "கோடின்றி நீர்நிறைந் தற்று."
+        },
+        "en": {
+          "line1": "His joy of life who mingles not with kinsmen gathered round,",
+          "line2": "Is lake where streams pour in, with no encircling bound."
+        },
+        "hi": {
+          "line1": "मिलनसार जो है नहीं, जीवन उसका व्यर्थ ।",
+          "line2": "तट बिन विस्तृत ताल ज्यों, भरता जल से व्यर्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Alavalaa Villaadhaan Vaazhkkai Kulavalaak",
+            "line2": "Kodindri Neernirain Dhatru."
+          },
+          "hi": {
+            "line1": "अळवळा विल्लादान् वाऴ्क्कै कुळवळाक्",
+            "line2": "कोडिन्द्रि नीर्निरैन् तत्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சுற்றத்தாரோடு கலந்து பழகாதவனுடைய செல்வ வாழ்க்கை, கரையில்லாத குளத்தில் நீர் நிறைந்து வீணாவதைப் போன்றதாகும்.",
+        "en": "Wealth without warm connection to your people is like a lake with no banks—it cannot hold what pours into it.",
+        "hi": "जो व्यक्ति अपने बन्धु-बान्धवों से मिलनसार नहीं रहता, उसका जीवन उसी प्रकार व्यर्थ है जैसे बिना किनारे के विस्तृत तालाब में पानी भरकर बह जाता है।"
+      }
+    },
+    {
+      "num": 524,
+      "line1": "சுற்றத்தாற் சுற்றப் படவொழுகல் செல்வந்தான்",
+      "line2": "பெற்றத்தாற் பெற்ற பயன்.",
+      "enLine1": "The profit gained by wealth's increase,",
+      "enLine2": "Is living compassed round by relatives in peace.",
+      "hiLine1": "अपने को पाया धनी, तो फल हो यह प्राप्त ।",
+      "hiLine2": "बन्धु-मंडली घिर रहे, यों रहना बन आप्त ॥",
+      "general": "ஒருவன் செல்வத்தைப் பெற்றதனால் அடையும் உண்மையான பயன், சுற்றத்தாரால் சூழப்பட்டு அவரோடு அன்புடன் வாழ்வதே ஆகும்.",
+      "en": "The true fruit of acquiring wealth is to live surrounded by loving kinsmen in harmony.",
+      "hi": "यदि मनुष्य ने अपने को धनवान पाया है, तो उसका सच्चा फल यही होना चाहिए कि वह आत्मीय (आप्त) बनकर बन्धु-बान्धवों की मण्डली से घिरा रहे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சுற்றத்தால் <br>(Sutraththaal)",
+          "ta": "சுற்றத்தாரால்",
+          "en": "By relatives",
+          "hi": "बन्धु-मंडली"
+        },
+        {
+          "no": 2,
+          "word": "சுற்றப்பட <br>(Sutrappada)",
+          "ta": "சூழப்பட்டு",
+          "en": "Compassed round",
+          "hi": "घिर रहे"
+        },
+        {
+          "no": 3,
+          "word": "ஒழுகல் <br>(Ozhugal)",
+          "ta": "நடந்து வாழ்தல்",
+          "en": "Living in peace",
+          "hi": "यों रहना बन आप्त"
+        },
+        {
+          "no": 4,
+          "word": "செல்வம் தான் <br>(Selvam thaan)",
+          "ta": "செல்வத்தை",
+          "en": "Wealth's increase",
+          "hi": "अपने को पाया धनी"
+        },
+        {
+          "no": 5,
+          "word": "பெற்றத்தால் <br>(Petraththaal)",
+          "ta": "பெற்றதனால்",
+          "en": "Gained by",
+          "hi": "तो"
+        },
+        {
+          "no": 6,
+          "word": "பெற்ற <br>(Petra)",
+          "ta": "அடைந்த",
+          "en": "Obtained",
+          "hi": "हो प्राप्त"
+        },
+        {
+          "no": 7,
+          "word": "பயன் <br>(Payan)",
+          "ta": "பயன் ஆகும்",
+          "en": "The profit",
+          "hi": "फल यह"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சுற்றத்தாற் சுற்றப் படவொழுகல் செல்வந்தான்",
+          "line2": "பெற்றத்தாற் பெற்ற பயன்."
+        },
+        "en": {
+          "line1": "The profit gained by wealth's increase,",
+          "line2": "Is living compassed round by relatives in peace."
+        },
+        "hi": {
+          "line1": "अपने को पाया धनी, तो फल हो यह प्राप्त ।",
+          "line2": "बन्धु-मंडली घिर रहे, यों रहना बन आप्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sutraththaar Sutrap Padavozhugal Selvandhaan",
+            "line2": "Petraththaar Petra Payan."
+          },
+          "hi": {
+            "line1": "सुत्रत्तार् सुत्रप् पडवॊऴुगल् सॆल्वन्दान्",
+            "line2": "पॆत्रत्तार् पॆत्र पयन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் செல்வத்தைப் பெற்றதனால் அடையும் உண்மையான பயன், சுற்றத்தாரால் சூழப்பட்டு அவரோடு அன்புடன் வாழ்வதே ஆகும்.",
+        "en": "The real reward of prosperity is being surrounded by close, supportive family and friends who share life with you.",
+        "hi": "यदि मनुष्य ने अपने को धनवान पाया है, तो उसका सच्चा फल यही होना चाहिए कि वह आत्मीय (आप्त) बनकर बन्धु-बान्धवों की मण्डली से घिरा रहे।"
+      }
+    },
+    {
+      "num": 525,
+      "line1": "கொடுத்தலு மின்சொல்லு மாற்றி னடுக்கிய",
+      "line2": "சுற்றத்தாற் சுற்றப் படும்.",
+      "enLine1": "Who knows the use of pleasant words, and liberal gifts can give,",
+      "enLine2": "Connections, heaps of them, surrounding him shall live.",
+      "hiLine1": "मधुर वचन जो बोलता, करता भी है दान ।",
+      "hiLine2": "बन्धुवर्ग के वर्ग से, घिरा रहेगा जान ॥",
+      "general": "வேண்டியவர்க்குக் கொடுத்தலும், இனிய சொல் கூறுதலும் செய்ய வல்லவனாக இருந்தால், ஒருவன் பெருகிய சுற்றத்தாரால் சூழப்பட்டு வாழ்வான்.",
+      "en": "Whoever knows how to give generously and speak kindly will always be surrounded by thriving circles of kinsmen.",
+      "hi": "जो व्यक्ति मधुर वचन बोलता है और उदारता से दान भी करता है, वह निश्चय ही अनेक बन्धु-बान्धवों के समूह से घिरा रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கொடுத்தலும் <br>(Koduththalum)",
+          "ta": "கொடுத்தலும்",
+          "en": "Liberal gifts can give",
+          "hi": "करता भी है दान"
+        },
+        {
+          "no": 2,
+          "word": "இன்சொல்லும் <br>(Insollum)",
+          "ta": "இனிய சொல்லும்",
+          "en": "Pleasant words",
+          "hi": "मधुर वचन"
+        },
+        {
+          "no": 3,
+          "word": "ஆற்றின் <br>(Aatrin)",
+          "ta": "செய்ய வல்லவனானால்",
+          "en": "Who knows the use",
+          "hi": "जो बोलता"
+        },
+        {
+          "no": 4,
+          "word": "அடுக்கிய <br>(Adukkiya)",
+          "ta": "நெருங்கிப் பெருகிய",
+          "en": "Heaps of them",
+          "hi": "वर्ग से"
+        },
+        {
+          "no": 5,
+          "word": "சுற்றத்தால் <br>(Sutraththaal)",
+          "ta": "சுற்றத்தாரால்",
+          "en": "Connections",
+          "hi": "बन्धुवर्ग के"
+        },
+        {
+          "no": 6,
+          "word": "சுற்றப் <br>(Sutrap)",
+          "ta": "சூழப்",
+          "en": "Surrounding him",
+          "hi": "घिरा रहेगा"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "படுவான்",
+          "en": "Shall live",
+          "hi": "जान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கொடுத்தலு மின்சொல்லு மாற்றி னடுக்கிய",
+          "line2": "சுற்றத்தாற் சுற்றப் படும்."
+        },
+        "en": {
+          "line1": "Who knows the use of pleasant words, and liberal gifts can give,",
+          "line2": "Connections, heaps of them, surrounding him shall live."
+        },
+        "hi": {
+          "line1": "मधुर वचन जो बोलता, करता भी है दान ।",
+          "line2": "बन्धुवर्ग के वर्ग से, घिरा रहेगा जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Koduththalu Minsollu Maatri Nadukkiya",
+            "line2": "Sutraththaar Sutrap Padum."
+          },
+          "hi": {
+            "line1": "कॊडुत्तलु मिन्सॊल्लु मात्रि नडुक्किय",
+            "line2": "सुत्रत्तार् सुत्रप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வேண்டியவர்க்குக் கொடுத்தலும், இனிய சொல் கூறுதலும் செய்ய வல்லவனாக இருந்தால், ஒருவன் பெருகிய சுற்றத்தாரால் சூழப்பட்டு வாழ்வான்.",
+        "en": "Generosity paired with warm, kind speech naturally draws a large, loyal circle of people around you.",
+        "hi": "जो व्यक्ति मधुर वचन बोलता है और उदारता से दान भी करता है, वह निश्चय ही अनेक बन्धु-बान्धवों के समूह से घिरा रहता है।"
+      }
+    },
+    {
+      "num": 526,
+      "line1": "பெருங்கொடையான் பேணான் வெகுளி யவனின்",
+      "line2": "மருங்குடையார் மாநிலத் தில்.",
+      "enLine1": "Than one who gifts bestows and wrath restrains,",
+      "enLine2": "Through the wide world none larger following gains.",
+      "hiLine1": "महादान करते हुए, जो है क्रोध-विमुक्त ।",
+      "hiLine2": "उसके सम भू में नहीं, बन्धुवर्ग से युक्त ॥",
+      "general": "பெரிய கொடையாளியாக இருந்து, கோபத்தை விரும்பாதவனைப் போல மிகுந்த சுற்றத்தாரை உடையவர் இப்பெரிய உலகத்தில் வேறு எவரும் இல்லை.",
+      "en": "In this wide world, no one has a larger following of kinsmen than one who gives generously and refuses to harbor anger.",
+      "hi": "महादान करते हुए जो व्यक्ति क्रोध से मुक्त रहता है, इस पृथ्वी पर उसके समान बन्धु-बान्धवों से युक्त कोई दूसरा नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பெருங்கொடையான் <br>(Perungodaiyaan)",
+          "ta": "பெரிய கொடையாளி",
+          "en": "Gifts bestows",
+          "hi": "महादान करते हुए"
+        },
+        {
+          "no": 2,
+          "word": "பேணான் <br>(Penaan)",
+          "ta": "விரும்பாதவன்",
+          "en": "Restrains",
+          "hi": "विमुक्त"
+        },
+        {
+          "no": 3,
+          "word": "வெகுளி <br>(Veguli)",
+          "ta": "சினத்தை",
+          "en": "Wrath",
+          "hi": "क्रोध"
+        },
+        {
+          "no": 4,
+          "word": "அவனின் <br>(Avanin)",
+          "ta": "அவனைப் போல",
+          "en": "Than one who",
+          "hi": "उसके सम"
+        },
+        {
+          "no": 5,
+          "word": "மருங்கு உடையார் <br>(Marungu udaiyaar)",
+          "ta": "சுற்றம் உடையவர்",
+          "en": "Larger following gains",
+          "hi": "बन्धुवर्ग से युक्त"
+        },
+        {
+          "no": 6,
+          "word": "மாநிலத்து <br>(Maanilaththu)",
+          "ta": "பெரிய உலகத்தில்",
+          "en": "Through the wide world",
+          "hi": "भू में"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "None",
+          "hi": "नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பெருங்கொடையான் பேணான் வெகுளி யவனின்",
+          "line2": "மருங்குடையார் மாநிலத் தில்."
+        },
+        "en": {
+          "line1": "Than one who gifts bestows and wrath restrains,",
+          "line2": "Through the wide world none larger following gains."
+        },
+        "hi": {
+          "line1": "महादान करते हुए, जो है क्रोध-विमुक्त ।",
+          "line2": "उसके सम भू में नहीं, बन्धुवर्ग से युक्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Perungodaiyaan Penaan Veguli Avanin",
+            "line2": "Marungudaiyaar Maanilaththu Il."
+          },
+          "hi": {
+            "line1": "पॆरुङ्कॊडैयान् पेणान् वॆगुळि यवनिन्",
+            "line2": "मरुङ्गुडैयार् मानिलत् तिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பெரிய கொடையாளியாக இருந்து, கோபத்தை விரும்பாதவனைப் போல மிகுந்த சுற்றத்தாரை உடையவர் இப்பெரிய உலகத்தில் வேறு எவரும் இல்லை.",
+        "en": "Nobody builds a larger, more devoted circle than someone who gives freely and keeps their temper under control.",
+        "hi": "महादान करते हुए जो व्यक्ति क्रोध से मुक्त रहता है, इस पृथ्वी पर उसके समान बन्धु-बान्धवों से युक्त कोई दूसरा नहीं होता।"
+      }
+    },
+    {
+      "num": 527,
+      "line1": "காக்கை கரவா கரைந்துண்ணு மாக்கமு",
+      "line2": "மன்னநீ ரார்க்கே யுள.",
+      "enLine1": "The crows conceal not, call their friends to come, then eat;",
+      "enLine2": "Increase of good such worthy ones shall meet.",
+      "hiLine1": "बिना छिपाये काँव कर, कौआ खाता भोज्य ।",
+      "hiLine2": "जो हैं उसी स्वभाव के, पाते हैं सब भोग्य ॥",
+      "general": "காகங்கள் தாம் கண்ட உணவை மறைக்காமல் தன் சுற்றத்தைக் கரைந்து அழைத்து உண்ணும்; அத்தகைய இயல்புடையவர்க்கே செல்வ வளமும் உண்டாகும்.",
+      "en": "Crows do not hide their food, but caw and call their flock before eating; prosperity likewise belongs to those of that same generous nature.",
+      "hi": "कौआ अपने भोजन को बिना छिपाए काँव-काँव करके अपने साथियों को बुलाकर खाता है; जो मनुष्य उसी स्वभाव के होते हैं, उन्हें ही सब भोग्य और ऐश्वर्य प्राप्त होते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "காக்கை <br>(Kaakkai)",
+          "ta": "காகம்",
+          "en": "The crows",
+          "hi": "कौआ"
+        },
+        {
+          "no": 2,
+          "word": "கரவா <br>(Karavaa)",
+          "ta": "மறைக்காமல்",
+          "en": "Conceal not",
+          "hi": "बिना छिपाये"
+        },
+        {
+          "no": 3,
+          "word": "கரைந்து உண்ணும் <br>(Karaindhu unnum)",
+          "ta": "அழைத்து உண்ணும்",
+          "en": "Call friends, then eat",
+          "hi": "काँव कर खाता भोज्य"
+        },
+        {
+          "no": 4,
+          "word": "ஆக்கமும் <br>(Aakkamum)",
+          "ta": "செல்வ வளமும்",
+          "en": "Increase of good",
+          "hi": "पाते हैं सब भोग्य"
+        },
+        {
+          "no": 5,
+          "word": "அன்ன <br>(Anna)",
+          "ta": "அத்தகைய",
+          "en": "Such",
+          "hi": "उसी"
+        },
+        {
+          "no": 6,
+          "word": "நீரார்க்கே <br>(Neeraarkke)",
+          "ta": "இயல்புடையவர்க்கே",
+          "en": "Worthy ones",
+          "hi": "स्वभाव के"
+        },
+        {
+          "no": 7,
+          "word": "உள <br>(Ula)",
+          "ta": "உள்ளன",
+          "en": "Shall meet",
+          "hi": "जो हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "காக்கை கரவா கரைந்துண்ணு மாக்கமு",
+          "line2": "மன்னநீ ரார்க்கே யுள."
+        },
+        "en": {
+          "line1": "The crows conceal not, call their friends to come, then eat;",
+          "line2": "Increase of good such worthy ones shall meet."
+        },
+        "hi": {
+          "line1": "बिना छिपाये काँव कर, कौआ खाता भोज्य ।",
+          "line2": "जो हैं उसी स्वभाव के, पाते हैं सब भोग्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaakkai Karavaa Karaindhunnu Maakkamu",
+            "line2": "Mannanee Raarkke Yula."
+          },
+          "hi": {
+            "line1": "काक्कै करवा करैन्दुण्णु माक्कमु",
+            "line2": "मन्ननी रार्क्के युळ."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "காகங்கள் தாம் கண்ட உணவை மறைக்காமல் தன் சுற்றத்தைக் கரைந்து அழைத்து உண்ணும்; அத்தகைய இயல்புடையவர்க்கே செல்வ வளமும் உண்டாகும்.",
+        "en": "Even crows call their flock to share a meal—lasting abundance flows to people with that same sharing spirit.",
+        "hi": "कौआ अपने भोजन को बिना छिपाए काँव-काँव करके अपने साथियों को बुलाकर खाता है; जो मनुष्य उसी स्वभाव के होते हैं, उन्हें ही सब भोग्य और ऐश्वर्य प्राप्त होते हैं।"
+      }
+    },
+    {
+      "num": 528,
+      "line1": "பொதுநோக்கான் வேந்தன் வரிசையா நோக்கி",
+      "line2": "னதுநோக்கி வாழ்வார் பலர்.",
+      "enLine1": "Where king regards not all alike, but each in his degree,",
+      "enLine2": "'Neath such discerning rule many dwell happily.",
+      "hiLine1": "सब को सम देखे नहीं, देखे क्षमता एक ।",
+      "hiLine2": "इस गुण से स्थायी रहें, नृप के बन्धु अनेक ॥",
+      "general": "அரசன் எல்லாரையும் சமமாகப் பார்க்காமல் அவரவர் தகுதிக்கு ஏற்பச் சிறப்புச் செய்தால், அதை விரும்பி அவனோடு வாழும் சுற்றத்தார் பலர் ஆவர்.",
+      "en": "When a king does not treat everyone indifferently, but honors each according to their merit, many kinsmen will stay loyal and thrive around him.",
+      "hi": "राजा सबको एक समान न देखकर, प्रत्येक की योग्यता और क्षमता के अनुसार आदर करे; इस गुण के कारण राजा के अनेक बन्धु उसके साथ स्थायी रूप से जुड़े रहते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொது நோக்கான் <br>(Podhu nokkaan)",
+          "ta": "பொதுவாகப் பார்க்காமல்",
+          "en": "Regards not all alike",
+          "hi": "सब को सम देखे नहीं"
+        },
+        {
+          "no": 2,
+          "word": "வேந்தன் <br>(Vendhan)",
+          "ta": "அரசன்",
+          "en": "King",
+          "hi": "नृप के"
+        },
+        {
+          "no": 3,
+          "word": "வரிசையா <br>(Varisaiyaa)",
+          "ta": "தகுதிக்கு ஏற்ப",
+          "en": "Each in his degree",
+          "hi": "क्षमता एक"
+        },
+        {
+          "no": 4,
+          "word": "நோக்கின் <br>(Nokkin)",
+          "ta": "மதித்துப் பார்த்தால்",
+          "en": "Discerning rule",
+          "hi": "देखे"
+        },
+        {
+          "no": 5,
+          "word": "அது நோக்கி <br>(Adhu nokki)",
+          "ta": "அதை விரும்பி",
+          "en": "'Neath such",
+          "hi": "इस गुण से"
+        },
+        {
+          "no": 6,
+          "word": "வாழ்வார் <br>(Vaazhvaar)",
+          "ta": "வாழ்பவர்",
+          "en": "Dwell happily",
+          "hi": "स्थायी रहें बन्धु"
+        },
+        {
+          "no": 7,
+          "word": "பலர் <br>(Palar)",
+          "ta": "பலர்",
+          "en": "Many",
+          "hi": "अनेक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொதுநோக்கான் வேந்தன் வரிசையா நோக்கி",
+          "line2": "னதுநோக்கி வாழ்வார் பலர்."
+        },
+        "en": {
+          "line1": "Where king regards not all alike, but each in his degree,",
+          "line2": "'Neath such discerning rule many dwell happily."
+        },
+        "hi": {
+          "line1": "सब को सम देखे नहीं, देखे क्षमता एक ।",
+          "line2": "इस गुण से स्थायी रहें, नृप के बन्धु अनेक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Podhunokkaan Vendhan Varisaiyaa Nokki",
+            "line2": "Nadhunokki Vaazhvaar Palar."
+          },
+          "hi": {
+            "line1": "पॊदुनोक्कान् वेन्दन् वरिसैया नोक्कि",
+            "line2": "नदुनोक्कि वाऴ्वार् पलर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரசன் எல்லாரையும் சமமாகப் பார்க்காமல் அவரவர் தகுதிக்கு ஏற்பச் சிறப்புச் செய்தால், அதை விரும்பி அவனோடு வாழும் சுற்றத்தார் பலர் ஆவர்.",
+        "en": "Don't treat everyone identically regardless of effort—recognize each person's distinct merit and people will gladly stay.",
+        "hi": "राजा सबको एक समान न देखकर, प्रत्येक की योग्यता और क्षमता के अनुसार आदर करे; इस गुण के कारण राजा के अनेक बन्धु उसके साथ स्थायी रूप से जुड़े रहते हैं।"
+      }
+    },
+    {
+      "num": 529,
+      "line1": "தமராகித் தற்றுறந்தார் சுற்ற மமராமைக்",
+      "line2": "காரண மின்றி வரும்.",
+      "enLine1": "Who once were his, and then forsook him, as before",
+      "enLine2": "Will come around, when cause of disagreement is no more.",
+      "hiLine1": "बन्धु बने जो जन रहे, तोड़े यदि बन्धुत्व ।",
+      "hiLine2": "अनबन का कारण मिटे, तो बनता बन्धुत्व ॥",
+      "general": "முன்பு தம் சுற்றத்தாராக இருந்து பின்னர் பிரிந்து சென்றவர்கள், மனக்கசப்புக்குரிய காரணம் நீங்கியதும் மீண்டும் தாமே வந்து சேருவார்கள்.",
+      "en": "Kinsmen who once belonged to one and later parted ways will return on their own once the cause of estrangement is removed.",
+      "hi": "जो लोग पहले अपने बन्धु बनकर रहे हों और बाद में बन्धुत्व तोड़कर अलग हो गए हों, यदि अनबन का कारण मिट जाए तो वे फिर से अपने हो जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தமர் ஆகி <br>(Thamar aagi)",
+          "ta": "உறவினராய் இருந்து",
+          "en": "Once were his",
+          "hi": "बन्धु बने जो जन रहे"
+        },
+        {
+          "no": 2,
+          "word": "தன் துறந்தார் <br>(Than thurandhaar)",
+          "ta": "பிரிந்து சென்றவரின்",
+          "en": "Forsook him",
+          "hi": "तोड़े यदि बन्धुत्व"
+        },
+        {
+          "no": 3,
+          "word": "சுற்றம் <br>(Sutram)",
+          "ta": "உறவு",
+          "en": "As before",
+          "hi": "बन्धुत्व"
+        },
+        {
+          "no": 4,
+          "word": "அமராமை <br>(Amaraamai)",
+          "ta": "பொருந்தாமைக்குரிய",
+          "en": "Disagreement",
+          "hi": "अनबन का"
+        },
+        {
+          "no": 5,
+          "word": "காரணம் <br>(Kaaranam)",
+          "ta": "காரணம்",
+          "en": "Cause",
+          "hi": "कारण"
+        },
+        {
+          "no": 6,
+          "word": "இன்றி <br>(Indri)",
+          "ta": "நீங்கினால்",
+          "en": "Is no more",
+          "hi": "मिटे"
+        },
+        {
+          "no": 7,
+          "word": "வரும் <br>(Varum)",
+          "ta": "மீண்டும் வரும்",
+          "en": "Will come around",
+          "hi": "तो बनता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தமராகித் தற்றுறந்தார் சுற்ற மமராமைக்",
+          "line2": "காரண மின்றி வரும்."
+        },
+        "en": {
+          "line1": "Who once were his, and then forsook him, as before",
+          "line2": "Will come around, when cause of disagreement is no more."
+        },
+        "hi": {
+          "line1": "बन्धु बने जो जन रहे, तोड़े यदि बन्धुत्व ।",
+          "line2": "अनबन का कारण मिटे, तो बनता बन्धुत्व ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thamaraagith Thatrurandhaar Sutra Mamaraamaik",
+            "line2": "Kaarana Mindri Varum."
+          },
+          "hi": {
+            "line1": "तमरागित् तत्रुऱन्दार् सुत्र ममरामैक्",
+            "line2": "कारण मिन्द्रि वरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முன்பு தம் சுற்றத்தாராக இருந்து பின்னர் பிரிந்து சென்றவர்கள், மனக்கசப்புக்குரிய காரணம் நீங்கியதும் மீண்டும் தாமே வந்து சேருவார்கள்.",
+        "en": "Close allies who drifted away over a dispute will naturally come back once the underlying friction is cleared.",
+        "hi": "जो लोग पहले अपने बन्धु बनकर रहे हों और बाद में बन्धुत्व तोड़कर अलग हो गए हों, यदि अनबन का कारण मिट जाए तो वे फिर से अपने हो जाते हैं।"
+      }
+    },
+    {
+      "num": 530,
+      "line1": "உழைப்பிரிந்து காரணத்தின் வந்தானை வேந்த",
+      "line2": "னிழைத்திருந் தெண்ணிக் கொளல்.",
+      "enLine1": "Who causeless went away, then to return, for any cause, ask leave;",
+      "enLine2": "The king should sift their motives well, consider, and receive!",
+      "hiLine1": "कारण बिन जो बिछुड़ कर, लौटे कारण साथ ।",
+      "hiLine2": "साध-पूर्ति कर नृप उसे, परख, मिला के साथ ॥",
+      "general": "காரணமின்றிப் பிரிந்து சென்று, பின்னர் ஒரு காரணத்துடன் திரும்பி வந்தவனை அரசன் அவன் விருப்பத்தை நிறைவேற்றி, ஆராய்ந்து சேர்த்துக்கொள்ள வேண்டும்.",
+      "en": "When someone who left without cause returns with a reason, the king should fulfill their reasonable wish, weigh their motives carefully, and take them back.",
+      "hi": "जो व्यक्ति बिना किसी कारण के बिछुड़कर चला गया हो और फिर किसी कारण से लौट आया हो, राजा को चाहिए कि उसकी इच्छा पूरी करके और भली-भाँति परखकर उसे अपने साथ मिला ले।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உழைப் பிரிந்து <br>(Uzhaip pirindhu)",
+          "ta": "தன்னிடமிருந்து பிரிந்து",
+          "en": "Causeless went away",
+          "hi": "कारण बिन बिछुड़ कर"
+        },
+        {
+          "no": 2,
+          "word": "காரணத்தின் <br>(Kaaranaththin)",
+          "ta": "ஒரு காரணத்தால்",
+          "en": "For any cause",
+          "hi": "कारण साथ"
+        },
+        {
+          "no": 3,
+          "word": "வந்தானை <br>(Vandaanai)",
+          "ta": "திரும்பி வந்தவனை",
+          "en": "To return",
+          "hi": "लौटे"
+        },
+        {
+          "no": 4,
+          "word": "வேந்தன் <br>(Vendhan)",
+          "ta": "அரசன்",
+          "en": "The king",
+          "hi": "नृप"
+        },
+        {
+          "no": 5,
+          "word": "இழைத்திருந்து <br>(Izhaiththirundhu)",
+          "ta": "அவன் விரும்பியதைச் செய்து",
+          "en": "Sift motives well",
+          "hi": "साध-पूर्ति कर"
+        },
+        {
+          "no": 6,
+          "word": "எண்ணி <br>(Enni)",
+          "ta": "ஆராய்ந்து பார்த்து",
+          "en": "Consider",
+          "hi": "परख"
+        },
+        {
+          "no": 7,
+          "word": "கொளல் <br>(Kolal)",
+          "ta": "சேர்த்துக்கொள்ள வேண்டும்",
+          "en": "And receive",
+          "hi": "मिला के साथ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உழைப்பிரிந்து காரணத்தின் வந்தானை வேந்த",
+          "line2": "னிழைத்திருந் தெண்ணிக் கொளல்."
+        },
+        "en": {
+          "line1": "Who causeless went away, then to return, for any cause, ask leave;",
+          "line2": "The king should sift their motives well, consider, and receive!"
+        },
+        "hi": {
+          "line1": "कारण बिन जो बिछुड़ कर, लौटे कारण साथ ।",
+          "line2": "साध-पूर्ति कर नृप उसे, परख, मिला के साथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uzhaippirindhu Kaaranaththin Vandhaanai Vendha",
+            "line2": "Nizhaiththirun Dhennik Kolal."
+          },
+          "hi": {
+            "line1": "उऴैप्पिरिन्दु कारणत्तिन् वन्दानै वेन्द",
+            "line2": "निऴैत्तिरुन् दॆण्णिक् कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "காரணமின்றிப் பிரிந்து சென்று, பின்னர் ஒரு காரணத்துடன் திரும்பி வந்தவனை அரசன் அவன் விருப்பத்தை நிறைவேற்றி, ஆராய்ந்து சேர்த்துக்கொள்ள வேண்டும்.",
+        "en": "If someone who walked away without reason asks to return, weigh their motives carefully—and if sound, welcome them back.",
+        "hi": "जो व्यक्ति बिना किसी कारण के बिछुड़कर चला गया हो और फिर किसी कारण से लौट आया हो, राजा को चाहिए कि उसकी इच्छा पूरी करके और भली-भाँति परखकर उसे अपने साथ मिला ले।"
+      }
+    }
+  ]
+}

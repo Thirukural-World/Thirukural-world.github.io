@@ -1,0 +1,930 @@
+{
+  "chapterNum": 73,
+  "nameTa": "அவையஞ்சாமை",
+  "nameEn": "Not to Dread the Council",
+  "nameHi": "सभा में निर्भीकता",
+  "paal": "பொருட்பால்",
+  "iyal": "அமைச்சியல்",
+  "kurals": [
+    {
+      "num": 721,
+      "line1": "வகையறிந்து வல்லவை வாய்சோரார் சொல்லின்",
+      "line2": "தொகையறிந்த தூயமை யவர்.",
+      "enLine1": "Men, pure in heart, who know of words the varied force,",
+      "enLine2": "The mighty council's moods discern, nor fail in their discourse.",
+      "hiLine1": "शब्द शक्ति के ज्ञानयुत, जो हैं जन निर्दोष ।",
+      "hiLine2": "प्राज्ञ-सभा में ढब समझ, करें न शब्द सदोष ॥",
+      "general": "சொற்களின் தொகுதியை அறிந்த தூய்மையுடையவர்கள், வல்லவர்கள் கூடிய அவையின் வகையை அறிந்து வாய் தவறாமல் பேசுவார்கள்.",
+      "en": "Pure-hearted speakers who know the range of words discern the nature of a learned assembly and never falter in their speech.",
+      "hi": "शब्द-शक्ति के ज्ञान से युक्त जो निर्दोष जन हैं, वे विद्वानों की सभा का ढंग समझकर कभी कोई दोषपूर्ण शब्द नहीं बोलते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வகை அறிந்து <br>(Vagai arindhu)",
+          "ta": "அவையின் வகையை அறிந்து",
+          "en": "Moods discern",
+          "hi": "ढब समझ"
+        },
+        {
+          "no": 2,
+          "word": "வல்லவை <br>(Vallavai)",
+          "ta": "வல்லவர் அவையில்",
+          "en": "Mighty council's",
+          "hi": "प्राज्ञ-सभा में"
+        },
+        {
+          "no": 3,
+          "word": "வாய் சோரார் <br>(Vaay soraar)",
+          "ta": "வாய் தவறாதவர்",
+          "en": "Nor fail in discourse",
+          "hi": "करें न शब्द सदोष"
+        },
+        {
+          "no": 4,
+          "word": "சொல்லின் <br>(Sollin)",
+          "ta": "சொல்லின்",
+          "en": "Of words",
+          "hi": "शब्द शक्ति के"
+        },
+        {
+          "no": 5,
+          "word": "தொகை அறிந்த <br>(Thogai arindha)",
+          "ta": "தொகுதியை அறிந்த",
+          "en": "Know varied force",
+          "hi": "ज्ञानयुत"
+        },
+        {
+          "no": 6,
+          "word": "தூயமையவர் <br>(Thooyamaiyavar)",
+          "ta": "தூய்மை உடையவர்கள்",
+          "en": "Men pure in heart",
+          "hi": "जन निर्दोष"
+        },
+        {
+          "no": 7,
+          "word": "சொல் <br>(Sol)",
+          "ta": "சொல்",
+          "en": "Word",
+          "hi": "शब्द"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வகையறிந்து வல்லவை வாய்சோரார் சொல்லின்",
+          "line2": "தொகையறிந்த தூயமை யவர்."
+        },
+        "en": {
+          "line1": "Men, pure in heart, who know of words the varied force,",
+          "line2": "The mighty council's moods discern, nor fail in their discourse."
+        },
+        "hi": {
+          "line1": "शब्द शक्ति के ज्ञानयुत, जो हैं जन निर्दोष ।",
+          "line2": "प्राज्ञ-सभा में ढब समझ, करें न शब्द सदोष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vagaiyarindhu Vallavai Vaaysoraar Sollin",
+            "line2": "Thogaiyarindha Thooyamai Yavar."
+          },
+          "hi": {
+            "line1": "वगैयरिन्दु वल्लवै वाय्सोरार् सॊल्लिन्",
+            "line2": "तॊगैयरिन्द तूयमै यवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சொற்களின் தொகுதியை அறிந்த தூய்மையுடையவர்கள், வல்லவர்கள் கூடிய அவையின் வகையை அறிந்து வாய் தவறாமல் பேசுவார்கள்.",
+        "en": "Speakers who truly know their craft read a high-powered room accurately and never stumble over their words.",
+        "hi": "शब्द-शक्ति के ज्ञान से युक्त जो निर्दोष जन हैं, वे विद्वानों की सभा का ढंग समझकर कभी कोई दोषपूर्ण शब्द नहीं बोलते।"
+      }
+    },
+    {
+      "num": 722,
+      "line1": "கற்றாருட் கற்றா ரெனப்படுவர் கற்றார்முற்",
+      "line2": "கற்ற செலச்சொல்லு வார்.",
+      "enLine1": "Who what they've learned, in penetrating words have learned to say,",
+      "enLine2": "Before the learn'd, among the learn'd most learn'd are they.",
+      "hiLine1": "जो प्रभावकर ढंग से, आर्जित शास्त्र-ज्ञान ।",
+      "hiLine2": "प्रगटे विज्ञ-समझ, वह, विज्ञों में विद्वान ॥",
+      "general": "கற்றறிந்தவர்கள் முன்னிலையில் தாம் கற்றவற்றை அவர்கள் மனத்தில் பதியுமாறு சொல்ல வல்லவரே கற்றாருள் சிறந்த கற்றவராகக் கருதப்படுவர்.",
+      "en": "Among the learned, those who can present what they have mastered persuasively before other scholars are truly the most learned.",
+      "hi": "जो अपने अर्जित शास्त्र-ज्ञान को प्रभावशाली ढंग से विद्वानों के सामने प्रकट कर सके, वही विद्वानों में श्रेष्ठ विद्वान कहलाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கற்றாருள் <br>(Katraarul)",
+          "ta": "கற்றவர்களுள்",
+          "en": "Among the learn'd",
+          "hi": "विज्ञों में"
+        },
+        {
+          "no": 2,
+          "word": "கற்றார் எனப்படுவர் <br>(Katraar enappaduvar)",
+          "ta": "மிகக் கற்றவராக மதிக்கப்படுவர்",
+          "en": "Most learn'd are they",
+          "hi": "विद्वान"
+        },
+        {
+          "no": 3,
+          "word": "கற்றார் முன் <br>(Katraar mun)",
+          "ta": "கற்றவர் முன்னால்",
+          "en": "Before the learn'd",
+          "hi": "विज्ञ-समझ"
+        },
+        {
+          "no": 4,
+          "word": "கற்ற <br>(Katra)",
+          "ta": "தாம் கற்றதை",
+          "en": "What they've learned",
+          "hi": "आर्जित शास्त्र-ज्ञान"
+        },
+        {
+          "no": 5,
+          "word": "செல <br>(Sela)",
+          "ta": "மனத்தில் பதியுமாறு",
+          "en": "In penetrating words",
+          "hi": "प्रभावकर ढंग से"
+        },
+        {
+          "no": 6,
+          "word": "சொல்லுவார் <br>(Solluvaar)",
+          "ta": "சொல்பவர்கள்",
+          "en": "Learned to say",
+          "hi": "प्रगटे वह"
+        },
+        {
+          "no": 7,
+          "word": "கல்வி <br>(Kalvi)",
+          "ta": "கல்வி",
+          "en": "Learning",
+          "hi": "ज्ञान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கற்றாருட் கற்றா ரெனப்படுவர் கற்றார்முற்",
+          "line2": "கற்ற செலச்சொல்லு வார்."
+        },
+        "en": {
+          "line1": "Who what they've learned, in penetrating words have learned to say,",
+          "line2": "Before the learn'd, among the learn'd most learn'd are they."
+        },
+        "hi": {
+          "line1": "जो प्रभावकर ढंग से, आर्जित शास्त्र-ज्ञान ।",
+          "line2": "प्रगटे विज्ञ-समझ, वह, विज्ञों में विद्वान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Katraarut Katraa Renappaduvar Katraarmur",
+            "line2": "Katra Selachchollu Vaar."
+          },
+          "hi": {
+            "line1": "कत्रारुण् कत्रार रॆनप्पडुवर् कत्रार्मुर्",
+            "line2": "कत्र सॆलच्चॊल्लु वार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கற்றறிந்தவர்கள் முன்னிலையில் தாம் கற்றவற்றை அவர்கள் மனத்தில் பதியுமாறு சொல்ல வல்லவரே கற்றாருள் சிறந்த கற்றவராகக் கருதப்படுவர்.",
+        "en": "The sharpest minds among experts are the ones who can explain what they know clearly to their peers.",
+        "hi": "जो अपने अर्जित शास्त्र-ज्ञान को प्रभावशाली ढंग से विद्वानों के सामने प्रकट कर सके, वही विद्वानों में श्रेष्ठ विद्वान कहलाता है।"
+      }
+    },
+    {
+      "num": 723,
+      "line1": "பகையகத்துச் சாவா ரெளிய ரரிய",
+      "line2": "ரவையகத் தஞ்சா தவர்.",
+      "enLine1": "Many encountering death in face of foe will hold their ground;",
+      "enLine2": "Who speak undaunted in the council hall are rarely found.",
+      "hiLine1": "शत्रु-मध्य मरते निडर, मिलते सुलभ अनेक ।",
+      "hiLine2": "सभा-मध्य भाषण निडर, करते दुर्लभ एक ॥",
+      "general": "போர்க்களத்தில் பகைவர் நடுவே அஞ்சாமல் உயிர் விடுபவர் பலர் உள்ளனர்; ஆனால் கற்றார் அவையில் அஞ்சாமல் பேசுபவர் மிக அரியவர்.",
+      "en": "Many are brave enough to face death in battle against enemies, but few have the courage to speak fearlessly before a learned council.",
+      "hi": "युद्ध में शत्रुओं के बीच निडर होकर प्राण देने वाले तो अनेक मिल जाते हैं, परन्तु सभा के मध्य निडर होकर बोलने वाले दुर्लभ ही होते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பகையகத்து <br>(Pagaiyagaththu)",
+          "ta": "போர்க்களத்தில்",
+          "en": "In face of foe",
+          "hi": "शत्रु-मध्य"
+        },
+        {
+          "no": 2,
+          "word": "சாவார் <br>(Saavaar)",
+          "ta": "அஞ்சாது இறப்பவர்",
+          "en": "Encountering death",
+          "hi": "मरते निडर"
+        },
+        {
+          "no": 3,
+          "word": "எளியர் <br>(Eliyar)",
+          "ta": "பலர் எளிதில் உண்டு",
+          "en": "Hold their ground",
+          "hi": "मिलते सुलभ अनेक"
+        },
+        {
+          "no": 4,
+          "word": "அரியர் <br>(Ariyar)",
+          "ta": "அரியவர்கள்",
+          "en": "Rarely found",
+          "hi": "दुर्लभ एक"
+        },
+        {
+          "no": 5,
+          "word": "அவையகத்து <br>(Avaiyagaththu)",
+          "ta": "அவையில்",
+          "en": "In council hall",
+          "hi": "सभा-मध्य"
+        },
+        {
+          "no": 6,
+          "word": "அஞ்சாதவர் <br>(Anjaadhavar)",
+          "ta": "அஞ்சாமல் பேசுபவர்",
+          "en": "Speak undaunted",
+          "hi": "भाषण निडर करते"
+        },
+        {
+          "no": 7,
+          "word": "துணிவு <br>(Thunivu)",
+          "ta": "துணிவு",
+          "en": "Courage",
+          "hi": "साहस"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பகையகத்துச் சாவா ரெளிய ரரிய",
+          "line2": "ரவையகத் தஞ்சா தவர்."
+        },
+        "en": {
+          "line1": "Many encountering death in face of foe will hold their ground;",
+          "line2": "Who speak undaunted in the council hall are rarely found."
+        },
+        "hi": {
+          "line1": "शत्रु-मध्य मरते निडर, मिलते सुलभ अनेक ।",
+          "line2": "सभा-मध्य भाषण निडर, करते दुर्लभ एक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pagaiyagaththus Saavaa Reliya Rariya",
+            "line2": "Ravaiyagath Thanjaa Thavar."
+          },
+          "hi": {
+            "line1": "पगैयगत्तुच् सावा रॆळिय ररिय",
+            "line2": "रवैयगत् तञ्जा दवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "போர்க்களத்தில் பகைவர் நடுவே அஞ்சாமல் உயிர் விடுபவர் பலர் உள்ளனர்; ஆனால் கற்றார் அவையில் அஞ்சாமல் பேசுபவர் மிக அரியவர்.",
+        "en": "Plenty of people have physical courage; far fewer have the poise to speak fearlessly in front of a tough room.",
+        "hi": "युद्ध में शत्रुओं के बीच निडर होकर प्राण देने वाले तो अनेक मिल जाते हैं, परन्तु सभा के मध्य निडर होकर बोलने वाले दुर्लभ ही होते हैं।"
+      }
+    },
+    {
+      "num": 724,
+      "line1": "கற்றார்முற் கற்ற செலச்சொல்லித் தாங்கற்ற",
+      "line2": "மிக்காருண் மிக்க கொளல்.",
+      "enLine1": "What you have learned, in penetrating words speak out before",
+      "enLine2": "The learn'd; but learn what men more learn'd can teach you more.",
+      "hiLine1": "विज्ञ-मध्य स्वज्ञान की, कर प्रभावकर बात ।",
+      "hiLine2": "अपने से भी विज्ञ से, सीखो विशेष बात ॥",
+      "general": "கற்றவர் முன் தாம் கற்றவற்றை மனத்தில் பதியுமாறு சொல்லி, தம்மை விட அதிகம் கற்றவர்களிடம் உள்ள மேலான அறிவைக் கற்றுக் கொள்ள வேண்டும்.",
+      "en": "Present what you know clearly before scholars, and eagerly learn deeper insights from those who know even more than you.",
+      "hi": "विद्वानों के बीच अपने ज्ञान को प्रभावशाली ढंग से प्रस्तुत करो, और अपने से भी अधिक विद्वान लोगों से विशेष ज्ञान की बातें सीखो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கற்றார் முன் <br>(Katraar mun)",
+          "ta": "கற்றவர் முன்னால்",
+          "en": "Before the learn'd",
+          "hi": "विज्ञ-मध्य"
+        },
+        {
+          "no": 2,
+          "word": "கற்ற <br>(Katra)",
+          "ta": "தாம் கற்றதை",
+          "en": "What you have learned",
+          "hi": "स्वज्ञान की"
+        },
+        {
+          "no": 3,
+          "word": "செலச் சொல்லி <br>(Sela solli)",
+          "ta": "பதியுமாறு சொல்லி",
+          "en": "Penetrating words speak out",
+          "hi": "कर प्रभावकर बात"
+        },
+        {
+          "no": 4,
+          "word": "தாம் கற்ற <br>(Thaam katra)",
+          "ta": "தாம் கற்றதை விட",
+          "en": "Than what you know",
+          "hi": "अपने से भी"
+        },
+        {
+          "no": 5,
+          "word": "மிக்காருள் <br>(Mikkaarul)",
+          "ta": "மிகுந்த அறிவுடையாரிடம்",
+          "en": "Men more learn'd",
+          "hi": "विज्ञ से"
+        },
+        {
+          "no": 6,
+          "word": "மிக்க <br>(Mikka)",
+          "ta": "மேலானதைக்",
+          "en": "Teach you more",
+          "hi": "विशेष बात"
+        },
+        {
+          "no": 7,
+          "word": "கொளல் <br>(Kolal)",
+          "ta": "கற்றுக் கொள்ள வேண்டும்",
+          "en": "Learn",
+          "hi": "सीखो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கற்றார்முற் கற்ற செலச்சொல்லித் தாங்கற்ற",
+          "line2": "மிக்காருண் மிக்க கொளல்."
+        },
+        "en": {
+          "line1": "What you have learned, in penetrating words speak out before",
+          "line2": "The learn'd; but learn what men more learn'd can teach you more."
+        },
+        "hi": {
+          "line1": "विज्ञ-मध्य स्वज्ञान की, कर प्रभावकर बात ।",
+          "line2": "अपने से भी विज्ञ से, सीखो विशेष बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Katraarmur Katra Selachchollith Thaanggatra",
+            "line2": "Mikkaarun Mikka Kolal."
+          },
+          "hi": {
+            "line1": "कत्रार्मुर् कत्र सॆलच्चॊल्लित् ताङ्गत्र",
+            "line2": "मिक्कारुण् मिक्क कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கற்றவர் முன் தாம் கற்றவற்றை மனத்தில் பதியுமாறு சொல்லி, தம்மை விட அதிகம் கற்றவர்களிடம் உள்ள மேலான அறிவைக் கற்றுக் கொள்ள வேண்டும்.",
+        "en": "Share your own knowledge confidently with peers, and stay humble enough to learn from those who know even more.",
+        "hi": "विद्वानों के बीच अपने ज्ञान को प्रभावशाली ढंग से प्रस्तुत करो, और अपने से भी अधिक विद्वान लोगों से विशेष ज्ञान की बातें सीखो।"
+      }
+    },
+    {
+      "num": 725,
+      "line1": "ஆற்றி னளவறிந்து கற்க வவையஞ்சா",
+      "line2": "மாற்றங் கொடுத்தற் பொருட்டு.",
+      "enLine1": "By rule, to dialectic art your mind apply,",
+      "enLine2": "That in the council fearless you may make an apt reply.",
+      "hiLine1": "सभा-मध्य निर्भीक हो, उत्तर देने ठीक ।",
+      "hiLine2": "शब्द-शास्त्र, फिर ध्यान से, तर्क-शास्त्र भी सीख ॥",
+      "general": "அவைக்கு அஞ்சாமல் தக்க விடை கூறுவதற்காக, இலக்கண நெறிப்படி நூல்களின் அளவை அறிந்து தர்க்க நூலையும் கற்க வேண்டும்.",
+      "en": "Study the rules of logic and discourse thoroughly so you can answer fearlessly and aptly in any assembly.",
+      "hi": "सभा के बीच निडर होकर ठीक और सटीक उत्तर देने के लिए शब्द-शास्त्र तथा ध्यानपूर्वक तर्क-शास्त्र भी सीखना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஆற்றின் <br>(Aatrin)",
+          "ta": "நெறிப்படி",
+          "en": "By rule",
+          "hi": "ध्यान से"
+        },
+        {
+          "no": 2,
+          "word": "அளவு அறிந்து <br>(Alavu arindhu)",
+          "ta": "அளவை நூல்களை அறிந்து",
+          "en": "Dialectic art",
+          "hi": "तर्क-शास्त्र भी"
+        },
+        {
+          "no": 3,
+          "word": "கற்க <br>(Karka)",
+          "ta": "கற்க வேண்டும்",
+          "en": "Mind apply",
+          "hi": "सीख"
+        },
+        {
+          "no": 4,
+          "word": "அவை அஞ்சா <br>(Avai anjaa)",
+          "ta": "அவைக்கு அஞ்சாத",
+          "en": "In council fearless",
+          "hi": "सभा-मध्य निर्भीक हो"
+        },
+        {
+          "no": 5,
+          "word": "மாற்றம் <br>(Maatram)",
+          "ta": "மறுமொழி",
+          "en": "Apt reply",
+          "hi": "उत्तर ठीक"
+        },
+        {
+          "no": 6,
+          "word": "கொடுத்தற் <br>(Koduththar)",
+          "ta": "கொடுப்பதன்",
+          "en": "May make",
+          "hi": "देने"
+        },
+        {
+          "no": 7,
+          "word": "பொருட்டு <br>(Poruttu)",
+          "ta": "பொருட்டு",
+          "en": "That",
+          "hi": "के लिए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஆற்றி னளவறிந்து கற்க வவையஞ்சா",
+          "line2": "மாற்றங் கொடுத்தற் பொருட்டு."
+        },
+        "en": {
+          "line1": "By rule, to dialectic art your mind apply,",
+          "line2": "That in the council fearless you may make an apt reply."
+        },
+        "hi": {
+          "line1": "सभा-मध्य निर्भीक हो, उत्तर देने ठीक ।",
+          "line2": "शब्द-शास्त्र, फिर ध्यान से, तर्क-शास्त्र भी सीख ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aatri Nalavarindhu Karka Vavaiyanjaa",
+            "line2": "Maatrang Koduththar Poruttu."
+          },
+          "hi": {
+            "line1": "आत्रि नळवरिन्दु कर्क ववैयञ्जा",
+            "line2": "मात्रङ् कॊडुत्तर् पॊरुट्टु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அவைக்கு அஞ்சாமல் தக்க விடை கூறுவதற்காக, இலக்கண நெறிப்படி நூல்களின் அளவை அறிந்து தர்க்க நூலையும் கற்க வேண்டும்.",
+        "en": "Train in structured reasoning and clear expression so you can handle tough questions on the spot without fear.",
+        "hi": "सभा के बीच निडर होकर ठीक और सटीक उत्तर देने के लिए शब्द-शास्त्र तथा ध्यानपूर्वक तर्क-शास्त्र भी सीखना चाहिए।"
+      }
+    },
+    {
+      "num": 726,
+      "line1": "வாளோடென் வன்கண்ண ரல்லார்க்கு நூலோடென்",
+      "line2": "னுண்ணவை யஞ்சு பவர்க்கு.",
+      "enLine1": "To those who lack the hero's eye what can the sword avail?",
+      "enLine2": "Or science what, to those before the council keen who quail?",
+      "hiLine1": "निडर नहीं हैं जो उन्हें, खाँड़े से क्या काम ।",
+      "hiLine2": "सभा-भीरु जो हैं उन्हें, पोथी से क्या काम ॥",
+      "general": "வீரமில்லாதவர்களுக்குக் கையில் வாளிருந்து என்ன பயன்? நுண்ணறிவுள்ள அவைக்கு அஞ்சுபவர்களுக்கு நூல்கள் கற்றிருந்து என்ன பயன்?",
+      "en": "What good is a sword to one who lacks courage? And what good is book learning to one who trembles before a keen assembly?",
+      "hi": "जो लोग निडर नहीं हैं, उनके लिए तलवार का क्या काम? और जो सभा से डरते हैं, उनके लिए शास्त्र-ग्रन्थों (पोथी) का क्या काम?",
+      "words": [
+        {
+          "no": 1,
+          "word": "வாளோடு என் <br>(Vaalodu en)",
+          "ta": "வாளால் என்ன பயன்",
+          "en": "What can sword avail",
+          "hi": "खाँड़े से क्या काम"
+        },
+        {
+          "no": 2,
+          "word": "வன்கண்ணர் அல்லார்க்கு <br>(Vankannar allaarkku)",
+          "ta": "அஞ்சாமை இல்லாதார்க்கு",
+          "en": "Lack hero's eye",
+          "hi": "निडर नहीं हैं जो उन्हें"
+        },
+        {
+          "no": 3,
+          "word": "நூலோடு என் <br>(Noolodu en)",
+          "ta": "நூலால் என்ன பயன்",
+          "en": "Or science what",
+          "hi": "पोथी से क्या काम"
+        },
+        {
+          "no": 4,
+          "word": "நுண் அவை <br>(Nun avai)",
+          "ta": "நுண்ணறிவுடைய அவைக்கு",
+          "en": "Council keen",
+          "hi": "सभा"
+        },
+        {
+          "no": 5,
+          "word": "அஞ்சுபவர்க்கு <br>(Anjubavarkku)",
+          "ta": "அஞ்சுகின்றவர்களுக்கு",
+          "en": "Who quail",
+          "hi": "भीरु जो हैं उन्हें"
+        },
+        {
+          "no": 6,
+          "word": "பயன் <br>(Payan)",
+          "ta": "பயன்",
+          "en": "Avail",
+          "hi": "काम"
+        },
+        {
+          "no": 7,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "None",
+          "hi": "नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வாளோடென் வன்கண்ண ரல்லார்க்கு நூலோடென்",
+          "line2": "னுண்ணவை யஞ்சு பவர்க்கு."
+        },
+        "en": {
+          "line1": "To those who lack the hero's eye what can the sword avail?",
+          "line2": "Or science what, to those before the council keen who quail?"
+        },
+        "hi": {
+          "line1": "निडर नहीं हैं जो उन्हें, खाँड़े से क्या काम ।",
+          "line2": "सभा-भीरु जो हैं उन्हें, पोथी से क्या काम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vaaloden Vankanna Rallaarkku Nooloden",
+            "line2": "Nunnavai Yanju Pavarkku."
+          },
+          "hi": {
+            "line1": "वाळोडॆन् वन्कण्ण रल्लार्क्कु नूलोडॆन्",
+            "line2": "नुण्णवै यञ्जू बवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வீரமில்லாதவர்களுக்குக் கையில் வாளிருந்து என்ன பயன்? நுண்ணறிவுள்ள அவைக்கு அஞ்சுபவர்களுக்கு நூல்கள் கற்றிருந்து என்ன பயன்?",
+        "en": "A sword is useless without nerve, and knowledge is useless if stage fright silences you.",
+        "hi": "जो लोग निडर नहीं हैं, उनके लिए तलवार का क्या काम? और जो सभा से डरते हैं, उनके लिए शास्त्र-ग्रन्थों (पोथी) का क्या काम?"
+      }
+    },
+    {
+      "num": 727,
+      "line1": "பகையகத்துப் பேடிகை யொள்வா ளவையகத்",
+      "line2": "தஞ்சு மவன்கற்ற நூல்.",
+      "enLine1": "As shining sword before the foe which 'sexless being' bears,",
+      "enLine2": "Is science learned by him the council's face who fears.",
+      "hiLine1": "सभा-भीरु को प्राप्त है, जो भी शास्त्र-ज्ञान ।",
+      "hiLine2": "कायर-कर रण-भूमि में, तीक्ष्ण खड्ग समान ॥",
+      "general": "கற்றார் அவைக்கு அஞ்சுகின்றவன் கற்ற நூல், போர்க்களத்தில் பேடி தன் கையில் பிடித்திருக்கும் ஒளி வீசும் வாளைப் போன்றதாகும்.",
+      "en": "The learning of someone who fears an assembly is like a gleaming sword held by a coward on the battlefield.",
+      "hi": "सभा से डरने वाले व्यक्ति ने जो भी शास्त्र-ज्ञान प्राप्त किया है, वह रणभूमि में कायर के हाथ में रखी तीक्ष्ण तलवार के समान व्यर्थ है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பகையகத்து <br>(Pagaiyagaththu)",
+          "ta": "போர்க்களத்தில்",
+          "en": "Before the foe",
+          "hi": "रण-भूमि में"
+        },
+        {
+          "no": 2,
+          "word": "பேடி கை <br>(Pedi kai)",
+          "ta": "பேடியின் கையில் உள்ள",
+          "en": "Coward bears",
+          "hi": "कायर-कर"
+        },
+        {
+          "no": 3,
+          "word": "ஒள்வாள் <br>(Olvaal)",
+          "ta": "ஒளி வீசும் வாள் போன்றது",
+          "en": "Shining sword",
+          "hi": "तीक्ष्ण खड्ग समान"
+        },
+        {
+          "no": 4,
+          "word": "அவையகத்து <br>(Avaiyagaththu)",
+          "ta": "அவையின் முன்",
+          "en": "Council's face",
+          "hi": "सभा"
+        },
+        {
+          "no": 5,
+          "word": "அஞ்சும் <br>(Anjum)",
+          "ta": "அஞ்சுகின்ற",
+          "en": "Who fears",
+          "hi": "भीरु को"
+        },
+        {
+          "no": 6,
+          "word": "அவன் கற்ற <br>(Avan katra)",
+          "ta": "அவன் கற்ற",
+          "en": "Learned by him",
+          "hi": "प्राप्त है जो भी"
+        },
+        {
+          "no": 7,
+          "word": "நூல் <br>(Nool)",
+          "ta": "நூலறிவு",
+          "en": "Science",
+          "hi": "शास्त्र-ज्ञान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பகையகத்துப் பேடிகை யொள்வா ளவையகத்",
+          "line2": "தஞ்சு மவன்கற்ற நூல்."
+        },
+        "en": {
+          "line1": "As shining sword before the foe which 'sexless being' bears,",
+          "line2": "Is science learned by him the council's face who fears."
+        },
+        "hi": {
+          "line1": "सभा-भीरु को प्राप्त है, जो भी शास्त्र-ज्ञान ।",
+          "line2": "कायर-कर रण-भूमि में, तीक्ष्ण खड्ग समान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pagaiyagaththup Pedigai Yolvaa Lavaiyagath",
+            "line2": "Thanju Mavankatra Nool."
+          },
+          "hi": {
+            "line1": "पगैयगत्तुप् पेडिगै यॊळ्वा ळवैयगत्",
+            "line2": "तञ्जू मवन्कत्र नूल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கற்றார் அவைக்கு அஞ்சுகின்றவன் கற்ற நூல், போர்க்களத்தில் பேடி தன் கையில் பிடித்திருக்கும் ஒளி வீசும் வாளைப் போன்றதாகும்.",
+        "en": "Expertise you're too intimidated to use in public is like a razor-sharp weapon in the hands of someone who won't fight.",
+        "hi": "सभा से डरने वाले व्यक्ति ने जो भी शास्त्र-ज्ञान प्राप्त किया है, वह रणभूमि में कायर के हाथ में रखी तीक्ष्ण तलवार के समान व्यर्थ है।"
+      }
+    },
+    {
+      "num": 728,
+      "line1": "பல்லவை கற்றும் பயமிலரே நல்லவையு",
+      "line2": "ணன்கு செலச்சொல்லலா தார்.",
+      "enLine1": "Though many things they've learned, yet useless are they all,",
+      "enLine2": "To men who cannot well and strongly speak in council hall.",
+      "hiLine1": "रह कर भी बहु शास्त्रविद्, है ही नहिं उपयोग ।",
+      "hiLine2": "विज्ञ-सभा पर असर कर, कह न सके जो लोग ॥",
+      "general": "நல்லோர் அவையில் கேட்போர் மனத்தில் பதியுமாறு நன்கு சொல்லத் தெரியாதவர்கள், பல நூல்களைக் கற்றிருந்தாலும் பயனற்றவர்களே.",
+      "en": "Even if they have studied many subjects, those who cannot speak clearly and persuasively in a good assembly are of no use.",
+      "hi": "बहुत से शास्त्रों का ज्ञान रखने पर भी उन लोगों का कोई उपयोग नहीं है, जो विद्वानों की सभा में प्रभावशाली ढंग से अपनी बात नहीं कह सकते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பல்லவை கற்றும் <br>(Pallavai katrum)",
+          "ta": "பல நூல்களைக் கற்றும்",
+          "en": "Many things learned",
+          "hi": "रह कर भी बहु शास्त्रविद्"
+        },
+        {
+          "no": 2,
+          "word": "பயம் இலரே <br>(Payam ilare)",
+          "ta": "பயனற்றவரே",
+          "en": "Useless are they all",
+          "hi": "है ही नहिं उपयोग"
+        },
+        {
+          "no": 3,
+          "word": "நல்லவையுள் <br>(Nallavaiyul)",
+          "ta": "நல்லோர் அவையில்",
+          "en": "In council hall",
+          "hi": "विज्ञ-सभा पर"
+        },
+        {
+          "no": 4,
+          "word": "நன்கு <br>(Nangu)",
+          "ta": "நன்றாக",
+          "en": "Well",
+          "hi": "असर कर"
+        },
+        {
+          "no": 5,
+          "word": "செல <br>(Sela)",
+          "ta": "மனத்தில் பதியுமாறு",
+          "en": "Strongly",
+          "hi": "प्रभाव"
+        },
+        {
+          "no": 6,
+          "word": "சொல்லலாதார் <br>(Sollalaadhaar)",
+          "ta": "சொல்ல முடியாதவர்",
+          "en": "Cannot speak",
+          "hi": "कह न सके जो लोग"
+        },
+        {
+          "no": 7,
+          "word": "கல்வி <br>(Kalvi)",
+          "ta": "கல்வி",
+          "en": "Learning",
+          "hi": "ज्ञान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பல்லவை கற்றும் பயமிலரே நல்லவையு",
+          "line2": "ணன்கு செலச்சொல்லலா தார்."
+        },
+        "en": {
+          "line1": "Though many things they've learned, yet useless are they all,",
+          "line2": "To men who cannot well and strongly speak in council hall."
+        },
+        "hi": {
+          "line1": "रह कर भी बहु शास्त्रविद्, है ही नहिं उपयोग ।",
+          "line2": "विज्ञ-सभा पर असर कर, कह न सके जो लोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pallavai Katrum Payamilare Nallavaiyu",
+            "line2": "Nanku Selachchollalaa Thaar."
+          },
+          "hi": {
+            "line1": "पल्लवै कत्रुम् पयमिलरे नल्लवैयु",
+            "line2": "णन्गु सॆलच्चॊल्लला दार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்லோர் அவையில் கேட்போர் மனத்தில் பதியுமாறு நன்கு சொல்லத் தெரியாதவர்கள், பல நூல்களைக் கற்றிருந்தாலும் பயனற்றவர்களே.",
+        "en": "Knowing a lot doesn't help much if you can't communicate it clearly when it counts.",
+        "hi": "बहुत से शास्त्रों का ज्ञान रखने पर भी उन लोगों का कोई उपयोग नहीं है, जो विद्वानों की सभा में प्रभावशाली ढंग से अपनी बात नहीं कह सकते।"
+      }
+    },
+    {
+      "num": 729,
+      "line1": "கல்லா தவரிற் கடையென்ப கற்றறிந்து",
+      "line2": "நல்லா ரவையஞ்சு வார்.",
+      "enLine1": "Who, though they've learned, before the council of the good men quake,",
+      "enLine2": "Than men unlearn'd a lower place must take.",
+      "hiLine1": "जो होते भयभीत हैं, विज्ञ-सभा के बीच ।",
+      "hiLine2": "रखते शास्त्रज्ञान भी, अनपढ़ से हैं नीच ॥",
+      "general": "நூல்களைக் கற்றறிந்தும் நல்லோர் அவையில் பேச அஞ்சுபவர்களை, கல்லாதவர்களை விடத் தாழ்ந்தவர்கள் என்று அறிஞர் கூறுவர்.",
+      "en": "Those who have acquired learning yet tremble before an assembly of the wise are considered inferior even to the unlearned.",
+      "hi": "जो लोग शास्त्र-ज्ञान रखते हुए भी विद्वानों की सभा के बीच बोलने से भयभीत होते हैं, वे अनपढ़ लोगों से भी नीचे (हीन) माने जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கல்லாதவரின் <br>(Kallaadhavarin)",
+          "ta": "கல்லாதவரை விட",
+          "en": "Than men unlearn'd",
+          "hi": "अनपढ़ से"
+        },
+        {
+          "no": 2,
+          "word": "கடை என்ப <br>(Kadai enba)",
+          "ta": "தாழ்ந்தவர் என்பர்",
+          "en": "Lower place must take",
+          "hi": "हैं नीच"
+        },
+        {
+          "no": 3,
+          "word": "கற்றறிந்து <br>(Katrindhu)",
+          "ta": "கற்றறிந்தும்",
+          "en": "Though they've learned",
+          "hi": "रखते शास्त्रज्ञान भी"
+        },
+        {
+          "no": 4,
+          "word": "நல்லார் <br>(Nallaar)",
+          "ta": "நல்லோரின்",
+          "en": "Of the good men",
+          "hi": "विज्ञ"
+        },
+        {
+          "no": 5,
+          "word": "அவை <br>(Avai)",
+          "ta": "அவைக்கு",
+          "en": "Before the council",
+          "hi": "सभा के बीच"
+        },
+        {
+          "no": 6,
+          "word": "அஞ்சுவார் <br>(Anjuvaar)",
+          "ta": "அஞ்சுபவர்கள்",
+          "en": "Quake",
+          "hi": "जो होते भयभीत हैं"
+        },
+        {
+          "no": 7,
+          "word": "தாழ்வு <br>(Thaazhvu)",
+          "ta": "தாழ்வு",
+          "en": "Lower",
+          "hi": "हीन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கல்லா தவரிற் கடையென்ப கற்றறிந்து",
+          "line2": "நல்லா ரவையஞ்சு வார்."
+        },
+        "en": {
+          "line1": "Who, though they've learned, before the council of the good men quake,",
+          "line2": "Than men unlearn'd a lower place must take."
+        },
+        "hi": {
+          "line1": "जो होते भयभीत हैं, विज्ञ-सभा के बीच ।",
+          "line2": "रखते शास्त्रज्ञान भी, अनपढ़ से हैं नीच ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kallaadhavarin Kadai Enba Katrindhu",
+            "line2": "Nallaar Avai Anjuvaar."
+          },
+          "hi": {
+            "line1": "कल्ला दवरिर् कडैयॆन्ब कत्ररिन्दु",
+            "line2": "नल्ला रवैयञ्जू वार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நூல்களைக் கற்றறிந்தும் நல்லோர் அவையில் பேச அஞ்சுபவர்களை, கல்லாதவர்களை விடத் தாழ்ந்தவர்கள் என்று அறிஞர் கூறுவர்.",
+        "en": "Having an education and freezing up in front of peers puts you behind someone with no formal training at all.",
+        "hi": "जो लोग शास्त्र-ज्ञान रखते हुए भी विद्वानों की सभा के बीच बोलने से भयभीत होते हैं, वे अनपढ़ लोगों से भी नीचे (हीन) माने जाते हैं।"
+      }
+    },
+    {
+      "num": 730,
+      "line1": "உளரெனினு மல்லாரோ டொப்பர் களனஞ்சிக்",
+      "line2": "கற்ற செலச்சொல்லா தார்.",
+      "enLine1": "Who what they've learned, in penetrating words know not to say,",
+      "enLine2": "The council fearing, though they live, as dead are they.",
+      "hiLine1": "जो प्रभावकर ढंग से, कह न सका निज ज्ञान ।",
+      "hiLine2": "सभा-भीरु वह मृतक सम, यद्यपि है सप्राण ॥",
+      "general": "அவைக்கு அஞ்சித் தாம் கற்றவற்றைப் பிறர் மனத்தில் பதியுமாறு சொல்லத் தெரியாதவர்கள், உயிரோடு இருந்தாலும் இறந்தவர்க்குச் சமமானவர்களே.",
+      "en": "Those who fear the assembly and fail to express what they have learned effectively are as good as dead, even though they are alive.",
+      "hi": "जो सभा से डरकर अपने ज्ञान को प्रभावशाली ढंग से नहीं कह पाता, वह जीवित (सप्राण) होते हुए भी मृतक के समान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உளர் எனினும் <br>(Ular eninum)",
+          "ta": "உயிரோடு இருந்தாலும்",
+          "en": "Though they live",
+          "hi": "यद्यपि है सप्राण"
+        },
+        {
+          "no": 2,
+          "word": "அல்லாரோடு <br>(Allaarodu)",
+          "ta": "இல்லாதவரோடு",
+          "en": "As dead",
+          "hi": "मृतक सम"
+        },
+        {
+          "no": 3,
+          "word": "ஒப்பர் <br>(Oppar)",
+          "ta": "ஒப்பானவர்",
+          "en": "Are they",
+          "hi": "वह"
+        },
+        {
+          "no": 4,
+          "word": "களன் அஞ்சி <br>(Kalan anji)",
+          "ta": "அவைக்கு அஞ்சி",
+          "en": "The council fearing",
+          "hi": "सभा-भीरु"
+        },
+        {
+          "no": 5,
+          "word": "கற்ற <br>(Katra)",
+          "ta": "கற்றவற்றை",
+          "en": "What they've learned",
+          "hi": "निज ज्ञान"
+        },
+        {
+          "no": 6,
+          "word": "செலச் <br>(Sela)",
+          "ta": "மனத்தில் பதியுமாறு",
+          "en": "Penetrating words",
+          "hi": "प्रभावकर ढंग से"
+        },
+        {
+          "no": 7,
+          "word": "சொல்லாதார் <br>(Sollaadhaar)",
+          "ta": "சொல்லாதவர்",
+          "en": "Know not to say",
+          "hi": "कह न सका"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உளரெனினு மல்லாரோ டொப்பர் களனஞ்சிக்",
+          "line2": "கற்ற செலச்சொல்லா தார்."
+        },
+        "en": {
+          "line1": "Who what they've learned, in penetrating words know not to say,",
+          "line2": "The council fearing, though they live, as dead are they."
+        },
+        "hi": {
+          "line1": "जो प्रभावकर ढंग से, कह न सका निज ज्ञान ।",
+          "line2": "सभा-भीरु वह मृतक सम, यद्यपि है सप्राण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ulareninu Mallaaro Doppar Kalananjik",
+            "line2": "Katra Selachchollaa Thaar."
+          },
+          "hi": {
+            "line1": "उळरॆनिनु मल्लारो डॊप्पर् कळनञ्जिक्",
+            "line2": "कत्र सॆलच्चॊल्ला दार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அவைக்கு அஞ்சித் தாம் கற்றவற்றைப் பிறர் மனத்தில் பதியுமாறு சொல்லத் தெரியாதவர்கள், உயிரோடு இருந்தாலும் இறந்தவர்க்குச் சமமானவர்களே.",
+        "en": "If fear keeps you from speaking up and sharing what you know, your knowledge might as well not exist.",
+        "hi": "जो सभा से डरकर अपने ज्ञान को प्रभावशाली ढंग से नहीं कह पाता, वह जीवित (सप्राण) होते हुए भी मृतक के समान है।"
+      }
+    }
+  ]
+}

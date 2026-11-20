@@ -1,0 +1,930 @@
+{
+  "chapterNum": 75,
+  "nameTa": "அரண்",
+  "nameEn": "The Fortification",
+  "nameHi": "दुर्ग",
+  "paal": "பொருட்பால்",
+  "iyal": "அங்கவியல்",
+  "kurals": [
+    {
+      "num": 741,
+      "line1": "ஆற்று பவர்க்கு மரண்பொரு ளஞ்சித்தற்",
+      "line2": "போற்று பவர்க்கும் பொருள்.",
+      "enLine1": "A fort is wealth to those who act against their foes;",
+      "enLine2": "Is wealth to them who, fearing, guard themselves from woes.",
+      "hiLine1": "आक्रामक को दुर्ग है, साधन महत्वपूर्ण ।",
+      "hiLine2": "शरणार्थी-रक्षक वही, जो रिपु-भय से चूर्ण ॥",
+      "general": "பகைவர் மேல் படையெடுத்துச் செல்பவர்களுக்கும் அரண் ஒரு சிறந்த பொருளாகும்; பகைவருக்கு அஞ்சித் தம்மைக் காத்துக் கொள்பவர்களுக்கும் அது சிறந்த பொருளாகும்.",
+      "en": "A strong fortress is a vital asset both to those who march out to attack enemies and to those who seek shelter to defend themselves.",
+      "hi": "शत्रु पर आक्रमण करने वालों के लिए भी दुर्ग एक महत्त्वपूर्ण साधन है, और शत्रु के भय से त्रस्त होकर शरण लेने वालों के लिए भी वही रक्षक है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஆற்றுபவர்க்கும் <br>(Aatrupavarkkum)",
+          "ta": "படையெடுத்துச் செல்பவர்க்கும்",
+          "en": "Act against foes",
+          "hi": "आक्रामक को"
+        },
+        {
+          "no": 2,
+          "word": "அரண் <br>(Aran)",
+          "ta": "கோட்டை",
+          "en": "A fort",
+          "hi": "दुर्ग"
+        },
+        {
+          "no": 3,
+          "word": "பொருள் <br>(Porul)",
+          "ta": "சிறந்த பொருளாகும்",
+          "en": "Is wealth",
+          "hi": "साधन महत्वपूर्ण"
+        },
+        {
+          "no": 4,
+          "word": "அஞ்சி <br>(Anji)",
+          "ta": "பகைக்கு அஞ்சி",
+          "en": "Fearing",
+          "hi": "रिपु-भय से चूर्ण"
+        },
+        {
+          "no": 5,
+          "word": "தம் போற்றுபவர்க்கும் <br>(Tham potrupavarkkum)",
+          "ta": "தம்மைக் காப்பவர்க்கும்",
+          "en": "Guard themselves",
+          "hi": "शरणार्थी-रक्षक"
+        },
+        {
+          "no": 6,
+          "word": "பொருள் <br>(Porul)",
+          "ta": "துணையாகும் பொருள்",
+          "en": "Is wealth",
+          "hi": "वही साधन"
+        },
+        {
+          "no": 7,
+          "word": "பாதுகாப்பு <br>(Paadhugaappu)",
+          "ta": "பாதுகாப்பு",
+          "en": "Protection",
+          "hi": "रक्षा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஆற்று பவர்க்கு மரண்பொரு ளஞ்சித்தற்",
+          "line2": "போற்று பவர்க்கும் பொருள்."
+        },
+        "en": {
+          "line1": "A fort is wealth to those who act against their foes;",
+          "line2": "Is wealth to them who, fearing, guard themselves from woes."
+        },
+        "hi": {
+          "line1": "आक्रामक को दुर्ग है, साधन महत्वपूर्ण ।",
+          "line2": "शरणार्थी-रक्षक वही, जो रिपु-भय से चूर्ण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aatru Pavarkku Maranporu Lanjiththar",
+            "line2": "Potru Pavarkkum Porul."
+          },
+          "hi": {
+            "line1": "आत्रु पवर्क्कु मरन्पॊरु ळञ्जित्तर्",
+            "line2": "पोत्रु पवर्क्कुम् पॊरुळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைவர் மேல் படையெடுத்துச் செல்பவர்களுக்கும் அரண் ஒரு சிறந்த பொருளாகும்; பகைவருக்கு அஞ்சித் தம்மைக் காத்துக் கொள்பவர்களுக்கும் அது சிறந்த பொருளாகும்.",
+        "en": "Strong defenses matter whether you're going on the offensive or protecting what you already have.",
+        "hi": "शत्रु पर आक्रमण करने वालों के लिए भी दुर्ग एक महत्त्वपूर्ण साधन है, और शत्रु के भय से त्रस्त होकर शरण लेने वालों के लिए भी वही रक्षक है।"
+      }
+    },
+    {
+      "num": 742,
+      "line1": "மணிநீரு மண்ணு மலையு மணிநிழற்",
+      "line2": "காடு முடைய தரண்.",
+      "enLine1": "A fort is that which owns a fount of waters crystal clear,",
+      "enLine2": "An open space, a hill, and shade of beauteous forest near.",
+      "hiLine1": "मणि सम जल, मरु भूमि औ', जंगल घना पहाड़ ।",
+      "hiLine2": "कहलाता है दुर्ग वह, जब हो इनसे आड़ ॥",
+      "general": "மணி போன்ற தெளிந்த நீரும், பரந்த சமவெளியும், மலையும், அழகிய நிழல் தரும் காடும் ஆகிய நான்கையும் கொண்டதே சிறந்த அரணாகும்.",
+      "en": "A true fortress has crystal-clear water, wide open terrain, a protective hill, and a dense, shady forest.",
+      "hi": "जहाँ मणि के समान स्वच्छ जल, खुली भूमि, पहाड़ और घना जंगल—इन चारों की प्राकृतिक आड़ हो, वही उत्तम दुर्ग कहलाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மணி நீரும் <br>(Mani neerum)",
+          "ta": "தெளிந்த நீரும்",
+          "en": "Waters crystal clear",
+          "hi": "मणि सम जल"
+        },
+        {
+          "no": 2,
+          "word": "மண்ணும் <br>(Mannum)",
+          "ta": "பரந்த நிலமும்",
+          "en": "Open space",
+          "hi": "मरु भूमि"
+        },
+        {
+          "no": 3,
+          "word": "மலையும் <br>(Malaiyum)",
+          "ta": "மலையும்",
+          "en": "A hill",
+          "hi": "पहाड़"
+        },
+        {
+          "no": 4,
+          "word": "அணி நிழல் <br>(Ani nizhal)",
+          "ta": "அழகிய நிழலையுடைய",
+          "en": "Shade of beauteous",
+          "hi": "घना"
+        },
+        {
+          "no": 5,
+          "word": "காடும் <br>(Kaadum)",
+          "ta": "காடும்",
+          "en": "Forest",
+          "hi": "जंगल"
+        },
+        {
+          "no": 6,
+          "word": "உடையது <br>(Udaiyadhu)",
+          "ta": "உடையதே",
+          "en": "Which owns",
+          "hi": "जब हो इनसे आड़"
+        },
+        {
+          "no": 7,
+          "word": "அரண் <br>(Aran)",
+          "ta": "அரண் ஆகும்",
+          "en": "A fort",
+          "hi": "कहलाता है दुर्ग वह"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மணிநீரு மண்ணு மலையு மணிநிழற்",
+          "line2": "காடு முடைய தரண்."
+        },
+        "en": {
+          "line1": "A fort is that which owns a fount of waters crystal clear,",
+          "line2": "An open space, a hill, and shade of beauteous forest near."
+        },
+        "hi": {
+          "line1": "मणि सम जल, मरु भूमि औ', जंगल घना पहाड़ ।",
+          "line2": "कहलाता है दुर्ग वह, जब हो इनसे आड़ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Manineeru Mannu Malaiyu Maninizhar",
+            "line2": "Kaadu Mudaiya Tharan."
+          },
+          "hi": {
+            "line1": "मणिनीरु मण्णु मलैयु मणिनिऴर्",
+            "line2": "काडु मुडैय दरण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மணி போன்ற தெளிந்த நீரும், பரந்த சமவெளியும், மலையும், அழகிய நிழல் தரும் காடும் ஆகிய நான்கையும் கொண்டதே சிறந்த அரணாகும்.",
+        "en": "The best stronghold combines four natural advantages: clean water, open visibility, high ground, and forest cover.",
+        "hi": "जहाँ मणि के समान स्वच्छ जल, खुली भूमि, पहाड़ और घना जंगल—इन चारों की प्राकृतिक आड़ हो, वही उत्तम दुर्ग कहलाता है।"
+      }
+    },
+    {
+      "num": 743,
+      "line1": "உயர்வகலந் திண்மை யருமை யிந்நான்கி",
+      "line2": "னமைவர ணென்றுரைக்கு நூல்.",
+      "enLine1": "Height, breadth, strength, difficult access:",
+      "enLine2": "Science declares a fort must these possess.",
+      "hiLine1": "ऊँचा, चौड़ा और दृढ़, अगम्य भी अत्यंत ।",
+      "hiLine2": "चारों गुणयुत दुर्ग है, यों कहते हैं ग्रन्थ ॥",
+      "general": "உயரம், அகலம், உறுதி, பகைவர் அணுக முடியாத அருமை ஆகிய இவை நான்கும் அமைந்ததே சிறந்த அரண் என்று நூல்கள் கூறும்.",
+      "en": "Treatises on statecraft declare that a fortress must have four qualities: height, breadth, solidity, and inaccessibility.",
+      "hi": "नीति-ग्रन्थ कहते हैं कि जो ऊँचा, चौड़ा, मजबूत और शत्रु के लिए अत्यन्त अगम्य हो—इन चारों गुणों से युक्त स्थान ही श्रेष्ठ दुर्ग है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உயர்வு <br>(Uyarvu)",
+          "ta": "உயரம்",
+          "en": "Height",
+          "hi": "ऊँचा"
+        },
+        {
+          "no": 2,
+          "word": "அகலம் <br>(Agalam)",
+          "ta": "அகலம்",
+          "en": "Breadth",
+          "hi": "चौड़ा"
+        },
+        {
+          "no": 3,
+          "word": "திண்மை <br>(Thinmai)",
+          "ta": "உறுதி",
+          "en": "Strength",
+          "hi": "दृढ़"
+        },
+        {
+          "no": 4,
+          "word": "அருமை <br>(Arumai)",
+          "ta": "அணுக முடியாத அருமை",
+          "en": "Difficult access",
+          "hi": "अगम्य भी अत्यंत"
+        },
+        {
+          "no": 5,
+          "word": "இந்நான்கின் <br>(Innaangin)",
+          "ta": "இந்நான்கும்",
+          "en": "These",
+          "hi": "चारों गुणयुत"
+        },
+        {
+          "no": 6,
+          "word": "அமைவு அரண் <br>(Amaivu aran)",
+          "ta": "அமைந்ததே அரண்",
+          "en": "A fort must possess",
+          "hi": "दुर्ग है"
+        },
+        {
+          "no": 7,
+          "word": "என்று உரைக்கும் நூல் <br>(Endru uraikkum nool)",
+          "ta": "என்று நூல்கள் கூறும்",
+          "en": "Science declares",
+          "hi": "यों कहते हैं ग्रन्थ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உயர்வகலந் திண்மை யருமை யிந்நான்கி",
+          "line2": "னமைவர ணென்றுரைக்கு நூல்."
+        },
+        "en": {
+          "line1": "Height, breadth, strength, difficult access:",
+          "line2": "Science declares a fort must these possess."
+        },
+        "hi": {
+          "line1": "ऊँचा, चौड़ा और दृढ़, अगम्य भी अत्यंत ।",
+          "line2": "चारों गुणयुत दुर्ग है, यों कहते हैं ग्रन्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uyarvagalan Thinmai Yarumai Yinnaanki",
+            "line2": "Namaivara Nenruraikku Nool."
+          },
+          "hi": {
+            "line1": "उयर्वगलन् तिण्मै यरुमै यिन्नान्गि",
+            "line2": "नमौवर णॆन्द्रुरैक्कु नूल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உயரம், அகலம், உறுதி, பகைவர் அணுக முடியாத அருமை ஆகிய இவை நான்கும் அமைந்ததே சிறந்த அரண் என்று நூல்கள் கூறும்.",
+        "en": "Every solid defense needs four traits: tall walls, wide foundations, structural strength, and hard-to-breach approaches.",
+        "hi": "नीति-ग्रन्थ कहते हैं कि जो ऊँचा, चौड़ा, मजबूत और शत्रु के लिए अत्यन्त अगम्य हो—इन चारों गुणों से युक्त स्थान ही श्रेष्ठ दुर्ग है।"
+      }
+    },
+    {
+      "num": 744,
+      "line1": "சிறுகாப்பிற் பேரிடத்த தாகி யுறுபகை",
+      "line2": "யூக்க மழிப்ப தரண்.",
+      "enLine1": "A fort must need but slight defence, yet ample be,",
+      "enLine2": "Defying all the foeman's energy.",
+      "hiLine1": "अति विस्तृत होते हुए, रक्षणीय थल तंग ।",
+      "hiLine2": "दुर्ग वही जो शत्रु का, करता नष्ट उमंग ॥",
+      "general": "காக்க வேண்டிய இடம் சிறியதாகவும் உள்ளிடம் பெரியதாகவும் இருந்து, எதிர்த்து வரும் பகைவரின் ஊக்கத்தை அழிப்பதே அரணாகும்.",
+      "en": "A fortress should have a small perimeter to guard, spacious grounds within, and the power to break the attacking enemy's morale.",
+      "hi": "भीतर से अत्यन्त विस्तृत होते हुए भी जिसकी रक्षा करने का बाहरी स्थान छोटा हो और जो शत्रु के उत्साह को नष्ट कर दे, वही सच्चा दुर्ग है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சிறு காப்பின் <br>(Siru kaappin)",
+          "ta": "சிறிய காவல் இடமும்",
+          "en": "Slight defence",
+          "hi": "रक्षणीय थल तंग"
+        },
+        {
+          "no": 2,
+          "word": "பேரிடத்தது ஆகி <br>(Peridaththadhu aagi)",
+          "ta": "பெரிய உள்ளிடமும் உடையதாகி",
+          "en": "Yet ample be",
+          "hi": "अति विस्तृत होते हुए"
+        },
+        {
+          "no": 3,
+          "word": "உறு பகை <br>(Uru pagai)",
+          "ta": "மிகுந்து வரும் பகைவரின்",
+          "en": "Foeman's",
+          "hi": "शत्रु का"
+        },
+        {
+          "no": 4,
+          "word": "ஊக்கம் <br>(Ookkam)",
+          "ta": "மன ஊக்கத்தை",
+          "en": "Energy",
+          "hi": "उमंग"
+        },
+        {
+          "no": 5,
+          "word": "அழிப்பது <br>(Azhippadhu)",
+          "ta": "அழிப்பதே",
+          "en": "Defying",
+          "hi": "करता नष्ट"
+        },
+        {
+          "no": 6,
+          "word": "அரண் <br>(Aran)",
+          "ta": "சிறந்த அரண் ஆகும்",
+          "en": "A fort",
+          "hi": "दुर्ग वही"
+        },
+        {
+          "no": 7,
+          "word": "வலிமை <br>(Valimai)",
+          "ta": "வலிமை",
+          "en": "Strength",
+          "hi": "शक्ति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சிறுகாப்பிற் பேரிடத்த தாகி யுறுபகை",
+          "line2": "யூக்க மழிப்ப தரண்."
+        },
+        "en": {
+          "line1": "A fort must need but slight defence, yet ample be,",
+          "line2": "Defying all the foeman's energy."
+        },
+        "hi": {
+          "line1": "अति विस्तृत होते हुए, रक्षणीय थल तंग ।",
+          "line2": "दुर्ग वही जो शत्रु का, करता नष्ट उमंग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sirugaappir Peridaththa Thaagi Yurubagai",
+            "line2": "Yookka Mazhippa Tharan."
+          },
+          "hi": {
+            "line1": "सिरुकाप्पिर पेरिडत्त दागि युरुपगै",
+            "line2": "यूक्क मऴिप्प दरण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "காக்க வேண்டிய இடம் சிறியதாகவும் உள்ளிடம் பெரியதாகவும் இருந்து, எதிர்த்து வரும் பகைவரின் ஊக்கத்தை அழிப்பதே அரணாகும்.",
+        "en": "Smart design keeps entry points narrow and easy to defend while leaving plenty of room inside—draining any attacker's momentum.",
+        "hi": "भीतर से अत्यन्त विस्तृत होते हुए भी जिसकी रक्षा करने का बाहरी स्थान छोटा हो और जो शत्रु के उत्साह को नष्ट कर दे, वही सच्चा दुर्ग है।"
+      }
+    },
+    {
+      "num": 745,
+      "line1": "கொளற்கரிதாய்க் கொண்டகூழ்த் தாகி யகத்தார்",
+      "line2": "நிலைக்கெளிதா நீர தரண்.",
+      "enLine1": "Impregnable, containing ample stores of food,",
+      "enLine2": "A fort, for those within, must be a warlike station good.",
+      "hiLine1": "जो रहता दुर्जेय है, रखता यथेष्ट अन्न ।",
+      "hiLine2": "अंतरस्थ टिकते सुलभ, दुर्ग वही संपन्न ॥",
+      "general": "பகைவரால் கைப்பற்ற முடியாததாய், உள்ளே மிகுந்த உணவுப் பொருள்களைக் கொண்டதாய், உள்ளிருப்பவர் போர் செய்வதற்கு எளிதானதாய் இருப்பதே அரண்.",
+      "en": "A fortress must be impossible to capture, stocked with ample provisions, and easy for its defenders to hold and fight from.",
+      "hi": "जो शत्रु के लिए अजेय (दुर्जेय) हो, जिसमें पर्याप्त अन्न का भण्डार हो और जहाँ भीतर रहने वाले सैनिक आसानी से टिक सकें, वही सम्पन्न दुर्ग है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கொளற்கு அரிதாய் <br>(Kolarku aridhaay)",
+          "ta": "கைப்பற்றுவதற்கு அரியதாய்",
+          "en": "Impregnable",
+          "hi": "जो रहता दुर्जेय है"
+        },
+        {
+          "no": 2,
+          "word": "கொண்ட கூழ்த்து ஆகி <br>(Konda koozhththu aagi)",
+          "ta": "நிறைந்த உணவுப் பொருள் உடையதாய்",
+          "en": "Ample stores of food",
+          "hi": "रखता यथेष्ट अन्न"
+        },
+        {
+          "no": 3,
+          "word": "அகத்தார் <br>(Agaththaar)",
+          "ta": "உள்ளே இருப்பவர்கள்",
+          "en": "Those within",
+          "hi": "अंतरस्थ"
+        },
+        {
+          "no": 4,
+          "word": "நிலைக்கு <br>(Nilaikku)",
+          "ta": "தங்கிப் போரிட",
+          "en": "Warlike station",
+          "hi": "टिकते"
+        },
+        {
+          "no": 5,
+          "word": "எளிதாம் <br>(Elidhaam)",
+          "ta": "எளிதான",
+          "en": "Good",
+          "hi": "सुलभ"
+        },
+        {
+          "no": 6,
+          "word": "நீரது <br>(Neeradhu)",
+          "ta": "தன்மையுடையதே",
+          "en": "Must be",
+          "hi": "संपन्न"
+        },
+        {
+          "no": 7,
+          "word": "அரண் <br>(Aran)",
+          "ta": "அரண் ஆகும்",
+          "en": "A fort",
+          "hi": "दुर्ग वही"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கொளற்கரிதாய்க் கொண்டகூழ்த் தாகி யகத்தார்",
+          "line2": "நிலைக்கெளிதா நீர தரண்."
+        },
+        "en": {
+          "line1": "Impregnable, containing ample stores of food,",
+          "line2": "A fort, for those within, must be a warlike station good."
+        },
+        "hi": {
+          "line1": "जो रहता दुर्जेय है, रखता यथेष्ट अन्न ।",
+          "line2": "अंतरस्थ टिकते सुलभ, दुर्ग वही संपन्न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kolarkaridhaayk Kondagoozhth Thaagi Yagaththaar",
+            "line2": "Nilaikkelidhaa Neera Tharan."
+          },
+          "hi": {
+            "line1": "कॊळर्करिदाय्क् कॊण्डकूऴ्त् तागि यगत्तार्",
+            "line2": "निलैक्कॆळिदा नीर दरण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைவரால் கைப்பற்ற முடியாததாய், உள்ளே மிகுந்த உணவுப் பொருள்களைக் கொண்டதாய், உள்ளிருப்பவர் போர் செய்வதற்கு எளிதானதாய் இருப்பதே அரண்.",
+        "en": "A true stronghold is hard to breach, well-stocked with supplies, and built so defenders can hold out comfortably.",
+        "hi": "जो शत्रु के लिए अजेय (दुर्जेय) हो, जिसमें पर्याप्त अन्न का भण्डार हो और जहाँ भीतर रहने वाले सैनिक आसानी से टिक सकें, वही सम्पन्न दुर्ग है।"
+      }
+    },
+    {
+      "num": 746,
+      "line1": "எல்லாப் பொருளு முடைத்தா யிடத்துதவு",
+      "line2": "நல்லா ளுடைய தரண்.",
+      "enLine1": "A fort, with all munitions amply stored,",
+      "enLine2": "In time of need should good reserves afford.",
+      "hiLine1": "कहलाता है दुर्ग वह, जो रख सभी पदार्थ ।",
+      "hiLine2": "देता संकट काल में, योग्य वीर रक्षार्थ ॥",
+      "general": "போருக்குத் தேவையான எல்லாப் பொருள்களையும் உடையதாய், ஆபத்துக் காலத்தில் உதவும் நல்ல வீரர்களையும் கொண்டதே அரணாகும்.",
+      "en": "A fortress is one stocked with every needed supply and manned by capable defenders ready in times of crisis.",
+      "hi": "जो आवश्यक सभी पदार्थों से भरा हो और संकट के समय रक्षा के लिए योग्य वीर सैनिक प्रदान करे, वही उत्तम दुर्ग कहलाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எல்லாப் பொருளும் <br>(Ellaap porulum)",
+          "ta": "எல்லாப் பொருள்களையும்",
+          "en": "All munitions",
+          "hi": "सभी पदार्थ"
+        },
+        {
+          "no": 2,
+          "word": "உடைத்தாய் <br>(Udaiththaay)",
+          "ta": "உடையதாய்",
+          "en": "Amply stored",
+          "hi": "जो रख"
+        },
+        {
+          "no": 3,
+          "word": "இடத்து <br>(Idaththu)",
+          "ta": "ஆபத்துக் காலத்தில்",
+          "en": "In time of need",
+          "hi": "संकट काल में"
+        },
+        {
+          "no": 4,
+          "word": "உதவும் <br>(Udhavum)",
+          "ta": "உதவுகின்ற",
+          "en": "Should afford",
+          "hi": "देता"
+        },
+        {
+          "no": 5,
+          "word": "நல்லாள் <br>(Nallaal)",
+          "ta": "நல்ல வீரர்களை",
+          "en": "Good reserves",
+          "hi": "योग्य वीर रक्षार्थ"
+        },
+        {
+          "no": 6,
+          "word": "உடையது <br>(Udaiyadhu)",
+          "ta": "உடையதே",
+          "en": "With",
+          "hi": "कहलाता है"
+        },
+        {
+          "no": 7,
+          "word": "அரண் <br>(Aran)",
+          "ta": "அரண் ஆகும்",
+          "en": "A fort",
+          "hi": "दुर्ग वह"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எல்லாப் பொருளு முடைத்தா யிடத்துதவு",
+          "line2": "நல்லா ளுடைய தரண்."
+        },
+        "en": {
+          "line1": "A fort, with all munitions amply stored,",
+          "line2": "In time of need should good reserves afford."
+        },
+        "hi": {
+          "line1": "कहलाता है दुर्ग वह, जो रख सभी पदार्थ ।",
+          "line2": "देता संकट काल में, योग्य वीर रक्षार्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ellaap Porulu Mudaiththaa Yidaththudhavu",
+            "line2": "Nallaa Ludaiya Tharan."
+          },
+          "hi": {
+            "line1": "ऎल्लाप् पॊरुळु मुडैत्ता यिडत्तुदवु",
+            "line2": "नल्ला ळुडैय दरण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "போருக்குத் தேவையான எல்லாப் பொருள்களையும் உடையதாய், ஆபத்துக் காலத்தில் உதவும் நல்ல வீரர்களையும் கொண்டதே அரணாகும்.",
+        "en": "Walls alone aren't enough—a real fortress combines complete supplies with reliable defenders ready for emergencies.",
+        "hi": "जो आवश्यक सभी पदार्थों से भरा हो और संकट के समय रक्षा के लिए योग्य वीर सैनिक प्रदान करे, वही उत्तम दुर्ग कहलाता है।"
+      }
+    },
+    {
+      "num": 747,
+      "line1": "முற்றியு முற்றா தெறிந்து மறைப்படுத்தும்",
+      "line2": "பற்றற் கரிய தரண்.",
+      "enLine1": "A fort should be impregnable to foes who gird it round,",
+      "enLine2": "Or aim there darts from far, or mine beneath the ground.",
+      "hiLine1": "पिल पड़ कर या घेर कर, या करके छलछिद्र ।",
+      "hiLine2": "जिसको हथिया ना सके, है वह दुर्ग विचित्र ॥",
+      "general": "சுற்றி வளைத்தாலும், சுற்றி வளைக்காமல் தூரத்திலிருந்து தாக்கினாலும், சுரங்கம் தோண்டி வந்தாலும் பகைவரால் கைப்பற்ற முடியாததே அரண்.",
+      "en": "A true fortress cannot be taken—whether enemies besiege it, attack from afar, or tunnel underneath.",
+      "hi": "चाहे शत्रु धावा बोलकर, चारों ओर से घेरकर या भीतर सेंध (छलछिद्र) लगाकर प्रयास करे, फिर भी जिसे कोई हथिया न सके, वही अद्भुत दुर्ग है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "முற்றியும் <br>(Mutriyum)",
+          "ta": "முற்றுகையிட்டும்",
+          "en": "Gird it round",
+          "hi": "घेर कर"
+        },
+        {
+          "no": 2,
+          "word": "முற்றாது எறிந்தும் <br>(Mutraadhu erindhum)",
+          "ta": "தூரத்திலிருந்து தாக்கியும்",
+          "en": "Aim darts from far",
+          "hi": "पिल पड़ कर"
+        },
+        {
+          "no": 3,
+          "word": "மறைப்படுத்தும் <br>(Maraippaduththum)",
+          "ta": "சுரங்கம் தோண்டியும்",
+          "en": "Mine beneath ground",
+          "hi": "करके छलछिद्र"
+        },
+        {
+          "no": 4,
+          "word": "பற்றற்கு <br>(Patrarku)",
+          "ta": "கைப்பற்றுவதற்கு",
+          "en": "To foes",
+          "hi": "जिसको हथिया"
+        },
+        {
+          "no": 5,
+          "word": "அரியது <br>(Ariyadhu)",
+          "ta": "முடியாததே",
+          "en": "Impregnable",
+          "hi": "ना सके"
+        },
+        {
+          "no": 6,
+          "word": "அரண் <br>(Aran)",
+          "ta": "அரண் ஆகும்",
+          "en": "A fort",
+          "hi": "है वह दुर्ग विचित्र"
+        },
+        {
+          "no": 7,
+          "word": "வலிமை <br>(Valimai)",
+          "ta": "வலிமை",
+          "en": "Strength",
+          "hi": "शक्ति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "முற்றியு முற்றா தெறிந்து மறைப்படுத்தும்",
+          "line2": "பற்றற் கரிய தரண்."
+        },
+        "en": {
+          "line1": "A fort should be impregnable to foes who gird it round,",
+          "line2": "Or aim there darts from far, or mine beneath the ground."
+        },
+        "hi": {
+          "line1": "पिल पड़ कर या घेर कर, या करके छलछिद्र ।",
+          "line2": "जिसको हथिया ना सके, है वह दुर्ग विचित्र ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Mutriyum Mutraadhu Erindhum Maraippaduththum",
+            "line2": "Patrarku Ariyadhu Aran."
+          },
+          "hi": {
+            "line1": "मुत्रियु मुत्रा दॆरिन्दु मरैप्पडुत्तुम्",
+            "line2": "पत्रर् करिय दरण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சுற்றி வளைத்தாலும், சுற்றி வளைக்காமல் தூரத்திலிருந்து தாக்கினாலும், சுரங்கம் தோண்டி வந்தாலும் பகைவரால் கைப்பற்ற முடியாததே அரண்.",
+        "en": "True defense holds up against every angle of attack—siege, long-range assault, or covert infiltration.",
+        "hi": "चाहे शत्रु धावा बोलकर, चारों ओर से घेरकर या भीतर सेंध (छलछिद्र) लगाकर प्रयास करे, फिर भी जिसे कोई हथिया न सके, वही अद्भुत दुर्ग है।"
+      }
+    },
+    {
+      "num": 748,
+      "line1": "முற்றாற்றி முற்றி யவரையும் பற்றாற்றிப்",
+      "line2": "பற்றியார் வெல்வ தரண்.",
+      "enLine1": "Howe'er the circling foe may strive access to win,",
+      "enLine2": "A fort should give the victory to those who guard within.",
+      "hiLine1": "दुर्ग वही यदि चतुर रिपु, घेरा डालें घोर ।",
+      "hiLine2": "अंतरस्थ डट कर लड़ें, पावें जय बरज़ोर ॥",
+      "general": "முற்றுகையிட்டு வளைத்த பகைவர்களையும், உள்ளிருந்தபடியே உறுதியாக நின்று தாக்கி வெல்வதற்கு உதவுவதே அரணாகும்.",
+      "en": "Even when skilled foes lay tight siege, a true fortress enables those holding the inside to prevail.",
+      "hi": "यदि चतुर शत्रु भयंकर घेरा भी डाल दें, तब भी भीतर रहने वाले सैनिक डटकर लड़ें और बलपूर्वक विजय प्राप्त करें—वही सच्चा दुर्ग है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "முற்று ஆற்றி <br>(Mutru aatri)",
+          "ta": "வலிமையோடு முற்றுகையிட்டு",
+          "en": "Strive access to win",
+          "hi": "चतुर रिपु घोर"
+        },
+        {
+          "no": 2,
+          "word": "முற்றியவரையும் <br>(Mutriyavaraiyum)",
+          "ta": "வளைத்தவரையும்",
+          "en": "Circling foe",
+          "hi": "घेरा डालें"
+        },
+        {
+          "no": 3,
+          "word": "பற்று ஆற்றி <br>(Patru aatri)",
+          "ta": "உறுதியாக நின்று",
+          "en": "Guard within",
+          "hi": "अंतरस्थ डट कर लड़ें"
+        },
+        {
+          "no": 4,
+          "word": "பற்றியார் <br>(Patriyaar)",
+          "ta": "கோட்டையைப் பிடித்திருப்பவர்",
+          "en": "Those who guard",
+          "hi": "भीतर के वीर"
+        },
+        {
+          "no": 5,
+          "word": "வெல்வது <br>(Velvadhu)",
+          "ta": "வெல்வதே",
+          "en": "Give the victory",
+          "hi": "पावें जय बरज़ोर"
+        },
+        {
+          "no": 6,
+          "word": "அரண் <br>(Aran)",
+          "ta": "அரண் ஆகும்",
+          "en": "A fort",
+          "hi": "दुर्ग वही"
+        },
+        {
+          "no": 7,
+          "word": "வெற்றி <br>(Vetri)",
+          "ta": "வெற்றி",
+          "en": "Victory",
+          "hi": "विजय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "முற்றாற்றி முற்றி யவரையும் பற்றாற்றிப்",
+          "line2": "பற்றியார் வெல்வ தரண்."
+        },
+        "en": {
+          "line1": "Howe'er the circling foe may strive access to win,",
+          "line2": "A fort should give the victory to those who guard within."
+        },
+        "hi": {
+          "line1": "दुर्ग वही यदि चतुर रिपु, घेरा डालें घोर ।",
+          "line2": "अंतरस्थ डट कर लड़ें, पावें जय बरज़ोर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Mutraatri Mutri Yavaraiyum Patraatrip",
+            "line2": "Patriyaar Velva Tharan."
+          },
+          "hi": {
+            "line1": "मुत्रात्रि मुत्रि यवरैयुम् पत्रात्रिप्",
+            "line2": "पत्रियार् वॆल्व दरण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முற்றுகையிட்டு வளைத்த பகைவர்களையும், உள்ளிருந்தபடியே உறுதியாக நின்று தாக்கி வெல்வதற்கு உதவுவதே அரணாகும்.",
+        "en": "A great fortress doesn't just stall a siege—it gives the defenders inside the upper hand to win.",
+        "hi": "यदि चतुर शत्रु भयंकर घेरा भी डाल दें, तब भी भीतर रहने वाले सैनिक डटकर लड़ें और बलपूर्वक विजय प्राप्त करें—वही सच्चा दुर्ग है।"
+      }
+    },
+    {
+      "num": 749,
+      "line1": "முனைமுகத்து மாற்றலர் சாய வினைமுகத்து",
+      "line2": "வீறெய்தி மாண்ட தரண்.",
+      "enLine1": "At outset of the strife a fort should foes dismay;",
+      "enLine2": "And greatness gain by deeds in every glorious day.",
+      "hiLine1": "शत्रु-नाश हो युद्ध में, ऐसे शस्त्र प्रयोग ।",
+      "hiLine2": "करने के साधन जहाँ, है गढ़ वही अमोघ ॥",
+      "general": "போர் முனையில் பகைவர்கள் தோற்றோடுமாறு, போர்ச் செயல்களால் பெருமை பெற்றுச் சிறந்து விளங்குவதே அரணாகும்.",
+      "en": "A noble fortress is one that breaks the enemy's spirit at the battlefront and wins renown through decisive deeds.",
+      "hi": "जहाँ युद्ध में शत्रुओं का नाश करने वाले अस्त्र-शस्त्रों के प्रयोग करने के उत्तम साधन हों, वही अमोघ दुर्ग (गढ़) कहलाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "முனை முகத்து <br>(Munai mugaththu)",
+          "ta": "போர் முனையில்",
+          "en": "At outset of strife",
+          "hi": "युद्ध में"
+        },
+        {
+          "no": 2,
+          "word": "மாற்றலர் <br>(Maatralar)",
+          "ta": "பகைவர்கள்",
+          "en": "Foes",
+          "hi": "शत्रु"
+        },
+        {
+          "no": 3,
+          "word": "சாய <br>(Saaya)",
+          "ta": "அழிந்து கெட",
+          "en": "Dismay",
+          "hi": "नाश हो"
+        },
+        {
+          "no": 4,
+          "word": "வினை முகத்து <br>(Vinai mugaththu)",
+          "ta": "போர்ச் செயல்களில்",
+          "en": "By deeds",
+          "hi": "ऐसे शस्त्र प्रयोग"
+        },
+        {
+          "no": 5,
+          "word": "வீறு எய்தி <br>(Veeru eydhi)",
+          "ta": "பெருமை பெற்று",
+          "en": "Greatness gain",
+          "hi": "साधन जहाँ"
+        },
+        {
+          "no": 6,
+          "word": "மாண்டது <br>(Maandadhu)",
+          "ta": "மாட்சிமைப்பட்டது",
+          "en": "Glorious",
+          "hi": "अमोघ"
+        },
+        {
+          "no": 7,
+          "word": "அரண் <br>(Aran)",
+          "ta": "அரண் ஆகும்",
+          "en": "A fort",
+          "hi": "गढ़ वही"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "முனைமுகத்து மாற்றலர் சாய வினைமுகத்து",
+          "line2": "வீறெய்தி மாண்ட தரண்."
+        },
+        "en": {
+          "line1": "At outset of the strife a fort should foes dismay;",
+          "line2": "And greatness gain by deeds in every glorious day."
+        },
+        "hi": {
+          "line1": "शत्रु-नाश हो युद्ध में, ऐसे शस्त्र प्रयोग ।",
+          "line2": "करने के साधन जहाँ, है गढ़ वही अमोघ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Munaimugaththu Maatralar Saaya Vinaimugaththu",
+            "line2": "Veereythi Maanda Tharan."
+          },
+          "hi": {
+            "line1": "मुनैमुगत्तु मात्रलर् साय विनैमुगत्तु",
+            "line2": "वीरॆय्दि माण्ड दरण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "போர் முனையில் பகைவர்கள் தோற்றோடுமாறு, போர்ச் செயல்களால் பெருமை பெற்றுச் சிறந்து விளங்குவதே அரணாகும்.",
+        "en": "The finest defenses deter opponents right at the front lines and build a reputation for decisive strength.",
+        "hi": "जहाँ युद्ध में शत्रुओं का नाश करने वाले अस्त्र-शस्त्रों के प्रयोग करने के उत्तम साधन हों, वही अमोघ दुर्ग (गढ़) कहलाता है।"
+      }
+    },
+    {
+      "num": 750,
+      "line1": "எனைமாட்சித் தாகியக் கண்ணும் வினைமாட்சி",
+      "line2": "யில்லார்க ணில்ல தரண்.",
+      "enLine1": "Howe'er majestic castled walls may rise,",
+      "enLine2": "To craven souls no fortress strength supplies.",
+      "hiLine1": "गढ़-रक्षक रण-कार्य में, यदि हैं नहीं समर्थ ।",
+      "hiLine2": "अत्युत्तम गढ़ क्यों न हो, होता है वह व्यर्थ ॥",
+      "general": "எவ்வளவு சிறப்புகளை உடையதாக இருந்தாலும், செயல் திறன் இல்லாதவர்கள் இடத்தில் அந்த அரணால் எந்தப் பயனும் இல்லை.",
+      "en": "No matter how magnificent its walls, a fortress offers no protection to those who lack courage and capability in action.",
+      "hi": "यदि दुर्ग की रक्षा करने वाले सैनिक युद्ध-कार्य में समर्थ नहीं हैं, तो वह किला चाहे कितना ही उत्तम क्यों न हो, व्यर्थ ही सिद्ध होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எனை மாட்சித்து <br>(Enai maatchiththu)",
+          "ta": "எத்தனை சிறப்புகளை",
+          "en": "Majestic castled walls",
+          "hi": "अत्युत्तम गढ़"
+        },
+        {
+          "no": 2,
+          "word": "ஆகியக்கண்ணும் <br>(Aagiyakkannum)",
+          "ta": "உடையதாக இருந்தாலும்",
+          "en": "Howe'er may rise",
+          "hi": "क्यों न हो"
+        },
+        {
+          "no": 3,
+          "word": "வினை மாட்சி <br>(Vinai maatchi)",
+          "ta": "செயல் திறன்",
+          "en": "Strength in action",
+          "hi": "रण-कार्य में समर्थ"
+        },
+        {
+          "no": 4,
+          "word": "இல்லார்கண் <br>(Illaarkan)",
+          "ta": "இல்லாதவர்களிடம்",
+          "en": "To craven souls",
+          "hi": "गढ़-रक्षक यदि हैं नहीं"
+        },
+        {
+          "no": 5,
+          "word": "இல்லது <br>(Illadhu)",
+          "ta": "பயனில்லாததே",
+          "en": "No supplies",
+          "hi": "होता है व्यर्थ"
+        },
+        {
+          "no": 6,
+          "word": "அரண் <br>(Aran)",
+          "ta": "அந்த அரண்",
+          "en": "Fortress",
+          "hi": "गढ़"
+        },
+        {
+          "no": 7,
+          "word": "செயல் <br>(Seyal)",
+          "ta": "செயல்",
+          "en": "Action",
+          "hi": "कार्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எனைமாட்சித் தாகியக் கண்ணும் வினைமாட்சி",
+          "line2": "யில்லார்க ணில்ல தரண்."
+        },
+        "en": {
+          "line1": "Howe'er majestic castled walls may rise,",
+          "line2": "To craven souls no fortress strength supplies."
+        },
+        "hi": {
+          "line1": "गढ़-रक्षक रण-कार्य में, यदि हैं नहीं समर्थ ।",
+          "line2": "अत्युत्तम गढ़ क्यों न हो, होता है वह व्यर्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Enaimaatsith Thaagiyak Kannum Vinaimaatsi",
+            "line2": "Yillaarka Nilla Tharan."
+          },
+          "hi": {
+            "line1": "ऎनैमाट्चित् तागियक् कण्णुम् विनैमाट्चि",
+            "line2": "यिल्लार्ग णिल्ल दरण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எவ்வளவு சிறப்புகளை உடையதாக இருந்தாலும், செயல் திறன் இல்லாதவர்கள் இடத்தில் அந்த அரணால் எந்தப் பயனும் இல்லை.",
+        "en": "Even the strongest walls in the world can't save people who lack the nerve and skill to defend them.",
+        "hi": "यदि दुर्ग की रक्षा करने वाले सैनिक युद्ध-कार्य में समर्थ नहीं हैं, तो वह किला चाहे कितना ही उत्तम क्यों न हो, व्यर्थ ही सिद्ध होता है।"
+      }
+    }
+  ]
+}

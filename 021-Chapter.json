@@ -1,0 +1,930 @@
+{
+  "chapterNum": 21,
+  "nameTa": "தீவினையச்சம்",
+  "nameEn": "Dread of Evil Deeds",
+  "nameHi": "पाप-भीरुता",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 201,
+      "line1": "தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்",
+      "line2": "தீவினை என்னுஞ் செருக்கு.",
+      "enLine1": "With sinful act men cease to feel the dread of ill within ;",
+      "enLine2": "The excellent will dread the wanton pride of cherished sin.",
+      "hiLine1": "पाप-कर्म के मोह से, डरें न पापी लोग ।",
+      "hiLine2": "उससे डरते हैं वही, पुण्य-पुरुष जो लोग ॥",
+      "general": "தீவினைச் செருக்குடைய பாவிகள் தீய செயலுக்கு அஞ்சமாட்டார்கள்; ஆனால் மேன்மையுடைய சான்றோர்கள் தீவினை என்னும் செருக்கிற்கு அஞ்சுவார்கள்.",
+      "en": "The wicked do not dread the arrogance of evil deeds, whereas the noble dread the very pride of sin.",
+      "hi": "पाप-कर्म के मोह के कारण पापी लोग पाप करने से नहीं डरते, किंतु जो पुण्यात्मा (सज्जन) लोग हैं वे उससे अवश्य डरते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தீவினையார் <br>(Theevinaiyaar)",
+          "ta": "தீய வினை செய்வோர்",
+          "en": "Men of sinful act",
+          "hi": "पापी लोग"
+        },
+        {
+          "no": 2,
+          "word": "அஞ்சார் <br>(Anjaar)",
+          "ta": "அஞ்சமாட்டார்",
+          "en": "Cease to dread",
+          "hi": "नहीं डरते"
+        },
+        {
+          "no": 3,
+          "word": "விழுமியார் <br>(Vizhumiyaar)",
+          "ta": "மேன்மையுடையோர்",
+          "en": "The excellent",
+          "hi": "पुण्य-पुरुष"
+        },
+        {
+          "no": 4,
+          "word": "அஞ்சுவர் <br>(Anjuvar)",
+          "ta": "அஞ்சுவார்கள்",
+          "en": "Will dread",
+          "hi": "डरते हैं"
+        },
+        {
+          "no": 5,
+          "word": "தீவினை <br>(Theevinai)",
+          "ta": "தீவினை",
+          "en": "Sin / evil deed",
+          "hi": "पाप-कर्म"
+        },
+        {
+          "no": 6,
+          "word": "என்னுஞ் <br>(Ennunj)",
+          "ta": "என்னும்",
+          "en": "Called",
+          "hi": "के"
+        },
+        {
+          "no": 7,
+          "word": "செருக்கு <br>(Serukku)",
+          "ta": "மயக்கச் செருக்கிற்கு",
+          "en": "Wanton pride",
+          "hi": "मोह से"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்",
+          "line2": "தீவினை என்னுஞ் செருக்கு."
+        },
+        "en": {
+          "line1": "With sinful act men cease to feel the dread of ill within ;",
+          "line2": "The excellent will dread the wanton pride of cherished sin."
+        },
+        "hi": {
+          "line1": "पाप-कर्म के मोह से, डरें न पापी लोग ।",
+          "line2": "उससे डरते हैं वही, पुण्य-पुरुष जो लोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Theevinaiyaar Anjaar Vizhumiyaar Anjuvar",
+            "line2": "Theevinai Ennunj Serukku."
+          },
+          "hi": {
+            "line1": "तीविनैयार् अञ्जार् विऴुमियार् अञ्जुवर्",
+            "line2": "तीविनै एन्नुञ् सॆरुक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தீவினைச் செருக்குடைய பாவிகள் தீய செயலுக்கு அஞ்சமாட்டார்கள்; ஆனால் மேன்மையுடைய சான்றோர்கள் தீவினை என்னும் செருக்கிற்கு அஞ்சுவார்கள்.",
+        "en": "Those blinded by wrongdoing lose their fear of sin, while truly noble people shrink from the slightest temptation toward evil.",
+        "hi": "पाप-कर्म के मोह के कारण पापी लोग पाप करने से नहीं डरते, किंतु जो पुण्यात्मा (सज्जन) लोग हैं वे उससे अवश्य डरते हैं।"
+      }
+    },
+    {
+      "num": 202,
+      "line1": "தீயவை தீய பயத்தலால் தீயவை",
+      "line2": "தீயினும் அஞ்சப் படும்.",
+      "enLine1": "Since evils new from evils ever grow,",
+      "enLine2": "Evil than fire works out more dreaded woe.",
+      "hiLine1": "पाप- कर्म दुखजनक हैं, यह है उनकी रीत ।",
+      "hiLine2": "पावक से भीषण समझ, सो होना भयभीत ॥",
+      "general": "தீய செயல்கள் எப்போதும் தீமையையே விளைவிப்பதால், அந்தத் தீய செயல்கள் நெருப்பைவிடவும் கொடியதாகக் கருதி அஞ்சப்படும்.",
+      "en": "Because evil deeds always produce evil consequences, evil deeds are to be dreaded even more than fire.",
+      "hi": "पाप-कर्म सदैव दुख उत्पन्न करने वाले होते हैं, यही उनकी प्रकृति है; इसलिए उन्हें अग्नि (पावक) से भी अधिक भयानक समझकर उनसे डरना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தீயவை <br>(Theeyavai)",
+          "ta": "தீய செயல்கள்",
+          "en": "Evil deeds",
+          "hi": "पाप-कर्म"
+        },
+        {
+          "no": 2,
+          "word": "தீய <br>(Theeya)",
+          "ta": "தீய விளைவுகளை",
+          "en": "Evil results",
+          "hi": "दुखजनक"
+        },
+        {
+          "no": 3,
+          "word": "பயத்தலால் <br>(Payaththalaal)",
+          "ta": "உண்டாக்குவதால்",
+          "en": "Since they produce",
+          "hi": "होने से"
+        },
+        {
+          "no": 4,
+          "word": "தீயவை <br>(Theeyavai)",
+          "ta": "அத்தீய செயல்கள்",
+          "en": "Evil",
+          "hi": "उनसे"
+        },
+        {
+          "no": 5,
+          "word": "தீயினும் <br>(Theeyinum)",
+          "ta": "நெருப்பைவிடவும்",
+          "en": "More than fire",
+          "hi": "पावक (अग्नि) से भी"
+        },
+        {
+          "no": 6,
+          "word": "அஞ்சப் <br>(Anjap)",
+          "ta": "அஞ்சப்",
+          "en": "Dreaded",
+          "hi": "भयभीत होना"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "படும்",
+          "en": "Should be",
+          "hi": "चाहिए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தீயவை தீய பயத்தலால் தீயவை",
+          "line2": "தீயினும் அஞ்சப் படும்."
+        },
+        "en": {
+          "line1": "Since evils new from evils ever grow,",
+          "line2": "Evil than fire works out more dreaded woe."
+        },
+        "hi": {
+          "line1": "पाप- कर्म दुखजनक हैं, यह है उनकी रीत ।",
+          "line2": "पावक से भीषण समझ, सो होना भयभीत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Theeyavai Theeya Payaththalaal Theeyavai",
+            "line2": "Theeyinum Anjap Padum."
+          },
+          "hi": {
+            "line1": "तीयवै तीय पयत्तलाल् तीयवै",
+            "line2": "तीयिनुम् अञ्जप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தீய செயல்கள் எப்போதும் தீமையையே விளைவிப்பதால், அந்தத் தீய செயல்கள் நெருப்பைவிடவும் கொடியதாகக் கருதி அஞ்சப்படும்.",
+        "en": "Fire only burns once, whereas evil deeds keep breeding further suffering—making them far more dangerous than flames.",
+        "hi": "पाप-कर्म सदैव दुख उत्पन्न करने वाले होते हैं, यही उनकी प्रकृति है; इसलिए उन्हें अग्नि (पावक) से भी अधिक भयानक समझकर उनसे डरना चाहिए।"
+      }
+    },
+    {
+      "num": 203,
+      "line1": "அறிவினுள் எல்லாம் தலையென்ப தீய",
+      "line2": "செறுவார்க்கும் செய்யா விடல்.",
+      "enLine1": "Even to those that hate make no return of ill ;",
+      "enLine2": "So shalt thou wisdom's highest law, 'tis said, fulfil.",
+      "hiLine1": "श्रेष्ठ बुद्धिमता कहें, करके सुधी विचार ।",
+      "hiLine2": "अपने रिपु का भी कभी, नहिं करना अपकार ॥",
+      "general": "தம்மைத் துன்புறுத்தும் பகைவர்களுக்கும் தீய செயல்களைத் திருப்பிச் செய்யாதிருத்தலே எல்லா அறிவுகளுள்ளும் தலையாய அறிவு என்று அறிஞர் கூறுவர்.",
+      "en": "The wise declare that the highest of all wisdom is not returning evil even to those who hate and harm you.",
+      "hi": "विद्वान लोग भली-भाँति विचार करके यही कहते हैं कि अपने शत्रु का भी कभी अपकार (बुरा) न करना ही सर्वश्रेष्ठ बुद्धिमत्ता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறிவினுள் <br>(Arivinul)",
+          "ta": "அறிவுகளுள்",
+          "en": "Among wisdoms",
+          "hi": "बुद्धिमत्ता में"
+        },
+        {
+          "no": 2,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாவற்றிலும்",
+          "en": "All",
+          "hi": "सभी में"
+        },
+        {
+          "no": 3,
+          "word": "தலையென்ப <br>(Thalaiyenba)",
+          "ta": "தலையாயது என்பர்",
+          "en": "Highest, it is said",
+          "hi": "श्रेष्ठ कहते हैं"
+        },
+        {
+          "no": 4,
+          "word": "தீய <br>(Theeya)",
+          "ta": "தீய செயல்களை",
+          "en": "Evil / ill",
+          "hi": "अपकार"
+        },
+        {
+          "no": 5,
+          "word": "செறுவார்க்கும் <br>(Seruvaarkkum)",
+          "ta": "பகைவர்க்கும்",
+          "en": "Even to those that hate",
+          "hi": "अपने शत्रु का भी"
+        },
+        {
+          "no": 6,
+          "word": "செய்யா <br>(Seyyaa)",
+          "ta": "செய்யாது",
+          "en": "Not doing",
+          "hi": "न करना"
+        },
+        {
+          "no": 7,
+          "word": "விடல் <br>(Vidal)",
+          "ta": "விடுதல்",
+          "en": "Refraining",
+          "hi": "छोड़ देना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறிவினுள் எல்லாம் தலையென்ப தீய",
+          "line2": "செறுவார்க்கும் செய்யா விடல்."
+        },
+        "en": {
+          "line1": "Even to those that hate make no return of ill ;",
+          "line2": "So shalt thou wisdom's highest law, 'tis said, fulfil."
+        },
+        "hi": {
+          "line1": "श्रेष्ठ बुद्धिमता कहें, करके सुधी विचार ।",
+          "line2": "अपने रिपु का भी कभी, नहिं करना अपकार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arivinul Ellaam Thalaiyenba Theeya",
+            "line2": "Seruvaarkkum Seyyaa Vidal."
+          },
+          "hi": {
+            "line1": "अरिविनुळ् एल्लाम् तलैयॆन्ब तीय",
+            "line2": "सॆरुवार्क्कुम् सॆय्या विडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம்மைத் துன்புறுத்தும் பகைவர்களுக்கும் தீய செயல்களைத் திருப்பிச் செய்யாதிருத்தலே எல்லா அறிவுகளுள்ளும் தலையாய அறிவு என்று அறிஞர் கூறுவர்.",
+        "en": "Refusing to retaliate with harm—even against those who actively hate you—is recognized as the pinnacle of wisdom.",
+        "hi": "विद्वान लोग भली-भाँति विचार करके यही कहते हैं कि अपने शत्रु का भी कभी अपकार (बुरा) न करना ही सर्वश्रेष्ठ बुद्धिमत्ता है।"
+      }
+    },
+    {
+      "num": 204,
+      "line1": "மறந்தும் பிறன்கேடு சூழற்க சூழின்",
+      "line2": "அறஞ்சூழும் சூழ்ந்தவன் கேடு.",
+      "enLine1": "Though good thy soul forget, plot not thy neighbour's fall,",
+      "enLine2": "Thy plans shall 'virtue's Power' by ruin to thyself forestall.",
+      "hiLine1": "विस्मृति से भी नर नहीं, सोचे पर की हानि ।",
+      "hiLine2": "यदि सोचे तो धर्म भी, सोचे उसकी हानि ॥",
+      "general": "மறந்தும் பிறருக்குக் கேடு செய்ய எண்ணாதே; அப்படி எண்ணினால், அந்தத் தீய எண்ணம் கொண்டவனுக்கு அறக்கடவுளே கேடு உண்டாகச் சூழும்.",
+      "en": "Even in forgetfulness, do not plot another's ruin; if you do, virtue itself will plot the ruin of the plotter.",
+      "hi": "मनुष्य को भूलकर (विस्मृति से) भी दूसरे की हानि नहीं सोचनी चाहिए; यदि वह ऐसा सोचता है, तो धर्म स्वयं उसकी हानि करने का विचार करता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மறந்தும் <br>(Marandhum)",
+          "ta": "மறந்தும்",
+          "en": "Even in forgetfulness",
+          "hi": "विस्मृति से भी"
+        },
+        {
+          "no": 2,
+          "word": "பிறன்கேடு <br>(Pirankedu)",
+          "ta": "பிறருக்குக் கேடு",
+          "en": "Neighbour's fall / ruin",
+          "hi": "पर की हानि"
+        },
+        {
+          "no": 3,
+          "word": "சூழற்க <br>(Soozharka)",
+          "ta": "நினைக்காதே",
+          "en": "Plot not",
+          "hi": "न सोचे"
+        },
+        {
+          "no": 4,
+          "word": "சூழின் <br>(Soozhin)",
+          "ta": "நினைத்தால்",
+          "en": "If one plots",
+          "hi": "यदि सोचे तो"
+        },
+        {
+          "no": 5,
+          "word": "அறஞ்சூழும் <br>(Aranjoozhum)",
+          "ta": "அறக்கடவுளே சூழும்",
+          "en": "Virtue's power plans",
+          "hi": "धर्म भी सोचेगा"
+        },
+        {
+          "no": 6,
+          "word": "சூழ்ந்தவன் <br>(Soozhndhavan)",
+          "ta": "நினைத்தவனின்",
+          "en": "Of the plotter",
+          "hi": "उसकी"
+        },
+        {
+          "no": 7,
+          "word": "கேடு <br>(Kedu)",
+          "ta": "அழிவை",
+          "en": "Ruin",
+          "hi": "हानि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மறந்தும் பிறன்கேடு சூழற்க சூழின்",
+          "line2": "அறஞ்சூழும் சூழ்ந்தவன் கேடு."
+        },
+        "en": {
+          "line1": "Though good thy soul forget, plot not thy neighbour's fall,",
+          "line2": "Thy plans shall 'virtue's Power' by ruin to thyself forestall."
+        },
+        "hi": {
+          "line1": "विस्मृति से भी नर नहीं, सोचे पर की हानि ।",
+          "line2": "यदि सोचे तो धर्म भी, सोचे उसकी हानि ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Marandhum Pirankedu Soozharka Soozhin",
+            "line2": "Aranjoozhum Soozhndhavan Kedu."
+          },
+          "hi": {
+            "line1": "मरन्दुम् पिरन्केडु सूऴर्क सूऴिन्",
+            "line2": "अरञ्जूऴुम् सूऴ्न्दवन् केडु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மறந்தும் பிறருக்குக் கேடு செய்ய எண்ணாதே; அப்படி எண்ணினால், அந்தத் தீய எண்ணம் கொண்டவனுக்கு அறக்கடவுளே கேடு உண்டாகச் சூழும்.",
+        "en": "Never scheme to harm another, not even casually; the moral order of the universe turns such schemes back upon the planner.",
+        "hi": "मनुष्य को भूलकर (विस्मृति से) भी दूसरे की हानि नहीं सोचनी चाहिए; यदि वह ऐसा सोचता है, तो धर्म स्वयं उसकी हानि करने का विचार करता है।"
+      }
+    },
+    {
+      "num": 205,
+      "line1": "இலனென்று தீயவை செய்யற்க செய்யின்",
+      "line2": "இலனாகும் மற்றும் பெயர்த்து.",
+      "enLine1": "Make not thy poverty a plea for ill ;",
+      "enLine2": "Thy evil deeds will make thee poorer still.",
+      "hiLine1": "'निर्धन हूँ मैं', यों समझ, करे न कोई पाप ।",
+      "hiLine2": "अगर किया तो फिर मिले, निर्धनता-अभिशाप ॥",
+      "general": "'நான் வறியவன்' என்று எண்ணித் தீய செயல்களைச் செய்யாதே; அவ்வாறு செய்தால் அவன் மீண்டும் இன்னும் வறியவனாவான்.",
+      "en": "Do not commit evil deeds on the plea of being poor; if you do, you will become even poorer again.",
+      "hi": "'मैं निर्धन हूँ' ऐसा समझकर किसी को भी पाप नहीं करना चाहिए; यदि ऐसा किया तो फिर से निर्धनता का अभिशाप ही मिलेगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இலனென்று <br>(Ilanendru)",
+          "ta": "வறியவன் என்று",
+          "en": "Pleading poverty",
+          "hi": "निर्धन हूँ ऐसा समझकर"
+        },
+        {
+          "no": 2,
+          "word": "தீயவை <br>(Theeyavai)",
+          "ta": "தீய செயல்களை",
+          "en": "Evil deeds",
+          "hi": "पाप"
+        },
+        {
+          "no": 3,
+          "word": "செய்யற்க <br>(Seyyarka)",
+          "ta": "செய்யாதே",
+          "en": "Do not do",
+          "hi": "न करे"
+        },
+        {
+          "no": 4,
+          "word": "செய்யின் <br>(Seyyin)",
+          "ta": "செய்தால்",
+          "en": "If done",
+          "hi": "अगर किया तो"
+        },
+        {
+          "no": 5,
+          "word": "இலனாகும் <br>(Ilanaagum)",
+          "ta": "வறியவனாவான்",
+          "en": "Becomes poorer",
+          "hi": "निर्धनता का अभिशाप"
+        },
+        {
+          "no": 6,
+          "word": "மற்றும் <br>(Matrum)",
+          "ta": "மேலும்",
+          "en": "Still more",
+          "hi": "फिर"
+        },
+        {
+          "no": 7,
+          "word": "பெயர்த்து <br>(Peyarththu)",
+          "ta": "மீண்டும்",
+          "en": "Again",
+          "hi": "मिलेगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இலனென்று தீயவை செய்யற்க செய்யின்",
+          "line2": "இலனாகும் மற்றும் பெயர்த்து."
+        },
+        "en": {
+          "line1": "Make not thy poverty a plea for ill ;",
+          "line2": "Thy evil deeds will make thee poorer still."
+        },
+        "hi": {
+          "line1": "'निर्धन हूँ मैं', यों समझ, करे न कोई पाप ।",
+          "line2": "अगर किया तो फिर मिले, निर्धनता-अभिशाप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ilanendru Theeyavai Seyyarka Seyyin",
+            "line2": "Ilanaagum Matrum Peyarththu."
+          },
+          "hi": {
+            "line1": "इलनॆन्द्रु तीयवै सॆय्यर्क सॆय्यिन्",
+            "line2": "इलनागुम् मत्रुम् पॆयर्त्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'நான் வறியவன்' என்று எண்ணித் தீய செயல்களைச் செய்யாதே; அவ்வாறு செய்தால் அவன் மீண்டும் இன்னும் வறியவனாவான்.",
+        "en": "Never use financial hardship as an excuse for wrongdoing—dishonest shortcuts only deepen poverty in the end.",
+        "hi": "'मैं निर्धन हूँ' ऐसा समझकर किसी को भी पाप नहीं करना चाहिए; यदि ऐसा किया तो फिर से निर्धनता का अभिशाप ही मिलेगा।"
+      }
+    },
+    {
+      "num": 206,
+      "line1": "தீப்பால தான்பிறர்கண் செய்யற்க நோய்ப்பால",
+      "line2": "தன்னை அடல்வேண்டா தான்.",
+      "enLine1": "What ranks as evil spare to do, if thou would'st shun",
+      "enLine2": "Affliction sore through ill to thee by others done.",
+      "hiLine1": "दुख से यदि दुष्कर्म के, बचने की है राय ।",
+      "hiLine2": "अन्यों के प्रति दुष्टता, कभी नहीं की जाय ॥",
+      "general": "துன்பம் தரும் தீமைகள் தன்னை வந்து வருத்தாமல் இருக்க விரும்புகின்றவன், தீய செயல்களைப் பிறரிடம் செய்யாதிருக்க வேண்டும்.",
+      "en": "Let him who does not wish painful evils to afflict him refrain from doing evil deeds to others.",
+      "hi": "यदि आप दुष्कर्म के परिणामस्वरूप मिलने वाले दुख से बचना चाहते हैं, तो दूसरों के प्रति कभी भी दुष्टता का व्यवहार नहीं करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தீப்பால <br>(Theeppaala)",
+          "ta": "தீய செயல்களை",
+          "en": "What ranks as evil",
+          "hi": "दुष्टता"
+        },
+        {
+          "no": 2,
+          "word": "தான்பிறர்கண் <br>(Thaanpirarkan)",
+          "ta": "தான் பிறரிடத்தில்",
+          "en": "Oneself to others",
+          "hi": "अन्यों के प्रति"
+        },
+        {
+          "no": 3,
+          "word": "செய்யற்க <br>(Seyyarka)",
+          "ta": "செய்யாதே",
+          "en": "Spare to do",
+          "hi": "कभी न की जाय"
+        },
+        {
+          "no": 4,
+          "word": "நோய்ப்பால <br>(Noyppaala)",
+          "ta": "துன்பம் தருவன",
+          "en": "Affliction sore",
+          "hi": "दुष्कर्म के दुख से"
+        },
+        {
+          "no": 5,
+          "word": "தன்னை <br>(Thannai)",
+          "ta": "தன்னை",
+          "en": "Oneself",
+          "hi": "स्वयं को"
+        },
+        {
+          "no": 6,
+          "word": "அடல்வேண்டா <br>(Adalvendaa)",
+          "ta": "வருத்த வேண்டா",
+          "en": "Would shun",
+          "hi": "बचने की राय है"
+        },
+        {
+          "no": 7,
+          "word": "தான் <br>(Thaan)",
+          "ta": "தவன்",
+          "en": "He who",
+          "hi": "यदि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தீப்பால தான்பிறர்கண் செய்யற்க நோய்ப்பால",
+          "line2": "தன்னை அடல்வேண்டா தான்."
+        },
+        "en": {
+          "line1": "What ranks as evil spare to do, if thou would'st shun",
+          "line2": "Affliction sore through ill to thee by others done."
+        },
+        "hi": {
+          "line1": "दुख से यदि दुष्कर्म के, बचने की है राय ।",
+          "line2": "अन्यों के प्रति दुष्टता, कभी नहीं की जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Theeppaala Thaanpirarkan Seyyarka Noyppaala",
+            "line2": "Thannai Adalvendaa Thaan."
+          },
+          "hi": {
+            "line1": "तीप्पाल तान्पिरर्कण् सॆय्यर्क नोय्प्पाल",
+            "line2": "तन्नै अडल्वेण्डा तान्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "துன்பம் தரும் தீமைகள் தன்னை வந்து வருத்தாமல் இருக்க விரும்புகின்றவன், தீய செயல்களைப் பிறரிடம் செய்யாதிருக்க வேண்டும்.",
+        "en": "If you wish to live free from suffering caused by others, make it a rule never to inflict harm on anyone else.",
+        "hi": "यदि आप दुष्कर्म के परिणामस्वरूप मिलने वाले दुख से बचना चाहते हैं, तो दूसरों के प्रति कभी भी दुष्टता का व्यवहार नहीं करना चाहिए।"
+      }
+    },
+    {
+      "num": 207,
+      "line1": "எனைப்பகை உற்றாரும் உய்வர் வினைப்பகை",
+      "line2": "வீயாது பின்சென்று அடும்.",
+      "enLine1": "From every enmity incurred there is to 'scape a way ;",
+      "enLine2": "The wrath of evil deeds will dog men's steps, and slay.",
+      "hiLine1": "अति भयकारी शत्रु से, संभव है बच जाय ।",
+      "hiLine2": "पाप-कर्म की शत्रुता, पीछा किये सताय ॥",
+      "general": "எத்தகைய பகைவரிடம் அகப்பட்டவரும் தப்பிப் பிழைக்க முடியும்; ஆனால் தீவினையாகிய பகை அழியாமல் தொடர்ந்து சென்று அழிக்கும்.",
+      "en": "Those who incur any other enmity may escape, but the enmity of evil deeds will unfailingly pursue and destroy them.",
+      "hi": "अत्यंत भयंकर शत्रु से भी बचना संभव है, किंतु पाप-कर्म की शत्रुता कभी समाप्त नहीं होती और वह पीछा करते हुए अवश्य सताती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எனைப்பகை <br>(Enaippagai)",
+          "ta": "எத்தகைய பகையை",
+          "en": "Every enmity",
+          "hi": "अति भयकारी शत्रु से"
+        },
+        {
+          "no": 2,
+          "word": "உற்றாரும் <br>(Utraarum)",
+          "ta": "அடைந்தவர்களும்",
+          "en": "Those who incurred",
+          "hi": "घिरे हुए भी"
+        },
+        {
+          "no": 3,
+          "word": "உய்வர் <br>(Uyvar)",
+          "ta": "தப்பிப் பிழைப்பர்",
+          "en": "May escape",
+          "hi": "बच जाएँ"
+        },
+        {
+          "no": 4,
+          "word": "வினைப்பகை <br>(Vinaippagai)",
+          "ta": "தீவினையாகிய பகை",
+          "en": "Wrath of evil deeds",
+          "hi": "पाप-कर्म की शत्रुता"
+        },
+        {
+          "no": 5,
+          "word": "வீயாது <br>(Veeyaadhu)",
+          "ta": "அழியாமல்",
+          "en": "Unfailingly",
+          "hi": "निरंतर"
+        },
+        {
+          "no": 6,
+          "word": "பின்சென்று <br>(Pinsendru)",
+          "ta": "பின் தொடர்ந்து சென்று",
+          "en": "Dogging steps",
+          "hi": "पीछा करके"
+        },
+        {
+          "no": 7,
+          "word": "அடும் <br>(Adum)",
+          "ta": "அழிக்கும்",
+          "en": "Will slay",
+          "hi": "सताती है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எனைப்பகை உற்றாரும் உய்வர் வினைப்பகை",
+          "line2": "வீயாது பின்சென்று அடும்."
+        },
+        "en": {
+          "line1": "From every enmity incurred there is to 'scape a way ;",
+          "line2": "The wrath of evil deeds will dog men's steps, and slay."
+        },
+        "hi": {
+          "line1": "अति भयकारी शत्रु से, संभव है बच जाय ।",
+          "line2": "पाप-कर्म की शत्रुता, पीछा किये सताय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Enaippagai Utraarum Uyvar Vinaippagai",
+            "line2": "Veeyaadhu Pinsendru Adum."
+          },
+          "hi": {
+            "line1": "एनैप्पगै उत्रारुम् उय्वर् विनैप्पगै",
+            "line2": "वीयादु पिन्सॆन्द्रु अडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எத்தகைய பகைவரிடம் அகப்பட்டவரும் தப்பிப் பிழைக்க முடியும்; ஆனால் தீவினையாகிய பகை அழியாமல் தொடர்ந்து சென்று அழிக்கும்.",
+        "en": "You can outrun or reconcile with human enemies, but the consequences of your own misdeeds relentlessly follow and overtake you.",
+        "hi": "अत्यंत भयंकर शत्रु से भी बचना संभव है, किंतु पाप-कर्म की शत्रुता कभी समाप्त नहीं होती और वह पीछा करते हुए अवश्य सताती है।"
+      }
+    },
+    {
+      "num": 208,
+      "line1": "தீயவை செய்தார் கெடுதல் நிழல்தன்னை",
+      "line2": "வீயா தடியுறைந் தற்று.",
+      "enLine1": "Man's shadow dogs his steps where'er he wends ;",
+      "enLine2": "Destruction thus on sinful deeds attends.",
+      "hiLine1": "दुष्ट- कर्म जो भी करे, यों पायेगा नाश ।",
+      "hiLine2": "छोड़े बिन पौरों तले, छाँह करे ज्यों वास ॥",
+      "general": "தீய செயல்களைச் செய்தவர்கள் அழிந்து போவது, ஒருவனுடைய நிழல் அவனை விடாமல் காலடியிலேயே தங்கித் தொடர்வதைப் போன்றதாகும்.",
+      "en": "Destruction follows those who do evil deeds just as a person's shadow unceasingly clings to their feet.",
+      "hi": "जो भी व्यक्ति दुष्ट कर्म करता है, उसका नाश ठीक उसी प्रकार निश्चित है जैसे पैरों के नीचे छाया बिना छोड़े सदा साथ रहती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தீயவை <br>(Theeyavai)",
+          "ta": "தீய செயல்களை",
+          "en": "Sinful deeds",
+          "hi": "दुष्ट कर्म"
+        },
+        {
+          "no": 2,
+          "word": "செய்தார் <br>(Seydhaar)",
+          "ta": "செய்தவர்",
+          "en": "Those who did",
+          "hi": "जो भी करे"
+        },
+        {
+          "no": 3,
+          "word": "கெடுதல் <br>(Kedudhal)",
+          "ta": "அழிதல்",
+          "en": "Destruction",
+          "hi": "नाश पाना"
+        },
+        {
+          "no": 4,
+          "word": "நிழல்தன்னை <br>(Nizhaldhannai)",
+          "ta": "அவனது நிழல் தன்னை",
+          "en": "Man's shadow",
+          "hi": "छाँह (छाया)"
+        },
+        {
+          "no": 5,
+          "word": "வீயா <br>(Veeyaa)",
+          "ta": "நீங்காது",
+          "en": "Without leaving",
+          "hi": "छोड़े बिना"
+        },
+        {
+          "no": 6,
+          "word": "தடியுறைந் <br>(Dhadiyuraindh)",
+          "ta": "அடியிலேயே தங்கிய",
+          "en": "At his steps / feet",
+          "hi": "पैरों तले वास करने"
+        },
+        {
+          "no": 7,
+          "word": "தற்று <br>(Thatru)",
+          "ta": "தனைப் போன்றது",
+          "en": "Is like",
+          "hi": "के समान है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தீயவை செய்தார் கெடுதல் நிழல்தன்னை",
+          "line2": "வீயா தடியுறைந் தற்று."
+        },
+        "en": {
+          "line1": "Man's shadow dogs his steps where'er he wends ;",
+          "line2": "Destruction thus on sinful deeds attends."
+        },
+        "hi": {
+          "line1": "दुष्ट- कर्म जो भी करे, यों पायेगा नाश ।",
+          "line2": "छोड़े बिन पौरों तले, छाँह करे ज्यों वास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Theeyavai Seydhaar Kedudhal Nizhaldhannai",
+            "line2": "Veeyaa Dhadiyuraindh Thatru."
+          },
+          "hi": {
+            "line1": "तीयवै सॆय्दार् कॆडुदल् निऴल्दन्नै",
+            "line2": "वीया दडियुरैन् तत्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தீய செயல்களைச் செய்தவர்கள் அழிந்து போவது, ஒருவனுடைய நிழல் அவனை விடாமல் காலடியிலேயே தங்கித் தொடர்வதைப் போன்றதாகும்.",
+        "en": "Ruin clings to wrongdoers as inseparably as their own shadow follows their heels.",
+        "hi": "जो भी व्यक्ति दुष्ट कर्म करता है, उसका नाश ठीक उसी प्रकार निश्चित है जैसे पैरों के नीचे छाया बिना छोड़े सदा साथ रहती है।"
+      }
+    },
+    {
+      "num": 209,
+      "line1": "தன்னைத்தான் காதலன் ஆயின் எனைத்தொன்றும்",
+      "line2": "துன்னற்க தீவினைப் பால்.",
+      "enLine1": "Beware, if to thyself thyself is dear,",
+      "enLine2": "Lest thou to aught that ranks as ill draw near !",
+      "hiLine1": "कोई अपने आपको, यदि करता है प्यार ।",
+      "hiLine2": "करे नहीं अत्यल्प भी, अन्यों का अपचार ॥",
+      "general": "ஒருவன் தன்னைத்தான் உண்மையாக விரும்புகிறவன் ஆனால், எவ்வளவு சிறிதளவும் தீவினையின் பக்கம் செல்லக்கூடாது.",
+      "en": "If a man truly loves himself, let him not approach even the smallest degree of evil deeds.",
+      "hi": "यदि कोई व्यक्ति स्वयं से सच्चा प्रेम करता है, तो उसे दूसरों का थोड़ा-सा भी अपकार (बुरा) नहीं करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தன்னைத்தான் <br>(Thannaiththaan)",
+          "ta": "தன்னைத் தானே",
+          "en": "Oneself",
+          "hi": "अपने आपको"
+        },
+        {
+          "no": 2,
+          "word": "காதலன் <br>(Kaadhalan)",
+          "ta": "விரும்புகிறவன்",
+          "en": "Dear / lover of",
+          "hi": "प्यार करने वाला"
+        },
+        {
+          "no": 3,
+          "word": "ஆயின் <br>(Aayin)",
+          "ta": "ஆனால்",
+          "en": "If",
+          "hi": "यदि है"
+        },
+        {
+          "no": 4,
+          "word": "எனைத்தொன்றும் <br>(Enaiththondrum)",
+          "ta": "சிறிதளவும்",
+          "en": "Aught / even a little",
+          "hi": "अत्यल्प भी"
+        },
+        {
+          "no": 5,
+          "word": "துன்னற்க <br>(Thunnarka)",
+          "ta": "நெருங்காதே",
+          "en": "Draw not near",
+          "hi": "न करे"
+        },
+        {
+          "no": 6,
+          "word": "தீவினைப் <br>(Theevinaip)",
+          "ta": "தீவினையின்",
+          "en": "Evil deeds",
+          "hi": "अपचार / पाप"
+        },
+        {
+          "no": 7,
+          "word": "பால் <br>(Paal)",
+          "ta": "பக்கம்",
+          "en": "Side / part",
+          "hi": "की ओर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தன்னைத்தான் காதலன் ஆயின் எனைத்தொன்றும்",
+          "line2": "துன்னற்க தீவினைப் பால்."
+        },
+        "en": {
+          "line1": "Beware, if to thyself thyself is dear,",
+          "line2": "Lest thou to aught that ranks as ill draw near !"
+        },
+        "hi": {
+          "line1": "कोई अपने आपको, यदि करता है प्यार ।",
+          "line2": "करे नहीं अत्यल्प भी, अन्यों का अपचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thannaiththaan Kaadhalan Aayin Enaiththondrum",
+            "line2": "Thunnarka Theevinaip Paal."
+          },
+          "hi": {
+            "line1": "तन्नैत्तान् कादलन् आयिन् एनैत्तॊन्द्रुम्",
+            "line2": "तुन्नर्क तीविनैप् पाल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் தன்னைத்தான் உண்மையாக விரும்புகிறவன் ஆனால், எவ்வளவு சிறிதளவும் தீவினையின் பக்கம் செல்லக்கூடாது.",
+        "en": "True self-care means keeping far away from even the smallest trace of wrongdoing.",
+        "hi": "यदि कोई व्यक्ति स्वयं से सच्चा प्रेम करता है, तो उसे दूसरों का थोड़ा-सा भी अपकार (बुरा) नहीं करना चाहिए।"
+      }
+    },
+    {
+      "num": 210,
+      "line1": "அருங்கேடன் என்பது அறிக மருங்கோடித்",
+      "line2": "தீவினை செய்யான் எனின்.",
+      "enLine1": "The man, to devious way of sin that never turned aside,",
+      "enLine2": "From ruin rests secure, whatever ills betide.",
+      "hiLine1": "नाशरहित उसको समझ, जो तजकर सन्मार्ग ।",
+      "hiLine2": "पाप-कर्म हो नहिं करे, पकड़े नहीं कुमार्ग ॥",
+      "general": "நல்வழியிலிருந்து விலகித் தீவினை செய்யாதிருப்பானானால், அவன் அழிவற்றவன் என்பதைத் தெளிவாக அறிந்துகொள்ள வேண்டும்.",
+      "en": "Know that a man is free from ruin if he never turns aside from the right path to commit evil deeds.",
+      "hi": "जो व्यक्ति सन्मार्ग को छोड़कर कुमार्ग नहीं पकड़ता और पाप-कर्म नहीं करता, उसे निश्चित रूप से नाश-रहित (सुरक्षित) समझो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அருங்கேடன் <br>(Arungedan)",
+          "ta": "அழிவற்றவன்",
+          "en": "Secure from ruin",
+          "hi": "नाशरहित"
+        },
+        {
+          "no": 2,
+          "word": "என்பது <br>(Enbadhu)",
+          "ta": "என்பதை",
+          "en": "That",
+          "hi": "उसको"
+        },
+        {
+          "no": 3,
+          "word": "அறிக <br>(Ariga)",
+          "ta": "அறிவாயாக",
+          "en": "Know",
+          "hi": "समझो"
+        },
+        {
+          "no": 4,
+          "word": "மருங்கோடித் <br>(Marungodith)",
+          "ta": "நெறி தவறிச் சென்று",
+          "en": "Turning to devious way",
+          "hi": "सन्मार्ग तजकर कुमार्ग"
+        },
+        {
+          "no": 5,
+          "word": "தீவினை <br>(Theevinai)",
+          "ta": "தீவினை",
+          "en": "Sin / evil",
+          "hi": "पाप-कर्म"
+        },
+        {
+          "no": 6,
+          "word": "செய்யான் <br>(Seyyaan)",
+          "ta": "செய்யாதவன்",
+          "en": "Does not do",
+          "hi": "नहीं करे"
+        },
+        {
+          "no": 7,
+          "word": "எனின் <br>(Enin)",
+          "ta": "ஆனால்",
+          "en": "If",
+          "hi": "यदि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அருங்கேடன் என்பது அறிக மருங்கோடித்",
+          "line2": "தீவினை செய்யான் எனின்."
+        },
+        "en": {
+          "line1": "The man, to devious way of sin that never turned aside,",
+          "line2": "From ruin rests secure, whatever ills betide."
+        },
+        "hi": {
+          "line1": "नाशरहित उसको समझ, जो तजकर सन्मार्ग ।",
+          "line2": "पाप-कर्म हो नहिं करे, पकड़े नहीं कुमार्ग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arungedan Enbadhu Ariga Marungodith",
+            "line2": "Theevinai Seyyaan Enin."
+          },
+          "hi": {
+            "line1": "अरुंगेडन् एन्बदु अरिग मरुंगोडित्",
+            "line2": "तीविनै सॆय्यान् एनिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்வழியிலிருந்து விலகித் தீவினை செய்யாதிருப்பானானால், அவன் அழிவற்றவன் என்பதைத் தெளிவாக அறிந்துகொள்ள வேண்டும்.",
+        "en": "Rest assured that anyone who refuses to stray from the right path into wrongdoing stands beyond the reach of moral ruin.",
+        "hi": "जो व्यक्ति सन्मार्ग को छोड़कर कुमार्ग नहीं पकड़ता और पाप-कर्म नहीं करता, उसे निश्चित रूप से नाश-रहित (सुरक्षित) समझो।"
+      }
+    }
+  ]
+}

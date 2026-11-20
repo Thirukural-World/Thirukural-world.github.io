@@ -1,0 +1,930 @@
+{
+  "chapterNum": 24,
+  "nameTa": "புகழ்",
+  "nameEn": "Renown",
+  "nameHi": "कीर्ति",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 231,
+      "line1": "ஈதல் இசைபட வாழ்தல் அதுவல்லது",
+      "line2": "ஊதியம் இல்லை உயிர்க்கு.",
+      "enLine1": "See that thy life the praise of generous gifts obtain ;",
+      "enLine2": "Save this for living man exists no real gain.",
+      "hiLine1": "देना दान गरिब को, जीना कर यश-लाभ ।",
+      "hiLine2": "इससे बढ़ कर जीव को, और नहीं है लाभ ॥",
+      "general": "வறியவர்களுக்குக் கொடுத்து அதனால் புகழ் உண்டாக வாழ வேண்டும்; அந்தப் புகழே அல்லாமல் உயிருக்கு வேறு ஊதியம் இல்லை.",
+      "en": "Give to the needy and live so as to win renown; apart from that, there is no real gain for a living soul.",
+      "hi": "गरीबों को दान देकर और यश-लाभ कमाकर जीना चाहिए; इससे बढ़कर जीव के लिए संसार में कोई और लाभ नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஈதல் <br>(Eedhal)",
+          "ta": "வறியவர்க்குக் கொடுத்தலும்",
+          "en": "Generous giving",
+          "hi": "दान देना"
+        },
+        {
+          "no": 2,
+          "word": "இசைபட <br>(Isaipada)",
+          "ta": "புகழ் உண்டாக",
+          "en": "Praise / renown",
+          "hi": "यश-लाभ कर"
+        },
+        {
+          "no": 3,
+          "word": "வாழ்தல் <br>(Vaazhdhal)",
+          "ta": "வாழுதலும்",
+          "en": "Living",
+          "hi": "जीना"
+        },
+        {
+          "no": 4,
+          "word": "அதுவல்லது <br>(Adhuvalladhu)",
+          "ta": "அதுவல்லாமல்",
+          "en": "Save this",
+          "hi": "इससे बढ़कर"
+        },
+        {
+          "no": 5,
+          "word": "ஊதியம் <br>(Oodhiyam)",
+          "ta": "பயன்",
+          "en": "Real gain",
+          "hi": "लाभ"
+        },
+        {
+          "no": 6,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "வேறில்லை",
+          "en": "Exists not",
+          "hi": "और नहीं है"
+        },
+        {
+          "no": 7,
+          "word": "உயிர்க்கு <br>(Uyirkku)",
+          "ta": "உயிர்க்கு",
+          "en": "For living man",
+          "hi": "जीव को"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஈதல் இசைபட வாழ்தல் அதுவல்லது",
+          "line2": "ஊதியம் இல்லை உயிர்க்கு."
+        },
+        "en": {
+          "line1": "See that thy life the praise of generous gifts obtain ;",
+          "line2": "Save this for living man exists no real gain."
+        },
+        "hi": {
+          "line1": "देना दान गरिब को, जीना कर यश-लाभ ।",
+          "line2": "इससे बढ़ कर जीव को, और नहीं है लाभ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Eedhal Isaipada Vaazhdhal Adhuvalladhu",
+            "line2": "Oodhiyam Illai Uyirkku."
+          },
+          "hi": {
+            "line1": "ईदल् इसैपड वाऴ्दल् अदुवल्लदु",
+            "line2": "ऊदियम् इल्लै उयिर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வறியவர்களுக்குக் கொடுத்து அதனால் புகழ் உண்டாக வாழ வேண்டும்; அந்தப் புகழே அல்லாமல் உயிருக்கு வேறு ஊதியம் இல்லை.",
+        "en": "Living a life of generosity that earns lasting honor is the single greatest fulfillment any human being can achieve.",
+        "hi": "गरीबों को दान देकर और यश-लाभ कमाकर जीना चाहिए; इससे बढ़कर जीव के लिए संसार में कोई और लाभ नहीं है।"
+      }
+    },
+    {
+      "num": 232,
+      "line1": "உரைப்பார் உரைப்பவை எல்லாம் இரப்பார்க்கொன்று",
+      "line2": "ஈவார்மேல் நிற்கும் புகழ்.",
+      "enLine1": "The speech of all that speak agrees to crown",
+      "enLine2": "The men that give to those that ask, with fair renown.",
+      "hiLine1": "करता है संसार तो, उसका ही गुण-गान ।",
+      "hiLine2": "याचक को जो दान में, कुछ भी करें प्रदान ॥",
+      "general": "உலகில் புகழ்ந்து பேசுவோர் பேசும் புகழுரைகள் எல்லாம், இல்லாதவர்க்கு ஒரு பொருளைக் கொடுப்பவர்கள் மேலேயே நிலைத்து நிற்கும்.",
+      "en": "All the praises spoken by those who speak of others rest upon the renown of those who give to the needy.",
+      "hi": "संसार तो उसी व्यक्ति का गुणगान करता है, जो माँगने वाले (याचक) को दान में कुछ न कुछ अवश्य प्रदान करता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உரைப்பார் <br>(Uraippaar)",
+          "ta": "புகழ்ந்து பேசுவோர்",
+          "en": "All that speak",
+          "hi": "संसार"
+        },
+        {
+          "no": 2,
+          "word": "உரைப்பவை <br>(Uraippavai)",
+          "ta": "சொல்லும் புகழுரை",
+          "en": "The speech",
+          "hi": "गुण-गान"
+        },
+        {
+          "no": 3,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாம்",
+          "en": "All",
+          "hi": "करता है"
+        },
+        {
+          "no": 4,
+          "word": "இரப்பார்க்கொன்று <br>(Irappaarkkondru)",
+          "ta": "இரப்பவர்க்கு ஒன்றை",
+          "en": "To those that ask",
+          "hi": "याचक को कुछ भी"
+        },
+        {
+          "no": 5,
+          "word": "ஈவார்மேல் <br>(Eevaarmel)",
+          "ta": "கொடுப்பவர் மேலேயே",
+          "en": "Upon those who give",
+          "hi": "दान में प्रदान करने वाले पर"
+        },
+        {
+          "no": 6,
+          "word": "நிற்கும் <br>(Nirkum)",
+          "ta": "நிலைத்து நிற்கும்",
+          "en": "Rests / crowns",
+          "hi": "टिकता है"
+        },
+        {
+          "no": 7,
+          "word": "புகழ் <br>(Pugazh)",
+          "ta": "புகழ்",
+          "en": "Renown",
+          "hi": "यश"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உரைப்பார் உரைப்பவை எல்லாம் இரப்பார்க்கொன்று",
+          "line2": "ஈவார்மேல் நிற்கும் புகழ்."
+        },
+        "en": {
+          "line1": "The speech of all that speak agrees to crown",
+          "line2": "The men that give to those that ask, with fair renown."
+        },
+        "hi": {
+          "line1": "करता है संसार तो, उसका ही गुण-गान ।",
+          "line2": "याचक को जो दान में, कुछ भी करें प्रदान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uraippaar Uraippavai Ellaam Irappaarkkondru",
+            "line2": "Eevaarmel Nirkum Pugazh."
+          },
+          "hi": {
+            "line1": "उरैप्पार् उरैप्पवै एल्लाम् इरप्पार्क्कॊन्द्रु",
+            "line2": "ईवार्मेल् निर्कुम् पुगऴ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உலகில் புகழ்ந்து பேசுவோர் பேசும் புகழுரைகள் எல்லாம், இல்லாதவர்க்கு ஒரு பொருளைக் கொடுப்பவர்கள் மேலேயே நிலைத்து நிற்கும்.",
+        "en": "Every genuine tribute people offer in this world ultimately centers on those who generously help others in need.",
+        "hi": "संसार तो उसी व्यक्ति का गुणगान करता है, जो माँगने वाले (याचक) को दान में कुछ न कुछ अवश्य प्रदान करता है।"
+      }
+    },
+    {
+      "num": 233,
+      "line1": "ஒன்றா உலகத்து உயர்ந்த புகழல்லால்",
+      "line2": "பொன்றாது நிற்பதொன்று இல்.",
+      "enLine1": "Save praise alone that soars on high,",
+      "enLine2": "Nought lives on earth that shall not die.",
+      "hiLine1": "टिकती है संसार में, अनुपम कीर्ति महान ।",
+      "hiLine2": "अविनाशी केवल वही, और न कोई जान ॥",
+      "general": "ஒப்பற்ற உயர்ந்த புகழைத் தவிர, இவ்வுலகத்தில் அழியாமல் நிலைத்து நிற்கக்கூடியது வேறு எதுவுமே இல்லை.",
+      "en": "Except lofty, matchless renown, nothing else in this world endures without perishing.",
+      "hi": "संसार में केवल अनुपम और महान कीर्ति ही टिकती है; जान लो कि केवल वही अविनाशी है, और कुछ भी स्थायी नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒன்றா <br>(Ondraa)",
+          "ta": "ஒப்பற்ற",
+          "en": "Matchless / soaring",
+          "hi": "अनुपम"
+        },
+        {
+          "no": 2,
+          "word": "உலகத்து <br>(Ulagaththu)",
+          "ta": "உலகத்தில்",
+          "en": "On earth",
+          "hi": "संसार में"
+        },
+        {
+          "no": 3,
+          "word": "உயர்ந்த <br>(Uyarndha)",
+          "ta": "உயர்ந்த",
+          "en": "On high / lofty",
+          "hi": "महान"
+        },
+        {
+          "no": 4,
+          "word": "புகழல்லால் <br>(Pugazhallaal)",
+          "ta": "புகழ் அல்லாமல்",
+          "en": "Save praise alone",
+          "hi": "कीर्ति के सिवा"
+        },
+        {
+          "no": 5,
+          "word": "பொன்றாது <br>(Pondraadhu)",
+          "ta": "அழியாமல்",
+          "en": "Shall not die",
+          "hi": "अविनाशी"
+        },
+        {
+          "no": 6,
+          "word": "நிற்பதொன்று <br>(Nirpadhondru)",
+          "ta": "நிலைத்து நிற்பது ஒன்றும்",
+          "en": "Anything standing",
+          "hi": "टिकने वाला कोई"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Nought / none",
+          "hi": "नहीं है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒன்றா உலகத்து உயர்ந்த புகழல்லால்",
+          "line2": "பொன்றாது நிற்பதொன்று இல்."
+        },
+        "en": {
+          "line1": "Save praise alone that soars on high,",
+          "line2": "Nought lives on earth that shall not die."
+        },
+        "hi": {
+          "line1": "टिकती है संसार में, अनुपम कीर्ति महान ।",
+          "line2": "अविनाशी केवल वही, और न कोई जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ondraa Ulagaththu Uyarndha Pugazhallaal",
+            "line2": "Pondraadhu Nirpadhondru Il."
+          },
+          "hi": {
+            "line1": "ऒन्द्रा उलगत्तु उयर्न्द पुगऴल्लाल्",
+            "line2": "पॊन्द्रादु निर्पदॊन्द्रु इल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒப்பற்ற உயர்ந்த புகழைத் தவிர, இவ்வுலகத்தில் அழியாமல் நிலைத்து நிற்கக்கூடியது வேறு எதுவுமே இல்லை.",
+        "en": "Everything material eventually fades away; only a noble reputation earned through good deeds outlives time itself.",
+        "hi": "संसार में केवल अनुपम और महान कीर्ति ही टिकती है; जान लो कि केवल वही अविनाशी है, और कुछ भी स्थायी नहीं है।"
+      }
+    },
+    {
+      "num": 234,
+      "line1": "நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்",
+      "line2": "போற்றாது புத்தே ளுலகு.",
+      "enLine1": "If men do virtuous deeds by world-wide ample glory crowned,",
+      "enLine2": "The heavens will cease to laud the sage for other gifts renowned.",
+      "hiLine1": "यदि कोई भूलोक में, पाये कीर्ति महान ।",
+      "hiLine2": "देवलोक तो ना करें, ज्ञानी का गुण-गान ॥",
+      "general": "நிலவுலக எல்லைக்குள் நீண்ட புகழைத் தரும் அறச்செயல்களைச் செய்தால், தேவருலகம் முன்பு போற்றிய ஞானிகளைப் போற்றுவதை நிறுத்தி இவர்களைப் போற்றும்.",
+      "en": "If one achieves enduring renown on earth through virtuous deeds, the heavenly world will cease praising sages for other merits.",
+      "hi": "यदि कोई व्यक्ति इस भूलोक में महान कीर्ति प्राप्त कर लेता है, तो देवलोक के देवता भी अन्य ज्ञानियों के बजाय उसी का गुणगान करते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நிலவரை <br>(Nilavarai)",
+          "ta": "நிலவுலக எல்லையில்",
+          "en": "World-wide",
+          "hi": "भूलोक में"
+        },
+        {
+          "no": 2,
+          "word": "நீள்புகழ் <br>(Neelpugazh)",
+          "ta": "நெடிய புகழை",
+          "en": "Ample glory",
+          "hi": "कीर्ति महान"
+        },
+        {
+          "no": 3,
+          "word": "ஆற்றின் <br>(Aatrin)",
+          "ta": "செய்து பெற்றால்",
+          "en": "If one achieves",
+          "hi": "यदि पाये"
+        },
+        {
+          "no": 4,
+          "word": "புலவரைப் <br>(Pulavaraip)",
+          "ta": "ஞானிகளை",
+          "en": "The sage",
+          "hi": "ज्ञानी का"
+        },
+        {
+          "no": 5,
+          "word": "போற்றாது <br>(Potraadhu)",
+          "ta": "போற்றாமல் விடும்",
+          "en": "Will cease to laud",
+          "hi": "गुणगान न करें"
+        },
+        {
+          "no": 6,
+          "word": "புத்தேள் <br>(Puththel)",
+          "ta": "தேவர்",
+          "en": "The heavens",
+          "hi": "देवलोक"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "உலகம்",
+          "en": "World",
+          "hi": "लोग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்",
+          "line2": "போற்றாது புத்தே ளுலகு."
+        },
+        "en": {
+          "line1": "If men do virtuous deeds by world-wide ample glory crowned,",
+          "line2": "The heavens will cease to laud the sage for other gifts renowned."
+        },
+        "hi": {
+          "line1": "यदि कोई भूलोक में, पाये कीर्ति महान ।",
+          "line2": "देवलोक तो ना करें, ज्ञानी का गुण-गान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nilavarai Neelpugazh Aatrin Pulavaraip",
+            "line2": "Potraadhu Puththel Ulagu."
+          },
+          "hi": {
+            "line1": "निलवरै नीळ्पुगऴ् आत्रिन् पुलवरैप्",
+            "line2": "पोत्रादु पुत्तेळ् उलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நிலவுலக எல்லைக்குள் நீண்ட புகழைத் தரும் அறச்செயல்களைச் செய்தால், தேவருலகம் முன்பு போற்றிய ஞானிகளைப் போற்றுவதை நிறுத்தி இவர்களைப் போற்றும்.",
+        "en": "Those who build lasting, honorable fame through good deeds on earth earn admiration even higher than abstract scholarship.",
+        "hi": "यदि कोई व्यक्ति इस भूलोक में महान कीर्ति प्राप्त कर लेता है, तो देवलोक के देवता भी अन्य ज्ञानियों के बजाय उसी का गुणगान करते हैं।"
+      }
+    },
+    {
+      "num": 235,
+      "line1": "நத்தம்போல் கேடும் உளதாகும் சாக்காடும்",
+      "line2": "வித்தகர்க்கு அல்லால் அரிது.",
+      "enLine1": "Loss that is gain, and death of life's true bliss fulfilled,",
+      "enLine2": "Are fruits which only wisdom rare can yield.",
+      "hiLine1": "ह्रास बने यशवृद्धिकर, मृत्यु बने अमरत्व ।",
+      "hiLine2": "ज्ञानवान बिन और में, संभव न यह महत्व ॥",
+      "general": "புகழைத் தரும் கேடும் (வறுமையும்), நிலைத்த புகழுடன் கூடிய சாவும் அறிவுடைய சான்றோர்களுக்கே அல்லாமல் மற்றவர்களுக்குக் கிடைப்பது அரிதாகும்.",
+      "en": "Loss that yields renown and death that brings lasting fame are rare blessings attained only by the truly wise.",
+      "hi": "अपना ह्रास (नुकसान) भी यश बढ़ाने वाला बन जाए और मृत्यु भी अमरत्व प्रदान करे—ऐसा महत्व ज्ञानवान व्यक्तियों के बिना किसी और के लिए संभव नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நத்தம்போல் <br>(Naththambol)",
+          "ta": "ஆக்கம் போன்ற",
+          "en": "That is gain",
+          "hi": "यशवृद्धिकर"
+        },
+        {
+          "no": 2,
+          "word": "கேடும் <br>(Kedum)",
+          "ta": "கேடும் (வறுமையும்)",
+          "en": "Loss",
+          "hi": "ह्रास"
+        },
+        {
+          "no": 3,
+          "word": "உளதாகும் <br>(Uladhaagum)",
+          "ta": "புகழ் உண்டாகும்",
+          "en": "True bliss fulfilled",
+          "hi": "अमरत्व बने"
+        },
+        {
+          "no": 4,
+          "word": "சாக்காடும் <br>(Saakkaadum)",
+          "ta": "மரணமும்",
+          "en": "And death",
+          "hi": "मृत्यु"
+        },
+        {
+          "no": 5,
+          "word": "வித்தகர்க்கு <br>(Viththagarkku)",
+          "ta": "அறிவுடையோர்க்கு",
+          "en": "To the wise",
+          "hi": "ज्ञानवान को"
+        },
+        {
+          "no": 6,
+          "word": "அல்லால் <br>(Allaal)",
+          "ta": "அல்லாமல்",
+          "en": "Except",
+          "hi": "बिना और में"
+        },
+        {
+          "no": 7,
+          "word": "அரிது <br>(Aridhu)",
+          "ta": "கிடைத்தற்கு அரியது",
+          "en": "Rare / hard to attain",
+          "hi": "संभव नहीं है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நத்தம்போல் கேடும் உளதாகும் சாக்காடும்",
+          "line2": "வித்தகர்க்கு அல்லால் அரிது."
+        },
+        "en": {
+          "line1": "Loss that is gain, and death of life's true bliss fulfilled,",
+          "line2": "Are fruits which only wisdom rare can yield."
+        },
+        "hi": {
+          "line1": "ह्रास बने यशवृद्धिकर, मृत्यु बने अमरत्व ।",
+          "line2": "ज्ञानवान बिन और में, संभव न यह महत्व ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naththambol Kedum Uladhaagum Saakkaadum",
+            "line2": "Viththagarkku Allaal Aridhu."
+          },
+          "hi": {
+            "line1": "नत्तम्बोल् केडुम् उळदागुम् साक्काडुम्",
+            "line2": "वित्तगर्क्कु अल्लाल् अरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "புகழைத் தரும் கேடும் (வறுமையும்), நிலைத்த புகழுடன் கூடிய சாவும் அறிவுடைய சான்றோர்களுக்கே அல்லாமல் மற்றவர்களுக்குக் கிடைப்பது அரிதாகும்.",
+        "en": "Only the truly wise can turn material loss into lasting honor and face death in a way that wins immortality.",
+        "hi": "अपना ह्रास (नुकसान) भी यश बढ़ाने वाला बन जाए और मृत्यु भी अमरत्व प्रदान करे—ऐसा महत्व ज्ञानवान व्यक्तियों के बिना किसी और के लिए संभव नहीं है।"
+      }
+    },
+    {
+      "num": 236,
+      "line1": "தோன்றின் புகழொடு தோன்றுக அஃதிலார்",
+      "line2": "தோன்றலின் தோன்றாமை நன்று.",
+      "enLine1": "If, man you walk the stage, appear adorned with glory's grace;",
+      "enLine2": "Save glorious you can shine, 'twere better hide your face.",
+      "hiLine1": "जन्मा तो यों जन्म हो, जिसमें होवे नाम ।",
+      "hiLine2": "जन्म न होना है भला, यदि न कमाया नाम ॥",
+      "general": "மனிதனாகப் பிறந்தால் புகழோடு வாழும்படி பிறக்க வேண்டும்; அப்புகழ் இல்லாதவர்கள் பிறப்பதைவிடப் பிறவாமல் இருப்பதே நல்லது.",
+      "en": "If you are born, be born with renown; for those without it, it is better not to be born at all.",
+      "hi": "यदि जन्म लिया है तो ऐसा जीवन जीना चाहिए जिससे संसार में नाम (यश) हो; यदि नाम नहीं कमाया तो जन्म न लेना ही भला है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தோன்றின் <br>(Thondrin)",
+          "ta": "பிறந்தால்",
+          "en": "If you appear / born",
+          "hi": "जन्मा तो"
+        },
+        {
+          "no": 2,
+          "word": "புகழொடு <br>(Pugazhodu)",
+          "ta": "புகழுடனே",
+          "en": "With glory",
+          "hi": "जिसमें होवे नाम"
+        },
+        {
+          "no": 3,
+          "word": "தோன்றுக <br>(Thondruga)",
+          "ta": "பிறக்க வேண்டும்",
+          "en": "Appear / be born",
+          "hi": "ऐसा जन्म हो"
+        },
+        {
+          "no": 4,
+          "word": "அஃதிலார் <br>(Akdhilaar)",
+          "ta": "அப்புகழ் இல்லாதவர்",
+          "en": "Those without it",
+          "hi": "यदि न कमाया नाम"
+        },
+        {
+          "no": 5,
+          "word": "தோன்றலின் <br>(Thondralin)",
+          "ta": "பிறப்பதைவிட",
+          "en": "Than appearing",
+          "hi": "जन्म लेने से"
+        },
+        {
+          "no": 6,
+          "word": "தோன்றாமை <br>(Thondraamai)",
+          "ta": "பிறவாமல் இருத்தல்",
+          "en": "Not appearing",
+          "hi": "जन्म न होना"
+        },
+        {
+          "no": 7,
+          "word": "நன்று <br>(Nandru)",
+          "ta": "நல்லது",
+          "en": "Is better",
+          "hi": "भला है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தோன்றின் புகழொடு தோன்றுக அஃதிலார்",
+          "line2": "தோன்றலின் தோன்றாமை நன்று."
+        },
+        "en": {
+          "line1": "If, man you walk the stage, appear adorned with glory's grace;",
+          "line2": "Save glorious you can shine, 'twere better hide your face."
+        },
+        "hi": {
+          "line1": "जन्मा तो यों जन्म हो, जिसमें होवे नाम ।",
+          "line2": "जन्म न होना है भला, यदि न कमाया नाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thondrin Pugazhodu Thondruga Akdhilaar",
+            "line2": "Thondralin Thondraamai Nandru."
+          },
+          "hi": {
+            "line1": "तोन्द्रिन् पुगऴॊडु तोन्द्रुग अःदिलार्",
+            "line2": "तोन्द्रलिन् तोन्द्रामै नन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனிதனாகப் பிறந்தால் புகழோடு வாழும்படி பிறக்க வேண்டும்; அப்புகழ் இல்லாதவர்கள் பிறப்பதைவிடப் பிறவாமல் இருப்பதே நல்லது.",
+        "en": "If you step onto the stage of life, strive to leave an honorable legacy—a life without merit adds nothing to the world.",
+        "hi": "यदि जन्म लिया है तो ऐसा जीवन जीना चाहिए जिससे संसार में नाम (यश) हो; यदि नाम नहीं कमाया तो जन्म न लेना ही भला है।"
+      }
+    },
+    {
+      "num": 237,
+      "line1": "புகழ்பட வாழாதார் தந்நோவார் தம்மை",
+      "line2": "இகழ்வாரை நோவ தெவன்.",
+      "enLine1": "If you your days will spend devoid of goodly fame,",
+      "enLine2": "When men despise, why blame them? You 've yourself to blame.",
+      "hiLine1": "कीर्तिमान बन ना जिया, कुढ़ता स्वयं न आप ।",
+      "hiLine2": "निन्दक पर कुढ़ते हुए, क्यों होता है ताप ॥",
+      "general": "புகழ் உண்டாகும்படி வாழாதவர்கள் தம்மைத் தாமே நொந்துகொள்ளாமல், தம்மை இகழ்ந்து பேசுபவர்களை நொந்துகொள்வது ஏன்?",
+      "en": "Why do those who do not live so as to gain renown blame those who despise them, instead of blaming themselves?",
+      "hi": "जो व्यक्ति कीर्तिमान बनकर नहीं जीता, वह स्वयं अपने आप पर तो क्रोधित (दुखी) नहीं होता, फिर निंदा करने वालों पर कुढ़ते हुए संताप क्यों करता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "புகழ்பட <br>(Pugazhpada)",
+          "ta": "புகழ் உண்டாகும்படி",
+          "en": "With goodly fame",
+          "hi": "कीर्तिमान बनकर"
+        },
+        {
+          "no": 2,
+          "word": "வாழாதார் <br>(Vaazhaadhaar)",
+          "ta": "வாழாதவர்கள்",
+          "en": "Those who live not",
+          "hi": "न जीने वाला"
+        },
+        {
+          "no": 3,
+          "word": "தந்நோவார் <br>(Thannovaar)",
+          "ta": "தம்மை நொந்துகொள்ளாமல்",
+          "en": "Blame not themselves",
+          "hi": "स्वयं पर न कुढ़कर"
+        },
+        {
+          "no": 4,
+          "word": "தம்மை <br>(Thammai)",
+          "ta": "தம்மை",
+          "en": "Them",
+          "hi": "अपनी"
+        },
+        {
+          "no": 5,
+          "word": "இகழ்வாரை <br>(Igazhvaarai)",
+          "ta": "இகழ்பவர்களை",
+          "en": "Those who despise",
+          "hi": "निंदा करने वाले पर"
+        },
+        {
+          "no": 6,
+          "word": "நோவது <br>(Novadhu)",
+          "ta": "நொந்துகொள்வது",
+          "en": "Blaming",
+          "hi": "कुढ़ते हुए ताप"
+        },
+        {
+          "no": 7,
+          "word": "எவன் <br>(Evan)",
+          "ta": "ஏன்",
+          "en": "Why",
+          "hi": "क्यों होता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புகழ்பட வாழாதார் தந்நோவார் தம்மை",
+          "line2": "இகழ்வாரை நோவ தெவன்."
+        },
+        "en": {
+          "line1": "If you your days will spend devoid of goodly fame,",
+          "line2": "When men despise, why blame them? You 've yourself to blame."
+        },
+        "hi": {
+          "line1": "कीर्तिमान बन ना जिया, कुढ़ता स्वयं न आप ।",
+          "line2": "निन्दक पर कुढ़ते हुए, क्यों होता है ताप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pugazhpada Vaazhaadhaar Thannovaar Thammai",
+            "line2": "Igazhvaarai Novadhu Evan."
+          },
+          "hi": {
+            "line1": "पुगऴ्पड वाऴादार् तन्नोवार् तम्मै",
+            "line2": "इगऴ्वारै नोव दॆवन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "புகழ் உண்டாகும்படி வாழாதவர்கள் தம்மைத் தாமே நொந்துகொள்ளாமல், தம்மை இகழ்ந்து பேசுபவர்களை நொந்துகொள்வது ஏன்?",
+        "en": "If you haven't lived in a way that commands respect, you have no reason to resent critics—look inward instead.",
+        "hi": "जो व्यक्ति कीर्तिमान बनकर नहीं जीता, वह स्वयं अपने आप पर तो क्रोधित (दुखी) नहीं होता, फिर निंदा करने वालों पर कुढ़ते हुए संताप क्यों करता है?"
+      }
+    },
+    {
+      "num": 238,
+      "line1": "வசையென்ப வையத்தார்க்கு எல்லாம் இசையென்னும்",
+      "line2": "எச்சம் பெறாஅ விடின்.",
+      "enLine1": "Fame is virtue's child, they say ; if, then,",
+      "enLine2": "You childless live, you live the scorn of men.",
+      "hiLine1": "यदि नहिं मिली परंपरा, जिसका है यश नाम ।",
+      "hiLine2": "तो जग में सब के लिये, वही रहा अपनाम ॥",
+      "general": "இவ்வுலகத்தில் வாழும் எல்லா மக்களுக்கும், புகழ் என்னும் எச்சத்தை (சந்ததியை)ப் பெறாவிட்டால் அதுவே பழி என்று சொல்லப்படும்.",
+      "en": "For all people in this world, it is counted a reproach if they fail to leave behind the offspring called renown.",
+      "hi": "यदि किसी व्यक्ति को यश रूपी संतान (परंपरा) की प्राप्ति नहीं हुई, तो संसार में सब लोगों के लिए वही सबसे बड़ा अपमान (अपयश) कहलाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வசையென்ப <br>(Vasaiyenba)",
+          "ta": "பழி என்று சொல்வர்",
+          "en": "It is called scorn/reproach",
+          "hi": "अपमान (अपयश) कहलाता है"
+        },
+        {
+          "no": 2,
+          "word": "வையத்தார்க்கு <br>(Vaiyaththaarkku)",
+          "ta": "உலகத்தார்க்கு",
+          "en": "To men of the world",
+          "hi": "जग में"
+        },
+        {
+          "no": 3,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லார்க்கும்",
+          "en": "All",
+          "hi": "सब के लिए"
+        },
+        {
+          "no": 4,
+          "word": "இசையென்னும் <br>(Isaiyennum)",
+          "ta": "புகழ் என்னும்",
+          "en": "Called fame",
+          "hi": "जिसका यश नाम है"
+        },
+        {
+          "no": 5,
+          "word": "எச்சம் <br>(Echcham)",
+          "ta": "வழித்தோன்றலை",
+          "en": "Child / offspring",
+          "hi": "परंपरा (संतान)"
+        },
+        {
+          "no": 6,
+          "word": "பெறாஅ <br>(Peraaa)",
+          "ta": "பெறா",
+          "en": "Not obtaining",
+          "hi": "नहीं मिली"
+        },
+        {
+          "no": 7,
+          "word": "விடின் <br>(Vidin)",
+          "ta": "விட்டால்",
+          "en": "If",
+          "hi": "यदि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வசையென்ப வையத்தார்க்கு எல்லாம் இசையென்னும்",
+          "line2": "எச்சம் பெறாஅ விடின்."
+        },
+        "en": {
+          "line1": "Fame is virtue's child, they say ; if, then,",
+          "line2": "You childless live, you live the scorn of men."
+        },
+        "hi": {
+          "line1": "यदि नहिं मिली परंपरा, जिसका है यश नाम ।",
+          "line2": "तो जग में सब के लिये, वही रहा अपनाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vasaiyenba Vaiyaththaarkku Ellaam Isaiyennum",
+            "line2": "Echcham Peraaa Vidin."
+          },
+          "hi": {
+            "line1": "वसैयॆन्ब वैयत्तार्क्कु एल्लाम् इसैयॆन्नुम्",
+            "line2": "एच्चम् पॆराअ विडिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இவ்வுலகத்தில் வாழும் எல்லா மக்களுக்கும், புகழ் என்னும் எச்சத்தை (சந்ததியை)ப் பெறாவிட்டால் அதுவே பழி என்று சொல்லப்படும்.",
+        "en": "Leaving behind no legacy of honorable renown is widely regarded as a person's greatest failing.",
+        "hi": "यदि किसी व्यक्ति को यश रूपी संतान (परंपरा) की प्राप्ति नहीं हुई, तो संसार में सब लोगों के लिए वही सबसे बड़ा अपमान (अपयश) कहलाता है।"
+      }
+    },
+    {
+      "num": 239,
+      "line1": "வசையிலா வண்பயன் குன்றும் இசையிலா",
+      "line2": "யாக்கை பொறுத்த நிலம்.",
+      "enLine1": "The blameless fruits of fields' increase will dwindle down,",
+      "enLine2": "If earth the burthen bear of men without renown.",
+      "hiLine1": "कीर्तिहीन की देह का, भू जब ढोती भार ।",
+      "hiLine2": "पावन प्रभूत उपज का, क्षय होता निर्धार ॥",
+      "general": "புகழ் இல்லாத உடம்பைச் சுமந்துகொண்டிருக்கும் நிலமானது, தன் குற்றமற்ற வளமான விளைச்சலில் குறைந்துவிடும்.",
+      "en": "The blameless, rich yield of the earth will dwindle if it has to bear the burden of bodies devoid of renown.",
+      "hi": "जब पृथ्वी कीर्तिहीन व्यक्ति की देह का भार ढोती है, तो उसकी पवित्र और प्रचुर उपज का निश्चित रूप से क्षय (ह्रास) होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வசையிலா <br>(Vasaiyilaa)",
+          "ta": "குற்றமற்ற",
+          "en": "Blameless",
+          "hi": "पावन"
+        },
+        {
+          "no": 2,
+          "word": "வண்பயன் <br>(Vanbayan)",
+          "ta": "வளமான விளைச்சல்",
+          "en": "Rich fruits / increase",
+          "hi": "प्रभूत उपज का"
+        },
+        {
+          "no": 3,
+          "word": "குன்றும் <br>(Kundrum)",
+          "ta": "குறைந்துவிடும்",
+          "en": "Will dwindle down",
+          "hi": "निश्चित क्षय होता है"
+        },
+        {
+          "no": 4,
+          "word": "இசையிலா <br>(Isaiyilaa)",
+          "ta": "புகழில்லாத",
+          "en": "Without renown",
+          "hi": "कीर्तिहीन की"
+        },
+        {
+          "no": 5,
+          "word": "யாக்கை <br>(Yaakkai)",
+          "ta": "உடம்பை",
+          "en": "Body / burthen",
+          "hi": "देह का भार"
+        },
+        {
+          "no": 6,
+          "word": "பொறுத்த <br>(Poruththa)",
+          "ta": "சுமந்த",
+          "en": "Bearing",
+          "hi": "जब ढोती है"
+        },
+        {
+          "no": 7,
+          "word": "நிலம் <br>(Nilam)",
+          "ta": "நிலம்",
+          "en": "Earth",
+          "hi": "भूमि (भू)"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வசையிலா வண்பயன் குன்றும் இசையிலா",
+          "line2": "யாக்கை பொறுத்த நிலம்."
+        },
+        "en": {
+          "line1": "The blameless fruits of fields' increase will dwindle down,",
+          "line2": "If earth the burthen bear of men without renown."
+        },
+        "hi": {
+          "line1": "कीर्तिहीन की देह का, भू जब ढोती भार ।",
+          "line2": "पावन प्रभूत उपज का, क्षय होता निर्धार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vasaiyilaa Vanbayan Kundrum Isaiyilaa",
+            "line2": "Yaakkai Poruththa Nilam."
+          },
+          "hi": {
+            "line1": "वसैयिला वण्बयन् कुन्द्रुम् इसैयिला",
+            "line2": "याक्कै पॊरुत्त निलम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "புகழ் இல்லாத உடம்பைச் சுமந்துகொண்டிருக்கும் நிலமானது, தன் குற்றமற்ற வளமான விளைச்சலில் குறைந்துவிடும்.",
+        "en": "Even the fertile earth seems to lose its richness when forced to carry the weight of people who contribute nothing honorable.",
+        "hi": "जब पृथ्वी कीर्तिहीन व्यक्ति की देह का भार ढोती है, तो उसकी पवित्र और प्रचुर उपज का निश्चित रूप से क्षय (ह्रास) होता है।"
+      }
+    },
+    {
+      "num": 240,
+      "line1": "வசையொழிய வாழ்வாரே வாழ்வார் இசையொழிய",
+      "line2": "வாழ்வாரே வாழா தவர்.",
+      "enLine1": "Who live without reproach, them living men we deem ;",
+      "enLine2": "Who live without renown, live not, though living men they seem.",
+      "hiLine1": "निन्दा बिन जो जी रहा, जीवित वही सुजान ।",
+      "hiLine2": "कीर्ति बिना जो जी रहा, उसे मरा ही जान ॥",
+      "general": "பழிச்சொல் இல்லாமல் வாழ்பவர்களே உண்மையில் வாழ்பவர்கள்; புகழ் இல்லாமல் வாழ்பவர்கள் உயிரோடு இருந்தாலும் வாழாதவர்களே ஆவர்.",
+      "en": "Those who live free from reproach truly live; those who live without renown do not truly live at all.",
+      "hi": "जो व्यक्ति निंदा से रहित होकर जीवन जीता है, वास्तव में वही बुद्धिमान जीवित है; और जो कीर्ति के बिना जी रहा है, उसे तुम मरा हुआ ही समझो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வசையொழிய <br>(Vasaiyozhiya)",
+          "ta": "பழி நீங்கி",
+          "en": "Without reproach",
+          "hi": "निंदा बिना"
+        },
+        {
+          "no": 2,
+          "word": "வாழ்வாரே <br>(Vaazhvaare)",
+          "ta": "வாழ்பவர்களே",
+          "en": "Those who live",
+          "hi": "जो जी रहा है"
+        },
+        {
+          "no": 3,
+          "word": "வாழ்வார் <br>(Vaazhvaar)",
+          "ta": "உயிர் வாழ்பவர்",
+          "en": "Truly live",
+          "hi": "जीवित वही सुजान है"
+        },
+        {
+          "no": 4,
+          "word": "இசையொழிய <br>(Isaiyozhiya)",
+          "ta": "புகழ் இல்லாமல்",
+          "en": "Without renown",
+          "hi": "कीर्ति बिना"
+        },
+        {
+          "no": 5,
+          "word": "வாழ்வாரே <br>(Vaazhvaare)",
+          "ta": "வாழ்பவர்களே",
+          "en": "Those who live",
+          "hi": "जो जी रहा है"
+        },
+        {
+          "no": 6,
+          "word": "வாழா <br>(Vaazhaa)",
+          "ta": "உயிர் வாழா",
+          "en": "Live not",
+          "hi": "मरा ही"
+        },
+        {
+          "no": 7,
+          "word": "தவர் <br>(Dhavar)",
+          "ta": "தவர் ஆவர்",
+          "en": "Those who",
+          "hi": "जानो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வசையொழிய வாழ்வாரே வாழ்வார் இசையொழிய",
+          "line2": "வாழ்வாரே வாழா தவர்."
+        },
+        "en": {
+          "line1": "Who live without reproach, them living men we deem ;",
+          "line2": "Who live without renown, live not, though living men they seem."
+        },
+        "hi": {
+          "line1": "निन्दा बिन जो जी रहा, जीवित वही सुजान ।",
+          "line2": "कीर्ति बिना जो जी रहा, उसे मरा ही जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vasaiyozhiya Vaazhvaare Vaazhvaar Isaiyozhiya",
+            "line2": "Vaazhvaare Vaazhaa Dhavar."
+          },
+          "hi": {
+            "line1": "वसैयॊऴिया वाऴ्वारे वाऴ्वार् इसैयॊऴिया",
+            "line2": "वाऴ्वारे वाऴा दवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பழிச்சொல் இல்லாமல் வாழ்பவர்களே உண்மையில் வாழ்பவர்கள்; புகழ் இல்லாமல் வாழ்பவர்கள் உயிரோடு இருந்தாலும் வாழாதவர்களே ஆவர்.",
+        "en": "A blameless life is what makes someone truly alive; existing without honor or goodness is merely passing time.",
+        "hi": "जो व्यक्ति निंदा से रहित होकर जीवन जीता है, वास्तव में वही बुद्धिमान जीवित है; और जो कीर्ति के बिना जी रहा है, उसे तुम मरा हुआ ही समझो।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "chapterNum": 27,
+  "nameTa": "தவம்",
+  "nameEn": "Penance",
+  "nameHi": "तप",
+  "paal": "அறத்துப்பால்",
+  "iyal": "துறவறவியல்",
+  "kurals": [
+    {
+      "num": 261,
+      "line1": "உற்றநோய் நோன்றல் உயிர்க்குறுகண் செய்யாமை",
+      "line2": "அற்றே தவத்திற்கு உரு.",
+      "enLine1": "To bear due penitential pains, while no offence",
+      "enLine2": "He causes others, is the type of 'penitence.'",
+      "hiLine1": "तप नियमों को पालते, सहना कष्ट महान ।",
+      "hiLine2": "जीव-हानि-वर्जन तथा, तप का यही निशान ॥",
+      "general": "தமக்கு வந்த துன்பத்தைப் பொறுத்துக்கொள்ளுதலும், பிற உயிர்களுக்குத் துன்பம் செய்யாதிருத்தலும் ஆகிய அவ்வளவே தவத்திற்கு வடிவமாகும்.",
+      "en": "Enduring the hardships that befall oneself and causing no harm to other living beings—that alone is the true form of penance.",
+      "hi": "तप के नियमों का पालन करते हुए महान कष्ट सहना तथा किसी भी जीव की हानि न करना—यही सच्चे तप की पहचान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உற்றநோய் <br>(Utranoy)",
+          "ta": "தமக்கு வந்த துன்பத்தை",
+          "en": "Penitential pains",
+          "hi": "कष्ट महान"
+        },
+        {
+          "no": 2,
+          "word": "நோன்றல் <br>(Nondral)",
+          "ta": "பொறுத்துக்கொள்ளுதல்",
+          "en": "To bear / endure",
+          "hi": "सहना"
+        },
+        {
+          "no": 3,
+          "word": "உயிர்க்குறுகண் <br>(Uyirkkurugan)",
+          "ta": "மற்ற உயிர்களுக்குத் துன்பம்",
+          "en": "Offence to others",
+          "hi": "जीव-हानि"
+        },
+        {
+          "no": 4,
+          "word": "செய்யாமை <br>(Seyyaamai)",
+          "ta": "செய்யாதிருத்தல்",
+          "en": "Not causing",
+          "hi": "वर्जन (न करना)"
+        },
+        {
+          "no": 5,
+          "word": "அற்றே <br>(Atre)",
+          "ta": "அவ்வளவே",
+          "en": "That alone",
+          "hi": "यही"
+        },
+        {
+          "no": 6,
+          "word": "தவத்திற்கு <br>(Thavaththirku)",
+          "ta": "தவத்திற்கு",
+          "en": "Of penitence",
+          "hi": "तप का"
+        },
+        {
+          "no": 7,
+          "word": "உரு <br>(Uru)",
+          "ta": "வடிவமாகும்",
+          "en": "Type / form",
+          "hi": "निशान (स्वरूप)"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உற்றநோய் நோன்றல் உயிர்க்குறுகண் செய்யாமை",
+          "line2": "அற்றே தவத்திற்கு உரு."
+        },
+        "en": {
+          "line1": "To bear due penitential pains, while no offence",
+          "line2": "He causes others, is the type of 'penitence.'"
+        },
+        "hi": {
+          "line1": "तप नियमों को पालते, सहना कष्ट महान ।",
+          "line2": "जीव-हानि-वर्जन तथा, तप का यही निशान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Utranoy Nondral Uyirkkurugan Seyyaamai",
+            "line2": "Atre Thavaththirku Uru."
+          },
+          "hi": {
+            "line1": "उत्रनोय् नोन्द्रल् उयिर्क्कुरुगण् सॆय्यामै",
+            "line2": "अत्रे तवत्तिर्कु उरु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தமக்கு வந்த துன்பத்தைப் பொறுத்துக்கொள்ளுதலும், பிற உயிர்களுக்குத் துன்பம் செய்யாதிருத்தலும் ஆகிய அவ்வளவே தவத்திற்கு வடிவமாகும்.",
+        "en": "True penance comes down to two essentials: bearing your own hardships patiently and never inflicting pain on any other creature.",
+        "hi": "तप के नियमों का पालन करते हुए महान कष्ट सहना तथा किसी भी जीव की हानि न करना—यही सच्चे तप की पहचान है।"
+      }
+    },
+    {
+      "num": 262,
+      "line1": "தவமும் தவமுடையார்க்கு ஆகும் அவம்அதனை",
+      "line2": "அஃதிலார் மேற்கொள் வது.",
+      "enLine1": "To 'penitents' sincere avails their 'penitence' ;",
+      "enLine2": "Where that is not, 'tis but a vain pretence.",
+      "hiLine1": "तप भी बस उनका रहा, जिनको है वह प्राप्त ।",
+      "hiLine2": "यत्न वृथा उसके लिये, यदि हो वह अप्राप्त ॥",
+      "general": "தவம் செய்யும் தகுதியும் தவ வலிமையுடையவர்க்கே கைகூடும்; அத்தகுதி இல்லாதவர் தவத்தை மேற்கொள்வது வீண் முயற்சியாகும்.",
+      "en": "Penance bears fruit only for those who possess true ascetic fitness; for those without it, undertaking penance is a vain effort.",
+      "hi": "तप भी केवल उन्हीं लोगों का सफल होता है जिन्हें उसका वास्तविक पात्रता-बल प्राप्त है; अन्य लोगों के लिए तप का प्रयास व्यर्थ ही होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தவமும் <br>(Thavamum)",
+          "ta": "தவமும்",
+          "en": "Penance too",
+          "hi": "तप भी"
+        },
+        {
+          "no": 2,
+          "word": "தவமுடையார்க்கு <br>(Thavamudaiyaarkku)",
+          "ta": "தவத் தகுதியுடையவர்க்கே",
+          "en": "To sincere penitents",
+          "hi": "जिन्हें वह प्राप्त है उन्हीं का"
+        },
+        {
+          "no": 3,
+          "word": "ஆகும் <br>(Aagum)",
+          "ta": "கைகூடும்",
+          "en": "Avails",
+          "hi": "सफल होता है"
+        },
+        {
+          "no": 4,
+          "word": "அவம் <br>(Avam)",
+          "ta": "வீணாகும்",
+          "en": "Vain pretence",
+          "hi": "यत्न वृथा है"
+        },
+        {
+          "no": 5,
+          "word": "அதனை <br>(Adhanai)",
+          "ta": "அத்தவத்தை",
+          "en": "That",
+          "hi": "उसके लिए"
+        },
+        {
+          "no": 6,
+          "word": "அஃதிலார் <br>(Akdhilaar)",
+          "ta": "அத்தகுதி இல்லாதவர்",
+          "en": "Where that is not",
+          "hi": "यदि वह अप्राप्त हो"
+        },
+        {
+          "no": 7,
+          "word": "மேற்கொள்வது <br>(Merkolvadhu)",
+          "ta": "மேற்கொள்வது",
+          "en": "Undertaking",
+          "hi": "करना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தவமும் தவமுடையார்க்கு ஆகும் அவம்அதனை",
+          "line2": "அஃதிலார் மேற்கொள் வது."
+        },
+        "en": {
+          "line1": "To 'penitents' sincere avails their 'penitence' ;",
+          "line2": "Where that is not, 'tis but a vain pretence."
+        },
+        "hi": {
+          "line1": "तप भी बस उनका रहा, जिनको है वह प्राप्त ।",
+          "line2": "यत्न वृथा उसके लिये, यदि हो वह अप्राप्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thavamum Thavamudaiyaarkku Aagum Avamadhanai",
+            "line2": "Akdhilaar Merkol Vadhu."
+          },
+          "hi": {
+            "line1": "तवमुम् तवमुडैयार्क्कु आगुम् अवमदनै",
+            "line2": "अःदिलार् मेर्कॊळ् वदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தவம் செய்யும் தகுதியும் தவ வலிமையுடையவர்க்கே கைகூடும்; அத்தகுதி இல்லாதவர் தவத்தை மேற்கொள்வது வீண் முயற்சியாகும்.",
+        "en": "Spiritual discipline only bears fruit for those who practice it with genuine inner readiness; without sincerity, it is empty show.",
+        "hi": "तप भी केवल उन्हीं लोगों का सफल होता है जिन्हें उसका वास्तविक पात्रता-बल प्राप्त है; अन्य लोगों के लिए तप का प्रयास व्यर्थ ही होता है।"
+      }
+    },
+    {
+      "num": 263,
+      "line1": "துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொல்",
+      "line2": "மற்றை யவர்கள் தவம்.",
+      "enLine1": "Have other men forgotten 'penitence,' who strive",
+      "enLine2": "To earn for penitents the things by which they live ?",
+      "hiLine1": "भोजनादि उपचार से, तपसी सेवा-धर्म ।",
+      "hiLine2": "करने हित क्या अन्य सब, भूल गये तप-कर्म ॥",
+      "general": "துறவிகளுக்கு உணவும் உடையும் தேடிக் கொடுக்க விரும்பி, மற்ற இல்லறத்தார்கள் தாமும் தவம் செய்வதை மறந்துவிட்டார்களோ?",
+      "en": "Have other people forgotten penance because they are busy providing food and necessities for those who have renounced the world?",
+      "hi": "क्या अन्य गृहस्थ लोग तपस्वियों की भोजनादि उपचार से सेवा करने के लिए स्वयं तप-कर्म करना ही भूल गए हैं?",
+      "words": [
+        {
+          "no": 1,
+          "word": "துறந்தார்க்குத் <br>(Thurandhaarkkuth)",
+          "ta": "துறவிகளுக்கு",
+          "en": "For penitents",
+          "hi": "तपसी (संन्यासियों) की"
+        },
+        {
+          "no": 2,
+          "word": "துப்புரவு <br>(Thuppuravu)",
+          "ta": "உணவு முதலியவற்றை",
+          "en": "Things by which they live",
+          "hi": "भोजनादि उपचार से"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டி <br>(Vendi)",
+          "ta": "கொடுக்க விரும்பி",
+          "en": "Striving to provide",
+          "hi": "सेवा-धर्म करने हित"
+        },
+        {
+          "no": 4,
+          "word": "மறந்தார்கொல் <br>(Marandhaargol)",
+          "ta": "மறந்துவிட்டார்களோ",
+          "en": "Have forgotten",
+          "hi": "क्या भूल गए"
+        },
+        {
+          "no": 5,
+          "word": "மற்றை <br>(Matrai)",
+          "ta": "மற்ற",
+          "en": "Other",
+          "hi": "अन्य"
+        },
+        {
+          "no": 6,
+          "word": "யவர்கள் <br>(Yavargal)",
+          "ta": "இல்லறத்தவர்கள்",
+          "en": "Men",
+          "hi": "सब लोग"
+        },
+        {
+          "no": 7,
+          "word": "தவம் <br>(Thavam)",
+          "ta": "தவத்தை",
+          "en": "Penance",
+          "hi": "तप-कर्म"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொல்",
+          "line2": "மற்றை யவர்கள் தவம்."
+        },
+        "en": {
+          "line1": "Have other men forgotten 'penitence,' who strive",
+          "line2": "To earn for penitents the things by which they live ?"
+        },
+        "hi": {
+          "line1": "भोजनादि उपचार से, तपसी सेवा-धर्म ।",
+          "line2": "करने हित क्या अन्य सब, भूल गये तप-कर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thurandhaarkkuth Thuppuravu Vendi Marandhaargol",
+            "line2": "Matrai Yavargal Thavam."
+          },
+          "hi": {
+            "line1": "तुरन्दार्क्कुत् तुप्पुरवु वेण्डि मरन्दार्गॊल्",
+            "line2": "मत्रै यवर्गळ् तवम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "துறவிகளுக்கு உணவும் உடையும் தேடிக் கொடுக்க விரும்பி, மற்ற இல்லறத்தார்கள் தாமும் தவம் செய்வதை மறந்துவிட்டார்களோ?",
+        "en": "Householders work so hard to support ascetics with food and shelter that they often overlook practicing self-discipline themselves.",
+        "hi": "क्या अन्य गृहस्थ लोग तपस्वियों की भोजनादि उपचार से सेवा करने के लिए स्वयं तप-कर्म करना ही भूल गए हैं?"
+      }
+    },
+    {
+      "num": 264,
+      "line1": "ஒன்னார்த் தெறலும் உவந்தாரை ஆக்கலும்",
+      "line2": "எண்ணின் தவத்தான் வரும்.",
+      "enLine1": "Destruction to his foes, to friends increase of joy,",
+      "enLine2": "The 'penitent' can cause, if this his thoughts employ.",
+      "hiLine1": "दुखदायी रिपु का दमन, प्रिय जन क उत्थान ।",
+      "hiLine2": "स्मरण मात्र से हो सके, तप के बल अम्लान ॥",
+      "general": "பகைவரை அழித்தலும் நண்பரை உயர்த்துதலும் ஆகிய செயல்கள், நினைத்த அளவிலேயே தவ வலிமையால் கைகூடும்.",
+      "en": "Both the destruction of foes and the exaltation of friends can be achieved simply by wishing it, through the power of penance.",
+      "hi": "तप के निर्मल बल से दुखदायी शत्रु का दमन और प्रियजनों का उत्थान केवल स्मरण मात्र से ही संभव हो सकता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒன்னார்த் <br>(Onnaarth)",
+          "ta": "பகைவரை",
+          "en": "Foes",
+          "hi": "दुखदायी रिपु का"
+        },
+        {
+          "no": 2,
+          "word": "தெறலும் <br>(Theralum)",
+          "ta": "அழித்தலும்",
+          "en": "Destruction",
+          "hi": "दमन"
+        },
+        {
+          "no": 3,
+          "word": "உவந்தாரை <br>(Uvandhaarai)",
+          "ta": "நண்பர்களை",
+          "en": "Friends",
+          "hi": "प्रियजन का"
+        },
+        {
+          "no": 4,
+          "word": "ஆக்கலும் <br>(Aakkalum)",
+          "ta": "உயர்த்தலும்",
+          "en": "Increase of joy / exaltation",
+          "hi": "उत्थान"
+        },
+        {
+          "no": 5,
+          "word": "எண்ணின் <br>(Ennin)",
+          "ta": "நினைத்த அளவில்",
+          "en": "If thoughts employ",
+          "hi": "स्मरण मात्र से"
+        },
+        {
+          "no": 6,
+          "word": "தவத்தான் <br>(Thavaththaan)",
+          "ta": "தவ வலிமையால்",
+          "en": "By penance",
+          "hi": "तप के निर्मल बल से"
+        },
+        {
+          "no": 7,
+          "word": "வரும் <br>(Varum)",
+          "ta": "உண்டாகும்",
+          "en": "Will come",
+          "hi": "हो सके"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒன்னார்த் தெறலும் உவந்தாரை ஆக்கலும்",
+          "line2": "எண்ணின் தவத்தான் வரும்."
+        },
+        "en": {
+          "line1": "Destruction to his foes, to friends increase of joy,",
+          "line2": "The 'penitent' can cause, if this his thoughts employ."
+        },
+        "hi": {
+          "line1": "दुखदायी रिपु का दमन, प्रिय जन क उत्थान ।",
+          "line2": "स्मरण मात्र से हो सके, तप के बल अम्लान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Onnaarth Theralum Uvandhaarai Aakkalum",
+            "line2": "Ennin Thavaththaan Varum."
+          },
+          "hi": {
+            "line1": "ऒन्नार्त् तॆरलुम् उवन्दारै आक्कलुम्",
+            "line2": "एण्णिन् तवत्तान् वरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைவரை அழித்தலும் நண்பரை உயர்த்துதலும் ஆகிய செயல்கள், நினைத்த அளவிலேயே தவ வலிமையால் கைகூடும்.",
+        "en": "Deep spiritual discipline carries such inner power that a true ascetic's mere intent can overcome opposition and uplift loved ones.",
+        "hi": "तप के निर्मल बल से दुखदायी शत्रु का दमन और प्रियजनों का उत्थान केवल स्मरण मात्र से ही संभव हो सकता है।"
+      }
+    },
+    {
+      "num": 265,
+      "line1": "வேண்டிய வேண்டியாங்கு எய்தலால் செய்தவம்",
+      "line2": "ஈண்டு முயலப் படும்.",
+      "enLine1": "That what they wish may, as they wish, be won,",
+      "enLine2": "By men on earth are works of painful 'penance' done.",
+      "hiLine1": "तप से सब कुछ प्राप्य हैं, जो चाहे जिस काल ।",
+      "hiLine2": "इससे तप-साधन यहाँ, करना है तत्काल ॥",
+      "general": "விரும்பிய பயன்களை விரும்பியவாறே பெற முடிவதால், இவ்வுலகத்தில் செய்யத்தக்க தவம் முயற்சியுடன் செய்யப்படுகிறது.",
+      "en": "Because whatever is desired can be attained just as desired, penance is earnestly practiced here on earth.",
+      "hi": "तप के द्वारा मनुष्य जिस समय जो कुछ चाहता है, वह सब प्राप्त कर सकता है; इसलिए इस संसार में तत्काल तप-साधन करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வேண்டிய <br>(Vendiya)",
+          "ta": "விரும்பியவற்றை",
+          "en": "What they wish",
+          "hi": "जो चाहे"
+        },
+        {
+          "no": 2,
+          "word": "வேண்டியாங்கு <br>(Vendiyaangu)",
+          "ta": "விரும்பியபடியே",
+          "en": "As they wish",
+          "hi": "जिस काल में"
+        },
+        {
+          "no": 3,
+          "word": "எய்தலால் <br>(Eydhalaal)",
+          "ta": "அடைய முடிவதால்",
+          "en": "Because won",
+          "hi": "सब कुछ प्राप्य है"
+        },
+        {
+          "no": 4,
+          "word": "செய்தவம் <br>(Seydhavam)",
+          "ta": "செய்யத்தக்க தவம்",
+          "en": "Works of penance",
+          "hi": "तप-साधन"
+        },
+        {
+          "no": 5,
+          "word": "ஈண்டு <br>(Eendu)",
+          "ta": "இவ்வுலகில்",
+          "en": "On earth / here",
+          "hi": "यहाँ"
+        },
+        {
+          "no": 6,
+          "word": "முயலப் <br>(Muyalap)",
+          "ta": "முயன்று செய்யப்",
+          "en": "Practiced",
+          "hi": "तत्काल करना"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "படும்",
+          "en": "Is",
+          "hi": "है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வேண்டிய வேண்டியாங்கு எய்தலால் செய்தவம்",
+          "line2": "ஈண்டு முயலப் படும்."
+        },
+        "en": {
+          "line1": "That what they wish may, as they wish, be won,",
+          "line2": "By men on earth are works of painful 'penance' done."
+        },
+        "hi": {
+          "line1": "तप से सब कुछ प्राप्य हैं, जो चाहे जिस काल ।",
+          "line2": "इससे तप-साधन यहाँ, करना है तत्काल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vendiya Vendiyaangu Eydhalaal Seydhavam",
+            "line2": "Eendu Muyalap Padum."
+          },
+          "hi": {
+            "line1": "वेण्डिय वेण्डियांगु एय्दलाल् सॆय्दवम्",
+            "line2": "ईण्डु मुयलप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "விரும்பிய பயன்களை விரும்பியவாறே பெற முடிவதால், இவ்வுலகத்தில் செய்யத்தக்க தவம் முயற்சியுடன் செய்யப்படுகிறது.",
+        "en": "People devote themselves to rigorous self-discipline because it unlocks the power to fulfill noble aspirations.",
+        "hi": "तप के द्वारा मनुष्य जिस समय जो कुछ चाहता है, वह सब प्राप्त कर सकता है; इसलिए इस संसार में तत्काल तप-साधन करना चाहिए।"
+      }
+    },
+    {
+      "num": 266,
+      "line1": "தவஞ்செய்வார் தங்கருமம் செய்வார் மற்றல்லார்",
+      "line2": "அவஞ்செய்வார் ஆசையுட் பட்டு.",
+      "enLine1": "Who works of 'penance' do, their end attain,",
+      "enLine2": "Others, in passion's net ensnared, toil but in vain.",
+      "hiLine1": "वही पुरुष कृतकृत्य है, जो करता तप-कर्म ।",
+      "hiLine2": "करें कामवश अन्य सब, स्वहानिकारक कर्म ॥",
+      "general": "தவம் செய்பவர்களே தமக்குரிய கடமையைச் செய்பவர்கள் ஆவர்; மற்றவர்கள் ஆசை வலையில் அகப்பட்டு வீண் செயல்களைச் செய்பவர்களே ஆவர்.",
+      "en": "Those who perform penance accomplish their true purpose; all others, ensnared by desire, toil in vain.",
+      "hi": "जो व्यक्ति तप-कर्म करता है, वास्तव में वही कृतकृत्य (सफल) होता है; अन्य सभी लोग तो कामनाओं के वश में होकर अपनी हानि करने वाले व्यर्थ कर्म करते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தவஞ்செய்வார் <br>(Thavanjeyvaar)",
+          "ta": "தவம் செய்பவர்",
+          "en": "Who do penance",
+          "hi": "जो तप-कर्म करता है"
+        },
+        {
+          "no": 2,
+          "word": "தங்கருமம் <br>(Thangarumam)",
+          "ta": "தமது கடமையைச்",
+          "en": "Their true end",
+          "hi": "कृतकृत्य"
+        },
+        {
+          "no": 3,
+          "word": "செய்வார் <br>(Seyvaar)",
+          "ta": "செய்பவர் ஆவர்",
+          "en": "Attain",
+          "hi": "होता है"
+        },
+        {
+          "no": 4,
+          "word": "மற்றல்லார் <br>(Matrallaar)",
+          "ta": "அவரல்லாத மற்றவர்",
+          "en": "Others",
+          "hi": "अन्य सब"
+        },
+        {
+          "no": 5,
+          "word": "அவஞ்செய்வார் <br>(Avanjeyvaar)",
+          "ta": "வீண் செயல் செய்பவர்",
+          "en": "Toil in vain",
+          "hi": "स्वहानिकारक कर्म करते हैं"
+        },
+        {
+          "no": 6,
+          "word": "ஆசையுள் <br>(Aasaiyul)",
+          "ta": "ஆசை வலையில்",
+          "en": "In passion's net",
+          "hi": "कामवश"
+        },
+        {
+          "no": 7,
+          "word": "பட்டு <br>(Pattu)",
+          "ta": "அகப்பட்டு",
+          "en": "Ensnared",
+          "hi": "पड़कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தவஞ்செய்வார் தங்கருமம் செய்வார் மற்றல்லார்",
+          "line2": "அவஞ்செய்வார் ஆசையுட் பட்டு."
+        },
+        "en": {
+          "line1": "Who works of 'penance' do, their end attain,",
+          "line2": "Others, in passion's net ensnared, toil but in vain."
+        },
+        "hi": {
+          "line1": "वही पुरुष कृतकृत्य है, जो करता तप-कर्म ।",
+          "line2": "करें कामवश अन्य सब, स्वहानिकारक कर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thavanjeyvaar Thangarumam Seyvaar Matrallaar",
+            "line2": "Avanjeyvaar Aasaiyul Pattu."
+          },
+          "hi": {
+            "line1": "तवञ्जॆय्वार् तंगरुमम् सॆय्वार् मत्रल्लार्",
+            "line2": "अवञ्जॆय्वार् आसैयुळ् पट्टु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தவம் செய்பவர்களே தமக்குரிய கடமையைச் செய்பவர்கள் ஆவர்; மற்றவர்கள் ஆசை வலையில் அகப்பட்டு வீண் செயல்களைச் செய்பவர்களே ஆவர்.",
+        "en": "Only those who practice self-mastery truly fulfill life's purpose; everyone else stays trapped in endless, fruitless cravings.",
+        "hi": "जो व्यक्ति तप-कर्म करता है, वास्तव में वही कृतकृत्य (सफल) होता है; अन्य सभी लोग तो कामनाओं के वश में होकर अपनी हानि करने वाले व्यर्थ कर्म करते हैं।"
+      }
+    },
+    {
+      "num": 267,
+      "line1": "சுடச்சுடரும் பொன்போல் ஒளிவிடும் துன்பம்",
+      "line2": "சுடச்சுட நோற்கிற் பவர்க்கு.",
+      "enLine1": "The hotter glows the fining fire, the gold the brighter shines ;",
+      "enLine2": "The pain of penitence, like fire, the soul of man refines.",
+      "hiLine1": "तप तप कर ज्यों स्वर्ण की, होती निर्मल कान्ति ।",
+      "hiLine2": "तपन ताप से ही तपी, चमक उठें उस भाँति ॥",
+      "general": "நெருப்பிலிட்டுச் சுடச்சுடப் பொன் ஒளிவிடுவது போல, தவத் துன்பம் வருத்தவருத்தத் தவம் செய்பவருக்கு ஞான ஒளி மிகும்.",
+      "en": "Just as gold shines brighter the more it is heated in fire, so spiritual lustre grows brighter in those who endure suffering in penance.",
+      "hi": "जिस प्रकार आग में तप-तप कर सोने की चमक और भी निर्मल हो जाती है, उसी प्रकार तपस्या के ताप से ही तपस्वी भी चमक उठते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சுடச்சுடரும் <br>(Sudachchudarum)",
+          "ta": "நெருப்பில் சுடச்சுட",
+          "en": "Hotter glows the fire",
+          "hi": "तप-तप कर"
+        },
+        {
+          "no": 2,
+          "word": "பொன்போல் <br>(Ponbol)",
+          "ta": "பொன்னைப் போல",
+          "en": "Like gold",
+          "hi": "स्वर्ण की भाँति"
+        },
+        {
+          "no": 3,
+          "word": "ஒளிவிடும் <br>(Olividum)",
+          "ta": "ஒளி வீசும்",
+          "en": "Shines brighter",
+          "hi": "निर्मल कांति चमक उठे"
+        },
+        {
+          "no": 4,
+          "word": "துன்பம் <br>(Thunbam)",
+          "ta": "துன்பம்",
+          "en": "Pain",
+          "hi": "ताप से"
+        },
+        {
+          "no": 5,
+          "word": "சுடச்சுட <br>(Sudachchuda)",
+          "ta": "வருத்த வருத்த",
+          "en": "Refines / burns",
+          "hi": "तपन से ही"
+        },
+        {
+          "no": 6,
+          "word": "நோற்கிற் <br>(Norkir)",
+          "ta": "தவம் செய்கிற",
+          "en": "Penitence",
+          "hi": "तप करने वाले"
+        },
+        {
+          "no": 7,
+          "word": "பவர்க்கு <br>(Pavarkku)",
+          "ta": "வர்களுக்கு",
+          "en": "To those who",
+          "hi": "तपस्वी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சுடச்சுடரும் பொன்போல் ஒளிவிடும் துன்பம்",
+          "line2": "சுடச்சுட நோற்கிற் பவர்க்கு."
+        },
+        "en": {
+          "line1": "The hotter glows the fining fire, the gold the brighter shines ;",
+          "line2": "The pain of penitence, like fire, the soul of man refines."
+        },
+        "hi": {
+          "line1": "तप तप कर ज्यों स्वर्ण की, होती निर्मल कान्ति ।",
+          "line2": "तपन ताप से ही तपी, चमक उठें उस भाँति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sudachchudarum Ponbol Olividum Thunbam",
+            "line2": "Sudachchuda Norkir Pavarkku."
+          },
+          "hi": {
+            "line1": "सुडच्चुडरुम् पॊन्बोल् ऒळिविडुम् तुन्बम्",
+            "line2": "सुडच्चुड नोर्किर् पवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நெருப்பிலிட்டுச் சுடச்சுடப் பொன் ஒளிவிடுவது போல, தவத் துன்பம் வருத்தவருத்தத் தவம் செய்பவருக்கு ஞான ஒளி மிகும்.",
+        "en": "Just as intense heat purifies gold and makes it gleam, enduring hardship with discipline refines and strengthens the human spirit.",
+        "hi": "जिस प्रकार आग में तप-तप कर सोने की चमक और भी निर्मल हो जाती है, उसी प्रकार तपस्या के ताप से ही तपस्वी भी चमक उठते हैं।"
+      }
+    },
+    {
+      "num": 268,
+      "line1": "தன்னுயிர் தானறப் பெற்றானை ஏனைய",
+      "line2": "மன்னுயிர் எல்லாம் தொழும்.",
+      "enLine1": "Who gains himself in utter self-control,",
+      "enLine2": "Him worships every other living soul.",
+      "hiLine1": "आत्म-बोध जिनको हुआ, करके वश निज जीव ।",
+      "hiLine2": "उनको करते वंदना, शेष जगत के जीव ॥",
+      "general": "தன் உயிரைத் தன்னுடைய பற்றற்ற நிலையாகப் பெற்றவனை, உலகிலுள்ள மற்ற எல்லா உயிர்களும் வணங்கும்.",
+      "en": "All other living beings will worship him who has gained complete mastery over his own soul.",
+      "hi": "जिन्होंने अपने मन और जीव को वश में करके आत्म-बोध प्राप्त कर लिया है, संसार के शेष सभी जीव उनकी वंदना करते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தன்னுயிர் <br>(Thannuyir)",
+          "ta": "தன் உயிரை",
+          "en": "Himself / his soul",
+          "hi": "निज जीव को"
+        },
+        {
+          "no": 2,
+          "word": "தானறப் <br>(Thaanarap)",
+          "ta": "தான் அறப் (தற்செருக்கு நீங்க)",
+          "en": "In utter self-control",
+          "hi": "वश करके आत्म-बोध"
+        },
+        {
+          "no": 3,
+          "word": "பெற்றானை <br>(Petraanai)",
+          "ta": "பெற்றவனை",
+          "en": "Who gains",
+          "hi": "जिनको हुआ"
+        },
+        {
+          "no": 4,
+          "word": "ஏனைய <br>(Enaiya)",
+          "ta": "மற்ற",
+          "en": "Every other",
+          "hi": "शेष जगत के"
+        },
+        {
+          "no": 5,
+          "word": "மன்னுயிர் <br>(Mannuyir)",
+          "ta": "நிலைபெற்ற உயிர்கள்",
+          "en": "Living soul",
+          "hi": "जीव"
+        },
+        {
+          "no": 6,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாம்",
+          "en": "All",
+          "hi": "सभी"
+        },
+        {
+          "no": 7,
+          "word": "தொழும் <br>(Thozhum)",
+          "ta": "வணங்கும்",
+          "en": "Worships",
+          "hi": "वंदना करते हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தன்னுயிர் தானறப் பெற்றானை ஏனைய",
+          "line2": "மன்னுயிர் எல்லாம் தொழும்."
+        },
+        "en": {
+          "line1": "Who gains himself in utter self-control,",
+          "line2": "Him worships every other living soul."
+        },
+        "hi": {
+          "line1": "आत्म-बोध जिनको हुआ, करके वश निज जीव ।",
+          "line2": "उनको करते वंदना, शेष जगत के जीव ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thannuyir Thaanarap Petraanai Enaiya",
+            "line2": "Mannuyir Ellaam Thozhum."
+          },
+          "hi": {
+            "line1": "तन्नुयिर् तानरप् पेत्रानै एनैय",
+            "line2": "मन्नुयिर् एल्लाम् तॊऴुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன் உயிரைத் தன்னுடைய பற்றற்ற நிலையாகப் பெற்றவனை, உலகிலுள்ள மற்ற எல்லா உயிர்களும் வணங்கும்.",
+        "en": "Anyone who conquers ego and achieves complete self-mastery naturally commands the reverence of all living beings.",
+        "hi": "जिन्होंने अपने मन और जीव को वश में करके आत्म-बोध प्राप्त कर लिया है, संसार के शेष सभी जीव उनकी वंदना करते हैं।"
+      }
+    },
+    {
+      "num": 269,
+      "line1": "கூற்றம் குதித்தலும் கைகூடும் நோற்றலின்",
+      "line2": "ஆற்றல் தலைப்பட் டவர்க்கு.",
+      "enLine1": "E'en over death the victory he may gain,",
+      "enLine2": "If power by penance won his soul obtain.",
+      "hiLine1": "जिस तपसी को प्राप्त है, तप की शक्ति महान ।",
+      "hiLine2": "यम पर भी उसकी विजय, संभव है तू जान ॥",
+      "general": "தவ வலிமையால் பெற்ற ஆற்றலை உடையவர்களுக்கு, எமனையும் வென்று கடப்பதும் கைகூடும்.",
+      "en": "Even conquering death becomes possible for those who have attained the power born of penance.",
+      "hi": "जिस तपस्वी को तपस्या की महान शक्ति प्राप्त हो जाती है, उसके लिए यमराज (मृत्यु) पर भी विजय पा लेना संभव है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கூற்றம் <br>(Kootram)",
+          "ta": "எமனை",
+          "en": "Death",
+          "hi": "यम पर भी"
+        },
+        {
+          "no": 2,
+          "word": "குதித்தலும் <br>(Kudhiththalum)",
+          "ta": "வென்று கடத்தலும்",
+          "en": "Victory over",
+          "hi": "विजय"
+        },
+        {
+          "no": 3,
+          "word": "கைகூடும் <br>(Kaikoodum)",
+          "ta": "கைகூடும்",
+          "en": "May gain / possible",
+          "hi": "संभव है जान"
+        },
+        {
+          "no": 4,
+          "word": "நோற்றலின் <br>(Nortralin)",
+          "ta": "தவத்தால் வரும்",
+          "en": "By penance won",
+          "hi": "तप की"
+        },
+        {
+          "no": 5,
+          "word": "ஆற்றல் <br>(Aatral)",
+          "ta": "வலிமையை",
+          "en": "Power",
+          "hi": "महान शक्ति"
+        },
+        {
+          "no": 6,
+          "word": "தலைப்பட் <br>(Thalaippat)",
+          "ta": "அடைந்",
+          "en": "Obtaining",
+          "hi": "प्राप्त है"
+        },
+        {
+          "no": 7,
+          "word": "டவர்க்கு <br>(Davarkku)",
+          "ta": "தவர்களுக்கு",
+          "en": "To those who",
+          "hi": "जिस तपसी को"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கூற்றம் குதித்தலும் கைகூடும் நோற்றலின்",
+          "line2": "ஆற்றல் தலைப்பட் டவர்க்கு."
+        },
+        "en": {
+          "line1": "E'en over death the victory he may gain,",
+          "line2": "If power by penance won his soul obtain."
+        },
+        "hi": {
+          "line1": "जिस तपसी को प्राप्त है, तप की शक्ति महान ।",
+          "line2": "यम पर भी उसकी विजय, संभव है तू जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kootram Kudhiththalum Kaikoodum Nortralin",
+            "line2": "Aatral Thalaippat Davarkku."
+          },
+          "hi": {
+            "line1": "कूत्रम् कुदित्तलुम् कैकूडुम् नोत्रलिन्",
+            "line2": "आत्रल् तलैप्पड् डवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தவ வலிமையால் பெற்ற ஆற்றலை உடையவர்களுக்கு, எமனையும் வென்று கடப்பதும் கைகூடும்.",
+        "en": "Those who attain the spiritual strength of deep penance can overcome even the fear and power of death itself.",
+        "hi": "जिस तपस्वी को तपस्या की महान शक्ति प्राप्त हो जाती है, उसके लिए यमराज (मृत्यु) पर भी विजय पा लेना संभव है।"
+      }
+    },
+    {
+      "num": 270,
+      "line1": "இலர்பலர் ஆகிய காரணம் நோற்பார்",
+      "line2": "சிலர்பலர் நோலா தவர்.",
+      "enLine1": "The many all things lack ! The cause is plain ;",
+      "enLine2": "The 'penitents' are few. The many shun such pain.",
+      "hiLine1": "निर्धन जन-गणना अधिक, इसका कौन निदान ।",
+      "hiLine2": "तप नहिं करते बहुत जन, कम हैं तपोनिधान ॥",
+      "general": "உலகில் அறிவு முதலிய பேறுகள் இல்லாதவர் பலராக இருப்பதற்குக் காரணம், தவம் செய்வோர் சிலராகவும் செய்யாதோர் பலராகவும் இருப்பதே ஆகும்.",
+      "en": "The reason why many people are destitute of true wealth is that those who practice penance are few, while those who do not are many.",
+      "hi": "संसार में निर्धन लोगों की संख्या अधिक होने का क्या कारण है? यही कि बहुत से लोग तप नहीं करते और तपोनिधान (तपस्वी) लोग बहुत कम हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இலர்பலர் <br>(Ilarpalar)",
+          "ta": "பேறு இல்லாதவர் பலர்",
+          "en": "Many all things lack",
+          "hi": "निर्धन जन अधिक"
+        },
+        {
+          "no": 2,
+          "word": "ஆகிய <br>(Aagiya)",
+          "ta": "ஆனதற்கு",
+          "en": "Being",
+          "hi": "होने का"
+        },
+        {
+          "no": 3,
+          "word": "காரணம் <br>(Kaaranam)",
+          "ta": "காரணம்",
+          "en": "Cause",
+          "hi": "कौन निदान (कारण)"
+        },
+        {
+          "no": 4,
+          "word": "நோற்பார் <br>(Norpaar)",
+          "ta": "தவம் செய்வோர்",
+          "en": "Penitents",
+          "hi": "तपोनिधान"
+        },
+        {
+          "no": 5,
+          "word": "சிலர் <br>(Silar)",
+          "ta": "சிலரே",
+          "en": "Are few",
+          "hi": "कम हैं"
+        },
+        {
+          "no": 6,
+          "word": "பலர் <br>(Palar)",
+          "ta": "பலர்",
+          "en": "Many",
+          "hi": "बहुत जन"
+        },
+        {
+          "no": 7,
+          "word": "நோலாதவர் <br>(Nolaadhavar)",
+          "ta": "தவம் செய்யாதவர்",
+          "en": "Shun such pain",
+          "hi": "तप नहीं करते"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இலர்பலர் ஆகிய காரணம் நோற்பார்",
+          "line2": "சிலர்பலர் நோலா தவர்."
+        },
+        "en": {
+          "line1": "The many all things lack ! The cause is plain ;",
+          "line2": "The 'penitents' are few. The many shun such pain."
+        },
+        "hi": {
+          "line1": "निर्धन जन-गणना अधिक, इसका कौन निदान ।",
+          "line2": "तप नहिं करते बहुत जन, कम हैं तपोनिधान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ilarpalar Aagiya Kaaranam Norpaar",
+            "line2": "Silarpalar Nolaa Dhavar."
+          },
+          "hi": {
+            "line1": "इलर्पलर् आगिय कारणम् नोर्पार्",
+            "line2": "सिलर्पलर् नोला दवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உலகில் அறிவு முதலிய பேறுகள் இல்லாதவர் பலராக இருப்பதற்குக் காரணம், தவம் செய்வோர் சிலராகவும் செய்யாதோர் பலராகவும் இருப்பதே ஆகும்.",
+        "en": "So many people lack true fulfillment simply because very few are willing to embrace the discipline it requires.",
+        "hi": "संसार में निर्धन लोगों की संख्या अधिक होने का क्या कारण है? यही कि बहुत से लोग तप नहीं करते और तपोनिधान (तपस्वी) लोग बहुत कम हैं।"
+      }
+    }
+  ]
+}

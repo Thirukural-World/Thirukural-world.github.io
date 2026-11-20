@@ -1,0 +1,930 @@
+{
+  "chapterNum": 88,
+  "nameTa": "பகைத்திறந்தெரிதல்",
+  "nameEn": "Knowing the Quality of Hate",
+  "nameHi": "शत्रु-शक्ति का ज्ञान",
+  "paal": "பொருட்பால்",
+  "iyal": "அங்கவியல்",
+  "kurals": [
+    {
+      "num": 871,
+      "line1": "பகையென்னும் பண்பி லதனை யொருவ",
+      "line2": "னகையேயும் வேண்டற்பாற் றன்று.",
+      "enLine1": "For Hate, that ill-conditioned thing, not e'en in jest,",
+      "enLine2": "Let any evil longing rule your breast.",
+      "hiLine1": "रिपुता नामक है वही, असभ्यता-अवगाह ।",
+      "hiLine2": "हँसी-मज़े में भी मनुज, उसकी करे न चाह ॥",
+      "general": "பகை என்று சொல்லப்படும் நற்பண்பில்லாத தீய குணத்தை, ஒருவர் விளையாட்டாகக் கூட விரும்பத் தக்கதன்று.",
+      "en": "That ill-natured thing called hatred should never be desired by anyone, not even as a joke.",
+      "hi": "शत्रुता नामक जो असभ्यता और दुर्गुण है, मनुष्य को हँसी-मज़ाक में भी उसकी चाह नहीं करनी चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பகை என்னும் <br>(Pagai ennum)",
+          "ta": "பகை என்று சொல்லப்படும்",
+          "en": "For Hate",
+          "hi": "रिपुता नामक"
+        },
+        {
+          "no": 2,
+          "word": "பண்பு இலதனை <br>(Panbu iladhanai)",
+          "ta": "பண்பற்ற தன்மையை",
+          "en": "Ill-conditioned thing",
+          "hi": "असभ्यता-अवगाह"
+        },
+        {
+          "no": 3,
+          "word": "ஒருவன் <br>(Oruvan)",
+          "ta": "ஒருவன்",
+          "en": "One",
+          "hi": "मनुज"
+        },
+        {
+          "no": 4,
+          "word": "நகையேயும் <br>(Nagaiyeyum)",
+          "ta": "விளையாட்டாகவும்",
+          "en": "Not e'en in jest",
+          "hi": "हँसी-मज़े में भी"
+        },
+        {
+          "no": 5,
+          "word": "வேண்டற்பாற்று <br>(Vendarpaatru)",
+          "ta": "விரும்பத் தக்கது",
+          "en": "Let longing rule",
+          "hi": "उसकी चाह"
+        },
+        {
+          "no": 6,
+          "word": "அன்று <br>(Andru)",
+          "ta": "அல்ல",
+          "en": "Never",
+          "hi": "करे न"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பு",
+          "en": "Goodwill",
+          "hi": "सद्भाव"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பகையென்னும் பண்பி லதனை யொருவ",
+          "line2": "னகையேயும் வேண்டற்பாற் றன்று."
+        },
+        "en": {
+          "line1": "For Hate, that ill-conditioned thing, not e'en in jest,",
+          "line2": "Let any evil longing rule your breast."
+        },
+        "hi": {
+          "line1": "रिपुता नामक है वही, असभ्यता-अवगाह ।",
+          "line2": "हँसी-मज़े में भी मनुज, उसकी करे न चाह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pagaiyennum Panpi Ladhanai Yoruva",
+            "line2": "Nagaiyeyum Vendarpaar Ranru."
+          },
+          "hi": {
+            "line1": "पगैयॆन्नुम् पण्बि लदनै यॊरुव",
+            "line2": "नगैयेयुम् वेण्डर्पार रन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகை என்று சொல்லப்படும் நற்பண்பில்லாத தீய குணத்தை, ஒருவர் விளையாட்டாகக் கூட விரும்பத் தக்கதன்று.",
+        "en": "Hostility is so destructive that you shouldn't entertain it even in jest.",
+        "hi": "शत्रुता नामक जो असभ्यता और दुर्गुण है, मनुष्य को हँसी-मज़ाक में भी उसकी चाह नहीं करनी चाहिए।"
+      }
+    },
+    {
+      "num": 872,
+      "line1": "வில்லே ருழவர் பகைகொளினுங் கொள்ளற்க",
+      "line2": "சொல்லே ருழவர் பகை.",
+      "enLine1": "Although you hate incur of those whose ploughs are bows,",
+      "enLine2": "Make not the men whose ploughs are words your foes !",
+      "hiLine1": "धनु-हल-धारी कृषक से, करो भले ही वैर ।",
+      "hiLine2": "वाणी-हल-धर कृषक से, करना छोड़ो वैर ॥",
+      "general": "வில்லை ஏராகக் கொண்டு உழும் வீரர்களின் பகையைக் கொண்டாலும் கொள்ளலாம்; ஆனால் சொல்லை ஏராகக் கொண்டு உழும் அறிஞர்களின் பகையைக் கொள்ளக் கூடாது.",
+      "en": "Even if you incur the enmity of warriors whose plow is the bow, never make enemies of wise thinkers whose plow is the word.",
+      "hi": "धनुष रूपी हल चलाने वाले योद्धाओं से भले ही वैर कर लो, किन्तु वाणी रूपी हल चलाने वाले विद्वानों से कभी वैर मत करो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வில் ஏர் உழவர் <br>(Vil er uzhavar)",
+          "ta": "வில்லை ஏராக உடைய வீரரின்",
+          "en": "Whose ploughs are bows",
+          "hi": "धनु-हल-धारी कृषक से"
+        },
+        {
+          "no": 2,
+          "word": "பகை கொளினும் <br>(Pagai kolinum)",
+          "ta": "பகை கொண்டாலும்",
+          "en": "Although you hate incur",
+          "hi": "करो भले ही वैर"
+        },
+        {
+          "no": 3,
+          "word": "கொள்ளற்க <br>(Kollarka)",
+          "ta": "கொள்ளாதே",
+          "en": "Make not your foes",
+          "hi": "करना छोड़ो वैर"
+        },
+        {
+          "no": 4,
+          "word": "சொல் ஏர் <br>(Sol er)",
+          "ta": "சொல்லை ஏராக உடைய",
+          "en": "Whose ploughs are words",
+          "hi": "वाणी-हल-धर"
+        },
+        {
+          "no": 5,
+          "word": "உழவர் <br>(Uzhavar)",
+          "ta": "புலவர்களின்",
+          "en": "The men",
+          "hi": "कृषक से"
+        },
+        {
+          "no": 6,
+          "word": "பகை <br>(Pagai)",
+          "ta": "பகையை",
+          "en": "Hate",
+          "hi": "वैर"
+        },
+        {
+          "no": 7,
+          "word": "எச்சரிக்கை <br>(Echcharikkai)",
+          "ta": "எச்சரிக்கை",
+          "en": "Caution",
+          "hi": "सावधानी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வில்லே ருழவர் பகைகொளினுங் கொள்ளற்க",
+          "line2": "சொல்லே ருழவர் பகை."
+        },
+        "en": {
+          "line1": "Although you hate incur of those whose ploughs are bows,",
+          "line2": "Make not the men whose ploughs are words your foes !"
+        },
+        "hi": {
+          "line1": "धनु-हल-धारी कृषक से, करो भले ही वैर ।",
+          "line2": "वाणी-हल-धर कृषक से, करना छोड़ो वैर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ville Ruzhavar Pagaigolinung Kollarka",
+            "line2": "Solle Ruzhavar Pagai."
+          },
+          "hi": {
+            "line1": "विल्ले रुऴवर् पगैगॊळिनुङ् कॊळ्ळर्क",
+            "line2": "सॊल्ले रुऴवर् पगै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வில்லை ஏராகக் கொண்டு உழும் வீரர்களின் பகையைக் கொண்டாலும் கொள்ளலாம்; ஆனால் சொல்லை ஏராகக் கொண்டு உழும் அறிஞர்களின் பகையைக் கொள்ளக் கூடாது.",
+        "en": "You might survive making enemies of soldiers, but never alienate the writers, speakers, and thinkers who shape public opinion.",
+        "hi": "धनुष रूपी हल चलाने वाले योद्धाओं से भले ही वैर कर लो, किन्तु वाणी रूपी हल चलाने वाले विद्वानों से कभी वैर मत करो।"
+      }
+    },
+    {
+      "num": 873,
+      "line1": "ஏமுற் றவரினு மேழை தமியனாய்ப்",
+      "line2": "பல்லார் பகைகொள் பவன்.",
+      "enLine1": "Than men of mind diseased, a wretch more utterly forlorn,",
+      "enLine2": "Is he who stands alone, object of many foeman's scorn.",
+      "hiLine1": "एकाकी रह जो करे, बहुत जनों से वैर ।",
+      "hiLine2": "पागल से बढ़ कर रहा, बुद्धिहीन वह, खैर ॥",
+      "general": "தனிமையாய் நின்று பலருடைய பகையைத் தேடிக்கொள்பவன், பித்துப் பிடித்தவரை விடவும் அறிவற்ற பேதையாவான்.",
+      "en": "One who stands alone without allies and yet makes enemies of many is even more foolish than a madman.",
+      "hi": "जो व्यक्ति अकेला रहकर भी बहुत से लोगों से वैर मोल लेता है, वह पागल से भी बढ़कर बुद्धिहीन और दयनीय है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஏமுற்றவரினும் <br>(Emutravarinum)",
+          "ta": "பித்துப் பிடித்தவரை விடவும்",
+          "en": "Than men of mind diseased",
+          "hi": "पागल से बढ़ कर"
+        },
+        {
+          "no": 2,
+          "word": "ஏழை <br>(Ezhai)",
+          "ta": "அறிவற்றவன்",
+          "en": "A wretch more forlorn",
+          "hi": "बुद्धिहीन वह"
+        },
+        {
+          "no": 3,
+          "word": "தமியனாய் <br>(Thamiyanaay)",
+          "ta": "தனித்தவனாய் நின்று",
+          "en": "Stands alone",
+          "hi": "एकाकी रह"
+        },
+        {
+          "no": 4,
+          "word": "பல்லார் <br>(Pallaar)",
+          "ta": "பலருடன்",
+          "en": "Many foeman's",
+          "hi": "बहुत जनों से"
+        },
+        {
+          "no": 5,
+          "word": "பகை <br>(Pagai)",
+          "ta": "பகைமையைக்",
+          "en": "Scorn",
+          "hi": "वैर"
+        },
+        {
+          "no": 6,
+          "word": "கொள்பவன் <br>(Kolbavan)",
+          "ta": "கொள்பவன்",
+          "en": "Who is",
+          "hi": "जो करे"
+        },
+        {
+          "no": 7,
+          "word": "தனிமை <br>(Thanimai)",
+          "ta": "தனிமை",
+          "en": "Solitude",
+          "hi": "अकेलापन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஏமுற் றவரினு மேழை தமியனாய்ப்",
+          "line2": "பல்லார் பகைகொள் பவன்."
+        },
+        "en": {
+          "line1": "Than men of mind diseased, a wretch more utterly forlorn,",
+          "line2": "Is he who stands alone, object of many foeman's scorn."
+        },
+        "hi": {
+          "line1": "एकाकी रह जो करे, बहुत जनों से वैर ।",
+          "line2": "पागल से बढ़ कर रहा, बुद्धिहीन वह, खैर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Emur Ravarinu Mezhai Thamiyanaayp",
+            "line2": "Pallaar Pagaigol Pavan."
+          },
+          "hi": {
+            "line1": "एमुर् रवरिनु मेऴै तमियनाय्प्",
+            "line2": "पल्लार् पगैगॊळ् पवन."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தனிமையாய் நின்று பலருடைய பகையைத் தேடிக்கொள்பவன், பித்துப் பிடித்தவரை விடவும் அறிவற்ற பேதையாவான்.",
+        "en": "Picking fights with everyone while having no allies in your corner is pure self-destructive folly.",
+        "hi": "जो व्यक्ति अकेला रहकर भी बहुत से लोगों से वैर मोल लेता है, वह पागल से भी बढ़कर बुद्धिहीन और दयनीय है।"
+      }
+    },
+    {
+      "num": 874,
+      "line1": "பகைநட்பாக் கொண்டொழுகும் பண்புடை யாளன்",
+      "line2": "றகைமைக்கட் டங்கிற் றுலகு.",
+      "enLine1": "The world secure on his dexterity depends,",
+      "enLine2": "Whose worthy rule can change his foes to friends.",
+      "hiLine1": "मित्र बना कर शत्रु को, जो करता व्यवहार ।",
+      "hiLine2": "महिमा पर उस सभ्य की, टिकता है संसार ॥",
+      "general": "பகைவரையும் நண்பராக்கிக்கொண்டு வாழும் நற்பண்புடையவனின் பெருமையில் இந்த உலகம் நிலைபெற்றிருக்கும்.",
+      "en": "The world rests securely upon the noble greatness of one who has the grace to turn enemies into friends.",
+      "hi": "जो सभ्य व्यक्ति शत्रुओं को भी मित्र बनाकर व्यवहार करता है, उसी की महिमा और योग्यता पर यह संसार टिका रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பகை <br>(Pagai)",
+          "ta": "பகைமையை",
+          "en": "Foes",
+          "hi": "शत्रु को"
+        },
+        {
+          "no": 2,
+          "word": "நட்பு ஆக்கி <br>(Natpu aakki)",
+          "ta": "நட்பாக மாற்றி",
+          "en": "Change to friends",
+          "hi": "मित्र बना कर"
+        },
+        {
+          "no": 3,
+          "word": "கொண்டு ஒழுகும் <br>(Kondu ozhugum)",
+          "ta": "நடக்கும்",
+          "en": "Whose rule",
+          "hi": "जो करता व्यवहार"
+        },
+        {
+          "no": 4,
+          "word": "பண்புடையாளன் <br>(Panbudaiyaalan)",
+          "ta": "நற்பண்புடையவனின்",
+          "en": "Worthy",
+          "hi": "उस सभ्य की"
+        },
+        {
+          "no": 5,
+          "word": "தகைமைக்கண் <br>(Thagaimaikkan)",
+          "ta": "பெருமையிடத்து",
+          "en": "Dexterity",
+          "hi": "महिमा पर"
+        },
+        {
+          "no": 6,
+          "word": "தங்கிற்று <br>(Thangitru)",
+          "ta": "நிலைபெற்றது",
+          "en": "Depends",
+          "hi": "टिकता है"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "संसार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பகைநட்பாக் கொண்டொழுகும் பண்புடை யாளன்",
+          "line2": "றகைமைக்கட் டங்கிற் றுலகு."
+        },
+        "en": {
+          "line1": "The world secure on his dexterity depends,",
+          "line2": "Whose worthy rule can change his foes to friends."
+        },
+        "hi": {
+          "line1": "मित्र बना कर शत्रु को, जो करता व्यवहार ।",
+          "line2": "महिमा पर उस सभ्य की, टिकता है संसार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pagainatpaak Kondozhugum Panpudai Yaalan",
+            "line2": "Ragaimaikkat Danggir Rulagu."
+          },
+          "hi": {
+            "line1": "पगैनट्पाक् कॊण्डॊऴुगुम् पण्बुडै याळन्",
+            "line2": "रगैमैक्कड् डङ्गिर रुल्गु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைவரையும் நண்பராக்கிக்கொண்டு வாழும் நற்பண்புடையவனின் பெருமையில் இந்த உலகம் நிலைபெற்றிருக்கும்.",
+        "en": "The stability of the world depends on leaders with the grace and skill to turn adversaries into allies.",
+        "hi": "जो सभ्य व्यक्ति शत्रुओं को भी मित्र बनाकर व्यवहार करता है, उसी की महिमा और योग्यता पर यह संसार टिका रहता है।"
+      }
+    },
+    {
+      "num": 875,
+      "line1": "தன்றுணை யின்றாற் பகையிரண்டாற் றானொருவ",
+      "line2": "னின்றுணையாக் கொள்கவற்றி னொன்று.",
+      "enLine1": "Without ally, who fights with twofold enemy o'ermatched,",
+      "enLine2": "Must render one of these a friend attached.",
+      "hiLine1": "अपना तो साथी नहीं, रिपु हैं दो, खुद एक ।",
+      "hiLine2": "तो उनमें से ले बना, उचित सहायक एक ॥",
+      "general": "தனக்குத் துணையாக யாரும் இல்லாதபோது பகைவர் இருவராக இருந்தால், தான் ஒருவனாக நின்று அவர்களுள் ஒருவரை இனிய துணையாக ஆக்கிக்கொள்ள வேண்டும்.",
+      "en": "When you have no ally and face two enemies alone, win one of them over as a helpful friend.",
+      "hi": "जब अपना कोई साथी न हो, स्वयं अकेले हों और शत्रु दो हों, तो उनमें से किसी एक को अपना उचित सहायक (मित्र) बना लेना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தன் துணை இன்றால் <br>(Than thunai indraal)",
+          "ta": "தனக்குத் துணை இல்லாதபோது",
+          "en": "Without ally",
+          "hi": "अपना तो साथी नहीं"
+        },
+        {
+          "no": 2,
+          "word": "பகை இரண்டு ஆல் <br>(Pagai irandu aal)",
+          "ta": "பகைவர் இருவரானால்",
+          "en": "Twofold enemy",
+          "hi": "रिपु हैं दो"
+        },
+        {
+          "no": 3,
+          "word": "தான் ஒருவன் <br>(Thaan oruvan)",
+          "ta": "தான் ஒருவனாய்",
+          "en": "Alone",
+          "hi": "खुद एक"
+        },
+        {
+          "no": 4,
+          "word": "இன் துணையாக <br>(In thunaiyaaga)",
+          "ta": "இனிய துணையாக",
+          "en": "A friend attached",
+          "hi": "उचित सहायक"
+        },
+        {
+          "no": 5,
+          "word": "கொள்க <br>(Kolka)",
+          "ta": "கொள்ள வேண்டும்",
+          "en": "Must render",
+          "hi": "ले बना"
+        },
+        {
+          "no": 6,
+          "word": "அவற்றின் <br>(Avatrin)",
+          "ta": "அவ்விருவரில்",
+          "en": "Of these",
+          "hi": "उनमें से"
+        },
+        {
+          "no": 7,
+          "word": "ஒன்று <br>(Ondru)",
+          "ta": "ஒருவரை",
+          "en": "One",
+          "hi": "एक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தன்றுணை யின்றாற் பகையிரண்டாற் றானொருவ",
+          "line2": "னின்றுணையாக் கொள்கவற்றி னொன்று."
+        },
+        "en": {
+          "line1": "Without ally, who fights with twofold enemy o'ermatched,",
+          "line2": "Must render one of these a friend attached."
+        },
+        "hi": {
+          "line1": "अपना तो साथी नहीं, रिपु हैं दो, खुद एक ।",
+          "line2": "तो उनमें से ले बना, उचित सहायक एक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thanrunai Yinraar Pagaiyirandaar Raanoruva",
+            "line2": "Ninrunaiyaak Kolkavatri Nonru."
+          },
+          "hi": {
+            "line1": "तन्दुणै यिन्द्रार् पगैयिरण्डार् रानॊरुव",
+            "line2": "निन्दुणैयाक् कॊळ्गवरि नॊन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தனக்குத் துணையாக யாரும் இல்லாதபோது பகைவர் இருவராக இருந்தால், தான் ஒருவனாக நின்று அவர்களுள் ஒருவரை இனிய துணையாக ஆக்கிக்கொள்ள வேண்டும்.",
+        "en": "If you're outnumbered two-to-one with no backup, peel off one opponent and make them your ally.",
+        "hi": "जब अपना कोई साथी न हो, स्वयं अकेले हों और शत्रु दो हों, तो उनमें से किसी एक को अपना उचित सहायक (मित्र) बना लेना चाहिए।"
+      }
+    },
+    {
+      "num": 876,
+      "line1": "தேறினுந் தேறா விடினு மழிவின்கட்",
+      "line2": "டேறான் பகாஅன் விடல்.",
+      "enLine1": "Whether you trust or not, in time of sore distress,",
+      "enLine2": "Questions of diff'rence or agreement cease to press.",
+      "hiLine1": "पूर्व-ज्ञात हो परख कर, अथवा हा अज्ञात् ।",
+      "hiLine2": "नाश-काल में छोड़ दो, शत्रु-मित्रता बात ॥",
+      "general": "ஒருவரை முன்பு நம்பியிருந்தாலும் நம்பாவிட்டாலும், தனக்கு அழிவு வரும் காலத்தில் அவரைப் பகைவனாகவோ நண்பனாகவோ பிரித்துப் பார்க்காமல் ஒதுக்கிவிட வேண்டும்.",
+      "en": "Whether you trusted someone or not, in a time of crisis do not rigidly treat them as friend or foe—stay neutral and cautious.",
+      "hi": "विपत्ति या नाश के समय पहले से परखे हुए हों या अनजान, दोनों ही स्थितियों में शत्रुता या मित्रता की बात छोड़कर तटस्थ हो जाना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தேறினும் <br>(Therinum)",
+          "ta": "நம்பியிருந்தாலும்",
+          "en": "Whether you trust",
+          "hi": "पूर्व-ज्ञात हो परख कर"
+        },
+        {
+          "no": 2,
+          "word": "தேறா விடினும் <br>(Theraa vidinum)",
+          "ta": "நம்பாவிட்டாலும்",
+          "en": "Or not",
+          "hi": "अथवा अज्ञात्"
+        },
+        {
+          "no": 3,
+          "word": "அழிவின்கண் <br>(Azhivinkan)",
+          "ta": "அழிவு வரும்போது",
+          "en": "Time of sore distress",
+          "hi": "नाश-काल में"
+        },
+        {
+          "no": 4,
+          "word": "தேறான் <br>(Theraan)",
+          "ta": "நம்பாமல்",
+          "en": "Agreement",
+          "hi": "मित्रता"
+        },
+        {
+          "no": 5,
+          "word": "பகாஅன் <br>(Pagaaan)",
+          "ta": "பகைக்காமல்",
+          "en": "Diff'rence",
+          "hi": "शत्रुता"
+        },
+        {
+          "no": 6,
+          "word": "விடல் <br>(Vidal)",
+          "ta": "விட்டுவிட வேண்டும்",
+          "en": "Cease to press",
+          "hi": "छोड़ दो"
+        },
+        {
+          "no": 7,
+          "word": "நடுநிலை <br>(Nadunilai)",
+          "ta": "நடுநிலை",
+          "en": "Neutrality",
+          "hi": "तटस्थता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தேறினுந் தேறா விடினு மழிவின்கட்",
+          "line2": "டேறான் பகாஅன் விடல்."
+        },
+        "en": {
+          "line1": "Whether you trust or not, in time of sore distress,",
+          "line2": "Questions of diff'rence or agreement cease to press."
+        },
+        "hi": {
+          "line1": "पूर्व-ज्ञात हो परख कर, अथवा हा अज्ञात् ।",
+          "line2": "नाश-काल में छोड़ दो, शत्रु-मित्रता बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Therinum Theraa Vidinum Azhivinkan",
+            "line2": "Theraan Pagaaan Vidal."
+          },
+          "hi": {
+            "line1": "तेरिनुन् तेरा विडिनु मऴिविन्गड्",
+            "line2": "डेरान् पगाअन् विडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவரை முன்பு நம்பியிருந்தாலும் நம்பாவிட்டாலும், தனக்கு அழிவு வரும் காலத்தில் அவரைப் பகைவனாகவோ நண்பனாகவோ பிரித்துப் பார்க்காமல் ஒதுக்கிவிட வேண்டும்.",
+        "en": "In a true crisis, set aside old labels of friend or foe—keep your distance and don't overcommit either way.",
+        "hi": "विपत्ति या नाश के समय पहले से परखे हुए हों या अनजान, दोनों ही स्थितियों में शत्रुता या मित्रता की बात छोड़कर तटस्थ हो जाना चाहिए।"
+      }
+    },
+    {
+      "num": 877,
+      "line1": "நோவற்க நொந்த தறியார்க்கு மேவற்க",
+      "line2": "மென்மை பகைவ ரகத்து.",
+      "enLine1": "To those who know them not, complain not of your woes;",
+      "enLine2": "Nor to your foeman's eyes infirmities disclose.",
+      "hiLine1": "दुःख न कह उस मित्र से, यदि खुद उसे न ज्ञात ।",
+      "hiLine2": "प्रकट न करना शत्रु से, कमज़ोरी की बात ॥",
+      "general": "நம் துன்பத்தை அறியாத நண்பர்களிடம் அதைச் சொல்லி வருந்தக் கூடாது; பகைவர்களிடமும் நம் மென்மையைக் காட்டக் கூடாது.",
+      "en": "Do not complain of your troubles to friends who do not already know them, and never show weakness before your enemies.",
+      "hi": "जिस मित्र को स्वतः तुम्हारे दुःख का ज्ञान न हो उससे अपना दुःख मत कहो, और शत्रु के सामने तो अपनी कमजोरी की बात कभी प्रकट मत करो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நோவற்க <br>(Novarka)",
+          "ta": "வருந்திக் கூறாதே",
+          "en": "Complain not of woes",
+          "hi": "दुःख न कह"
+        },
+        {
+          "no": 2,
+          "word": "நொந்தது அறியார்க்கு <br>(Nondhadhu ariyaarkku)",
+          "ta": "துன்பம் அறியாதவர்க்கு",
+          "en": "To those who know not",
+          "hi": "यदि खुद उसे न ज्ञात"
+        },
+        {
+          "no": 3,
+          "word": "மேவற்க <br>(Mevarka)",
+          "ta": "காட்டாதே",
+          "en": "Disclose not",
+          "hi": "प्रकट न करना"
+        },
+        {
+          "no": 4,
+          "word": "மென்மை <br>(Menmai)",
+          "ta": "எளிமையை (பலவீனத்தை)",
+          "en": "Infirmities",
+          "hi": "कमज़ोरी की बात"
+        },
+        {
+          "no": 5,
+          "word": "பகைவர் அகத்து <br>(Pagaivar agaththu)",
+          "ta": "பகைவர் இடத்தில்",
+          "en": "Foeman's eyes",
+          "hi": "शत्रु से"
+        },
+        {
+          "no": 6,
+          "word": "துன்பம் <br>(Thunbam)",
+          "ta": "துன்பம்",
+          "en": "Woes",
+          "hi": "दुःख"
+        },
+        {
+          "no": 7,
+          "word": "உறுதி <br>(Urudhi)",
+          "ta": "உறுதி",
+          "en": "Resolve",
+          "hi": "दृढ़ता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நோவற்க நொந்த தறியார்க்கு மேவற்க",
+          "line2": "மென்மை பகைவ ரகத்து."
+        },
+        "en": {
+          "line1": "To those who know them not, complain not of your woes;",
+          "line2": "Nor to your foeman's eyes infirmities disclose."
+        },
+        "hi": {
+          "line1": "दुःख न कह उस मित्र से, यदि खुद उसे न ज्ञात ।",
+          "line2": "प्रकट न करना शत्रु से, कमज़ोरी की बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Novarka Nondha Thariyaarkku Mevarka",
+            "line2": "Menmai Pagaiva Ragaththu."
+          },
+          "hi": {
+            "line1": "नोवर्क नॊन्द दरियार्क्कु मेवर्क",
+            "line2": "मॆन्मै पगैव रगत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நம் துன்பத்தை அறியாத நண்பர்களிடம் அதைச் சொல்லி வருந்தக் கூடாது; பகைவர்களிடமும் நம் மென்மையைக் காட்டக் கூடாது.",
+        "en": "Don't unload your struggles on people who don't understand them, and never advertise your weaknesses to rivals.",
+        "hi": "जिस मित्र को स्वतः तुम्हारे दुःख का ज्ञान न हो उससे अपना दुःख मत कहो, और शत्रु के सामने तो अपनी कमजोरी की बात कभी प्रकट मत करो।"
+      }
+    },
+    {
+      "num": 878,
+      "line1": "வகையறிந்து தற்செய்து தற்காப்ப மாயும்",
+      "line2": "பகைவர்கட் பட்ட செருக்கு.",
+      "enLine1": "Know thou the way, then do thy part, thyself defend;",
+      "enLine2": "Thus shall the pride of those that hate thee have an end.",
+      "hiLine1": "ढंग समझ कर कर्म का, निज बल को कर चंड ।",
+      "hiLine2": "अपनी रक्षा यदि करे, रिपु का मिटे घमंड ॥",
+      "general": "செய்யும் முறையை அறிந்து, தன்னை வலிமையாக்கித் தன்னைக் காத்துக்கொண்டால், பகைவர்களிடம் உள்ள செருக்கு தானே அழியும்.",
+      "en": "When you understand the right strategy, strengthen yourself, and guard your position, the arrogance of your enemies will crumble.",
+      "hi": "यदि व्यक्ति कार्य करने का सही ढंग समझकर अपने बल को प्रबल करे और अपनी रक्षा करे, तो शत्रुओं का घमंड स्वयं ही नष्ट हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வகை அறிந்து <br>(Vagai arindhu)",
+          "ta": "வழிமுறையை அறிந்து",
+          "en": "Know thou the way",
+          "hi": "ढंग समझ कर कर्म का"
+        },
+        {
+          "no": 2,
+          "word": "தன் செய்து <br>(Than seydhu)",
+          "ta": "தன்னை வலிமைப்படுத்தி",
+          "en": "Do thy part",
+          "hi": "निज बल को कर चंड"
+        },
+        {
+          "no": 3,
+          "word": "தற்காப்ப <br>(Tharkaappa)",
+          "ta": "தன்னைக் காத்துக்கொள்ள",
+          "en": "Thyself defend",
+          "hi": "अपनी रक्षा यदि करे"
+        },
+        {
+          "no": 4,
+          "word": "மாயும் <br>(Maayum)",
+          "ta": "அழியும்",
+          "en": "Have an end",
+          "hi": "मिटे"
+        },
+        {
+          "no": 5,
+          "word": "பகைவர்கண் <br>(Pagaivarkan)",
+          "ta": "பகைவரிடத்தில்",
+          "en": "Of those that hate thee",
+          "hi": "रिपु का"
+        },
+        {
+          "no": 6,
+          "word": "பட்ட <br>(Patta)",
+          "ta": "உள்ள",
+          "en": "That",
+          "hi": "का"
+        },
+        {
+          "no": 7,
+          "word": "செருக்கு <br>(Serukku)",
+          "ta": "ஆணவம்",
+          "en": "The pride",
+          "hi": "घमंड"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வகையறிந்து தற்செய்து தற்காப்ப மாயும்",
+          "line2": "பகைவர்கட் பட்ட செருக்கு."
+        },
+        "en": {
+          "line1": "Know thou the way, then do thy part, thyself defend;",
+          "line2": "Thus shall the pride of those that hate thee have an end."
+        },
+        "hi": {
+          "line1": "ढंग समझ कर कर्म का, निज बल को कर चंड ।",
+          "line2": "अपनी रक्षा यदि करे, रिपु का मिटे घमंड ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vagaiyarindhu Tharseythu Tharkaappa Maayum",
+            "line2": "Pagaivarkat Patta Serukku."
+          },
+          "hi": {
+            "line1": "वगैयरिन्दु तर्त्सॆय्दु तर्काप्प मायुम्",
+            "line2": "पगैवर्गड् पट्ट सॆरुक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செய்யும் முறையை அறிந்து, தன்னை வலிமையாக்கித் தன்னைக் காத்துக்கொண்டால், பகைவர்களிடம் உள்ள செருக்கு தானே அழியும்.",
+        "en": "Know your craft, build your own strength, and shore up your defenses—your opponents' arrogance will collapse on its own.",
+        "hi": "यदि व्यक्ति कार्य करने का सही ढंग समझकर अपने बल को प्रबल करे और अपनी रक्षा करे, तो शत्रुओं का घमंड स्वयं ही नष्ट हो जाता है।"
+      }
+    },
+    {
+      "num": 879,
+      "line1": "இளைதாக முண்மரங் கொல்க களையுநர்",
+      "line2": "கைக்கொல்லுங் காழ்த்த விடத்து.",
+      "enLine1": "Destroy the thorn, while tender point can work thee no offence;",
+      "enLine2": "Matured by time, 'twill pierce the hand that plucks it thence.",
+      "hiLine1": "जब पौधा है काटना, जो तरु कांटेदार ।",
+      "hiLine2": "बढ़ने पर घायल करे, छेदक का कर दार ॥",
+      "general": "முள்மரத்தை அது இளையதாக இருக்கும்போதே வெட்டி அழிக்க வேண்டும்; வளர்ந்து முற்றியபின் வெட்டுபவரின் கையையே அது குத்திக் கொல்லும்.",
+      "en": "Cut down a thorny tree while it is still young and tender; once it matures, it will wound the hand that tries to uproot it.",
+      "hi": "काँटेदार वृक्ष को जब वह छोटा पौधा हो तभी काट डालना चाहिए, क्योंकि बढ़ जाने पर वह काटने वाले के हाथ को ही घायल कर देता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இளைதாக <br>(Ilaidhaaga)",
+          "ta": "இளமையாக இருக்கும்போதே",
+          "en": "While tender",
+          "hi": "जब पौधा है"
+        },
+        {
+          "no": 2,
+          "word": "முள்மரம் <br>(Mulmaram)",
+          "ta": "முள்மரத்தை",
+          "en": "The thorn",
+          "hi": "जो तरु कांटेदार"
+        },
+        {
+          "no": 3,
+          "word": "கொல்க <br>(Kolka)",
+          "ta": "வெட்டி அழிக்க வேண்டும்",
+          "en": "Destroy",
+          "hi": "काटना"
+        },
+        {
+          "no": 4,
+          "word": "களையுநர் <br>(Kalaiyunar)",
+          "ta": "வெட்டுபவரின்",
+          "en": "That plucks it",
+          "hi": "छेदक का"
+        },
+        {
+          "no": 5,
+          "word": "கை <br>(Kai)",
+          "ta": "கையை",
+          "en": "The hand",
+          "hi": "हाथ"
+        },
+        {
+          "no": 6,
+          "word": "கொல்லும் <br>(Kollum)",
+          "ta": "குத்திக் கொல்லும்",
+          "en": "Will pierce",
+          "hi": "घायल करे"
+        },
+        {
+          "no": 7,
+          "word": "காழ்த்த இடத்து <br>(Kaazhththa idaththu)",
+          "ta": "முற்றிய காலத்து",
+          "en": "Matured by time",
+          "hi": "बढ़ने पर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இளைதாக முண்மரங் கொல்க களையுநர்",
+          "line2": "கைக்கொல்லுங் காழ்த்த விடத்து."
+        },
+        "en": {
+          "line1": "Destroy the thorn, while tender point can work thee no offence;",
+          "line2": "Matured by time, 'twill pierce the hand that plucks it thence."
+        },
+        "hi": {
+          "line1": "जब पौधा है काटना, जो तरु कांटेदार ।",
+          "line2": "बढ़ने पर घायल करे, छेदक का कर दार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ilaidhaaga Munmarang Kolka Kalaiyunar",
+            "line2": "Kaikkollung Kaazhththa Vidaththu."
+          },
+          "hi": {
+            "line1": "इळैदाग मुण्मरङ् कॊल्ग कळैयुनर्",
+            "line2": "कैक्कॊल्लुङ् काऴ्त्त विडत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முள்மரத்தை அது இளையதாக இருக்கும்போதே வெட்டி அழிக்க வேண்டும்; வளர்ந்து முற்றியபின் வெட்டுபவரின் கையையே அது குத்திக் கொல்லும்.",
+        "en": "Deal with a growing threat early while it's still small—wait too long and it'll hurt you when you try to remove it.",
+        "hi": "काँटेदार वृक्ष को जब वह छोटा पौधा हो तभी काट डालना चाहिए, क्योंकि बढ़ जाने पर वह काटने वाले के हाथ को ही घायल कर देता है।"
+      }
+    },
+    {
+      "num": 880,
+      "line1": "உயிர்ப்ப வுளரல்லர் மன்ற செயிர்ப்பவர்",
+      "line2": "செம்மல் சிதைக்கலா தார்.",
+      "enLine1": "But breathe upon them, and they surely die,",
+      "enLine2": "Who fail to tame the pride of angry enemy.",
+      "hiLine1": "जो रिपुओं के दर्प का, कर सकते नहिं नाश ।",
+      "hiLine2": "निश्चय रिपु के फूँकते, होता उनका नाश ॥",
+      "general": "பகைவரின் செருக்கை அழிக்க முடியாதவர்கள், அந்தப் பகைவர் மூச்சு விட்டாலே உயிர் வாழ முடியாமல் நிச்சயம் அழிந்துபோவார்கள்.",
+      "en": "Those who fail to crush the pride of their angry enemies will surely perish if their enemies merely breathe upon them.",
+      "hi": "जो लोग अपने शत्रुओं के घमंड का नाश नहीं कर पाते, निश्चय ही शत्रु के केवल फूँक मारने मात्र से उनका विनाश हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உயிர்ப்ப <br>(Uyirppa)",
+          "ta": "மூச்சு விட்டாலே",
+          "en": "But breathe upon them",
+          "hi": "रिपु के फूँकते"
+        },
+        {
+          "no": 2,
+          "word": "உளர் அல்லர் <br>(Ular allar)",
+          "ta": "உயிர் வாழ மாட்டார்",
+          "en": "They die",
+          "hi": "होता उनका नाश"
+        },
+        {
+          "no": 3,
+          "word": "மன்ற <br>(Mandra)",
+          "ta": "உறுதியாக",
+          "en": "Surely",
+          "hi": "निश्चय"
+        },
+        {
+          "no": 4,
+          "word": "செயிர்ப்பவர் <br>(Seyirppavar)",
+          "ta": "சினங்கொண்ட பகைவரின்",
+          "en": "Angry enemy",
+          "hi": "रिपुओं के"
+        },
+        {
+          "no": 5,
+          "word": "செம்மல் <br>(Semmal)",
+          "ta": "செருக்கை",
+          "en": "The pride",
+          "hi": "दर्प का"
+        },
+        {
+          "no": 6,
+          "word": "சிதைக்கலாதார் <br>(Sidhaikkalaadhaar)",
+          "ta": "அழிக்காதவர்",
+          "en": "Who fail to tame",
+          "hi": "कर सकते नहिं नाश"
+        },
+        {
+          "no": 7,
+          "word": "அழிவு <br>(Azhivu)",
+          "ta": "அழிவு",
+          "en": "Ruin",
+          "hi": "विनाश"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உயிர்ப்ப வுளரல்லர் மன்ற செயிர்ப்பவர்",
+          "line2": "செம்மல் சிதைக்கலா தார்."
+        },
+        "en": {
+          "line1": "But breathe upon them, and they surely die,",
+          "line2": "Who fail to tame the pride of angry enemy."
+        },
+        "hi": {
+          "line1": "जो रिपुओं के दर्प का, कर सकते नहिं नाश ।",
+          "line2": "निश्चय रिपु के फूँकते, होता उनका नाश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uyirppa Ular Allar Mandra",
+            "line2": "Seyirppavar Semmal Sidhaikkalaadhaar."
+          },
+          "hi": {
+            "line1": "उयिर्प्प वुळरल्लर् मन्द्र सॆयिर्प्पवर्",
+            "line2": "सॆम्मल् सिदैक्कला दार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைவரின் செருக்கை அழிக்க முடியாதவர்கள், அந்தப் பகைவர் மூச்சு விட்டாலே உயிர் வாழ முடியாமல் நிச்சயம் அழிந்துபோவார்கள்.",
+        "en": "If you let an aggressive rival's ego go unchecked, you won't last long when they finally move against you.",
+        "hi": "जो लोग अपने शत्रुओं के घमंड का नाश नहीं कर पाते, निश्चय ही शत्रु के केवल फूँक मारने मात्र से उनका विनाश हो जाता है।"
+      }
+    }
+  ]
+}

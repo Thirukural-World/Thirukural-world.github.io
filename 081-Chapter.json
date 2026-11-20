@@ -1,0 +1,930 @@
+{
+  "chapterNum": 81,
+  "nameTa": "பழைமை",
+  "nameEn": "Familiarity",
+  "nameHi": "चिर-मैत्री",
+  "paal": "பொருட்பால்",
+  "iyal": "அங்கவியல்",
+  "kurals": [
+    {
+      "num": 801,
+      "line1": "பழைமை யெனப்படுவ தியாதெனின் யாதுங்",
+      "line2": "கிழமையைக் கீழ்ந்திடா நட்பு.",
+      "enLine1": "Familiarity is friendship's silent pact,",
+      "enLine2": "That puts restraint on no familiar act.",
+      "hiLine1": "जो कुछ भी अधिकार से, करते हैं जन इष्ट ।",
+      "hiLine2": "तिरस्कार बिन मानना, मैत्री कहो धनिष्ठ ॥",
+      "general": "பழைமை என்று சொல்லப்படுவது யாதெனில், நண்பர் உரிமையால் செய்யும் எச்செயலையும் வெறுத்துத் தடுக்காத நட்பே ஆகும்.",
+      "en": "True familiarity is that bond of friendship which never objects to or restricts any liberty a friend takes out of affection.",
+      "hi": "प्रिय मित्र अधिकार मानकर जो कुछ भी करे, उसे बिना किसी तिरस्कार के सहज स्वीकार कर लेना ही घनिष्ठ चिर-मैत्री कहलाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பழைமை எனப்படுவது <br>(Pazhaimai enappaduvadhu)",
+          "ta": "பழைமை என்று சொல்லப்படுவது",
+          "en": "Familiarity is",
+          "hi": "मैत्री कहो धनिष्ठ"
+        },
+        {
+          "no": 2,
+          "word": "யாதெனின் <br>(Yaadhenin)",
+          "ta": "எதுவென்றால்",
+          "en": "What is",
+          "hi": "क्या है"
+        },
+        {
+          "no": 3,
+          "word": "யாதும் <br>(Yaadhum)",
+          "ta": "எந்தச் செயலிலும்",
+          "en": "No familiar act",
+          "hi": "जो कुछ भी"
+        },
+        {
+          "no": 4,
+          "word": "கிழமையை <br>(Kizhamaiyai)",
+          "ta": "உரிமையை",
+          "en": "Friendship's pact",
+          "hi": "अधिकार से"
+        },
+        {
+          "no": 5,
+          "word": "கீழ்ந்திடா <br>(Keezhndhidaa)",
+          "ta": "குறைத்துத் தடுக்காத",
+          "en": "Puts restraint on no",
+          "hi": "तिरस्कार बिन मानना"
+        },
+        {
+          "no": 6,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பே ஆகும்",
+          "en": "Friendship",
+          "hi": "मैत्री"
+        },
+        {
+          "no": 7,
+          "word": "உரிமை <br>(Urimai)",
+          "ta": "உரிமை",
+          "en": "Freedom",
+          "hi": "अधिकार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பழைமை யெனப்படுவ தியாதெனின் யாதுங்",
+          "line2": "கிழமையைக் கீழ்ந்திடா நட்பு."
+        },
+        "en": {
+          "line1": "Familiarity is friendship's silent pact,",
+          "line2": "That puts restraint on no familiar act."
+        },
+        "hi": {
+          "line1": "जो कुछ भी अधिकार से, करते हैं जन इष्ट ।",
+          "line2": "तिरस्कार बिन मानना, मैत्री कहो धनिष्ठ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pazhaimai Enappaduvadhu Yaadhenin Yaadhum",
+            "line2": "Kizhamaiyai Keezhndhidaa Natpu."
+          },
+          "hi": {
+            "line1": "पऴैमै यॆनप्पडुव दियादॆनिन् यादुङ्",
+            "line2": "किऴमैयैक् कीऴ्न्दिडा नट्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பழைமை என்று சொல்லப்படுவது யாதெனில், நண்பர் உரிமையால் செய்யும் எச்செயலையும் வெறுத்துத் தடுக்காத நட்பே ஆகும்.",
+        "en": "Long-standing friendship means giving each other room to act naturally without second-guessing.",
+        "hi": "प्रिय मित्र अधिकार मानकर जो कुछ भी करे, उसे बिना किसी तिरस्कार के सहज स्वीकार कर लेना ही घनिष्ठ चिर-मैत्री कहलाती है।"
+      }
+    },
+    {
+      "num": 802,
+      "line1": "நட்பிற் குறுப்புக் கெழுதகைமை மற்றதற்",
+      "line2": "குப்பாதல் சான்றோர் கடன்.",
+      "enLine1": "Familiar freedom friendship's very frame supplies;",
+      "enLine2": "To be its savour sweet is duty of the wise.",
+      "hiLine1": "हक़ से करना कार्य है, मैत्री का ही अंग ।",
+      "hiLine2": "फ़र्ज़ समझ सज्जन उसे, मानें सहित उमंग ॥",
+      "general": "நட்பிற்கு முக்கிய உறுப்பு உரிமையுடன் பழகுவதாகும்; அந்த உரிமைக்கு உப்பு போலச் சுவை சேர்த்து ஏற்றுக் கொள்வது சான்றோரின் கடமையாகும்.",
+      "en": "Familiar liberty is the very essence of friendship, and welcoming it with grace is the duty of the noble-minded.",
+      "hi": "मित्र द्वारा हक़ से कार्य करना मैत्री का ही अंग है; सज्जन लोग इसे अपना कर्तव्य समझकर उत्साह के साथ स्वीकार करते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நட்பிற்கு <br>(Natpirku)",
+          "ta": "நட்பிற்கு",
+          "en": "Friendship's",
+          "hi": "मैत्री का"
+        },
+        {
+          "no": 2,
+          "word": "உறுப்பு <br>(Uruppu)",
+          "ta": "முக்கிய உறுப்பு",
+          "en": "Very frame",
+          "hi": "ही अंग"
+        },
+        {
+          "no": 3,
+          "word": "கெழுதகைமை <br>(Kezhudhagaimai)",
+          "ta": "உரிமையோடு பழகுதல்",
+          "en": "Familiar freedom",
+          "hi": "हक़ से करना कार्य"
+        },
+        {
+          "no": 4,
+          "word": "மற்று அதற்கு <br>(Matru adharku)",
+          "ta": "அதற்கு",
+          "en": "Its",
+          "hi": "उसे"
+        },
+        {
+          "no": 5,
+          "word": "உப்பு ஆதல் <br>(Uppu aadhal)",
+          "ta": "உப்பு போலச் சுவை சேர்த்தல்",
+          "en": "Savour sweet",
+          "hi": "सहित उमंग"
+        },
+        {
+          "no": 6,
+          "word": "சான்றோர் <br>(Saandror)",
+          "ta": "சான்றோரின்",
+          "en": "Of the wise",
+          "hi": "सज्जन"
+        },
+        {
+          "no": 7,
+          "word": "கடன் <br>(Kadan)",
+          "ta": "கடமை ஆகும்",
+          "en": "Duty",
+          "hi": "फ़र्ज़ समझ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நட்பிற் குறுப்புக் கெழுதகைமை மற்றதற்",
+          "line2": "குப்பாதல் சான்றோர் கடன்."
+        },
+        "en": {
+          "line1": "Familiar freedom friendship's very frame supplies;",
+          "line2": "To be its savour sweet is duty of the wise."
+        },
+        "hi": {
+          "line1": "हक़ से करना कार्य है, मैत्री का ही अंग ।",
+          "line2": "फ़र्ज़ समझ सज्जन उसे, मानें सहित उमंग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Natpir Kuruppuk Kezhudhagaimai Matradhar",
+            "line2": "Kuppaadhal Saanror Kadan."
+          },
+          "hi": {
+            "line1": "नट्पिर कुरुप्पुक् कॆऴुदगैमै मत्रदर्",
+            "line2": "कुप्पादल् सान्द्रोर् कडन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நட்பிற்கு முக்கிய உறுப்பு உரிமையுடன் பழகுவதாகும்; அந்த உரிமைக்கு உப்பு போலச் சுவை சேர்த்து ஏற்றுக் கொள்வது சான்றோரின் கடமையாகும்.",
+        "en": "Easy familiarity is the backbone of friendship, and receiving it warmly is what makes it thrive.",
+        "hi": "मित्र द्वारा हक़ से कार्य करना मैत्री का ही अंग है; सज्जन लोग इसे अपना कर्तव्य समझकर उत्साह के साथ स्वीकार करते हैं।"
+      }
+    },
+    {
+      "num": 803,
+      "line1": "பழகிய நட்பெவன் செய்யுங் கெழுதகைமை",
+      "line2": "செய்தாங் கமையாக் கடை.",
+      "enLine1": "When to familiar acts men kind response refuse,",
+      "enLine2": "What fruit from ancient friendship's use?",
+      "hiLine1": "निज कृत सम जो मित्र का, साधिकार कृत काम ।",
+      "hiLine2": "यदि स्वीकृत होता नहीं, चिर-मैत्री क्या काम ॥",
+      "general": "நண்பன் உரிமையோடு செய்த செயலைத் தாமே செய்தது போல எண்ணி ஏற்றுக்கொள்ளாவிட்டால், பழகிய நட்பால் என்ன பயன்?",
+      "en": "What is the use of an old friendship if one refuses to accept the liberties a friend takes as though they were one's own?",
+      "hi": "अपने द्वारा किए गए कार्य के समान यदि मित्र के अधिकारपूर्वक किए गए कार्य को भी स्वीकार न किया जाए, तो पुरानी मित्रता किस काम की?",
+      "words": [
+        {
+          "no": 1,
+          "word": "பழகிய நட்பு <br>(Pazhagiya natpu)",
+          "ta": "பழமையான நட்பு",
+          "en": "Ancient friendship's",
+          "hi": "चिर-मैत्री"
+        },
+        {
+          "no": 2,
+          "word": "எவன் செய்யும் <br>(Evan seyyum)",
+          "ta": "என்ன பயன் தரும்",
+          "en": "What fruit",
+          "hi": "क्या काम"
+        },
+        {
+          "no": 3,
+          "word": "கெழுதகைமை <br>(Kezhudhagaimai)",
+          "ta": "உரிமையோடு நண்பன்",
+          "en": "Familiar acts",
+          "hi": "साधिकार कृत काम"
+        },
+        {
+          "no": 4,
+          "word": "செய்து <br>(Seydhu)",
+          "ta": "செய்ததை",
+          "en": "Acts",
+          "hi": "जो मित्र का"
+        },
+        {
+          "no": 5,
+          "word": "ஆங்கு <br>(Aangu)",
+          "ta": "அவ்வாறே",
+          "en": "Kind response",
+          "hi": "निज कृत सम"
+        },
+        {
+          "no": 6,
+          "word": "அமையாக் <br>(Amaiyaa)",
+          "ta": "ஏற்றுக் கொள்ளாத",
+          "en": "Refuse",
+          "hi": "स्वीकृत होता नहीं"
+        },
+        {
+          "no": 7,
+          "word": "கடை <br>(Kadai)",
+          "ta": "இடத்து",
+          "en": "When",
+          "hi": "यदि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பழகிய நட்பெவன் செய்யுங் கெழுதகைமை",
+          "line2": "செய்தாங் கமையாக் கடை."
+        },
+        "en": {
+          "line1": "When to familiar acts men kind response refuse,",
+          "line2": "What fruit from ancient friendship's use?"
+        },
+        "hi": {
+          "line1": "निज कृत सम जो मित्र का, साधिकार कृत काम ।",
+          "line2": "यदि स्वीकृत होता नहीं, चिर-मैत्री क्या काम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pazhagiya Natpevan Seyyung Kezhudhagaimai",
+            "line2": "Seythaang Kamaiyaak Kadai."
+          },
+          "hi": {
+            "line1": "पऴगिय नट्पॆवन् सॆय्युङ् कॆऴुदगैमै",
+            "line2": "सॆय्दाङ् कमैयाक् कडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நண்பன் உரிமையோடு செய்த செயலைத் தாமே செய்தது போல எண்ணி ஏற்றுக்கொள்ளாவிட்டால், பழகிய நட்பால் என்ன பயன்?",
+        "en": "What's the point of a years-long friendship if you get offended when a friend acts on their own initiative?",
+        "hi": "अपने द्वारा किए गए कार्य के समान यदि मित्र के अधिकारपूर्वक किए गए कार्य को भी स्वीकार न किया जाए, तो पुरानी मित्रता किस काम की?"
+      }
+    },
+    {
+      "num": 804,
+      "line1": "விழைதகையான் வேண்டி யிருப்பர் கெழுதகையாற்",
+      "line2": "கேளாது நட்டார் செயின்.",
+      "enLine1": "When friends unbidden do familiar acts with loving heart,",
+      "enLine2": "Friends take the kindly deed in friendly part.",
+      "hiLine1": "पूछे बिन हक़ मान कर, मित्र करे यदि कार्य ।",
+      "hiLine2": "वांछनीय गुण के लिये, मानें वह स्वीकार्य ॥",
+      "general": "நண்பர்கள் உரிமையால் நம்மைக் கேட்காமலே ஒரு செயலைச் செய்தாலும், நல்வழியுடையோர் அந்நட்பின் பெருமையால் அதை விரும்பி ஏற்றுக் கொள்வர்.",
+      "en": "When friends act without asking out of genuine affection and familiarity, true friends gladly welcome the gesture.",
+      "hi": "यदि मित्र बिना पूछे भी अपना हक़ समझकर कोई कार्य कर दे, तो मित्रता के वांछनीय गुण के कारण उसे सहर्ष स्वीकार कर लेना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "விழைதகையான் <br>(Vizhaidhagaiyaan)",
+          "ta": "விரும்பத்தக்க நட்பால்",
+          "en": "In friendly part",
+          "hi": "वांछनीय गुण के लिये"
+        },
+        {
+          "no": 2,
+          "word": "வேண்டி இருப்பர் <br>(Vendi iruppar)",
+          "ta": "விரும்பி ஏற்றுக்கொள்வர்",
+          "en": "Take kindly deed",
+          "hi": "मानें वह स्वीकार्य"
+        },
+        {
+          "no": 3,
+          "word": "கெழுதகையால் <br>(Kezhudhagaiyaal)",
+          "ta": "உரிமையினால்",
+          "en": "Familiar acts",
+          "hi": "हक़ मान कर"
+        },
+        {
+          "no": 4,
+          "word": "கேளாது <br>(Kelaadhu)",
+          "ta": "கேட்காமலே",
+          "en": "Unbidden",
+          "hi": "पूछे बिन"
+        },
+        {
+          "no": 5,
+          "word": "நட்டார் <br>(Nattaar)",
+          "ta": "நண்பர்கள்",
+          "en": "Friends",
+          "hi": "मित्र"
+        },
+        {
+          "no": 6,
+          "word": "செயின் <br>(Seyin)",
+          "ta": "செய்தால்",
+          "en": "When do",
+          "hi": "करे यदि कार्य"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பு",
+          "en": "Loving heart",
+          "hi": "मैत्री"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விழைதகையான் வேண்டி யிருப்பர் கெழுதகையாற்",
+          "line2": "கேளாது நட்டார் செயின்."
+        },
+        "en": {
+          "line1": "When friends unbidden do familiar acts with loving heart,",
+          "line2": "Friends take the kindly deed in friendly part."
+        },
+        "hi": {
+          "line1": "पूछे बिन हक़ मान कर, मित्र करे यदि कार्य ।",
+          "line2": "वांछनीय गुण के लिये, मानें वह स्वीकार्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vizhaidhagaiyaan Vendi Yiruppar Kezhudhagaiyaar",
+            "line2": "Kelaadhu Nattaar Seyin."
+          },
+          "hi": {
+            "line1": "विऴैदगैयान् वेण्डि यिरुप्पर् कॆऴुदगैयार्",
+            "line2": "केळादु नट्टार् सॆयिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நண்பர்கள் உரிமையால் நம்மைக் கேட்காமலே ஒரு செயலைச் செய்தாலும், நல்வழியுடையோர் அந்நட்பின் பெருமையால் அதை விரும்பி ஏற்றுக் கொள்வர்.",
+        "en": "Real friends don't take offense when a close friend steps in to help without asking first—they appreciate the trust.",
+        "hi": "यदि मित्र बिना पूछे भी अपना हक़ समझकर कोई कार्य कर दे, तो मित्रता के वांछनीय गुण के कारण उसे सहर्ष स्वीकार कर लेना चाहिए।"
+      }
+    },
+    {
+      "num": 805,
+      "line1": "பேதைமை யொன்றோ பெருங்கிழமை யென்றுணர்க",
+      "line2": "நோதக்க நட்டார் செயின்.",
+      "enLine1": "Not folly merely, but familiar carelessness,",
+      "enLine2": "Esteem it, when your friends cause you distress.",
+      "hiLine1": "दुःखजनक यदि कार्य हैं, करते मित्र सुजान ।",
+      "hiLine2": "अति हक़ या अज्ञान से, यों करते हैं जान ॥",
+      "general": "நண்பர் நமக்கு வருந்தத்தக்க செயலைச் செய்தால், அதை அவருடைய அறியாமையாகவோ அல்லது நம் மேல் உள்ள மிக்க உரிமையாகவோ எண்ணிப் பொறுக்க வேண்டும்.",
+      "en": "When friends do something that hurts you, regard it either as simple folly or as the carelessness born of deep familiarity.",
+      "hi": "यदि मित्र कोई दुःख पहुँचाने वाला कार्य कर बैठें, तो यही समझना चाहिए कि उन्होंने अत्यधिक अधिकार (हक़) या अज्ञान के कारण ऐसा किया है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பேதைமை ஒன்றோ <br>(Pedhaimai ondro)",
+          "ta": "அறியாமையோ",
+          "en": "Not folly merely",
+          "hi": "अज्ञान से"
+        },
+        {
+          "no": 2,
+          "word": "பெருங்கிழமை <br>(Perungizhamai)",
+          "ta": "மிக்க உரிமையோ",
+          "en": "Familiar carelessness",
+          "hi": "अति हक़"
+        },
+        {
+          "no": 3,
+          "word": "என்று உணர்க <br>(Endru unarga)",
+          "ta": "என்று எண்ணிப் பொறுக்க",
+          "en": "Esteem it",
+          "hi": "यों करते हैं जान"
+        },
+        {
+          "no": 4,
+          "word": "நோதக்க <br>(Nodhakka)",
+          "ta": "வருந்தத்தக்கதை",
+          "en": "Cause distress",
+          "hi": "दुःखजनक कार्य"
+        },
+        {
+          "no": 5,
+          "word": "நட்டார் <br>(Nattaar)",
+          "ta": "நண்பர்",
+          "en": "Your friends",
+          "hi": "मित्र सुजान"
+        },
+        {
+          "no": 6,
+          "word": "செயின் <br>(Seyin)",
+          "ta": "செய்தால்",
+          "en": "When do",
+          "hi": "यदि करते"
+        },
+        {
+          "no": 7,
+          "word": "பொறுமை <br>(Porumai)",
+          "ta": "பொறுமை",
+          "en": "Patience",
+          "hi": "क्षमा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பேதைமை யொன்றோ பெருங்கிழமை யென்றுணர்க",
+          "line2": "நோதக்க நட்டார் செயின்."
+        },
+        "en": {
+          "line1": "Not folly merely, but familiar carelessness,",
+          "line2": "Esteem it, when your friends cause you distress."
+        },
+        "hi": {
+          "line1": "दुःखजनक यदि कार्य हैं, करते मित्र सुजान ।",
+          "line2": "अति हक़ या अज्ञान से, यों करते हैं जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pedhaimai Yonro Perunggizhamai Yenrunarka",
+            "line2": "Nodhakka Nattaar Seyin."
+          },
+          "hi": {
+            "line1": "पेदैमै यॊन्द्रो पॆरुङ्गिऴमै यॆन्द्रुणर्ग",
+            "line2": "नोदक्क नट्टार् सॆयिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நண்பர் நமக்கு வருந்தத்தக்க செயலைச் செய்தால், அதை அவருடைய அறியாமையாகவோ அல்லது நம் மேல் உள்ள மிக்க உரிமையாகவோ எண்ணிப் பொறுக்க வேண்டும்.",
+        "en": "When a close friend hurts your feelings, chalk it up to an honest blunder or overly casual closeness—not malice.",
+        "hi": "यदि मित्र कोई दुःख पहुँचाने वाला कार्य कर बैठें, तो यही समझना चाहिए कि उन्होंने अत्यधिक अधिकार (हक़) या अज्ञान के कारण ऐसा किया है।"
+      }
+    },
+    {
+      "num": 806,
+      "line1": "எல்லைக்க ணின்றார் துறவார் தொலைவிடத்துந்",
+      "line2": "தொல்லைக்க ணின்றார் தொடர்பு.",
+      "enLine1": "Who stand within the bounds quit not, though loss impends,",
+      "enLine2": "Association with the old familiar friends.",
+      "hiLine1": "चिरपरिचित घन मित्र से, यद्यपि हुआ अनिष्ट ।",
+      "hiLine2": "मर्यादी छोड़ें नहीं, वह मित्रता धनिष्ठ ॥",
+      "general": "நட்பின் எல்லையில் நின்றவர், தமக்குக் கேடு வந்தாலும் பழமையான நண்பர்களின் தொடர்பைக் கைவிட மாட்டார்கள்.",
+      "en": "Those who stand firm within the bounds of true friendship never abandon old friends, even when loss or harm results.",
+      "hi": "चिरपरिचित घनिष्ठ मित्र से भले ही कोई हानि (अनिष्ट) हो जाए, फिर भी मर्यादा का पालन करने वाले लोग उस घनिष्ठ मित्रता को नहीं छोड़ते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எல்லைக்கண் நின்றார் <br>(Ellaikkan nindraar)",
+          "ta": "நட்பின் எல்லையில் நின்றவர்",
+          "en": "Stand within bounds",
+          "hi": "मर्यादी"
+        },
+        {
+          "no": 2,
+          "word": "துறவார் <br>(Thuravaar)",
+          "ta": "கைவிட மாட்டார்",
+          "en": "Quit not",
+          "hi": "छोड़ें नहीं"
+        },
+        {
+          "no": 3,
+          "word": "தொலைவிடத்தும் <br>(Tholaividaththum)",
+          "ta": "தீமை வந்தபோதும்",
+          "en": "Though loss impends",
+          "hi": "यद्यपि हुआ अनिष्ट"
+        },
+        {
+          "no": 4,
+          "word": "தொல்லைக்கண் <br>(Thollaikkan)",
+          "ta": "பழமையில்",
+          "en": "Old familiar",
+          "hi": "चिरपरिचित घन"
+        },
+        {
+          "no": 5,
+          "word": "நின்றார் <br>(Nindraar)",
+          "ta": "நின்றவரின்",
+          "en": "Friends",
+          "hi": "मित्र से"
+        },
+        {
+          "no": 6,
+          "word": "தொடர்பு <br>(Thodarbu)",
+          "ta": "நட்புத் தொடர்பை",
+          "en": "Association",
+          "hi": "वह मित्रता धनिष्ठ"
+        },
+        {
+          "no": 7,
+          "word": "உறுதி <br>(Urudhi)",
+          "ta": "உறுதி",
+          "en": "Loyalty",
+          "hi": "निष्ठा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எல்லைக்க ணின்றார் துறவார் தொலைவிடத்துந்",
+          "line2": "தொல்லைக்க ணின்றார் தொடர்பு."
+        },
+        "en": {
+          "line1": "Who stand within the bounds quit not, though loss impends,",
+          "line2": "Association with the old familiar friends."
+        },
+        "hi": {
+          "line1": "चिरपरिचित घन मित्र से, यद्यपि हुआ अनिष्ट ।",
+          "line2": "मर्यादी छोड़ें नहीं, वह मित्रता धनिष्ठ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ellaikkan Nindraar Thuravaar Tholaividaththum",
+            "line2": "Thollaikkan Nindraar Thodarbu."
+          },
+          "hi": {
+            "line1": "ऎल्लैक्क णिन्द्रार् तुरवार् तॊलैविडत्तुन्",
+            "line2": "तॊल्लैक्क णिन्द्रार् तॊडर्बु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நட்பின் எல்லையில் நின்றவர், தமக்குக் கேடு வந்தாலும் பழமையான நண்பர்களின் தொடர்பைக் கைவிட மாட்டார்கள்.",
+        "en": "True loyalty doesn't bail on old friends just because keeping them around costs you something.",
+        "hi": "चिरपरिचित घनिष्ठ मित्र से भले ही कोई हानि (अनिष्ट) हो जाए, फिर भी मर्यादा का पालन करने वाले लोग उस घनिष्ठ मित्रता को नहीं छोड़ते।"
+      }
+    },
+    {
+      "num": 807,
+      "line1": "அழிவந்த செய்யினு மன்பறா ரன்பின்",
+      "line2": "வழிவந்த கேண்மை யவர்.",
+      "enLine1": "True friends, well versed in loving ways,",
+      "enLine2": "Cease not to love, when friend their love betrays.",
+      "hiLine1": "स्नेही स्नेह-परंपरा, जो करते निर्वाह ।",
+      "hiLine2": "मित्र करे यदि हानि भी, तजें न उसकी चाह ॥",
+      "general": "அன்பின் வழியில் வந்த பழைய நட்புடையவர்கள், நண்பன் அழிவு தரும் செயலைச் செய்தாலும் அவன் மேல் கொண்ட அன்பிலிருந்து நீங்க மாட்டார்கள்.",
+      "en": "Friends bound by long-standing affection never stop loving, even if the other causes them harm.",
+      "hi": "जो स्नेहीजन स्नेह की परम्परा का निर्वाह करते हैं, वे अपने मित्र द्वारा हानि पहुँचाने पर भी उससे प्रेम करना नहीं छोड़ते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அழிவந்த <br>(Azhivandha)",
+          "ta": "அழிவு தருவனவற்றை",
+          "en": "Betrays",
+          "hi": "यदि हानि भी"
+        },
+        {
+          "no": 2,
+          "word": "செய்யினும் <br>(Seyyinum)",
+          "ta": "செய்தாலும்",
+          "en": "When friend does",
+          "hi": "मित्र करे"
+        },
+        {
+          "no": 3,
+          "word": "அன்பு அறார் <br>(Anbu araar)",
+          "ta": "அன்பு நீங்க மாட்டார்",
+          "en": "Cease not to love",
+          "hi": "तजें न उसकी चाह"
+        },
+        {
+          "no": 4,
+          "word": "அன்பின் <br>(Anbin)",
+          "ta": "அன்பின்",
+          "en": "In loving",
+          "hi": "स्नेह-परंपरा"
+        },
+        {
+          "no": 5,
+          "word": "வழிவந்த <br>(Vazhivandha)",
+          "ta": "வழிவந்த",
+          "en": "Well versed",
+          "hi": "जो करते निर्वाह"
+        },
+        {
+          "no": 6,
+          "word": "கேண்மையவர் <br>(Kenmaiyavar)",
+          "ta": "நட்பு உடையவர்கள்",
+          "en": "True friends",
+          "hi": "स्नेही"
+        },
+        {
+          "no": 7,
+          "word": "அன்பு <br>(Anbu)",
+          "ta": "அன்பு",
+          "en": "Love",
+          "hi": "प्रेम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அழிவந்த செய்யினு மன்பறா ரன்பின்",
+          "line2": "வழிவந்த கேண்மை யவர்."
+        },
+        "en": {
+          "line1": "True friends, well versed in loving ways,",
+          "line2": "Cease not to love, when friend their love betrays."
+        },
+        "hi": {
+          "line1": "स्नेही स्नेह-परंपरा, जो करते निर्वाह ।",
+          "line2": "मित्र करे यदि हानि भी, तजें न उसकी चाह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Azhivandha Seyyinu Manparaa Ranpin",
+            "line2": "Vazhivandha Kenmai Yavar."
+          },
+          "hi": {
+            "line1": "अऴिवन्द सॆय्यिनु मन्बरा रन्बिन्",
+            "line2": "वऴिवन्द केण्मै यवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அன்பின் வழியில் வந்த பழைய நட்புடையவர்கள், நண்பன் அழிவு தரும் செயலைச் செய்தாலும் அவன் மேல் கொண்ட அன்பிலிருந்து நீங்க மாட்டார்கள்.",
+        "en": "Deep, time-tested affection doesn't evaporate the moment a friend makes a damaging mistake.",
+        "hi": "जो स्नेहीजन स्नेह की परम्परा का निर्वाह करते हैं, वे अपने मित्र द्वारा हानि पहुँचाने पर भी उससे प्रेम करना नहीं छोड़ते।"
+      }
+    },
+    {
+      "num": 808,
+      "line1": "கேளிழுக்கங் கேளாக் கெழுதகைமை வல்லார்க்கு",
+      "line2": "நாளிழுக்க நட்டார் செயின்.",
+      "enLine1": "In strength of friendship rare of friend's disgrace who will not hear,",
+      "enLine2": "The day his friend offends will day of grace to him appear.",
+      "hiLine1": "मित्र-दोष को ना सुनें, ऐसे मित्र धनिष्ठ ।",
+      "hiLine2": "मानें उस दिन को सफल, दोष करें जब इष्ट ॥",
+      "general": "நண்பனின் குற்றத்தைக் கேட்க விரும்பாத மிக்க உரிமையுடையவருக்கு, நண்பன் தவறு செய்த நாளும் அவனுடைய நட்பை மன்னித்து ஏற்றுக்கொள்ளும் நல்ல நாளாகும்.",
+      "en": "For one who refuses to listen to slander against a friend, even the day the friend errs becomes a day of grace to forgive.",
+      "hi": "जो घनिष्ठ मित्र अपने मित्र के दोष की निन्दा नहीं सुनते, वे उस दिन को भी सफल और अच्छा मानते हैं जब उनका प्रिय मित्र कोई भूल करता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கேள் இழுக்கம் <br>(Kel izhukkam)",
+          "ta": "நண்பனின் குற்றத்தை",
+          "en": "Friend's disgrace",
+          "hi": "मित्र-दोष को"
+        },
+        {
+          "no": 2,
+          "word": "கேளா <br>(Kelaa)",
+          "ta": "கேட்க விரும்பாத",
+          "en": "Will not hear",
+          "hi": "ना सुनें"
+        },
+        {
+          "no": 3,
+          "word": "கெழுதகைமை வல்லார்க்கு <br>(Kezhudhagaimai vallaarkku)",
+          "ta": "உரிமை வல்லார்க்கு",
+          "en": "Strength of friendship",
+          "hi": "ऐसे मित्र धनिष्ठ"
+        },
+        {
+          "no": 4,
+          "word": "நாள் இழுக்கு <br>(Naal izhukku)",
+          "ta": "நல்ல நாள்",
+          "en": "Day of grace",
+          "hi": "मानें उस दिन को सफल"
+        },
+        {
+          "no": 5,
+          "word": "அன்று <br>(Andru)",
+          "ta": "ஆகும்",
+          "en": "Appear",
+          "hi": "जब"
+        },
+        {
+          "no": 6,
+          "word": "நட்டார் <br>(Nattaar)",
+          "ta": "நண்பர்",
+          "en": "His friend",
+          "hi": "इष्ट"
+        },
+        {
+          "no": 7,
+          "word": "செயின் <br>(Seyin)",
+          "ta": "தவறு செய்தால்",
+          "en": "Offends",
+          "hi": "दोष करें"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கேளிழுக்கங் கேளாக் கெழுதகைமை வல்லார்க்கு",
+          "line2": "நாளிழுக்க நட்டார் செயின்."
+        },
+        "en": {
+          "line1": "In strength of friendship rare of friend's disgrace who will not hear,",
+          "line2": "The day his friend offends will day of grace to him appear."
+        },
+        "hi": {
+          "line1": "मित्र-दोष को ना सुनें, ऐसे मित्र धनिष्ठ ।",
+          "line2": "मानें उस दिन को सफल, दोष करें जब इष्ट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kelizhukkang Kelaak Kezhudhagaimai Vallaarkku",
+            "line2": "Naalizhukka Nattaar Seyin."
+          },
+          "hi": {
+            "line1": "केळिऴुक्कङ् केळाक् कॆऴुदगैमै वल्लार्क्कु",
+            "line2": "नाळिऴुक्क नट्टार् सॆयिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நண்பனின் குற்றத்தைக் கேட்க விரும்பாத மிக்க உரிமையுடையவருக்கு, நண்பன் தவறு செய்த நாளும் அவனுடைய நட்பை மன்னித்து ஏற்றுக்கொள்ளும் நல்ல நாளாகும்.",
+        "en": "A loyal friend tunes out gossip about you—and sees even your mistakes as an opportunity to show grace.",
+        "hi": "जो घनिष्ठ मित्र अपने मित्र के दोष की निन्दा नहीं सुनते, वे उस दिन को भी सफल और अच्छा मानते हैं जब उनका प्रिय मित्र कोई भूल करता है।"
+      }
+    },
+    {
+      "num": 809,
+      "line1": "கெடாஅ வழிவந்த கேண்மையார் கேண்மை",
+      "line2": "விடாஅர் விழையு முலகு.",
+      "enLine1": "Friendship of old and faithful friends,",
+      "enLine2": "Who ne'er forsake, the world commends.",
+      "hiLine1": "अविच्छिन्न चिर-मित्रता, जो रखते हैं यार ।",
+      "hiLine2": "उनका स्नेह तजें न जो, उन्हें करे जग प्यार ॥",
+      "general": "கெடாமல் வழிவழியாக வந்த பழைய நண்பர்களின் நட்பைக் கைவிடாதவர்களை உலகம் பெரிதும் விரும்பிப் போற்றும்.",
+      "en": "The world admires and cherishes those who never forsake the bond of an unbroken, long-standing friendship.",
+      "hi": "जो लोग अपने चिर-मित्रों के साथ अटूट (अविच्छिन्न) मित्रता बनाए रखते हैं और उनका स्नेह नहीं त्यागते, सारा संसार उनसे प्रेम करता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கெடாஅ <br>(Kedaaa)",
+          "ta": "அழியாமல்",
+          "en": "Faithful",
+          "hi": "अविच्छिन्न"
+        },
+        {
+          "no": 2,
+          "word": "வழிவந்த <br>(Vazhivandha)",
+          "ta": "வழிவழியாக வந்த",
+          "en": "Of old",
+          "hi": "चिर-मित्रता"
+        },
+        {
+          "no": 3,
+          "word": "கேண்மையார் <br>(Kenmaiyaar)",
+          "ta": "நண்பர்களின்",
+          "en": "Friends",
+          "hi": "यार"
+        },
+        {
+          "no": 4,
+          "word": "கேண்மை <br>(Kenmai)",
+          "ta": "நட்பை",
+          "en": "Friendship",
+          "hi": "उनका स्नेह"
+        },
+        {
+          "no": 5,
+          "word": "விடாஅர் <br>(Vidaaar)",
+          "ta": "விடாதவரை",
+          "en": "Who ne'er forsake",
+          "hi": "तजें न जो"
+        },
+        {
+          "no": 6,
+          "word": "விழையும் <br>(Vizhaiyum)",
+          "ta": "விரும்பிப் போற்றும்",
+          "en": "Commends",
+          "hi": "करे प्यार"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "जग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கெடாஅ வழிவந்த கேண்மையார் கேண்மை",
+          "line2": "விடாஅர் விழையு முலகு."
+        },
+        "en": {
+          "line1": "Friendship of old and faithful friends,",
+          "line2": "Who ne'er forsake, the world commends."
+        },
+        "hi": {
+          "line1": "अविच्छिन्न चिर-मित्रता, जो रखते हैं यार ।",
+          "line2": "उनका स्नेह तजें न जो, उन्हें करे जग प्यार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kedaaa Vazhivandha Kenmaiyaar Kenmai",
+            "line2": "Vidaaar Vizhaiyum Ulagu."
+          },
+          "hi": {
+            "line1": "कॆडाअ वऴिवन्द केण्मैयार् केण्मै",
+            "line2": "विडार् विऴैयु मुलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கெடாமல் வழிவழியாக வந்த பழைய நண்பர்களின் நட்பைக் கைவிடாதவர்களை உலகம் பெரிதும் விரும்பிப் போற்றும்.",
+        "en": "People who stand by their longtime friends earn universal respect.",
+        "hi": "जो लोग अपने चिर-मित्रों के साथ अटूट (अविच्छिन्न) मित्रता बनाए रखते हैं और उनका स्नेह नहीं त्यागते, सारा संसार उनसे प्रेम करता है।"
+      }
+    },
+    {
+      "num": 810,
+      "line1": "விழையார் விழையப் படுப பழையார்கட்",
+      "line2": "பண்பிற் றலைப்பிரியா தார்.",
+      "enLine1": "Ill-wishers even wish them well, who guard,",
+      "enLine2": "For ancient friends, their wonted kind regard.",
+      "hiLine1": "मैत्री का गुण पालते, चिरपरिचित का स्नेह ।",
+      "hiLine2": "जो न तजें उस सुजन से, करें शत्रु भी स्नेह ॥",
+      "general": "பழைய நண்பர்களிடம் காட்டும் அன்பான பண்பிலிருந்து மாறாதவர்களை, அவர்களை விரும்பாத பகைவர்களும் கூட விரும்புவார்கள்.",
+      "en": "Even enemies come to admire those who never waver in their kindness toward old friends.",
+      "hi": "जो सज्जन मित्रता के गुण का पालन करते हुए अपने चिरपरिचित मित्र का स्नेह नहीं त्यागते, उनसे उनके शत्रु भी स्नेह करने लगते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "விழையார் <br>(Vizhaiyaar)",
+          "ta": "விரும்பாத பகைவராலும்",
+          "en": "Ill-wishers even",
+          "hi": "शत्रु भी"
+        },
+        {
+          "no": 2,
+          "word": "விழையப்படுப <br>(Vizhaiyappaduba)",
+          "ta": "விரும்பப்படுவர்",
+          "en": "Wish them well",
+          "hi": "करें स्नेह"
+        },
+        {
+          "no": 3,
+          "word": "பழையார்கண் <br>(Pazhaiyaarkan)",
+          "ta": "பழைய நண்பர்களிடம்",
+          "en": "For ancient friends",
+          "hi": "चिरपरिचित का"
+        },
+        {
+          "no": 4,
+          "word": "பண்பின் <br>(Panbin)",
+          "ta": "பழைய பண்பிலிருந்து",
+          "en": "Kind regard",
+          "hi": "मैत्री का गुण"
+        },
+        {
+          "no": 5,
+          "word": "தலைப்பிரியாதார் <br>(Thalaippiriyaadhaar)",
+          "ta": "பிரிந்து நீங்காதவர்",
+          "en": "Who guard",
+          "hi": "जो न तजें"
+        },
+        {
+          "no": 6,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "स्नेह"
+        },
+        {
+          "no": 7,
+          "word": "சான்றோர் <br>(Saandror)",
+          "ta": "சான்றோர்",
+          "en": "Virtuous",
+          "hi": "सुजन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விழையார் விழையப் படுப பழையார்கட்",
+          "line2": "பண்பிற் றலைப்பிரியா தார்."
+        },
+        "en": {
+          "line1": "Ill-wishers even wish them well, who guard,",
+          "line2": "For ancient friends, their wonted kind regard."
+        },
+        "hi": {
+          "line1": "मैत्री का गुण पालते, चिरपरिचित का स्नेह ।",
+          "line2": "जो न तजें उस सुजन से, करें शत्रु भी स्नेह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vizhaiyaar Vizhaiyap Paduba Pazhaiyaarkat",
+            "line2": "Panpir Ralaippiriyaa Thaar."
+          },
+          "hi": {
+            "line1": "विऴैयार् विऴैयप् पडुब पऴैयार्गड्",
+            "line2": "पण्बिर् रलैप्पिरिया दार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பழைய நண்பர்களிடம் காட்டும் அன்பான பண்பிலிருந்து மாறாதவர்களை, அவர்களை விரும்பாத பகைவர்களும் கூட விரும்புவார்கள்.",
+        "en": "Steady loyalty to old friends is so admirable that even your rivals can't help respecting you.",
+        "hi": "जो सज्जन मित्रता के गुण का पालन करते हुए अपने चिरपरिचित मित्र का स्नेह नहीं त्यागते, उनसे उनके शत्रु भी स्नेह करने लगते हैं।"
+      }
+    }
+  ]
+}

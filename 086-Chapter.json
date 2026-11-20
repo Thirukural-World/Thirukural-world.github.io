@@ -1,0 +1,930 @@
+{
+  "chapterNum": 86,
+  "nameTa": "இகல்",
+  "nameEn": "Hostility",
+  "nameHi": "विभेद",
+  "paal": "பொருட்பால்",
+  "iyal": "அங்கவியல்",
+  "kurals": [
+    {
+      "num": 851,
+      "line1": "இகலென்ப வெல்லா வுயிர்க்கும் பகலென்னும்",
+      "line2": "பண்பின்மை பாரிக்கு நோய்.",
+      "enLine1": "Hostility disunion's plague will bring,",
+      "enLine2": "That evil quality, to every living thing.",
+      "hiLine1": "सब जीवों में फूट ही, कहते हैं बुध लोग ।",
+      "hiLine2": "अनमिल-भाव-अनर्थ का, पोषण करता रोग ॥",
+      "general": "இகல் என்று சொல்லப்படுவது, எல்லா உயிர்களிடத்தும் பிரிவு என்னும் தீய பண்பின்மையைப் பரவச் செய்யும் கொடிய நோயாகும்.",
+      "en": "Hostility is a disease that spreads the evil quality of disunion and discord among all living beings.",
+      "hi": "विद्वान लोग कहते हैं कि विभेद (शत्रुता) ही ऐसा रोग है जो सभी जीवों में अनमिल भाव और अनर्थ का पोषण करता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இகல் என்ப <br>(Igal enba)",
+          "ta": "மாறுபாடு என்பது",
+          "en": "Hostility",
+          "hi": "फूट ही"
+        },
+        {
+          "no": 2,
+          "word": "எல்லா உயிர்க்கும் <br>(Ellaa uyirkkum)",
+          "ta": "எல்லா உயிர்களுக்கும்",
+          "en": "To every living thing",
+          "hi": "सब जीवों में"
+        },
+        {
+          "no": 3,
+          "word": "பகல் என்னும் <br>(Pagal ennum)",
+          "ta": "பிரிவு என்னும்",
+          "en": "Disunion's",
+          "hi": "अनमिल-भाव"
+        },
+        {
+          "no": 4,
+          "word": "பண்பு இன்மை <br>(Panbu inmai)",
+          "ta": "பண்பில்லாத தன்மையை",
+          "en": "Evil quality",
+          "hi": "अनर्थ का"
+        },
+        {
+          "no": 5,
+          "word": "பாரிக்கும் <br>(Paarikkum)",
+          "ta": "வளர்க்கும்",
+          "en": "Will bring",
+          "hi": "पोषण करता"
+        },
+        {
+          "no": 6,
+          "word": "நோய் <br>(Noy)",
+          "ta": "நோயாகும்",
+          "en": "Plague",
+          "hi": "रोग"
+        },
+        {
+          "no": 7,
+          "word": "பகை <br>(Pagai)",
+          "ta": "பகைமை",
+          "en": "Enmity",
+          "hi": "शत्रुता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இகலென்ப வெல்லா வுயிர்க்கும் பகலென்னும்",
+          "line2": "பண்பின்மை பாரிக்கு நோய்."
+        },
+        "en": {
+          "line1": "Hostility disunion's plague will bring,",
+          "line2": "That evil quality, to every living thing."
+        },
+        "hi": {
+          "line1": "सब जीवों में फूट ही, कहते हैं बुध लोग ।",
+          "line2": "अनमिल-भाव-अनर्थ का, पोषण करता रोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Igalenpa Vellaa Vuyirkkum Pagalennum",
+            "line2": "Panpinmai Paarikku Noy."
+          },
+          "hi": {
+            "line1": "इगलॆन्ब वॆल्ला वुयिर्क्कुम् पगलॆन्नुम्",
+            "line2": "पण्बिन्मै पारिक्कु नोय्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இகல் என்று சொல்லப்படுவது, எல்லா உயிர்களிடத்தும் பிரிவு என்னும் தீய பண்பின்மையைப் பரவச் செய்யும் கொடிய நோயாகும்.",
+        "en": "Hostility is a social disease that breeds division and ill will everywhere it spreads.",
+        "hi": "विद्वान लोग कहते हैं कि विभेद (शत्रुता) ही ऐसा रोग है जो सभी जीवों में अनमिल भाव और अनर्थ का पोषण करता है।"
+      }
+    },
+    {
+      "num": 852,
+      "line1": "பகல்கருதிப் பற்றா செயினு மிகல்கருதி",
+      "line2": "யின்னாசெய் யாமை தலை.",
+      "enLine1": "Though men disunion plan, and do thee much despite,",
+      "enLine2": "'Tis best no enmity to plan, nor evil deeds requite.",
+      "hiLine1": "कोई अनमिल भाव से, कर्म करे यदि पोच ।",
+      "hiLine2": "अहित न करना है भला, भेद-भाव को सोच ॥",
+      "general": "பிறர் பிரிவைக் கருதிப் பொருந்தாத தீமைகளைச் செய்தாலும், தாம் அவரை வெல்லக் கருதித் திருப்பித் தீமை செய்யாதிருப்பதே சிறந்த பண்பாகும்.",
+      "en": "Even if others plot division and act spitefully toward you, it is noblest not to harbor enmity or repay evil with evil.",
+      "hi": "यदि कोई व्यक्ति अनमिल भाव से नीच कर्म करे, तो भी बदले में भेद-भाव सोचकर उसका अहित न करना ही श्रेष्ठ है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பகல் கருதி <br>(Pagal karudhi)",
+          "ta": "பிரிவைக் கருதி",
+          "en": "Disunion plan",
+          "hi": "अनमिल भाव से"
+        },
+        {
+          "no": 2,
+          "word": "பற்றா செயினும் <br>(Patraa seyinum)",
+          "ta": "பொருந்தாத தீமை செய்தாலும்",
+          "en": "Do thee much despite",
+          "hi": "कर्म करे यदि पोच"
+        },
+        {
+          "no": 3,
+          "word": "மிகல் கருதி <br>(Migal karudhi)",
+          "ta": "வெல்லக் கருதி",
+          "en": "Enmity to plan",
+          "hi": "भेद-भाव को सोच"
+        },
+        {
+          "no": 4,
+          "word": "இன்னா <br>(Innaa)",
+          "ta": "தீமைகளை",
+          "en": "Evil deeds",
+          "hi": "अहित"
+        },
+        {
+          "no": 5,
+          "word": "செய்யாமை <br>(Seyyaamai)",
+          "ta": "செய்யாதிருத்தல்",
+          "en": "Nor requite",
+          "hi": "न करना"
+        },
+        {
+          "no": 6,
+          "word": "தலை <br>(Thalai)",
+          "ta": "சிறந்தது",
+          "en": "'Tis best",
+          "hi": "है भला"
+        },
+        {
+          "no": 7,
+          "word": "பொறுமை <br>(Porumai)",
+          "ta": "பொறுமை",
+          "en": "Forbearance",
+          "hi": "सहनशीलता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பகல்கருதிப் பற்றா செயினு மிகல்கருதி",
+          "line2": "யின்னாசெய் யாமை தலை."
+        },
+        "en": {
+          "line1": "Though men disunion plan, and do thee much despite,",
+          "line2": "'Tis best no enmity to plan, nor evil deeds requite."
+        },
+        "hi": {
+          "line1": "कोई अनमिल भाव से, कर्म करे यदि पोच ।",
+          "line2": "अहित न करना है भला, भेद-भाव को सोच ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pagalkarudhip Patraa Seyinu Migalkarudhi",
+            "line2": "Yinnaasey Yaamai Thalai."
+          },
+          "hi": {
+            "line1": "पगल्करुदिप् पत्र्रा सॆयिनु मिगल्करुदि",
+            "line2": "यिन्नासॆय् यामै तलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறர் பிரிவைக் கருதிப் பொருந்தாத தீமைகளைச் செய்தாலும், தாம் அவரை வெல்லக் கருதித் திருப்பித் தீமை செய்யாதிருப்பதே சிறந்த பண்பாகும்.",
+        "en": "Even when others try to provoke division and treat you unfairly, the best move is refusing to retaliate.",
+        "hi": "यदि कोई व्यक्ति अनमिल भाव से नीच कर्म करे, तो भी बदले में भेद-भाव सोचकर उसका अहित न करना ही श्रेष्ठ है।"
+      }
+    },
+    {
+      "num": 853,
+      "line1": "இகலென்னு மெவ்வநோய் நீக்கிற் றவலில்லாத்",
+      "line2": "தாவில் விளக்கந் தரும்.",
+      "enLine1": "If enmity, that grievous plague, you shun,",
+      "enLine2": "Endless undying praises shall be won.",
+      "hiLine1": "रहता है दुःखद बड़ा, भेद-भाव का रोग ।",
+      "hiLine2": "उसके वर्जन से मिले, अमर कीर्तिका भोग ॥",
+      "general": "இகல் என்று சொல்லப்படும் கொடிய நோயை ஒருவர் தம்மிடமிருந்து நீக்கிவிட்டால், அது அழிவற்றதும் குற்றமற்றதுமான புகழைத் தரும்.",
+      "en": "If one rids oneself of the grievous disease called hostility, it brings endless, untarnished glory.",
+      "hi": "भेद-भाव का रोग बहुत दुःखद होता है; इसका त्याग करने से मनुष्य को अमर कीर्ति की प्राप्ति होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இகல் என்னும் <br>(Igal ennum)",
+          "ta": "மாறுபாடு என்னும்",
+          "en": "Enmity",
+          "hi": "भेद-भाव का"
+        },
+        {
+          "no": 2,
+          "word": "எவ்வ நோய் <br>(Evva noy)",
+          "ta": "கொடிய நோயை",
+          "en": "Grievous plague",
+          "hi": "दुःखद बड़ा रोग"
+        },
+        {
+          "no": 3,
+          "word": "நீக்கின் <br>(Neekkin)",
+          "ta": "நீக்கிவிட்டால்",
+          "en": "If you shun",
+          "hi": "उसके वर्जन से"
+        },
+        {
+          "no": 4,
+          "word": "தவல் இல்லா <br>(Thaval illaa)",
+          "ta": "அழிவில்லாத",
+          "en": "Endless",
+          "hi": "अमर"
+        },
+        {
+          "no": 5,
+          "word": "தாவு இல் <br>(Thaavu il)",
+          "ta": "குற்றமற்ற",
+          "en": "Undying",
+          "hi": "निर्मल"
+        },
+        {
+          "no": 6,
+          "word": "விளக்கம் <br>(Vilakkam)",
+          "ta": "புகழைத்",
+          "en": "Praises",
+          "hi": "कीर्तिका भोग"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Shall be won",
+          "hi": "मिले"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இகலென்னு மெவ்வநோய் நீக்கிற் றவலில்லாத்",
+          "line2": "தாவில் விளக்கந் தரும்."
+        },
+        "en": {
+          "line1": "If enmity, that grievous plague, you shun,",
+          "line2": "Endless undying praises shall be won."
+        },
+        "hi": {
+          "line1": "रहता है दुःखद बड़ा, भेद-भाव का रोग ।",
+          "line2": "उसके वर्जन से मिले, अमर कीर्तिका भोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Igalennu Mevvanoy Neekkir Ravalillaath",
+            "line2": "Thaavil Vilakkan Tharum."
+          },
+          "hi": {
+            "line1": "इगलॆन्नु मॆव्वनोय् नीक्किर रवलिल्लात्",
+            "line2": "ताविल् विळक्कन् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இகல் என்று சொல்லப்படும் கொடிய நோயை ஒருவர் தம்மிடமிருந்து நீக்கிவிட்டால், அது அழிவற்றதும் குற்றமற்றதுமான புகழைத் தரும்.",
+        "en": "Letting go of petty hostility doesn't just give you peace—it earns you lasting respect.",
+        "hi": "भेद-भाव का रोग बहुत दुःखद होता है; इसका त्याग करने से मनुष्य को अमर कीर्ति की प्राप्ति होती है।"
+      }
+    },
+    {
+      "num": 854,
+      "line1": "இன்பத்து ளின்பம் பயக்கு மிகலென்னுந்",
+      "line2": "துன்பத்து டுன்பங் கெடின்.",
+      "enLine1": "Joy of joys abundant grows,",
+      "enLine2": "When malice dies, that woe of woes.",
+      "hiLine1": "दुःखों में सबसे बड़ा, है विभेद का दुःख ।",
+      "hiLine2": "जब होता है नष्ट वह, होता सुख ही सुक्ख ॥",
+      "general": "துன்பங்களுக்கெல்லாம் துன்பமான இகல் என்பது அழிந்துவிட்டால், அது இன்பங்களுக்கெல்லாம் மேலான பேரின்பத்தைத் தரும்.",
+      "en": "When hostility—the worst of all sorrows—is destroyed, it yields the highest joy of all joys.",
+      "hi": "समस्त दुःखों में विभेद का दुःख सबसे बड़ा है; जब वह नष्ट हो जाता है, तब जीवन में सुख ही सुख प्राप्त होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்பத்துள் இன்பம் <br>(Inbaththul inbam)",
+          "ta": "இன்பங்களுக்கெல்லாம் சிறந்த இன்பம்",
+          "en": "Joy of joys",
+          "hi": "सुख ही सुक्ख"
+        },
+        {
+          "no": 2,
+          "word": "பயக்கும் <br>(Payakkum)",
+          "ta": "தரும்",
+          "en": "Abundant grows",
+          "hi": "होता है"
+        },
+        {
+          "no": 3,
+          "word": "இகல் என்னும் <br>(Igal ennum)",
+          "ta": "மாறுபாடு என்னும்",
+          "en": "Malice",
+          "hi": "विभेद का"
+        },
+        {
+          "no": 4,
+          "word": "துன்பத்துள் <br>(Thunbaththul)",
+          "ta": "துன்பங்களில் எல்லாம்",
+          "en": "Woe of",
+          "hi": "दुःखों में सबसे बड़ा"
+        },
+        {
+          "no": 5,
+          "word": "துன்பம் <br>(Thunbam)",
+          "ta": "கொடிய துன்பம்",
+          "en": "Woes",
+          "hi": "दुःख"
+        },
+        {
+          "no": 6,
+          "word": "கெடின் <br>(Kedin)",
+          "ta": "அழிந்தால்",
+          "en": "Dies",
+          "hi": "जब होता है नष्ट"
+        },
+        {
+          "no": 7,
+          "word": "மகிழ்ச்சி <br>(Magizhchi)",
+          "ta": "மகிழ்ச்சி",
+          "en": "Joy",
+          "hi": "आनन्द"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்பத்து ளின்பம் பயக்கு மிகலென்னுந்",
+          "line2": "துன்பத்து டுன்பங் கெடின்."
+        },
+        "en": {
+          "line1": "Joy of joys abundant grows,",
+          "line2": "When malice dies, that woe of woes."
+        },
+        "hi": {
+          "line1": "दुःखों में सबसे बड़ा, है विभेद का दुःख ।",
+          "line2": "जब होता है नष्ट वह, होता सुख ही सुक्ख ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inpaththu Linpam Payakku Migalennun",
+            "line2": "Thunpaththu Dunpang Kedin."
+          },
+          "hi": {
+            "line1": "इन्बत्तु ळिन्बम् पयक्कु मिगलॆन्नुन्",
+            "line2": "तुन्बत्तु डुन्बङ् कॆडिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "துன்பங்களுக்கெல்லாம் துன்பமான இகல் என்பது அழிந்துவிட்டால், அது இன்பங்களுக்கெல்லாம் மேலான பேரின்பத்தைத் தரும்.",
+        "en": "Drop the bitterness and resentment, and you unlock the deepest kind of relief and happiness.",
+        "hi": "समस्त दुःखों में विभेद का दुःख सबसे बड़ा है; जब वह नष्ट हो जाता है, तब जीवन में सुख ही सुख प्राप्त होता है।"
+      }
+    },
+    {
+      "num": 855,
+      "line1": "இகலெதிர் சாய்ந்தொழுக வல்லாரை யாரே",
+      "line2": "மிகலூக்குந் தன்மை யவர்.",
+      "enLine1": "If men from enmity can keep their spirits free,",
+      "enLine2": "Who over them shall gain the victory?",
+      "hiLine1": "उठते देख विभेद को, हट कर रहे समर्थ ।",
+      "hiLine2": "उसपर कौन समर्थ जो, सोचे जय के अर्थ ॥",
+      "general": "பகைமையை எதிர்த்துச் செல்லாமல் ஒதுங்கி வாழ வல்லவர்களை, வெல்ல நினைக்கும் தன்மை உடையவர்கள் உலகில் யார் இருக்கிறார்கள்?",
+      "en": "Who is capable of overcoming those who know how to step aside and avoid hostility?",
+      "hi": "जो समर्थ व्यक्ति विभेद को उठते देखकर उससे हटकर रहते हैं, उन पर विजय पाने की सोचने में भला कौन समर्थ हो सकता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "இகல் எதிர் <br>(Igal edhir)",
+          "ta": "மாறுபாட்டை எதிர்க்காமல்",
+          "en": "From enmity",
+          "hi": "विभेद को"
+        },
+        {
+          "no": 2,
+          "word": "சாய்ந்து <br>(Saayndhu)",
+          "ta": "ஒதுங்கி",
+          "en": "Keep free",
+          "hi": "हट कर"
+        },
+        {
+          "no": 3,
+          "word": "ஒழுக வல்லாரை <br>(Ozhuga vallaarai)",
+          "ta": "நடக்க வல்லவர்களை",
+          "en": "If men can",
+          "hi": "रहे समर्थ"
+        },
+        {
+          "no": 4,
+          "word": "யாரே <br>(Yaare)",
+          "ta": "எவர்தான்",
+          "en": "Who",
+          "hi": "कौन समर्थ"
+        },
+        {
+          "no": 5,
+          "word": "மிகல் ஊக்கும் <br>(Migal ookkum)",
+          "ta": "வெல்ல முயலும்",
+          "en": "Gain the victory",
+          "hi": "सोचे जय के अर्थ"
+        },
+        {
+          "no": 6,
+          "word": "தன்மையவர் <br>(Thanmaiyavar)",
+          "ta": "தன்மை உடையவர்",
+          "en": "Over them",
+          "hi": "उसपर"
+        },
+        {
+          "no": 7,
+          "word": "வெற்றி <br>(Vetri)",
+          "ta": "வெற்றி",
+          "en": "Victory",
+          "hi": "विजय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இகலெதிர் சாய்ந்தொழுக வல்லாரை யாரே",
+          "line2": "மிகலூக்குந் தன்மை யவர்."
+        },
+        "en": {
+          "line1": "If men from enmity can keep their spirits free,",
+          "line2": "Who over them shall gain the victory?"
+        },
+        "hi": {
+          "line1": "उठते देख विभेद को, हट कर रहे समर्थ ।",
+          "line2": "उसपर कौन समर्थ जो, सोचे जय के अर्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Igaledhir Saayndhozhuga Vallaarai Yaare",
+            "line2": "Migalookkun Thanmai Yavar."
+          },
+          "hi": {
+            "line1": "इगलॆदिर् साय्न्दॊऴुग वल्लारै यारे",
+            "line2": "मिगलूक्कुन् तन्मै यवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைமையை எதிர்த்துச் செல்லாமல் ஒதுங்கி வாழ வல்லவர்களை, வெல்ல நினைக்கும் தன்மை உடையவர்கள் உலகில் யார் இருக்கிறார்கள்?",
+        "en": "People who refuse to get dragged into pointless feuds are practically impossible to defeat.",
+        "hi": "जो समर्थ व्यक्ति विभेद को उठते देखकर उससे हटकर रहते हैं, उन पर विजय पाने की सोचने में भला कौन समर्थ हो सकता है?"
+      }
+    },
+    {
+      "num": 856,
+      "line1": "இகலின் மிகலினி தென்பவன் வாழ்க்கை",
+      "line2": "தவலுங் கெடலு நணித்து.",
+      "enLine1": "The life of those who cherished enmity hold dear,",
+      "enLine2": "To grievous fault and utter death is near.",
+      "hiLine1": "भेद-वृद्धि से मानता, मिलता है आनन्द ।",
+      "hiLine2": "जीवन उसका चूक कर, होगा नष्ट तुरन्त ॥",
+      "general": "பகைமையால் பிறரை வெல்வதே இனிது என்று கருதுபவனுடைய வாழ்க்கை, தவறுவதும் அழிவதும் மிக அருகில் உள்ளன.",
+      "en": "The life of one who delights in hostility and triumphing over others is very close to failure and ruin.",
+      "hi": "जो व्यक्ति विभेद को बढ़ाने में ही आनन्द मानता है, उसका जीवन मार्ग से भटककर शीघ्र ही नष्ट हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இகலின் <br>(Igalin)",
+          "ta": "பகைமையால்",
+          "en": "Enmity",
+          "hi": "भेद-वृद्धि से"
+        },
+        {
+          "no": 2,
+          "word": "மிகல் இனிது <br>(Migal inidhu)",
+          "ta": "வெல்வது இனிது",
+          "en": "Cherished hold dear",
+          "hi": "मानता मिलता है आनन्द"
+        },
+        {
+          "no": 3,
+          "word": "என்பவன் <br>(Enbavan)",
+          "ta": "என்று எண்ணுபவனின்",
+          "en": "Of those who",
+          "hi": "उसका"
+        },
+        {
+          "no": 4,
+          "word": "வாழ்க்கை <br>(Vaazhkkai)",
+          "ta": "வாழ்க்கை",
+          "en": "The life",
+          "hi": "जीवन"
+        },
+        {
+          "no": 5,
+          "word": "தவலும் <br>(Thavalum)",
+          "ta": "தவறுதலும்",
+          "en": "Grievous fault",
+          "hi": "चूक कर"
+        },
+        {
+          "no": 6,
+          "word": "கெடலும் <br>(Kedalum)",
+          "ta": "அழிதலும்",
+          "en": "Utter death",
+          "hi": "होगा नष्ट"
+        },
+        {
+          "no": 7,
+          "word": "நணித்து <br>(Naniththu)",
+          "ta": "மிக அருகில் உள்ளது",
+          "en": "Is near",
+          "hi": "तुरन्त"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இகலின் மிகலினி தென்பவன் வாழ்க்கை",
+          "line2": "தவலுங் கெடலு நணித்து."
+        },
+        "en": {
+          "line1": "The life of those who cherished enmity hold dear,",
+          "line2": "To grievous fault and utter death is near."
+        },
+        "hi": {
+          "line1": "भेद-वृद्धि से मानता, मिलता है आनन्द ।",
+          "line2": "जीवन उसका चूक कर, होगा नष्ट तुरन्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Igalin Migalini Thenpavan Vaazhkkai",
+            "line2": "Thavalung Kedalu Naniththu."
+          },
+          "hi": {
+            "line1": "इगलिन् मिगलिनि दॆन्बवन् वाऴ्क्कै",
+            "line2": "तवलुङ् कॆडलु नणित्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைமையால் பிறரை வெல்வதே இனிது என்று கருதுபவனுடைய வாழ்க்கை, தவறுவதும் அழிவதும் மிக அருகில் உள்ளன.",
+        "en": "Anyone who thrives on conflict and constant rivalry is heading straight toward a quick collapse.",
+        "hi": "जो व्यक्ति विभेद को बढ़ाने में ही आनन्द मानता है, उसका जीवन मार्ग से भटककर शीघ्र ही नष्ट हो जाता है।"
+      }
+    },
+    {
+      "num": 857,
+      "line1": "மிகன்மேவு மெய்ப்பொருள் காணா ரிகன்மேவு",
+      "line2": "மின்னா வறிவி னவர்.",
+      "enLine1": "The very truth that greatness gives their eyes can never see,",
+      "enLine2": "Who only know to work men woe, fulfilled of enmity.",
+      "hiLine1": "करते जो दुर्बुद्धि हैं, भेद-भाव से प्रति ।",
+      "hiLine2": "तत्व-दर्श उनको नहीं, जो देता है जीत ॥",
+      "general": "பகைமைப் பண்பு கொண்ட தீய அறிவினர், தமக்கு வெற்றியையும் மேன்மையையும் தரும் மெய்ப்பொருளை உணர மாட்டார்கள்.",
+      "en": "Those of perverse minds filled with hostility cannot perceive the true wisdom that leads to greatness and victory.",
+      "hi": "जो दुर्बुद्धि लोग सदा भेद-भाव से प्रीति रखते हैं, उन्हें उस तत्व-ज्ञान का दर्शन नहीं होता जो सच्ची विजय दिलाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மிகல் மேவும் <br>(Migal mevum)",
+          "ta": "வெற்றி பொருந்திய",
+          "en": "That greatness gives",
+          "hi": "जो देता है जीत"
+        },
+        {
+          "no": 2,
+          "word": "மெய்ப்பொருள் <br>(Meypporul)",
+          "ta": "உண்மைப் பொருளை",
+          "en": "The very truth",
+          "hi": "तत्व-दर्श"
+        },
+        {
+          "no": 3,
+          "word": "காணார் <br>(Kaanaar)",
+          "ta": "காண மாட்டார்கள்",
+          "en": "Can never see",
+          "hi": "उनको नहीं"
+        },
+        {
+          "no": 4,
+          "word": "இகல் மேவும் <br>(Igal mevum)",
+          "ta": "பகைமை பொருந்திய",
+          "en": "Fulfilled of enmity",
+          "hi": "भेद-भाव से प्रति"
+        },
+        {
+          "no": 5,
+          "word": "இன்னா <br>(Innaa)",
+          "ta": "தீய",
+          "en": "Work men woe",
+          "hi": "दुर्बुद्धि"
+        },
+        {
+          "no": 6,
+          "word": "அறிவினவர் <br>(Arivinavar)",
+          "ta": "அறிவினர்",
+          "en": "Who only know",
+          "hi": "करते जो"
+        },
+        {
+          "no": 7,
+          "word": "உண்மை <br>(Unmai)",
+          "ta": "உண்மை",
+          "en": "Truth",
+          "hi": "सत्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மிகன்மேவு மெய்ப்பொருள் காணா ரிகன்மேவு",
+          "line2": "மின்னா வறிவி னவர்."
+        },
+        "en": {
+          "line1": "The very truth that greatness gives their eyes can never see,",
+          "line2": "Who only know to work men woe, fulfilled of enmity."
+        },
+        "hi": {
+          "line1": "करते जो दुर्बुद्धि हैं, भेद-भाव से प्रति ।",
+          "line2": "तत्व-दर्श उनको नहीं, जो देता है जीत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Miganmevu Meypporul Kaanaa Riganmevu",
+            "line2": "Minnaa Varivi Navar."
+          },
+          "hi": {
+            "line1": "मिगन्मेवु मॆय्प्पॊरुळ् काणा रिगन्मेवु",
+            "line2": "मिन्ना वऱिवि नवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைமைப் பண்பு கொண்ட தீய அறிவினர், தமக்கு வெற்றியையும் மேன்மையையும் தரும் மெய்ப்பொருளை உணர மாட்டார்கள்.",
+        "en": "When your mind is consumed by spite, you become completely blind to the truth that actually brings success.",
+        "hi": "जो दुर्बुद्धि लोग सदा भेद-भाव से प्रीति रखते हैं, उन्हें उस तत्व-ज्ञान का दर्शन नहीं होता जो सच्ची विजय दिलाता है।"
+      }
+    },
+    {
+      "num": 858,
+      "line1": "இகலிற் கெதிர்சாய்த லாக்க மதனை",
+      "line2": "மிகலூக்கி னூக்குமாங் கேடு.",
+      "enLine1": "'Tis gain to turn the soul from enmity ;",
+      "enLine2": "Ruin reigns where this hath mastery.",
+      "hiLine1": "हट कर रहना भेद से, देता है संपत्ति ।",
+      "hiLine2": "उससे अड़ कर जीतना, लाता पास विपत्ति ॥",
+      "general": "பகைமைக்கு எதிராக நிற்காமல் விலகுவது ஆக்கத்தைத் தரும்; அப்பகைமையை வளர்த்து வெல்ல முயன்றால் அது கேட்டையே உண்டாக்கும்.",
+      "en": "Turning away from hostility brings prosperity, while feeding it in hopes of prevailing invites ruin.",
+      "hi": "विभेद से हटकर रहना सम्पत्ति और उन्नति देता है, जबकि उससे अड़कर जीतने का प्रयास करना विपत्ति को पास बुलाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இகலிற்கு <br>(Igalirku)",
+          "ta": "பகைமைக்கு",
+          "en": "From enmity",
+          "hi": "भेद से"
+        },
+        {
+          "no": 2,
+          "word": "எதிர் சாய்தல் <br>(Edhir saaydhal)",
+          "ta": "விலகிச் செல்லுதல்",
+          "en": "To turn the soul",
+          "hi": "हट कर रहना"
+        },
+        {
+          "no": 3,
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "ஆக்கமாகும்",
+          "en": "'Tis gain",
+          "hi": "देता है संपत्ति"
+        },
+        {
+          "no": 4,
+          "word": "அதனை <br>(Adhanai)",
+          "ta": "அப்பகைமையை",
+          "en": "Where this",
+          "hi": "उससे"
+        },
+        {
+          "no": 5,
+          "word": "மிகல் ஊக்கின் <br>(Migal ookkin)",
+          "ta": "வளர்த்து வெல்ல முயன்றால்",
+          "en": "Hath mastery",
+          "hi": "अड़ कर जीतना"
+        },
+        {
+          "no": 6,
+          "word": "ஊக்கும் ஆம் <br>(Ookkum aam)",
+          "ta": "முயன்று தரும்",
+          "en": "Reigns",
+          "hi": "लाता पास"
+        },
+        {
+          "no": 7,
+          "word": "கேடு <br>(Kedu)",
+          "ta": "கேட்டை",
+          "en": "Ruin",
+          "hi": "विपत्ति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இகலிற் கெதிர்சாய்த லாக்க மதனை",
+          "line2": "மிகலூக்கி னூக்குமாங் கேடு."
+        },
+        "en": {
+          "line1": "'Tis gain to turn the soul from enmity ;",
+          "line2": "Ruin reigns where this hath mastery."
+        },
+        "hi": {
+          "line1": "हट कर रहना भेद से, देता है संपत्ति ।",
+          "line2": "उससे अड़ कर जीतना, लाता पास विपत्ति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Igalir Kedhirsaaytha Laakka Madhanai",
+            "line2": "Migalookki Nookkumaang Kedu."
+          },
+          "hi": {
+            "line1": "इगलिर कॆदिर्साय्द लाक्क मदनै",
+            "line2": "मिगलूक्कि नूक्कुमाङ् केडु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைமைக்கு எதிராக நிற்காமல் விலகுவது ஆக்கத்தைத் தரும்; அப்பகைமையை வளர்த்து வெல்ல முயன்றால் அது கேட்டையே உண்டாக்கும்.",
+        "en": "Walking away from a fight builds you up; doubling down on a grudge pulls disaster closer.",
+        "hi": "विभेद से हटकर रहना सम्पत्ति और उन्नति देता है, जबकि उससे अड़कर जीतने का प्रयास करना विपत्ति को पास बुलाता है।"
+      }
+    },
+    {
+      "num": 859,
+      "line1": "இகல்காணா னாக்கம் வருங்கா லதனை",
+      "line2": "மிகல்காணுங் கேடு தரற்கு.",
+      "enLine1": "Men think not hostile thought in fortune's favouring hour,",
+      "enLine2": "They cherish enmity when in misfortune's power.",
+      "hiLine1": "भेद-भाव नहिं देखता, तो होती संपत्ति ।",
+      "hiLine2": "अधिक देखना है उसे, पाना है आपत्ति ॥",
+      "general": "ஒருவனுக்கு ஆக்கம் வரும் காலத்தில் அவன் பகைமையைக் கருத மாட்டான்; கேடு வரும் காலத்தில்தான் பகைமையைப் பெரிதாகக் கருதுவான்.",
+      "en": "When prosperity is coming, a person pays no heed to hostility; when ruin approaches, they indulge in hostility.",
+      "hi": "जब मनुष्य भेद-भाव को नहीं देखता (उससे दूर रहता है) तब सम्पत्ति प्राप्त होती है, और उसे अधिक महत्व देना आपत्ति को बुलाना है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இகல் காணான் <br>(Igal kaanaan)",
+          "ta": "பகைமையைக் கருத மாட்டான்",
+          "en": "Think not hostile thought",
+          "hi": "भेद-भाव नहिं देखता"
+        },
+        {
+          "no": 2,
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "ஆக்கம்",
+          "en": "Fortune's favouring hour",
+          "hi": "संपत्ति"
+        },
+        {
+          "no": 3,
+          "word": "வருங்கால் <br>(Varungaal)",
+          "ta": "வரும்போது",
+          "en": "In",
+          "hi": "तो होती"
+        },
+        {
+          "no": 4,
+          "word": "அதனை <br>(Adhanai)",
+          "ta": "அப்பகைமையை",
+          "en": "Enmity",
+          "hi": "उसे"
+        },
+        {
+          "no": 5,
+          "word": "மிகல் காணும் <br>(Migal kaanum)",
+          "ta": "வளர்ப்பதையே கருதுவான்",
+          "en": "Cherish",
+          "hi": "अधिक देखना है"
+        },
+        {
+          "no": 6,
+          "word": "கேடு <br>(Kedu)",
+          "ta": "கேடு",
+          "en": "Misfortune's power",
+          "hi": "आपत्ति"
+        },
+        {
+          "no": 7,
+          "word": "தரற்கு <br>(Thararku)",
+          "ta": "உண்டாவதற்கு",
+          "en": "When in",
+          "hi": "पाना है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இகல்காணா னாக்கம் வருங்கா லதனை",
+          "line2": "மிகல்காணுங் கேடு தரற்கு."
+        },
+        "en": {
+          "line1": "Men think not hostile thought in fortune's favouring hour,",
+          "line2": "They cherish enmity when in misfortune's power."
+        },
+        "hi": {
+          "line1": "भेद-भाव नहिं देखता, तो होती संपत्ति ।",
+          "line2": "अधिक देखना है उसे, पाना है आपत्ति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Igalkaanaa Naakkam Varunggaa Ladhanai",
+            "line2": "Migalkaanung Kedu Thararku."
+          },
+          "hi": {
+            "line1": "इगल्काणा नाक्कम् वरुङ्गा लदनै",
+            "line2": "मिगल्काणुङ् केडु तरर्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவனுக்கு ஆக்கம் வரும் காலத்தில் அவன் பகைமையைக் கருத மாட்டான்; கேடு வரும் காலத்தில்தான் பகைமையைப் பெரிதாகக் கருதுவான்.",
+        "en": "Good fortune comes to those who ignore petty rivalries; obsessing over them is a sure sign of trouble ahead.",
+        "hi": "जब मनुष्य भेद-भाव को नहीं देखता (उससे दूर रहता है) तब सम्पत्ति प्राप्त होती है, और उसे अधिक महत्व देना आपत्ति को बुलाना है।"
+      }
+    },
+    {
+      "num": 860,
+      "line1": "இகலானா மின்னாத வெல்லா நகலானா",
+      "line2": "நன்னய மென்னுஞ் செருக்கு.",
+      "enLine1": "From enmity do all afflictive evils flow;",
+      "enLine2": "But friendliness doth wealth of kindly good bestow.",
+      "hiLine1": "होती हैं सब हानियाँ, भेद-भाव से प्राप्त ।",
+      "hiLine2": "मैत्री से शुभ नीति का, उत्तम धन है प्राप्त ॥",
+      "general": "பகைமையால் எல்லாத் துன்பங்களும் உண்டாகும்; நகைத்துப் பழகும் நட்பால் நல்ல நீதியும் மனநிறைவுமாகிய பெருமை உண்டாகும்.",
+      "en": "All painful evils arise from hostility, whereas friendliness brings the rich pride of goodness and righteousness.",
+      "hi": "भेद-भाव से सभी प्रकार की हानियाँ होती हैं, जबकि मैत्रीभाव से शुभ नीति और सद्गुणों का उत्तम धन प्राप्त होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இகலான் ஆம் <br>(Igalaan aam)",
+          "ta": "பகைமையால் உண்டாகும்",
+          "en": "From enmity flow",
+          "hi": "भेद-भाव से प्राप्त"
+        },
+        {
+          "no": 2,
+          "word": "இன்னாத எல்லாம் <br>(Innaadha ellaam)",
+          "ta": "துன்பங்கள் எல்லாம்",
+          "en": "All afflictive evils",
+          "hi": "होती हैं सब हानियाँ"
+        },
+        {
+          "no": 3,
+          "word": "நகலான் ஆம் <br>(Nagalaan aam)",
+          "ta": "நட்பால் உண்டாகும்",
+          "en": "Friendliness doth bestow",
+          "hi": "मैत्री से प्राप्त"
+        },
+        {
+          "no": 4,
+          "word": "நன்னயம் <br>(Nannayam)",
+          "ta": "நல்ல நீதி",
+          "en": "Kindly good",
+          "hi": "शुभ नीति का"
+        },
+        {
+          "no": 5,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "எனப்படும்",
+          "en": "Of",
+          "hi": "का"
+        },
+        {
+          "no": 6,
+          "word": "செருக்கு <br>(Serukku)",
+          "ta": "பெருமிதச் செல்வம்",
+          "en": "Wealth",
+          "hi": "उत्तम धन"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பு",
+          "en": "Friendliness",
+          "hi": "मैत्री"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இகலானா மின்னாத வெல்லா நகலானா",
+          "line2": "நன்னய மென்னுஞ் செருக்கு."
+        },
+        "en": {
+          "line1": "From enmity do all afflictive evils flow;",
+          "line2": "But friendliness doth wealth of kindly good bestow."
+        },
+        "hi": {
+          "line1": "होती हैं सब हानियाँ, भेद-भाव से प्राप्त ।",
+          "line2": "मैत्री से शुभ नीति का, उत्तम धन है प्राप्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Igalaanaa Minnaadha Vellaa Nagalaanaa",
+            "line2": "Nannaya Mennuny Serukku."
+          },
+          "hi": {
+            "line1": "इगलाना मिन्नाद वॆल्ला नगलाना",
+            "line2": "नन्नय मॆन्नुञ् सॆरुक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைமையால் எல்லாத் துன்பங்களும் உண்டாகும்; நகைத்துப் பழகும் நட்பால் நல்ல நீதியும் மனநிறைவுமாகிய பெருமை உண்டாகும்.",
+        "en": "Hostility is the root of every kind of misery, while genuine warmth and friendliness bring lasting goodwill and strength.",
+        "hi": "भेद-भाव से सभी प्रकार की हानियाँ होती हैं, जबकि मैत्रीभाव से शुभ नीति और सद्गुणों का उत्तम धन प्राप्त होता है।"
+      }
+    }
+  ]
+}

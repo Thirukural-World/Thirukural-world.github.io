@@ -1,0 +1,930 @@
+{
+  "chapterNum": 18,
+  "nameTa": "வெஃகாமை",
+  "nameEn": "Not Coveting",
+  "nameHi": "निर्लोभता",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 171,
+      "line1": "நடுவின்றி நன்பொருள் வெஃகின் குடிபொன்றிக்",
+      "line2": "குற்றமும் ஆங்கே தரும்.",
+      "enLine1": "With soul unjust to covet others' well-earned store,",
+      "enLine2": "Brings ruin to the home, to evil opes the door.",
+      "hiLine1": "न्याय-बुद्धि को छोड़ कर, यदि हो पर-धन-लोभ ।",
+      "hiLine2": "हो कर नाश कुटुम्ब का, होगा दोषारोप ॥",
+      "general": "நடுவுநிலைமை இல்லாமல் பிறருடைய நல்ல பொருளை விரும்பினால், அது குடியையும் அழித்து அப்போதே குற்றத்தையும் உண்டாக்கிவிடும்.",
+      "en": "If a person unjustly covets the good wealth of others, it will destroy their family and immediately bring guilt upon them.",
+      "hi": "न्याय-बुद्धि को छोड़कर यदि कोई दूसरे के धन का लोभ करता है, तो उसके परिवार का नाश होता है और उस पर दोषारोपण (कलंक) लगता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நடுவின்றி <br>(Naduvindri)",
+          "ta": "நடுவுநிலைமை இல்லாமல்",
+          "en": "With soul unjust",
+          "hi": "न्याय-बुद्धि को छोड़कर"
+        },
+        {
+          "no": 2,
+          "word": "நன்பொருள் <br>(Nanborul)",
+          "ta": "பிறரின் நல்ல பொருளை",
+          "en": "Others' well-earned store",
+          "hi": "पर-धन का"
+        },
+        {
+          "no": 3,
+          "word": "வெஃகின் <br>(Vekgin)",
+          "ta": "விரும்பினால்",
+          "en": "If one covets",
+          "hi": "यदि लोभ हो"
+        },
+        {
+          "no": 4,
+          "word": "குடிபொன்றிக் <br>(Kudipondrik)",
+          "ta": "குடி அழிந்து",
+          "en": "Ruining the home",
+          "hi": "कुटुम्ब का नाश होकर"
+        },
+        {
+          "no": 5,
+          "word": "குற்றமும் <br>(Kutramum)",
+          "ta": "குற்றமும்",
+          "en": "Guilt / evil",
+          "hi": "दोषारोपण भी"
+        },
+        {
+          "no": 6,
+          "word": "ஆங்கே <br>(Aange)",
+          "ta": "உடனே",
+          "en": "At once / there",
+          "hi": "तत्काल"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "உண்டாக்கும்",
+          "en": "Brings",
+          "hi": "होगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நடுவின்றி நன்பொருள் வெஃகின் குடிபொன்றிக்",
+          "line2": "குற்றமும் ஆங்கே தரும்."
+        },
+        "en": {
+          "line1": "With soul unjust to covet others' well-earned store,",
+          "line2": "Brings ruin to the home, to evil opes the door."
+        },
+        "hi": {
+          "line1": "न्याय-बुद्धि को छोड़ कर, यदि हो पर-धन-लोभ ।",
+          "line2": "हो कर नाश कुटुम्ब का, होगा दोषारोप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naduvindri Nanborul Vekgin Kudipondrik",
+            "line2": "Kutramum Aange Tharum."
+          },
+          "hi": {
+            "line1": "नडुविन्द्रि नन्बॊरुळ् वॆःगिन् कुडिपॊन्द्रिक्",
+            "line2": "कुत्रमुम् आंगे तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நடுவுநிலைமை இல்லாமல் பிறருடைய நல்ல பொருளை விரும்பினால், அது குடியையும் அழித்து அப்போதே குற்றத்தையும் உண்டாக்கிவிடும்.",
+        "en": "Unjustly coveting what others have rightfully earned destroys one's household and invites immediate moral ruin.",
+        "hi": "न्याय-बुद्धि को छोड़कर यदि कोई दूसरे के धन का लोभ करता है, तो उसके परिवार का नाश होता है और उस पर दोषारोपण (कलंक) लगता है।"
+      }
+    },
+    {
+      "num": 172,
+      "line1": "படுபயன் வெஃகிப் பழிப்படுவ செய்யார்",
+      "line2": "நடுவன்மை நாணு பவர்.",
+      "enLine1": "Through lust of gain, no deeds that retribution bring",
+      "enLine2": "Do they, who shrink with shame from every unjust thing.",
+      "hiLine1": "न्याय-पक्ष के त्याग से, जिनको होती लाज ।",
+      "hiLine2": "लोभित पर-धन-लाभ से, करते नहीं अकाज ॥",
+      "general": "நடுவுநிலைமை தவறுவதற்கு நாணப்படுபவர்கள், பிறர் பொருளால் கிடைக்கும் பயனை விரும்பிப் பழி தரும் செயல்களைச் செய்யமாட்டார்கள்.",
+      "en": "Those who shrink with shame from injustice will not, out of greed for gain, commit deeds that bring reproach.",
+      "hi": "जिन्हें न्याय के पक्ष का त्याग करने में लज्जा आती है, वे पर-धन के लाभ से लोभित होकर कभी कोई अनुचित कार्य नहीं करते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "படுபயன் <br>(Padubayan)",
+          "ta": "கிடைக்கும் பயனை",
+          "en": "Lust of gain",
+          "hi": "पर-धन के लाभ से"
+        },
+        {
+          "no": 2,
+          "word": "வெஃகிப் <br>(Vekgip)",
+          "ta": "விரும்பி",
+          "en": "Coveting",
+          "hi": "लोभित होकर"
+        },
+        {
+          "no": 3,
+          "word": "பழிப்படுவ <br>(Pazhippaduva)",
+          "ta": "பழி தரும் செயல்களை",
+          "en": "Deeds bringing reproach",
+          "hi": "अनुचित कार्य (अकाज)"
+        },
+        {
+          "no": 4,
+          "word": "செய்யார் <br>(Seyyaar)",
+          "ta": "செய்யமாட்டார்",
+          "en": "Do not do",
+          "hi": "नहीं करते"
+        },
+        {
+          "no": 5,
+          "word": "நடுவன்மை <br>(Naduvanmai)",
+          "ta": "நடுவுநிலைமை அல்லாததை",
+          "en": "Injustice / unjust thing",
+          "hi": "न्याय-पक्ष के त्याग से"
+        },
+        {
+          "no": 6,
+          "word": "நாணு <br>(Naanu)",
+          "ta": "நாணு",
+          "en": "Shrink with shame",
+          "hi": "लज्जा करने"
+        },
+        {
+          "no": 7,
+          "word": "பவர் <br>(Pavar)",
+          "ta": "பவர்",
+          "en": "Those who",
+          "hi": "वाले"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "படுபயன் வெஃகிப் பழிப்படுவ செய்யார்",
+          "line2": "நடுவன்மை நாணு பவர்."
+        },
+        "en": {
+          "line1": "Through lust of gain, no deeds that retribution bring",
+          "line2": "Do they, who shrink with shame from every unjust thing."
+        },
+        "hi": {
+          "line1": "न्याय-पक्ष के त्याग से, जिनको होती लाज ।",
+          "line2": "लोभित पर-धन-लाभ से, करते नहीं अकाज ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Padubayan Vekgip Pazhippaduva Seyyaar",
+            "line2": "Naduvanmai Naanu Pavar."
+          },
+          "hi": {
+            "line1": "पडुबयन् वॆःगिप् पऴिप्पडुव सॆय्यार्",
+            "line2": "नडुवन्मै नाणु पवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நடுவுநிலைமை தவறுவதற்கு நாணப்படுபவர்கள், பிறர் பொருளால் கிடைக்கும் பயனை விரும்பிப் பழி தரும் செயல்களைச் செய்யமாட்டார்கள்.",
+        "en": "People of integrity who feel ashamed at the very thought of unfairness will never pursue profit through shameful deeds.",
+        "hi": "जिन्हें न्याय के पक्ष का त्याग करने में लज्जा आती है, वे पर-धन के लाभ से लोभित होकर कभी कोई अनुचित कार्य नहीं करते।"
+      }
+    },
+    {
+      "num": 173,
+      "line1": "சிற்றின்பம் வெஃகி அறனல்ல செய்யாரே",
+      "line2": "மற்றின்பம் வேண்டு பவர்.",
+      "enLine1": "No deeds of ill, misled by base desire,",
+      "enLine2": "Do they, whose souls to other joys aspire.",
+      "hiLine1": "नश्वर सुख के लोभ में, वे न करें दुष्कृत्य ।",
+      "hiLine2": "जिनको इच्छा हो रही, पाने को सुख नित्य ॥",
+      "general": "நிலையான பேரின்பத்தை விரும்புபவர்கள், அற்பமான சிற்றின்பத்தை விரும்பி அறத்திற்குப் புறம்பான செயல்களைச் செய்யமாட்டார்கள்.",
+      "en": "Those who desire eternal bliss will not, out of longing for fleeting pleasure, commit unrighteous deeds.",
+      "hi": "जिन लोगों को शाश्वत (नित्य) सुख पाने की इच्छा होती है, वे क्षणभंगुर नश्वर सुख के लोभ में आकर कभी कोई दुष्कृत्य नहीं करते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சிற்றின்பம் <br>(Sitrinbam)",
+          "ta": "நிலையற்ற சிற்றின்பத்தை",
+          "en": "Base / fleeting pleasure",
+          "hi": "नश्वर सुख को"
+        },
+        {
+          "no": 2,
+          "word": "வெஃகி <br>(Vekgi)",
+          "ta": "விரும்பி",
+          "en": "Coveting / misled by desire",
+          "hi": "लोभ में पड़कर"
+        },
+        {
+          "no": 3,
+          "word": "அறனல்ல <br>(Aranalla)",
+          "ta": "அறமல்லாத செயல்களை",
+          "en": "Deeds of ill",
+          "hi": "दुष्कृत्य"
+        },
+        {
+          "no": 4,
+          "word": "செய்யாரே <br>(Seyyaare)",
+          "ta": "செய்யமாட்டார்",
+          "en": "Will not do",
+          "hi": "नहीं करते"
+        },
+        {
+          "no": 5,
+          "word": "மற்றின்பம் <br>(Matrinbam)",
+          "ta": "நிலையான பேரின்பத்தை",
+          "en": "Other / eternal joys",
+          "hi": "नित्य सुख को"
+        },
+        {
+          "no": 6,
+          "word": "வேண்டு <br>(Vendu)",
+          "ta": "விரும்பு",
+          "en": "Aspiring / desiring",
+          "hi": "पाने की इच्छा रखने"
+        },
+        {
+          "no": 7,
+          "word": "பவர் <br>(Pavar)",
+          "ta": "பவர்",
+          "en": "Those who",
+          "hi": "वाले"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சிற்றின்பம் வெஃகி அறனல்ல செய்யாரே",
+          "line2": "மற்றின்பம் வேண்டு பவர்."
+        },
+        "en": {
+          "line1": "No deeds of ill, misled by base desire,",
+          "line2": "Do they, whose souls to other joys aspire."
+        },
+        "hi": {
+          "line1": "नश्वर सुख के लोभ में, वे न करें दुष्कृत्य ।",
+          "line2": "जिनको इच्छा हो रही, पाने को सुख नित्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sitrinbam Vekgi Aranalla Seyyaare",
+            "line2": "Matrinbam Vendu Pavar."
+          },
+          "hi": {
+            "line1": "सित्रिन्बम् वॆःगि अरनल्ल सॆय्यारे",
+            "line2": "मत्रिन्बम् वेण्डु पवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நிலையான பேரின்பத்தை விரும்புபவர்கள், அற்பமான சிற்றின்பத்தை விரும்பி அறத்திற்குப் புறம்பான செயல்களைச் செய்யமாட்டார்கள்.",
+        "en": "Those who seek lasting spiritual fulfillment will not trade their integrity for temporary, selfish pleasures.",
+        "hi": "जिन लोगों को शाश्वत (नित्य) सुख पाने की इच्छा होती है, वे क्षणभंगुर नश्वर सुख के लोभ में आकर कभी कोई दुष्कृत्य नहीं करते।"
+      }
+    },
+    {
+      "num": 174,
+      "line1": "இலமென்று வெஃகுதல் செய்யார் புலம்வென்ற",
+      "line2": "புன்மையில் காட்சி யவர்.",
+      "enLine1": "Men who have conquered sense, with sight from sordid vision freed,",
+      "enLine2": "Desire not others' goods, e'en in the hour of sorest need.",
+      "hiLine1": "जो हैं इन्द्रियजित तथा, ज्ञानी भी अकलंक ।",
+      "hiLine2": "दारिदवश भी लालची, होते नहीं अशंक ॥",
+      "general": "ஐம்புலன்களையும் வென்ற குற்றமற்ற மெய்யறிவுடையவர்கள், 'யாம் வறியவர்' என்று கருதிப் பிறர் பொருளை விரும்பமாட்டார்கள்.",
+      "en": "Those of spotless wisdom who have conquered their senses will not covet others' goods even when saying 'we are destitute.'",
+      "hi": "जो लोग इंद्रियों को जीतने वाले (इंद्रियजित) तथा निष्कलंक ज्ञानी हैं, वे दरिद्रता के वश में होकर भी कभी निस्संकोच लालची नहीं होते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இலமென்று <br>(Ilamendru)",
+          "ta": "வறுமையுடையோம் என்று",
+          "en": "In sorest need / saying we lack",
+          "hi": "दारिद्रयवश भी"
+        },
+        {
+          "no": 2,
+          "word": "வெஃகுதல் <br>(Vekgudhal)",
+          "ta": "பிறர் பொருளை விரும்புதல்",
+          "en": "Coveting",
+          "hi": "लालच करना"
+        },
+        {
+          "no": 3,
+          "word": "செய்யார் <br>(Seyyaar)",
+          "ta": "செய்யமாட்டார்",
+          "en": "Do not do",
+          "hi": "नहीं करते"
+        },
+        {
+          "no": 4,
+          "word": "புலம்வென்ற <br>(Pulamvendra)",
+          "ta": "ஐம்புலன்களையும் வென்ற",
+          "en": "Who conquered sense",
+          "hi": "इंद्रियजित"
+        },
+        {
+          "no": 5,
+          "word": "புன்மையில் <br>(Punmaiyil)",
+          "ta": "குற்றமற்ற",
+          "en": "From sordidness freed",
+          "hi": "अकलंक"
+        },
+        {
+          "no": 6,
+          "word": "காட்சி <br>(Kaatchi)",
+          "ta": "அறிவுடைய",
+          "en": "Vision / wisdom",
+          "hi": "ज्ञानी"
+        },
+        {
+          "no": 7,
+          "word": "யவர் <br>(Yavar)",
+          "ta": "வர்",
+          "en": "Those who",
+          "hi": "लोग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இலமென்று வெஃகுதல் செய்யார் புலம்வென்ற",
+          "line2": "புன்மையில் காட்சி யவர்."
+        },
+        "en": {
+          "line1": "Men who have conquered sense, with sight from sordid vision freed,",
+          "line2": "Desire not others' goods, e'en in the hour of sorest need."
+        },
+        "hi": {
+          "line1": "जो हैं इन्द्रियजित तथा, ज्ञानी भी अकलंक ।",
+          "line2": "दारिदवश भी लालची, होते नहीं अशंक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ilamendru Vekgudhal Seyyaar Pulamvendra",
+            "line2": "Punmaiyil Kaatchi Yavar."
+          },
+          "hi": {
+            "line1": "इलमॆन्द्रु वॆःगुदल् सॆय्यार् पुलम्वॆन्द्र",
+            "line2": "पुन्मैयिल् काच्चि यवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஐம்புலன்களையும் வென்ற குற்றமற்ற மெய்யறிவுடையவர்கள், 'யாம் வறியவர்' என்று கருதிப் பிறர் பொருளை விரும்பமாட்டார்கள்.",
+        "en": "Self-mastered individuals with clear moral vision never stoop to coveting another's property, even in extreme poverty.",
+        "hi": "जो लोग इंद्रियों को जीतने वाले (इंद्रियजित) तथा निष्कलंक ज्ञानी हैं, वे दरिद्रता के वश में होकर भी कभी निस्संकोच लालची नहीं होते।"
+      }
+    },
+    {
+      "num": 175,
+      "line1": "அஃகி அகன்ற அறிவென்னாம் யார்மாட்டும்",
+      "line2": "வெஃகி வெறிய செயின்.",
+      "enLine1": "What gain, though lore refined of amplest reach he learn,",
+      "enLine2": "His acts towards all mankind if covetous desire to folly turn ?",
+      "hiLine1": "तीखे विस्तृत ज्ञान से, क्या होगा उपकार ।",
+      "hiLine2": "लालचवश सबसे करें, अनुचित व्यवहार ॥",
+      "general": "ஒருவன் யாரிடத்தும் பிறர் பொருளை விரும்பி அறிவற்ற செயல்களைச் செய்தால், அவனுடைய நுட்பமான விரிந்த அறிவினால் என்ன பயன்?",
+      "en": "Of what avail is keen and extensive knowledge if a man covets what belongs to others and acts foolishly toward everyone?",
+      "hi": "यदि कोई व्यक्ति लालच के वश में होकर सबके साथ अनुचित व्यवहार करे, तो उसके तीखे और विस्तृत ज्ञान से भला क्या लाभ (उपकार) होगा?",
+      "words": [
+        {
+          "no": 1,
+          "word": "அஃகி <br>(Akgi)",
+          "ta": "நுட்பமாகி",
+          "en": "Refined / keen",
+          "hi": "तीखे"
+        },
+        {
+          "no": 2,
+          "word": "அகன்ற <br>(Agandra)",
+          "ta": "விரிந்த",
+          "en": "Amplest reach",
+          "hi": "विस्तृत"
+        },
+        {
+          "no": 3,
+          "word": "அறிவென்னாம் <br>(Arivennaam)",
+          "ta": "அறிவால் என்ன பயன்",
+          "en": "What gain of lore",
+          "hi": "ज्ञान से क्या उपकार"
+        },
+        {
+          "no": 4,
+          "word": "யார்மாட்டும் <br>(Yaarmaattum)",
+          "ta": "யாரிடத்திலும்",
+          "en": "Towards all mankind",
+          "hi": "सबसे"
+        },
+        {
+          "no": 5,
+          "word": "வெஃகி <br>(Vekgi)",
+          "ta": "பேராசை கொண்டு",
+          "en": "Covetous desire",
+          "hi": "लालचवश"
+        },
+        {
+          "no": 6,
+          "word": "வெறிய <br>(Veriya)",
+          "ta": "அறிவற்ற செயல்களை",
+          "en": "Folly / senseless acts",
+          "hi": "अनुचित व्यवहार"
+        },
+        {
+          "no": 7,
+          "word": "செயின் <br>(Seyin)",
+          "ta": "செய்தால்",
+          "en": "If one does",
+          "hi": "करें तो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அஃகி அகன்ற அறிவென்னாம் யார்மாட்டும்",
+          "line2": "வெஃகி வெறிய செயின்."
+        },
+        "en": {
+          "line1": "What gain, though lore refined of amplest reach he learn,",
+          "line2": "His acts towards all mankind if covetous desire to folly turn ?"
+        },
+        "hi": {
+          "line1": "तीखे विस्तृत ज्ञान से, क्या होगा उपकार ।",
+          "line2": "लालचवश सबसे करें, अनुचित व्यवहार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Akgi Agandra Arivennaam Yaarmaattum",
+            "line2": "Vekgi Veriya Seyin."
+          },
+          "hi": {
+            "line1": "अःगि अगन्द्र अरिवॆन्नाम् यार्माट्टुम्",
+            "line2": "वॆःगि वॆरिय सॆयिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் யாரிடத்தும் பிறர் பொருளை விரும்பி அறிவற்ற செயல்களைச் செய்தால், அவனுடைய நுட்பமான விரிந்த அறிவினால் என்ன பயன்?",
+        "en": "Sharp intellect and vast learning are worthless if greed drives a person to treat others unjustly.",
+        "hi": "यदि कोई व्यक्ति लालच के वश में होकर सबके साथ अनुचित व्यवहार करे, तो उसके तीखे और विस्तृत ज्ञान से भला क्या लाभ (उपकार) होगा?"
+      }
+    },
+    {
+      "num": 176,
+      "line1": "அருள்வெஃகி ஆற்றின் கண்நின்றான் பொருள்வெஃகிப்",
+      "line2": "பொல்லாத சூழக் கெடும்.",
+      "enLine1": "Though, grace desiring, he in virtue's way stand strong,",
+      "enLine2": "He 's lost who wealth desires, and ponders deeds of wrong.",
+      "hiLine1": "ईश-कृपा की चाह से, जो न धर्म से भ्रष्ट ।",
+      "hiLine2": "दुष्ट-कर्म धन-लोभ से, सोचे तो वह नष्ट ॥",
+      "general": "அருளை விரும்பி அறநெறியில் நின்றவன்கூட, பிறர் பொருளை விரும்பித் தீய வழிகளைச் சிந்தித்தால் கெட்டழிந்து போவான்.",
+      "en": "Even one who stands firm in the path of virtue desiring grace will perish if he covets wealth and devises evil deeds.",
+      "hi": "जो व्यक्ति ईश-कृपा की चाह से धर्म के मार्ग से भ्रष्ट न हुआ हो, वह भी यदि धन के लोभ में आकर दुष्ट कर्म सोचने लगे तो नष्ट हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அருள்வெஃகி <br>(Arulvekgi)",
+          "ta": "அருளை விரும்பி",
+          "en": "Grace desiring",
+          "hi": "ईश-कृपा की चाह से"
+        },
+        {
+          "no": 2,
+          "word": "ஆற்றின் <br>(Aatrin)",
+          "ta": "அறவழியில்",
+          "en": "In virtue's way",
+          "hi": "धर्म-मार्ग पर"
+        },
+        {
+          "no": 3,
+          "word": "கண்நின்றான் <br>(Kannindraan)",
+          "ta": "நின்றவனும்",
+          "en": "He who stood",
+          "hi": "न भ्रष्ट होने वाला"
+        },
+        {
+          "no": 4,
+          "word": "பொருள்வெஃகிப் <br>(Porulvekgip)",
+          "ta": "பொருளை விரும்பி",
+          "en": "Wealth desiring",
+          "hi": "धन-लोभ से"
+        },
+        {
+          "no": 5,
+          "word": "பொல்லாத <br>(Pollaadha)",
+          "ta": "தீய செயல்களை",
+          "en": "Deeds of wrong",
+          "hi": "दुष्ट-कर्म"
+        },
+        {
+          "no": 6,
+          "word": "சூழக் <br>(Soozhak)",
+          "ta": "ஆலோசிக்கத் தொடங்கினால்",
+          "en": "Ponders / devises",
+          "hi": "सोचे तो"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "அழிவான்",
+          "en": "He is lost",
+          "hi": "वह नष्ट होता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அருள்வெஃகி ஆற்றின் கண்நின்றான் பொருள்வெஃகிப்",
+          "line2": "பொல்லாத சூழக் கெடும்."
+        },
+        "en": {
+          "line1": "Though, grace desiring, he in virtue's way stand strong,",
+          "line2": "He 's lost who wealth desires, and ponders deeds of wrong."
+        },
+        "hi": {
+          "line1": "ईश-कृपा की चाह से, जो न धर्म से भ्रष्ट ।",
+          "line2": "दुष्ट-कर्म धन-लोभ से, सोचे तो वह नष्ट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arulvekgi Aatrin Kannindraan Porulvekgip",
+            "line2": "Pollaadha Soozhak Kedum."
+          },
+          "hi": {
+            "line1": "अरुळ्वॆःगि आत्रिन् कण्णिन्द्रान् पॊरुळ्वॆःगिप्",
+            "line2": "पॊल्लाद सूऴक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அருளை விரும்பி அறநெறியில் நின்றவன்கூட, பிறர் பொருளை விரும்பித் தீய வழிகளைச் சிந்தித்தால் கெட்டழிந்து போவான்.",
+        "en": "Even someone devoted to a righteous path will be undone the moment greed tempts them to scheme after illicit gain.",
+        "hi": "जो व्यक्ति ईश-कृपा की चाह से धर्म के मार्ग से भ्रष्ट न हुआ हो, वह भी यदि धन के लोभ में आकर दुष्ट कर्म सोचने लगे तो नष्ट हो जाता है।"
+      }
+    },
+    {
+      "num": 177,
+      "line1": "வேண்டற்க வெஃகியாம் ஆக்கம் விளைவயின்",
+      "line2": "மாண்டற் கரிதாம் பயன்.",
+      "enLine1": "Seek not increase by greed of gain acquired ;",
+      "enLine2": "That fruit matured yields never good desired.",
+      "hiLine1": "चाहो मत संपत्ति को, लालच से उत्पन्न ।",
+      "hiLine2": "उसका फल होता नहीं कभी सुगुण-संपन्न ॥",
+      "general": "பிறர் பொருளை விரும்பிப் பெறும் செல்வ வளர்ச்சியை விரும்பாதே; அது பயன் தரும் காலத்தில் நன்மை பயப்பது அரிதாகிவிடும்.",
+      "en": "Do not desire wealth acquired through coveting, for when it bears fruit, its outcome will yield no true good.",
+      "hi": "लालच से उत्पन्न होने वाली संपत्ति की चाह मत करो, क्योंकि उसका परिणाम कभी सद्गुणों और वास्तविक कल्याण से संपन्न नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வேண்டற்க <br>(Vendarka)",
+          "ta": "விரும்பாதே",
+          "en": "Seek not",
+          "hi": "चाहो मत"
+        },
+        {
+          "no": 2,
+          "word": "வெஃகியாம் <br>(Vekgiyaam)",
+          "ta": "பேராசையால் வரும்",
+          "en": "By greed acquired",
+          "hi": "लालच से उत्पन्न"
+        },
+        {
+          "no": 3,
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "செல்வ வளர்ச்சியை",
+          "en": "Increase / wealth",
+          "hi": "संपत्ति को"
+        },
+        {
+          "no": 4,
+          "word": "விளைவயின் <br>(Vilaivayin)",
+          "ta": "பயன் விளையும் காலத்தில்",
+          "en": "When matured",
+          "hi": "परिणाम में"
+        },
+        {
+          "no": 5,
+          "word": "மாண்டற் <br>(Maandar)",
+          "ta": "மாட்சிமைப்படுதல்",
+          "en": "Good desired",
+          "hi": "सुगुण-संपन्न"
+        },
+        {
+          "no": 6,
+          "word": "கரிதாம் <br>(Karidhaam)",
+          "ta": "அரிதாகும்",
+          "en": "Yields never / rare",
+          "hi": "नहीं होता"
+        },
+        {
+          "no": 7,
+          "word": "பயன் <br>(Payan)",
+          "ta": "பயன்",
+          "en": "Fruit",
+          "hi": "उसका फल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வேண்டற்க வெஃகியாம் ஆக்கம் விளைவயின்",
+          "line2": "மாண்டற் கரிதாம் பயன்."
+        },
+        "en": {
+          "line1": "Seek not increase by greed of gain acquired ;",
+          "line2": "That fruit matured yields never good desired."
+        },
+        "hi": {
+          "line1": "चाहो मत संपत्ति को, लालच से उत्पन्न ।",
+          "line2": "उसका फल होता नहीं कभी सुगुण-संपन्न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vendarka Vekgiyaam Aakkam Vilaivayin",
+            "line2": "Maandar Karidhaam Payan."
+          },
+          "hi": {
+            "line1": "वेण्डर्क वॆःगियाम् आक्कम् विळैवयिन्",
+            "line2": "माण्डर् करिदाम् पयन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறர் பொருளை விரும்பிப் பெறும் செல்வ வளர்ச்சியை விரும்பாதே; அது பயன் தரும் காலத்தில் நன்மை பயப்பது அரிதாகிவிடும்.",
+        "en": "Never pursue wealth born of greed; when its consequences ripen, it brings no lasting benefit or honor.",
+        "hi": "लालच से उत्पन्न होने वाली संपत्ति की चाह मत करो, क्योंकि उसका परिणाम कभी सद्गुणों और वास्तविक कल्याण से संपन्न नहीं होता।"
+      }
+    },
+    {
+      "num": 178,
+      "line1": "அஃகாமை செல்வத்திற்கு யாதெனின் வெஃகாமை",
+      "line2": "வேண்டும் பிறன்கைப் பொருள்.",
+      "enLine1": "What saves prosperity from swift decline ?",
+      "enLine2": "Absence of lust to make another's cherished riches thine !",
+      "hiLine1": "निज धन का क्षय हो नहीं, इसका क्या सदुपाय ।",
+      "hiLine2": "अन्यों की संपत्ति का, लोभ किया नहिं जाय ॥",
+      "general": "தம்முடைய செல்வம் குறையாமல் இருக்க வழி யாது என்றால், பிறர் கையிலுள்ள பொருளை விரும்பாமல் இருப்பதே ஆகும்.",
+      "en": "If one asks what prevents wealth from diminishing, it is refraining from coveting what is in another's hands.",
+      "hi": "अपने धन का क्षय (नाश) न हो, इसका सबसे अच्छा उपाय क्या है? यही कि दूसरों की संपत्ति का लोभ न किया जाए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அஃகாமை <br>(Akgaamai)",
+          "ta": "குறையாமல் இருத்தற்கு",
+          "en": "From swift decline / undiminishing",
+          "hi": "क्षय न होने का"
+        },
+        {
+          "no": 2,
+          "word": "செல்வத்திற்கு <br>(Selvaththirku)",
+          "ta": "செல்வத்திற்கு",
+          "en": "For prosperity",
+          "hi": "निज धन के"
+        },
+        {
+          "no": 3,
+          "word": "யாதெனின் <br>(Yaadhenin)",
+          "ta": "வழி யாதெனில்",
+          "en": "What is the way",
+          "hi": "क्या सदुपाय है"
+        },
+        {
+          "no": 4,
+          "word": "வெஃகாமை <br>(Vekgaamai)",
+          "ta": "விரும்பாதிருத்தலை",
+          "en": "Absence of lust / not coveting",
+          "hi": "लोभ न करना"
+        },
+        {
+          "no": 5,
+          "word": "வேண்டும் <br>(Vendum)",
+          "ta": "வேண்டியதாகும்",
+          "en": "Is needed",
+          "hi": "चाहिए"
+        },
+        {
+          "no": 6,
+          "word": "பிறன்கைப் <br>(Pirankaip)",
+          "ta": "பிறர் கையிலுள்ள",
+          "en": "In another's hands",
+          "hi": "अन्यों की"
+        },
+        {
+          "no": 7,
+          "word": "பொருள் <br>(Porul)",
+          "ta": "பொருளை",
+          "en": "Riches / property",
+          "hi": "संपत्ति का"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அஃகாமை செல்வத்திற்கு யாதெனின் வெஃகாமை",
+          "line2": "வேண்டும் பிறன்கைப் பொருள்."
+        },
+        "en": {
+          "line1": "What saves prosperity from swift decline ?",
+          "line2": "Absence of lust to make another's cherished riches thine !"
+        },
+        "hi": {
+          "line1": "निज धन का क्षय हो नहीं, इसका क्या सदुपाय ।",
+          "line2": "अन्यों की संपत्ति का, लोभ किया नहिं जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Akgaamai Selvaththirku Yaadhenin Vekgaamai",
+            "line2": "Vendum Pirankaip Porul."
+          },
+          "hi": {
+            "line1": "अःगामै सॆल्वत्तिर्कु यादॆनिन् वॆःगामै",
+            "line2": "वेण्डुम् पिरन्कैप् पॊरुळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம்முடைய செல்வம் குறையாமல் இருக்க வழி யாது என்றால், பிறர் கையிலுள்ள பொருளை விரும்பாமல் இருப்பதே ஆகும்.",
+        "en": "The surest way to protect your own prosperity from shrinking is to never cast a covetous eye on what belongs to others.",
+        "hi": "अपने धन का क्षय (नाश) न हो, इसका सबसे अच्छा उपाय क्या है? यही कि दूसरों की संपत्ति का लोभ न किया जाए।"
+      }
+    },
+    {
+      "num": 179,
+      "line1": "அறனறிந்து வெஃகா அறிவுடையார்ச் சேரும்",
+      "line2": "திறனறிந்து ஆங்கே திரு.",
+      "enLine1": "Good fortune draws anigh in helpful time of need,",
+      "enLine2": "To him who, schooled in virtue, guards his soul from greed.",
+      "hiLine1": "निर्लोभता ग्रहण करें, धर्म मान धीमान ।",
+      "hiLine2": "श्री पहुँचे उनके यहाँ, युक्त काल थल जान ॥",
+      "general": "அறத்தை உணர்ந்து பிறர் பொருளை விரும்பாத அறிவுடையவர்களைத் தேடி, திருமகள் தக்க வழியை அறிந்து தானாகவே வந்து சேர்வாள்.",
+      "en": "Fortune, knowing the proper way and time, naturally comes to those wise people who understand virtue and do not covet.",
+      "hi": "जो बुद्धिमान लोग धर्म को मानकर निर्लोभता को ग्रहण करते हैं, उनके पास लक्ष्मी (श्री) उचित समय और स्थान जानकर स्वयं पहुँच जाती हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறனறிந்து <br>(Aranarindhu)",
+          "ta": "அறத்தை உணர்ந்து",
+          "en": "Schooled in virtue",
+          "hi": "धर्म को मानकर"
+        },
+        {
+          "no": 2,
+          "word": "வெஃகா <br>(Vekgaa)",
+          "ta": "பிறர் பொருள் விரும்பாத",
+          "en": "Guarding from greed",
+          "hi": "निर्लोभता ग्रहण करने वाले"
+        },
+        {
+          "no": 3,
+          "word": "அறிவுடையார்ச் <br>(Arivudaiyaarch)",
+          "ta": "அறிவுடையவர்களை",
+          "en": "Wise people",
+          "hi": "धीमान के यहाँ"
+        },
+        {
+          "no": 4,
+          "word": "சேரும் <br>(Serum)",
+          "ta": "வந்து சேரும்",
+          "en": "Draws anigh / reaches",
+          "hi": "पहुँचे"
+        },
+        {
+          "no": 5,
+          "word": "திறனறிந்து <br>(Thiranarindhu)",
+          "ta": "தக்க நெறியை அறிந்து",
+          "en": "Knowing the proper way",
+          "hi": "युक्त काल-थल जानकर"
+        },
+        {
+          "no": 6,
+          "word": "ஆங்கே <br>(Aange)",
+          "ta": "அப்போதே",
+          "en": "In time of need / right there",
+          "hi": "वहीं"
+        },
+        {
+          "no": 7,
+          "word": "திரு <br>(Thiru)",
+          "ta": "திருமகள் (செல்வம்)",
+          "en": "Good fortune",
+          "hi": "श्री (लक्ष्मी)"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறனறிந்து வெஃகா அறிவுடையார்ச் சேரும்",
+          "line2": "திறனறிந்து ஆங்கே திரு."
+        },
+        "en": {
+          "line1": "Good fortune draws anigh in helpful time of need,",
+          "line2": "To him who, schooled in virtue, guards his soul from greed."
+        },
+        "hi": {
+          "line1": "निर्लोभता ग्रहण करें, धर्म मान धीमान ।",
+          "line2": "श्री पहुँचे उनके यहाँ, युक्त काल थल जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aranarindhu Vekgaa Arivudaiyaarch Serum",
+            "line2": "Thiranarindhu Aange Thiru."
+          },
+          "hi": {
+            "line1": "अरनरिन्दु वॆःगा अरिवुडैयार्च् सेरुम्",
+            "line2": "तिरनरिन्दु आंगे तिरु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறத்தை உணர்ந்து பிறர் பொருளை விரும்பாத அறிவுடையவர்களைத் தேடி, திருமகள் தக்க வழியை அறிந்து தானாகவே வந்து சேர்வாள்.",
+        "en": "Prosperity naturally seeks out wise individuals who live by moral principles and keep their hearts free from greed.",
+        "hi": "जो बुद्धिमान लोग धर्म को मानकर निर्लोभता को ग्रहण करते हैं, उनके पास लक्ष्मी (श्री) उचित समय और स्थान जानकर स्वयं पहुँच जाती हैं।"
+      }
+    },
+    {
+      "num": 180,
+      "line1": "இறலீனும் எண்ணாது வெஃகின் விறலீனும்",
+      "line2": "வேண்டாமை என்னுஞ் செருக்கு.",
+      "enLine1": "From thoughtless lust of others' goods springs fatal ill ;",
+      "enLine2": "Greatness of soul that covets not shall triumph still.",
+      "hiLine1": "अविचारी के लोभ से, होगा उसका अन्त ।",
+      "hiLine2": "लोभ- हीनता- विभव से, होगी विजय अनन्त ॥",
+      "general": "பின்விளைவை எண்ணாமல் பிறர் பொருளை விரும்பினால் அது அழிவைத் தரும்; பிறர் பொருளை விரும்பாமை என்னும் பெருமிதம் வெற்றியைத் தரும்.",
+      "en": "Thoughtless coveting brings destruction, whereas the noble greatness of not coveting yields lasting triumph.",
+      "hi": "बिना विचार किए लोभ करने से अविचारी व्यक्ति का अंत (नाश) होता है, जबकि लोभ-हीनता के वैभव से अनंत विजय प्राप्त होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இறலீனும் <br>(Iraleenum)",
+          "ta": "அழிவைத் தரும்",
+          "en": "Springs fatal ill",
+          "hi": "अन्त (नाश) होगा"
+        },
+        {
+          "no": 2,
+          "word": "எண்ணாது <br>(Ennaadhu)",
+          "ta": "பின்விளைவை எண்ணாமல்",
+          "en": "Thoughtlessly",
+          "hi": "अविचारी के"
+        },
+        {
+          "no": 3,
+          "word": "வெஃகின் <br>(Vekgin)",
+          "ta": "விரும்பினால்",
+          "en": "If one covets",
+          "hi": "लोभ से"
+        },
+        {
+          "no": 4,
+          "word": "விறலீனும் <br>(Viraleenum)",
+          "ta": "வெற்றியைத் தரும்",
+          "en": "Shall triumph / yield victory",
+          "hi": "अनन्त विजय होगी"
+        },
+        {
+          "no": 5,
+          "word": "வேண்டாமை <br>(Vendaamai)",
+          "ta": "பிறர் பொருளை விரும்பாமை",
+          "en": "Not coveting",
+          "hi": "लोभ-हीनता"
+        },
+        {
+          "no": 6,
+          "word": "என்னுஞ் <br>(Ennunj)",
+          "ta": "என்னும்",
+          "en": "Called",
+          "hi": "नामक"
+        },
+        {
+          "no": 7,
+          "word": "செருக்கு <br>(Serukku)",
+          "ta": "பெருமிதம்",
+          "en": "Greatness of soul",
+          "hi": "विभव से"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இறலீனும் எண்ணாது வெஃகின் விறலீனும்",
+          "line2": "வேண்டாமை என்னுஞ் செருக்கு."
+        },
+        "en": {
+          "line1": "From thoughtless lust of others' goods springs fatal ill ;",
+          "line2": "Greatness of soul that covets not shall triumph still."
+        },
+        "hi": {
+          "line1": "अविचारी के लोभ से, होगा उसका अन्त ।",
+          "line2": "लोभ- हीनता- विभव से, होगी विजय अनन्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Iraleenum Ennaadhu Vekgin Viraleenum",
+            "line2": "Vendaamai Ennunj Serukku."
+          },
+          "hi": {
+            "line1": "इरलीनुम् एण्णादु वॆःगिन् विरलीनुम्",
+            "line2": "वेण्डामै एन्नुञ् सॆरुक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பின்விளைவை எண்ணாமல் பிறர் பொருளை விரும்பினால் அது அழிவைத் தரும்; பிறர் பொருளை விரும்பாமை என்னும் பெருமிதம் வெற்றியைத் தரும்.",
+        "en": "Reckless greed leads straight to ruin, while the quiet dignity of contentment without coveting brings enduring victory.",
+        "hi": "बिना विचार किए लोभ करने से अविचारी व्यक्ति का अंत (नाश) होता है, जबकि लोभ-हीनता के वैभव से अनंत विजय प्राप्त होती है।"
+      }
+    }
+  ]
+}

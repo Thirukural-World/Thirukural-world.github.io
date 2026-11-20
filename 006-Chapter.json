@@ -1,0 +1,930 @@
+{
+  "chapterNum": 6,
+  "nameTa": "வாழ்க்கைத் துணைநலம்",
+  "nameEn": "The Goodness of the Help to Domestic Life",
+  "nameHi": "सहधर्मिणी",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 51,
+      "line1": "மனைத்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்",
+      "line2": "வளத்தக்காள் வாழ்க்கைத் துணை.",
+      "enLine1": "As doth the house beseem, she shows her wifely dignity ;",
+      "enLine2": "As doth her husband's wealth befit, she spends : helpmeet is she.",
+      "hiLine1": "गृहिणी-गुण-गण प्राप्त कर, पुरुष-आय अनुसार ।",
+      "hiLine2": "जो गृह-व्यय करती वही, सहधर्मिणी सुचार ॥",
+      "general": "இல்லறத்திற்கு ஏற்ற நற்பண்புகளை உடையவளாகவும், தன் கணவனின் வருவாய்க்குத் தகுந்தபடி செலவு செய்பவளாகவும் இருப்பவளே சிறந்த வாழ்க்கைத் துணைவியாவாள்.",
+      "en": "She is a true helpmate in domestic life who possesses the virtues suitable to a home and regulates her household expenditure according to her husband's income.",
+      "hi": "जो गृहिणी के श्रेष्ठ गुणों से युक्त होकर अपने पति की आय के अनुसार ही घर का व्यय चलाती है, वही उत्तम सहधर्मिणी है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மனைத்தக்க <br>(Manaiththakka)",
+          "ta": "இல்லறத்திற்கு ஏற்ற",
+          "en": "Befitting the household",
+          "hi": "गृहस्थ के योग्य"
+        },
+        {
+          "no": 2,
+          "word": "மாண்புடையள் <br>(Maanbudaiyal)",
+          "ta": "நற்பண்பு உடையவள்",
+          "en": "Possessing excellence / dignity",
+          "hi": "श्रेष्ठ गुणों से युक्त"
+        },
+        {
+          "no": 3,
+          "word": "ஆகி <br>(Aaki)",
+          "ta": "ஆகி (விளங்கி)",
+          "en": "Becoming / being",
+          "hi": "होकर"
+        },
+        {
+          "no": 4,
+          "word": "தற்கொண்டான் <br>(Tharkondaan)",
+          "ta": "தன்னை மணந்த கணவனின்",
+          "en": "Of her husband",
+          "hi": "अपने पति की"
+        },
+        {
+          "no": 5,
+          "word": "வளத்தக்காள் <br>(Valaththakkaal)",
+          "ta": "வருவாய்க்குத் தக்கபடி செலவு செய்பவள்",
+          "en": "Who spends according to his wealth",
+          "hi": "आय के अनुसार व्यय करने वाली"
+        },
+        {
+          "no": 6,
+          "word": "வாழ்க்கைத் <br>(Vaazhkkai)",
+          "ta": "இல்லற வாழ்க்கைக்கு",
+          "en": "Of domestic life",
+          "hi": "जीवन की"
+        },
+        {
+          "no": 7,
+          "word": "துணை <br>(Thunai)",
+          "ta": "சிறந்த துணைவியாவாள்",
+          "en": "Helpmate / companion",
+          "hi": "उत्तम सहधर्मिणी है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மனைத்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்",
+          "line2": "வளத்தக்காள் வாழ்க்கைத் துணை."
+        },
+        "en": {
+          "line1": "As doth the house beseem, she shows her wifely dignity ;",
+          "line2": "As doth her husband's wealth befit, she spends : helpmeet is she."
+        },
+        "hi": {
+          "line1": "गृहिणी-गुण-गण प्राप्त कर, पुरुष-आय अनुसार ।",
+          "line2": "जो गृह-व्यय करती वही, सहधर्मिणी सुचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Manaiththakka Maanbudaiyal Aakiththar Kondaan",
+            "line2": "Valaththakkaal Vaazhkkaith Thunai."
+          },
+          "hi": {
+            "line1": "मनैत्तक्क माण्बुडैयळ् आगित्तर् कॊण्डान्",
+            "line2": "वळत्तक्काळ् वाऴ्क्कैत् तुणै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இல்லறத்திற்கு ஏற்ற நற்பண்புகளை உடையவளாகவும், தன் கணவனின் வருவாய்க்குத் தகுந்தபடி செலவு செய்பவளாகவும் இருப்பவளே சிறந்த வாழ்க்கைத் துணைவியாவாள்.",
+        "en": "A worthy life partner is one who embodies household dignity and manages family expenses within her husband's means.",
+        "hi": "जो गृहिणी के श्रेष्ठ गुणों से युक्त होकर अपने पति की आय के अनुसार ही घर का व्यय चलाती है, वही उत्तम सहधर्मिणी है।"
+      }
+    },
+    {
+      "num": 52,
+      "line1": "மனைமாட்சி இல்லாள்கண் இல்லாயின் வாழ்க்கை",
+      "line2": "எனைமாட்சித் தாயினும் இல்.",
+      "enLine1": "If household excellence be wanting in the wife,",
+      "enLine2": "Howe'er with splendour lived, all worthless is the life.",
+      "hiLine1": "गुण-गण गृहणी में न हो, गृह्य-कर्म के अर्थ ।",
+      "hiLine2": "सुसंपन्न तो क्यों न हो, गृह-जीवन है व्यर्थ ॥",
+      "general": "இல்லறத்திற்குரிய நற்பண்புகள் மனைவியிடம் இல்லையானால், அந்த வாழ்க்கை எவ்வளவுதான் செல்வச் சிறப்புடையதாக இருந்தாலும் பயனில்லாததாகும்.",
+      "en": "If the wife lacks household excellence, the domestic life, however splendid it may otherwise be, is worthless.",
+      "hi": "यदि गृहिणी में गृहस्थ धर्म के योग्य सद्गुण न हों, तो वह घर कितना भी धन-धान्य से सुसंपन्न क्यों न हो, सारा गृह-जीवन व्यर्थ है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மனைமாட்சி <br>(Manaimaatchi)",
+          "ta": "இல்லறத்திற்குரிய நற்பண்பு",
+          "en": "Household excellence",
+          "hi": "गृहस्थ के सद्गुण"
+        },
+        {
+          "no": 2,
+          "word": "இல்லாள்கண் <br>(Illaalkkan)",
+          "ta": "மனைவியிடம்",
+          "en": "In the wife",
+          "hi": "गृहिणी में"
+        },
+        {
+          "no": 3,
+          "word": "இல்லாயின் <br>(Illaayin)",
+          "ta": "இல்லாவிட்டால்",
+          "en": "If wanting / absent",
+          "hi": "यदि न हों"
+        },
+        {
+          "no": 4,
+          "word": "வாழ்க்கை <br>(Vaazhkkai)",
+          "ta": "இல்லற வாழ்க்கை",
+          "en": "Domestic life",
+          "hi": "गृह-जीवन"
+        },
+        {
+          "no": 5,
+          "word": "எனைமாட்சித்து <br>(Enaimaatchiththu)",
+          "ta": "எத்தகைய சிறப்புடையது",
+          "en": "Whatever splendour",
+          "hi": "कितना भी सुसंपन्न"
+        },
+        {
+          "no": 6,
+          "word": "ஆயினும் <br>(Aayinum)",
+          "ta": "ஆக இருந்தாலும்",
+          "en": "Even though it be",
+          "hi": "क्यों न हो"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "பயனில்லாதது ஆகும்",
+          "en": "Is worthless / nothing",
+          "hi": "व्यर्थ है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மனைமாட்சி இல்லாள்கண் இல்லாயின் வாழ்க்கை",
+          "line2": "எனைமாட்சித் தாயினும் இல்."
+        },
+        "en": {
+          "line1": "If household excellence be wanting in the wife,",
+          "line2": "Howe'er with splendour lived, all worthless is the life."
+        },
+        "hi": {
+          "line1": "गुण-गण गृहणी में न हो, गृह्य-कर्म के अर्थ ।",
+          "line2": "सुसंपन्न तो क्यों न हो, गृह-जीवन है व्यर्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Manaimaatchi Illaalkkan Illaayin Vaazhkkai",
+            "line2": "Enaimaatchith Thaayinum Il."
+          },
+          "hi": {
+            "line1": "मनैमाट्चि इल्लाळ्कण् इल्लायिन् वाऴ्क्कै",
+            "line2": "ऎनैमाट्चित् तायिनुम् इल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இல்லறத்திற்குரிய நற்பண்புகள் மனைவியிடம் இல்லையானால், அந்த வாழ்க்கை எவ்வளவுதான் செல்வச் சிறப்புடையதாக இருந்தாலும் பயனில்லாததாகும்.",
+        "en": "Without domestic virtues in the wife, a household has no real value no matter how grand or wealthy it appears.",
+        "hi": "यदि गृहिणी में गृहस्थ धर्म के योग्य सद्गुण न हों, तो वह घर कितना भी धन-धान्य से सुसंपन्न क्यों न हो, सारा गृह-जीवन व्यर्थ है।"
+      }
+    },
+    {
+      "num": 53,
+      "line1": "இல்லதென் இல்லவள் மாண்பானால் உள்ளதென்",
+      "line2": "இல்லவள் மாணாக் கடை.",
+      "enLine1": "There is no lack within the house, where wife in worth excels,",
+      "enLine2": "There is no luck within the house, where wife dishonoured dwells.",
+      "hiLine1": "गृहिणी रही सुधर्मिणी, तो क्या रहा अभाव ।",
+      "hiLine2": "गृहिणी नहीं सुधर्मिणी, किसका नहीं अभाव ॥",
+      "general": "மனைவி நற்பண்பு உடையவளாக இருந்தால் அந்த இல்லத்தில் இல்லாதது எதுவும் இல்லை; மனைவி நற்பண்பு இல்லாதவளாக இருந்தால் அங்கு இருப்பது எதுவும் இல்லை.",
+      "en": "If the wife be of eminent worth, what is there that a man does not possess? If she be lacking in worth, what does he truly possess?",
+      "hi": "यदि गृहिणी सद्गुणों वाली और सुधर्मिणी हो, तो घर में किसी भी वस्तु का अभाव नहीं रहता; और यदि वह सुधर्मिणी न हो, तो फिर किस बात का अभाव नहीं रहता (सब कुछ व्यर्थ है)।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இல்லதென் <br>(Illadhen)",
+          "ta": "இல்லாதது என்ன",
+          "en": "What is lacking",
+          "hi": "क्या अभाव है"
+        },
+        {
+          "no": 2,
+          "word": "இல்லவள் <br>(Illaval)",
+          "ta": "மனைவி",
+          "en": "The wife",
+          "hi": "गृहिणी"
+        },
+        {
+          "no": 3,
+          "word": "மாண்பானால் <br>(Maanbaanaal)",
+          "ta": "நற்பண்பு உடையவளானால்",
+          "en": "If she excels in worth",
+          "hi": "सुधर्मिणी हो तो"
+        },
+        {
+          "no": 4,
+          "word": "உள்ளதென் <br>(Ulladhen)",
+          "ta": "இருப்பது என்ன",
+          "en": "What is truly possessed",
+          "hi": "क्या शेष है"
+        },
+        {
+          "no": 5,
+          "word": "இல்லவள் <br>(Illaval)",
+          "ta": "மனைவி",
+          "en": "The wife",
+          "hi": "गृहिणी"
+        },
+        {
+          "no": 6,
+          "word": "மாணாக் <br>(Maanaak)",
+          "ta": "நற்பண்பு இல்லாத",
+          "en": "Lacking worth",
+          "hi": "सुधर्मिणी न हो"
+        },
+        {
+          "no": 7,
+          "word": "கடை <br>(Kadai)",
+          "ta": "போது / இடத்தில்",
+          "en": "When / in that case",
+          "hi": "उस दशा में"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இல்லதென் இல்லவள் மாண்பானால் உள்ளதென்",
+          "line2": "இல்லவள் மாணாக் கடை."
+        },
+        "en": {
+          "line1": "There is no lack within the house, where wife in worth excels,",
+          "line2": "There is no luck within the house, where wife dishonoured dwells."
+        },
+        "hi": {
+          "line1": "गृहिणी रही सुधर्मिणी, तो क्या रहा अभाव ।",
+          "line2": "गृहिणी नहीं सुधर्मिणी, किसका नहीं अभाव ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Illadhen Illaval Maanbaanaal Ulladhen",
+            "line2": "Illaval Maanaak Kadai."
+          },
+          "hi": {
+            "line1": "इल्लदॆन् इल्लवळ् माण्बानाल् उळ्ळदॆन्",
+            "line2": "इल्लवळ् माणाक् कडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனைவி நற்பண்பு உடையவளாக இருந்தால் அந்த இல்லத்தில் இல்லாதது எதுவும் இல்லை; மனைவி நற்பண்பு இல்லாதவளாக இருந்தால் அங்கு இருப்பது எதுவும் இல்லை.",
+        "en": "Nothing is missing in a home blessed with a virtuous wife, and nothing is truly present in a home where she lacks virtue.",
+        "hi": "यदि गृहिणी सद्गुणों वाली और सुधर्मिणी हो, तो घर में किसी भी वस्तु का अभाव नहीं रहता; और यदि वह सुधर्मिणी न हो, तो फिर किस बात का अभाव नहीं रहता (सब कुछ व्यर्थ है)।"
+      }
+    },
+    {
+      "num": 54,
+      "line1": "பெண்ணின் பெருந்தக்க யாவுள கற்பென்னும்",
+      "line2": "திண்மையுண் டாகப் பெறின்.",
+      "enLine1": "If woman might of chastity retain,",
+      "enLine2": "What choicer treasure doth the world contain ?",
+      "hiLine1": "स्त्री से बढ़ कर श्रेष्ठ ही, क्या है पाने योग्य ।",
+      "hiLine2": "यदि हो पातिव्रत्य की, दृढ़ता उसमें योग्य ॥",
+      "general": "கற்பு என்னும் மன உறுதி இருக்கப் பெற்றால், பெண்மையைவிடப் பெருமைக்குரிய செல்வம் உலகில் வேறு என்ன இருக்கிறது?",
+      "en": "What is there more excellent than a woman, if she possesses the firmness of chastity?",
+      "hi": "यदि स्त्री में पातिव्रत्य और शील की दृढ़ता हो, तो संसार में उससे बढ़कर श्रेष्ठ और पाने योग्य वस्तु और क्या हो सकती है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "பெண்ணின் <br>(Pennin)",
+          "ta": "பெண்ணைவிட",
+          "en": "Than a woman",
+          "hi": "स्त्री से बढ़कर"
+        },
+        {
+          "no": 2,
+          "word": "பெருந்தக்க <br>(Perundhakka)",
+          "ta": "பெருமைக்குரியவை",
+          "en": "Of great worth / excellence",
+          "hi": "श्रेष्ठ / गौरवपूर्ण"
+        },
+        {
+          "no": 3,
+          "word": "யாவுள <br>(Yaavula)",
+          "ta": "வேறு எவை உள்ளன",
+          "en": "What things are there",
+          "hi": "क्या है"
+        },
+        {
+          "no": 4,
+          "word": "கற்பென்னும் <br>(Karpennum)",
+          "ta": "கற்பு என்று சொல்லப்படும்",
+          "en": "Called chastity",
+          "hi": "पातिव्रत्य नामक"
+        },
+        {
+          "no": 5,
+          "word": "திண்மை <br>(Thinmai)",
+          "ta": "மன உறுதி",
+          "en": "Firmness / strength",
+          "hi": "दृढ़ता"
+        },
+        {
+          "no": 6,
+          "word": "உண்டாகப் <br>(Undaakap)",
+          "ta": "இருக்கும்படியாக",
+          "en": "To exist / be present",
+          "hi": "उसमें होने"
+        },
+        {
+          "no": 7,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "பெற்றால்",
+          "en": "If she possesses",
+          "hi": "पर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பெண்ணின் பெருந்தக்க யாவுள கற்பென்னும்",
+          "line2": "திண்மையுண் டாகப் பெறின்."
+        },
+        "en": {
+          "line1": "If woman might of chastity retain,",
+          "line2": "What choicer treasure doth the world contain ?"
+        },
+        "hi": {
+          "line1": "स्त्री से बढ़ कर श्रेष्ठ ही, क्या है पाने योग्य ।",
+          "line2": "यदि हो पातिव्रत्य की, दृढ़ता उसमें योग्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pennin Perundhakka Yaavula Karpennum",
+            "line2": "Thinmaiyun Daakap Perin."
+          },
+          "hi": {
+            "line1": "पॆण्णिन् पॆरुन्दक्क यावुळ कर्पॆन्नुम्",
+            "line2": "तिण्मैयुण् डागप् पॆरिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கற்பு என்னும் மன உறுதி இருக்கப் பெற்றால், பெண்மையைவிடப் பெருமைக்குரிய செல்வம் உலகில் வேறு என்ன இருக்கிறது?",
+        "en": "There is no greater treasure in the world than a woman endowed with the steadfast strength of chastity.",
+        "hi": "यदि स्त्री में पातिव्रत्य और शील की दृढ़ता हो, तो संसार में उससे बढ़कर श्रेष्ठ और पाने योग्य वस्तु और क्या हो सकती है?"
+      }
+    },
+    {
+      "num": 55,
+      "line1": "தெய்வம் தொழாஅள் கொழுநன் தொழுதெழுவாள்",
+      "line2": "பெய்யெனப் பெய்யும் மழை.",
+      "enLine1": "No god adoring, low she bends before her lord ;",
+      "enLine2": "Then rising, serves : the rain falls instant at her word !",
+      "hiLine1": "पूजे सती न देव को, पूज जगे निज कंत ।",
+      "hiLine2": "उसके कहने पर 'बरस', बरसे मेघ तुरंत ॥",
+      "general": "வேறு தெய்வத்தைத் தொழாமல், தன் கணவனையே தெய்வமாகக் கொண்டு தொழுது துயிலெழும் கற்புடைய பெண் 'பெய்' என்று சொன்னால் உடனே மழை பெய்யும்.",
+      "en": "If she who does not worship any god, but rises worshipping her husband, says 'Rain!', it will rain.",
+      "hi": "जो सती स्त्री अन्य किसी देवता की पूजा न करके अपने पति को ही आराध्य मानकर जागती और उनकी सेवा करती है, उसके 'बरस' कहते ही मेघ तुरंत बरसने लगते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தெய்வம் <br>(Dheivam)",
+          "ta": "பிற தெய்வங்களை",
+          "en": "Other gods",
+          "hi": "अन्य देव को"
+        },
+        {
+          "no": 2,
+          "word": "தொழாஅள் <br>(Thozhaaal)",
+          "ta": "வணங்காமல்",
+          "en": "Without worshipping",
+          "hi": "न पूजकर"
+        },
+        {
+          "no": 3,
+          "word": "கொழுநன் <br>(Kozhunan)",
+          "ta": "தன் கணவனை",
+          "en": "Her husband",
+          "hi": "अपने पति को"
+        },
+        {
+          "no": 4,
+          "word": "தொழுதெழுவாள் <br>(Thozhudhezhuvaal)",
+          "ta": "தொழுது துயிலெழுபவள்",
+          "en": "She who rises worshipping",
+          "hi": "पूजकर जागने वाली"
+        },
+        {
+          "no": 5,
+          "word": "பெய்யெனப் <br>(Peyyenap)",
+          "ta": "பெய் என்று சொன்னால்",
+          "en": "At her word 'Fall'",
+          "hi": "'बरस' कहने पर"
+        },
+        {
+          "no": 6,
+          "word": "பெய்யும் <br>(Peyyum)",
+          "ta": "உடனே பெய்யும்",
+          "en": "Will fall",
+          "hi": "बरसने लगेगा"
+        },
+        {
+          "no": 7,
+          "word": "மழை <br>(Mazhai)",
+          "ta": "மழை",
+          "en": "The rain",
+          "hi": "मेघ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தெய்வம் தொழாஅள் கொழுநன் தொழுதெழுவாள்",
+          "line2": "பெய்யெனப் பெய்யும் மழை."
+        },
+        "en": {
+          "line1": "No god adoring, low she bends before her lord ;",
+          "line2": "Then rising, serves : the rain falls instant at her word !"
+        },
+        "hi": {
+          "line1": "पूजे सती न देव को, पूज जगे निज कंत ।",
+          "line2": "उसके कहने पर 'बरस', बरसे मेघ तुरंत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Dheivam Thozhaaal Kozhunan Thozhudhezhuvaal",
+            "line2": "Peyyenap Peyyum Mazhai."
+          },
+          "hi": {
+            "line1": "दैवम् तॊऴाअळ् कॊऴुनन् तॊऴुदॆऴुवाळ्",
+            "line2": "पॆय्यॆनप् पॆय्युम् मऴै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வேறு தெய்வத்தைத் தொழாமல், தன் கணவனையே தெய்வமாகக் கொண்டு தொழுது துயிலெழும் கற்புடைய பெண் 'பெய்' என்று சொன்னால் உடனே மழை பெய்யும்.",
+        "en": "Even the rains obey the command of a devoted wife who honors her husband above all else.",
+        "hi": "जो सती स्त्री अन्य किसी देवता की पूजा न करके अपने पति को ही आराध्य मानकर जागती और उनकी सेवा करती है, उसके 'बरस' कहते ही मेघ तुरंत बरसने लगते हैं।"
+      }
+    },
+    {
+      "num": 56,
+      "line1": "தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற",
+      "line2": "சொற்காத்துச் சோர்விலாள் பெண்.",
+      "enLine1": "Who guards herself, for husband's comfort cares, her household's fame",
+      "enLine2": "In perfect wise with sleepless soul preserves,—give her a woman's name !",
+      "hiLine1": "रक्षा करे सतीत्व की, पोषण करती कांत ।",
+      "hiLine2": "गृह का यश भी जो रखे, स्त्री है वह अश्रांत ॥",
+      "general": "தன்னையும் கற்பு நெறியில் காத்து, தன்னை மணந்த கணவனையும் பேணிப் பாதுகாத்து, தகுதி மிக்க குடும்பப் புகழையும் காப்பதில் சோர்வு இல்லாதவளே சிறந்த பெண் ஆவாள்.",
+      "en": "She is a true woman who guards herself, cherishes her husband, preserves an unblemished reputation, and never tires in these duties.",
+      "hi": "जो अपने सतीत्व की रक्षा करती है, अपने पति की देखभाल करती है और बिना थके घर के यश और मर्यादा की रक्षा करती है, वही सच्ची और श्रेष्ठ स्त्री है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தற்காத்துத் <br>(Tharkaaththuth)",
+          "ta": "தன்னைக் கற்பு நெறியில் காத்து",
+          "en": "Guarding herself",
+          "hi": "अपने सतीत्व की रक्षा कर"
+        },
+        {
+          "no": 2,
+          "word": "தற்கொண்டாற் <br>(Tharkondaar)",
+          "ta": "தன்னை மணந்த கணவனை",
+          "en": "Her husband",
+          "hi": "अपने पति की"
+        },
+        {
+          "no": 3,
+          "word": "பேணித் <br>(Penith)",
+          "ta": "போற்றிப் பாதுகாத்து",
+          "en": "Cherishing / caring for",
+          "hi": "देखभाल कर"
+        },
+        {
+          "no": 4,
+          "word": "தகைசான்ற <br>(Thakaisaandra)",
+          "ta": "தகுதி மிக்க",
+          "en": "Worthy / honourable",
+          "hi": "श्रेष्ठ / मर्यादित"
+        },
+        {
+          "no": 5,
+          "word": "சொற்காத்துச் <br>(Sorkaaththuch)",
+          "ta": "புகழ்ச்சொல்லைக் காத்து",
+          "en": "Preserving good fame",
+          "hi": "यश की रक्षा कर"
+        },
+        {
+          "no": 6,
+          "word": "சோர்விலாள் <br>(Sorvilaal)",
+          "ta": "சோர்வு அடையாதவள்",
+          "en": "One who is unwearying",
+          "hi": "बिना थके रहने वाली"
+        },
+        {
+          "no": 7,
+          "word": "பெண் <br>(Pen)",
+          "ta": "சிறந்த பெண் ஆவாள்",
+          "en": "True woman",
+          "hi": "श्रेष्ठ स्त्री है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற",
+          "line2": "சொற்காத்துச் சோர்விலாள் பெண்."
+        },
+        "en": {
+          "line1": "Who guards herself, for husband's comfort cares, her household's fame",
+          "line2": "In perfect wise with sleepless soul preserves,—give her a woman's name !"
+        },
+        "hi": {
+          "line1": "रक्षा करे सतीत्व की, पोषण करती कांत ।",
+          "line2": "गृह का यश भी जो रखे, स्त्री है वह अश्रांत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Tharkaaththuth Tharkondaar Penith Thakaisaandra",
+            "line2": "Sorkaaththuch Sorvilaal Pen."
+          },
+          "hi": {
+            "line1": "तर्कात्तुत् तर्कॊण्डार् पेणित् तगैसान्द्र",
+            "line2": "सॊर्कात्तुच् सोर्विलाळ् पॆण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன்னையும் கற்பு நெறியில் காத்து, தன்னை மணந்த கணவனையும் பேணிப் பாதுகாத்து, தகுதி மிக்க குடும்பப் புகழையும் காப்பதில் சோர்வு இல்லாதவளே சிறந்த பெண் ஆவாள்.",
+        "en": "A woman worthy of the name tirelessly protects her integrity, cares for her husband, and upholds her family's good name.",
+        "hi": "जो अपने सतीत्व की रक्षा करती है, अपने पति की देखभाल करती है और बिना थके घर के यश और मर्यादा की रक्षा करती है, वही सच्ची और श्रेष्ठ स्त्री है।"
+      }
+    },
+    {
+      "num": 57,
+      "line1": "சிறைகாக்கும் காப்பெவன் செய்யும் மகளிர்",
+      "line2": "நிறைகாக்கும் காப்பே தலை.",
+      "enLine1": "Of what avail is watch and ward ?",
+      "enLine2": "Honour 's a woman's safest guard.",
+      "hiLine1": "परकोटा पहरा दिया, इनसे क्या हो रक्ष ।",
+      "hiLine2": "स्त्री हित पातिव्रत्य ही, होगा उत्तम रक्ष ॥",
+      "general": "பெண்களை வீட்டுக்குள் அடைத்து வைத்துக் காக்கும் காவல் என்ன பயன் தரும்? பெண்கள் தம் கற்பால் தம்மைத் தாமே காத்துக்கொள்ளும் காவலே முதன்மையானதாகும்.",
+      "en": "Of what avail is the imprisonment of women? Their own self-imposed chastity is their chiefest guard.",
+      "hi": "परकोटे और पहरे में बंद रखने से क्या रक्षा हो सकती है? स्त्री के लिए तो उसका स्वयं का पातिव्रत्य और शील ही सबसे उत्तम रक्षक है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சிறைகாக்கும் <br>(Siraikaakkum)",
+          "ta": "அடைத்து வைத்துக் காக்கும்",
+          "en": "Confining / locking up",
+          "hi": "परकोटे में बंद रखने वाली"
+        },
+        {
+          "no": 2,
+          "word": "காப்பெவன் <br>(Kaappevan)",
+          "ta": "காவல் என்ன",
+          "en": "What avail is the guard",
+          "hi": "पहरे से क्या"
+        },
+        {
+          "no": 3,
+          "word": "செய்யும் <br>(Seyyum)",
+          "ta": "பயன் செய்யும்",
+          "en": "Will it do / accomplish",
+          "hi": "रक्षा होगी"
+        },
+        {
+          "no": 4,
+          "word": "மகளிர் <br>(Makalir)",
+          "ta": "பெண்கள்",
+          "en": "Women",
+          "hi": "स्त्री के लिए"
+        },
+        {
+          "no": 5,
+          "word": "நிறைகாக்கும் <br>(Niraikaakkum)",
+          "ta": "தம் கற்பு நிறையால் காக்கும்",
+          "en": "Self-guarding honour",
+          "hi": "पातिव्रत्य की रक्षा"
+        },
+        {
+          "no": 6,
+          "word": "காப்பே <br>(Kaappe)",
+          "ta": "காவலே",
+          "en": "Guard itself",
+          "hi": "रक्षा ही"
+        },
+        {
+          "no": 7,
+          "word": "தலை <br>(Thalai)",
+          "ta": "சிறந்தது / முதன்மையானது",
+          "en": "Is chief / foremost",
+          "hi": "सर्वोत्तम है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சிறைகாக்கும் காப்பெவன் செய்யும் மகளிர்",
+          "line2": "நிறைகாக்கும் காப்பே தலை."
+        },
+        "en": {
+          "line1": "Of what avail is watch and ward ?",
+          "line2": "Honour 's a woman's safest guard."
+        },
+        "hi": {
+          "line1": "परकोटा पहरा दिया, इनसे क्या हो रक्ष ।",
+          "line2": "स्त्री हित पातिव्रत्य ही, होगा उत्तम रक्ष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Siraikaakkum Kaappevan Seyyum Makalir",
+            "line2": "Niraikaakkum Kaappe Thalai."
+          },
+          "hi": {
+            "line1": "सिरैकाक्कुम् काप्पॆवन् सॆय्युम् मगळिर्",
+            "line2": "निरैकाक्कुम् काप्पे तलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பெண்களை வீட்டுக்குள் அடைத்து வைத்துக் காக்கும் காவல் என்ன பயன் தரும்? பெண்கள் தம் கற்பால் தம்மைத் தாமே காத்துக்கொள்ளும் காவலே முதன்மையானதாகும்.",
+        "en": "External confinement and surveillance achieve nothing; a woman's own moral integrity is her strongest protection.",
+        "hi": "परकोटे और पहरे में बंद रखने से क्या रक्षा हो सकती है? स्त्री के लिए तो उसका स्वयं का पातिव्रत्य और शील ही सबसे उत्तम रक्षक है।"
+      }
+    },
+    {
+      "num": 58,
+      "line1": "பெற்றாற் பெறின்பெறுவர் பெண்டிர் பெருஞ்சிறப்புப்",
+      "line2": "புத்தேளிர் வாழும் உலகு.",
+      "enLine1": "If wife be wholly true to him who gained her as his bride,",
+      "enLine2": "Great glory gains she in the world where gods in bliss abide.",
+      "hiLine1": "यदि पाती है नारियाँ, पति पूजा कर शान ।",
+      "hiLine2": "तो उनका सुरधाम में, होता है बहुमान ॥",
+      "general": "பெண்கள் தம்மைக் கணவனாகப் பெற்றவனைப் போற்றி நடப்பாரானால், தேவர்கள் வாழ்கின்ற மேலுலகிலும் பெரும் சிறப்பைப் பெறுவார்கள்.",
+      "en": "If women reverence their husbands, they will obtain great glory in the world where the gods dwell.",
+      "hi": "यदि स्त्रियाँ अपने पति का सम्मान और सेवा करती हैं, तो उन्हें स्वर्गलोक (सुरधाम) में भी देवताओं के बीच बड़ा सम्मान और गौरव प्राप्त होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பெற்றாற் <br>(Petraar)",
+          "ta": "தம்மைப் பெற்ற கணவனை",
+          "en": "Him who gained her",
+          "hi": "अपने पति को"
+        },
+        {
+          "no": 2,
+          "word": "பெறின்பெறுவர் <br>(Perinperuvar)",
+          "ta": "போற்றினால் பெறுவார்கள்",
+          "en": "If true, they will attain",
+          "hi": "पूजने पर पाती हैं"
+        },
+        {
+          "no": 3,
+          "word": "பெண்டிர் <br>(Pendir)",
+          "ta": "பெண்கள்",
+          "en": "Women",
+          "hi": "नारियाँ"
+        },
+        {
+          "no": 4,
+          "word": "பெருஞ்சிறப்புப் <br>(Perunjirappup)",
+          "ta": "பெரிய சிறப்பை",
+          "en": "Great glory",
+          "hi": "बड़ा सम्मान"
+        },
+        {
+          "no": 5,
+          "word": "புத்தேளிர் <br>(Puththelir)",
+          "ta": "தேவர்கள்",
+          "en": "The gods",
+          "hi": "देवगण"
+        },
+        {
+          "no": 6,
+          "word": "வாழும் <br>(Vaazhum)",
+          "ta": "வாழ்கின்ற",
+          "en": "Where dwell",
+          "hi": "जहाँ रहते हैं"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulaku)",
+          "ta": "மேலுலகில்",
+          "en": "World / heaven",
+          "hi": "सुरधाम (स्वर्गलोक) में"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பெற்றாற் பெறின்பெறுவர் பெண்டிர் பெருஞ்சிறப்புப்",
+          "line2": "புத்தேளிர் வாழும் உலகு."
+        },
+        "en": {
+          "line1": "If wife be wholly true to him who gained her as his bride,",
+          "line2": "Great glory gains she in the world where gods in bliss abide."
+        },
+        "hi": {
+          "line1": "यदि पाती है नारियाँ, पति पूजा कर शान ।",
+          "line2": "तो उनका सुरधाम में, होता है बहुमान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Petraar Perinperuvar Pendir Perunjirappup",
+            "line2": "Puththelir Vaazhum Ulaku."
+          },
+          "hi": {
+            "line1": "पॆत्रार् पॆरिन्पॆरुवर् पॆण्डिर् पॆरुञ्चिरप्पुप्",
+            "line2": "पुत्तेळिर् वाऴुम् उलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பெண்கள் தம்மைக் கணவனாகப் பெற்றவனைப் போற்றி நடப்பாரானால், தேவர்கள் வாழ்கின்ற மேலுலகிலும் பெரும் சிறப்பைப் பெறுவார்கள்.",
+        "en": "Women who remain devoted to their husbands attain great honor even in the celestial realm of the gods.",
+        "hi": "यदि स्त्रियाँ अपने पति का सम्मान और सेवा करती हैं, तो उन्हें स्वर्गलोक (सुरधाम) में भी देवताओं के बीच बड़ा सम्मान और गौरव प्राप्त होता है।"
+      }
+    },
+    {
+      "num": 59,
+      "line1": "புகழ்புரிந்த இல்லிலோர்க்கு இல்லை இகழ்வார்முன்",
+      "line2": "ஏறுபோல் பீடு நடை.",
+      "enLine1": "Who have not spouses that in virtue's praise delight,",
+      "enLine2": "They lion-like can never walk in scorners' sight.",
+      "hiLine1": "जिसकी पत्नी को नहीं, घर के यश का मान ।",
+      "hiLine2": "नहिं निन्दक के सामने, गति शार्दूल समान ॥",
+      "general": "புகழைக் காக்க விரும்பும் மனைவியைப் பெறாதவர்களுக்கு, தம்மை இகழ்ந்து பேசுவார் முன்னே ஆண் சிங்கத்தைப்போலப் பெருமையோடு நடக்கும் நடை இல்லாமல் போய்விடும்.",
+      "en": "They who do not possess a wife who desires praiseworthy fame cannot walk like a lion before those who scorn them.",
+      "hi": "जिस पुरुष की पत्नी को घर के यश और मर्यादा की चिंता नहीं होती, वह अपने निंदकों के सामने सिंह के समान गर्व के साथ नहीं चल सकता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "புகழ்புரிந்த <br>(Pukazhpurindha)",
+          "ta": "புகழை விரும்பும்",
+          "en": "Delighting in virtue's praise",
+          "hi": "यश की चाह रखने वाली"
+        },
+        {
+          "no": 2,
+          "word": "இல்லிலோர்க்கு <br>(Illilorkku)",
+          "ta": "மனைவி இல்லாதவர்க்கு",
+          "en": "To those without such a spouse",
+          "hi": "पत्नी के बिना"
+        },
+        {
+          "no": 3,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "There is not",
+          "hi": "नहीं होती"
+        },
+        {
+          "no": 4,
+          "word": "இகழ்வார்முன் <br>(Ikazhvaarmun)",
+          "ta": "இகழ்ந்து பேசுவார் முன்னே",
+          "en": "Before scorners",
+          "hi": "निंदकों के सामने"
+        },
+        {
+          "no": 5,
+          "word": "ஏறுபோல் <br>(Erupol)",
+          "ta": "ஆண் சிங்கம்போல",
+          "en": "Like a lion",
+          "hi": "सिंह के समान"
+        },
+        {
+          "no": 6,
+          "word": "பீடு <br>(Peedu)",
+          "ta": "பெருமையோடு கூடிய",
+          "en": "Majestic / proud",
+          "hi": "गर्वित"
+        },
+        {
+          "no": 7,
+          "word": "நடை <br>(Nadai)",
+          "ta": "நடை",
+          "en": "Walk / gait",
+          "hi": "चाल / गति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புகழ்புரிந்த இல்லிலோர்க்கு இல்லை இகழ்வார்முன்",
+          "line2": "ஏறுபோல் பீடு நடை."
+        },
+        "en": {
+          "line1": "Who have not spouses that in virtue's praise delight,",
+          "line2": "They lion-like can never walk in scorners' sight."
+        },
+        "hi": {
+          "line1": "जिसकी पत्नी को नहीं, घर के यश का मान ।",
+          "line2": "नहिं निन्दक के सामने, गति शार्दूल समान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pukazhpurindha Illilorkku Illai Ikazhvaarmun",
+            "line2": "Erupol Peedu Nadai."
+          },
+          "hi": {
+            "line1": "पुगऴ्पुरिन्द इल्लिलोर्क्कु इल्लै इगऴ्वार्मुन्",
+            "line2": "एरुपोल् पीडु नडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "புகழைக் காக்க விரும்பும் மனைவியைப் பெறாதவர்களுக்கு, தம்மை இகழ்ந்து பேசுவார் முன்னே ஆண் சிங்கத்தைப்போலப் பெருமையோடு நடக்கும் நடை இல்லாமல் போய்விடும்.",
+        "en": "Men whose wives do not care for honorable repute cannot stride with lion-like confidence before their detractors.",
+        "hi": "जिस पुरुष की पत्नी को घर के यश और मर्यादा की चिंता नहीं होती, वह अपने निंदकों के सामने सिंह के समान गर्व के साथ नहीं चल सकता।"
+      }
+    },
+    {
+      "num": 60,
+      "line1": "மங்கலம் என்ப மனைமாட்சி மற்றதன்",
+      "line2": "நன்கலம் நன்மக்கட் பேறு.",
+      "enLine1": "The house's ' blessing,' men pronounce the house-wife excellent ;",
+      "enLine2": "The gain of blessèd children is its goodly ornament.",
+      "hiLine1": "गृह का जयमंगल कहें, गृहिणी की गुण-खान ।",
+      "hiLine2": "उनका सद्भूषण कहें, पाना सत्सन्तान ॥",
+      "general": "மனைவியின் நற்பண்பே இல்லறத்திற்கு மங்கலம் என்று பெரியோர் கூறுவர்; அந்த மங்கலத்திற்கு அழகிய அணிகலன் நல்ல மக்களைப் பெறுவதாகும்.",
+      "en": "The excellence of a wife is the blessing of the home, and good children are its precious ornament.",
+      "hi": "गृहिणी के सद्गुणों को ही घर का सबसे बड़ा मंगल (कल्याण) कहा जाता है, और सद्गुणी संतान की प्राप्ति उस मंगल का सुंदर आभूषण है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மங்கலம் <br>(Mangalam)",
+          "ta": "மங்கலம் (நல்வாழ்வு)",
+          "en": "Auspiciousness / blessing",
+          "hi": "मंगल / कल्याण"
+        },
+        {
+          "no": 2,
+          "word": "என்ப <br>(Enba)",
+          "ta": "என்று கூறுவர்",
+          "en": "Men pronounce",
+          "hi": "कहते हैं"
+        },
+        {
+          "no": 3,
+          "word": "மனைமாட்சி <br>(Manaimaatchi)",
+          "ta": "மனைவியின் நற்பண்பே",
+          "en": "Excellence of the wife",
+          "hi": "गृहिणी के सद्गुणों को"
+        },
+        {
+          "no": 4,
+          "word": "மற்றதன் <br>(Matradhan)",
+          "ta": "அந்த மங்கலத்திற்கு",
+          "en": "And its",
+          "hi": "और उसका"
+        },
+        {
+          "no": 5,
+          "word": "நன்கலம் <br>(Nankalam)",
+          "ta": "நல்ல அணிகலன்",
+          "en": "Goodly ornament",
+          "hi": "सुंदर आभूषण"
+        },
+        {
+          "no": 6,
+          "word": "நன்மக்கட் <br>(Nanmakkat)",
+          "ta": "நல்ல மக்களைப்",
+          "en": "Of blessed children",
+          "hi": "सत्संतान की"
+        },
+        {
+          "no": 7,
+          "word": "பேறு <br>(Peru)",
+          "ta": "பெறுவதாகும்",
+          "en": "Gain / obtaining",
+          "hi": "प्राप्ति है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மங்கலம் என்ப மனைமாட்சி மற்றதன்",
+          "line2": "நன்கலம் நன்மக்கட் பேறு."
+        },
+        "en": {
+          "line1": "The house's ' blessing,' men pronounce the house-wife excellent ;",
+          "line2": "The gain of blessèd children is its goodly ornament."
+        },
+        "hi": {
+          "line1": "गृह का जयमंगल कहें, गृहिणी की गुण-खान ।",
+          "line2": "उनका सद्भूषण कहें, पाना सत्सन्तान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Mangalam Enba Manaimaatchi Matradhan",
+            "line2": "Nankalam Nanmakkat Peru."
+          },
+          "hi": {
+            "line1": "मङ्गलम् एन्ब मनैमाट्चि मत्रदन्",
+            "line2": "नन्गलम् नन्मक्कट् पेरु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனைவியின் நற்பண்பே இல்லறத்திற்கு மங்கலம் என்று பெரியோர் கூறுவர்; அந்த மங்கலத்திற்கு அழகிய அணிகலன் நல்ல மக்களைப் பெறுவதாகும்.",
+        "en": "A virtuous wife is the true blessing of a household, and good children are its finest jewel.",
+        "hi": "गृहिणी के सद्गुणों को ही घर का सबसे बड़ा मंगल (कल्याण) कहा जाता है, और सद्गुणी संतान की प्राप्ति उस मंगल का सुंदर आभूषण है।"
+      }
+    }
+  ]
+}

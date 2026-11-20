@@ -1,0 +1,930 @@
+{
+  "chapterNum": 52,
+  "nameTa": "தெரிந்துவினையாடல்",
+  "nameEn": "Selection and Employment",
+  "nameHi": "परख कर कार्य सौंपना",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 511,
+      "line1": "நன்மையுந் தீமையு நாடி நலம்புரிந்த",
+      "line2": "தன்மையா னாளப் படும்.",
+      "enLine1": "Who good and evil scanning, ever makes the good his joy;",
+      "enLine2": "Such man of virtuous mood should king employ.",
+      "hiLine1": "भले-बुरे को परख जो, करता भला पसंद ।",
+      "hiLine2": "उसके योग्य नियुक्ति को, करना सही प्रबन्ध ॥",
+      "general": "நன்மையையும் தீமையையும் ஆராய்ந்து பார்த்து, எப்போதும் நன்மையையே விரும்பிச் செய்யும் இயல்புடையவனை அரசன் தன் பணியில் அமர்த்த வேண்டும்.",
+      "en": "A king should employ one who weighs good and evil carefully and always chooses what is right.",
+      "hi": "जो भले और बुरे की भली-भाँति परख करके सदा भलाई को ही पसन्द करता हो, उसी के योग्य पद पर उसकी नियुक्ति करने का सही प्रबन्ध करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நன்மையும் <br>(Nanmaiyum)",
+          "ta": "நன்மையையும்",
+          "en": "Good",
+          "hi": "भले"
+        },
+        {
+          "no": 2,
+          "word": "தீமையும் <br>(Theemaiyum)",
+          "ta": "தீமையையும்",
+          "en": "And evil",
+          "hi": "बुरे को"
+        },
+        {
+          "no": 3,
+          "word": "நாடி <br>(Naadi)",
+          "ta": "ஆராய்ந்து",
+          "en": "Scanning",
+          "hi": "परख जो"
+        },
+        {
+          "no": 4,
+          "word": "நலம் புரிந்த <br>(Nalam purindha)",
+          "ta": "நன்மையையே விரும்பும்",
+          "en": "Makes the good his joy",
+          "hi": "करता भला पसंद"
+        },
+        {
+          "no": 5,
+          "word": "தன்மையான் <br>(Thanmaiyaan)",
+          "ta": "இயல்புடையவன்",
+          "en": "Of virtuous mood",
+          "hi": "उसके योग्य"
+        },
+        {
+          "no": 6,
+          "word": "ஆளப் <br>(Aalap)",
+          "ta": "பணியில் அமர்த்தப்",
+          "en": "Employ",
+          "hi": "नियुक्ति को"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "படுவான்",
+          "en": "Should",
+          "hi": "करना सही प्रबन्ध"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நன்மையுந் தீமையு நாடி நலம்புரிந்த",
+          "line2": "தன்மையா னாளப் படும்."
+        },
+        "en": {
+          "line1": "Who good and evil scanning, ever makes the good his joy;",
+          "line2": "Such man of virtuous mood should king employ."
+        },
+        "hi": {
+          "line1": "भले-बुरे को परख जो, करता भला पसंद ।",
+          "line2": "उसके योग्य नियुक्ति को, करना सही प्रबन्ध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nanmaiyundh Theemaiyu Naadi Nalampurindha",
+            "line2": "Thanmaiyaa Naalap Padum."
+          },
+          "hi": {
+            "line1": "नन्मैयुन् तीमैयु नाडि नलम्पुरिन्द",
+            "line2": "तन्मैया नाळप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நன்மையையும் தீமையையும் ஆராய்ந்து பார்த்து, எப்போதும் நன்மையையே விரும்பிச் செய்யும் இயல்புடையவனை அரசன் தன் பணியில் அமர்த்த வேண்டும்.",
+        "en": "Hire and empower people who can tell right from wrong and consistently choose the good.",
+        "hi": "जो भले और बुरे की भली-भाँति परख करके सदा भलाई को ही पसन्द करता हो, उसी के योग्य पद पर उसकी नियुक्ति करने का सही प्रबन्ध करना चाहिए।"
+      }
+    },
+    {
+      "num": 512,
+      "line1": "வாரி பெருக்கி வளம்படுத் துற்றவை",
+      "line2": "யாராய்வான் செய்க வினை.",
+      "enLine1": "Who swells the revenues, spreads plenty o'er the land,",
+      "enLine2": "Seeks out what hinders progress, his the workman's hand.",
+      "hiLine1": "आय-वृद्धि-साधन बढ़ा, धन-वर्द्धक कर कार्य ।",
+      "hiLine2": "विघ्न परख जो टालता, वही करे नृप-कार्य ॥",
+      "general": "வருவாய் வரும் வழிகளைப் பெருக்கி, நாட்டை வளப்படுத்தி, அதற்கு இடையூறாக வந்தவற்றையும் ஆராய்ந்து நீக்குபவனே அரசனின் செயலைச் செய்ய வேண்டும்.",
+      "en": "Let him handle state affairs who increases revenue, promotes prosperity, and investigates and removes obstacles.",
+      "hi": "जो आय बढ़ाने के साधनों का विस्तार कर धन-सम्पदा की वृद्धि करे तथा मार्ग में आने वाले विघ्नों को परखकर दूर करे, वही राजा का कार्य करने योग्य है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வாரி பெருக்கி <br>(Vaari perukki)",
+          "ta": "வருவாயைப் பெருக்கி",
+          "en": "Swells the revenues",
+          "hi": "आय-वृद्धि-साधन बढ़ा"
+        },
+        {
+          "no": 2,
+          "word": "வளம்படுத்து <br>(Valampaduththu)",
+          "ta": "வளம் உண்டாக்கி",
+          "en": "Spreads plenty",
+          "hi": "धन-वर्द्धक कर कार्य"
+        },
+        {
+          "no": 3,
+          "word": "உற்றவை <br>(Utravai)",
+          "ta": "நேர்ந்த இடையூறுகளை",
+          "en": "What hinders progress",
+          "hi": "विघ्न"
+        },
+        {
+          "no": 4,
+          "word": "ஆராய்வான் <br>(Aaraayvaan)",
+          "ta": "ஆராய்ந்து நீக்குபவன்",
+          "en": "Seeks out",
+          "hi": "परख जो टालता"
+        },
+        {
+          "no": 5,
+          "word": "செய்க <br>(Seyga)",
+          "ta": "செய்ய வேண்டும்",
+          "en": "His hand",
+          "hi": "वही करे"
+        },
+        {
+          "no": 6,
+          "word": "வினை <br>(Vinai)",
+          "ta": "அரச காரியத்தை",
+          "en": "The work",
+          "hi": "नृप-कार्य"
+        },
+        {
+          "no": 7,
+          "word": "வளம் <br>(Valam)",
+          "ta": "செல்வம்",
+          "en": "Plenty",
+          "hi": "धन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வாரி பெருக்கி வளம்படுத் துற்றவை",
+          "line2": "யாராய்வான் செய்க வினை."
+        },
+        "en": {
+          "line1": "Who swells the revenues, spreads plenty o'er the land,",
+          "line2": "Seeks out what hinders progress, his the workman's hand."
+        },
+        "hi": {
+          "line1": "आय-वृद्धि-साधन बढ़ा, धन-वर्द्धक कर कार्य ।",
+          "line2": "विघ्न परख जो टालता, वही करे नृप-कार्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vaari Perukki Valampaduththu Utravai",
+            "line2": "Aaraayvaan Seyga Vinai."
+          },
+          "hi": {
+            "line1": "वारि पॆरुक्कि वळम्पडुत् तुत्रवै",
+            "line2": "याराय्वान् सॆय्ग विनै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வருவாய் வரும் வழிகளைப் பெருக்கி, நாட்டை வளப்படுத்தி, அதற்கு இடையூறாக வந்தவற்றையும் ஆராய்ந்து நீக்குபவனே அரசனின் செயலைச் செய்ய வேண்டும்.",
+        "en": "Entrust public work to people who grow resources, build prosperity, and spot and clear bottlenecks.",
+        "hi": "जो आय बढ़ाने के साधनों का विस्तार कर धन-सम्पदा की वृद्धि करे तथा मार्ग में आने वाले विघ्नों को परखकर दूर करे, वही राजा का कार्य करने योग्य है।"
+      }
+    },
+    {
+      "num": 513,
+      "line1": "அன்பறிவு தேற்ற மவாவின்மை யிந்நான்கு",
+      "line2": "நன்குடையான் கட்டே தெளிவு.",
+      "enLine1": "A loyal love with wisdom, clearness, mind from avarice free;",
+      "enLine2": "Who hath these four good gifts should ever trusted be.",
+      "hiLine1": "प्रेम, बुद्धि, दृढ़-चित्तता, निर्लोभता-सुनीति ।",
+      "hiLine2": "चारों जिसमें पूर्ण हों, उसपर करो प्रतीति ॥",
+      "general": "அன்பு, அறிவு, ஐயமில்லாத தெளிவு, பேராசையின்மை ஆகிய இந்த நான்கு பண்புகளையும் நன்கு உடையவனிடத்தே அரசன் நம்பிக்கை வைக்க வேண்டும்.",
+      "en": "Place confidence in the person who possesses these four virtues in full: loyalty, wisdom, clarity of mind, and freedom from greed.",
+      "hi": "जिस व्यक्ति में प्रेम, बुद्धि, दृढ़-चित्तता (सन्देहरहित स्पष्टता) और निर्लोभता — ये चारों गुण पूर्ण रूप से विद्यमान हों, उसी पर विश्वास करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அன்பு <br>(Anbu)",
+          "ta": "அன்பு",
+          "en": "Loyal love",
+          "hi": "प्रेम"
+        },
+        {
+          "no": 2,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "அறிவு",
+          "en": "Wisdom",
+          "hi": "बुद्धि"
+        },
+        {
+          "no": 3,
+          "word": "தேற்றம் <br>(Thetram)",
+          "ta": "தெளிவான உறுதி",
+          "en": "Clearness",
+          "hi": "दृढ़-चित्तता"
+        },
+        {
+          "no": 4,
+          "word": "அவாவின்மை <br>(Avaavinmai)",
+          "ta": "பேராசையின்மை",
+          "en": "Mind from avarice free",
+          "hi": "निर्लोभता-सुनीति"
+        },
+        {
+          "no": 5,
+          "word": "இந்நான்கும் <br>(Innaangum)",
+          "ta": "இந்த நான்கும்",
+          "en": "These four good gifts",
+          "hi": "चारों जिसमें पूर्ण हों"
+        },
+        {
+          "no": 6,
+          "word": "நன்கு உடையான்கட்டே <br>(Nangu udaiyaankatte)",
+          "ta": "நன்கு உடையவனிடத்தே",
+          "en": "Who hath",
+          "hi": "उसपर"
+        },
+        {
+          "no": 7,
+          "word": "தெளிவு <br>(Thelivu)",
+          "ta": "நம்பிக்கை வைக்கலாம்",
+          "en": "Should ever trusted be",
+          "hi": "करो प्रतीति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அன்பறிவு தேற்ற மவாவின்மை யிந்நான்கு",
+          "line2": "நன்குடையான் கட்டே தெளிவு."
+        },
+        "en": {
+          "line1": "A loyal love with wisdom, clearness, mind from avarice free;",
+          "line2": "Who hath these four good gifts should ever trusted be."
+        },
+        "hi": {
+          "line1": "प्रेम, बुद्धि, दृढ़-चित्तता, निर्लोभता-सुनीति ।",
+          "line2": "चारों जिसमें पूर्ण हों, उसपर करो प्रतीति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Anbarivu Thetra Mavaavinmai Yinnaangu",
+            "line2": "Nangudaiyaan Katte Thelivu."
+          },
+          "hi": {
+            "line1": "अन्बरिवु तेत्र मवाविन्मै यिन्नान्गु",
+            "line2": "नन्गुडैयान् कट्टे तॆळिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அன்பு, அறிவு, ஐயமில்லாத தெளிவு, பேராசையின்மை ஆகிய இந்த நான்கு பண்புகளையும் நன்கு உடையவனிடத்தே அரசன் நம்பிக்கை வைக்க வேண்டும்.",
+        "en": "The four pillars of a trustworthy appointee: genuine care, sound judgment, decisive clarity, and freedom from greed.",
+        "hi": "जिस व्यक्ति में प्रेम, बुद्धि, दृढ़-चित्तता (सन्देहरहित स्पष्टता) और निर्लोभता — ये चारों गुण पूर्ण रूप से विद्यमान हों, उसी पर विश्वास करना चाहिए।"
+      }
+    },
+    {
+      "num": 514,
+      "line1": "எனைவகையான் தேறியக் கண்ணும் வினைவகையான்",
+      "line2": "வேறாகும் மாந்தர் பலர்.",
+      "enLine1": "Even when tests of every kind are multiplied,",
+      "enLine2": "Full many a man proves otherwise, by action tried!",
+      "hiLine1": "सभी तरह की परख से, योग्य दिखें जो लोग ।",
+      "hiLine2": "उनमें कार्य निबाहते, विकृत बने बहु लोग ॥",
+      "general": "எல்லா வகையான சோதனைகளாலும் ஆராய்ந்து தேர்ந்தெடுத்த பின்னரும், செயல் செய்யும் நிலையில் வேறுபட்டு மாறுகின்ற மனிதர் பலர் உள்ளனர்.",
+      "en": "Even after passing every kind of test, many people turn out quite differently when put to actual work.",
+      "hi": "सभी प्रकार की परीक्षाओं में जो लोग योग्य दिखाई देते हैं, उनमें से भी अनेक लोग वास्तविक कार्य करते समय विकृत (असफल या पथभ्रष्ट) हो जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எனை வகையால் <br>(Enai vagaiyaal)",
+          "ta": "எத்தனை வகையானாலும்",
+          "en": "Tests of every kind",
+          "hi": "सभी तरह की"
+        },
+        {
+          "no": 2,
+          "word": "தேறியக் கண்ணும் <br>(Theriyak kannum)",
+          "ta": "ஆராய்ந்து தேர்ந்த போதும்",
+          "en": "Multiplied",
+          "hi": "परख से योग्य दिखें"
+        },
+        {
+          "no": 3,
+          "word": "வினை வகையான் <br>(Vinai vagaiyaan)",
+          "ta": "செயல் செய்யும் போது",
+          "en": "By action tried",
+          "hi": "कार्य निबाहते"
+        },
+        {
+          "no": 4,
+          "word": "வேறு ஆகும் <br>(Veru aagum)",
+          "ta": "வேறுபட்டுப் போகும்",
+          "en": "Proves otherwise",
+          "hi": "विकृत बने"
+        },
+        {
+          "no": 5,
+          "word": "மாந்தர் <br>(Maandhar)",
+          "ta": "மனிதர்கள்",
+          "en": "Man",
+          "hi": "लोग"
+        },
+        {
+          "no": 6,
+          "word": "பலர் <br>(Palar)",
+          "ta": "பலர் உள்ளனர்",
+          "en": "Full many",
+          "hi": "बहु"
+        },
+        {
+          "no": 7,
+          "word": "கண்ணும் <br>(Kannum)",
+          "ta": "இடத்தும்",
+          "en": "Even when",
+          "hi": "उनमें"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எனைவகையான் தேறியக் கண்ணும் வினைவகையான்",
+          "line2": "வேறாகும் மாந்தர் பலர்."
+        },
+        "en": {
+          "line1": "Even when tests of every kind are multiplied,",
+          "line2": "Full many a man proves otherwise, by action tried!"
+        },
+        "hi": {
+          "line1": "सभी तरह की परख से, योग्य दिखें जो लोग ।",
+          "line2": "उनमें कार्य निबाहते, विकृत बने बहु लोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Enaivagaiyaan Theriyak Kannum Vinaivagaiyaan",
+            "line2": "Veraagum Maandhar Palar."
+          },
+          "hi": {
+            "line1": "ऎनैवगैयान् तेरियक् कण्णुम् विनैवगैयान्",
+            "line2": "वेरागुम् मान्दर् पलर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லா வகையான சோதனைகளாலும் ஆராய்ந்து தேர்ந்தெடுத்த பின்னரும், செயல் செய்யும் நிலையில் வேறுபட்டு மாறுகின்ற மனிதர் பலர் உள்ளனர்.",
+        "en": "No matter how thorough your vetting is, many people behave very differently once they actually hold the job.",
+        "hi": "सभी प्रकार की परीक्षाओं में जो लोग योग्य दिखाई देते हैं, उनमें से भी अनेक लोग वास्तविक कार्य करते समय विकृत (असफल या पथभ्रष्ट) हो जाते हैं।"
+      }
+    },
+    {
+      "num": 515,
+      "line1": "அறிந்தாற்றிச் செய்கிற்பாற் கல்லால் வினைதான்",
+      "line2": "சிறந்தானென் றேவற்பாற் றன்று.",
+      "enLine1": "No specious fav'rite should the king's commission bear,",
+      "enLine2": "But he that knows, and work performs with patient care.",
+      "hiLine1": "जो करता है धैर्य से, खूब समझ सदुपाय ।",
+      "hiLine2": "उसे छोड़ प्रिय बन्धु को, कार्य न सौंपा जाय ॥",
+      "general": "செய்யும் வகையை அறிந்து பொறுமையோடு செய்து முடிக்கும் திறன் உடையவனுக்கே அன்றி, தனக்கு நெருக்கமானவன் என்பதற்காக ஒருவனிடம் செயல் ஒப்படைக்கத் தக்கதன்று.",
+      "en": "Work should be entrusted only to one who understands it and can carry it through patiently—not to someone merely because they are a favorite.",
+      "hi": "जो भली-भाँति उपाय समझकर धैर्य के साथ कार्य करता हो, उसे छोड़कर केवल अपने प्रिय बन्धु या कृपापात्र को कार्य नहीं सौंपा जाना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறிந்து <br>(Arindhu)",
+          "ta": "செய்யும் வழியை அறிந்து",
+          "en": "He that knows",
+          "hi": "खूब समझ सदुपाय"
+        },
+        {
+          "no": 2,
+          "word": "ஆற்றி <br>(Aatri)",
+          "ta": "பொறுத்துத் தாங்கி",
+          "en": "With patient care",
+          "hi": "धैर्य से"
+        },
+        {
+          "no": 3,
+          "word": "செய்கிற்பாற்கு <br>(Seygirpaarku)",
+          "ta": "செய்து முடிப்பவனுக்கு",
+          "en": "Work performs",
+          "hi": "जो करता है"
+        },
+        {
+          "no": 4,
+          "word": "அல்லால் <br>(Allaal)",
+          "ta": "அல்லாமல்",
+          "en": "But",
+          "hi": "उसे छोड़"
+        },
+        {
+          "no": 5,
+          "word": "வினைதான் <br>(Vinaidhaan)",
+          "ta": "செயலானது",
+          "en": "King's commission",
+          "hi": "कार्य"
+        },
+        {
+          "no": 6,
+          "word": "சிறந்தான் என்று <br>(Sirandhaan endru)",
+          "ta": "நெருக்கமானவன் என்று",
+          "en": "Specious fav'rite",
+          "hi": "प्रिय बन्धु को"
+        },
+        {
+          "no": 7,
+          "word": "ஏவற்பாற்றன்று <br>(Evarpaatrandru)",
+          "ta": "ஒப்படைக்கத் தக்கதன்று",
+          "en": "Should not bear",
+          "hi": "न सौंपा जाय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறிந்தாற்றிச் செய்கிற்பாற் கல்லால் வினைதான்",
+          "line2": "சிறந்தானென் றேவற்பாற் றன்று."
+        },
+        "en": {
+          "line1": "No specious fav'rite should the king's commission bear,",
+          "line2": "But he that knows, and work performs with patient care."
+        },
+        "hi": {
+          "line1": "जो करता है धैर्य से, खूब समझ सदुपाय ।",
+          "line2": "उसे छोड़ प्रिय बन्धु को, कार्य न सौंपा जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arindhaatri Seygirpaarku Allaal Vinaidhaan",
+            "line2": "Sirandhaan Endru Evarpaatrandru."
+          },
+          "hi": {
+            "line1": "अरिन्दात्रिच् सॆय्गिर्पार् कल्लाल् विनैदान्",
+            "line2": "सिरन्दानॆन् रेवर्पार् रन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செய்யும் வகையை அறிந்து பொறுமையோடு செய்து முடிக்கும் திறன் உடையவனுக்கே அன்றி, தனக்கு நெருக்கமானவன் என்பதற்காக ஒருவனிடம் செயல் ஒப்படைக்கத் தக்கதன்று.",
+        "en": "Assign responsibility to people who understand the work and have the patience to see it through—never hand out roles out of favoritism.",
+        "hi": "जो भली-भाँति उपाय समझकर धैर्य के साथ कार्य करता हो, उसे छोड़कर केवल अपने प्रिय बन्धु या कृपापात्र को कार्य नहीं सौंपा जाना चाहिए।"
+      }
+    },
+    {
+      "num": 516,
+      "line1": "செய்வானை நாடி வினைநாடிக் காலத்தோ",
+      "line2": "டெய்த வுணர்ந்து செயல்.",
+      "enLine1": "Let king first ask, 'Who shall the deed perform?' and 'What the deed?'",
+      "enLine2": "Of hour befitting both assured, let every work proceed.",
+      "hiLine1": "कर्ता का लक्षण परख, परख कर्म की रीति ।",
+      "hiLine2": "संयोजित कर काल से, सौंपों सहित प्रतीति ॥",
+      "general": "செயலைச் செய்பவனின் தகுதியை ஆராய்ந்து, செயலின் தன்மையையும் ஆராய்ந்து, தக்க காலத்தோடு பொருந்துமாறு உணர்ந்து செயல் செய்ய வேண்டும்.",
+      "en": "Examine the person who will do the task, examine the nature of the task itself, and align both with the right time before acting.",
+      "hi": "कार्य करने वाले के लक्षणों को परखकर, कार्य की रीति (स्वभाव) को समझकर और उचित समय के साथ उसका तालमेल बिठाकर ही विश्वासपूर्वक कार्य सौंपना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செய்வானை <br>(Seyvaanai)",
+          "ta": "செயலைச் செய்பவனை",
+          "en": "Who shall perform",
+          "hi": "कर्ता का लक्षण"
+        },
+        {
+          "no": 2,
+          "word": "நாடி <br>(Naadi)",
+          "ta": "ஆராய்ந்து",
+          "en": "First ask",
+          "hi": "परख"
+        },
+        {
+          "no": 3,
+          "word": "வினை நாடி <br>(Vinai naadi)",
+          "ta": "செயலின் தன்மையை ஆராய்ந்து",
+          "en": "What the deed",
+          "hi": "परख कर्म की रीति"
+        },
+        {
+          "no": 4,
+          "word": "காலத்தோடு <br>(Kaalaththodu)",
+          "ta": "தக்க காலத்தோடு",
+          "en": "Hour befitting",
+          "hi": "काल से"
+        },
+        {
+          "no": 5,
+          "word": "எய்த <br>(Eydha)",
+          "ta": "பொருந்துமாறு",
+          "en": "Assured",
+          "hi": "संयोजित कर"
+        },
+        {
+          "no": 6,
+          "word": "உணர்ந்து <br>(Unarndhu)",
+          "ta": "உணர்ந்து",
+          "en": "Understanding",
+          "hi": "सहित प्रतीति"
+        },
+        {
+          "no": 7,
+          "word": "செயல் <br>(Seyal)",
+          "ta": "செய்ய வேண்டும்",
+          "en": "Let work proceed",
+          "hi": "सौंपों"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செய்வானை நாடி வினைநாடிக் காலத்தோ",
+          "line2": "டெய்த வுணர்ந்து செயல்."
+        },
+        "en": {
+          "line1": "Let king first ask, 'Who shall the deed perform?' and 'What the deed?'",
+          "line2": "Of hour befitting both assured, let every work proceed."
+        },
+        "hi": {
+          "line1": "कर्ता का लक्षण परख, परख कर्म की रीति ।",
+          "line2": "संयोजित कर काल से, सौंपों सहित प्रतीति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seyvaanai Naadi Vinainaadik Kaalaththo",
+            "line2": "Deydha Vunarndhu Seyal."
+          },
+          "hi": {
+            "line1": "सॆय्वानै नाडि विनैनाडिक् कालत्तो",
+            "line2": "डॆय्द वुणर्न्दु सॆयल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செயலைச் செய்பவனின் தகுதியை ஆராய்ந்து, செயலின் தன்மையையும் ஆராய்ந்து, தக்க காலத்தோடு பொருந்துமாறு உணர்ந்து செயல் செய்ய வேண்டும்.",
+        "en": "Match three things before launching any task: the right person, the exact nature of the work, and the right timing.",
+        "hi": "कार्य करने वाले के लक्षणों को परखकर, कार्य की रीति (स्वभाव) को समझकर और उचित समय के साथ उसका तालमेल बिठाकर ही विश्वासपूर्वक कार्य सौंपना चाहिए।"
+      }
+    },
+    {
+      "num": 517,
+      "line1": "இதனை யிதனா லிவன்முடிக்கு மென்றாய்ந்",
+      "line2": "ததனை யவன்கண் விடல்.",
+      "enLine1": "'This man, this work shall thus work out,' let thoughtful king command;",
+      "enLine2": "Then leave the matter wholly in his servant's hand.",
+      "hiLine1": "इस साधन से व्यक्ति यह, कर सकता यह कार्य ।",
+      "hiLine2": "परिशीलन कर इस तरह, सौंप उसे वह कार्य ॥",
+      "general": "இந்தச் செயலை இந்தக் கருவியால் இவன் செய்து முடிப்பான் என்று ஆராய்ந்து, அந்தச் செயலை அவனிடமே ஒப்படைத்துவிட வேண்டும்.",
+      "en": "Determine carefully, 'This person can accomplish this task by these means,' and then leave the execution entirely in their hands.",
+      "hi": "'इस साधन से यह व्यक्ति यह कार्य पूरा कर सकता है' — इस प्रकार भली-भाँति विचार-विमर्श (परिशीलन) करके वह कार्य उसी को सौंप देना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இதனை <br>(Idhanai)",
+          "ta": "இந்தச் செயலை",
+          "en": "This work",
+          "hi": "यह कार्य"
+        },
+        {
+          "no": 2,
+          "word": "இதனால் <br>(Idhanaal)",
+          "ta": "இக்கருவியால்",
+          "en": "Thus",
+          "hi": "इस साधन से"
+        },
+        {
+          "no": 3,
+          "word": "இவன் <br>(Ivan)",
+          "ta": "இவன்",
+          "en": "This man",
+          "hi": "व्यक्ति यह"
+        },
+        {
+          "no": 4,
+          "word": "முடிக்கும் <br>(Mudikkum)",
+          "ta": "செய்து முடிப்பான்",
+          "en": "Shall work out",
+          "hi": "कर सकता"
+        },
+        {
+          "no": 5,
+          "word": "என்று ஆய்ந்து <br>(Endru aayndhu)",
+          "ta": "என்று ஆராய்ந்து",
+          "en": "Thoughtful command",
+          "hi": "परिशीलन कर"
+        },
+        {
+          "no": 6,
+          "word": "அதனை <br>(Adhanai)",
+          "ta": "அச்செயலை",
+          "en": "The matter",
+          "hi": "वह कार्य"
+        },
+        {
+          "no": 7,
+          "word": "அவன்கண் விடல் <br>(Avankan vidal)",
+          "ta": "அவனிடமே ஒப்படைக்க",
+          "en": "Leave in his hand",
+          "hi": "सौंप उसे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இதனை யிதனா லிவன்முடிக்கு மென்றாய்ந்",
+          "line2": "ததனை யவன்கண் விடல்."
+        },
+        "en": {
+          "line1": "'This man, this work shall thus work out,' let thoughtful king command;",
+          "line2": "Then leave the matter wholly in his servant's hand."
+        },
+        "hi": {
+          "line1": "इस साधन से व्यक्ति यह, कर सकता यह कार्य ।",
+          "line2": "परिशीलन कर इस तरह, सौंप उसे वह कार्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Idhanai Yidhanaa Livanmudikku Mendraayn",
+            "line2": "Thadhanai Yavankan Vidal."
+          },
+          "hi": {
+            "line1": "इदनै यिदना लिवन्मुडिक्कु मॆन्द्राय्न्",
+            "line2": "तदनै यवन्कण् विडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இந்தச் செயலை இந்தக் கருவியால் இவன் செய்து முடிப்பான் என்று ஆராய்ந்து, அந்தச் செயலை அவனிடமே ஒப்படைத்துவிட வேண்டும்.",
+        "en": "Think through who has the right tools and ability for the job, then delegate it fully and let them execute.",
+        "hi": "'इस साधन से यह व्यक्ति यह कार्य पूरा कर सकता है' — इस प्रकार भली-भाँति विचार-विमर्श (परिशीलन) करके वह कार्य उसी को सौंप देना चाहिए।"
+      }
+    },
+    {
+      "num": 518,
+      "line1": "வினைக்குரிமை நாடிய பின்றை யவனை",
+      "line2": "யதற்குரிய னாகச் செயல்.",
+      "enLine1": "As each man's special aptitude is known,",
+      "enLine2": "Bid each man make that special work his own.",
+      "hiLine1": "यदि पाया इक व्यक्ति को, परख कार्य के योग्य ।",
+      "hiLine2": "तो फिर उसे नियुक्त कर, पदवी देना योग्य ॥",
+      "general": "ஒருவனுக்கு உரிய தொழில் எது என்பதை ஆராய்ந்து அறிந்த பிறகு, அவனை அந்தத் தொழிலுக்கு உரியவனாக ஆக்கிச் செயல்படச் செய்ய வேண்டும்.",
+      "en": "Once you have ascertained the work for which a person is best suited, appoint them to that very role.",
+      "hi": "यदि परखने के बाद किसी व्यक्ति को किसी विशेष कार्य के योग्य पाया जाए, तो फिर उसे उसी कार्य पर नियुक्त करके उचित पदवी प्रदान करनी चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வினைக்கு <br>(Vinaikku)",
+          "ta": "செயலுக்கு",
+          "en": "Special work",
+          "hi": "कार्य के"
+        },
+        {
+          "no": 2,
+          "word": "உரிமை <br>(Urimai)",
+          "ta": "உரிய தகுதியை",
+          "en": "Special aptitude",
+          "hi": "योग्य"
+        },
+        {
+          "no": 3,
+          "word": "நாடிய <br>(Naadiya)",
+          "ta": "ஆராய்ந்த",
+          "en": "Is known",
+          "hi": "परख"
+        },
+        {
+          "no": 4,
+          "word": "பின்றை <br>(Pinrai)",
+          "ta": "பிறகு",
+          "en": "After",
+          "hi": "तो फिर"
+        },
+        {
+          "no": 5,
+          "word": "அவனை <br>(Avanai)",
+          "ta": "அவனை",
+          "en": "Each man",
+          "hi": "उसे"
+        },
+        {
+          "no": 6,
+          "word": "அதற்கு உரியன் ஆக <br>(Adharku uriyan aaga)",
+          "ta": "அதற்கு உரியவனாக",
+          "en": "Make his own",
+          "hi": "नियुक्त कर"
+        },
+        {
+          "no": 7,
+          "word": "செயல் <br>(Seyal)",
+          "ta": "செய்ய வேண்டும்",
+          "en": "Bid",
+          "hi": "पदवी देना योग्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வினைக்குரிமை நாடிய பின்றை யவனை",
+          "line2": "யதற்குரிய னாகச் செயல்."
+        },
+        "en": {
+          "line1": "As each man's special aptitude is known,",
+          "line2": "Bid each man make that special work his own."
+        },
+        "hi": {
+          "line1": "यदि पाया इक व्यक्ति को, परख कार्य के योग्य ।",
+          "line2": "तो फिर उसे नियुक्त कर, पदवी देना योग्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vinaikkurimai Naadiya Pinrai Yavanai",
+            "line2": "Yadharkuriya Naagach Seyal."
+          },
+          "hi": {
+            "line1": "विनैक्कुरिमै नाडिय पिन्त्रै यवनै",
+            "line2": "यदर्कुरिय नागच् सॆयल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவனுக்கு உரிய தொழில் எது என்பதை ஆராய்ந்து அறிந்த பிறகு, அவனை அந்தத் தொழிலுக்கு உரியவனாக ஆக்கிச் செயல்படச் செய்ய வேண்டும்.",
+        "en": "Once you identify what someone is naturally built for, give them ownership and authority over that exact domain.",
+        "hi": "यदि परखने के बाद किसी व्यक्ति को किसी विशेष कार्य के योग्य पाया जाए, तो फिर उसे उसी कार्य पर नियुक्त करके उचित पदवी प्रदान करनी चाहिए।"
+      }
+    },
+    {
+      "num": 519,
+      "line1": "வினைக்கண் வினையுடையான் கேண்மை வேறாக",
+      "line2": "நினைப்பானை நீங்குந் திரு.",
+      "enLine1": "Fortune deserts the king who ill can bear",
+      "enLine2": "Informal friendly ways of men his toils who share.",
+      "hiLine1": "तत्परता-वश कार्य में, हुआ मित्र व्यवहार ।",
+      "hiLine2": "उसको समझे अन्यता, तो श्री जावे पार ॥",
+      "general": "செயலாற்றும் இடத்தில் பொறுப்புடையவன் எடுத்துக்கொள்ளும் நட்புரிமையைத் தவறாக எண்ணுகின்ற தலைவனிடமிருந்து செல்வம் நீங்கிவிடும்.",
+      "en": "Prosperity forsakes a ruler who misinterprets and resents the friendly familiarity of dedicated workers who share his burdens.",
+      "hi": "कार्य में तत्परता और समर्पण के कारण यदि सेवक मित्र जैसा अनौपचारिक व्यवहार कर बैठे और राजा उसे अन्यथा (अनादर) समझ ले, तो लक्ष्मी उस राजा को छोड़कर चली जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வினைக்கண் <br>(Vinaikkan)",
+          "ta": "செயலிடத்தில்",
+          "en": "His toils who share",
+          "hi": "कार्य में"
+        },
+        {
+          "no": 2,
+          "word": "வினையுடையான் <br>(Vinaiyudaiyaan)",
+          "ta": "தொழில் செய்பவனது",
+          "en": "Men",
+          "hi": "तत्परता-वश"
+        },
+        {
+          "no": 3,
+          "word": "கேண்மை <br>(Kenmai)",
+          "ta": "நட்புரிமையை",
+          "en": "Friendly ways",
+          "hi": "मित्र व्यवहार"
+        },
+        {
+          "no": 4,
+          "word": "வேறாக <br>(Veraaga)",
+          "ta": "தவறாக",
+          "en": "Ill can bear",
+          "hi": "अन्यथा"
+        },
+        {
+          "no": 5,
+          "word": "நினைப்பானை <br>(Ninaippaanai)",
+          "ta": "எண்ணுபவனை விட்டு",
+          "en": "The king who",
+          "hi": "उसको समझे"
+        },
+        {
+          "no": 6,
+          "word": "நீங்கும் <br>(Neengum)",
+          "ta": "நீங்கிப் போகும்",
+          "en": "Deserts",
+          "hi": "जावे पार"
+        },
+        {
+          "no": 7,
+          "word": "திரு <br>(Thiru)",
+          "ta": "செல்வம்",
+          "en": "Fortune",
+          "hi": "श्री"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வினைக்கண் வினையுடையான் கேண்மை வேறாக",
+          "line2": "நினைப்பானை நீங்குந் திரு."
+        },
+        "en": {
+          "line1": "Fortune deserts the king who ill can bear",
+          "line2": "Informal friendly ways of men his toils who share."
+        },
+        "hi": {
+          "line1": "तत्परता-वश कार्य में, हुआ मित्र व्यवहार ।",
+          "line2": "उसको समझे अन्यता, तो श्री जावे पार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vinaikkan Vinaiyudaiyaan Kenmai Veraaga",
+            "line2": "Ninaippaanai Neengun Thiru."
+          },
+          "hi": {
+            "line1": "विनैक्कण् विनैयुडैयान् केण्मै वेराग",
+            "line2": "निनैप्पानै नीङ्गुन् तिरु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செயலாற்றும் இடத்தில் பொறுப்புடையவன் எடுத்துக்கொள்ளும் நட்புரிமையைத் தவறாக எண்ணுகின்ற தலைவனிடமிருந்து செல்வம் நீங்கிவிடும்.",
+        "en": "Success slips away from a leader who gets offended by the candid, informal camaraderie of hardworking teammates.",
+        "hi": "कार्य में तत्परता और समर्पण के कारण यदि सेवक मित्र जैसा अनौपचारिक व्यवहार कर बैठे और राजा उसे अन्यथा (अनादर) समझ ले, तो लक्ष्मी उस राजा को छोड़कर चली जाती है।"
+      }
+    },
+    {
+      "num": 520,
+      "line1": "நாடோறு நாடுக மன்னன் வினைசெய்வான்",
+      "line2": "கோடாமை கோடா துலகு.",
+      "enLine1": "Let king search out his servants' deeds each day;",
+      "enLine2": "When these do right, the world goes rightly on its way.",
+      "hiLine1": "राज-भृत्य यदि विकृत नहिं, विकृत न होगा राज ।",
+      "hiLine2": "रोज़ परखना चाहिये, नृप को उसका काज ॥",
+      "general": "அரசன் தன் பணியாளர்கள் தவறு செய்யாமல் இருக்கிறார்களா என்று நாள்தோறும் ஆராய வேண்டும்; அவர்கள் நேர்மை தவறாதிருந்தால் உலகமும் நெறி தவறாது.",
+      "en": "Let the king inspect the conduct of his officials every day; if they do not stray from rectitude, the world too will stay on the right path.",
+      "hi": "यदि राजकर्मचारी भ्रष्ट न हों तो राज्य भी भ्रष्ट नहीं होगा; इसलिए राजा को चाहिए कि वह प्रतिदिन उनके कार्यों की जाँच-परख करता रहे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நாடோறும் <br>(Naadorum)",
+          "ta": "நாள்தோறும்",
+          "en": "Each day",
+          "hi": "रोज़"
+        },
+        {
+          "no": 2,
+          "word": "நாடுக <br>(Naaduga)",
+          "ta": "ஆராய வேண்டும்",
+          "en": "Search out",
+          "hi": "परखना चाहिये"
+        },
+        {
+          "no": 3,
+          "word": "மன்னன் <br>(Mannan)",
+          "ta": "அரசன்",
+          "en": "King",
+          "hi": "नृप को"
+        },
+        {
+          "no": 4,
+          "word": "வினை செய்வான் <br>(Vinai seyvaan)",
+          "ta": "செயல் செய்பவன்",
+          "en": "His servants' deeds",
+          "hi": "राज-भृत्य का काज"
+        },
+        {
+          "no": 5,
+          "word": "கோடாமை <br>(Kodaamai)",
+          "ta": "நெறி தவறாதிருந்தால்",
+          "en": "When these do right",
+          "hi": "यदि विकृत नहिं"
+        },
+        {
+          "no": 6,
+          "word": "கோடாது <br>(Kodaadhu)",
+          "ta": "நெறி தவறாது",
+          "en": "Goes rightly",
+          "hi": "विकृत न होगा"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "राज"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாடோறு நாடுக மன்னன் வினைசெய்வான்",
+          "line2": "கோடாமை கோடா துலகு."
+        },
+        "en": {
+          "line1": "Let king search out his servants' deeds each day;",
+          "line2": "When these do right, the world goes rightly on its way."
+        },
+        "hi": {
+          "line1": "राज-भृत्य यदि विकृत नहिं, विकृत न होगा राज ।",
+          "line2": "रोज़ परखना चाहिये, नृप को उसका काज ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naadoru Naaduga Mannan Vinaiseyvaan",
+            "line2": "Kodaamai Kodaa Dhulagu."
+          },
+          "hi": {
+            "line1": "नाडोरु नाडुग मन्नन् विनैसॆय्वान्",
+            "line2": "कोडामै कोडा दुलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரசன் தன் பணியாளர்கள் தவறு செய்யாமல் இருக்கிறார்களா என்று நாள்தோறும் ஆராய வேண்டும்; அவர்கள் நேர்மை தவறாதிருந்தால் உலகமும் நெறி தவறாது.",
+        "en": "Review your team's work daily—when those in charge stay honest and accountable, the whole system stays on track.",
+        "hi": "यदि राजकर्मचारी भ्रष्ट न हों तो राज्य भी भ्रष्ट नहीं होगा; इसलिए राजा को चाहिए कि वह प्रतिदिन उनके कार्यों की जाँच-परख करता रहे।"
+      }
+    }
+  ]
+}

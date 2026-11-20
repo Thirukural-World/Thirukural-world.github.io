@@ -1,0 +1,930 @@
+{
+  "chapterNum": 25,
+  "nameTa": "அருளுடைமை",
+  "nameEn": "The Possession of Benevolence",
+  "nameHi": "दयालुता",
+  "paal": "அறத்துப்பால்",
+  "iyal": "துறவறவியல்",
+  "kurals": [
+    {
+      "num": 241,
+      "line1": "அருட்செல்வம் செல்வத்துள் செல்வம் பொருட்செல்வம்",
+      "line2": "பூரியார் கண்ணும் உள.",
+      "enLine1": "Wealth 'mid wealth is wealth of 'kindliness' ;",
+      "enLine2": "Wealth of goods the vilest too possess.",
+      "hiLine1": "सर्व धनों में श्रेष्ठ है, दयारूप संपति ।",
+      "hiLine2": "नीच जनों के पास भी, है भौतिक संपति ॥",
+      "general": "எல்லாச் செல்வங்களுள்ளும் சிறந்த செல்வம் அருட்செல்வமே ஆகும்; பொருட்செல்வமோ இழிந்தவர்களிடத்திலும் உள்ளது.",
+      "en": "The wealth of benevolence is the wealth among all wealths; material wealth is possessed even by the vilest of men.",
+      "hi": "सभी धनों में सर्वश्रेष्ठ धन दया रूपी संपत्ति ही है; भौतिक संपत्ति तो नीच व्यक्तियों के पास भी होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அருட்செல்வம் <br>(Arutchelvam)",
+          "ta": "அருளாகிய செல்வம்",
+          "en": "Wealth of kindliness",
+          "hi": "दयारूप संपत्ति"
+        },
+        {
+          "no": 2,
+          "word": "செல்வத்துள் <br>(Selvaththul)",
+          "ta": "செல்வங்களுள்",
+          "en": "Among wealths",
+          "hi": "सर्व धनों में"
+        },
+        {
+          "no": 3,
+          "word": "செல்வம் <br>(Selvam)",
+          "ta": "சிறந்த செல்வமாகும்",
+          "en": "True wealth",
+          "hi": "श्रेष्ठ है"
+        },
+        {
+          "no": 4,
+          "word": "பொருட்செல்வம் <br>(Porutchelvam)",
+          "ta": "பொருளாகிய செல்வம்",
+          "en": "Wealth of goods",
+          "hi": "भौतिक संपत्ति"
+        },
+        {
+          "no": 5,
+          "word": "பூரியார் <br>(Pooriyaar)",
+          "ta": "இழிந்தவர்",
+          "en": "The vilest",
+          "hi": "नीच जनों"
+        },
+        {
+          "no": 6,
+          "word": "கண்ணும் <br>(Kannum)",
+          "ta": "இடத்திலும்",
+          "en": "Even in",
+          "hi": "के पास भी"
+        },
+        {
+          "no": 7,
+          "word": "உள <br>(Ula)",
+          "ta": "உள்ளன",
+          "en": "Possess",
+          "hi": "होती है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அருட்செல்வம் செல்வத்துள் செல்வம் பொருட்செல்வம்",
+          "line2": "பூரியார் கண்ணும் உள."
+        },
+        "en": {
+          "line1": "Wealth 'mid wealth is wealth of 'kindliness' ;",
+          "line2": "Wealth of goods the vilest too possess."
+        },
+        "hi": {
+          "line1": "सर्व धनों में श्रेष्ठ है, दयारूप संपति ।",
+          "line2": "नीच जनों के पास भी, है भौतिक संपति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arutchelvam Selvaththul Selvam Porutchelvam",
+            "line2": "Pooriyaar Kannum Ula."
+          },
+          "hi": {
+            "line1": "अरुट्चॆल्वम् सॆल्वत्तुळ् सॆल्वम् पॊरुट्चॆल्वम्",
+            "line2": "पूरियार् कण्णुम् उळ."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லாச் செல்வங்களுள்ளும் சிறந்த செல்வம் அருட்செல்வமே ஆகும்; பொருட்செல்வமோ இழிந்தவர்களிடத்திலும் உள்ளது.",
+        "en": "Compassion is the supreme form of wealth—material riches can be accumulated even by the most unscrupulous people.",
+        "hi": "सभी धनों में सर्वश्रेष्ठ धन दया रूपी संपत्ति ही है; भौतिक संपत्ति तो नीच व्यक्तियों के पास भी होती है।"
+      }
+    },
+    {
+      "num": 242,
+      "line1": "நல்லாற்றான் நாடி அருளாள்க பல்லாற்றால்",
+      "line2": "தேரினும் அஃதே துணை.",
+      "enLine1": "The law of 'grace' fulfil, by methods good due trial made,",
+      "enLine2": "Though many systems you explore, this is your only aid.",
+      "hiLine1": "सत्-पथ पर चल परख कर, दयाव्रती बन जाय ।",
+      "hiLine2": "धर्म-विवेचन सकल कर, पाया वही सहाय ॥",
+      "general": "நல்ல வழிகளால் ஆராய்ந்து எல்லா உயிர்களிடத்தும் அருள் உடையவராக இருக்க வேண்டும்; பல நூல்களால் ஆராய்ந்து பார்த்தாலும் அந்த அருளே துணையாகும்.",
+      "en": "Seek by good means and practice benevolence; even if you examine many paths, compassion alone is your true aid.",
+      "hi": "सन्मार्ग पर चलकर भली-भाँति परख लेने के बाद मनुष्य को दयाव्रती बन जाना चाहिए; सभी धर्मों का विवेचन करने पर दया ही सच्ची सहायक पाई गई है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நல்லாற்றான் <br>(Nallaatraan)",
+          "ta": "நல்ல நெறியால்",
+          "en": "By good methods",
+          "hi": "सत्-पथ पर चल"
+        },
+        {
+          "no": 2,
+          "word": "நாடி <br>(Naadi)",
+          "ta": "ஆராய்ந்து",
+          "en": "Due trial made",
+          "hi": "परख कर"
+        },
+        {
+          "no": 3,
+          "word": "அருளாள்க <br>(Arulaalka)",
+          "ta": "அருள் செய்க",
+          "en": "Fulfil grace",
+          "hi": "दयाव्रती बन जाए"
+        },
+        {
+          "no": 4,
+          "word": "பல்லாற்றால் <br>(Pallaatraal)",
+          "ta": "பல வழிகளால்",
+          "en": "Many systems",
+          "hi": "सकल धर्म-विवेचन"
+        },
+        {
+          "no": 5,
+          "word": "தேரினும் <br>(Therinum)",
+          "ta": "ஆராய்ந்தாலும்",
+          "en": "Though you explore",
+          "hi": "करने पर भी"
+        },
+        {
+          "no": 6,
+          "word": "அஃதே <br>(Akdhe)",
+          "ta": "அதுவே",
+          "en": "This alone",
+          "hi": "वही"
+        },
+        {
+          "no": 7,
+          "word": "துணை <br>(Thunai)",
+          "ta": "துணையாகும்",
+          "en": "Is aid",
+          "hi": "सहायक है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நல்லாற்றான் நாடி அருளாள்க பல்லாற்றால்",
+          "line2": "தேரினும் அஃதே துணை."
+        },
+        "en": {
+          "line1": "The law of 'grace' fulfil, by methods good due trial made,",
+          "line2": "Though many systems you explore, this is your only aid."
+        },
+        "hi": {
+          "line1": "सत्-पथ पर चल परख कर, दयाव्रती बन जाय ।",
+          "line2": "धर्म-विवेचन सकल कर, पाया वही सहाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nallaatraan Naadi Arulaalka Pallaatraal",
+            "line2": "Therinum Akdhe Thunai."
+          },
+          "hi": {
+            "line1": "नल्लात्रान् नाडि अरुळाळ्ग पल्लात्राल्",
+            "line2": "तेरिनुम् अःदे तुणै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்ல வழிகளால் ஆராய்ந்து எல்லா உயிர்களிடத்தும் அருள் உடையவராக இருக்க வேண்டும்; பல நூல்களால் ஆராய்ந்து பார்த்தாலும் அந்த அருளே துணையாகும்.",
+        "en": "Examine every philosophy and path you wish—you will still find that genuine compassion is the one true companion on the journey.",
+        "hi": "सन्मार्ग पर चलकर भली-भाँति परख लेने के बाद मनुष्य को दयाव्रती बन जाना चाहिए; सभी धर्मों का विवेचन करने पर दया ही सच्ची सहायक पाई गई है।"
+      }
+    },
+    {
+      "num": 243,
+      "line1": "அருள்சேர்ந்த நெஞ்சினார்க்கு இல்லை இருள்சேர்ந்த",
+      "line2": "இன்னா உலகம் புகல்.",
+      "enLine1": "They in whose breast a 'gracious kindliness' resides,",
+      "enLine2": "See not the gruesome world, where darkness drear abides.",
+      "hiLine1": "अन्धकारमय नरक है, जहाँ न सुख लवलेश ।",
+      "hiLine2": "दयापूर्ण का तो वहाँ, होता नहीं प्रवेश ॥",
+      "general": "அருள் நிறைந்த நெஞ்சம் உடையவர்களுக்கு, இருள் சூழ்ந்த துன்ப உலகமாகிய நரகத்தில் புகுதல் இல்லை.",
+      "en": "Those whose hearts are filled with benevolence will never enter the dark world of misery.",
+      "hi": "जहाँ सुख का लेशमात्र भी नहीं है, ऐसे अंधकारमय नरक में दयापूर्ण हृदय वाले व्यक्तियों का कभी प्रवेश नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அருள்சேர்ந்த <br>(Arulserndha)",
+          "ta": "அருள் நிறைந்த",
+          "en": "Gracious kindliness",
+          "hi": "दयापूर्ण"
+        },
+        {
+          "no": 2,
+          "word": "நெஞ்சினார்க்கு <br>(Nenjinaarkku)",
+          "ta": "நெஞ்சம் உடையவர்க்கு",
+          "en": "Whose breast resides",
+          "hi": "हृदय वाले का"
+        },
+        {
+          "no": 3,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "See not / none",
+          "hi": "नहीं होता"
+        },
+        {
+          "no": 4,
+          "word": "இருள்சேர்ந்த <br>(Irulserndha)",
+          "ta": "இருள் சூழ்ந்த",
+          "en": "Darkness drear abides",
+          "hi": "अंधकारमय"
+        },
+        {
+          "no": 5,
+          "word": "இன்னா <br>(Innaa)",
+          "ta": "துன்பம் நிறைந்த",
+          "en": "Gruesome / miserable",
+          "hi": "जहाँ सुख लवलेश नहीं"
+        },
+        {
+          "no": 6,
+          "word": "உலகம் <br>(Ulagam)",
+          "ta": "உலகத்தில்",
+          "en": "World",
+          "hi": "नरक में"
+        },
+        {
+          "no": 7,
+          "word": "புகல் <br>(Pugal)",
+          "ta": "புகுதல்",
+          "en": "Entering",
+          "hi": "प्रवेश"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அருள்சேர்ந்த நெஞ்சினார்க்கு இல்லை இருள்சேர்ந்த",
+          "line2": "இன்னா உலகம் புகல்."
+        },
+        "en": {
+          "line1": "They in whose breast a 'gracious kindliness' resides,",
+          "line2": "See not the gruesome world, where darkness drear abides."
+        },
+        "hi": {
+          "line1": "अन्धकारमय नरक है, जहाँ न सुख लवलेश ।",
+          "line2": "दयापूर्ण का तो वहाँ, होता नहीं प्रवेश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arulserndha Nenjinaarkku Illai Irulserndha",
+            "line2": "Innaa Ulagam Pugal."
+          },
+          "hi": {
+            "line1": "अरुळ्सेर्न्द नॆञ्जिनार्क्कु इल्लै इरुळ्सेर्न्द",
+            "line2": "इन्ना उलगम् पुगल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அருள் நிறைந்த நெஞ்சம் உடையவர்களுக்கு, இருள் சூழ்ந்த துன்ப உலகமாகிய நரகத்தில் புகுதல் இல்லை.",
+        "en": "A heart anchored in compassion is shielded from the dark realms of despair and torment.",
+        "hi": "जहाँ सुख का लेशमात्र भी नहीं है, ऐसे अंधकारमय नरक में दयापूर्ण हृदय वाले व्यक्तियों का कभी प्रवेश नहीं होता।"
+      }
+    },
+    {
+      "num": 244,
+      "line1": "மன்னுயிர் ஓம்பி அருளாள்வாற்கு இல்லென்ப",
+      "line2": "தன்னுயிர் அஞ்சும் வினை.",
+      "enLine1": "Who for undying souls of men provides with gracious zeal,",
+      "enLine2": "In his own soul the dreaded guilt of sin shall never feel.",
+      "hiLine1": "सब जीवों को पालते, दयाव्रती जो लोग ।",
+      "hiLine2": "प्राण-भयंकर पाप का, उन्हें न होगा योग ॥",
+      "general": "நிலைபெற்ற உயிர்களைப் பாதுகாத்து அருள் செய்பவருக்கு, தம் உயிர் அஞ்சும்படியான தீவினைகள் ஒருபோதும் இல்லை என்று சான்றோர் கூறுவர்.",
+      "en": "The wise say that those who cherish and protect all living beings with benevolence will never commit deeds that make their own soul tremble.",
+      "hi": "जो दयाव्रती लोग समस्त जीवों का पालन और रक्षा करते हैं, उन्हें अपने प्राणों को भयभीत करने वाले पापों का कभी सामना नहीं करना पड़ता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மன்னுயிர் <br>(Mannuyir)",
+          "ta": "நிலைபெற்ற உயிர்களை",
+          "en": "Undying souls",
+          "hi": "सब जीवों को"
+        },
+        {
+          "no": 2,
+          "word": "ஓம்பி <br>(Ombi)",
+          "ta": "பாதுகாத்து",
+          "en": "Cherishing / providing",
+          "hi": "पालते हुए"
+        },
+        {
+          "no": 3,
+          "word": "அருளாள்வாற்கு <br>(Arulaalvaarku)",
+          "ta": "அருள் செய்வோர்க்கு",
+          "en": "To those with gracious zeal",
+          "hi": "दयाव्रती लोगों को"
+        },
+        {
+          "no": 4,
+          "word": "இல்லென்ப <br>(Illenba)",
+          "ta": "இல்லை என்பர்",
+          "en": "Never feel, they say",
+          "hi": "नहीं होगा"
+        },
+        {
+          "no": 5,
+          "word": "தன்னுயிர் <br>(Thannuyir)",
+          "ta": "தம் உயிர்",
+          "en": "His own soul",
+          "hi": "प्राणों को"
+        },
+        {
+          "no": 6,
+          "word": "அஞ்சும் <br>(Anjum)",
+          "ta": "அஞ்சத்தக்க",
+          "en": "Dreaded",
+          "hi": "भयंकर"
+        },
+        {
+          "no": 7,
+          "word": "வினை <br>(Vinai)",
+          "ta": "தீவினை",
+          "en": "Sin / deed",
+          "hi": "पाप का योग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மன்னுயிர் ஓம்பி அருளாள்வாற்கு இல்லென்ப",
+          "line2": "தன்னுயிர் அஞ்சும் வினை."
+        },
+        "en": {
+          "line1": "Who for undying souls of men provides with gracious zeal,",
+          "line2": "In his own soul the dreaded guilt of sin shall never feel."
+        },
+        "hi": {
+          "line1": "सब जीवों को पालते, दयाव्रती जो लोग ।",
+          "line2": "प्राण-भयंकर पाप का, उन्हें न होगा योग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Mannuyir Ombi Arulaalvaarku Illenba",
+            "line2": "Thannuyir Anjum Vinai."
+          },
+          "hi": {
+            "line1": "मन्नुयिर् ओम्बि अरुळाळ्वार्कु इल्लॆन्ब",
+            "line2": "तन्नुयिर् अञ्जुम् विनै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நிலைபெற்ற உயிர்களைப் பாதுகாத்து அருள் செய்பவருக்கு, தம் உயிர் அஞ்சும்படியான தீவினைகள் ஒருபோதும் இல்லை என்று சான்றோர் கூறுவர்.",
+        "en": "Those who protect and care for living creatures never experience the inner dread that haunts people burdened by guilt.",
+        "hi": "जो दयाव्रती लोग समस्त जीवों का पालन और रक्षा करते हैं, उन्हें अपने प्राणों को भयभीत करने वाले पापों का कभी सामना नहीं करना पड़ता।"
+      }
+    },
+    {
+      "num": 245,
+      "line1": "அல்லல் அருளாள்வார்க்கு இல்லை வளிவழங்கும்",
+      "line2": "மல்லல்மா ஞாலங் கரி.",
+      "enLine1": "The teeming earth's vast realm, round which the wild winds blow,",
+      "enLine2": "Is witness, men of 'grace' no woeful want shall know.",
+      "hiLine1": "दुःख- दर्द उनको नहीं, जो है दयानिधान ।",
+      "hiLine2": "पवन संचरित उर्वरा, महान भूमि प्रमाण ॥",
+      "general": "அருளுடையவர்களுக்குத் துன்பம் இல்லை; இதற்குக் காற்று வீசும் வளமான இந்தப் பெரிய உலகமே சாட்சியாகும்.",
+      "en": "There is no sorrow for those who possess benevolence; the vast, fertile earth over which the winds blow is witness to this.",
+      "hi": "जो लोग दया के निधान हैं, उन्हें कभी कोई दुख-दर्द नहीं होता; पवन से संचरित यह विशाल और उपजाऊ पृथ्वी ही इसका प्रमाण है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அல்லல் <br>(Allal)",
+          "ta": "துன்பம்",
+          "en": "Woeful want / sorrow",
+          "hi": "दुःख-दर्द"
+        },
+        {
+          "no": 2,
+          "word": "அருளாள்வார்க்கு <br>(Arulaalvaarkku)",
+          "ta": "அருளுடையவர்க்கு",
+          "en": "To men of grace",
+          "hi": "दयानिधान को"
+        },
+        {
+          "no": 3,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "Shall know none",
+          "hi": "नहीं होता"
+        },
+        {
+          "no": 4,
+          "word": "வளிவழங்கும் <br>(Valivazhangum)",
+          "ta": "காற்று உலவும்",
+          "en": "Wild winds blow",
+          "hi": "पवन संचरित"
+        },
+        {
+          "no": 5,
+          "word": "மல்லல்மா <br>(Mallalmaa)",
+          "ta": "வளப்பம் மிக்க பெரிய",
+          "en": "Teeming vast",
+          "hi": "उर्वरा महान"
+        },
+        {
+          "no": 6,
+          "word": "ஞாலம் <br>(Njaalam)",
+          "ta": "உலகம்",
+          "en": "Earth's realm",
+          "hi": "भूमि"
+        },
+        {
+          "no": 7,
+          "word": "கரி <br>(Kari)",
+          "ta": "சாட்சியாகும்",
+          "en": "Is witness",
+          "hi": "प्रमाण है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அல்லல் அருளாள்வார்க்கு இல்லை வளிவழங்கும்",
+          "line2": "மல்லல்மா ஞாலங் கரி."
+        },
+        "en": {
+          "line1": "The teeming earth's vast realm, round which the wild winds blow,",
+          "line2": "Is witness, men of 'grace' no woeful want shall know."
+        },
+        "hi": {
+          "line1": "दुःख- दर्द उनको नहीं, जो है दयानिधान ।",
+          "line2": "पवन संचरित उर्वरा, महान भूमि प्रमाण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Allal Arulaalvaarkku Illai Valivazhangum",
+            "line2": "Mallalmaa Njaalam Kari."
+          },
+          "hi": {
+            "line1": "अल्लल् अरुळाळ्वार्कु इल्लै वळिवऴंगुम्",
+            "line2": "मल्लल्मा ञालंग् करि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அருளுடையவர்களுக்குத் துன்பம் இல்லை; இதற்குக் காற்று வீசும் வளமான இந்தப் பெரிய உலகமே சாட்சியாகும்.",
+        "en": "This entire thriving earth bears witness that genuinely compassionate people never suffer lasting ruin.",
+        "hi": "जो लोग दया के निधान हैं, उन्हें कभी कोई दुख-दर्द नहीं होता; पवन से संचरित यह विशाल और उपजाऊ पृथ्वी ही इसका प्रमाण है।"
+      }
+    },
+    {
+      "num": 246,
+      "line1": "பொருள்நீங்கிப் பொச்சாந்தார் என்பர் அருள்நீங்கி",
+      "line2": "அல்லவை செய்தொழுகு வார்.",
+      "enLine1": "Gain of true wealth oblivious they eschew,",
+      "enLine2": "Who 'grace' forsake, and graceless actions do.",
+      "hiLine1": "जो निर्दय हैं पापरत, यों कहते धीमान ।",
+      "hiLine2": "तज कर वे पुरुषार्थ को, भूले दुःख महान ॥",
+      "general": "அருளிலிருந்து நீங்கித் தீய செயல்களைச் செய்து நடப்பவர்களை, மெய்ப்பொருளை இழந்து தம் கடமையை மறந்தவர்கள் என்று அறிஞர் கூறுவர்.",
+      "en": "The wise say that those who forsake benevolence and commit evil deeds have lost true wealth and forgotten their duty.",
+      "hi": "बुद्धिमान लोग यही कहते हैं कि जो निर्दयी व्यक्ति पाप-कर्म में रत रहते हैं, वे पुरुषार्थ को त्यागकर अपने महान दुख को भूल बैठे हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொருள்நீங்கிப் <br>(Porulneengip)",
+          "ta": "மெய்ப்பொருளை இழந்து",
+          "en": "True wealth eschew",
+          "hi": "पुरुषार्थ को तजकर"
+        },
+        {
+          "no": 2,
+          "word": "பொச்சாந்தார் <br>(Pochchaandhaar)",
+          "ta": "கடமையை மறந்தவர்",
+          "en": "Oblivious",
+          "hi": "महान दुख भूल गए"
+        },
+        {
+          "no": 3,
+          "word": "என்பர் <br>(Enbar)",
+          "ta": "என்று கூறுவர்",
+          "en": "They say",
+          "hi": "धीमान कहते हैं"
+        },
+        {
+          "no": 4,
+          "word": "அருள்நீங்கி <br>(Arulneengi)",
+          "ta": "அருளிலிருந்து நீங்கி",
+          "en": "Grace forsake",
+          "hi": "निर्दय होकर"
+        },
+        {
+          "no": 5,
+          "word": "அல்லவை <br>(Allavai)",
+          "ta": "தீய செயல்களை",
+          "en": "Graceless actions",
+          "hi": "पाप"
+        },
+        {
+          "no": 6,
+          "word": "செய்தொழுகு <br>(Seydhozhugu)",
+          "ta": "செய்து நடப்",
+          "en": "Doing / practicing",
+          "hi": "में रत रहने"
+        },
+        {
+          "no": 7,
+          "word": "வார் <br>(Vaar)",
+          "ta": "பவர்களை",
+          "en": "Those who",
+          "hi": "वाले"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொருள்நீங்கிப் பொச்சாந்தார் என்பர் அருள்நீங்கி",
+          "line2": "அல்லவை செய்தொழுகு வார்."
+        },
+        "en": {
+          "line1": "Gain of true wealth oblivious they eschew,",
+          "line2": "Who 'grace' forsake, and graceless actions do."
+        },
+        "hi": {
+          "line1": "जो निर्दय हैं पापरत, यों कहते धीमान ।",
+          "line2": "तज कर वे पुरुषार्थ को, भूले दुःख महान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Porulneengip Pochchaandhaar Enbar Arulneengi",
+            "line2": "Allavai Seydhozhugu Vaar."
+          },
+          "hi": {
+            "line1": "पॊरुळ्नींगिप् पॊच्चान्दार् एन्बर् अरुळ्नींगि",
+            "line2": "अल्लवै सॆय्दॊऴुगु वार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அருளிலிருந்து நீங்கித் தீய செயல்களைச் செய்து நடப்பவர்களை, மெய்ப்பொருளை இழந்து தம் கடமையை மறந்தவர்கள் என்று அறிஞர் கூறுவர்.",
+        "en": "People who abandon compassion for cruelty have lost sight of life's real purpose and forgotten the suffering they bring upon themselves.",
+        "hi": "बुद्धिमान लोग यही कहते हैं कि जो निर्दयी व्यक्ति पाप-कर्म में रत रहते हैं, वे पुरुषार्थ को त्यागकर अपने महान दुख को भूल बैठे हैं।"
+      }
+    },
+    {
+      "num": 247,
+      "line1": "அருளில்லார்க்கு அவ்வுலகம் இல்லை பொருளில்லார்க்கு",
+      "line2": "இவ்வுலகம் இல்லாகி யாங்கு.",
+      "enLine1": "As to impoverished men this present world is not ;",
+      "enLine2": "The 'graceless' in yon world have neither part nor lot.",
+      "hiLine1": "प्राप्य नहीं धनरहित को, ज्यों इहलौकिक भोग ।",
+      "hiLine2": "प्राप्य नहीं परलोक का, दयारहित को योग ॥",
+      "general": "பொருள் இல்லாதவர்களுக்கு இவ்வுலக வாழ்க்கையின் இன்பம் இல்லாதது போல, அருள் இல்லாதவர்களுக்கு அவ்வுலக வாழ்க்கையின் பேரின்பம் இல்லை.",
+      "en": "Just as this world is not for those without wealth, so the next world is not for those without benevolence.",
+      "hi": "जिस प्रकार धन से रहित व्यक्ति को इस लोक के सुख प्राप्त नहीं होते, उसी प्रकार दया से रहित व्यक्ति को परलोक का सुख प्राप्त नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அருளில்லார்க்கு <br>(Arulillaarkku)",
+          "ta": "அருள் இல்லாதவர்க்கு",
+          "en": "To the graceless",
+          "hi": "दयारहित को"
+        },
+        {
+          "no": 2,
+          "word": "அவ்வுலகம் <br>(Avvulagam)",
+          "ta": "மேலுலக இன்பம்",
+          "en": "Yon world",
+          "hi": "परलोक का योग"
+        },
+        {
+          "no": 3,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "Have no part",
+          "hi": "प्राप्य नहीं है"
+        },
+        {
+          "no": 4,
+          "word": "பொருளில்லார்க்கு <br>(Porulillaarkku)",
+          "ta": "பொருள் இல்லாதவர்க்கு",
+          "en": "To impoverished men",
+          "hi": "धनरहित को"
+        },
+        {
+          "no": 5,
+          "word": "இவ்வுலகம் <br>(Ivvulagam)",
+          "ta": "இவ்வுலக வாழ்க்கை",
+          "en": "This present world",
+          "hi": "इहलौकिक भोग"
+        },
+        {
+          "no": 6,
+          "word": "இல்லாகி <br>(Illaagi)",
+          "ta": "இல்லாமல் ஆ",
+          "en": "Is not",
+          "hi": "प्राप्य नहीं"
+        },
+        {
+          "no": 7,
+          "word": "யாங்கு <br>(Yaangu)",
+          "ta": "வது போல",
+          "en": "Just as",
+          "hi": "ज्यों"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அருளில்லார்க்கு அவ்வுலகம் இல்லை பொருளில்லார்க்கு",
+          "line2": "இவ்வுலகம் இல்லாகி யாங்கு."
+        },
+        "en": {
+          "line1": "As to impoverished men this present world is not ;",
+          "line2": "The 'graceless' in yon world have neither part nor lot."
+        },
+        "hi": {
+          "line1": "प्राप्य नहीं धनरहित को, ज्यों इहलौकिक भोग ।",
+          "line2": "प्राप्य नहीं परलोक का, दयारहित को योग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arulillaarkku Avvulagam Illai Porulillaarkku",
+            "line2": "Ivvulagam Illaagi Yaangu."
+          },
+          "hi": {
+            "line1": "अरुळिल्लार्क्कु अव्वुलगम् इल्लै पॊरुळिल्लार्क्कु",
+            "line2": "इव्वुलगम् इल्लागि यांगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொருள் இல்லாதவர்களுக்கு இவ்வுலக வாழ்க்கையின் இன்பம் இல்லாதது போல, அருள் இல்லாதவர்களுக்கு அவ்வுலக வாழ்க்கையின் பேரின்பம் இல்லை.",
+        "en": "Just as material means are needed to navigate this world, a compassionate heart is essential for spiritual fulfillment.",
+        "hi": "जिस प्रकार धन से रहित व्यक्ति को इस लोक के सुख प्राप्त नहीं होते, उसी प्रकार दया से रहित व्यक्ति को परलोक का सुख प्राप्त नहीं होता।"
+      }
+    },
+    {
+      "num": 248,
+      "line1": "பொருளற்றார் பூப்பர் ஒருகால் அருளற்றார்",
+      "line2": "அற்றார்மற்று ஆதல் அரிது.",
+      "enLine1": "Who lose the flower of wealth, when seasons change, again may bloom ;",
+      "enLine2": "Who lose 'benevolence,' lose all ; nothing can change their doom.",
+      "hiLine1": "निर्धन भी फूले-फले, स्यात् धनी बन जाय ।",
+      "hiLine2": "निर्दय है निर्धन सदा, काया पलट न जाय ॥",
+      "general": "பொருள் இல்லாதவர்கள் ஒரு காலத்தில் செல்வம் பெற்றுப் பொலிவார்கள்; ஆனால் அருள் இல்லாதவர்கள் அழிந்தவர்களே, அவர்கள் மீண்டும் உயர்வடைவது அரிது.",
+      "en": "Those who lose wealth may flourish again someday; those who lose benevolence are utterly lost and can scarcely recover.",
+      "hi": "निर्धन व्यक्ति भी समय आने पर फल-फूलकर शायद धनी बन सकता है, किंतु निर्दयी व्यक्ति सदा ही आध्यात्मिक रूप से निर्धन रहता है, उसकी दशा नहीं बदलती।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொருளற்றார் <br>(Porulatraar)",
+          "ta": "பொருள் இழந்தவர்",
+          "en": "Who lose wealth",
+          "hi": "निर्धन भी"
+        },
+        {
+          "no": 2,
+          "word": "பூப்பர் <br>(Pooppar)",
+          "ta": "செல்வத்தால் பொலிவர்",
+          "en": "May bloom again",
+          "hi": "फूले-फले, धनी बन जाए"
+        },
+        {
+          "no": 3,
+          "word": "ஒருகால் <br>(Orugaal)",
+          "ta": "ஒரு காலத்தில்",
+          "en": "When seasons change",
+          "hi": "शायद कभी"
+        },
+        {
+          "no": 4,
+          "word": "அருளற்றார் <br>(Arulatraar)",
+          "ta": "அருள் இழந்தவர்",
+          "en": "Who lose benevolence",
+          "hi": "निर्दय व्यक्ति"
+        },
+        {
+          "no": 5,
+          "word": "அற்றார்மற்று <br>(Atraarmatru)",
+          "ta": "எல்லாம் இழந்தவரே",
+          "en": "Lose all",
+          "hi": "सदा निर्धन है"
+        },
+        {
+          "no": 6,
+          "word": "ஆதல் <br>(Aadhal)",
+          "ta": "மீண்டும் உயர்வது",
+          "en": "Recovering / changing",
+          "hi": "काया पलट होना"
+        },
+        {
+          "no": 7,
+          "word": "அரிது <br>(Aridhu)",
+          "ta": "அரிதாகும்",
+          "en": "Impossible / rare",
+          "hi": "नहीं होता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொருளற்றார் பூப்பர் ஒருகால் அருளற்றார்",
+          "line2": "அற்றார்மற்று ஆதல் அரிது."
+        },
+        "en": {
+          "line1": "Who lose the flower of wealth, when seasons change, again may bloom ;",
+          "line2": "Who lose 'benevolence,' lose all ; nothing can change their doom."
+        },
+        "hi": {
+          "line1": "निर्धन भी फूले-फले, स्यात् धनी बन जाय ।",
+          "line2": "निर्दय है निर्धन सदा, काया पलट न जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Porulatraar Pooppar Orugaal Arulatraar",
+            "line2": "Atraarmatru Aadhal Aridhu."
+          },
+          "hi": {
+            "line1": "पॊरुळत्रार् पूप्पर् ऒरुगाल् अरुळत्रार्",
+            "line2": "अत्रार्मत्रु आदल् अरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொருள் இல்லாதவர்கள் ஒரு காலத்தில் செல்வம் பெற்றுப் பொலிவார்கள்; ஆனால் அருள் இல்லாதவர்கள் அழிந்தவர்களே, அவர்கள் மீண்டும் உயர்வடைவது அரிது.",
+        "en": "Lost money can always be earned back, but losing one's sense of humanity and compassion is a ruin far harder to reverse.",
+        "hi": "निर्धन व्यक्ति भी समय आने पर फल-फूलकर शायद धनी बन सकता है, किंतु निर्दयी व्यक्ति सदा ही आध्यात्मिक रूप से निर्धन रहता है, उसकी दशा नहीं बदलती।"
+      }
+    },
+    {
+      "num": 249,
+      "line1": "தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்",
+      "line2": "அருளாதான் செய்யும் அறம்.",
+      "enLine1": "When souls unwise true wisdom's mystic vision see,",
+      "enLine2": "The 'graceless' man may work true works of charity.",
+      "hiLine1": "निर्दय-जन-कृत सुकृत पर, अगर विचारा जाय ।",
+      "hiLine2": "तत्व-दर्श ज्यों अज्ञ का, वह तो जाना जाय ॥",
+      "general": "ஆராய்ந்து பார்த்தால், அருள் இல்லாதவன் செய்யும் அறச்செயல் என்பது மெய்யுணர்வு இல்லாதவன் மெய்ப்பொருளைக் கண்டேன் என்பது போன்றதாகும்.",
+      "en": "If examined closely, the charity performed by a merciless person is like an ignorant man claiming to see the ultimate truth.",
+      "hi": "यदि निर्दयी व्यक्ति द्वारा किए गए पुण्य कार्य (सुकृत) पर विचार किया जाए, तो वह किसी अज्ञानी के तत्व-दर्शन करने के समान ही व्यर्थ जाना जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தெருளாதான் <br>(Therulaadhaan)",
+          "ta": "அறிவு தெளியாதவன்",
+          "en": "Souls unwise",
+          "hi": "अज्ञ का"
+        },
+        {
+          "no": 2,
+          "word": "மெய்ப்பொருள் <br>(Meipporul)",
+          "ta": "மெய்ப்பொருளை",
+          "en": "True wisdom",
+          "hi": "तत्व-दर्शन"
+        },
+        {
+          "no": 3,
+          "word": "கண்டற்றால் <br>(Kandatraal)",
+          "ta": "கண்டது போன்றது",
+          "en": "Like seeing",
+          "hi": "के समान जाना जाता है"
+        },
+        {
+          "no": 4,
+          "word": "தேரின் <br>(Therin)",
+          "ta": "ஆராய்ந்தால்",
+          "en": "If examined",
+          "hi": "अगर विचारा जाए"
+        },
+        {
+          "no": 5,
+          "word": "அருளாதான் <br>(Arulaadhaan)",
+          "ta": "அருள் இல்லாதவன்",
+          "en": "The graceless man",
+          "hi": "निर्दय-जन"
+        },
+        {
+          "no": 6,
+          "word": "செய்யும் <br>(Seyyum)",
+          "ta": "செய்யும்",
+          "en": "Works",
+          "hi": "कृत"
+        },
+        {
+          "no": 7,
+          "word": "அறம் <br>(Aram)",
+          "ta": "அறச்செயல்",
+          "en": "Charity / virtue",
+          "hi": "सुकृत (पुण्य कार्य)"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்",
+          "line2": "அருளாதான் செய்யும் அறம்."
+        },
+        "en": {
+          "line1": "When souls unwise true wisdom's mystic vision see,",
+          "line2": "The 'graceless' man may work true works of charity."
+        },
+        "hi": {
+          "line1": "निर्दय-जन-कृत सुकृत पर, अगर विचारा जाय ।",
+          "line2": "तत्व-दर्श ज्यों अज्ञ का, वह तो जाना जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Therulaadhaan Meipporul Kandatraal Therin",
+            "line2": "Arulaadhaan Seyyum Aram."
+          },
+          "hi": {
+            "line1": "तॆरुळादान् मॆय्प्पॊरुळ् कण्डत्राल् तेरिन्",
+            "line2": "अरुळादान् सॆय्युम् अरम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆராய்ந்து பார்த்தால், அருள் இல்லாதவன் செய்யும் அறச்செயல் என்பது மெய்யுணர்வு இல்லாதவன் மெய்ப்பொருளைக் கண்டேன் என்பது போன்றதாகும்.",
+        "en": "Good deeds performed without genuine empathy are as hollow and contradictory as an ignorant person claiming enlightenment.",
+        "hi": "यदि निर्दयी व्यक्ति द्वारा किए गए पुण्य कार्य (सुकृत) पर विचार किया जाए, तो वह किसी अज्ञानी के तत्व-दर्शन करने के समान ही व्यर्थ जाना जाता है।"
+      }
+    },
+    {
+      "num": 250,
+      "line1": "வலியார்முன் தன்னை நினைக்கதான் தன்னின்",
+      "line2": "மெலியார்மேல் செல்லும் இடத்து.",
+      "enLine1": "When weaker men you front with threat'ning brow,",
+      "enLine2": "Think how you felt in presence of some stronger foe.",
+      "hiLine1": "रोब जमाते निबल पर, निर्दय करे विचार ।",
+      "hiLine2": "अपने से भी प्रभल के, सम्मुख खुद लाचार ॥",
+      "general": "தன்னைவிட எளியவர் மேல் சினந்து செல்லும்போது, தன்னைவிட வலியவர் முன்னே தான் அஞ்சி நின்ற நிலையை ஒருவன் நினைத்துப் பார்க்க வேண்டும்.",
+      "en": "When a man is about to oppress those weaker than himself, let him think of how he himself stands before those stronger than him.",
+      "hi": "निर्बल पर अपना रोब जमाते समय निर्दयी व्यक्ति को यह विचार करना चाहिए कि अपने से भी अधिक प्रबल व्यक्ति के सामने वह स्वयं कितना लाचार होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வலியார்முன் <br>(Valiyaarmun)",
+          "ta": "தம்மினும் வலியவர் முன்",
+          "en": "Before stronger foe",
+          "hi": "अपने से भी प्रबल के सम्मुख"
+        },
+        {
+          "no": 2,
+          "word": "தன்னை <br>(Thannai)",
+          "ta": "தன்னை",
+          "en": "Oneself",
+          "hi": "खुद को"
+        },
+        {
+          "no": 3,
+          "word": "நினைக்கதான் <br>(Ninaikkadhaan)",
+          "ta": "நினைத்துப் பார்க்க வேண்டும்",
+          "en": "Think how you felt",
+          "hi": "विचार करे"
+        },
+        {
+          "no": 4,
+          "word": "தன்னின் <br>(Thannin)",
+          "ta": "தன்னைவிட",
+          "en": "Than oneself",
+          "hi": "अपने से"
+        },
+        {
+          "no": 5,
+          "word": "மெலியார்மேல் <br>(Meliyaarmel)",
+          "ta": "எளியவர் மீது",
+          "en": "Weaker men",
+          "hi": "निबल पर"
+        },
+        {
+          "no": 6,
+          "word": "செல்லும் <br>(Sellum)",
+          "ta": "துன்புறுத்தச் செல்லும்",
+          "en": "Fronting / oppressing",
+          "hi": "रोब जमाते"
+        },
+        {
+          "no": 7,
+          "word": "இடத்து <br>(Idaththu)",
+          "ta": "போது",
+          "en": "When",
+          "hi": "समय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வலியார்முன் தன்னை நினைக்கதான் தன்னின்",
+          "line2": "மெலியார்மேல் செல்லும் இடத்து."
+        },
+        "en": {
+          "line1": "When weaker men you front with threat'ning brow,",
+          "line2": "Think how you felt in presence of some stronger foe."
+        },
+        "hi": {
+          "line1": "रोब जमाते निबल पर, निर्दय करे विचार ।",
+          "line2": "अपने से भी प्रभल के, सम्मुख खुद लाचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Valiyaarmun Thannai Ninaikkadhaan Thannin",
+            "line2": "Meliyaarmel Sellum Idaththu."
+          },
+          "hi": {
+            "line1": "वलियार्मुन् तन्नै निनैक्कदान् तन्निन्",
+            "line2": "मॆलियार्मेल् सॆल्लुम् इडत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன்னைவிட எளியவர் மேல் சினந்து செல்லும்போது, தன்னைவிட வலியவர் முன்னே தான் அஞ்சி நின்ற நிலையை ஒருவன் நினைத்துப் பார்க்க வேண்டும்.",
+        "en": "Before intimidating someone weaker than you, remember how powerless and anxious you felt in front of someone stronger.",
+        "hi": "निर्बल पर अपना रोब जमाते समय निर्दयी व्यक्ति को यह विचार करना चाहिए कि अपने से भी अधिक प्रबल व्यक्ति के सामने वह स्वयं कितना लाचार होता है।"
+      }
+    }
+  ]
+}

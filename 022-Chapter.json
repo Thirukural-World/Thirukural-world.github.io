@@ -1,0 +1,930 @@
+{
+  "chapterNum": 22,
+  "nameTa": "ஒப்புரவறிதல்",
+  "nameEn": "The Knowledge of what is Befitting a Man's Position",
+  "nameHi": "लोकोपकारिता",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 211,
+      "line1": "கைம்மாறு வேண்டா கடப்பாடு மாரிமாட்டு",
+      "line2": "என்னாற்றுங் கொல்லோ உலகு.",
+      "enLine1": "Duty demands no recompense ; to clouds of heaven,",
+      "enLine2": "By men on earth, what answering gift is given ?",
+      "hiLine1": "उपकारी नहिं चाहते, पाना प्रत्युपकार ।",
+      "hiLine2": "बादल को बदला भला, क्या देता संसार ॥",
+      "general": "பிறருக்கு உதவி செய்யும் கடப்பாடு கைம்மாறு கருதாதது; மழை பொழியும் மேகத்திற்கு இந்த உலகம் என்ன கைம்மாறு செய்கிறது?",
+      "en": "Benevolence seeks no return; what recompense does the world give to the rain-bearing clouds?",
+      "hi": "उपकार करने वाले लोग बदले में कोई प्रत्युपकार नहीं चाहते; भला वर्षा करने वाले बादल को संसार बदले में क्या देता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "கைம்மாறு <br>(Kaimmaaru)",
+          "ta": "கைம்மாறு (பிரதிபலன்)",
+          "en": "Recompense",
+          "hi": "प्रत्युपकार"
+        },
+        {
+          "no": 2,
+          "word": "வேண்டா <br>(Vendaa)",
+          "ta": "விரும்பாத",
+          "en": "Demands no",
+          "hi": "नहीं चाहते"
+        },
+        {
+          "no": 3,
+          "word": "கடப்பாடு <br>(Kadappaadu)",
+          "ta": "உதவி செய்யும் கடமை",
+          "en": "Duty / benevolence",
+          "hi": "उपकार करना"
+        },
+        {
+          "no": 4,
+          "word": "மாரிமாட்டு <br>(Maarimaattu)",
+          "ta": "மழை மேகத்திற்கு",
+          "en": "To clouds of heaven",
+          "hi": "बादल को"
+        },
+        {
+          "no": 5,
+          "word": "என்னாற்றுங் <br>(Ennaatrung)",
+          "ta": "என்ன கைம்மாறு செய்ய",
+          "en": "What answering gift",
+          "hi": "क्या बदला देता है"
+        },
+        {
+          "no": 6,
+          "word": "கொல்லோ <br>(Kollo)",
+          "ta": "முடியுமோ",
+          "en": "Can be given",
+          "hi": "भला"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "இவ்வுலகம்",
+          "en": "The world",
+          "hi": "संसार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கைம்மாறு வேண்டா கடப்பாடு மாரிமாட்டு",
+          "line2": "என்னாற்றுங் கொல்லோ உலகு."
+        },
+        "en": {
+          "line1": "Duty demands no recompense ; to clouds of heaven,",
+          "line2": "By men on earth, what answering gift is given ?"
+        },
+        "hi": {
+          "line1": "उपकारी नहिं चाहते, पाना प्रत्युपकार ।",
+          "line2": "बादल को बदला भला, क्या देता संसार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaimmaaru Vendaa Kadappaadu Maarimaattu",
+            "line2": "Ennaatrung Kollo Ulagu."
+          },
+          "hi": {
+            "line1": "कैम्मारु वेण्डा कडप्पाडु मारिमाट्टु",
+            "line2": "एन्नात्रुंग् कॊल्लो उलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறருக்கு உதவி செய்யும் கடப்பாடு கைம்மாறு கருதாதது; மழை பொழியும் மேகத்திற்கு இந்த உலகம் என்ன கைம்மாறு செய்கிறது?",
+        "en": "True generosity expects nothing in return—just as rain clouds pour life-giving water on the earth without ever asking for repayment.",
+        "hi": "उपकार करने वाले लोग बदले में कोई प्रत्युपकार नहीं चाहते; भला वर्षा करने वाले बादल को संसार बदले में क्या देता है?"
+      }
+    },
+    {
+      "num": 212,
+      "line1": "தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்கு",
+      "line2": "வேளாண்மை செய்தற் பொருட்டு.",
+      "enLine1": "The worthy say, when wealth rewards their toil-spent hours,",
+      "enLine2": "For uses of beneficence alone 'tis ours.",
+      "hiLine1": "बहु प्रयत्न से जो जुड़ा, योग्य व्यक्ति के पास ।",
+      "hiLine2": "लोगों के उपकार हित, है वह सब धन-रास ॥",
+      "general": "முயற்சி செய்து ஈட்டிய பொருள் எல்லாம், தகுதியுடையவர்களுக்கு உதவி செய்வதற்கே ஆகும்.",
+      "en": "All the wealth that worthy people acquire through hard effort is meant for doing good to deserving others.",
+      "hi": "योग्य व्यक्ति के पास कठिन परिश्रम से जो भी धन-राशि एकत्र होती है, वह सब लोगों के उपकार के लिए ही होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தாளாற்றித் <br>(Thaalaatrith)",
+          "ta": "முயற்சி செய்து",
+          "en": "Through toil",
+          "hi": "बहुत प्रयत्न से"
+        },
+        {
+          "no": 2,
+          "word": "தந்த <br>(Thandha)",
+          "ta": "ஈட்டிய",
+          "en": "Acquired",
+          "hi": "जो जुड़ा"
+        },
+        {
+          "no": 3,
+          "word": "பொருளெல்லாம் <br>(Porulellaam)",
+          "ta": "செல்வம் எல்லாம்",
+          "en": "All the wealth",
+          "hi": "वह सब धन-राशि"
+        },
+        {
+          "no": 4,
+          "word": "தக்கார்க்கு <br>(Thakkaarkku)",
+          "ta": "தகுதியுடையவர்க்கு",
+          "en": "To the worthy",
+          "hi": "योग्य व्यक्ति द्वारा"
+        },
+        {
+          "no": 5,
+          "word": "வேளாண்மை <br>(Velaanmai)",
+          "ta": "உதவி",
+          "en": "Beneficence",
+          "hi": "लोगों के उपकार"
+        },
+        {
+          "no": 6,
+          "word": "செய்தற் <br>(Seydhar)",
+          "ta": "செய்வதன்",
+          "en": "For doing",
+          "hi": "करने के"
+        },
+        {
+          "no": 7,
+          "word": "பொருட்டு <br>(Poruttu)",
+          "ta": "பொருட்டே ஆகும்",
+          "en": "Purpose alone",
+          "hi": "लिए ही है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்கு",
+          "line2": "வேளாண்மை செய்தற் பொருட்டு."
+        },
+        "en": {
+          "line1": "The worthy say, when wealth rewards their toil-spent hours,",
+          "line2": "For uses of beneficence alone 'tis ours."
+        },
+        "hi": {
+          "line1": "बहु प्रयत्न से जो जुड़ा, योग्य व्यक्ति के पास ।",
+          "line2": "लोगों के उपकार हित, है वह सब धन-रास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thaalaatrith Thandha Porulellaam Thakkaarkku",
+            "line2": "Velaanmai Seydhar Poruttu."
+          },
+          "hi": {
+            "line1": "ताळात्रित् तन्द पॊरुळॆल्लाम् तक्कार्क्कु",
+            "line2": "वेळाण्मै सॆय्दर् पॊरुट्टु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முயற்சி செய்து ஈட்டிய பொருள் எல்லாம், தகுதியுடையவர்களுக்கு உதவி செய்வதற்கே ஆகும்.",
+        "en": "For noble-hearted people, the true purpose of hard-earned wealth is to share it in service to those who need it.",
+        "hi": "योग्य व्यक्ति के पास कठिन परिश्रम से जो भी धन-राशि एकत्र होती है, वह सब लोगों के उपकार के लिए ही होती है।"
+      }
+    },
+    {
+      "num": 213,
+      "line1": "புத்தே ளுலகத்தும் ஈண்டும் பெறலரிதே",
+      "line2": "ஒப்புரவின் நல்ல பிற.",
+      "enLine1": "To ' due beneficence ' no equal good we know,",
+      "enLine2": "Amid the happy gods, or in this world below.",
+      "hiLine1": "किया भाव निष्काम से, जनोपकार समान ।",
+      "hiLine2": "स्वर्ग तथा भू लोक में दुष्कर जान ॥",
+      "general": "பிறருக்கு உதவி செய்யும் ஒப்புரவைப் போன்ற நல்ல அறம், தேவர் உலகத்திலும் இவ்வுலகத்திலும் பெறுவதற்கு அரியதாகும்.",
+      "en": "Neither in the world of the gods nor here on earth is it easy to find anything better than beneficence.",
+      "hi": "निष्काम भाव से किए गए जनोपकार के समान कोई अन्य श्रेष्ठ कर्म स्वर्ग और पृथ्वी—दोनों लोकों में मिलना कठिन है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "புத்தேள் <br>(Puththel)",
+          "ta": "தேவர்",
+          "en": "Gods'",
+          "hi": "स्वर्ग"
+        },
+        {
+          "no": 2,
+          "word": "உலகத்தும் <br>(Ulagaththum)",
+          "ta": "உலகத்திலும்",
+          "en": "Even in the world",
+          "hi": "लोक में तथा"
+        },
+        {
+          "no": 3,
+          "word": "ஈண்டும் <br>(Eendum)",
+          "ta": "இவ்வுலகிலும்",
+          "en": "And here below",
+          "hi": "भू लोक में"
+        },
+        {
+          "no": 4,
+          "word": "பெறலரிதே <br>(Peralaridhe)",
+          "ta": "பெறுவது அரிது",
+          "en": "Hard to find",
+          "hi": "पाना दुष्कर है"
+        },
+        {
+          "no": 5,
+          "word": "ஒப்புரவின் <br>(Oppuravin)",
+          "ta": "ஒப்புரவை விட",
+          "en": "Than due beneficence",
+          "hi": "निष्काम जनोपकार के समान"
+        },
+        {
+          "no": 6,
+          "word": "நல்ல <br>(Nalla)",
+          "ta": "நல்லது",
+          "en": "Good",
+          "hi": "श्रेष्ठ"
+        },
+        {
+          "no": 7,
+          "word": "பிற <br>(Pira)",
+          "ta": "வேறொன்று",
+          "en": "Anything else",
+          "hi": "अन्य कुछ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புத்தே ளுலகத்தும் ஈண்டும் பெறலரிதே",
+          "line2": "ஒப்புரவின் நல்ல பிற."
+        },
+        "en": {
+          "line1": "To ' due beneficence ' no equal good we know,",
+          "line2": "Amid the happy gods, or in this world below."
+        },
+        "hi": {
+          "line1": "किया भाव निष्काम से, जनोपकार समान ।",
+          "line2": "स्वर्ग तथा भू लोक में दुष्कर जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Puththel Ulagaththum Eendum Peralaridhe",
+            "line2": "Oppuravin Nalla Pira."
+          },
+          "hi": {
+            "line1": "पुत्तेळ् उलगत्तुम् ईण्डुम् पॆरलरिदे",
+            "line2": "ऒप्पुरविन् नल्ल पिर."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறருக்கு உதவி செய்யும் ஒப்புரவைப் போன்ற நல்ல அறம், தேவர் உலகத்திலும் இவ்வுலகத்திலும் பெறுவதற்கு அரியதாகும்.",
+        "en": "Neither on earth nor in heaven is there a virtue greater than selfless service to humanity.",
+        "hi": "निष्काम भाव से किए गए जनोपकार के समान कोई अन्य श्रेष्ठ कर्म स्वर्ग और पृथ्वी—दोनों लोकों में मिलना कठिन है।"
+      }
+    },
+    {
+      "num": 214,
+      "line1": "ஒத்தது அறிவான் உயிர்வாழ்வான் மற்றையான்",
+      "line2": "செத்தாருள் வைக்கப் படும்.",
+      "enLine1": "Who knows what 's human life's befitting grace,",
+      "enLine2": "He lives ; the rest 'mongst dead men have their place.",
+      "hiLine1": "ज्ञाता शिष्टाचार का, है मनुष्य सप्राण ।",
+      "hiLine2": "मृत लोगों में अन्य की, गिनती होती जान ॥",
+      "general": "உலக நடைக்குப் பொருந்திய உதவியை அறிந்து செய்பவனே உயிர் வாழ்பவன் ஆவான்; அப்படிச் செய்யாத மற்றவன் இறந்தவர்களுள் ஒருவனாகக் கருதப்படுவான்.",
+      "en": "He who knows what is befitting and helps others truly lives; the rest are counted among the dead.",
+      "hi": "जो शिष्टाचार और परोपकार के धर्म को जानता है, वही वास्तव में जीवित (सप्राण) मनुष्य है; अन्य लोगों की गिनती तो मृतकों में होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒத்தது <br>(Oththadhu)",
+          "ta": "உலகத்திற்குப் பொருந்தியதை",
+          "en": "What is befitting",
+          "hi": "शिष्टाचार (परोपकार) का"
+        },
+        {
+          "no": 2,
+          "word": "அறிவான் <br>(Arivaan)",
+          "ta": "அறிந்து நடப்பவன்",
+          "en": "Who knows",
+          "hi": "ज्ञाता"
+        },
+        {
+          "no": 3,
+          "word": "உயிர்வாழ்வான் <br>(Uyirvaazhvaan)",
+          "ta": "உயிர் வாழ்பவன்",
+          "en": "Truly lives",
+          "hi": "सप्राण मनुष्य है"
+        },
+        {
+          "no": 4,
+          "word": "மற்றையான் <br>(Matraiyaan)",
+          "ta": "மற்றவன்",
+          "en": "The rest",
+          "hi": "अन्य की"
+        },
+        {
+          "no": 5,
+          "word": "செத்தாருள் <br>(Seththaarul)",
+          "ta": "இறந்தவர்களுள்",
+          "en": "Amongst dead men",
+          "hi": "मृत लोगों में"
+        },
+        {
+          "no": 6,
+          "word": "வைக்கப் <br>(Vaikkap)",
+          "ta": "வைத்து எண்ணப்",
+          "en": "Placed / counted",
+          "hi": "गिनती होती"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "படுவான்",
+          "en": "Will be",
+          "hi": "जानो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒத்தது அறிவான் உயிர்வாழ்வான் மற்றையான்",
+          "line2": "செத்தாருள் வைக்கப் படும்."
+        },
+        "en": {
+          "line1": "Who knows what 's human life's befitting grace,",
+          "line2": "He lives ; the rest 'mongst dead men have their place."
+        },
+        "hi": {
+          "line1": "ज्ञाता शिष्टाचार का, है मनुष्य सप्राण ।",
+          "line2": "मृत लोगों में अन्य की, गिनती होती जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oththadhu Arivaan Uyirvaazhvaan Matraiyaan",
+            "line2": "Seththaarul Vaikkap Padum."
+          },
+          "hi": {
+            "line1": "ऒत्तदु अरिवान् उयिर्वाऴ्वान् मत्रैयान्",
+            "line2": "सॆत्तारुळ् वैक्कप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உலக நடைக்குப் பொருந்திய உதவியை அறிந்து செய்பவனே உயிர் வாழ்பவன் ஆவான்; அப்படிச் செய்யாத மற்றவன் இறந்தவர்களுள் ஒருவனாகக் கருதப்படுவான்.",
+        "en": "Only those who understand and practice generosity are truly alive; those who live solely for themselves are no different from the dead.",
+        "hi": "जो शिष्टाचार और परोपकार के धर्म को जानता है, वही वास्तव में जीवित (सप्राण) मनुष्य है; अन्य लोगों की गिनती तो मृतकों में होती है।"
+      }
+    },
+    {
+      "num": 215,
+      "line1": "ஊருணி நீர்நிறைந் தற்றே உலகவாம்",
+      "line2": "பேரறி வாளன் திரு.",
+      "enLine1": "The wealth of men who love the ' fitting way,' the truly wise,",
+      "enLine2": "Is as when water fills the lake that village needs supplies.",
+      "hiLine1": "पानी भरा तड़ाग ज्यों, आवे जग का काम ।",
+      "hiLine2": "महा सुधी की संपदा, है जन-मन-सुख धाम ॥",
+      "general": "உலகத்தார் விரும்பும் ஒப்புரவுடைய பேரறிவாளனின் செல்வம், ஊரார் நீர் உண்ணும் குளத்தில் நீர் நிறைந்திருப்பது போன்றதாகும்.",
+      "en": "The wealth of a person of great wisdom who loves the way of beneficence is like a village drinking-tank filled with water.",
+      "hi": "जैसे पानी से भरा हुआ तालाब सब लोगों के काम आता है, उसी प्रकार परम बुद्धिमान परोपकारी व्यक्ति की संपदा जन-मन को सुख देने का धाम होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊருணி <br>(Ooruni)",
+          "ta": "ஊரார் நீர் உண்ணும் குளம்",
+          "en": "Village lake / tank",
+          "hi": "तड़ाग (तालाब)"
+        },
+        {
+          "no": 2,
+          "word": "நீர்நிறைந் <br>(Neerniraindh)",
+          "ta": "நீர் நிறைந்த",
+          "en": "Filled with water",
+          "hi": "पानी भरा"
+        },
+        {
+          "no": 3,
+          "word": "தற்றே <br>(Thatre)",
+          "ta": "தனைப் போன்றதே",
+          "en": "Is like",
+          "hi": "ज्यों काम आवे"
+        },
+        {
+          "no": 4,
+          "word": "உலகவாம் <br>(Ulagavaam)",
+          "ta": "உலகத்தார் விரும்பும்",
+          "en": "Loving the world's way",
+          "hi": "जग के काम आने वाली"
+        },
+        {
+          "no": 5,
+          "word": "பேரறி <br>(Perari)",
+          "ta": "பேரறிவு",
+          "en": "Great wisdom",
+          "hi": "महा सुधी"
+        },
+        {
+          "no": 6,
+          "word": "வாளன் <br>(Vaalan)",
+          "ta": "உடையவனின்",
+          "en": "Man of",
+          "hi": "की"
+        },
+        {
+          "no": 7,
+          "word": "திரு <br>(Thiru)",
+          "ta": "செல்வம்",
+          "en": "Wealth",
+          "hi": "संपदा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊருணி நீர்நிறைந் தற்றே உலகவாம்",
+          "line2": "பேரறி வாளன் திரு."
+        },
+        "en": {
+          "line1": "The wealth of men who love the ' fitting way,' the truly wise,",
+          "line2": "Is as when water fills the lake that village needs supplies."
+        },
+        "hi": {
+          "line1": "पानी भरा तड़ाग ज्यों, आवे जग का काम ।",
+          "line2": "महा सुधी की संपदा, है जन-मन-सुख धाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ooruni Neerniraindh Thatre Ulagavaam",
+            "line2": "Perari Vaalan Thiru."
+          },
+          "hi": {
+            "line1": "ऊरुणि नीर्निरैन् तत्रे उलगवाम्",
+            "line2": "पेररि वाळन् तिरु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உலகத்தார் விரும்பும் ஒப்புரவுடைய பேரறிவாளனின் செல்வம், ஊரார் நீர் உண்ணும் குளத்தில் நீர் நிறைந்திருப்பது போன்றதாகும்.",
+        "en": "When wealth is held by a wise, generous person, it serves the entire community like a full reservoir supplying drinking water to a village.",
+        "hi": "जैसे पानी से भरा हुआ तालाब सब लोगों के काम आता है, उसी प्रकार परम बुद्धिमान परोपकारी व्यक्ति की संपदा जन-मन को सुख देने का धाम होती है।"
+      }
+    },
+    {
+      "num": 216,
+      "line1": "பயன்மரம் உள்ளூர்ப் பழுத்தற்றால் செல்வம்",
+      "line2": "நயனுடை யான்கண் படின்.",
+      "enLine1": "A tree that fruits in th' hamlet's central mart,",
+      "enLine2": "Is wealth that falls to men of liberal heart.",
+      "hiLine1": "शिष्ट जनों के पास यदि, आश्रित हो संपति ।",
+      "hiLine2": "ग्राम-मध्य ज्यों वृक्षवर, पावे फल-संपति ॥",
+      "general": "நற்பண்பு உடையவனிடம் செல்வம் சேர்ந்தால், அது ஊரின் நடுவே பயன் தரும் மரம் பழுத்திருப்பதைப் போன்றதாகும்.",
+      "en": "When wealth falls into the hands of a liberal-hearted person, it is like a fruit-bearing tree ripening right in the center of town.",
+      "hi": "यदि सज्जन और शिष्ट लोगों के पास संपत्ति आ जाए, तो वह गाँव के बीचों-बीच लगे हुए फलों से लदे श्रेष्ठ वृक्ष के समान सबके उपयोग की होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பயன்மரம் <br>(Payanmaram)",
+          "ta": "பயன் தரும் மரம்",
+          "en": "Fruit-bearing tree",
+          "hi": "श्रेष्ठ वृक्ष"
+        },
+        {
+          "no": 2,
+          "word": "உள்ளூர்ப் <br>(Ulloorp)",
+          "ta": "ஊரின் நடுவே",
+          "en": "In hamlet's center",
+          "hi": "ग्राम-मध्य में"
+        },
+        {
+          "no": 3,
+          "word": "பழுத்தற்றால் <br>(Pazhuththatraal)",
+          "ta": "பழுத்தாற் போன்றது",
+          "en": "Like ripening with fruit",
+          "hi": "फल-संपति पाने के समान है"
+        },
+        {
+          "no": 4,
+          "word": "செல்வம் <br>(Selvam)",
+          "ta": "செல்வம்",
+          "en": "Wealth",
+          "hi": "संपति"
+        },
+        {
+          "no": 5,
+          "word": "நயனுடை <br>(Nayanudai)",
+          "ta": "நற்பண்பு உடைய",
+          "en": "Of liberal heart",
+          "hi": "शिष्ट जनों"
+        },
+        {
+          "no": 6,
+          "word": "யான்கண் <br>(Yaankan)",
+          "ta": "வனிடத்தில்",
+          "en": "In hands of",
+          "hi": "के पास"
+        },
+        {
+          "no": 7,
+          "word": "படின் <br>(Padin)",
+          "ta": "சேர்ந்தால்",
+          "en": "If it falls",
+          "hi": "यदि आश्रित हो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பயன்மரம் உள்ளூர்ப் பழுத்தற்றால் செல்வம்",
+          "line2": "நயனுடை யான்கண் படின்."
+        },
+        "en": {
+          "line1": "A tree that fruits in th' hamlet's central mart,",
+          "line2": "Is wealth that falls to men of liberal heart."
+        },
+        "hi": {
+          "line1": "शिष्ट जनों के पास यदि, आश्रित हो संपति ।",
+          "line2": "ग्राम-मध्य ज्यों वृक्षवर, पावे फल-संपति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Payanmaram Ulloorp Pazhuththatraal Selvam",
+            "line2": "Nayanudai Yaankan Padin."
+          },
+          "hi": {
+            "line1": "पयन्मरम् उळ्ळूर्प् पऴुत्तत्राल् सॆल्वम्",
+            "line2": "नयनुडै यान्कण् पडिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நற்பண்பு உடையவனிடம் செல்வம் சேர்ந்தால், அது ஊரின் நடுவே பயன் தரும் மரம் பழுத்திருப்பதைப் போன்றதாகும்.",
+        "en": "Wealth in the hands of a compassionate person benefits everyone around, just like a ripe fruit tree standing in the heart of a village.",
+        "hi": "यदि सज्जन और शिष्ट लोगों के पास संपत्ति आ जाए, तो वह गाँव के बीचों-बीच लगे हुए फलों से लदे श्रेष्ठ वृक्ष के समान सबके उपयोग की होती है।"
+      }
+    },
+    {
+      "num": 217,
+      "line1": "மருந்தாகித் தப்பா மரத்தற்றால் செல்வம்",
+      "line2": "பெருந்தகை யான்கண் படின்.",
+      "enLine1": "Unfailing tree that healing balm distils from every part,",
+      "enLine2": "Is ample wealth that falls to him of large and noble heart.",
+      "hiLine1": "चूके बिन ज्यों वृक्ष का, दवा बने हर अंग ।",
+      "hiLine2": "त्यों धन हो यदि वह रहे, उपकारी के संग ॥",
+      "general": "பெருந்தகைமை உடையவனிடம் செல்வம் சேர்ந்தால், அது தன் எல்லா உறுப்புகளும் மருந்தாகிப் பயன்படும் மரத்தைப் போன்றதாகும்.",
+      "en": "When wealth falls into the hands of a large-hearted person, it is like an unfailing tree whose every part serves as healing medicine.",
+      "hi": "जिस प्रकार बिना चूके किसी औषधीय वृक्ष का प्रत्येक अंग दवा के काम आता है, उसी प्रकार यदि धन किसी उपकारी व्यक्ति के पास रहे तो वह सबके काम आता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மருந்தாகித் <br>(Marundhaagith)",
+          "ta": "மருந்தாகப் பயன்பட்டு",
+          "en": "Serving as healing balm",
+          "hi": "दवा बने"
+        },
+        {
+          "no": 2,
+          "word": "தப்பா <br>(Thappaa)",
+          "ta": "தவறாமல் உதவும்",
+          "en": "Unfailing",
+          "hi": "चूके बिना"
+        },
+        {
+          "no": 3,
+          "word": "மரத்தற்றால் <br>(Maraththatraal)",
+          "ta": "மரத்தைப் போன்றது",
+          "en": "Like a tree",
+          "hi": "वृक्ष के समान है"
+        },
+        {
+          "no": 4,
+          "word": "செல்வம் <br>(Selvam)",
+          "ta": "செல்வம்",
+          "en": "Wealth",
+          "hi": "धन"
+        },
+        {
+          "no": 5,
+          "word": "பெருந்தகை <br>(Perundhagai)",
+          "ta": "பெருந்தகைமை",
+          "en": "Large and noble heart",
+          "hi": "उपकारी"
+        },
+        {
+          "no": 6,
+          "word": "யான்கண் <br>(Yaankan)",
+          "ta": "உடையவனிடம்",
+          "en": "In him who has",
+          "hi": "के संग"
+        },
+        {
+          "no": 7,
+          "word": "படின் <br>(Padin)",
+          "ta": "சேர்ந்தால்",
+          "en": "If it falls",
+          "hi": "यदि वह रहे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மருந்தாகித் தப்பா மரத்தற்றால் செல்வம்",
+          "line2": "பெருந்தகை யான்கண் படின்."
+        },
+        "en": {
+          "line1": "Unfailing tree that healing balm distils from every part,",
+          "line2": "Is ample wealth that falls to him of large and noble heart."
+        },
+        "hi": {
+          "line1": "चूके बिन ज्यों वृक्ष का, दवा बने हर अंग ।",
+          "line2": "त्यों धन हो यदि वह रहे, उपकारी के संग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Marundhaagith Thappaa Maraththatraal Selvam",
+            "line2": "Perundhagai Yaankan Padin."
+          },
+          "hi": {
+            "line1": "मरुन्दागित् तप्पा मरत्तत्राल् सॆल्वम्",
+            "line2": "पॆरुन्दगै यान्कण् पडिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பெருந்தகைமை உடையவனிடம் செல்வம் சேர்ந்தால், அது தன் எல்லா உறுப்புகளும் மருந்தாகிப் பயன்படும் மரத்தைப் போன்றதாகும்.",
+        "en": "Riches entrusted to a magnanimous person cure the hardships of many, just like a medicinal tree whose every root, leaf, and bark heals.",
+        "hi": "जिस प्रकार बिना चूके किसी औषधीय वृक्ष का प्रत्येक अंग दवा के काम आता है, उसी प्रकार यदि धन किसी उपकारी व्यक्ति के पास रहे तो वह सबके काम आता है।"
+      }
+    },
+    {
+      "num": 218,
+      "line1": "இடனில் பருவத்தும் ஒப்புரவிற்கு ஒல்கார்",
+      "line2": "கடனறி காட்சி யவர்.",
+      "enLine1": "E'en when resources fail, they weary not of ' kindness due,'—",
+      "enLine2": "They to whom Duty's self appears in vision true.",
+      "hiLine1": "सामाजिक कर्तव्य का, जिन सज्जन को ज्ञान ।",
+      "hiLine2": "उपकृति से नहिं चूकते, दारिदवश भी जान ॥",
+      "general": "தமது கடமையை உணர்ந்த மெய்யறிவுடையவர்கள், தமக்குப் பொருள் வளம் இல்லாத வறுமைக் காலத்திலும் பிறருக்கு உதவுவதிலிருந்து தளரமாட்டார்கள்.",
+      "en": "Those of clear vision who understand their duty will never slacken in beneficence even in times when resources fail.",
+      "hi": "जिन सज्जनों को अपने सामाजिक कर्तव्य का ज्ञान होता है, वे दरिद्रता के समय में भी परोपकार (उपकृति) करने से नहीं चूकते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இடனில் <br>(Idanil)",
+          "ta": "பொருள் வசதி இல்லாத",
+          "en": "Resources failing",
+          "hi": "दारिदवश"
+        },
+        {
+          "no": 2,
+          "word": "பருவத்தும் <br>(Paruvaththum)",
+          "ta": "காலத்திலும்",
+          "en": "Even in season",
+          "hi": "समय में भी"
+        },
+        {
+          "no": 3,
+          "word": "ஒப்புரவிற்கு <br>(Oppuravirku)",
+          "ta": "உதவி செய்தற்கு",
+          "en": "Of kindness due",
+          "hi": "उपकृति से"
+        },
+        {
+          "no": 4,
+          "word": "ஒல்கார் <br>(Olkaar)",
+          "ta": "தளரமாட்டார்",
+          "en": "Weary not / slacken not",
+          "hi": "नहीं चूकते"
+        },
+        {
+          "no": 5,
+          "word": "கடனறி <br>(Kadanari)",
+          "ta": "கடமையை உணர்ந்த",
+          "en": "Knowing duty",
+          "hi": "सामाजिक कर्तव्य के"
+        },
+        {
+          "no": 6,
+          "word": "காட்சி <br>(Kaatchi)",
+          "ta": "நல்லறிவு",
+          "en": "Vision true",
+          "hi": "ज्ञान वाले"
+        },
+        {
+          "no": 7,
+          "word": "யவர் <br>(Yavar)",
+          "ta": "உடையவர்",
+          "en": "Those who have",
+          "hi": "सज्जन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இடனில் பருவத்தும் ஒப்புரவிற்கு ஒல்கார்",
+          "line2": "கடனறி காட்சி யவர்."
+        },
+        "en": {
+          "line1": "E'en when resources fail, they weary not of ' kindness due,'—",
+          "line2": "They to whom Duty's self appears in vision true."
+        },
+        "hi": {
+          "line1": "सामाजिक कर्तव्य का, जिन सज्जन को ज्ञान ।",
+          "line2": "उपकृति से नहिं चूकते, दारिदवश भी जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Idanil Paruvaththum Oppuravirku Olkaar",
+            "line2": "Kadanari Kaatchi Yavar."
+          },
+          "hi": {
+            "line1": "इडनिल् पर्वत्तुम् ऒप्पुरविर्कु ऒल्कार्",
+            "line2": "कडनरि काच्चि यवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தமது கடமையை உணர்ந்த மெய்யறிவுடையவர்கள், தமக்குப் பொருள் வளம் இல்லாத வறுமைக் காலத்திலும் பிறருக்கு உதவுவதிலிருந்து தளரமாட்டார்கள்.",
+        "en": "People who truly understand their social duty never stop helping others, even when their own means run low.",
+        "hi": "जिन सज्जनों को अपने सामाजिक कर्तव्य का ज्ञान होता है, वे दरिद्रता के समय में भी परोपकार (उपकृति) करने से नहीं चूकते।"
+      }
+    },
+    {
+      "num": 219,
+      "line1": "நயனுடையான் நல்கூர்ந்தா னாதல் செயுநீர்மை",
+      "line2": "செய்யா தமைகலா வாறு.",
+      "enLine1": "The kindly-hearted man is poor in this alone,",
+      "enLine2": "When power of doing deeds of goodness he finds none.",
+      "hiLine1": "उपकारी को है नहीं, दरिद्रता की सोच ।",
+      "hiLine2": "'मैं कृतकृत्य नहीं हुआ' उसे यही संकोच ॥",
+      "general": "நற்பண்பு உடையவன் வறுமையடைவது என்பது, பிறருக்குச் செய்யவேண்டிய உதவியைச் செய்ய முடியாமல் தவிப்பதே ஆகும்.",
+      "en": "The poverty of a kindly-hearted person consists in being unable to perform the acts of benevolence they wish to do.",
+      "hi": "उपकारी व्यक्ति को अपनी दरिद्रता की कोई चिंता नहीं होती; उसे केवल यही संकोच और दुख रहता है कि वह दूसरों का उपकार कर 'कृतकृत्य नहीं हो पाया'।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நயனுடையான் <br>(Nayanudaiyaan)",
+          "ta": "நற்பண்பு உடையவன்",
+          "en": "Kindly-hearted man",
+          "hi": "उपकारी व्यक्ति"
+        },
+        {
+          "no": 2,
+          "word": "நல்கூர்ந்தான் <br>(Nalkoorndhaan)",
+          "ta": "வறியவன்",
+          "en": "Poor",
+          "hi": "दरिद्रता"
+        },
+        {
+          "no": 3,
+          "word": "ஆதல் <br>(Aadhal)",
+          "ta": "ஆவது என்பது",
+          "en": "Becoming",
+          "hi": "की सोच"
+        },
+        {
+          "no": 4,
+          "word": "செயுநீர்மை <br>(Seyuneermai)",
+          "ta": "செய்யும் உதவித் தன்மையை",
+          "en": "Deeds of goodness",
+          "hi": "परोपकार"
+        },
+        {
+          "no": 5,
+          "word": "செய்யாது <br>(Seyyaadhu)",
+          "ta": "செய்ய முடியாமல்",
+          "en": "Unable to do",
+          "hi": "न कर पाने से"
+        },
+        {
+          "no": 6,
+          "word": "அமைகலா <br>(Amaigalaa)",
+          "ta": "அமையாத",
+          "en": "Finds none / restless",
+          "hi": "कृतकृत्य न होने का"
+        },
+        {
+          "no": 7,
+          "word": "ஆறு <br>(Aaru)",
+          "ta": "நிலையேயாகும்",
+          "en": "State / manner",
+          "hi": "संकोच"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நயனுடையான் நல்கூர்ந்தா னாதல் செயுநீர்மை",
+          "line2": "செய்யா தமைகலா வாறு."
+        },
+        "en": {
+          "line1": "The kindly-hearted man is poor in this alone,",
+          "line2": "When power of doing deeds of goodness he finds none."
+        },
+        "hi": {
+          "line1": "उपकारी को है नहीं, दरिद्रता की सोच ।",
+          "line2": "'मैं कृतकृत्य नहीं हुआ' उसे यही संकोच ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nayanudaiyaan Nalkoorndhaan Aadhal Seyuneermai",
+            "line2": "Seyyaadhu Amaigalaa Aaru."
+          },
+          "hi": {
+            "line1": "नयनुडैयान् नल्कूर्न्दा नादल् सॆयुनीर्मै",
+            "line2": "सॆय्या दमैगला वारु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நற்பண்பு உடையவன் வறுமையடைவது என்பது, பிறருக்குச் செய்யவேண்டிய உதவியைச் செய்ய முடியாமல் தவிப்பதே ஆகும்.",
+        "en": "For a generous soul, true poverty isn't lacking personal luxuries—it is lacking the means to help others in need.",
+        "hi": "उपकारी व्यक्ति को अपनी दरिद्रता की कोई चिंता नहीं होती; उसे केवल यही संकोच और दुख रहता है कि वह दूसरों का उपकार कर 'कृतकृत्य नहीं हो पाया'।"
+      }
+    },
+    {
+      "num": 220,
+      "line1": "ஒப்புரவி னால்வரும் கேடெனின் அஃதொருவன்",
+      "line2": "விற்றுக்கோள் தக்க துடைத்து.",
+      "enLine1": "Though by ' beneficence ' the loss of all should come,",
+      "enLine2": "'Twere meet man sold himself, and bought it with the sum.",
+      "hiLine1": "लोकोपकारिता किये, यदि होगा ही नाश ।",
+      "hiLine2": "अपने को भी बेच कर, क्रय-लायक वह नाश ॥",
+      "general": "பிறருக்கு உதவி செய்வதால் ஒருவனுக்குப் பொருள் இழப்பு ஏற்படுமானால், அந்த இழப்பு தன்னை விற்றேனும் விலைக்கு வாங்கத்தக்க பெருமையுடையது.",
+      "en": "Even if ruin should come through beneficence, that loss is worthy of being bought even by selling oneself.",
+      "hi": "यदि लोकोपकारिता करने से अपना सर्वनाश भी होता हो, तो अपने आप को भी बेचकर वैसा नाश मोल ले लेना योग्य है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒப்புரவினால் <br>(Oppuravinaal)",
+          "ta": "பிறருக்கு உதவுவதால்",
+          "en": "By beneficence",
+          "hi": "लोकोपकारिता किये"
+        },
+        {
+          "no": 2,
+          "word": "வரும் <br>(Varum)",
+          "ta": "ஏற்படும்",
+          "en": "Should come",
+          "hi": "यदि होगा"
+        },
+        {
+          "no": 3,
+          "word": "கேடெனின் <br>(Kedenin)",
+          "ta": "கெடுதி என்றால்",
+          "en": "Loss / ruin",
+          "hi": "नाश"
+        },
+        {
+          "no": 4,
+          "word": "அஃதொருவன் <br>(Akdhoruvan)",
+          "ta": "அதை ஒருவன்",
+          "en": "Man that",
+          "hi": "अपने को भी"
+        },
+        {
+          "no": 5,
+          "word": "விற்றுக்கோள் <br>(Vitrukkol)",
+          "ta": "தன்னை விற்றுக் கொள்ளத்",
+          "en": "Sold himself and bought",
+          "hi": "बेचकर क्रय-लायक"
+        },
+        {
+          "no": 6,
+          "word": "தக்க <br>(Thakka)",
+          "ta": "தகுந்த",
+          "en": "Meet / worthy",
+          "hi": "योग्य"
+        },
+        {
+          "no": 7,
+          "word": "துடைத்து <br>(Thudaiththu)",
+          "ta": "தன்மை உடையது",
+          "en": "Has the nature of",
+          "hi": "वह नाश है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒப்புரவி னால்வரும் கேடெனின் அஃதொருவன்",
+          "line2": "விற்றுக்கோள் தக்க துடைத்து."
+        },
+        "en": {
+          "line1": "Though by ' beneficence ' the loss of all should come,",
+          "line2": "'Twere meet man sold himself, and bought it with the sum."
+        },
+        "hi": {
+          "line1": "लोकोपकारिता किये, यदि होगा ही नाश ।",
+          "line2": "अपने को भी बेच कर, क्रय-लायक वह नाश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oppuravinaal Varum Kedenin Akdhoruvan",
+            "line2": "Vitrukkol Thakka Thudaiththu."
+          },
+          "hi": {
+            "line1": "ऒप्पुरविनाल् वरुम् केडॆनिन् अःदॊरुवन्",
+            "line2": "वित्रुक्कोळ् तक्क तुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறருக்கு உதவி செய்வதால் ஒருவனுக்குப் பொருள் இழப்பு ஏற்படுமானால், அந்த இழப்பு தன்னை விற்றேனும் விலைக்கு வாங்கத்தக்க பெருமையுடையது.",
+        "en": "Even if generosity costs you everything you own, that loss is so honorable that it would be worth selling yourself to attain it.",
+        "hi": "यदि लोकोपकारिता करने से अपना सर्वनाश भी होता हो, तो अपने आप को भी बेचकर वैसा नाश मोल ले लेना योग्य है।"
+      }
+    }
+  ]
+}

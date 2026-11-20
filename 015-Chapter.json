@@ -1,0 +1,930 @@
+{
+  "chapterNum": 15,
+  "nameTa": "பிறனில் விழையாமை",
+  "nameEn": "Not Coveting Another's Wife",
+  "nameHi": "परदार-विरति",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 141,
+      "line1": "பிறன்பொருளாள் பெட்டொழுகும் பேதைமை ஞாலத்து",
+      "line2": "அறம்பொருள் கண்டார்கண் இல்.",
+      "enLine1": "Who laws of virtue and possession's rights have known,",
+      "enLine2": "Indulge no foolish love of her by right another's own.",
+      "hiLine1": "परपत्नी-रति-मूढ़ता, है नहिं उनमें जान ।",
+      "hiLine2": "धर्म-अर्थ के शास्त्र का, जिनको तत्वज्ञान ॥",
+      "general": "அறத்தையும் பொருளின் உரிமையையும் உணர்ந்த சான்றோர்களிடம், பிறனுக்குரிய மனைவியை விரும்பி நடக்கும் அறியாமை ஒருபோதும் இருக்காது.",
+      "en": "The folly of desiring her who is the property of another is not found in those who understand the principles of virtue and property.",
+      "hi": "जिन लोगों को धर्म और अर्थ के शास्त्रों का वास्तविक तत्वज्ञान है, उनमें पराई स्त्री के प्रति आसक्ति की मूर्खता कभी नहीं होती।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பிறன்பொருளாள் <br>(Piranporulaal)",
+          "ta": "பிறனுக்குரிய மனைவியை",
+          "en": "Her who belongs to another",
+          "hi": "परपत्नी को"
+        },
+        {
+          "no": 2,
+          "word": "பெட்டொழுகும் <br>(Pettozhukum)",
+          "ta": "விரும்பி நடக்கும்",
+          "en": "Desiring / indulging love",
+          "hi": "आसक्त होने की"
+        },
+        {
+          "no": 3,
+          "word": "பேதைமை <br>(Pedhaimai)",
+          "ta": "அறியாமை",
+          "en": "Folly",
+          "hi": "मूढ़ता"
+        },
+        {
+          "no": 4,
+          "word": "ஞாலத்து <br>(Njaalaththu)",
+          "ta": "உலகத்தில்",
+          "en": "In the world",
+          "hi": "संसार में"
+        },
+        {
+          "no": 5,
+          "word": "அறம்பொருள் <br>(Aramborul)",
+          "ta": "அறநூலையும் பொருள்நூலையும்",
+          "en": "Laws of virtue and property",
+          "hi": "धर्म-अर्थ के शास्त्र का"
+        },
+        {
+          "no": 6,
+          "word": "கண்டார்கண் <br>(Kandaarkan)",
+          "ta": "உணர்ந்தவர்களிடம்",
+          "en": "In those who have known",
+          "hi": "तत्वज्ञान रखने वालों में"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Is not found",
+          "hi": "नहीं होती"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பிறன்பொருளாள் பெட்டொழுகும் பேதைமை ஞாலத்து",
+          "line2": "அறம்பொருள் கண்டார்கண் இல்."
+        },
+        "en": {
+          "line1": "Who laws of virtue and possession's rights have known,",
+          "line2": "Indulge no foolish love of her by right another's own."
+        },
+        "hi": {
+          "line1": "परपत्नी-रति-मूढ़ता, है नहिं उनमें जान ।",
+          "line2": "धर्म-अर्थ के शास्त्र का, जिनको तत्वज्ञान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Piranporulaal Pettozhukum Pedhaimai Njaalaththu",
+            "line2": "Aramborul Kandaarkan Il."
+          },
+          "hi": {
+            "line1": "पिरन्पॊरुळाळ् पॆट्टॊऴुगुम् पेदैमै ञालत्तु",
+            "line2": "अरम्बॊरुळ् कण्डार्कण् इल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறத்தையும் பொருளின் உரிமையையும் உணர்ந்த சான்றோர்களிடம், பிறனுக்குரிய மனைவியை விரும்பி நடக்கும் அறியாமை ஒருபோதும் இருக்காது.",
+        "en": "Those who truly understand morality and rightful ownership never harbor the folly of coveting another person's spouse.",
+        "hi": "जिन लोगों को धर्म और अर्थ के शास्त्रों का वास्तविक तत्वज्ञान है, उनमें पराई स्त्री के प्रति आसक्ति की मूर्खता कभी नहीं होती।"
+      }
+    },
+    {
+      "num": 142,
+      "line1": "அறன்கடை நின்றாருள் எல்லாம் பிறன்கடை",
+      "line2": "நின்றாரின் பேதையார் இல்.",
+      "enLine1": "No fools, of all that stand from virtue's pale shut out,",
+      "enLine2": "Like those who longing lurk their neighbour's gate without.",
+      "hiLine1": "धर्म-भ्रष्टों में नहीं, ऐसा कोई मूढ़ ।",
+      "hiLine2": "जैसा अन्यद्वार पर, खड़ा रहा जो मूढ़ ॥",
+      "general": "அறத்திற்குப் புறம்பான வழியில் நிற்பவர்களுள் எல்லாம், பிறன் மனைவியை விரும்பி அவன் வீட்டு வாசலில் நிற்பவர்களைப் போன்ற அறிவிலிகள் வேறு யாரும் இல்லை.",
+      "en": "Among all those who stand outside the pale of virtue, there are no greater fools than those who stand lurking at another's gate.",
+      "hi": "धर्म-भ्रष्ट लोगों में भी उससे बड़ा कोई मूर्ख नहीं है, जो पराई स्त्री की लालसा में दूसरे के दरवाजे पर खड़ा रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறன்கடை <br>(Arankadai)",
+          "ta": "அறத்திற்குப் புறம்பே",
+          "en": "Outside virtue's pale",
+          "hi": "धर्म-भ्रष्टों में"
+        },
+        {
+          "no": 2,
+          "word": "நின்றாருள் <br>(Nindraarul)",
+          "ta": "நிற்பவர்களுள்",
+          "en": "Among those who stand",
+          "hi": "रहने वालों में"
+        },
+        {
+          "no": 3,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாரினும்",
+          "en": "All",
+          "hi": "सभी में"
+        },
+        {
+          "no": 4,
+          "word": "பிறன்கடை <br>(Pirankadai)",
+          "ta": "பிறன் வீட்டு வாயிலில்",
+          "en": "At neighbour's gate",
+          "hi": "दूसरे के द्वार पर"
+        },
+        {
+          "no": 5,
+          "word": "நின்றாரின் <br>(Nindraarin)",
+          "ta": "நிற்பவரைவிட",
+          "en": "Than those who lurk",
+          "hi": "खड़े रहने वाले से"
+        },
+        {
+          "no": 6,
+          "word": "பேதையார் <br>(Pedhaiyaar)",
+          "ta": "அறிவிலிகள்",
+          "en": "Fools",
+          "hi": "कोई मूढ़"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "There are none",
+          "hi": "नहीं है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறன்கடை நின்றாருள் எல்லாம் பிறன்கடை",
+          "line2": "நின்றாரின் பேதையார் இல்."
+        },
+        "en": {
+          "line1": "No fools, of all that stand from virtue's pale shut out,",
+          "line2": "Like those who longing lurk their neighbour's gate without."
+        },
+        "hi": {
+          "line1": "धर्म-भ्रष्टों में नहीं, ऐसा कोई मूढ़ ।",
+          "line2": "जैसा अन्यद्वार पर, खड़ा रहा जो मूढ़ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arankadai Nindraarul Ellaam Pirankadai",
+            "line2": "Nindraarin Pedhaiyaar Il."
+          },
+          "hi": {
+            "line1": "अरन्कडै निन्द्रारुळ् एल्लाम् पिरन्कडै",
+            "line2": "निन्द्रारिन् पेदैयार् इल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறத்திற்குப் புறம்பான வழியில் நிற்பவர்களுள் எல்லாம், பிறன் மனைவியை விரும்பி அவன் வீட்டு வாசலில் நிற்பவர்களைப் போன்ற அறிவிலிகள் வேறு யாரும் இல்லை.",
+        "en": "Among all who stray outside the bounds of virtue, none are more foolish than those who lurk at a neighbor's door with illicit desire.",
+        "hi": "धर्म-भ्रष्ट लोगों में भी उससे बड़ा कोई मूर्ख नहीं है, जो पराई स्त्री की लालसा में दूसरे के दरवाजे पर खड़ा रहता है।"
+      }
+    },
+    {
+      "num": 143,
+      "line1": "விளிந்தாரின் வேறல்லர் மன்ற தெளிந்தாரில்",
+      "line2": "தீமை புரிந்தொழுகு வார்.",
+      "enLine1": "They're numbered with the dead, e'en while they live,—how otherwise ?",
+      "enLine2": "With wife of sure confiding friend who evil things devise.",
+      "hiLine1": "दृढ़ विश्वासी मित्र की, स्त्री से पापाचार ।",
+      "hiLine2": "जो करता वो मृतक से, भिन्न नहीं है, यार ॥",
+      "general": "தம்மை நம்பிய நண்பரின் மனைவியிடம் தீய ஒழுக்கத்தை மேற்கொண்டு நடப்பவர்கள், உயிரோடு இருந்தாலும் இறந்தவர்களைவிட வேறுபட்டவர்கள் அல்லர்.",
+      "en": "Those who act wickedly toward the wife of a trusting friend are certainly no different from the dead.",
+      "hi": "जो व्यक्ति अपने दृढ़ विश्वासी मित्र की पत्नी के साथ पापाचार करता है, वह जीवित रहते हुए भी मृतक से भिन्न नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "விளிந்தாரின் <br>(Vilindhaarin)",
+          "ta": "இறந்தவர்களிலிருந்து",
+          "en": "From the dead",
+          "hi": "मृतक से"
+        },
+        {
+          "no": 2,
+          "word": "வேறல்லர் <br>(Verallar)",
+          "ta": "வேறுபட்டவர் அல்லர்",
+          "en": "Are no different",
+          "hi": "भिन्न नहीं हैं"
+        },
+        {
+          "no": 3,
+          "word": "மன்ற <br>(Mandra)",
+          "ta": "உறுதியாக",
+          "en": "Certainly / surely",
+          "hi": "निश्चय ही"
+        },
+        {
+          "no": 4,
+          "word": "தெளிந்தாரில் <br>(Thelindhaaril)",
+          "ta": "நம்பியவரின் மனைவியிடம்",
+          "en": "In the wife of a trusting friend",
+          "hi": "विश्वासी मित्र की स्त्री से"
+        },
+        {
+          "no": 5,
+          "word": "தீமை <br>(Theemai)",
+          "ta": "தீய செயலை",
+          "en": "Evil / wrong",
+          "hi": "पापाचार"
+        },
+        {
+          "no": 6,
+          "word": "புரிந்தொழுகு <br>(Purindhozhuku)",
+          "ta": "விரும்பி நடப்ப",
+          "en": "Devising and acting",
+          "hi": "करने वाला"
+        },
+        {
+          "no": 7,
+          "word": "வார் <br>(Vaar)",
+          "ta": "வர்கள்",
+          "en": "Those who",
+          "hi": "व्यक्ति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விளிந்தாரின் வேறல்லர் மன்ற தெளிந்தாரில்",
+          "line2": "தீமை புரிந்தொழுகு வார்."
+        },
+        "en": {
+          "line1": "They're numbered with the dead, e'en while they live,—how otherwise ?",
+          "line2": "With wife of sure confiding friend who evil things devise."
+        },
+        "hi": {
+          "line1": "दृढ़ विश्वासी मित्र की, स्त्री से पापाचार ।",
+          "line2": "जो करता वो मृतक से, भिन्न नहीं है, यार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vilindhaarin Verallar Mandra Thelindhaaril",
+            "line2": "Theemai Purindhozhuku Vaar."
+          },
+          "hi": {
+            "line1": "विळिन्दारिन् वेरल्लर् मन्द्र तॆळिन्दारिल्",
+            "line2": "तीमै पुरिन्दॊऴुगु वार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம்மை நம்பிய நண்பரின் மனைவியிடம் தீய ஒழுக்கத்தை மேற்கொண்டு நடப்பவர்கள், உயிரோடு இருந்தாலும் இறந்தவர்களைவிட வேறுபட்டவர்கள் அல்லர்.",
+        "en": "Anyone who betrays a trusting friend by pursuing their spouse is spiritually dead even while still breathing.",
+        "hi": "जो व्यक्ति अपने दृढ़ विश्वासी मित्र की पत्नी के साथ पापाचार करता है, वह जीवित रहते हुए भी मृतक से भिन्न नहीं है।"
+      }
+    },
+    {
+      "num": 144,
+      "line1": "எனைத்துணையர் ஆயினும் என்னாம் தினைத்துணையும்",
+      "line2": "தேரான் பிறனில் புகல்.",
+      "enLine1": "How great soe'er they be, what gain have they of life,",
+      "enLine2": "Who, not a whit reflecting, seek a neighbour's wife ?",
+      "hiLine1": "क्या होगा उसको अहो, रखते विभव अनेक ।",
+      "hiLine2": "यदि रति हो पर-दार में, तनिक न बुद्धि विवेक ॥",
+      "general": "ஒருவர் எவ்வளவு பெரிய தகுதியுடையவராக இருந்தாலும், தினை அளவுகூட விளைவை ஆராயாமல் பிறன் மனைவியை விரும்பி அவன் இல்லம் புகுந்தால் என்ன பயன்?",
+      "en": "Of what avail is it, however great a man may be, if without reflecting even a whit, he enters the house of another?",
+      "hi": "चाहे किसी के पास कितना भी वैभव क्यों न हो, यदि वह तनिक भी बुद्धि-विवेक का विचार किए बिना पराई स्त्री में आसक्त होता है, तो उसके सारे वैभव का क्या लाभ?",
+      "words": [
+        {
+          "no": 1,
+          "word": "எனைத்துணையர் <br>(Enaiththunaiyar)",
+          "ta": "எவ்வளவு பெரியவராக",
+          "en": "How great soever",
+          "hi": "अनेक वैभव वाले"
+        },
+        {
+          "no": 2,
+          "word": "ஆயினும் <br>(Aayinum)",
+          "ta": "இருந்தாலும்",
+          "en": "Even though they be",
+          "hi": "क्यों न हों"
+        },
+        {
+          "no": 3,
+          "word": "என்னாம் <br>(Ennaam)",
+          "ta": "என்ன பயன்",
+          "en": "What gain / avail",
+          "hi": "क्या लाभ होगा"
+        },
+        {
+          "no": 4,
+          "word": "தினைத்துணையும் <br>(Thinaiththunaiyum)",
+          "ta": "தினையளவு கூட",
+          "en": "Even a whit",
+          "hi": "तनिक भी"
+        },
+        {
+          "no": 5,
+          "word": "தேரான் <br>(Theraan)",
+          "ta": "ஆராய்ந்து பார்க்காமல்",
+          "en": "Without reflecting",
+          "hi": "विवेक न करके"
+        },
+        {
+          "no": 6,
+          "word": "பிறனில் <br>(Piranil)",
+          "ta": "பிறன் இல்லத்தில்",
+          "en": "Another's home/wife",
+          "hi": "पर-दार (पराई स्त्री) में"
+        },
+        {
+          "no": 7,
+          "word": "புகல் <br>(Pukal)",
+          "ta": "புகுதல்",
+          "en": "Entering / seeking",
+          "hi": "प्रवृत्त होना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எனைத்துணையர் ஆயினும் என்னாம் தினைத்துணையும்",
+          "line2": "தேரான் பிறனில் புகல்."
+        },
+        "en": {
+          "line1": "How great soe'er they be, what gain have they of life,",
+          "line2": "Who, not a whit reflecting, seek a neighbour's wife ?"
+        },
+        "hi": {
+          "line1": "क्या होगा उसको अहो, रखते विभव अनेक ।",
+          "line2": "यदि रति हो पर-दार में, तनिक न बुद्धि विवेक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Enaiththunaiyar Aayinum Ennaam Thinaiththunaiyum",
+            "line2": "Theraan Piranil Pukal."
+          },
+          "hi": {
+            "line1": "एनैत्तुणैयर् आयिनुम् एन्नाम् तिनैत्तुणैयुम्",
+            "line2": "तेरान् पिरनिल् पुगल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவர் எவ்வளவு பெரிய தகுதியுடையவராக இருந்தாலும், தினை அளவுகூட விளைவை ஆராயாமல் பிறன் மனைவியை விரும்பி அவன் இல்லம் புகுந்தால் என்ன பயன்?",
+        "en": "No matter how high one's status or wealth, it counts for nothing if they thoughtlessly trespass upon another's home.",
+        "hi": "चाहे किसी के पास कितना भी वैभव क्यों न हो, यदि वह तनिक भी बुद्धि-विवेक का विचार किए बिना पराई स्त्री में आसक्त होता है, तो उसके सारे वैभव का क्या लाभ?"
+      }
+    },
+    {
+      "num": 145,
+      "line1": "எளிதென இல்லிறப்பான் எய்தும் எஞ்ஞான்றும்",
+      "line2": "விளியாது நிற்கும் பழி.",
+      "enLine1": "'Mere trifle !' saying thus, invades the home ; so he ensures",
+      "enLine2": "A gain of guilt that deathless aye endures.",
+      "hiLine1": "पर-पत्नी-रत जो हुआ, सुलभ समझ निश्शंक ।",
+      "hiLine2": "लगे रहे चिर काल तक, उसपर अमिट कलंक ॥",
+      "general": "'இது எளிதான செயல்' என்று எண்ணிப் பிறன் மனைவியை விரும்புபவன், எக்காலத்திலும் அழியாமல் நிலைத்து நிற்கும் பழியை அடைவான்.",
+      "en": "He who invades another's home, thinking it an easy matter, will incur guilt that endures forever without dying.",
+      "hi": "जो व्यक्ति इसे सहज और सुलभ समझकर निःशंक भाव से पर-पत्नी में आसक्त होता है, उस पर चिरकाल तक न मिटने वाला अमिट कलंक लग जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எளிதென <br>(Elidhena)",
+          "ta": "எளிதானது என்று",
+          "en": "'Mere trifle!' saying",
+          "hi": "सुलभ समझकर"
+        },
+        {
+          "no": 2,
+          "word": "இல்லிறப்பான் <br>(Illirappaan)",
+          "ta": "பிறன் இல்லம் புகுபவன்",
+          "en": "Who invades the home",
+          "hi": "पर-पत्नी-रत होने वाला"
+        },
+        {
+          "no": 3,
+          "word": "எய்தும் <br>(Eydhum)",
+          "ta": "அடைவான்",
+          "en": "Ensures / incurs",
+          "hi": "पाता है"
+        },
+        {
+          "no": 4,
+          "word": "எஞ்ஞான்றும் <br>(Enjnaandrum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "Forever / aye",
+          "hi": "चिरकाल तक"
+        },
+        {
+          "no": 5,
+          "word": "விளியாது <br>(Viliyaadhu)",
+          "ta": "அழியாமல்",
+          "en": "Deathless / undying",
+          "hi": "अमिट"
+        },
+        {
+          "no": 6,
+          "word": "நிற்கும் <br>(Nirkum)",
+          "ta": "நிலைத்து நிற்கும்",
+          "en": "Endures",
+          "hi": "लगा रहता है"
+        },
+        {
+          "no": 7,
+          "word": "பழி <br>(Pazhi)",
+          "ta": "பழியை",
+          "en": "Guilt / disgrace",
+          "hi": "कलंक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எளிதென இல்லிறப்பான் எய்தும் எஞ்ஞான்றும்",
+          "line2": "விளியாது நிற்கும் பழி."
+        },
+        "en": {
+          "line1": "'Mere trifle !' saying thus, invades the home ; so he ensures",
+          "line2": "A gain of guilt that deathless aye endures."
+        },
+        "hi": {
+          "line1": "पर-पत्नी-रत जो हुआ, सुलभ समझ निश्शंक ।",
+          "line2": "लगे रहे चिर काल तक, उसपर अमिट कलंक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Elidhena Illirappaan Eydhum Enjnaandrum",
+            "line2": "Viliyaadhu Nirkum Pazhi."
+          },
+          "hi": {
+            "line1": "एळिदॆन इल्लिरप्पान् एय्दुम् एञ्ञान्द्रुम्",
+            "line2": "विळियादु निर्कुम् पऴि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'இது எளிதான செயல்' என்று எண்ணிப் பிறன் மனைவியை விரும்புபவன், எக்காலத்திலும் அழியாமல் நிலைத்து நிற்கும் பழியை அடைவான்.",
+        "en": "Whoever lightly dismisses the wrong and violates another's home earns a stain of disgrace that never fades.",
+        "hi": "जो व्यक्ति इसे सहज और सुलभ समझकर निःशंक भाव से पर-पत्नी में आसक्त होता है, उस पर चिरकाल तक न मिटने वाला अमिट कलंक लग जाता है।"
+      }
+    },
+    {
+      "num": 146,
+      "line1": "பகைபாவம் அச்சம் பழியென நான்கும்",
+      "line2": "இகவாவாம் இல்லிறப்பான் கண்.",
+      "enLine1": "Who home invades, from him pass nevermore,",
+      "enLine2": "Hatred and sin, fear, foul disgrace : these four.",
+      "hiLine1": "पाप, शत्रुता, और भय, निन्दा मिल कर चार ।",
+      "hiLine2": "ये उसको छोड़ें नहीं, जो करता व्यभिचार ॥",
+      "general": "பகை, பாவம், அச்சம், பழி என்னும் நான்கு தீமைகளும், பிறன் மனைவியை விரும்பித் தீய நெறியில் செல்பவனிடமிருந்து ஒருபோதும் நீங்கமாட்டா.",
+      "en": "Hatred, sin, fear, and disgrace—these four never leave him who trespasses on another's home.",
+      "hi": "जो व्यक्ति पराई स्त्री से व्यभिचार करता है, उससे पाप, शत्रुता, भय और निंदा—ये चारों कभी दूर नहीं होते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பகைபாவம் <br>(Pakaipaavam)",
+          "ta": "பகையும் பாவமும்",
+          "en": "Hatred and sin",
+          "hi": "शत्रुता और पाप"
+        },
+        {
+          "no": 2,
+          "word": "அச்சம் <br>(Achcham)",
+          "ta": "அச்சமும்",
+          "en": "Fear",
+          "hi": "भय"
+        },
+        {
+          "no": 3,
+          "word": "பழியென <br>(Pazhiyena)",
+          "ta": "பழியும் ஆகிய",
+          "en": "And disgrace",
+          "hi": "और निंदा"
+        },
+        {
+          "no": 4,
+          "word": "நான்கும் <br>(Naankum)",
+          "ta": "நான்கு குற்றங்களும்",
+          "en": "These four",
+          "hi": "ये चारों"
+        },
+        {
+          "no": 5,
+          "word": "இகவாவாம் <br>(Ikavaavaam)",
+          "ta": "நீங்காவாம்",
+          "en": "Never pass away",
+          "hi": "कभी नहीं छोड़ते"
+        },
+        {
+          "no": 6,
+          "word": "இல்லிறப்பான் <br>(Illirappaan)",
+          "ta": "பிறன் இல்லம் புகுபவன்",
+          "en": "Who invades another's home",
+          "hi": "व्यभिचार करने वाले"
+        },
+        {
+          "no": 7,
+          "word": "கண் <br>(Kan)",
+          "ta": "இடத்தில்",
+          "en": "From him",
+          "hi": "व्यक्ति को"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பகைபாவம் அச்சம் பழியென நான்கும்",
+          "line2": "இகவாவாம் இல்லிறப்பான் கண்."
+        },
+        "en": {
+          "line1": "Who home invades, from him pass nevermore,",
+          "line2": "Hatred and sin, fear, foul disgrace : these four."
+        },
+        "hi": {
+          "line1": "पाप, शत्रुता, और भय, निन्दा मिल कर चार ।",
+          "line2": "ये उसको छोड़ें नहीं, जो करता व्यभिचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pakaipaavam Achcham Pazhiyena Naankum",
+            "line2": "Ikavaavaam Illirappaan Kan."
+          },
+          "hi": {
+            "line1": "पगैपावम् अच्चम् पऴियॆन नान्गुम्",
+            "line2": "इगवावाम् इल्लिरप्पान् कण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகை, பாவம், அச்சம், பழி என்னும் நான்கு தீமைகளும், பிறன் மனைவியை விரும்பித் தீய நெறியில் செல்பவனிடமிருந்து ஒருபோதும் நீங்கமாட்டா.",
+        "en": "Four evils—enmity, sin, constant fear, and disgrace—never leave the one who violates another's household.",
+        "hi": "जो व्यक्ति पराई स्त्री से व्यभिचार करता है, उससे पाप, शत्रुता, भय और निंदा—ये चारों कभी दूर नहीं होते।"
+      }
+    },
+    {
+      "num": 147,
+      "line1": "அறனியலான் இல்வாழ்வான் என்பான் பிறனியலாள்",
+      "line2": "பெண்மை நயவா தவன்.",
+      "enLine1": "Who sees the wife, another's own, with no desiring eye,",
+      "enLine2": "In sure domestic bliss he dwelleth ever virtuously.",
+      "hiLine1": "जो गृहस्थ पर-दार पर, होवे नहिं आसक्त ।",
+      "hiLine2": "माना जाता है वही, धर्म-कर्म अनुरक्त ॥",
+      "general": "பிறனுக்குரியவளாகிய பெண்ணின் பெண்மையை விரும்பாதவனே, அறத்தின் இயல்போடு இல்லற வாழ்க்கை வாழ்பவன் என்று போற்றப்படுவான்.",
+      "en": "He who does not covet the womanhood of her who belongs to another is truly called a virtuous householder.",
+      "hi": "जो गृहस्थ पराई स्त्री के प्रति आसक्त नहीं होता, वही वास्तव में धर्म-कर्म में अनुरक्त सच्चा गृहस्थ माना जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறனியலான் <br>(Araniyalaan)",
+          "ta": "அறத்தின் இயல்போடு",
+          "en": "In virtue's way",
+          "hi": "धर्म-कर्म में अनुरक्त"
+        },
+        {
+          "no": 2,
+          "word": "இல்வாழ்வான் <br>(Ilvaazhvaan)",
+          "ta": "இல்லறம் வாழ்பவன்",
+          "en": "Dwelling in domestic life",
+          "hi": "गृहस्थ"
+        },
+        {
+          "no": 3,
+          "word": "என்பான் <br>(Enbaan)",
+          "ta": "எனப்படுபவன்",
+          "en": "Is called",
+          "hi": "माना जाता है"
+        },
+        {
+          "no": 4,
+          "word": "பிறனியலாள் <br>(Piraniyalaal)",
+          "ta": "பிறனுக்குரியவளின்",
+          "en": "Of her who is another's",
+          "hi": "पर-दार (पराई स्त्री) पर"
+        },
+        {
+          "no": 5,
+          "word": "பெண்மை <br>(Penmai)",
+          "ta": "பெண்மை நலத்தை",
+          "en": "Womanhood / beauty",
+          "hi": "स्त्रीत्व पर"
+        },
+        {
+          "no": 6,
+          "word": "நயவா <br>(Nayavaa)",
+          "ta": "விரும்பா",
+          "en": "Not desiring",
+          "hi": "आसक्त न"
+        },
+        {
+          "no": 7,
+          "word": "தவன் <br>(Dhavan)",
+          "ta": "தவனே ஆவான்",
+          "en": "He who",
+          "hi": "होने वाला"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறனியலான் இல்வாழ்வான் என்பான் பிறனியலாள்",
+          "line2": "பெண்மை நயவா தவன்."
+        },
+        "en": {
+          "line1": "Who sees the wife, another's own, with no desiring eye,",
+          "line2": "In sure domestic bliss he dwelleth ever virtuously."
+        },
+        "hi": {
+          "line1": "जो गृहस्थ पर-दार पर, होवे नहिं आसक्त ।",
+          "line2": "माना जाता है वही, धर्म-कर्म अनुरक्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Araniyalaan Ilvaazhvaan Enbaan Piraniyalaal",
+            "line2": "Penmai Nayavaa Dhavan."
+          },
+          "hi": {
+            "line1": "अरनियलान् इल्वाऴ्वान् एन्बान् पिरनियलाळ्",
+            "line2": "पॆण्मै नयवा दवन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறனுக்குரியவளாகிய பெண்ணின் பெண்மையை விரும்பாதவனே, அறத்தின் இயல்போடு இல்லற வாழ்க்கை வாழ்பவன் என்று போற்றப்படுவான்.",
+        "en": "A householder who never looks at another person's spouse with desire is the one who truly lives a righteous domestic life.",
+        "hi": "जो गृहस्थ पराई स्त्री के प्रति आसक्त नहीं होता, वही वास्तव में धर्म-कर्म में अनुरक्त सच्चा गृहस्थ माना जाता है।"
+      }
+    },
+    {
+      "num": 148,
+      "line1": "பிறன்மனை நோக்காத பேராண்மை சான்றோர்க்கு",
+      "line2": "அறனொன்றோ ஆன்ற ஒழுக்கு.",
+      "enLine1": "Manly excellence, that looks not on another's wife,",
+      "enLine2": "Is not virtue merely, 'tis full 'propriety' of life.",
+      "hiLine1": "पर-नारी नहिं ताकना, है धीरता महान ।",
+      "hiLine2": "धर्म मात्र नहिं संत का, सदाचरण भी जान ॥",
+      "general": "பிறனுடைய மனைவியை விரும்பிப் பார்க்காத பேராண்மை, சான்றோர்களுக்கு அறம் மட்டுமன்று; அது நிறைந்த ஒழுக்கமும் ஆகும்.",
+      "en": "The noble manliness that looks not at another's wife is not merely virtue for the noble, it is complete propriety of conduct.",
+      "hi": "पराई स्त्री की ओर कुदृष्टि से न देखना ही महान धीरता है; यह केवल संतों का धर्म ही नहीं, बल्कि पूर्ण सदाचरण भी है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பிறன்மனை <br>(Piranmanai)",
+          "ta": "பிறனுடைய மனைவியை",
+          "en": "Another's wife",
+          "hi": "पर-नारी को"
+        },
+        {
+          "no": 2,
+          "word": "நோக்காத <br>(Nokkaadha)",
+          "ta": "விரும்பிப் பார்க்காத",
+          "en": "Not looking at",
+          "hi": "न ताकना"
+        },
+        {
+          "no": 3,
+          "word": "பேராண்மை <br>(Peraanmai)",
+          "ta": "பெரிய ஆண்மைத் தன்மை",
+          "en": "Manly excellence",
+          "hi": "महान धीरता है"
+        },
+        {
+          "no": 4,
+          "word": "சான்றோர்க்கு <br>(Saandrorkku)",
+          "ta": "சான்றோர்களுக்கு",
+          "en": "To the noble",
+          "hi": "संतों का"
+        },
+        {
+          "no": 5,
+          "word": "அறனொன்றோ <br>(Aranondroo)",
+          "ta": "அறம் மட்டுமா",
+          "en": "Not virtue merely",
+          "hi": "धर्म मात्र नहीं"
+        },
+        {
+          "no": 6,
+          "word": "ஆன்ற <br>(Aandra)",
+          "ta": "நிறைந்த",
+          "en": "Full / complete",
+          "hi": "पूर्ण"
+        },
+        {
+          "no": 7,
+          "word": "ஒழுக்கு <br>(Ozhukku)",
+          "ta": "நல்லொழுக்கமும் ஆகும்",
+          "en": "Propriety of life",
+          "hi": "सदाचरण भी है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பிறன்மனை நோக்காத பேராண்மை சான்றோர்க்கு",
+          "line2": "அறனொன்றோ ஆன்ற ஒழுக்கு."
+        },
+        "en": {
+          "line1": "Manly excellence, that looks not on another's wife,",
+          "line2": "Is not virtue merely, 'tis full 'propriety' of life."
+        },
+        "hi": {
+          "line1": "पर-नारी नहिं ताकना, है धीरता महान ।",
+          "line2": "धर्म मात्र नहिं संत का, सदाचरण भी जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Piranmanai Nokkaadha Peraanmai Saandrorkku",
+            "line2": "Aranondroo Aandra Ozhukku."
+          },
+          "hi": {
+            "line1": "पिरन्मनै नोक्काद पेराण्मै सान्द्रोर्क्कु",
+            "line2": "अरनॊन्द्रो आन्द्र ऒऴुक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறனுடைய மனைவியை விரும்பிப் பார்க்காத பேராண்மை, சான்றோர்களுக்கு அறம் மட்டுமன்று; அது நிறைந்த ஒழுக்கமும் ஆகும்.",
+        "en": "The self-restraint that refuses to gaze with desire at another's spouse is not just a virtue—it is the height of noble character.",
+        "hi": "पराई स्त्री की ओर कुदृष्टि से न देखना ही महान धीरता है; यह केवल संतों का धर्म ही नहीं, बल्कि पूर्ण सदाचरण भी है।"
+      }
+    },
+    {
+      "num": 149,
+      "line1": "நலக்குரியார் யாரெனின் நாமநீர் வைப்பில்",
+      "line2": "பிறற்குரியாள் தோள்தோயா தார்.",
+      "enLine1": "Who 're good indeed, on earth begirt by ocean's gruesome tide ?",
+      "enLine2": "The men who touch not her that is another's bride.",
+      "hiLine1": "सागर-वलयित भूमि पर, कौन भोग्य के योग्य ।",
+      "hiLine2": "आलिंगन पर- नारि को, जो न करे वह योग्य ॥",
+      "general": "அச்சம் தரும் கடல் சூழ்ந்த இவ்வுலகில் எல்லா நலன்களுக்கும் உரியவர்கள் யார் என்றால், பிறனுக்குரிய மனைவியின் தோளைத் தீண்டாதவர்களே ஆவர்.",
+      "en": "Who are entitled to all good on this earth surrounded by the dreaded sea? Those who never touch the arms of another man's wife.",
+      "hi": "समुद्र से घिरी इस पृथ्वी पर समस्त सुख-संपदा के योग्य कौन हैं? जो पराई स्त्री का आलिंगन (स्पर्श) नहीं करते, वही वास्तव में योग्य हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நலக்குரியார் <br>(Nalakkuriyaar)",
+          "ta": "எல்லா நலன்களுக்கும் உரியவர்",
+          "en": "Who are good / worthy of good",
+          "hi": "सुख-संपदा के योग्य"
+        },
+        {
+          "no": 2,
+          "word": "யாரெனின் <br>(Yaarenin)",
+          "ta": "யார் என்றால்",
+          "en": "If you ask who",
+          "hi": "कौन हैं"
+        },
+        {
+          "no": 3,
+          "word": "நாமநீர் <br>(Naamaneer)",
+          "ta": "அச்சம் தரும் கடல் சூழ்ந்த",
+          "en": "Ocean's gruesome tide",
+          "hi": "सागर-वलयित"
+        },
+        {
+          "no": 4,
+          "word": "வைப்பில் <br>(Vaippil)",
+          "ta": "உலகத்தில்",
+          "en": "On this earth",
+          "hi": "भूमि पर"
+        },
+        {
+          "no": 5,
+          "word": "பிறற்குரியாள் <br>(Pirarkkuriyaal)",
+          "ta": "பிறனுக்குரியவளின்",
+          "en": "Another's bride",
+          "hi": "पर-नारी के"
+        },
+        {
+          "no": 6,
+          "word": "தோள்தோயா <br>(Tholthoyaa)",
+          "ta": "தோளைத் தீண்டா",
+          "en": "Who touch not",
+          "hi": "आलिंगन न करने"
+        },
+        {
+          "no": 7,
+          "word": "தார் <br>(Dhaar)",
+          "ta": "தவர்களே",
+          "en": "Those men",
+          "hi": "वाले ही योग्य हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நலக்குரியார் யாரெனின் நாமநீர் வைப்பில்",
+          "line2": "பிறற்குரியாள் தோள்தோயா தார்."
+        },
+        "en": {
+          "line1": "Who 're good indeed, on earth begirt by ocean's gruesome tide ?",
+          "line2": "The men who touch not her that is another's bride."
+        },
+        "hi": {
+          "line1": "सागर-वलयित भूमि पर, कौन भोग्य के योग्य ।",
+          "line2": "आलिंगन पर- नारि को, जो न करे वह योग्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nalakkuriyaar Yaarenin Naamaneer Vaippil",
+            "line2": "Pirarkkuriyaal Tholthoyaa Dhaar."
+          },
+          "hi": {
+            "line1": "नलक्कुरियार् यारॆनिन् नामनीर् वैप्पिल्",
+            "line2": "पिरर्कुरियाळ् तोळ्दोया दार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அச்சம் தரும் கடல் சூழ்ந்த இவ்வுலகில் எல்லா நலன்களுக்கும் உரியவர்கள் யார் என்றால், பிறனுக்குரிய மனைவியின் தோளைத் தீண்டாதவர்களே ஆவர்.",
+        "en": "Those truly worthy of every blessing on this ocean-bound earth are the ones who never touch another person's spouse.",
+        "hi": "समुद्र से घिरी इस पृथ्वी पर समस्त सुख-संपदा के योग्य कौन हैं? जो पराई स्त्री का आलिंगन (स्पर्श) नहीं करते, वही वास्तव में योग्य हैं।"
+      }
+    },
+    {
+      "num": 150,
+      "line1": "அறன்வரையான் அல்ல செயினும் பிறன்வரையாள்",
+      "line2": "பெண்மை நயவாமை நன்று.",
+      "enLine1": "Though virtue's bounds he pass, and evil deeds hath wrought ;",
+      "enLine2": "At least, 'tis good if neighbour's wife he covet not.",
+      "hiLine1": "पाप- कर्म चाहे करें, धर्म मार्ग को छोड़ ।",
+      "hiLine2": "पर-गृहिणी की विरति हो, तो वह गुण बेजोड़ ॥",
+      "general": "ஒருவன் அறநெறியில் நில்லாமல் தீய செயல்களைச் செய்தாலும், பிறனுக்குரியவளின் பெண்மையை விரும்பாமல் இருப்பது நல்லதாகும்.",
+      "en": "Even though a man disregards virtue and commits evil deeds, it is good if he does not covet the womanhood of another's wife.",
+      "hi": "यदि कोई धर्म का मार्ग छोड़कर पाप-कर्म भी कर बैठे, तो भी पराई स्त्री से विरक्त रहना एक बेजोड़ सद्गुण है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறன்வரையான் <br>(Aranvaraiyaan)",
+          "ta": "அறத்தைக் கடைப்பிடிக்காமல்",
+          "en": "Passing virtue's bounds",
+          "hi": "धर्म मार्ग को छोड़कर"
+        },
+        {
+          "no": 2,
+          "word": "அல்ல <br>(Alla)",
+          "ta": "தீய செயல்களை",
+          "en": "Evil deeds",
+          "hi": "पाप-कर्म"
+        },
+        {
+          "no": 3,
+          "word": "செயினும் <br>(Seyinum)",
+          "ta": "செய்தாலும்",
+          "en": "Though he wrought",
+          "hi": "चाहे करे"
+        },
+        {
+          "no": 4,
+          "word": "பிறன்வரையாள் <br>(Piranvaraiyaal)",
+          "ta": "பிறனுக்குரியவளின்",
+          "en": "Another's wife",
+          "hi": "पर-गृहिणी की"
+        },
+        {
+          "no": 5,
+          "word": "பெண்மை <br>(Penmai)",
+          "ta": "பெண்மையை",
+          "en": "Womanhood",
+          "hi": "आसक्ति से"
+        },
+        {
+          "no": 6,
+          "word": "நயவாமை <br>(Nayavaamai)",
+          "ta": "விரும்பாதிருத்தல்",
+          "en": "Not coveting",
+          "hi": "विरति होना"
+        },
+        {
+          "no": 7,
+          "word": "நன்று <br>(Nandru)",
+          "ta": "நல்லதாகும்",
+          "en": "Is good",
+          "hi": "बेजोड़ गुण है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறன்வரையான் அல்ல செயினும் பிறன்வரையாள்",
+          "line2": "பெண்மை நயவாமை நன்று."
+        },
+        "en": {
+          "line1": "Though virtue's bounds he pass, and evil deeds hath wrought ;",
+          "line2": "At least, 'tis good if neighbour's wife he covet not."
+        },
+        "hi": {
+          "line1": "पाप- कर्म चाहे करें, धर्म मार्ग को छोड़ ।",
+          "line2": "पर-गृहिणी की विरति हो, तो वह गुण बेजोड़ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aranvaraiyaan Alla Seyinum Piranvaraiyaal",
+            "line2": "Penmai Nayavaamai Nandru."
+          },
+          "hi": {
+            "line1": "अरन्वरैयान् अल्ल सॆयिनुम् पिरन्वरैयाळ्",
+            "line2": "पॆण्मै नयवामै नन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் அறநெறியில் நில்லாமல் தீய செயல்களைச் செய்தாலும், பிறனுக்குரியவளின் பெண்மையை விரும்பாமல் இருப்பது நல்லதாகும்.",
+        "en": "Even if a person falls short of virtue in other ways, refraining from coveting another's spouse remains a vital safeguard.",
+        "hi": "यदि कोई धर्म का मार्ग छोड़कर पाप-कर्म भी कर बैठे, तो भी पराई स्त्री से विरक्त रहना एक बेजोड़ सद्गुण है।"
+      }
+    }
+  ]
+}

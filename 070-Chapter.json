@@ -1,0 +1,930 @@
+{
+  "chapterNum": 70,
+  "nameTa": "மன்னரைச் சேர்ந்தொழுகல்",
+  "nameEn": "Conduct in the Presence of the King",
+  "nameHi": "राजा से योग्य व्यवहार",
+  "paal": "பொருட்பால்",
+  "iyal": "அமைச்சியல்",
+  "kurals": [
+    {
+      "num": 691,
+      "line1": "அகலா தணுகாது தீக்காய்வார் போல்க",
+      "line2": "விகல்வேந்தர்ச் சேர்ந்தொழுகு வார்.",
+      "enLine1": "Who warm them at the fire draw not too near, nor keep too much aloof;",
+      "enLine2": "Thus let them act who dwell beneath of warlike kings the palace-roof.",
+      "hiLine1": "दूर न पास न रह यथा, तापों उसी प्रकार ।",
+      "hiLine2": "भाव-बदलते भूप से, करना है व्यवहार ॥",
+      "general": "மனம் மாறும் இயல்புடைய அரசரைச் சார்ந்து நடப்பவர்கள், நெருப்பில் குளிர்காய்பவர் போல மிகவும் விலகாமலும் மிகவும் நெருங்காமலும் நடந்து கொள்ள வேண்டும்.",
+      "en": "Those who serve fickle or powerful rulers should act like people warming themselves by a fire—neither too close nor too far away.",
+      "hi": "चंचल स्वभाव वाले राजाओं के साथ रहने वाले मंत्रियों को आग तापने वालों की तरह न तो बहुत दूर और न ही बहुत पास रहकर सन्तुलित व्यवहार करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அகலாது <br>(Agalaadhu)",
+          "ta": "மிகவும் விலகாமல்",
+          "en": "Nor keep too much aloof",
+          "hi": "दूर न"
+        },
+        {
+          "no": 2,
+          "word": "அணுகாது <br>(Anugaadhu)",
+          "ta": "மிகவும் நெருங்காமல்",
+          "en": "Draw not too near",
+          "hi": "पास न"
+        },
+        {
+          "no": 3,
+          "word": "தீக்காய்வார் <br>(Theekkaayvaar)",
+          "ta": "நெருப்பில் குளிர்காய்பவர்",
+          "en": "Warm them at the fire",
+          "hi": "तापों"
+        },
+        {
+          "no": 4,
+          "word": "போல்க <br>(Polga)",
+          "ta": "போல நடக்க",
+          "en": "Let them act",
+          "hi": "उसी प्रकार व्यवहार"
+        },
+        {
+          "no": 5,
+          "word": "இகல் வேந்தர் <br>(Igal vendhar)",
+          "ta": "வலிமை மிக்க அரசரை",
+          "en": "Warlike kings",
+          "hi": "भाव-बदलते भूप से"
+        },
+        {
+          "no": 6,
+          "word": "சேர்ந்து <br>(Serndhu)",
+          "ta": "சார்ந்து",
+          "en": "Dwell beneath",
+          "hi": "साथ"
+        },
+        {
+          "no": 7,
+          "word": "ஒழுகுவார் <br>(Ozhuguvaar)",
+          "ta": "நடப்பவர்",
+          "en": "Who act",
+          "hi": "करना है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அகலா தணுகாது தீக்காய்வார் போல்க",
+          "line2": "விகல்வேந்தர்ச் சேர்ந்தொழுகு வார்."
+        },
+        "en": {
+          "line1": "Who warm them at the fire draw not too near, nor keep too much aloof;",
+          "line2": "Thus let them act who dwell beneath of warlike kings the palace-roof."
+        },
+        "hi": {
+          "line1": "दूर न पास न रह यथा, तापों उसी प्रकार ।",
+          "line2": "भाव-बदलते भूप से, करना है व्यवहार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Agalaa Dhanugaadhu Theekkaayvaar Polga",
+            "line2": "Vigalvendharch Serndhozhugu Vaar."
+          },
+          "hi": {
+            "line1": "अगला दणुगादु तीक्काय्वार् पोल्ग",
+            "line2": "विगल्वेन्दर्च् सेर्न्दॊऴुगु वार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனம் மாறும் இயல்புடைய அரசரைச் சார்ந்து நடப்பவர்கள், நெருப்பில் குளிர்காய்பவர் போல மிகவும் விலகாமலும் மிகவும் நெருங்காமலும் நடந்து கொள்ள வேண்டும்.",
+        "en": "Working close to volatile leaders is like sitting by a fire—get too close and you get burned, stay too far and you lose warmth.",
+        "hi": "चंचल स्वभाव वाले राजाओं के साथ रहने वाले मंत्रियों को आग तापने वालों की तरह न तो बहुत दूर और न ही बहुत पास रहकर सन्तुलित व्यवहार करना चाहिए।"
+      }
+    },
+    {
+      "num": 692,
+      "line1": "மன்னர் விழைப விழையாமை மன்னரான்",
+      "line2": "மன்னிய வாக்கந் தரும்.",
+      "enLine1": "To those who prize not state that kings are wont to prize,",
+      "enLine2": "The king himself abundant wealth supplies.",
+      "hiLine1": "राजा को जो प्रिय रहें, उनकी हो नहिं चाह ।",
+      "hiLine2": "उससे स्थायी संपदा, दिलायगा नरनाह ॥",
+      "general": "அரசர்கள் விரும்புகின்ற பொருள்களைத் தாமும் விரும்பாமல் இருத்தல், அந்த அரசராலேயே நிலையான செல்வம் கிடைக்கக் காரணமாகும்.",
+      "en": "Not coveting the luxuries and honors that kings themselves desire will earn you lasting wealth from the king.",
+      "hi": "राजा को जो वस्तुएँ प्रिय लगती हैं, यदि मंत्री उनकी लालसा न रखे, तो स्वयं राजा ही उसे स्थायी सम्पत्ति प्रदान करता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மன்னர் <br>(Mannar)",
+          "ta": "அரசர்கள்",
+          "en": "Kings",
+          "hi": "राजा को"
+        },
+        {
+          "no": 2,
+          "word": "விழைப <br>(Vizhaiba)",
+          "ta": "விரும்பும் பொருள்களை",
+          "en": "State wont to prize",
+          "hi": "जो प्रिय रहें"
+        },
+        {
+          "no": 3,
+          "word": "விழையாமை <br>(Vizhaiyaamai)",
+          "ta": "விரும்பாதிருத்தல்",
+          "en": "Prize not",
+          "hi": "उनकी हो नहिं चाह"
+        },
+        {
+          "no": 4,
+          "word": "மன்னரான் <br>(Mannaraan)",
+          "ta": "அரசராலேயே",
+          "en": "The king himself",
+          "hi": "नरनाह"
+        },
+        {
+          "no": 5,
+          "word": "மன்னிய <br>(Manniya)",
+          "ta": "நிலையான",
+          "en": "Abundant",
+          "hi": "स्थायी"
+        },
+        {
+          "no": 6,
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "செல்வத்தை",
+          "en": "Wealth",
+          "hi": "संपदा"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "கொடுக்கும்",
+          "en": "Supplies",
+          "hi": "दिलायगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மன்னர் விழைப விழையாமை மன்னரான்",
+          "line2": "மன்னிய வாக்கந் தரும்."
+        },
+        "en": {
+          "line1": "To those who prize not state that kings are wont to prize,",
+          "line2": "The king himself abundant wealth supplies."
+        },
+        "hi": {
+          "line1": "राजा को जो प्रिय रहें, उनकी हो नहिं चाह ।",
+          "line2": "उससे स्थायी संपदा, दिलायगा नरनाह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Mannar Vizhaiba Vizhaiyaamai Mannaraan",
+            "line2": "Manniya Aakkam Tharum."
+          },
+          "hi": {
+            "line1": "मन्नर् विऴैब विऴैयामै मन्नरान्",
+            "line2": "मन्निय वाक्कन् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரசர்கள் விரும்புகின்ற பொருள்களைத் தாமும் விரும்பாமல் இருத்தல், அந்த அரசராலேயே நிலையான செல்வம் கிடைக்கக் காரணமாகும்.",
+        "en": "Don't compete for the perks and status symbols your leader prizes—restraint builds trust and lasting rewards.",
+        "hi": "राजा को जो वस्तुएँ प्रिय लगती हैं, यदि मंत्री उनकी लालसा न रखे, तो स्वयं राजा ही उसे स्थायी सम्पत्ति प्रदान करता है।"
+      }
+    },
+    {
+      "num": 693,
+      "line1": "போற்றி னரியவை போற்றல் கடுத்தபின்",
+      "line2": "றேற்றுதல் யார்க்கு மரிது.",
+      "enLine1": "Who would walk warily, let him of greater faults beware;",
+      "enLine2": "To clear suspicions once aroused is an achievement rare.",
+      "hiLine1": "यदि बचना है तो बचो, दोषों से विकराल ।",
+      "hiLine2": "समाधान संभव नहीं, शक करते नरपाल ॥",
+      "general": "தன்னைக் காத்துக் கொள்ள விரும்புவோர் அரிய பெரிய குற்றங்கள் நேராமல் காக்க வேண்டும்; அரசன் ஐயப்பட்ட பின்பு அதனைத் தெளிவிப்பது எவர்க்கும் அரிதாகும்.",
+      "en": "Guard against grave errors if you wish to stay safe; once a ruler's suspicion is aroused, clearing it is nearly impossible.",
+      "hi": "यदि स्वयं को बचाना है, तो बड़े और भयंकर दोषों से बचकर रहो; क्योंकि एक बार राजा के मन में सन्देह उत्पन्न हो जाने पर उसका निवारण करना अत्यन्त कठिन है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "போற்றின் <br>(Potrin)",
+          "ta": "காத்துக்கொள்ள விரும்பின்",
+          "en": "Walk warily",
+          "hi": "यदि बचना है"
+        },
+        {
+          "no": 2,
+          "word": "அரியவை <br>(Ariyavai)",
+          "ta": "பெரிய குற்றங்களை",
+          "en": "Greater faults",
+          "hi": "दोषों से विकराल"
+        },
+        {
+          "no": 3,
+          "word": "போற்றல் <br>(Potral)",
+          "ta": "தவிர்த்துக் காக்க",
+          "en": "Beware",
+          "hi": "बचो"
+        },
+        {
+          "no": 4,
+          "word": "கடுத்தபின் <br>(Kaduththapin)",
+          "ta": "அரசன் ஐயப்பட்ட பின்",
+          "en": "Suspicions aroused",
+          "hi": "शक करते नरपाल"
+        },
+        {
+          "no": 5,
+          "word": "தேற்றுதல் <br>(Thetrudhal)",
+          "ta": "தெளிவித்தல்",
+          "en": "To clear",
+          "hi": "समाधान"
+        },
+        {
+          "no": 6,
+          "word": "யார்க்கும் <br>(Yaarkkum)",
+          "ta": "எவருக்கும்",
+          "en": "Rare",
+          "hi": "संभव नहीं"
+        },
+        {
+          "no": 7,
+          "word": "அரிது <br>(Aridhu)",
+          "ta": "அரிதாகும்",
+          "en": "Achievement rare",
+          "hi": "कठिन है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "போற்றி னரியவை போற்றல் கடுத்தபின்",
+          "line2": "றேற்றுதல் யார்க்கு மரிது."
+        },
+        "en": {
+          "line1": "Who would walk warily, let him of greater faults beware;",
+          "line2": "To clear suspicions once aroused is an achievement rare."
+        },
+        "hi": {
+          "line1": "यदि बचना है तो बचो, दोषों से विकराल ।",
+          "line2": "समाधान संभव नहीं, शक करते नरपाल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Potrin Ariyavai Potral Kaduththapin",
+            "line2": "Thetrudhal Yaarkkum Aridhu."
+          },
+          "hi": {
+            "line1": "पोत्रि नरियवै पोत्रल् कडुत्तपिन्",
+            "line2": "रेत्रुदल् यार्क्कु मरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன்னைக் காத்துக் கொள்ள விரும்புவோர் அரிய பெரிய குற்றங்கள் நேராமல் காக்க வேண்டும்; அரசன் ஐயப்பட்ட பின்பு அதனைத் தெளிவிப்பது எவர்க்கும் அரிதாகும்.",
+        "en": "Prevent major missteps before they happen—once trust is broken and suspicion sets in, it's almost impossible to repair.",
+        "hi": "यदि स्वयं को बचाना है, तो बड़े और भयंकर दोषों से बचकर रहो; क्योंकि एक बार राजा के मन में सन्देह उत्पन्न हो जाने पर उसका निवारण करना अत्यन्त कठिन है।"
+      }
+    },
+    {
+      "num": 694,
+      "line1": "செவிச்சொல்லுஞ் சேர்ந்த நகையு மவித்தொழுக",
+      "line2": "லான்ற பெரியா ரகத்து.",
+      "enLine1": "All whispered words and interchange of smiles repress,",
+      "enLine2": "In presence of the men who kingly power possess.",
+      "hiLine1": "कानाफूसी साथ ही, हँसी अन्य के साथ ।",
+      "hiLine2": "महाराज के साथ में, छोड़ो इनका साथ ॥",
+      "general": "மதிப்பு மிக்க பெரிய அரசர்களின் அவையில் இருக்கும்போது, பிறர் காதில் ரகசியம் பேசுதலையும் ஒருவரை ஒருவர் பார்த்துச் சிரிப்பதையும் அடக்கிக் கொள்ள வேண்டும்.",
+      "en": "In the presence of great rulers, refrain from whispering in someone's ear or exchanging knowing smiles.",
+      "hi": "महान राजाओं की उपस्थिति में किसी के कान में फुसफुसाने (कानाफूसी करने) और दूसरों के साथ मिलकर हँसने का व्यवहार पूरी तरह छोड़ देना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செவிச்சொல்லும் <br>(Sevichchollum)",
+          "ta": "காதில் ரகசியம் பேசுதலும்",
+          "en": "Whispered words",
+          "hi": "कानाफूसी"
+        },
+        {
+          "no": 2,
+          "word": "சேர்ந்த நகையும் <br>(Serndha nagaiyum)",
+          "ta": "பிறரோடு சேர்ந்து சிரித்தலும்",
+          "en": "Interchange of smiles",
+          "hi": "हँसी अन्य के साथ"
+        },
+        {
+          "no": 3,
+          "word": "அவித்து <br>(Aviththu)",
+          "ta": "அடக்கி",
+          "en": "Repress",
+          "hi": "छोड़ो"
+        },
+        {
+          "no": 4,
+          "word": "ஒழுகல் <br>(Ozhugal)",
+          "ta": "நடத்தல் வேண்டும்",
+          "en": "Conduct",
+          "hi": "साथ में"
+        },
+        {
+          "no": 5,
+          "word": "ஆன்ற <br>(Aandra)",
+          "ta": "மாட்சிமைப்பட்ட",
+          "en": "Kingly power",
+          "hi": "महान"
+        },
+        {
+          "no": 6,
+          "word": "பெரியார் <br>(Periyaar)",
+          "ta": "பெரியோரின்",
+          "en": "Men who possess",
+          "hi": "महाराज के"
+        },
+        {
+          "no": 7,
+          "word": "அகத்து <br>(Agaththu)",
+          "ta": "அவையில்",
+          "en": "In presence",
+          "hi": "उपस्थिति में"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செவிச்சொல்லுஞ் சேர்ந்த நகையு மவித்தொழுக",
+          "line2": "லான்ற பெரியா ரகத்து."
+        },
+        "en": {
+          "line1": "All whispered words and interchange of smiles repress,",
+          "line2": "In presence of the men who kingly power possess."
+        },
+        "hi": {
+          "line1": "कानाफूसी साथ ही, हँसी अन्य के साथ ।",
+          "line2": "महाराज के साथ में, छोड़ो इनका साथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sevichchollunj Serndha Nagaiyu Maviththozhuga",
+            "line2": "Laandra Periyaa Ragaththu."
+          },
+          "hi": {
+            "line1": "सॆविच्चॊल्लुञ् सेर्न्द नगैयु मवित्तॊऴुग",
+            "line2": "लान्द्र पॆरिया रगत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மதிப்பு மிக்க பெரிய அரசர்களின் அவையில் இருக்கும்போது, பிறர் காதில் ரகசியம் பேசுதலையும் ஒருவரை ஒருவர் பார்த்துச் சிரிப்பதையும் அடக்கிக் கொள்ள வேண்டும்.",
+        "en": "Never whisper or share inside jokes in front of senior leaders—it breeds suspicion immediately.",
+        "hi": "महान राजाओं की उपस्थिति में किसी के कान में फुसफुसाने (कानाफूसी करने) और दूसरों के साथ मिलकर हँसने का व्यवहार पूरी तरह छोड़ देना चाहिए।"
+      }
+    },
+    {
+      "num": 695,
+      "line1": "எப்பொருளு மோரார் தொடரார்மற் றப்பொருளை",
+      "line2": "விட்டக்காற் கேட்க மறை.",
+      "enLine1": "Seek not, ask not, the secret of the king to hear;",
+      "enLine2": "But if he lets the matter forth, give ear!",
+      "hiLine1": "छिपे सुनो मत भेद को, पूछो मत 'क्या बात' ।",
+      "hiLine2": "प्रकट करे यदि नृप स्वयं, तो सुन लो वह बात ॥",
+      "general": "அரசன் மறைத்திருக்கும் எந்தச் செய்தியையும் ஒட்டுக் கேட்காமலும் தொடர்ந்து துருவித் துருவிக் கேட்காமலும் இருந்து, அரசன் தானே வெளிப்படுத்தும் போது மட்டுமே கேட்க வேண்டும்.",
+      "en": "Do not eavesdrop on or pry into a ruler's secrets; listen only when he chooses to share the matter himself.",
+      "hi": "राजा की गुप्त बातों को न तो छिपकर सुनने का प्रयास करो और न ही बार-बार पूछो; यदि राजा स्वयं कोई रहस्य प्रकट करे, तभी उसे सुनो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எப்பொருளும் <br>(Epporulum)",
+          "ta": "எந்த மறைபொருளையும்",
+          "en": "Secret of the king",
+          "hi": "भेद को"
+        },
+        {
+          "no": 2,
+          "word": "ஓரார் <br>(Oraar)",
+          "ta": "ஒட்டுக் கேட்காமல்",
+          "en": "Seek not",
+          "hi": "छिपे सुनो मत"
+        },
+        {
+          "no": 3,
+          "word": "தொடரார் <br>(Thodaraar)",
+          "ta": "துருவிக் கேட்காமல்",
+          "en": "Ask not",
+          "hi": "पूछो मत क्या बात"
+        },
+        {
+          "no": 4,
+          "word": "மற்று அப்பொருளை <br>(Matru apporulai)",
+          "ta": "அச்செய்தியை",
+          "en": "The matter",
+          "hi": "वह बात"
+        },
+        {
+          "no": 5,
+          "word": "விட்டக்கால் <br>(Vittakkaal)",
+          "ta": "அரசன் வெளிப்படுத்தும்போது",
+          "en": "Lets forth",
+          "hi": "प्रकट करे यदि नृप स्वयं"
+        },
+        {
+          "no": 6,
+          "word": "கேட்க <br>(Ketka)",
+          "ta": "கேட்க வேண்டும்",
+          "en": "Give ear",
+          "hi": "तो सुन लो"
+        },
+        {
+          "no": 7,
+          "word": "மறை <br>(Marai)",
+          "ta": "ரகசியத்தை",
+          "en": "Secret",
+          "hi": "गुप्त बात"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எப்பொருளு மோரார் தொடரார்மற் றப்பொருளை",
+          "line2": "விட்டக்காற் கேட்க மறை."
+        },
+        "en": {
+          "line1": "Seek not, ask not, the secret of the king to hear;",
+          "line2": "But if he lets the matter forth, give ear!"
+        },
+        "hi": {
+          "line1": "छिपे सुनो मत भेद को, पूछो मत 'क्या बात' ।",
+          "line2": "प्रकट करे यदि नृप स्वयं, तो सुन लो वह बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Epporulu Moraar Thodaraarmar Rapporulai",
+            "line2": "Vittakkaar Ketka Marai."
+          },
+          "hi": {
+            "line1": "ऎप्पॊरुळु मोरार् तॊडरार्मर् रप्पॊरुळै",
+            "line2": "विट्टक्कार् केट्क मरै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரசன் மறைத்திருக்கும் எந்தச் செய்தியையும் ஒட்டுக் கேட்காமலும் தொடர்ந்து துருவித் துருவிக் கேட்காமலும் இருந்து, அரசன் தானே வெளிப்படுத்தும் போது மட்டுமே கேட்க வேண்டும்.",
+        "en": "Don't snoop or press for confidential details—wait until leadership chooses to bring you into the loop.",
+        "hi": "राजा की गुप्त बातों को न तो छिपकर सुनने का प्रयास करो और न ही बार-बार पूछो; यदि राजा स्वयं कोई रहस्य प्रकट करे, तभी उसे सुनो।"
+      }
+    },
+    {
+      "num": 696,
+      "line1": "குறிப்பறிந்து காலங் கருதி வெறுப்பில",
+      "line2": "வேண்டுப வேட்பச் சொலல்.",
+      "enLine1": "Knowing the signs, waiting for fitting time, with courteous care,",
+      "enLine2": "Things not displeasing, needful things, declare.",
+      "hiLine1": "भाव समझ समयज्ञ हो, छोड़ घृणित सब बात ।",
+      "hiLine2": "नृप-मनचाहा ढंग से, कह आवश्यक बात ॥",
+      "general": "அரசனின் மனக்குறிப்பை அறிந்து, தக்க காலத்தை எதிர்நோக்கி, வெறுப்புத் தராத தேவையான கருத்துகளை அவன் விரும்புமாறு சொல்ல வேண்டும்.",
+      "en": "Read the ruler's mood, wait for the right moment, and present necessary counsel pleasantly without causing offense.",
+      "hi": "राजा के मन के भाव और उचित समय को समझकर, अरुचिकर बातों को छोड़कर, आवश्यक बात को ऐसे ढंग से कहो जो राजा को प्रिय लगे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குறிப்பு அறிந்து <br>(Kurippu arindhu)",
+          "ta": "மனக்குறிப்பை அறிந்து",
+          "en": "Knowing the signs",
+          "hi": "भाव समझ"
+        },
+        {
+          "no": 2,
+          "word": "காலம் கருதி <br>(Kaalam karudhi)",
+          "ta": "தக்க காலம் பார்த்து",
+          "en": "Waiting for fitting time",
+          "hi": "समयज्ञ हो"
+        },
+        {
+          "no": 3,
+          "word": "வெறுப்பு இல <br>(Veruppu ila)",
+          "ta": "வெறுப்பு இல்லாத",
+          "en": "Not displeasing",
+          "hi": "छोड़ घृणित सब बात"
+        },
+        {
+          "no": 4,
+          "word": "வேண்டுப <br>(Venduba)",
+          "ta": "தேவையானவற்றை",
+          "en": "Needful things",
+          "hi": "आवश्यक बात"
+        },
+        {
+          "no": 5,
+          "word": "வேட்ப <br>(Vetpa)",
+          "ta": "அரசன் விரும்பும்படி",
+          "en": "With courteous care",
+          "hi": "नृप-मनचाहा ढंग से"
+        },
+        {
+          "no": 6,
+          "word": "சொலல் <br>(Solal)",
+          "ta": "சொல்ல வேண்டும்",
+          "en": "Declare",
+          "hi": "कह"
+        },
+        {
+          "no": 7,
+          "word": "இனிது <br>(Inidhu)",
+          "ta": "இனிதாக",
+          "en": "Pleasantly",
+          "hi": "मधुर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குறிப்பறிந்து காலங் கருதி வெறுப்பில",
+          "line2": "வேண்டுப வேட்பச் சொலல்."
+        },
+        "en": {
+          "line1": "Knowing the signs, waiting for fitting time, with courteous care,",
+          "line2": "Things not displeasing, needful things, declare."
+        },
+        "hi": {
+          "line1": "भाव समझ समयज्ञ हो, छोड़ घृणित सब बात ।",
+          "line2": "नृप-मनचाहा ढंग से, कह आवश्यक बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kuripparindhu Kaalang Karudhi Veruppila",
+            "line2": "Venduba Vetpach Solal."
+          },
+          "hi": {
+            "line1": "कुरिप्परिन्दु कालङ् करुदि वॆरुप्पिल",
+            "line2": "वेण्डुब वेट्पच् सॊलल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரசனின் மனக்குறிப்பை அறிந்து, தக்க காலத்தை எதிர்நோக்கி, வெறுப்புத் தராத தேவையான கருத்துகளை அவன் விரும்புமாறு சொல்ல வேண்டும்.",
+        "en": "Read the room, time your pitch well, and frame hard truths constructively so they're actually heard.",
+        "hi": "राजा के मन के भाव और उचित समय को समझकर, अरुचिकर बातों को छोड़कर, आवश्यक बात को ऐसे ढंग से कहो जो राजा को प्रिय लगे।"
+      }
+    },
+    {
+      "num": 697,
+      "line1": "வேட்பன சொல்லி வினையில வெஞ்ஞான்றுங்",
+      "line2": "கேட்பினுஞ் சொல்லா விடல்.",
+      "enLine1": "Speak pleasant things, but never utter idle word;",
+      "enLine2": "Not though by monarch's ears with pleasure heard.",
+      "hiLine1": "नृप से वांछित बात कह, मगर निरर्थक बात ।",
+      "hiLine2": "पूछें तो भी बिन कहे, सदा त्याग वह बात ॥",
+      "general": "அரசன் விரும்பும் பயனுள்ள சொற்களைப் பேசுக; ஆனால் பயனற்ற வீண் சொற்களை அரசனே கேட்டாலும் எக்காலத்திலும் சொல்லாமல் விட வேண்டும்.",
+      "en": "Speak what is welcome and useful, but never utter pointless words—even if the ruler asks to hear them.",
+      "hi": "राजा से उपयोगी और उचित बातें ही कहो; परन्तु निरर्थक और व्यर्थ की बातें, यदि राजा स्वयं भी पूछें, तब भी न कहकर सदा त्याग दो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வேட்பன <br>(Vetpana)",
+          "ta": "விரும்பத்தக்கவற்றை",
+          "en": "Pleasant things",
+          "hi": "वांछित बात"
+        },
+        {
+          "no": 2,
+          "word": "சொல்லி <br>(Solli)",
+          "ta": "சொல்லி",
+          "en": "Speak",
+          "hi": "कह"
+        },
+        {
+          "no": 3,
+          "word": "வினையில <br>(Vinaiyila)",
+          "ta": "பயனற்றவற்றை",
+          "en": "Idle word",
+          "hi": "निरर्थक बात"
+        },
+        {
+          "no": 4,
+          "word": "எஞ்ஞான்றும் <br>(Ennyaandrum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "Never",
+          "hi": "सदा"
+        },
+        {
+          "no": 5,
+          "word": "கேட்பினும் <br>(Ketpinum)",
+          "ta": "அரசன் கேட்டாலும்",
+          "en": "With pleasure heard",
+          "hi": "पूछें तो भी"
+        },
+        {
+          "no": 6,
+          "word": "சொல்லா <br>(Sollaa)",
+          "ta": "சொல்லாமல்",
+          "en": "Utter not",
+          "hi": "बिन कहे"
+        },
+        {
+          "no": 7,
+          "word": "விடல் <br>(Vidal)",
+          "ta": "விட்டுவிட வேண்டும்",
+          "en": "Leave",
+          "hi": "त्याग वह बात"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வேட்பன சொல்லி வினையில வெஞ்ஞான்றுங்",
+          "line2": "கேட்பினுஞ் சொல்லா விடல்."
+        },
+        "en": {
+          "line1": "Speak pleasant things, but never utter idle word;",
+          "line2": "Not though by monarch's ears with pleasure heard."
+        },
+        "hi": {
+          "line1": "नृप से वांछित बात कह, मगर निरर्थक बात ।",
+          "line2": "पूछें तो भी बिन कहे, सदा त्याग वह बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vetpana Solli Vinaiyila Ennyaandrum",
+            "line2": "Ketpinum Sollaa Vidal."
+          },
+          "hi": {
+            "line1": "वेट्पन सॊल्लि विनैनिल वॆञ्ज्ञान्द्रुङ्",
+            "line2": "केट्पिनुञ् सॊल्ला विडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரசன் விரும்பும் பயனுள்ள சொற்களைப் பேசுக; ஆனால் பயனற்ற வீண் சொற்களை அரசனே கேட்டாலும் எக்காலத்திலும் சொல்லாமல் விட வேண்டும்.",
+        "en": "Stick to substantive, helpful advice—avoid gossip or empty chatter even if someone in power invites it.",
+        "hi": "राजा से उपयोगी और उचित बातें ही कहो; परन्तु निरर्थक और व्यर्थ की बातें, यदि राजा स्वयं भी पूछें, तब भी न कहकर सदा त्याग दो।"
+      }
+    },
+    {
+      "num": 698,
+      "line1": "இளைய ரினமுறைய ரென்றிகழார் நின்ற",
+      "line2": "வொளியோ டொழுகப் படும்.",
+      "enLine1": "Say not, 'He's young, my kinsman,' despising thus your king;",
+      "enLine2": "But reverence the glory kingly state doth bring.",
+      "hiLine1": "'छोटे हैं, ये बन्धु हैं', यों नहिं कर अपमान ।",
+      "hiLine2": "किया जाय नरपाल का, देव तुल्य सम्मान ॥",
+      "general": "அரசன் வயதில் இளையவர், நம் உறவினர் என்று கருதி அவரை இகழாமல், அரச பதவிக்கு உரிய பெருமையோடு மதித்து நடக்க வேண்டும்.",
+      "en": "Do not disrespect a king because he is young or a relative; honor the dignity and majesty of his royal office.",
+      "hi": "'राजा उम्र में छोटा है या मेरा सम्बन्धी है'—ऐसा सोचकर उसका अपमान न करें, बल्कि राज-पद के तेज के अनुसार उसका देव-तुल्य सम्मान करें।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இளையர் <br>(Ilaiyar)",
+          "ta": "வயதில் சிறியவர்",
+          "en": "He's young",
+          "hi": "छोटे हैं"
+        },
+        {
+          "no": 2,
+          "word": "இனமுறையர் <br>(Inamuraiyar)",
+          "ta": "உறவினர்",
+          "en": "My kinsman",
+          "hi": "ये बन्धु हैं"
+        },
+        {
+          "no": 3,
+          "word": "என்று இகழார் <br>(Endru igazhaar)",
+          "ta": "என்று இகழாமல்",
+          "en": "Despising thus",
+          "hi": "यों नहिं कर अपमान"
+        },
+        {
+          "no": 4,
+          "word": "நின்ற <br>(Nindra)",
+          "ta": "அரசனிடம் நிலைத்துள்ள",
+          "en": "Doth bring",
+          "hi": "नरपाल का"
+        },
+        {
+          "no": 5,
+          "word": "ஒளியோடு <br>(Oliyodu)",
+          "ta": "அரசப் பெருமையோடு",
+          "en": "Glory kingly state",
+          "hi": "देव तुल्य सम्मान"
+        },
+        {
+          "no": 6,
+          "word": "ஒழுகப்படும் <br>(Ozhugappadum)",
+          "ta": "மதித்து நடக்க வேண்டும்",
+          "en": "Reverence",
+          "hi": "किया जाय"
+        },
+        {
+          "no": 7,
+          "word": "மதிப்பு <br>(Madhippu)",
+          "ta": "மதிப்பு",
+          "en": "Respect",
+          "hi": "सम्मान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இளைய ரினமுறைய ரென்றிகழார் நின்ற",
+          "line2": "வொளியோ டொழுகப் படும்."
+        },
+        "en": {
+          "line1": "Say not, 'He's young, my kinsman,' despising thus your king;",
+          "line2": "But reverence the glory kingly state doth bring."
+        },
+        "hi": {
+          "line1": "'छोटे हैं, ये बन्धु हैं', यों नहिं कर अपमान ।",
+          "line2": "किया जाय नरपाल का, देव तुल्य सम्मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ilaiya Rinamuraiya Rendrigazhaar Nindra",
+            "line2": "Voliyo Dozhugap Padum."
+          },
+          "hi": {
+            "line1": "इळैय रिनमुरैय रॆन्द्रिगऴार् निन्द्र",
+            "line2": "वॊळियो डॊऴुगप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரசன் வயதில் இளையவர், நம் உறவினர் என்று கருதி அவரை இகழாமல், அரச பதவிக்கு உரிய பெருமையோடு மதித்து நடக்க வேண்டும்.",
+        "en": "Never take a leader lightly because of their age or personal connection—respect the weight of the role they hold.",
+        "hi": "'राजा उम्र में छोटा है या मेरा सम्बन्धी है'—ऐसा सोचकर उसका अपमान न करें, बल्कि राज-पद के तेज के अनुसार उसका देव-तुल्य सम्मान करें।"
+      }
+    },
+    {
+      "num": 699,
+      "line1": "கொளப்பட்டே மென்றெண்ணிக் கொள்ளாத செய்யார்",
+      "line2": "துளக்கற்ற காட்சி யவர்.",
+      "enLine1": "'We've gained his grace, boots nought what graceless acts we do.'",
+      "enLine2": "So deem not sages who the changeless vision view.",
+      "hiLine1": "'नृप के प्रिय हम बन गये', ऐसा कर सुविचार ।",
+      "hiLine2": "जो हैं निश्चल बुद्धि के, करें न अप्रिय कार ॥",
+      "general": "அரசனால் அன்புடன் ஏற்றுக் கொள்ளப்பட்டோம் என்று நினைத்து, தகுதியற்ற செயல்களைத் தெளிந்த அறிவுடையோர் செய்ய மாட்டார்கள்.",
+      "en": "Those of steady wisdom will never presume on a ruler's favor to do unseemly or improper things.",
+      "hi": "स्थिर और निश्चल बुद्धि वाले लोग 'हम राजा के प्रिय पात्र बन गए हैं' ऐसा सोचकर कभी भी कोई अनुचित या अप्रिय कार्य नहीं करते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கொளப்பட்டேம் <br>(Kolappattem)",
+          "ta": "அரசனால் விரும்பப்பட்டோம்",
+          "en": "Gained his grace",
+          "hi": "नृप के प्रिय हम बन गये"
+        },
+        {
+          "no": 2,
+          "word": "என்று எண்ணி <br>(Endru enni)",
+          "ta": "என்று நினைத்து",
+          "en": "So deem",
+          "hi": "ऐसा कर सुविचार"
+        },
+        {
+          "no": 3,
+          "word": "கொள்ளாத <br>(Kollaadha)",
+          "ta": "தகுதியற்றவற்றை",
+          "en": "Graceless acts",
+          "hi": "अप्रिय कार"
+        },
+        {
+          "no": 4,
+          "word": "செய்யார் <br>(Seyyaar)",
+          "ta": "செய்ய மாட்டார்கள்",
+          "en": "Do not",
+          "hi": "करें न"
+        },
+        {
+          "no": 5,
+          "word": "துளக்கற்ற <br>(Thulakkatra)",
+          "ta": "அசைவற்ற",
+          "en": "Changeless",
+          "hi": "निश्चल"
+        },
+        {
+          "no": 6,
+          "word": "காட்சி <br>(Kaatchi)",
+          "ta": "தெளிந்த அறிவு",
+          "en": "Vision",
+          "hi": "बुद्धि के"
+        },
+        {
+          "no": 7,
+          "word": "அவர் <br>(Avar)",
+          "ta": "உடையவர்கள்",
+          "en": "Sages",
+          "hi": "जो हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கொளப்பட்டே மென்றெண்ணிக் கொள்ளாத செய்யார்",
+          "line2": "துளக்கற்ற காட்சி யவர்."
+        },
+        "en": {
+          "line1": "'We've gained his grace, boots nought what graceless acts we do.'",
+          "line2": "So deem not sages who the changeless vision view."
+        },
+        "hi": {
+          "line1": "'नृप के प्रिय हम बन गये', ऐसा कर सुविचार ।",
+          "line2": "जो हैं निश्चल बुद्धि के, करें न अप्रिय कार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kolappatte Mendrennik Kollaadha Seyyaar",
+            "line2": "Thulakkatra Kaatchi Yavar."
+          },
+          "hi": {
+            "line1": "कॊळप्पट्टे मॆन्द्रॆण्णिक् कॊळ्ळाद सॆय्यार्",
+            "line2": "तुळक्कत्र काट्चि यवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரசனால் அன்புடன் ஏற்றுக் கொள்ளப்பட்டோம் என்று நினைத்து, தகுதியற்ற செயல்களைத் தெளிந்த அறிவுடையோர் செய்ய மாட்டார்கள்.",
+        "en": "Being in good standing is never an excuse to slack off or cross boundaries.",
+        "hi": "स्थिर और निश्चल बुद्धि वाले लोग 'हम राजा के प्रिय पात्र बन गए हैं' ऐसा सोचकर कभी भी कोई अनुचित या अप्रिय कार्य नहीं करते।"
+      }
+    },
+    {
+      "num": 700,
+      "line1": "பழைய மெனக்கருதிப் பண்பல்ல செய்யுங்",
+      "line2": "கெழுதகைமை கேடு தரும்.",
+      "enLine1": "Who think 'We're ancient friends,' and do unseemly things;",
+      "enLine2": "To these familiarity sure ruin brings.",
+      "hiLine1": "'चिरपरिचित हैं', यों समझ, नृप से दुर्व्यवहार ।",
+      "hiLine2": "करने का अधिकार तो, करता हानि अपार ॥",
+      "general": "நாம் அரசனுக்குப் பழைய நண்பர்கள் என்று கருதிப் பண்பற்ற செயல்களைச் செய்யும் அளவு கடந்த உரிமை, கேட்டைத் தரும்.",
+      "en": "Presuming on old friendship to act without decorum brings certain ruin.",
+      "hi": "'हम राजा के चिरपरिचित पुराने मित्र हैं' ऐसा मानकर उसके साथ अशिष्ट या अनुचित व्यवहार करने का अधिकार समझना भारी हानि पहुँचाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பழையம் <br>(Pazhaiyam)",
+          "ta": "பழைய நண்பர்கள்",
+          "en": "Ancient friends",
+          "hi": "चिरपरिचित हैं"
+        },
+        {
+          "no": 2,
+          "word": "எனக் கருதி <br>(Ena karudhi)",
+          "ta": "என்று நினைத்து",
+          "en": "Who think",
+          "hi": "यों समझ"
+        },
+        {
+          "no": 3,
+          "word": "பண்பு அல்ல <br>(Panbu alla)",
+          "ta": "பண்பில்லாதவற்றை",
+          "en": "Unseemly things",
+          "hi": "दुर्व्यवहार"
+        },
+        {
+          "no": 4,
+          "word": "செய்யும் <br>(Seyyum)",
+          "ta": "செய்யும்",
+          "en": "Do",
+          "hi": "करने का"
+        },
+        {
+          "no": 5,
+          "word": "கெழுதகைமை <br>(Kezhudhagaimai)",
+          "ta": "மிக்க உரிமை",
+          "en": "Familiarity",
+          "hi": "अधिकार"
+        },
+        {
+          "no": 6,
+          "word": "கேடு <br>(Kedu)",
+          "ta": "அழிவைத்",
+          "en": "Sure ruin",
+          "hi": "हानि अपार"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Brings",
+          "hi": "करता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பழைய மெனக்கருதிப் பண்பல்ல செய்யுங்",
+          "line2": "கெழுதகைமை கேடு தரும்."
+        },
+        "en": {
+          "line1": "Who think 'We're ancient friends,' and do unseemly things;",
+          "line2": "To these familiarity sure ruin brings."
+        },
+        "hi": {
+          "line1": "'चिरपरिचित हैं', यों समझ, नृप से दुर्व्यवहार ।",
+          "line2": "करने का अधिकार तो, करता हानि अपार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pazhaiya Menakkarudhip Panballa Seyyung",
+            "line2": "Kezhudhagaimai Kedu Tharum."
+          },
+          "hi": {
+            "line1": "पऴैय मॆनक्करुदिप् पण्बल्ल सॆय्युङ्",
+            "line2": "कॆऴुदगैमै केडु तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நாம் அரசனுக்குப் பழைய நண்பர்கள் என்று கருதிப் பண்பற்ற செயல்களைச் செய்யும் அளவு கடந்த உரிமை, கேட்டைத் தரும்.",
+        "en": "Taking long-standing familiarity for granted and dropping basic respect will only hurt you in the end.",
+        "hi": "'हम राजा के चिरपरिचित पुराने मित्र हैं' ऐसा मानकर उसके साथ अशिष्ट या अनुचित व्यवहार करने का अधिकार समझना भारी हानि पहुँचाता है।"
+      }
+    }
+  ]
+}

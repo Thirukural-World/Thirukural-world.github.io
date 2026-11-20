@@ -1,0 +1,930 @@
+{
+  "chapterNum": 65,
+  "nameTa": "சொல்வன்மை",
+  "nameEn": "Power in Speech",
+  "nameHi": "वाक्पटुता",
+  "paal": "பொருட்பால்",
+  "iyal": "அமைச்சியல்",
+  "kurals": [
+    {
+      "num": 641,
+      "line1": "நாநல மென்னு நலனுடைமை யந்நலம்",
+      "line2": "யாநலத் துள்ளதூஉ மன்று.",
+      "enLine1": "A tongue that rightly speaks the right is greatest gain,",
+      "enLine2": "It stands alone midst goodly things that men obtain.",
+      "hiLine1": "मधुर वचन का जो सुगुण, वही श्रेष्ठतम दान ।",
+      "hiLine2": "अन्य सभी गुण-सम्पदा, उसके नहीं समान ॥",
+      "general": "நாவன்மை என்று கூறப்படும் நலத்தை உடையவராய் இருத்தல் ஒரு சிறந்த நலமாகும்; அந்த நலம் வேறு எந்த நலத்திலும் அடங்காத தனிச்சிறப்புடையது.",
+      "en": "The gift of eloquence is a treasure in itself—it stands apart above all other possessions a person can have.",
+      "hi": "वाणी की कुशलता (मधुर और प्रभावशाली वचन) रूपी जो गुण है, वह सबसे श्रेष्ठ सम्पत्ति है; अन्य कोई भी गुण या धन उसकी बराबरी नहीं कर सकता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நா நலம் என்னும் <br>(Naa nalam ennum)",
+          "ta": "நாவன்மை என்னும்",
+          "en": "Tongue that speaks right",
+          "hi": "मधुर वचन का"
+        },
+        {
+          "no": 2,
+          "word": "நலன் உடைமை <br>(Nalan udaimai)",
+          "ta": "நலத்தை உடைமை",
+          "en": "Greatest gain",
+          "hi": "सुगुण श्रेष्ठतम दान"
+        },
+        {
+          "no": 3,
+          "word": "அந்நலம் <br>(Annalam)",
+          "ta": "அந்த நலம்",
+          "en": "That good",
+          "hi": "वह"
+        },
+        {
+          "no": 4,
+          "word": "யா நலத்து <br>(Yaa nalaththu)",
+          "ta": "எந்த நலத்திலும்",
+          "en": "Midst goodly things",
+          "hi": "अन्य सभी गुण-सम्पदा"
+        },
+        {
+          "no": 5,
+          "word": "உள்ளதூஉம் <br>(Ulladhooum)",
+          "ta": "உள்ளதும்",
+          "en": "Included",
+          "hi": "उसके"
+        },
+        {
+          "no": 6,
+          "word": "அன்று <br>(Andru)",
+          "ta": "அன்று",
+          "en": "Stands alone",
+          "hi": "नहीं समान"
+        },
+        {
+          "no": 7,
+          "word": "நலம் <br>(Nalam)",
+          "ta": "நன்மை",
+          "en": "Good",
+          "hi": "सुगुण"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாநல மென்னு நலனுடைமை யந்நலம்",
+          "line2": "யாநலத் துள்ளதூஉ மன்று."
+        },
+        "en": {
+          "line1": "A tongue that rightly speaks the right is greatest gain,",
+          "line2": "It stands alone midst goodly things that men obtain."
+        },
+        "hi": {
+          "line1": "मधुर वचन का जो सुगुण, वही श्रेष्ठतम दान ।",
+          "line2": "अन्य सभी गुण-सम्पदा, उसके नहीं समान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naanala Mennu Nalanudaimai Yannalam",
+            "line2": "Yaanalath Thulladhoou Mandru."
+          },
+          "hi": {
+            "line1": "नानल मॆन्नु नलनुडैमै यन्नलम्",
+            "line2": "यानलत् तुळ्ळदूउ मन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நாவன்மை என்று கூறப்படும் நலத்தை உடையவராய் இருத்தல் ஒரு சிறந்த நலமாகும்; அந்த நலம் வேறு எந்த நலத்திலும் அடங்காத தனிச்சிறப்புடையது.",
+        "en": "The ability to speak clearly, persuasively, and well is a standout asset unlike any other.",
+        "hi": "वाणी की कुशलता (मधुर और प्रभावशाली वचन) रूपी जो गुण है, वह सबसे श्रेष्ठ सम्पत्ति है; अन्य कोई भी गुण या धन उसकी बराबरी नहीं कर सकता।"
+      }
+    },
+    {
+      "num": 642,
+      "line1": "ஆக்கமுங் கேடு மதனால் வருதலாற்",
+      "line2": "காத்தோம்பல் சொல்லின்கட் சோர்வு.",
+      "enLine1": "Since gain and loss in life on speech depend,",
+      "enLine2": "From careless slip in speech thyself defend.",
+      "hiLine1": "हानि-लाभ सब वचन से, आते हैं इस ठौर ।",
+      "hiLine2": "सावधान वाणी रखो, चूक न हो कुछ और ॥",
+      "general": "நன்மையும் தீமையும் ஒருவன் பேசும் சொல்லாலேயே வருவதால், சொல்லுகின்ற சொல்லில் சோர்வு ஏற்படாமல் தன்னைக் காத்துக்கொள்ள வேண்டும்.",
+      "en": "Because both prosperity and ruin come from one's own words, guard carefully against any slip of the tongue.",
+      "hi": "क्योंकि जीवन में लाभ और हानि सब वाणी के ही कारण होते हैं, इसलिए अपनी वाणी में किसी भी प्रकार की असावधानी या चूक से स्वयं को बचाए रखो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஆக்கமும் <br>(Aakkamum)",
+          "ta": "நன்மையும்",
+          "en": "Gain",
+          "hi": "लाभ"
+        },
+        {
+          "no": 2,
+          "word": "கேடும் <br>(Kedum)",
+          "ta": "தீமையும்",
+          "en": "And loss",
+          "hi": "हानि"
+        },
+        {
+          "no": 3,
+          "word": "அதனால் <br>(Adhanaal)",
+          "ta": "சொல்லால்",
+          "en": "On speech",
+          "hi": "वचन से"
+        },
+        {
+          "no": 4,
+          "word": "வருதலால் <br>(Varudhalaal)",
+          "ta": "வருவதால்",
+          "en": "Depend",
+          "hi": "आते हैं"
+        },
+        {
+          "no": 5,
+          "word": "காத்து ஓம்பல் <br>(Kaaththu ombal)",
+          "ta": "விழிப்போடு காக்க",
+          "en": "Thyself defend",
+          "hi": "सावधान रखो"
+        },
+        {
+          "no": 6,
+          "word": "சொல்லின்கண் <br>(Sollinkan)",
+          "ta": "சொல்லில்",
+          "en": "In speech",
+          "hi": "वाणी"
+        },
+        {
+          "no": 7,
+          "word": "சோர்வு <br>(Sorvu)",
+          "ta": "சோர்வு / தவறு",
+          "en": "Careless slip",
+          "hi": "चूक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஆக்கமுங் கேடு மதனால் வருதலாற்",
+          "line2": "காத்தோம்பல் சொல்லின்கட் சோர்வு."
+        },
+        "en": {
+          "line1": "Since gain and loss in life on speech depend,",
+          "line2": "From careless slip in speech thyself defend."
+        },
+        "hi": {
+          "line1": "हानि-लाभ सब वचन से, आते हैं इस ठौर ।",
+          "line2": "सावधान वाणी रखो, चूक न हो कुछ और ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aakkamung Kedu Madhanaal Varudhalaar",
+            "line2": "Kaaththombal Sollinkat Sorvu."
+          },
+          "hi": {
+            "line1": "आक्कमुङ् केडु मदनाल् वरुदलार्",
+            "line2": "कात्तोम्बल् सॊल्लिन्कड् सोर्वु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நன்மையும் தீமையும் ஒருவன் பேசும் சொல்லாலேயே வருவதால், சொல்லுகின்ற சொல்லில் சோர்வு ஏற்படாமல் தன்னைக் காத்துக்கொள்ள வேண்டும்.",
+        "en": "Words can build or wreck your fortunes—stay alert so you never let a careless remark slip out.",
+        "hi": "क्योंकि जीवन में लाभ और हानि सब वाणी के ही कारण होते हैं, इसलिए अपनी वाणी में किसी भी प्रकार की असावधानी या चूक से स्वयं को बचाए रखो।"
+      }
+    },
+    {
+      "num": 643,
+      "line1": "கேட்டார்ப் பிணிக்குந் தகையவாய்க் கேளாரும்",
+      "line2": "வேட்ப மொழிவதாஞ் சொல்.",
+      "enLine1": "'Tis speech that spell-bound holds the listening ear,",
+      "enLine2": "While those who have not heard desire to hear.",
+      "hiLine1": "श्रोता को जो बाँध ले, और अश्रुत भी चाह ।",
+      "hiLine2": "सुनने को उत्सुक बनें, सच्चा वचन अथाह ॥",
+      "general": "கேட்டவர்களைத் தன் வயப்படுத்திப் பிணிக்கும் தன்மையுடையதாய், கேளாதவர்களும் கேட்க விரும்புமாறு பேசப்படுவதே சிறந்த சொல்லாகும்.",
+      "en": "True eloquence is speech that captivates those who listen and makes even those who have not heard it eager to hear.",
+      "hi": "जो वाणी सुनने वालों को अपने वश में बाँध ले और जिसे न सुनने वाले भी सुनने की इच्छा करें, वही सच्चा और प्रभावशाली वचन है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கேட்டார் <br>(Kettaar)",
+          "ta": "கேட்டவர்களை",
+          "en": "Listening ear",
+          "hi": "श्रोता को"
+        },
+        {
+          "no": 2,
+          "word": "பிணிக்கும் <br>(Pinikkum)",
+          "ta": "கட்டிப் போடும்",
+          "en": "Spell-bound holds",
+          "hi": "बाँध ले"
+        },
+        {
+          "no": 3,
+          "word": "தகையவாய் <br>(Thagaiyavaay)",
+          "ta": "தன்மை உடையதாய்",
+          "en": "Nature",
+          "hi": "जो"
+        },
+        {
+          "no": 4,
+          "word": "கேளாரும் <br>(Kelaarum)",
+          "ta": "கேட்காதவர்களும்",
+          "en": "Those who have not heard",
+          "hi": "अश्रुत भी"
+        },
+        {
+          "no": 5,
+          "word": "வேட்ப <br>(Vetpa)",
+          "ta": "விரும்பும்படி",
+          "en": "Desire to hear",
+          "hi": "सुनने को उत्सुक बनें"
+        },
+        {
+          "no": 6,
+          "word": "மொழிவதாம் <br>(Mozhivadhaam)",
+          "ta": "பேசப்படுவது",
+          "en": "Spoken",
+          "hi": "वचन"
+        },
+        {
+          "no": 7,
+          "word": "சொல் <br>(Sol)",
+          "ta": "சிறந்த சொல்லாகும்",
+          "en": "Speech",
+          "hi": "सच्चा वचन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கேட்டார்ப் பிணிக்குந் தகையவாய்க் கேளாரும்",
+          "line2": "வேட்ப மொழிவதாஞ் சொல்."
+        },
+        "en": {
+          "line1": "'Tis speech that spell-bound holds the listening ear,",
+          "line2": "While those who have not heard desire to hear."
+        },
+        "hi": {
+          "line1": "श्रोता को जो बाँध ले, और अश्रुत भी चाह ।",
+          "line2": "सुनने को उत्सुक बनें, सच्चा वचन अथाह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kettaarp Pinikkun Thagaiyavaay Kelaarum",
+            "line2": "Vetpa Mozhivadhaang Sol."
+          },
+          "hi": {
+            "line1": "केट्ठार्प् पिणिक्कुन् तगैयवाय्क् केळारुम्",
+            "line2": "वेट्प मॊऴिवदाञ् सॊल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கேட்டவர்களைத் தன் வயப்படுத்திப் பிணிக்கும் தன்மையுடையதாய், கேளாதவர்களும் கேட்க விரும்புமாறு பேசப்படுவதே சிறந்த சொல்லாகும்.",
+        "en": "Great speech holds the room in its grip and leaves people who weren't there wishing they had heard it.",
+        "hi": "जो वाणी सुनने वालों को अपने वश में बाँध ले और जिसे न सुनने वाले भी सुनने की इच्छा करें, वही सच्चा और प्रभावशाली वचन है।"
+      }
+    },
+    {
+      "num": 644,
+      "line1": "திறனறிந்து சொல்லுக சொல்லை அறனும்",
+      "line2": "பொருளும் அதனினூஉங்கு இல்.",
+      "enLine1": "Speak words adapted well to various hearers' state;",
+      "enLine2": "No higher virtue lives, no gain more surely great.",
+      "hiLine1": "श्रोता की क्षमता समझ, बोलो उचित सुबात ।",
+      "hiLine2": "उससे बढ़कर धर्म नहिं, लाभ न दूजा ज्ञात ॥",
+      "general": "கேட்பவரின் தகுதியும் இடமும் அறிந்து சொல்லைச் சொல்ல வேண்டும்; அதைவிடச் சிறந்த அறமும் பொருளும் வேறு இல்லை.",
+      "en": "Speak your words knowing the capacity of your audience and occasion; there is no greater virtue or wealth than that.",
+      "hi": "सुनने वालों की योग्यता और समय की परिस्थिति को समझकर ही उचित बात बोलनी चाहिए; उससे बढ़कर न कोई धर्म है और न कोई लाभ।",
+      "words": [
+        {
+          "no": 1,
+          "word": "திறன் அறிந்து <br>(Thiran arindhu)",
+          "ta": "கேட்பவர் திறன் அறிந்து",
+          "en": "Adapted to hearers' state",
+          "hi": "श्रोता की क्षमता समझ"
+        },
+        {
+          "no": 2,
+          "word": "சொல்லுக <br>(Solluga)",
+          "ta": "சொல்ல வேண்டும்",
+          "en": "Speak",
+          "hi": "बोलो"
+        },
+        {
+          "no": 3,
+          "word": "சொல்லை <br>(Sollai)",
+          "ta": "சொல்லை",
+          "en": "Words",
+          "hi": "उचित सुबात"
+        },
+        {
+          "no": 4,
+          "word": "அறனும் <br>(Aranum)",
+          "ta": "அறமும்",
+          "en": "Virtue",
+          "hi": "धर्म"
+        },
+        {
+          "no": 5,
+          "word": "பொருளும் <br>(Porulum)",
+          "ta": "பொருளும்",
+          "en": "Gain",
+          "hi": "लाभ"
+        },
+        {
+          "no": 6,
+          "word": "அதனின் ஊங்கு <br>(Adhanin oongu)",
+          "ta": "அதை விட உயர்ந்தது",
+          "en": "Higher than that",
+          "hi": "उससे बढ़कर"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "No",
+          "hi": "नहिं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "திறனறிந்து சொல்லுக சொல்லை அறனும்",
+          "line2": "பொருளும் அதனினூஉங்கு இல்."
+        },
+        "en": {
+          "line1": "Speak words adapted well to various hearers' state;",
+          "line2": "No higher virtue lives, no gain more surely great."
+        },
+        "hi": {
+          "line1": "श्रोता की क्षमता समझ, बोलो उचित सुबात ।",
+          "line2": "उससे बढ़कर धर्म नहिं, लाभ न दूजा ज्ञात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thiranarindhu Solluga Sollai Aranum",
+            "line2": "Porulum Adhaninooongu Il."
+          },
+          "hi": {
+            "line1": "तिऱनऱिन्दु सॊल्लुग सॊल्लै अऱनुम्",
+            "line2": "पॊरुळुम् अदनिनूउङ्गु इल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கேட்பவரின் தகுதியும் இடமும் அறிந்து சொல்லைச் சொல்ல வேண்டும்; அதைவிடச் சிறந்த அறமும் பொருளும் வேறு இல்லை.",
+        "en": "Tailor your message to your audience and moment—nothing brings greater good or value.",
+        "hi": "सुनने वालों की योग्यता और समय की परिस्थिति को समझकर ही उचित बात बोलनी चाहिए; उससे बढ़कर न कोई धर्म है और न कोई लाभ।"
+      }
+    },
+    {
+      "num": 645,
+      "line1": "சொல்லுக சொல்லைப் பிறிதோர்சொ லச்சொல்லை",
+      "line2": "வெல்லுஞ் சொலின்மை யறிந்து.",
+      "enLine1": "Speak out your speech, when once 'tis past dispute",
+      "enLine2": "That none can utter speech that shall your speech refute.",
+      "hiLine1": "बोलो ऐसा वचन तुम, जिसे न काटे कोय ।",
+      "hiLine2": "पूरी तरह परख कर, श्रेष्ठ वचन ही होय ॥",
+      "general": "தாம் சொல்லும் சொல்லை வேறு ஒரு சொல் வெல்ல முடியாது என்பதை உறுதி செய்து கொண்ட பிறகே அந்தச் சொல்லைச் சொல்ல வேண்டும்.",
+      "en": "Deliver your words only after making sure that no counter-argument can defeat what you say.",
+      "hi": "भली-भाँति परखकर कि कोई दूसरा वचन तुम्हारे वचन को काट (पराजित कर) नहीं सकता, तभी तुम अपना श्रेष्ठ वचन बोलो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சொல்லுக <br>(Solluga)",
+          "ta": "சொல்ல வேண்டும்",
+          "en": "Speak out",
+          "hi": "बोलो"
+        },
+        {
+          "no": 2,
+          "word": "சொல்லை <br>(Sollai)",
+          "ta": "சொல்லை",
+          "en": "Your speech",
+          "hi": "ऐसा वचन"
+        },
+        {
+          "no": 3,
+          "word": "பிறிதோர் சொல் <br>(Piridhor sol)",
+          "ta": "வேறொரு சொல்",
+          "en": "Counter speech",
+          "hi": "कोई"
+        },
+        {
+          "no": 4,
+          "word": "அச்சொல்லை <br>(Achchollai)",
+          "ta": "அந்தச் சொல்லை",
+          "en": "Your speech",
+          "hi": "जिसे"
+        },
+        {
+          "no": 5,
+          "word": "வெல்லும் சொல் <br>(Vellum sol)",
+          "ta": "வெல்லக்கூடிய சொல்",
+          "en": "Shall refute",
+          "hi": "काटे"
+        },
+        {
+          "no": 6,
+          "word": "இன்மை <br>(Inmai)",
+          "ta": "இல்லாதிருப்பதை",
+          "en": "Past dispute",
+          "hi": "न"
+        },
+        {
+          "no": 7,
+          "word": "அறிந்து <br>(Arindhu)",
+          "ta": "அறிந்த பின்பு",
+          "en": "Knowing",
+          "hi": "परख कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சொல்லுக சொல்லைப் பிறிதோர்சொ லச்சொல்லை",
+          "line2": "வெல்லுஞ் சொலின்மை யறிந்து."
+        },
+        "en": {
+          "line1": "Speak out your speech, when once 'tis past dispute",
+          "line2": "That none can utter speech that shall your speech refute."
+        },
+        "hi": {
+          "line1": "बोलो ऐसा वचन तुम, जिसे न काटे कोय ।",
+          "line2": "पूरी तरह परख कर, श्रेष्ठ वचन ही होय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Solluga Sollaip Piridhorsol Achchollai",
+            "line2": "Vellunj Solinmai Yarindhu."
+          },
+          "hi": {
+            "line1": "सॊल्लुग सॊल्लैप् पिरिदोर्सॊ लच्चॊल्लै",
+            "line2": "वॆल्लुञ् सॊलिन्मै यऱिन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தாம் சொல்லும் சொல்லை வேறு ஒரு சொல் வெல்ல முடியாது என்பதை உறுதி செய்து கொண்ட பிறகே அந்தச் சொல்லைச் சொல்ல வேண்டும்.",
+        "en": "Before you make your case, test it first—speak only when you know no counterargument can knock it down.",
+        "hi": "भली-भाँति परखकर कि कोई दूसरा वचन तुम्हारे वचन को काट (पराजित कर) नहीं सकता, तभी तुम अपना श्रेष्ठ वचन बोलो।"
+      }
+    },
+    {
+      "num": 646,
+      "line1": "வேட்பத்தாஞ் சொல்லிப் பிறர்சொற் பயன்கோடன்",
+      "line2": "மாட்சியின் மாசற்றார் கோள்.",
+      "enLine1": "Charming each hearer's ear, of others' words to seize the sense,",
+      "enLine2": "Is method wise of men of spotless excellence.",
+      "hiLine1": "प्रिय वाणी से मन हरें, पर-मत सार निहार ।",
+      "hiLine2": "निर्दोषी बुध-जन सदा, करते यही विचार ॥",
+      "general": "பிறர் விரும்புமாறு தாம் இனிதாகப் பேசி, பிறர் சொல்லும் சொல்லின் பயனையும் ஏற்றுக்கொள்ளுதலே குற்றமற்ற அறிஞரின் கொள்கையாகும்.",
+      "en": "To speak so as to delight listeners and to grasp the useful essence of what others say is the way of spotless, wise people.",
+      "hi": "अपनी प्रिय वाणी से श्रोताओं का मन हर लेना और दूसरों की बात का भी सार (उपयोगी अंश) ग्रहण कर लेना — यही निर्दोष और बुद्धिमान जनों की रीति है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வேட்ப <br>(Vetpa)",
+          "ta": "கேட்பவர் விரும்ப",
+          "en": "Charming each ear",
+          "hi": "मन हरें"
+        },
+        {
+          "no": 2,
+          "word": "தாம் சொல்லி <br>(Thaam solli)",
+          "ta": "தாம் சொல்லி",
+          "en": "Speaking",
+          "hi": "प्रिय वाणी से"
+        },
+        {
+          "no": 3,
+          "word": "பிறர் சொல் <br>(Pirar sol)",
+          "ta": "பிறர் சொல்லின்",
+          "en": "Others' words",
+          "hi": "पर-मत"
+        },
+        {
+          "no": 4,
+          "word": "பயன் கோடல் <br>(Payan kodal)",
+          "ta": "பயனை ஏற்றுக்கொள்ளுதல்",
+          "en": "Seize the sense",
+          "hi": "सार निहार"
+        },
+        {
+          "no": 5,
+          "word": "மாட்சியின் <br>(Maatchiyin)",
+          "ta": "மாட்சிமையுடைய",
+          "en": "Excellence",
+          "hi": "बुध-जन"
+        },
+        {
+          "no": 6,
+          "word": "மாசற்றார் <br>(Maasatraar)",
+          "ta": "குற்றமற்றவரின்",
+          "en": "Spotless",
+          "hi": "निर्दोषी"
+        },
+        {
+          "no": 7,
+          "word": "கோள் <br>(Kol)",
+          "ta": "கொள்கை ஆகும்",
+          "en": "Method wise",
+          "hi": "करते यही विचार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வேட்பத்தாஞ் சொல்லிப் பிறர்சொற் பயன்கோடன்",
+          "line2": "மாட்சியின் மாசற்றார் கோள்."
+        },
+        "en": {
+          "line1": "Charming each hearer's ear, of others' words to seize the sense,",
+          "line2": "Is method wise of men of spotless excellence."
+        },
+        "hi": {
+          "line1": "प्रिय वाणी से मन हरें, पर-मत सार निहार ।",
+          "line2": "निर्दोषी बुध-जन सदा, करते यही विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vetpaththaanj Sollip Pirarsor Payankodan",
+            "line2": "Maatchiyin Maasatraar Kol."
+          },
+          "hi": {
+            "line1": "वेट्पत्ताञ् सॊल्लिप् पिरर्सॊर् पयन्कोडन्",
+            "line2": "माट्चियिन् मासत्रार् कोळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறர் விரும்புமாறு தாம் இனிதாகப் பேசி, பிறர் சொல்லும் சொல்லின் பயனையும் ஏற்றுக்கொள்ளுதலே குற்றமற்ற அறிஞரின் கொள்கையாகும்.",
+        "en": "Speak persuasively when it's your turn, and extract the best insight from what others say—that is true wisdom.",
+        "hi": "अपनी प्रिय वाणी से श्रोताओं का मन हर लेना और दूसरों की बात का भी सार (उपयोगी अंश) ग्रहण कर लेना — यही निर्दोष और बुद्धिमान जनों की रीति है।"
+      }
+    },
+    {
+      "num": 647,
+      "line1": "சொலல்வல்லன் சோர்வில னஞ்சா னவனை",
+      "line2": "இகல்வெல்லல் யார்க்கு மரிது.",
+      "enLine1": "Mighty in word, of unforgetful mind, of fearless speech,",
+      "enLine2": "'Tis hard for hostile power such man to overreach.",
+      "hiLine1": "वाक्पटु, सावधान औ', निर्भय वक्ता धीर ।",
+      "hiLine2": "उसको जीते वाद में, ऐसा कौन सुवीर ॥",
+      "general": "சொல்வதில் வல்லவனாய், மறதியும் சோர்வும் இல்லாதவனாய், அஞ்சாதவனாய் இருப்பவனை வாதத்தில் வெல்வது எவருக்கும் அரிதாகும்.",
+      "en": "It is hard for anyone to defeat in debate a speaker who is eloquent, alert without lapse, and fearless.",
+      "hi": "जो वक्ता बोलने में निपुण (वाक्पटु), सावधान (अप्रमादी) और निर्भय हो, उसे वाद-विवाद में कोई भी पराजित नहीं कर सकता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சொலல் வல்லன் <br>(Solal vallan)",
+          "ta": "சொல்லும் திறமையுடையவன்",
+          "en": "Mighty in word",
+          "hi": "वाक्पटु"
+        },
+        {
+          "no": 2,
+          "word": "சோர்வு இலன் <br>(Sorvu ilan)",
+          "ta": "சோர்வும் மறதியும் இல்லாதவன்",
+          "en": "Unforgetful mind",
+          "hi": "सावधान"
+        },
+        {
+          "no": 3,
+          "word": "அஞ்சான் <br>(Anjaan)",
+          "ta": "அச்சமற்றவன்",
+          "en": "Fearless speech",
+          "hi": "निर्भय वक्ता धीर"
+        },
+        {
+          "no": 4,
+          "word": "அவனை <br>(Avanai)",
+          "ta": "அத்தகையவனை",
+          "en": "Such man",
+          "hi": "उसको"
+        },
+        {
+          "no": 5,
+          "word": "இகல் வெல்லல் <br>(Igal vellal)",
+          "ta": "மாறுபட்டு வெல்வது",
+          "en": "To overreach",
+          "hi": "जीते वाद में"
+        },
+        {
+          "no": 6,
+          "word": "யார்க்கும் <br>(Yaarkkum)",
+          "ta": "எவருக்கும்",
+          "en": "For hostile power",
+          "hi": "कौन सुवीर"
+        },
+        {
+          "no": 7,
+          "word": "அரிது <br>(Aridhu)",
+          "ta": "அரிதாகும்",
+          "en": "'Tis hard",
+          "hi": "नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சொலல்வல்லன் சோர்வில னஞ்சா னவனை",
+          "line2": "இகல்வெல்லல் யார்க்கு மரிது."
+        },
+        "en": {
+          "line1": "Mighty in word, of unforgetful mind, of fearless speech,",
+          "line2": "'Tis hard for hostile power such man to overreach."
+        },
+        "hi": {
+          "line1": "वाक्पटु, सावधान औ', निर्भय वक्ता धीर ।",
+          "line2": "उसको जीते वाद में, ऐसा कौन सुवीर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Solalvallan Sorvila Nanjaa Navanai",
+            "line2": "Igalvellal Yaarkku Maridhu."
+          },
+          "hi": {
+            "line1": "सॊलल्वल्लन् सोर्विल नञ्जा नवनै",
+            "line2": "इगल्वॆल्लल् यार्क्कु मरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சொல்வதில் வல்லவனாய், மறதியும் சோர்வும் இல்லாதவனாய், அஞ்சாதவனாய் இருப்பவனை வாதத்தில் வெல்வது எவருக்கும் அரிதாகும்.",
+        "en": "An articulate, sharp-minded, and fearless communicator is nearly impossible to out-argue.",
+        "hi": "जो वक्ता बोलने में निपुण (वाक्पटु), सावधान (अप्रमादी) और निर्भय हो, उसे वाद-विवाद में कोई भी पराजित नहीं कर सकता।"
+      }
+    },
+    {
+      "num": 648,
+      "line1": "விரைந்து தொழில்கேட்கும் ஞாலம் நிரந்தினிது",
+      "line2": "சொல்லுதல் வல்லார்ப் பெறின்.",
+      "enLine1": "Swiftly the listening world will gather round,",
+      "enLine2": "When men of mighty speech the weighty theme propound.",
+      "hiLine1": "तुरंत आज्ञा मानता, सारा जग हो लीन ।",
+      "hiLine2": "क्रम से मधुर बखान यदि, करें सुवक्ता प्रवीण ॥",
+      "general": "பொருள்களை வரிசைப்படுத்தி இனிமையாகச் சொல்ல வல்லவர்களைப் பெற்றால், உலகம் விரைந்து அவருடைய ஏவலைக் கேட்டு நடக்கும்.",
+      "en": "The world will eagerly heed and follow if it finds speakers who can present ideas in clear order and pleasant words.",
+      "hi": "यदि क्रमबद्ध रूप से मधुर और स्पष्ट वर्णन करने वाले प्रवीण वक्ता मिल जाएँ, तो सारा संसार शीघ्र ही उनकी बात मानने लगता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "விரைந்து <br>(Viraindhu)",
+          "ta": "விரைவாக",
+          "en": "Swiftly",
+          "hi": "तुरंत"
+        },
+        {
+          "no": 2,
+          "word": "தொழில் கேட்கும் <br>(Thozhil ketkum)",
+          "ta": "சொல்படி கேட்டு நடக்கும்",
+          "en": "Listening gather round",
+          "hi": "आज्ञा मानता"
+        },
+        {
+          "no": 3,
+          "word": "ஞாலம் <br>(Nyaalam)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "सारा जग"
+        },
+        {
+          "no": 4,
+          "word": "நிரந்து <br>(Nirandhu)",
+          "ta": "வரிசைப்படுத்தி",
+          "en": "Weighty theme",
+          "hi": "क्रम से"
+        },
+        {
+          "no": 5,
+          "word": "இனிது சொல்லுதல் <br>(Inidhu solludhal)",
+          "ta": "இனிமையாகச் சொல்லுதல்",
+          "en": "Mighty speech propound",
+          "hi": "मधुर बखान"
+        },
+        {
+          "no": 6,
+          "word": "வல்லார்ப் <br>(Vallaarp)",
+          "ta": "வல்லவரைப்",
+          "en": "Men of",
+          "hi": "सुवक्ता प्रवीण"
+        },
+        {
+          "no": 7,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "பெற்றால்",
+          "en": "When found",
+          "hi": "यदि करें"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விரைந்து தொழில்கேட்கும் ஞாலம் நிரந்தினிது",
+          "line2": "சொல்லுதல் வல்லார்ப் பெறின்."
+        },
+        "en": {
+          "line1": "Swiftly the listening world will gather round,",
+          "line2": "When men of mighty speech the weighty theme propound."
+        },
+        "hi": {
+          "line1": "तुरंत आज्ञा मानता, सारा जग हो लीन ।",
+          "line2": "क्रम से मधुर बखान यदि, करें सुवक्ता प्रवीण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Viraindhu Thozhilketkum Nyaalam Nirandhinidhu",
+            "line2": "Solludhal Vallaarp Perin."
+          },
+          "hi": {
+            "line1": "विरैन्दु तॊऴिल्केट्कुम् ञालम् निरन्दिनिदु",
+            "line2": "सॊल्लुदल् वल्लार्प् पॆरिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொருள்களை வரிசைப்படுத்தி இனிமையாகச் சொல்ல வல்லவர்களைப் பெற்றால், உலகம் விரைந்து அவருடைய ஏவலைக் கேட்டு நடக்கும்.",
+        "en": "People rally quickly behind leaders who can lay out ideas in clear, logical order with warmth.",
+        "hi": "यदि क्रमबद्ध रूप से मधुर और स्पष्ट वर्णन करने वाले प्रवीण वक्ता मिल जाएँ, तो सारा संसार शीघ्र ही उनकी बात मानने लगता है।"
+      }
+    },
+    {
+      "num": 649,
+      "line1": "பலசொல்லக் காமுறுவர் மன்ற மாசற்ற",
+      "line2": "சிலசொல்ல றேற்றா தவர்.",
+      "enLine1": "Who have not skill ten faultless words to utter plain,",
+      "enLine2": "Their tongues will itch with thousand words men's ears to pain.",
+      "hiLine1": "निर्मल थोड़े वचन जो, कह सकते न सुजान ।",
+      "hiLine2": "व्यर्थ बहुत बकते वही, करते कान पिड़ान ॥",
+      "general": "குற்றமற்ற சில சொற்களால் கருத்தைத் தெளிவாகச் சொல்லத் தெரியாதவர்கள், நிச்சயமாகப் பல சொற்களைப் பேசவே விரும்புவார்கள்.",
+      "en": "Those who lack the skill to express themselves clearly in a few faultless words are always eager to ramble on with many.",
+      "hi": "जो लोग निर्मल (दोषरहित) और संक्षिप्त वचन बोलना नहीं जानते, वे ही निश्चय ही व्यर्थ में बहुत अधिक बोलकर लोगों के कान पकाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பல சொல்ல <br>(Pala solla)",
+          "ta": "பல சொற்களைப் பேச",
+          "en": "Thousand words",
+          "hi": "व्यर्थ बहुत बकते"
+        },
+        {
+          "no": 2,
+          "word": "காமுறுவர் <br>(Kaamuruvar)",
+          "ta": "விரும்புவார்கள்",
+          "en": "Tongues will itch",
+          "hi": "करते कान पिड़ान"
+        },
+        {
+          "no": 3,
+          "word": "மன்ற <br>(Mandra)",
+          "ta": "நிச்சயமாக",
+          "en": "Certainly",
+          "hi": "वही"
+        },
+        {
+          "no": 4,
+          "word": "மாசற்ற <br>(Maasatra)",
+          "ta": "குற்றமற்ற",
+          "en": "Faultless",
+          "hi": "निर्मल"
+        },
+        {
+          "no": 5,
+          "word": "சில சொல்லல் <br>(Sila sollal)",
+          "ta": "சில சொற்களைச் சொல்ல",
+          "en": "Ten words to utter plain",
+          "hi": "थोड़े वचन"
+        },
+        {
+          "no": 6,
+          "word": "தேற்றாதவர் <br>(Thetraadhavar)",
+          "ta": "தெரியாதவர்கள்",
+          "en": "Have not skill",
+          "hi": "कह सकते न सुजान"
+        },
+        {
+          "no": 7,
+          "word": "சில <br>(Sila)",
+          "ta": "சில",
+          "en": "Few",
+          "hi": "थोड़े"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பலசொல்லக் காமுறுவர் மன்ற மாசற்ற",
+          "line2": "சிலசொல்ல றேற்றா தவர்."
+        },
+        "en": {
+          "line1": "Who have not skill ten faultless words to utter plain,",
+          "line2": "Their tongues will itch with thousand words men's ears to pain."
+        },
+        "hi": {
+          "line1": "निर्मल थोड़े वचन जो, कह सकते न सुजान ।",
+          "line2": "व्यर्थ बहुत बकते वही, करते कान पिड़ान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Palasollak Kaamuruvar Mandra Maasatra",
+            "line2": "Silasolla Retraa Dhavar."
+          },
+          "hi": {
+            "line1": "पलसॊल्लक् कामुरुवर् मन्द्र मासत्र",
+            "line2": "सिलसॊल्ल रेत्रा तवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குற்றமற்ற சில சொற்களால் கருத்தைத் தெளிவாகச் சொல்லத் தெரியாதவர்கள், நிச்சயமாகப் பல சொற்களைப் பேசவே விரும்புவார்கள்.",
+        "en": "People who can't make their point crisply in a few clean words usually end up talking endlessly.",
+        "hi": "जो लोग निर्मल (दोषरहित) और संक्षिप्त वचन बोलना नहीं जानते, वे ही निश्चय ही व्यर्थ में बहुत अधिक बोलकर लोगों के कान पकाते हैं।"
+      }
+    },
+    {
+      "num": 650,
+      "line1": "இணரூழ்த்து நாறா மலரனையர் கற்ற",
+      "line2": "துணர விரித்துரையா தார்.",
+      "enLine1": "Like scentless flower in blooming garland bound",
+      "enLine2": "Are men who can't their lore acquired to others' ears expound.",
+      "hiLine1": "गुच्छों में खिल कर भी जो, गंधहीन हो फूल ।",
+      "hiLine2": "पढ़ कर समझा न सके, वह जन उसके तूल ॥",
+      "general": "தாம் கற்றவற்றைப் பிறர் உணர்ந்து கொள்ளுமாறு விரித்து எடுத்துச் சொல்லத் தெரியாதவர்கள், கொத்தாக மலர்ந்தும் மணமில்லாத பூவைப் போன்றவர்கள் ஆவர்.",
+      "en": "Those who cannot clearly explain to others what they have learned are like blossoms clustered on a branch that give off no fragrance.",
+      "hi": "जो व्यक्ति अपने पढ़े हुए ज्ञान को दूसरों को भली-भाँति समझाकर नहीं कह सकता, वह गुच्छों में खिलकर भी गन्धहीन फूल के समान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இணர் ஊழ்த்து <br>(Inar oozhththu)",
+          "ta": "கொத்தாக மலர்ந்தும்",
+          "en": "In blooming garland",
+          "hi": "गुच्छों में खिल कर भी"
+        },
+        {
+          "no": 2,
+          "word": "நாறா <br>(Naaraa)",
+          "ta": "மணம் வீசாத",
+          "en": "Scentless",
+          "hi": "गंधहीन हो"
+        },
+        {
+          "no": 3,
+          "word": "மலர் அனையர் <br>(Malar anaiyar)",
+          "ta": "மலர் போன்றவர்",
+          "en": "Like flower",
+          "hi": "फूल उसके तूल"
+        },
+        {
+          "no": 4,
+          "word": "கற்றது <br>(Katradhu)",
+          "ta": "தாம் கற்றதை",
+          "en": "Lore acquired",
+          "hi": "पढ़ कर"
+        },
+        {
+          "no": 5,
+          "word": "உணர <br>(Unara)",
+          "ta": "பிறர் உணருமாறு",
+          "en": "To others' ears",
+          "hi": "समझा"
+        },
+        {
+          "no": 6,
+          "word": "விரித்து உரையாதார் <br>(Viriththu uraiyaadhaar)",
+          "ta": "விரித்துச் சொல்லாதார்",
+          "en": "Can't expound",
+          "hi": "न सके कह"
+        },
+        {
+          "no": 7,
+          "word": "மலர் <br>(Malar)",
+          "ta": "மலர்",
+          "en": "Flower",
+          "hi": "फूल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இணரூழ்த்து நாறா மலரனையர் கற்ற",
+          "line2": "துணர விரித்துரையா தார்."
+        },
+        "en": {
+          "line1": "Like scentless flower in blooming garland bound",
+          "line2": "Are men who can't their lore acquired to others' ears expound."
+        },
+        "hi": {
+          "line1": "गुच्छों में खिल कर भी जो, गंधहीन हो फूल ।",
+          "line2": "पढ़ कर समझा न सके, वह जन उसके तूल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inaroozhththu Naaraa Malaranaiyar Katra",
+            "line2": "Dhunara Viriththuraiyaa Dhaar."
+          },
+          "hi": {
+            "line1": "इणरूऴ्त्तु नारा मलरनैयर् कत्र",
+            "line2": "तुणर विरित्तुरैया दार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தாம் கற்றவற்றைப் பிறர் உணர்ந்து கொள்ளுமாறு விரித்து எடுத்துச் சொல்லத் தெரியாதவர்கள், கொத்தாக மலர்ந்தும் மணமில்லாத பூவைப் போன்றவர்கள் ஆவர்.",
+        "en": "Knowledge you can't communicate clearly is like a bright bouquet with no scent—it looks impressive but leaves no impact.",
+        "hi": "जो व्यक्ति अपने पढ़े हुए ज्ञान को दूसरों को भली-भाँति समझाकर नहीं कह सकता, वह गुच्छों में खिलकर भी गन्धहीन फूल के समान है।"
+      }
+    }
+  ]
+}

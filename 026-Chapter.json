@@ -1,0 +1,930 @@
+{
+  "chapterNum": 26,
+  "nameTa": "புலான்மறுத்தல்",
+  "nameEn": "The Renunciation of Flesh",
+  "nameHi": "माँस-वर्जन",
+  "paal": "அறத்துப்பால்",
+  "iyal": "துறவறவியல்",
+  "kurals": [
+    {
+      "num": 251,
+      "line1": "தன்னூன் பெருக்கற்குத் தான்பிறிது ஊனுண்பான்",
+      "line2": "எங்ஙனம் ஆளும் அருள்.",
+      "enLine1": "How can the wont of 'kindly grace' to him be known,",
+      "enLine2": "Who other creatures' flesh consumes to feed his own ?",
+      "hiLine1": "माँस-वृद्धि अपनी समझ, जो खाता पर माँस ।",
+      "hiLine2": "कैसे दयार्दृता-सुगुण, रहता उसके पास ॥",
+      "general": "தன் உடம்பின் சதையைப் பெருக்குவதற்காக மற்றொரு உயிரின் சதையைத் தின்பவன், எவ்வாறு அருள் உள்ளவனாக இருக்க முடியும்?",
+      "en": "How can he practice true benevolence who eats the flesh of other creatures in order to increase his own flesh?",
+      "hi": "जो व्यक्ति अपने शरीर के माँस की वृद्धि के लिए दूसरे जीव का माँस खाता है, उसके पास भला दयालुता जैसा सद्गुण कैसे रह सकता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "தன்னூன் <br>(Thannoon)",
+          "ta": "தனது உடலின் சதையை",
+          "en": "His own flesh",
+          "hi": "अपना माँस"
+        },
+        {
+          "no": 2,
+          "word": "பெருக்கற்குத் <br>(Perukkarkuth)",
+          "ta": "பெருக்குவதற்கு",
+          "en": "To feed / increase",
+          "hi": "बढ़ाने के लिए"
+        },
+        {
+          "no": 3,
+          "word": "தான்பிறிது <br>(Thaanpiridhu)",
+          "ta": "தான் மற்றொரு உயிரின்",
+          "en": "Other creatures'",
+          "hi": "दूसरे जीव का"
+        },
+        {
+          "no": 4,
+          "word": "ஊனுண்பான் <br>(Oonunbaan)",
+          "ta": "ஊனை உண்பவன்",
+          "en": "Who consumes flesh",
+          "hi": "माँस खाने वाला"
+        },
+        {
+          "no": 5,
+          "word": "எங்ஙனம் <br>(Engnganam)",
+          "ta": "எவ்வாறு",
+          "en": "How can",
+          "hi": "कैसे"
+        },
+        {
+          "no": 6,
+          "word": "ஆளும் <br>(Aalum)",
+          "ta": "மேற்கொள்வான்",
+          "en": "Practice / know",
+          "hi": "उसके पास रहेगा"
+        },
+        {
+          "no": 7,
+          "word": "அருள் <br>(Arul)",
+          "ta": "அருளை",
+          "en": "Kindly grace",
+          "hi": "दयार्द्रता-सद्गुण"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தன்னூன் பெருக்கற்குத் தான்பிறிது ஊனுண்பான்",
+          "line2": "எங்ஙனம் ஆளும் அருள்."
+        },
+        "en": {
+          "line1": "How can the wont of 'kindly grace' to him be known,",
+          "line2": "Who other creatures' flesh consumes to feed his own ?"
+        },
+        "hi": {
+          "line1": "माँस-वृद्धि अपनी समझ, जो खाता पर माँस ।",
+          "line2": "कैसे दयार्दृता-सुगुण, रहता उसके पास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thannoon Perukkarkuth Thaanpiridhu Oonunbaan",
+            "line2": "Engnganam Aalum Arul."
+          },
+          "hi": {
+            "line1": "तन्नून् पॆरुक्कत्कुत् तान्पिरिदु ऊनुण्बान्",
+            "line2": "एङ्ङनम् आळुम् अरुळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன் உடம்பின் சதையைப் பெருக்குவதற்காக மற்றொரு உயிரின் சதையைத் தின்பவன், எவ்வாறு அருள் உள்ளவனாக இருக்க முடியும்?",
+        "en": "It is impossible to claim true compassion while nourishing your own body by consuming the flesh of other living beings.",
+        "hi": "जो व्यक्ति अपने शरीर के माँस की वृद्धि के लिए दूसरे जीव का माँस खाता है, उसके पास भला दयालुता जैसा सद्गुण कैसे रह सकता है?"
+      }
+    },
+    {
+      "num": 252,
+      "line1": "பொருளாட்சி போற்றாதார்க்கு இல்லை அருளாட்சி",
+      "line2": "ஆங்கில்லை ஊன்றின் பவர்க்கு.",
+      "enLine1": "No use of wealth have they who guard not their estate ;",
+      "enLine2": "No use of grace have they with flesh who hunger sate.",
+      "hiLine1": "धन का भोग उन्हें नहीं, जो न करेंगे क्षेम ।",
+      "hiLine2": "माँसाहारी को नहीं, दयालुता का नेम ॥",
+      "general": "பொருளைப் பாதுகாத்துப் போற்றாதவர்களுக்குப் பொருளாட்சி இல்லை; அதுபோலப் புலால் உண்பவர்களுக்கு அருளாட்சி இல்லை.",
+      "en": "Those who do not guard their wealth have no enjoyment of wealth; likewise, those who eat flesh have no possession of grace.",
+      "hi": "जो लोग अपने धन की रक्षा नहीं करते, उन्हें धन का भोग नहीं मिलता; उसी प्रकार माँसाहारी व्यक्ति में दयालुता का नियम नहीं रहता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொருளாட்சி <br>(Porulaatchi)",
+          "ta": "பொருளின் பயன்",
+          "en": "Use of wealth",
+          "hi": "धन का भोग"
+        },
+        {
+          "no": 2,
+          "word": "போற்றாதார்க்கு <br>(Potraadhaarkku)",
+          "ta": "பாதுகாக்காதவர்க்கு",
+          "en": "Who guard not",
+          "hi": "जो रक्षा न करें"
+        },
+        {
+          "no": 3,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "Have no",
+          "hi": "उन्हें नहीं"
+        },
+        {
+          "no": 4,
+          "word": "அருளாட்சி <br>(Arulaatchi)",
+          "ta": "அருளின் பயன்",
+          "en": "Use of grace",
+          "hi": "दयालुता का नेम"
+        },
+        {
+          "no": 5,
+          "word": "ஆங்கில்லை <br>(Aangillai)",
+          "ta": "அவ்வாறே இல்லை",
+          "en": "Likewise have no",
+          "hi": "नहीं है"
+        },
+        {
+          "no": 6,
+          "word": "ஊன்றின் <br>(Oondrin)",
+          "ta": "ஊன் தின்",
+          "en": "Flesh eating",
+          "hi": "माँसाहारी"
+        },
+        {
+          "no": 7,
+          "word": "பவர்க்கு <br>(Pavarkku)",
+          "ta": "பவர்களுக்கு",
+          "en": "To those who",
+          "hi": "व्यक्ति को"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொருளாட்சி போற்றாதார்க்கு இல்லை அருளாட்சி",
+          "line2": "ஆங்கில்லை ஊன்றின் பவர்க்கு."
+        },
+        "en": {
+          "line1": "No use of wealth have they who guard not their estate ;",
+          "line2": "No use of grace have they with flesh who hunger sate."
+        },
+        "hi": {
+          "line1": "धन का भोग उन्हें नहीं, जो न करेंगे क्षेम ।",
+          "line2": "माँसाहारी को नहीं, दयालुता का नेम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Porulaatchi Potraadhaarkku Illai Arulaatchi",
+            "line2": "Aangillai Oondrin Pavarkku."
+          },
+          "hi": {
+            "line1": "पॊरुळाच्चि पोत्रादार्क्कु इल्लै अरुळाच्चि",
+            "line2": "आंगिल्लै ऊन्द्रिन् पवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொருளைப் பாதுகாத்துப் போற்றாதவர்களுக்குப் பொருளாட்சி இல்லை; அதுபோலப் புலால் உண்பவர்களுக்கு அருளாட்சி இல்லை.",
+        "en": "Just as wealth slips away from those who neglect it, compassion cannot survive in those who feed on meat.",
+        "hi": "जो लोग अपने धन की रक्षा नहीं करते, उन्हें धन का भोग नहीं मिलता; उसी प्रकार माँसाहारी व्यक्ति में दयालुता का नियम नहीं रहता।"
+      }
+    },
+    {
+      "num": 253,
+      "line1": "படைகொண்டார் நெஞ்சம்போல் நன்றூக்கா தொன்றன்",
+      "line2": "உடல்சுவை உண்டார் மனம்.",
+      "enLine1": "Like heart of them that murderous weapons bear, his mind",
+      "enLine2": "Who eats of savoury meat, no joy in good can find.",
+      "hiLine1": "ज्यों सशस्त्र का मन कभी, होता नहीं दयाल ।",
+      "hiLine2": "रुच रुच खावे माँस जो, उसके मन का हाल ॥",
+      "general": "மற்றொரு உயிரின் உடலைச் சுவைத்து உண்டவரின் மனம், கொலைக்கருவி ஏந்தியவரின் நெஞ்சத்தைப் போல நன்மையின் பக்கம் திரும்பாது.",
+      "en": "The mind of one who relishes the flesh of another creature cannot turn toward goodness, just like the heart of one who wields a deadly weapon.",
+      "hi": "जिस प्रकार हथियार (शस्त्र) धारण करने वाले का मन कभी दयालु नहीं होता, वैसा ही हाल उस व्यक्ति के मन का होता है जो स्वाद ले-लेकर माँस खाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "படைகொண்டார் <br>(Padaikondaar)",
+          "ta": "கொலைக்கருவி ஏந்தியவரின்",
+          "en": "Who bear murderous weapons",
+          "hi": "सशस्त्र का"
+        },
+        {
+          "no": 2,
+          "word": "நெஞ்சம்போல் <br>(Nenjambol)",
+          "ta": "நெஞ்சத்தைப் போல",
+          "en": "Like the heart of",
+          "hi": "मन जैसा"
+        },
+        {
+          "no": 3,
+          "word": "நன்றூக்காது <br>(Nandrookkaadhu)",
+          "ta": "நன்மையை விரும்பாது",
+          "en": "Finds no joy in good",
+          "hi": "दयालु नहीं होता"
+        },
+        {
+          "no": 4,
+          "word": "ஒன்றன் <br>(Ondran)",
+          "ta": "மற்றொரு உயிரின்",
+          "en": "Of another",
+          "hi": "दूसरे जीव के"
+        },
+        {
+          "no": 5,
+          "word": "உடல்சுவை <br>(Udalsuvai)",
+          "ta": "உடலின் சுவையை",
+          "en": "Savoury meat",
+          "hi": "माँस का स्वाद"
+        },
+        {
+          "no": 6,
+          "word": "உண்டார் <br>(Undaar)",
+          "ta": "உண்டவரின்",
+          "en": "Who eats",
+          "hi": "रुचि से खाने वाले के"
+        },
+        {
+          "no": 7,
+          "word": "மனம் <br>(Manam)",
+          "ta": "மனம்",
+          "en": "Mind",
+          "hi": "मन का हाल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "படைகொண்டார் நெஞ்சம்போல் நன்றூக்கா தொன்றன்",
+          "line2": "உடல்சுவை உண்டார் மனம்."
+        },
+        "en": {
+          "line1": "Like heart of them that murderous weapons bear, his mind",
+          "line2": "Who eats of savoury meat, no joy in good can find."
+        },
+        "hi": {
+          "line1": "ज्यों सशस्त्र का मन कभी, होता नहीं दयाल ।",
+          "line2": "रुच रुच खावे माँस जो, उसके मन का हाल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Padaikondaar Nenjambol Nandrookkaadhu Ondran",
+            "line2": "Udalsuvai Undaar Manam."
+          },
+          "hi": {
+            "line1": "पडैकॊण्डार् नॆञ्जम्बोल् नन्द्रूक्का दॊन्द्रन्",
+            "line2": "उडल्सुवै उण्डार् मनम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மற்றொரு உயிரின் உடலைச் சுவைத்து உண்டவரின் மனம், கொலைக்கருவி ஏந்தியவரின் நெஞ்சத்தைப் போல நன்மையின் பக்கம் திரும்பாது.",
+        "en": "Just as someone carrying a weapon to kill grows hardened, a person who craves the taste of flesh becomes desensitized to kindness.",
+        "hi": "जिस प्रकार हथियार (शस्त्र) धारण करने वाले का मन कभी दयालु नहीं होता, वैसा ही हाल उस व्यक्ति के मन का होता है जो स्वाद ले-लेकर माँस खाता है।"
+      }
+    },
+    {
+      "num": 254,
+      "line1": "அருளல்ல தியாதெனில் கொல்லாமை கோறல்",
+      "line2": "பொருளல்ல தவ்வூன் தினல்.",
+      "enLine1": "'What's grace, or lack of grace'? 'To kill' is this, that 'not to kill' ;",
+      "enLine2": "To eat dead flesh can never worthy end fulfil.",
+      "hiLine1": "निर्दयता है जीववध, दया अहिंसा धर्म ।",
+      "hiLine2": "करना माँसाहार है, धर्म हीन दुष्कर्म ॥",
+      "general": "அருள் என்பது யாது? அருளல்லாதது யாது? என்றால், உயிர்களைக் கொல்லாமை அருள்; கொன்று அதன் ஊனைத் தின்பது அருளல்லாத தீய செயலாகும்.",
+      "en": "If asked what is grace and what is lack of grace: not killing is grace, killing is lack of grace; and eating that flesh is devoid of virtue.",
+      "hi": "जीवों का वध करना ही निर्दयता है और अहिंसा ही सच्चा दया-धर्म है; अतः माँसाहार करना धर्म से रहित एक दुष्कर्म है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அருளல்லது <br>(Arulalladhu)",
+          "ta": "அருள் அல்லாதது",
+          "en": "Lack of grace",
+          "hi": "निर्दयता"
+        },
+        {
+          "no": 2,
+          "word": "யாதெனில் <br>(Yaadhenil)",
+          "ta": "யாது என்றால்",
+          "en": "What is",
+          "hi": "क्या है"
+        },
+        {
+          "no": 3,
+          "word": "கொல்லாமை <br>(Kollaamai)",
+          "ta": "உயிர்களைக் கொல்லாமை",
+          "en": "Not to kill",
+          "hi": "अहिंसा धर्म"
+        },
+        {
+          "no": 4,
+          "word": "கோறல் <br>(Koral)",
+          "ta": "கொல்லுதல்",
+          "en": "To kill",
+          "hi": "जीववध"
+        },
+        {
+          "no": 5,
+          "word": "பொருளல்லது <br>(Porulalladhu)",
+          "ta": "அறத்திற்குப் பொருந்தாதது",
+          "en": "Never worthy end",
+          "hi": "धर्महीन दुष्कर्म"
+        },
+        {
+          "no": 6,
+          "word": "அவ்வூன் <br>(Avvoon)",
+          "ta": "அந்தப் புலாலை",
+          "en": "Dead flesh",
+          "hi": "माँस"
+        },
+        {
+          "no": 7,
+          "word": "தினல் <br>(Thinal)",
+          "ta": "தின்னுதல்",
+          "en": "Eating",
+          "hi": "खाना (माँसाहार)"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அருளல்ல தியாதெனில் கொல்லாமை கோறல்",
+          "line2": "பொருளல்ல தவ்வூன் தினல்."
+        },
+        "en": {
+          "line1": "'What's grace, or lack of grace'? 'To kill' is this, that 'not to kill' ;",
+          "line2": "To eat dead flesh can never worthy end fulfil."
+        },
+        "hi": {
+          "line1": "निर्दयता है जीववध, दया अहिंसा धर्म ।",
+          "line2": "करना माँसाहार है, धर्म हीन दुष्कर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arulalladhu Yaadhenil Kollaamai Koral",
+            "line2": "Porulalladhu Avvoon Thinal."
+          },
+          "hi": {
+            "line1": "अरुळल्ल दियादॆनिल् कॊल्लामै कोरल्",
+            "line2": "पॊरुळल्ल तव्वून् तिनल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அருள் என்பது யாது? அருளல்லாதது யாது? என்றால், உயிர்களைக் கொல்லாமை அருள்; கொன்று அதன் ஊனைத் தின்பது அருளல்லாத தீய செயலாகும்.",
+        "en": "Compassion is simply refusing to take life; cruelty is killing—and eating the flesh of the slain has no moral justification.",
+        "hi": "जीवों का वध करना ही निर्दयता है और अहिंसा ही सच्चा दया-धर्म है; अतः माँसाहार करना धर्म से रहित एक दुष्कर्म है।"
+      }
+    },
+    {
+      "num": 255,
+      "line1": "உண்ணாமை உள்ளது உயிர்நிலை ஊனுண்ண",
+      "line2": "அண்ணாத்தல் செய்யாது அளறு.",
+      "enLine1": "If flesh you eat not, life's abodes unharmed remain ;",
+      "enLine2": "Who eats, hell swallows him, and renders not again.",
+      "hiLine1": "रक्षण है सब जीव का, वर्जन करना माँस ।",
+      "hiLine2": "बचे नरक से वह नहीं, जो खाता है माँस ॥",
+      "general": "புலாலை உண்ணாமல் இருப்பதால் உயிர்களின் நிலை பாதுகாக்கப்படும்; ஊனைத் தின்றால் நரகம் அவனை விழுங்கி வெளிவிடாமல் செய்துவிடும்.",
+      "en": "The survival of living beings depends on not eating flesh; if one eats flesh, hell will swallow him and not open its mouth again.",
+      "hi": "माँस का त्याग (वर्जन) करने से ही सभी जीवों की रक्षा होती है; जो व्यक्ति माँस खाता है, वह कभी नरक से नहीं बच पाता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உண்ணாமை <br>(Unnaamai)",
+          "ta": "ஊன் உண்ணாதிருத்தலால்",
+          "en": "Not eating flesh",
+          "hi": "माँस वर्जन करना"
+        },
+        {
+          "no": 2,
+          "word": "உள்ளது <br>(Ulladhu)",
+          "ta": "நிலைபெற்றது",
+          "en": "Remains",
+          "hi": "है"
+        },
+        {
+          "no": 3,
+          "word": "உயிர்நிலை <br>(Uyirnilai)",
+          "ta": "உயிர்களின் நிலை",
+          "en": "Life's abodes",
+          "hi": "सब जीव का रक्षण"
+        },
+        {
+          "no": 4,
+          "word": "ஊனுண்ண <br>(Oonunna)",
+          "ta": "ஊன் உண்டால்",
+          "en": "Who eats flesh",
+          "hi": "जो माँस खाता है"
+        },
+        {
+          "no": 5,
+          "word": "அண்ணாத்தல் <br>(Annaaththal)",
+          "ta": "வாய் திறந்து விடுதல்",
+          "en": "Opening / rendering",
+          "hi": "बच पाना"
+        },
+        {
+          "no": 6,
+          "word": "செய்யாது <br>(Seyyaadhu)",
+          "ta": "செய்யாது",
+          "en": "Will not",
+          "hi": "नहीं होता"
+        },
+        {
+          "no": 7,
+          "word": "அளறு <br>(Alaru)",
+          "ta": "நரகம்",
+          "en": "Hell",
+          "hi": "नरक से"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உண்ணாமை உள்ளது உயிர்நிலை ஊனுண்ண",
+          "line2": "அண்ணாத்தல் செய்யாது அளறு."
+        },
+        "en": {
+          "line1": "If flesh you eat not, life's abodes unharmed remain ;",
+          "line2": "Who eats, hell swallows him, and renders not again."
+        },
+        "hi": {
+          "line1": "रक्षण है सब जीव का, वर्जन करना माँस ।",
+          "line2": "बचे नरक से वह नहीं, जो खाता है माँस ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Unnaamai Ulladhu Uyirnilai Oonunna",
+            "line2": "Annaaththal Seyyaadhu Alaru."
+          },
+          "hi": {
+            "line1": "उण्णामै उळ्ळदु उयिर्निलै ऊनुण्ण",
+            "line2": "अण्णात्तल् सॆय्यादु अळरु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "புலாலை உண்ணாமல் இருப்பதால் உயிர்களின் நிலை பாதுகாக்கப்படும்; ஊனைத் தின்றால் நரகம் அவனை விழுங்கி வெளிவிடாமல் செய்துவிடும்.",
+        "en": "Refraining from meat protects the lives of creatures everywhere, while indulging in it invites inescapable moral torment.",
+        "hi": "माँस का त्याग (वर्जन) करने से ही सभी जीवों की रक्षा होती है; जो व्यक्ति माँस खाता है, वह कभी नरक से नहीं बच पाता।"
+      }
+    },
+    {
+      "num": 256,
+      "line1": "தினற்பொருட்டால் கொல்லாது உலகெனின் யாரும்",
+      "line2": "விலைப்பொருட்டால் ஊன்தருவார் இல்.",
+      "enLine1": "'We eat the slain,' you say, 'by us no living creatures die' ;",
+      "enLine2": "Who'd kill and sell, I pray, if none came there the flesh to buy ?",
+      "hiLine1": "वध न करेंगे लोग यदि, करने को आहार ।",
+      "hiLine2": "आमिष लावेगा नहीं, कोई विक्रयकार ॥",
+      "general": "தின்பதற்காக உயிர்களைக் கொல்லாமல் உலகத்தார் இருப்பார்களானால், விற்பனைக்காக ஊனைத் தருவோர் யாரும் இருக்கமாட்டார்கள்.",
+      "en": "If the world did not kill creatures for the sake of eating them, no one would supply flesh for the sake of selling it.",
+      "hi": "यदि लोग आहार करने के लिए जीवों का वध न करें (माँस न खाएँ), तो कोई भी विक्रेता बेचने के लिए माँस (आमिष) नहीं लाएगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தினற்பொருட்டால் <br>(Thinarpotuttaal)",
+          "ta": "தின்பதன் பொருட்டு",
+          "en": "For eating",
+          "hi": "आहार करने के लिए"
+        },
+        {
+          "no": 2,
+          "word": "கொல்லாது <br>(Kollaadhu)",
+          "ta": "கொல்லாமல் இருந்தால்",
+          "en": "Did not kill",
+          "hi": "वध न करें"
+        },
+        {
+          "no": 3,
+          "word": "உலகெனின் <br>(Ulagenin)",
+          "ta": "உலகம் என்றால்",
+          "en": "If the world",
+          "hi": "यदि लोग"
+        },
+        {
+          "no": 4,
+          "word": "யாரும் <br>(Yaarum)",
+          "ta": "யாரும்",
+          "en": "Anyone",
+          "hi": "कोई भी"
+        },
+        {
+          "no": 5,
+          "word": "விலைப்பொருட்டால் <br>(Vilaipporuttaal)",
+          "ta": "விற்பனைப் பொருட்டு",
+          "en": "For selling",
+          "hi": "विक्रयकार"
+        },
+        {
+          "no": 6,
+          "word": "ஊன்தருவார் <br>(Oondharuvaar)",
+          "ta": "ஊன் தருபவர்",
+          "en": "Supplying flesh",
+          "hi": "आमिष (माँस) लावेगा"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "None",
+          "hi": "नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தினற்பொருட்டால் கொல்லாது உலகெனின் யாரும்",
+          "line2": "விலைப்பொருட்டால் ஊன்தருவார் இல்."
+        },
+        "en": {
+          "line1": "'We eat the slain,' you say, 'by us no living creatures die' ;",
+          "line2": "Who'd kill and sell, I pray, if none came there the flesh to buy ?"
+        },
+        "hi": {
+          "line1": "वध न करेंगे लोग यदि, करने को आहार ।",
+          "line2": "आमिष लावेगा नहीं, कोई विक्रयकार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thinarpotuttaal Kollaadhu Ulagenin Yaarum",
+            "line2": "Vilaipporuttaal Oondharuvaar Il."
+          },
+          "hi": {
+            "line1": "तिनर्पॊरुट्टाल् कॊल्लादु उलगॆनिन् यारुम्",
+            "line2": "विलैप्पॊरुट्टाल् ऊन्तरुवार् इल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தின்பதற்காக உயிர்களைக் கொல்லாமல் உலகத்தார் இருப்பார்களானால், விற்பனைக்காக ஊனைத் தருவோர் யாரும் இருக்கமாட்டார்கள்.",
+        "en": "Buying meat cannot be separated from the killing itself—if people didn't buy flesh to eat, no butcher would slaughter animals to sell.",
+        "hi": "यदि लोग आहार करने के लिए जीवों का वध न करें (माँस न खाएँ), तो कोई भी विक्रेता बेचने के लिए माँस (आमिष) नहीं लाएगा।"
+      }
+    },
+    {
+      "num": 257,
+      "line1": "உண்ணாமை வேண்டும் புலாஅல் பிறிதொன்றன்",
+      "line2": "புண்ணது உணர்வார்ப் பெறின்.",
+      "enLine1": "With other beings' ulcerous wounds their hunger they appease ;",
+      "enLine2": "If this they felt, desire to eat must surely cease.",
+      "hiLine1": "आमिष तो इक जन्तु का, व्रण है यों सुविचार ।",
+      "hiLine2": "यदि होगा तो चाहिए, तजना माँसाहार ॥",
+      "general": "ஊன் என்பது மற்றொரு உயிரின் உடம்பில் உண்டான புண் என்பதை உணர்வாரானால், புலாலை உண்ணாமல் இருக்க வேண்டும்.",
+      "en": "If one realizes that flesh is nothing but the wound of another creature's body, one must abstain from eating it.",
+      "hi": "माँस तो एक प्राणी के शरीर का घाव (व्रण) ही है—यदि ऐसा सुविचार मन में आ जाए, तो माँसाहार का त्याग कर देना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உண்ணாமை <br>(Unnaamai)",
+          "ta": "உண்ணாதிருத்தல்",
+          "en": "Abstaining from eating",
+          "hi": "त्याग देना"
+        },
+        {
+          "no": 2,
+          "word": "வேண்டும் <br>(Vendum)",
+          "ta": "வேண்டும்",
+          "en": "Must / surely cease",
+          "hi": "चाहिए"
+        },
+        {
+          "no": 3,
+          "word": "புலாஅல் <br>(Pulaaal)",
+          "ta": "புலாலை",
+          "en": "Flesh",
+          "hi": "माँसाहार"
+        },
+        {
+          "no": 4,
+          "word": "பிறிதொன்றன் <br>(Piridhondran)",
+          "ta": "மற்றொரு உயிரின்",
+          "en": "Of other beings",
+          "hi": "इक जंतु का"
+        },
+        {
+          "no": 5,
+          "word": "புண்ணது <br>(Punnadhu)",
+          "ta": "புண் அது என்பதை",
+          "en": "Ulcerous wound",
+          "hi": "व्रण (घाव) है"
+        },
+        {
+          "no": 6,
+          "word": "உணர்வார்ப் <br>(Unarvaarp)",
+          "ta": "உணர்பவர்கள்",
+          "en": "Those who feel/realize",
+          "hi": "सुविचार"
+        },
+        {
+          "no": 7,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "பெற்றால்",
+          "en": "If one obtains",
+          "hi": "यदि होगा तो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உண்ணாமை வேண்டும் புலாஅல் பிறிதொன்றன்",
+          "line2": "புண்ணது உணர்வார்ப் பெறின்."
+        },
+        "en": {
+          "line1": "With other beings' ulcerous wounds their hunger they appease ;",
+          "line2": "If this they felt, desire to eat must surely cease."
+        },
+        "hi": {
+          "line1": "आमिष तो इक जन्तु का, व्रण है यों सुविचार ।",
+          "line2": "यदि होगा तो चाहिए, तजना माँसाहार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Unnaamai Vendum Pulaaal Piridhondran",
+            "line2": "Punnadhu Unarvaarp Perin."
+          },
+          "hi": {
+            "line1": "उण्णामै वेण्डुम् पुलाअल् पिरिदॊन्द्रन्",
+            "line2": "पुण्णदु उणर्वार्प् पॆरिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஊன் என்பது மற்றொரு உயிரின் உடம்பில் உண்டான புண் என்பதை உணர்வாரானால், புலாலை உண்ணாமல் இருக்க வேண்டும்.",
+        "en": "Once you recognize that meat is literally a wound cut from another creature's body, any desire to eat it naturally disappears.",
+        "hi": "माँस तो एक प्राणी के शरीर का घाव (व्रण) ही है—यदि ऐसा सुविचार मन में आ जाए, तो माँसाहार का त्याग कर देना चाहिए।"
+      }
+    },
+    {
+      "num": 258,
+      "line1": "செயிரின் தலைப்பிரிந்த காட்சியார் உண்ணார்",
+      "line2": "உயிரின் தலைப்பிரிந்த ஊன்.",
+      "enLine1": "Whose souls the vision pure and passionless perceive,",
+      "enLine2": "Eat not the bodies men of life bereave.",
+      "hiLine1": "जीव-हनन से छिन्न जो, मृत शरीर है माँस ।",
+      "hiLine2": "दोषरहित तत्वज्ञ तो, खायेंगे नहिं माँस ॥",
+      "general": "குற்றத்திலிருந்து நீங்கிய மெய்யறிவுடையவர்கள், உயிர் நீங்கிப்போன உடம்பாகிய புலாலை உண்ணமாட்டார்கள்.",
+      "en": "Those whose vision is pure and free from blemish will not eat the flesh from which life has departed.",
+      "hi": "जीव-हनन से अलग हुआ मृत शरीर ही माँस है; अतः दोष-रहित तत्वज्ञानी पुरुष कभी माँस नहीं खाते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செயிரின் <br>(Seyirin)",
+          "ta": "குற்றத்திலிருந்து",
+          "en": "From blemish/passion",
+          "hi": "दोष से"
+        },
+        {
+          "no": 2,
+          "word": "தலைப்பிரிந்த <br>(Thalaippirindha)",
+          "ta": "நீங்கிய",
+          "en": "Free from",
+          "hi": "रहित"
+        },
+        {
+          "no": 3,
+          "word": "காட்சியார் <br>(Kaatchiyaar)",
+          "ta": "மெய்யறிவுடையோர்",
+          "en": "Pure vision perceive",
+          "hi": "तत्वज्ञानी"
+        },
+        {
+          "no": 4,
+          "word": "உண்ணார் <br>(Unnaar)",
+          "ta": "உண்ணமாட்டார்",
+          "en": "Eat not",
+          "hi": "नहीं खाएँगे"
+        },
+        {
+          "no": 5,
+          "word": "உயிரின் <br>(Uyirin)",
+          "ta": "உயிரிலிருந்து",
+          "en": "Of life",
+          "hi": "जीव-हनन से"
+        },
+        {
+          "no": 6,
+          "word": "தலைப்பிரிந்த <br>(Thalaippirindha)",
+          "ta": "பிரிந்த",
+          "en": "Bereaved / parted",
+          "hi": "छिन्न"
+        },
+        {
+          "no": 7,
+          "word": "ஊன் <br>(Oon)",
+          "ta": "ஊனை",
+          "en": "Bodies / flesh",
+          "hi": "मृत शरीर माँस"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செயிரின் தலைப்பிரிந்த காட்சியார் உண்ணார்",
+          "line2": "உயிரின் தலைப்பிரிந்த ஊன்."
+        },
+        "en": {
+          "line1": "Whose souls the vision pure and passionless perceive,",
+          "line2": "Eat not the bodies men of life bereave."
+        },
+        "hi": {
+          "line1": "जीव-हनन से छिन्न जो, मृत शरीर है माँस ।",
+          "line2": "दोषरहित तत्वज्ञ तो, खायेंगे नहिं माँस ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seyirin Thalaippirindha Kaatchiyaar Unnaar",
+            "line2": "Uyirin Thalaippirindha Oon."
+          },
+          "hi": {
+            "line1": "सॆयिरिन् तलैप्पिरिन्द काच्चियार् उण्णार्",
+            "line2": "उयिरिन् तलैप्पिरिन्द ऊन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குற்றத்திலிருந்து நீங்கிய மெய்யறிவுடையவர்கள், உயிர் நீங்கிப்போன உடம்பாகிய புலாலை உண்ணமாட்டார்கள்.",
+        "en": "People of clear, unclouded wisdom refuse to consume the lifeless carcass of a creature robbed of its breath.",
+        "hi": "जीव-हनन से अलग हुआ मृत शरीर ही माँस है; अतः दोष-रहित तत्वज्ञानी पुरुष कभी माँस नहीं खाते।"
+      }
+    },
+    {
+      "num": 259,
+      "line1": "அவிசொரிந்து ஆயிரம் வேட்டலின் ஒன்றன்",
+      "line2": "உயிர்செகுத்து உண்ணாமை நன்று.",
+      "enLine1": "Than thousand rich oblations, with libations rare,",
+      "enLine2": "Better the flesh of slaughtered beings not to share.",
+      "hiLine1": "यज्ञ हजरों क्या किया, दे दे हवन यथेष्ट ।",
+      "hiLine2": "किसी जीव को हनन कर, माँस न खाना श्रेष्ठ ॥",
+      "general": "நெய் முதலிய அவிகளைத் தீயில் சொரிந்து ஆயிரம் வேள்விகள் செய்வதைவிட, ஒரு உயிரைக் கொன்று அதன் ஊனை உண்ணாதிருத்தல் நல்லதாகும்.",
+      "en": "Better than offering a thousand sacrifices with oblations poured into the fire is refraining from slaughtering a single creature and eating its flesh.",
+      "hi": "हवन में यथेष्ट आहुतियाँ देकर हजारों यज्ञ करने से भी कहीं अधिक श्रेष्ठ है कि किसी जीव का वध करके उसका माँस न खाया जाए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அவிசொரிந்து <br>(Avisoorindhu)",
+          "ta": "நெய் முதலிய அவிகளைச் சொரிந்து",
+          "en": "With libations / oblations",
+          "hi": "दे दे हवन यथेष्ट"
+        },
+        {
+          "no": 2,
+          "word": "ஆயிரம் <br>(Aayiram)",
+          "ta": "ஆயிரம்",
+          "en": "Thousand",
+          "hi": "हजारों"
+        },
+        {
+          "no": 3,
+          "word": "வேட்டலின் <br>(Vettalin)",
+          "ta": "வேள்விகள் செய்வதைவிட",
+          "en": "Than rich sacrifices",
+          "hi": "यज्ञ करने से"
+        },
+        {
+          "no": 4,
+          "word": "ஒன்றன் <br>(Ondran)",
+          "ta": "ஒரு உயிரின்",
+          "en": "Of a single being",
+          "hi": "किसी जीव का"
+        },
+        {
+          "no": 5,
+          "word": "உயிர்செகுத்து <br>(Uyirsekhuththu)",
+          "ta": "உயிரைக் கொன்று",
+          "en": "Slaughtering",
+          "hi": "हनन करके"
+        },
+        {
+          "no": 6,
+          "word": "உண்ணாமை <br>(Unnaamai)",
+          "ta": "ஊன் உண்ணாமை",
+          "en": "Not to eat",
+          "hi": "माँस न खाना"
+        },
+        {
+          "no": 7,
+          "word": "நன்று <br>(Nandru)",
+          "ta": "நல்லதாகும்",
+          "en": "Is better",
+          "hi": "श्रेष्ठ है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அவிசொரிந்து ஆயிரம் வேட்டலின் ஒன்றன்",
+          "line2": "உயிர்செகுத்து உண்ணாமை நன்று."
+        },
+        "en": {
+          "line1": "Than thousand rich oblations, with libations rare,",
+          "line2": "Better the flesh of slaughtered beings not to share."
+        },
+        "hi": {
+          "line1": "यज्ञ हजरों क्या किया, दे दे हवन यथेष्ट ।",
+          "line2": "किसी जीव को हनन कर, माँस न खाना श्रेष्ठ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Avisoorindhu Aayiram Vettalin Ondran",
+            "line2": "Uyirsekhuththu Unnaamai Nandru."
+          },
+          "hi": {
+            "line1": "अविसॊरिन्दु आयिरम् वेट्टलिन् ऒन्द्रन्",
+            "line2": "उयिर्सॆगुत्तु उण्णामै नन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நெய் முதலிய அவிகளைத் தீயில் சொரிந்து ஆயிரம் வேள்விகள் செய்வதைவிட, ஒரு உயிரைக் கொன்று அதன் ஊனை உண்ணாதிருத்தல் நல்லதாகும்.",
+        "en": "Sparing the life of a single creature and refusing to eat its flesh outweighs a thousand elaborate religious rituals.",
+        "hi": "हवन में यथेष्ट आहुतियाँ देकर हजारों यज्ञ करने से भी कहीं अधिक श्रेष्ठ है कि किसी जीव का वध करके उसका माँस न खाया जाए।"
+      }
+    },
+    {
+      "num": 260,
+      "line1": "கொல்லான் புலாலை மறுத்தானைக் கைகூப்பி",
+      "line2": "எல்லா உயிரும் தொழும்.",
+      "enLine1": "Who slays nought,—flesh rejects,—his feet before",
+      "enLine2": "All living things with claspèd hands adore.",
+      "hiLine1": "जो न करेगा जीव-वध, और न माँसाहार ।",
+      "hiLine2": "हाथ जोड़ सारा जगत, करता उसे जुहार ॥",
+      "general": "எந்த உயிரையும் கொல்லாதவனாய், புலாலை உண்ணாமல் விலக்கியவனை எல்லா உயிர்களும் கைகூப்பி வணங்கும்.",
+      "en": "All living creatures will fold their hands in reverence before him who kills nothing and abstains from flesh.",
+      "hi": "जो व्यक्ति न तो जीव-वध करेगा और न ही माँसाहार करेगा, सारा संसार हाथ जोड़कर उसकी वंदना (जुहार) करता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கொல்லான் <br>(Kollaan)",
+          "ta": "கொல்லாதவனாய்",
+          "en": "Who slays nought",
+          "hi": "जो जीव-वध न करे"
+        },
+        {
+          "no": 2,
+          "word": "புலாலை <br>(Pulaalai)",
+          "ta": "புலாலை",
+          "en": "Flesh",
+          "hi": "माँसाहार को"
+        },
+        {
+          "no": 3,
+          "word": "மறுத்தானைக் <br>(Maruththaanaik)",
+          "ta": "விலக்கியவனை",
+          "en": "Who rejects",
+          "hi": "त्यागने वाले को"
+        },
+        {
+          "no": 4,
+          "word": "கைகூப்பி <br>(Kaikooppi)",
+          "ta": "கைகூப்பி",
+          "en": "With clasped hands",
+          "hi": "हाथ जोड़कर"
+        },
+        {
+          "no": 5,
+          "word": "எல்லா <br>(Ellaa)",
+          "ta": "எல்லா",
+          "en": "All",
+          "hi": "सारा जगत"
+        },
+        {
+          "no": 6,
+          "word": "உயிரும் <br>(Uyirum)",
+          "ta": "உயிர்களும்",
+          "en": "Living things",
+          "hi": "प्राणी"
+        },
+        {
+          "no": 7,
+          "word": "தொழும் <br>(Thozhum)",
+          "ta": "வணங்கும்",
+          "en": "Adore",
+          "hi": "जुहार (वंदना) करता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கொல்லான் புலாலை மறுத்தானைக் கைகூப்பி",
+          "line2": "எல்லா உயிரும் தொழும்."
+        },
+        "en": {
+          "line1": "Who slays nought,—flesh rejects,—his feet before",
+          "line2": "All living things with claspèd hands adore."
+        },
+        "hi": {
+          "line1": "जो न करेगा जीव-वध, और न माँसाहार ।",
+          "line2": "हाथ जोड़ सारा जगत, करता उसे जुहार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kollaan Pulaalai Maruththaanaik Kaikooppi",
+            "line2": "Ellaa Uyirum Thozhum."
+          },
+          "hi": {
+            "line1": "कॊल्लान् पुलालै मरुत्तानैक् कैकूप्पि",
+            "line2": "एल्ला उयिरुम् तॊऴुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எந்த உயிரையும் கொல்லாதவனாய், புலாலை உண்ணாமல் விலக்கியவனை எல்லா உயிர்களும் கைகூப்பி வணங்கும்.",
+        "en": "All living beings naturally revere the person who neither takes life nor consumes flesh.",
+        "hi": "जो व्यक्ति न तो जीव-वध करेगा और न ही माँसाहार करेगा, सारा संसार हाथ जोड़कर उसकी वंदना (जुहार) करता है।"
+      }
+    }
+  ]
+}

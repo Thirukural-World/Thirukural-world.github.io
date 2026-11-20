@@ -1,0 +1,930 @@
+{
+  "chapterNum": 50,
+  "nameTa": "இடனறிதல்",
+  "nameEn": "Knowing the Place",
+  "nameHi": "स्थान का बोध",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 491,
+      "line1": "தொடங்கற்க வெவ்வினையு மெள்ளற்க முற்று",
+      "line2": "மிடங்கண்ட பின்னல லது.",
+      "enLine1": "Begin no work of war, despise no foe,",
+      "enLine2": "Till place where you can wholly circumvent you know.",
+      "hiLine1": "कोई काम न कर शुरू, तथा न कर उपहास ।",
+      "hiLine2": "जब तक रिपु को घेरने, स्थल की है नहिं आस ॥",
+      "general": "பகைவரை முற்றிலும் சுற்றி வளைக்கக்கூடிய தக்க இடத்தைக் கண்ட பின்னரேயன்றி, எந்தச் செயலையும் தொடங்கக் கூடாது; பகைவரை எளியவர் என்று இகழவும் கூடாது.",
+      "en": "Do not begin any campaign or underestimate any enemy until you have secured a place from which you can completely surround them.",
+      "hi": "जब तक शत्रु को चारों ओर से घेरने योग्य उचित स्थान न मिल जाए, तब तक कोई भी युद्ध-कार्य शुरू नहीं करना चाहिए और न ही शत्रु का उपहास करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தொடங்கற்க <br>(Thodangarka)",
+          "ta": "தொடங்கக் கூடாது",
+          "en": "Begin no work",
+          "hi": "न कर शुरू"
+        },
+        {
+          "no": 2,
+          "word": "எவ்வினையும் <br>(Evvinaiyum)",
+          "ta": "எந்தச் செயலையும்",
+          "en": "Any work of war",
+          "hi": "कोई काम"
+        },
+        {
+          "no": 3,
+          "word": "எள்ளற்க <br>(Ellarka)",
+          "ta": "இகழக் கூடாது",
+          "en": "Despise no foe",
+          "hi": "न कर उपहास"
+        },
+        {
+          "no": 4,
+          "word": "முற்றும் <br>(Mutrum)",
+          "ta": "முழுவதும் சுற்றி வளைக்கும்",
+          "en": "Wholly circumvent",
+          "hi": "रिपु को घेरने"
+        },
+        {
+          "no": 5,
+          "word": "இடம் <br>(Idam)",
+          "ta": "இடத்தை",
+          "en": "Place",
+          "hi": "स्थल"
+        },
+        {
+          "no": 6,
+          "word": "கண்ட பின் <br>(Kanda pin)",
+          "ta": "கண்ட பிறகே",
+          "en": "Till you know",
+          "hi": "जब तक आस है"
+        },
+        {
+          "no": 7,
+          "word": "அல்லது <br>(Alladhu)",
+          "ta": "அன்றி",
+          "en": "Otherwise",
+          "hi": "नहिं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தொடங்கற்க வெவ்வினையு மெள்ளற்க முற்று",
+          "line2": "மிடங்கண்ட பின்னல லது."
+        },
+        "en": {
+          "line1": "Begin no work of war, despise no foe,",
+          "line2": "Till place where you can wholly circumvent you know."
+        },
+        "hi": {
+          "line1": "कोई काम न कर शुरू, तथा न कर उपहास ।",
+          "line2": "जब तक रिपु को घेरने, स्थल की है नहिं आस ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thodangarka Evvinaiyum Ellarka Mutrum",
+            "line2": "Idanganda Pinna Ladhu."
+          },
+          "hi": {
+            "line1": "तॊडङ्गर्क वॆव्विनैयु मॆळ्ळर्क मुत्रु",
+            "line2": "मिडङ्गण्ड पिन्नल लदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பகைவரை முற்றிலும் சுற்றி வளைக்கக்கூடிய தக்க இடத்தைக் கண்ட பின்னரேயன்றி, எந்தச் செயலையும் தொடங்கக் கூடாது; பகைவரை எளியவர் என்று இகழவும் கூடாது.",
+        "en": "Never launch a campaign or underestimate an opponent before you have found the exact ground where you can decisively surround them.",
+        "hi": "जब तक शत्रु को चारों ओर से घेरने योग्य उचित स्थान न मिल जाए, तब तक कोई भी युद्ध-कार्य शुरू नहीं करना चाहिए और न ही शत्रु का उपहास करना चाहिए।"
+      }
+    },
+    {
+      "num": 492,
+      "line1": "முரண்சேர்ந்த மொய்ம்பி னவர்க்கு மரண்சேர்ந்தா",
+      "line2": "மாக்கம் பலவுந் தரும்.",
+      "enLine1": "Though skill in war combine with courage tried on battle-field,",
+      "enLine2": "The added gain of fort doth great advantage yield.",
+      "hiLine1": "शत्रु-भाव से पुष्ट औ', जो हों अति बलवान ।",
+      "hiLine2": "उनको भी गढ़-रक्ष तो, बहु फल करे प्रदान ॥",
+      "general": "போர்த்திறனும் மிக்க வலிமையும் உடையவர்களுக்கும், தக்க அரணோடு கூடிய இடத்தில் இருந்து செயல்படுவது பல நன்மைகளையும் தரும்.",
+      "en": "Even for those who possess great martial skill and proven strength, fighting from the shelter of a stronghold yields many advantages.",
+      "hi": "जो शत्रु-भाव से पुष्ट और अत्यन्त बलवान हों, उन्हें भी दुर्ग (गढ़) का आश्रय लेकर लड़ने से अनेक प्रकार के लाभ प्राप्त होते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "முரண் சேர்ந்த <br>(Muran serndha)",
+          "ta": "போர்த்திறன் கூடிய",
+          "en": "Skill in war combine",
+          "hi": "शत्रु-भाव से पुष्ट"
+        },
+        {
+          "no": 2,
+          "word": "மொய்ம்பினவர்க்கு <br>(Moymbinavarkku)",
+          "ta": "வலிமை உடையவர்க்கும்",
+          "en": "With courage tried",
+          "hi": "जो हों अति बलवान"
+        },
+        {
+          "no": 3,
+          "word": "அரண் <br>(Aran)",
+          "ta": "பாதுகாப்பு அரண்",
+          "en": "Fort",
+          "hi": "गढ़-रक्ष"
+        },
+        {
+          "no": 4,
+          "word": "சேர்ந்து ஆம் <br>(Serndhu aam)",
+          "ta": "சேர்ந்தால் ஆகும்",
+          "en": "Added gain",
+          "hi": "लेकर"
+        },
+        {
+          "no": 5,
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "நன்மைகள்",
+          "en": "Advantage",
+          "hi": "फल"
+        },
+        {
+          "no": 6,
+          "word": "பலவும் <br>(Palavum)",
+          "ta": "பலவற்றையும்",
+          "en": "Great / many",
+          "hi": "बहु"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Doth yield",
+          "hi": "करे प्रदान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "முரண்சேர்ந்த மொய்ம்பி னவர்க்கு மரண்சேர்ந்தா",
+          "line2": "மாக்கம் பலவுந் தரும்."
+        },
+        "en": {
+          "line1": "Though skill in war combine with courage tried on battle-field,",
+          "line2": "The added gain of fort doth great advantage yield."
+        },
+        "hi": {
+          "line1": "शत्रु-भाव से पुष्ट औ', जो हों अति बलवान ।",
+          "line2": "उनको भी गढ़-रक्ष तो, बहु फल करे प्रदान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Muranserndha Moymbi Navarkku Aranserndhaam",
+            "line2": "Aakkam Palavun Tharum."
+          },
+          "hi": {
+            "line1": "मुरण्सॆर्न्द मॊय्म्बि नवर्क्कु मरण्सॆर्न्दा",
+            "line2": "माक्कम् पलवुन् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "போர்த்திறனும் மிக்க வலிமையும் உடையவர்களுக்கும், தக்க அரணோடு கூடிய இடத்தில் இருந்து செயல்படுவது பல நன்மைகளையும் தரும்.",
+        "en": "Even the most skilled and courageous fighters gain a decisive edge when backed by a strong defensive position.",
+        "hi": "जो शत्रु-भाव से पुष्ट और अत्यन्त बलवान हों, उन्हें भी दुर्ग (गढ़) का आश्रय लेकर लड़ने से अनेक प्रकार के लाभ प्राप्त होते हैं।"
+      }
+    },
+    {
+      "num": 493,
+      "line1": "ஆற்றாரு மாற்றி யடுப விடனறிந்து",
+      "line2": "போற்றார்கட் போற்றிச் செயின்.",
+      "enLine1": "E'en weak ones mightily prevail, if place of strong defence",
+      "enLine2": "They find, protect themselves, and work their foes offence.",
+      "hiLine1": "निर्बल भी बन कर सबल, पावें जय-सम्मान ।",
+      "hiLine2": "यदि रिपु पर धावा करें, खोज सुरक्षित स्थान ॥",
+      "general": "வலிமை இல்லாதவர்களும் தமக்கு ஏற்ற இடத்தை அறிந்து, தம்மைக் காத்துக்கொண்டு பகைவரிடத்து விழிப்போடு போர் செய்தால், வலிமையோடு வென்றுவிடுவார்கள்.",
+      "en": "Even the weak can prevail mightily if they choose a strong defensive position, guard themselves well, and strike their foes carefully.",
+      "hi": "यदि निर्बल व्यक्ति भी सुरक्षित स्थान खोजकर और सावधानी से अपनी रक्षा करते हुए शत्रु पर धावा बोलें, तो वे सबल बनकर विजय और सम्मान प्राप्त कर लेते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஆற்றாரும் <br>(Aatraarum)",
+          "ta": "வலிமையற்றவரும்",
+          "en": "E'en weak ones",
+          "hi": "निर्बल भी"
+        },
+        {
+          "no": 2,
+          "word": "ஆற்றி <br>(Aatri)",
+          "ta": "வலிமையோடு",
+          "en": "Mightily",
+          "hi": "बन कर सबल"
+        },
+        {
+          "no": 3,
+          "word": "அடுப <br>(Aduba)",
+          "ta": "வென்றுவிடுவர்",
+          "en": "Prevail",
+          "hi": "पावें जय-सम्मान"
+        },
+        {
+          "no": 4,
+          "word": "இடன் அறிந்து <br>(Idan arindhu)",
+          "ta": "தக்க இடம் அறிந்து",
+          "en": "Place of strong defence find",
+          "hi": "खोज सुरक्षित स्थान"
+        },
+        {
+          "no": 5,
+          "word": "போற்றார்கண் <br>(Potraarkan)",
+          "ta": "பகைவரிடத்து",
+          "en": "Their foes",
+          "hi": "रिपु पर"
+        },
+        {
+          "no": 6,
+          "word": "போற்றி <br>(Potri)",
+          "ta": "தம்மைக் காத்து",
+          "en": "Protect themselves",
+          "hi": "सावधानी से"
+        },
+        {
+          "no": 7,
+          "word": "செயின் <br>(Seyin)",
+          "ta": "போர் செய்தால்",
+          "en": "If they work",
+          "hi": "यदि धावा करें"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஆற்றாரு மாற்றி யடுப விடனறிந்து",
+          "line2": "போற்றார்கட் போற்றிச் செயின்."
+        },
+        "en": {
+          "line1": "E'en weak ones mightily prevail, if place of strong defence",
+          "line2": "They find, protect themselves, and work their foes offence."
+        },
+        "hi": {
+          "line1": "निर्बल भी बन कर सबल, पावें जय-सम्मान ।",
+          "line2": "यदि रिपु पर धावा करें, खोज सुरक्षित स्थान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aatraarum Aatri Aduba Idanarindhu",
+            "line2": "Potraarkan Potrich Seyin."
+          },
+          "hi": {
+            "line1": "आत्रारु मात्रि यडुब विडनरिन्दु",
+            "line2": "पोत्रार्कड् पोत्रिच् सॆयिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வலிமை இல்லாதவர்களும் தமக்கு ஏற்ற இடத்தை அறிந்து, தம்மைக் காத்துக்கொண்டு பகைவரிடத்து விழிப்போடு போர் செய்தால், வலிமையோடு வென்றுவிடுவார்கள்.",
+        "en": "Even an underdog force can win decisively if they pick a defensible position, protect their flanks, and strike from safety.",
+        "hi": "यदि निर्बल व्यक्ति भी सुरक्षित स्थान खोजकर और सावधानी से अपनी रक्षा करते हुए शत्रु पर धावा बोलें, तो वे सबल बनकर विजय और सम्मान प्राप्त कर लेते हैं।"
+      }
+    },
+    {
+      "num": 494,
+      "line1": "எண்ணியா ரெண்ண மிழப்ப ரிடனறிந்து",
+      "line2": "துன்னியார் துன்னிச் செயின்.",
+      "enLine1": "The foes who thought to triumph, find their thoughts were vain,",
+      "enLine2": "If hosts advance, seize vantage ground, and thence the fight maintain.",
+      "hiLine1": "रिपु निज विजय विचार से, धो बैठेंगे हाथ ।",
+      "hiLine2": "स्थान समझ यदि कार्य में, जुड़ते दृढ़ नरनाथ ॥",
+      "general": "தமக்கு ஏற்ற இடத்தை அறிந்து படையுடன் சென்று பொருந்திப் போர் செய்தால், வெல்ல நினைத்த பகைவர் தம் எண்ணம் அழியப் பெறுவர்.",
+      "en": "Enemies who counted on victory will see their plans shattered if you know the right terrain, close in, and fight from there.",
+      "hi": "यदि दृढ़ राजा उचित स्थान को समझकर दृढ़ता से कार्य (युद्ध) में जुट जाएं, तो शत्रु अपनी विजय की आशा से हाथ धो बैठेंगे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எண்ணியார் <br>(Enniyaar)",
+          "ta": "வெல்ல நினைத்த பகைவர்",
+          "en": "The foes who thought",
+          "hi": "रिपु"
+        },
+        {
+          "no": 2,
+          "word": "எண்ணம் <br>(Ennam)",
+          "ta": "தம் எண்ணத்தை",
+          "en": "Their thoughts",
+          "hi": "निज विजय विचार"
+        },
+        {
+          "no": 3,
+          "word": "இழப்பர் <br>(Izhappar)",
+          "ta": "இழந்துவிடுவர்",
+          "en": "Find were vain",
+          "hi": "धो बैठेंगे हाथ"
+        },
+        {
+          "no": 4,
+          "word": "இடன் அறிந்து <br>(Idan arindhu)",
+          "ta": "தக்க இடம் அறிந்து",
+          "en": "Seize vantage ground",
+          "hi": "स्थान समझ"
+        },
+        {
+          "no": 5,
+          "word": "துன்னியார் <br>(Thunniyaar)",
+          "ta": "அணுகிச் சென்றவர்",
+          "en": "If hosts advance",
+          "hi": "दृढ़ नरनाथ"
+        },
+        {
+          "no": 6,
+          "word": "துன்னி <br>(Thunni)",
+          "ta": "பொருந்தி நின்று",
+          "en": "Thence",
+          "hi": "जुड़ते"
+        },
+        {
+          "no": 7,
+          "word": "செயின் <br>(Seyin)",
+          "ta": "போர் செய்தால்",
+          "en": "Fight maintain",
+          "hi": "यदि कार्य में"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எண்ணியா ரெண்ண மிழப்ப ரிடனறிந்து",
+          "line2": "துன்னியார் துன்னிச் செயின்."
+        },
+        "en": {
+          "line1": "The foes who thought to triumph, find their thoughts were vain,",
+          "line2": "If hosts advance, seize vantage ground, and thence the fight maintain."
+        },
+        "hi": {
+          "line1": "रिपु निज विजय विचार से, धो बैठेंगे हाथ ।",
+          "line2": "स्थान समझ यदि कार्य में, जुड़ते दृढ़ नरनाथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Enniyaar Ennam Izhappar Idanarindhu",
+            "line2": "Thunniyaar Thunnich Seyin."
+          },
+          "hi": {
+            "line1": "ऎण्णिया रॆण्ण मिऴप्प रिडनरिन्दु",
+            "line2": "तुन्नियार् तुन्निच् सॆयिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தமக்கு ஏற்ற இடத்தை அறிந்து படையுடன் சென்று பொருந்திப் போர் செய்தால், வெல்ல நினைத்த பகைவர் தம் எண்ணம் அழியப் பெறுவர்.",
+        "en": "Rivals who assumed they had an easy win will see their confidence collapse once you seize the vantage ground and press the fight.",
+        "hi": "यदि दृढ़ राजा उचित स्थान को समझकर दृढ़ता से कार्य (युद्ध) में जुट जाएं, तो शत्रु अपनी विजय की आशा से हाथ धो बैठेंगे।"
+      }
+    },
+    {
+      "num": 495,
+      "line1": "நெடும்புனலுள் வெல்லு முதலை யடும்புனலி",
+      "line2": "னீங்கி னதனைப் பிற.",
+      "enLine1": "The crocodile prevails in its own flow of water wide,",
+      "enLine2": "If this it leaves, 'tis slain by any thing beside.",
+      "hiLine1": "गहरे जल में मगर की, अन्यों पर हो जीत ।",
+      "hiLine2": "जल से बाहर अन्य सब, पावें जय विपरीत ॥",
+      "general": "ஆழமான நீரில் முதலை மற்ற உயிர்களை வெல்லும்; அந்த நீரைவிட்டு வெளியே வந்தால், அந்த முதலையை மற்ற எளிய உயிர்களும் வென்றுவிடும்.",
+      "en": "The crocodile conquers all in deep water; if it leaves the water, other creatures will easily defeat it.",
+      "hi": "गहरे जल में मगरमच्छ अन्य सभी जीवों पर विजय पाता है; परन्तु जल से बाहर निकलने पर इसके विपरीत अन्य सभी जीव उस पर विजय पा लेते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நெடும்புனலுள் <br>(Nedumpunalul)",
+          "ta": "ஆழமான நீரினுள்",
+          "en": "In flow of water wide",
+          "hi": "गहरे जल में"
+        },
+        {
+          "no": 2,
+          "word": "வெல்லும் <br>(Vellum)",
+          "ta": "வெற்றி கொள்ளும்",
+          "en": "Prevails",
+          "hi": "हो जीत"
+        },
+        {
+          "no": 3,
+          "word": "முதலை <br>(Mudhalai)",
+          "ta": "முதலை",
+          "en": "The crocodile",
+          "hi": "मगर की"
+        },
+        {
+          "no": 4,
+          "word": "அடும் <br>(Adum)",
+          "ta": "வென்றுவிடும்",
+          "en": "'Tis slain",
+          "hi": "पावें जय विपरीत"
+        },
+        {
+          "no": 5,
+          "word": "புனலின் <br>(Punalin)",
+          "ta": "நீரை விட்டு",
+          "en": "Water",
+          "hi": "जल से"
+        },
+        {
+          "no": 6,
+          "word": "நீங்கின் <br>(Neengin)",
+          "ta": "நீங்கி வந்தால்",
+          "en": "If this it leaves",
+          "hi": "बाहर"
+        },
+        {
+          "no": 7,
+          "word": "அதனைப் பிற <br>(Adhanaip pira)",
+          "ta": "அதை மற்றவை",
+          "en": "It by any thing beside",
+          "hi": "अन्य सब"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நெடும்புனலுள் வெல்லு முதலை யடும்புனலி",
+          "line2": "னீங்கி னதனைப் பிற."
+        },
+        "en": {
+          "line1": "The crocodile prevails in its own flow of water wide,",
+          "line2": "If this it leaves, 'tis slain by any thing beside."
+        },
+        "hi": {
+          "line1": "गहरे जल में मगर की, अन्यों पर हो जीत ।",
+          "line2": "जल से बाहर अन्य सब, पावें जय विपरीत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nedumpunalul Vellum Mudhalai Adumpunalin",
+            "line2": "Neengin Adhanaip Pira."
+          },
+          "hi": {
+            "line1": "नॆडुम्पुनलुळ् वॆल्लु मुदलै यडुम्पुनलि",
+            "line2": "नीङ्गि नदनैप् पिर."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆழமான நீரில் முதலை மற்ற உயிர்களை வெல்லும்; அந்த நீரைவிட்டு வெளியே வந்தால், அந்த முதலையை மற்ற எளிய உயிர்களும் வென்றுவிடும்.",
+        "en": "A crocodile is invincible in deep water, yet helpless on dry land—power is inseparable from the right environment.",
+        "hi": "गहरे जल में मगरमच्छ अन्य सभी जीवों पर विजय पाता है; परन्तु जल से बाहर निकलने पर इसके विपरीत अन्य सभी जीव उस पर विजय पा लेते हैं।"
+      }
+    },
+    {
+      "num": 496,
+      "line1": "கடலோடா கால்வ நெடுந்தேர் கடலோடு",
+      "line2": "நாவாயு மோடா நிலத்து.",
+      "enLine1": "The lofty car, with mighty wheel, sails not o'er watery main,",
+      "enLine2": "The boat that skims the sea, runs not on earth's hard plain.",
+      "hiLine1": "भारी रथ दृढ़ चक्रयुत, चले न सागर पार ।",
+      "hiLine2": "सागरगामी नाव भी, चले न भू पर तार ॥",
+      "general": "வலிய சக்கரங்களை உடைய பெரிய தேர் கடலில் ஓடாது; கடலில் ஓடும் கப்பலும் நிலத்தில் ஓடாது. அதுபோல ஒவ்வொருவரும் தமக்குரிய இடத்திலேயே சிறப்பர்.",
+      "en": "A sturdy, wheeled chariot cannot sail across the sea, nor can a sea-going ship travel on dry land.",
+      "hi": "मजबूत पहियों वाला भारी रथ समुद्र में नहीं चल सकता, और समुद्र में चलने वाली नाव भी सूखी धरती पर नहीं चल सकती।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கடல் ஓடா <br>(Kadal odaa)",
+          "ta": "கடலில் ஓட மாட்டா",
+          "en": "Sails not o'er watery main",
+          "hi": "चले न सागर पार"
+        },
+        {
+          "no": 2,
+          "word": "கால் வல் <br>(Kaal val)",
+          "ta": "வலிய சக்கரங்களைக் கொண்ட",
+          "en": "With mighty wheel",
+          "hi": "दृढ़ चक्रयुत"
+        },
+        {
+          "no": 3,
+          "word": "நெடுந்தேர் <br>(Nedundher)",
+          "ta": "பெரிய தேர்",
+          "en": "The lofty car",
+          "hi": "भारी रथ"
+        },
+        {
+          "no": 4,
+          "word": "கடல் ஓடும் <br>(Kadal odum)",
+          "ta": "கடலில் ஓடும்",
+          "en": "Skims the sea",
+          "hi": "सागरगामी"
+        },
+        {
+          "no": 5,
+          "word": "நாவாயும் <br>(Naavaayum)",
+          "ta": "கப்பலும்",
+          "en": "The boat",
+          "hi": "नाव भी"
+        },
+        {
+          "no": 6,
+          "word": "ஓடா <br>(Odaa)",
+          "ta": "ஓடாது",
+          "en": "Runs not",
+          "hi": "चले न"
+        },
+        {
+          "no": 7,
+          "word": "நிலத்து <br>(Nilaththu)",
+          "ta": "நிலத்தில்",
+          "en": "On earth's hard plain",
+          "hi": "भू पर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கடலோடா கால்வ நெடுந்தேர் கடலோடு",
+          "line2": "நாவாயு மோடா நிலத்து."
+        },
+        "en": {
+          "line1": "The lofty car, with mighty wheel, sails not o'er watery main,",
+          "line2": "The boat that skims the sea, runs not on earth's hard plain."
+        },
+        "hi": {
+          "line1": "भारी रथ दृढ़ चक्रयुत, चले न सागर पार ।",
+          "line2": "सागरगामी नाव भी, चले न भू पर तार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kadalodaa Kaalva Nedundher Kadalodum",
+            "line2": "Naavaayum Odaa Nilaththu."
+          },
+          "hi": {
+            "line1": "कडलोडा काल्व नॆडुन्देर् कडलोडु",
+            "line2": "नावायु मोडा निलत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வலிய சக்கரங்களை உடைய பெரிய தேர் கடலில் ஓடாது; கடலில் ஓடும் கப்பலும் நிலத்தில் ஓடாது. அதுபோல ஒவ்வொருவரும் தமக்குரிய இடத்திலேயே சிறப்பர்.",
+        "en": "A heavy chariot belongs on land and a ship belongs at sea—even the finest capability fails outside its proper domain.",
+        "hi": "मजबूत पहियों वाला भारी रथ समुद्र में नहीं चल सकता, और समुद्र में चलने वाली नाव भी सूखी धरती पर नहीं चल सकती।"
+      }
+    },
+    {
+      "num": 497,
+      "line1": "அஞ்சாமை யல்லாற் றுணைவேண்டா வெஞ்சாமை",
+      "line2": "யெண்ணி யிடத்தாற் செயின்.",
+      "enLine1": "Save their own fearless might they need no other aid,",
+      "enLine2": "If in right place they fight, all due provision made.",
+      "hiLine1": "निर्भय के अतिरिक्त तो, चाहिये न सहकार ।",
+      "hiLine2": "उचित जगह पर यदि करें, खूब सोच कर कार ॥",
+      "general": "எஞ்சியிருக்க வேண்டியவற்றையெல்லாம் நன்கு எண்ணித் தக்க இடத்தில் இருந்து செயல் செய்தால், தம் அஞ்சாமையையன்றி வேறு துணை எதுவும் அவர்க்கு வேண்டாம்.",
+      "en": "If one plans every detail carefully and acts from the right place, they need no ally other than their own fearlessness.",
+      "hi": "यदि खूब सोच-विचार कर उचित स्थान पर कार्य किया जाए, तो अपनी निर्भयता के अतिरिक्त किसी अन्य सहायता की आवश्यकता नहीं रहती।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அஞ்சாமை <br>(Anjaamai)",
+          "ta": "அஞ்சாமையை",
+          "en": "Fearless might",
+          "hi": "निर्भय"
+        },
+        {
+          "no": 2,
+          "word": "அல்லால் <br>(Allaal)",
+          "ta": "தவிர வேறு",
+          "en": "Save / other",
+          "hi": "के अतिरिक्त"
+        },
+        {
+          "no": 3,
+          "word": "துணை வேண்டா <br>(Thunai vendaa)",
+          "ta": "துணை தேவையில்லை",
+          "en": "Need no aid",
+          "hi": "चाहिये न सहकार"
+        },
+        {
+          "no": 4,
+          "word": "எஞ்சாமை <br>(Enjaamai)",
+          "ta": "குறைவு இல்லாமல்",
+          "en": "All due provision",
+          "hi": "खूब"
+        },
+        {
+          "no": 5,
+          "word": "எண்ணி <br>(Enni)",
+          "ta": "எண்ணிப் பார்த்து",
+          "en": "Made / thought",
+          "hi": "सोच कर"
+        },
+        {
+          "no": 6,
+          "word": "இடத்தால் <br>(Idaththaal)",
+          "ta": "தக்க இடத்தோடு",
+          "en": "In right place",
+          "hi": "उचित जगह पर"
+        },
+        {
+          "no": 7,
+          "word": "செயின் <br>(Seyin)",
+          "ta": "செயல்பட்டால்",
+          "en": "If they fight",
+          "hi": "यदि करें कार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அஞ்சாமை யல்லாற் றுணைவேண்டா வெஞ்சாமை",
+          "line2": "யெண்ணி யிடத்தாற் செயின்."
+        },
+        "en": {
+          "line1": "Save their own fearless might they need no other aid,",
+          "line2": "If in right place they fight, all due provision made."
+        },
+        "hi": {
+          "line1": "निर्भय के अतिरिक्त तो, चाहिये न सहकार ।",
+          "line2": "उचित जगह पर यदि करें, खूब सोच कर कार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Anjaamai Allaar Thunaivendaa Enjaamai",
+            "line2": "Enni Idaththaar Seyin."
+          },
+          "hi": {
+            "line1": "अञ्जामै यल्लार् तुणैवेण्डा वॆञ्जामै",
+            "line2": "यॆण्णि यिडत्तार् सॆयिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எஞ்சியிருக்க வேண்டியவற்றையெல்லாம் நன்கு எண்ணித் தக்க இடத்தில் இருந்து செயல் செய்தால், தம் அஞ்சாமையையன்றி வேறு துணை எதுவும் அவர்க்கு வேண்டாம்.",
+        "en": "When you prepare thoroughly and operate from the right position, your own courage is all the backup you need.",
+        "hi": "यदि खूब सोच-विचार कर उचित स्थान पर कार्य किया जाए, तो अपनी निर्भयता के अतिरिक्त किसी अन्य सहायता की आवश्यकता नहीं रहती।"
+      }
+    },
+    {
+      "num": 498,
+      "line1": "சிறுபடையான் செல்லிடஞ் சேரி னுறுபடையா",
+      "line2": "னூக்க மழிந்து விடும்.",
+      "enLine1": "If lord of army vast the safe retreat assail",
+      "enLine2": "Of him whose host is small, his mightiest efforts fail.",
+      "hiLine1": "यदि पाता लघु-सैन्य-युत, आश्रय स्थल अनुकूल ।",
+      "hiLine2": "उसपर चढ़ बहु-सैन्य युत, होगा नष्ट समूल ॥",
+      "general": "சிறிய படையை உடையவன் தனக்குத் தக்க இடத்தில் சென்று தங்கியிருந்தால், பெரிய படையை உடையவனது ஊக்கமும் அழிந்துவிடும்.",
+      "en": "If one with a small army occupies a favorable stronghold, the might and pride of a ruler with a vast army will be broken against it.",
+      "hi": "यदि छोटी सेना वाला राजा अपने अनुकूल आश्रय स्थल पर स्थित हो, तो बड़ी सेना लेकर उस पर चढ़ाई करने वाला राजा भी समूल नष्ट हो जाएगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சிறுபடையான் <br>(Sirupadaiyaan)",
+          "ta": "சிறிய படையை உடையவன்",
+          "en": "Whose host is small",
+          "hi": "लघु-सैन्य-युत"
+        },
+        {
+          "no": 2,
+          "word": "செல்லிடம் <br>(Sellidam)",
+          "ta": "தனக்குரிய தக்க இடத்தை",
+          "en": "Safe retreat",
+          "hi": "आश्रय स्थल अनुकूल"
+        },
+        {
+          "no": 3,
+          "word": "சேரின் <br>(Serin)",
+          "ta": "அடைந்தால்",
+          "en": "Assail / reach",
+          "hi": "यदि पाता"
+        },
+        {
+          "no": 4,
+          "word": "உறுபடையான் <br>(Urupadaiyaan)",
+          "ta": "பெரிய படையை உடையவனது",
+          "en": "Lord of army vast",
+          "hi": "बहु-सैन्य युत"
+        },
+        {
+          "no": 5,
+          "word": "ஊக்கம் <br>(Ookkam)",
+          "ta": "மன ஊக்கம்",
+          "en": "Mightiest efforts",
+          "hi": "चढ़ाई"
+        },
+        {
+          "no": 6,
+          "word": "அழிந்து <br>(Azhindhu)",
+          "ta": "அழிந்து",
+          "en": "Fail",
+          "hi": "नष्ट समूल"
+        },
+        {
+          "no": 7,
+          "word": "விடும் <br>(Vidum)",
+          "ta": "போய்விடும்",
+          "en": "Will",
+          "hi": "होगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சிறுபடையான் செல்லிடஞ் சேரி னுறுபடையா",
+          "line2": "னூக்க மழிந்து விடும்."
+        },
+        "en": {
+          "line1": "If lord of army vast the safe retreat assail",
+          "line2": "Of him whose host is small, his mightiest efforts fail."
+        },
+        "hi": {
+          "line1": "यदि पाता लघु-सैन्य-युत, आश्रय स्थल अनुकूल ।",
+          "line2": "उसपर चढ़ बहु-सैन्य युत, होगा नष्ट समूल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sirupadaiyaan Sellidam Serin Urupadaiyaan",
+            "line2": "Ookkam Azhindhu Vidum."
+          },
+          "hi": {
+            "line1": "सिरुपडैयान् सॆल्लिडञ् सेरि नुरुपडैया",
+            "line2": "नूक्क मऴिन्दु विडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சிறிய படையை உடையவன் தனக்குத் தக்க இடத்தில் சென்று தங்கியிருந்தால், பெரிய படையை உடையவனது ஊக்கமும் அழிந்துவிடும்.",
+        "en": "A small force entrenched in the right terrain can break the momentum of a vastly larger army.",
+        "hi": "यदि छोटी सेना वाला राजा अपने अनुकूल आश्रय स्थल पर स्थित हो, तो बड़ी सेना लेकर उस पर चढ़ाई करने वाला राजा भी समूल नष्ट हो जाएगा।"
+      }
+    },
+    {
+      "num": 499,
+      "line1": "சிறைநலனுஞ் சீரு மிலரெனினு மாந்த",
+      "line2": "ருறைநிலத்தோ டொட்ட லரிது.",
+      "enLine1": "Though fort be none, and store of wealth they lack,",
+      "enLine2": "'Tis hard a people's homesteads to attack!",
+      "hiLine1": "सदृढ़ दुर्ग साधन बड़ा, है नहिं रिपु के पास ।",
+      "hiLine2": "फिर भी उसके क्षेत्र में, भिड़ना व्यर्थ प्रयास ॥",
+      "general": "மக்களைக் காக்கும் கோட்டை அரணும், போர்ச் சிறப்பும் இல்லாதவராயினும், அவர் வாழும் நிலத்தில் சென்று அவரைப் பொருது வெல்வது அரிது.",
+      "en": "Even if a people lack strong forts and great wealth, it is very hard to defeat them on their own home ground.",
+      "hi": "यदि शत्रु के पास सुदृढ़ दुर्ग और बड़े साधन न भी हों, फिर भी उसके अपने क्षेत्र में जाकर उससे भिड़ना व्यर्थ प्रयास होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சிறை நலனும் <br>(Sirai nalanum)",
+          "ta": "அரண் சிறப்பும்",
+          "en": "Fort",
+          "hi": "सदृढ़ दुर्ग"
+        },
+        {
+          "no": 2,
+          "word": "சீரும் <br>(Seerum)",
+          "ta": "செல்வப் பெருமையும்",
+          "en": "Store of wealth",
+          "hi": "साधन बड़ा"
+        },
+        {
+          "no": 3,
+          "word": "இலர் எனினும் <br>(Ilar eninum)",
+          "ta": "இல்லாதவராயினும்",
+          "en": "Though they lack",
+          "hi": "है नहिं पास"
+        },
+        {
+          "no": 4,
+          "word": "மாந்தர் <br>(Maandhar)",
+          "ta": "மக்கள்",
+          "en": "A people's",
+          "hi": "रिपु के"
+        },
+        {
+          "no": 5,
+          "word": "உறை நிலத்தோடு <br>(Urai nilaththodu)",
+          "ta": "வாழும் நிலத்தில்",
+          "en": "Homesteads",
+          "hi": "उसके क्षेत्र में"
+        },
+        {
+          "no": 6,
+          "word": "ஒட்டல் <br>(Ottal)",
+          "ta": "எதிர்த்துப் பொருதல்",
+          "en": "To attack",
+          "hi": "भिड़ना"
+        },
+        {
+          "no": 7,
+          "word": "அரிது <br>(Aridhu)",
+          "ta": "அரிதாகும்",
+          "en": "'Tis hard",
+          "hi": "व्यर्थ प्रयास"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சிறைநலனுஞ் சீரு மிலரெனினு மாந்த",
+          "line2": "ருறைநிலத்தோ டொட்ட லரிது."
+        },
+        "en": {
+          "line1": "Though fort be none, and store of wealth they lack,",
+          "line2": "'Tis hard a people's homesteads to attack!"
+        },
+        "hi": {
+          "line1": "सदृढ़ दुर्ग साधन बड़ा, है नहिं रिपु के पास ।",
+          "line2": "फिर भी उसके क्षेत्र में, भिड़ना व्यर्थ प्रयास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sirainalanunj Seerum Ilareninum Maandhar",
+            "line2": "Urainilaththodu Ottal Aridhu."
+          },
+          "hi": {
+            "line1": "सिरैनलनुञ् सीरु मिलरॆनिनु मान्द",
+            "line2": "रुरैनिलत्तो डॊट्ट लरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மக்களைக் காக்கும் கோட்டை அரணும், போர்ச் சிறப்பும் இல்லாதவராயினும், அவர் வாழும் நிலத்தில் சென்று அவரைப் பொருது வெல்வது அரிது.",
+        "en": "Never underestimate defenders on their home turf—even without forts or wealth, people are formidable on familiar ground.",
+        "hi": "यदि शत्रु के पास सुदृढ़ दुर्ग और बड़े साधन न भी हों, फिर भी उसके अपने क्षेत्र में जाकर उससे भिड़ना व्यर्थ प्रयास होता है।"
+      }
+    },
+    {
+      "num": 500,
+      "line1": "காலாழ் களரி னரியடுங் கண்ணஞ்சா",
+      "line2": "வேலாண் முகத்த களிறு.",
+      "enLine1": "The jackall slays, in miry paths of foot-betraying fen,",
+      "enLine2": "The elephant of fearless eye and tusks transfixing armèd men.",
+      "hiLine1": "जिस निर्भय गजराज के, दन्तलग्न बरछैत ।",
+      "hiLine2": "गीदड़ भी मारे उसे, जब दलदल में कैद ॥",
+      "general": "கால் புதையும் சேற்று நிலத்தில் சிக்கிக்கொண்டால், வேலேந்திய வீரரையும் குத்திக் கொல்லும் அஞ்சாத கண்களை உடைய யானையையும் நரி கொன்றுவிடும்.",
+      "en": "In a muddy marsh where feet sink deep, even a jackal can slay a fearless elephant that has impaled armed spearmen on its tusks.",
+      "hi": "जिस निर्भय गजराज के दाँतों में भालाधारी वीर भी बिंध जाते हैं, दलदल में फँस जाने पर उसे गीदड़ भी मार डालता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கால் ஆழ் களரின் <br>(Kaal aazh kalarin)",
+          "ta": "கால் புதையும் சேற்று நிலத்தில்",
+          "en": "Miry paths of fen",
+          "hi": "दलदल में कैद"
+        },
+        {
+          "no": 2,
+          "word": "நரி <br>(Nari)",
+          "ta": "நரி",
+          "en": "The jackall",
+          "hi": "गीदड़ भी"
+        },
+        {
+          "no": 3,
+          "word": "அடும் <br>(Adum)",
+          "ta": "கொன்றுவிடும்",
+          "en": "Slays",
+          "hi": "मारे उसे"
+        },
+        {
+          "no": 4,
+          "word": "கண் அஞ்சா <br>(Kan anjaa)",
+          "ta": "கண் அஞ்சாத",
+          "en": "Fearless eye",
+          "hi": "निर्भय"
+        },
+        {
+          "no": 5,
+          "word": "வேல் ஆள் <br>(Vel aal)",
+          "ta": "வேலேந்திய வீரரைக் குத்திய",
+          "en": "Armèd men",
+          "hi": "बरछैत"
+        },
+        {
+          "no": 6,
+          "word": "முகத்த <br>(Mugaththa)",
+          "ta": "முகத்தினை உடைய",
+          "en": "Tusks transfixing",
+          "hi": "दन्तलग्न"
+        },
+        {
+          "no": 7,
+          "word": "களிறு <br>(Kaliru)",
+          "ta": "யானையை",
+          "en": "The elephant",
+          "hi": "गजराज"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "காலாழ் களரி னரியடுங் கண்ணஞ்சா",
+          "line2": "வேலாண் முகத்த களிறு."
+        },
+        "en": {
+          "line1": "The jackall slays, in miry paths of foot-betraying fen,",
+          "line2": "The elephant of fearless eye and tusks transfixing armèd men."
+        },
+        "hi": {
+          "line1": "जिस निर्भय गजराज के, दन्तलग्न बरछैत ।",
+          "line2": "गीदड़ भी मारे उसे, जब दलदल में कैद ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaalaazh Kalarin Nariyadum Kannanjaa",
+            "line2": "Velaal Mugaththa Kaliru."
+          },
+          "hi": {
+            "line1": "कालाऴ् कळरि नरियडुङ् कण्णञ्जा",
+            "line2": "वेलाण् मुगत्त कळिरु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கால் புதையும் சேற்று நிலத்தில் சிக்கிக்கொண்டால், வேலேந்திய வீரரையும் குத்திக் கொல்லும் அஞ்சாத கண்களை உடைய யானையையும் நரி கொன்றுவிடும்.",
+        "en": "Even a mighty war elephant can be brought down by a jackal if it gets trapped in a bog—never enter terrain that neutralizes your strengths.",
+        "hi": "जिस निर्भय गजराज के दाँतों में भालाधारी वीर भी बिंध जाते हैं, दलदल में फँस जाने पर उसे गीदड़ भी मार डालता है।"
+      }
+    }
+  ]
+}

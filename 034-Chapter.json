@@ -1,0 +1,930 @@
+{
+  "chapterNum": 34,
+  "nameTa": "நிலையாமை",
+  "nameEn": "Instability",
+  "nameHi": "अनित्यता",
+  "paal": "அறத்துப்பால்",
+  "iyal": "துறவறவியல்",
+  "kurals": [
+    {
+      "num": 331,
+      "line1": "நில்லா தவற்றை நிலையின வென்றுணரும்",
+      "line2": "புல்லறி வாண்மை கடை.",
+      "enLine1": "Lowest and meanest lore, that bids men trust secure,",
+      "enLine2": "In things that pass away, as things that shall endure!",
+      "hiLine1": "जो हैं अनित्यवस्तुएँ, नित्य वस्तु सम भाव ।",
+      "hiLine2": "अल्पबुद्धिवश जो रहा, है यह नीच स्वभाव ॥",
+      "general": "நிலையில்லாத பொருள்களை நிலையானவை என்று கருதி மயங்கும் அற்ப அறிவுடைமை மிகவும் இழிவானதாகும்.",
+      "en": "The lowest and meanest ignorance is that which regards impermanent things as permanent.",
+      "hi": "जो वस्तुएँ अनित्य (नाशवान) हैं, उनके प्रति अल्पबुद्धि के कारण नित्य वस्तु के समान भाव रखना—यह अत्यंत नीच स्वभाव (अज्ञान) है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நில்லாதவற்றை <br>(Nillaadhavatrai)",
+          "ta": "நிலையில்லாதவற்றை",
+          "en": "Things that pass away",
+          "hi": "अनित्यवस्तुएँ"
+        },
+        {
+          "no": 2,
+          "word": "நிலையின <br>(Nilaiyina)",
+          "ta": "நிலையானவை",
+          "en": "Things that shall endure",
+          "hi": "नित्य वस्तु"
+        },
+        {
+          "no": 3,
+          "word": "என்று <br>(Endru)",
+          "ta": "என்று",
+          "en": "As",
+          "hi": "सम"
+        },
+        {
+          "no": 4,
+          "word": "உணரும் <br>(Unarum)",
+          "ta": "கருதும்",
+          "en": "Bids men trust",
+          "hi": "भाव रखना"
+        },
+        {
+          "no": 5,
+          "word": "புல்லறிவு <br>(Pullarivu)",
+          "ta": "அற்ப அறிவு",
+          "en": "Meanest lore",
+          "hi": "अल्पबुद्धिवश"
+        },
+        {
+          "no": 6,
+          "word": "ஆண்மை <br>(Aanmai)",
+          "ta": "உடைமை",
+          "en": "Possession / nature",
+          "hi": "स्वभाव"
+        },
+        {
+          "no": 7,
+          "word": "கடை <br>(Kadai)",
+          "ta": "மிக இழிவானது",
+          "en": "Lowest",
+          "hi": "नीच"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நில்லா தவற்றை நிலையின வென்றுணரும்",
+          "line2": "புல்லறி வாண்மை கடை."
+        },
+        "en": {
+          "line1": "Lowest and meanest lore, that bids men trust secure,",
+          "line2": "In things that pass away, as things that shall endure!"
+        },
+        "hi": {
+          "line1": "जो हैं अनित्यवस्तुएँ, नित्य वस्तु सम भाव ।",
+          "line2": "अल्पबुद्धिवश जो रहा, है यह नीच स्वभाव ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nillaa Dhavatrai Nilaiyina Vendrunarum",
+            "line2": "Pullari Vaanmai Kadai."
+          },
+          "hi": {
+            "line1": "निल्ला दवत्रै निलैयिन वॆन्द्रुणरुम्",
+            "line2": "पुल्लरि वाण्मै कडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நிலையில்லாத பொருள்களை நிலையானவை என்று கருதி மயங்கும் அற்ப அறிவுடைமை மிகவும் இழிவானதாகும்.",
+        "en": "Mistaking fleeting, temporary things for permanent reality is the lowest form of shallow ignorance.",
+        "hi": "जो वस्तुएँ अनित्य (नाशवान) हैं, उनके प्रति अल्पबुद्धि के कारण नित्य वस्तु के समान भाव रखना—यह अत्यंत नीच स्वभाव (अज्ञान) है।"
+      }
+    },
+    {
+      "num": 332,
+      "line1": "கூத்தாட் டவைக்குழாத் தற்றே பெருஞ்செல்வம்",
+      "line2": "போக்கு மதுவிளிந் தற்று.",
+      "enLine1": "As crowds round dancers fill the hall, is wealth's increase;",
+      "enLine2": "Its loss, as throngs dispersing, when the dances cease.",
+      "hiLine1": "रंग-भूमि में ज्यो जमे, दर्शक गण की भीड़ ।",
+      "hiLine2": "जुड़े प्रचुर संपत्ति त्यों, छँटे यथा वह भीड़ ॥",
+      "general": "பெருஞ்செல்வம் வந்து சேருவது கூத்தாடும் அரங்கில் கூட்டம் கூடுவது போன்றது; அச்செல்வம் நீங்கிப் போவதும் கூத்து முடிந்ததும் அக்கூட்டம் கலைந்து போவது போன்றது.",
+      "en": "The accumulation of great wealth is like the gathering of a crowd in a theater; its departure is like that crowd dispersing when the show ends.",
+      "hi": "जैसे रंगमंच पर नाच-गान के समय दर्शकों की भीड़ जमा होती है और खेल समाप्त होते ही छँट जाती है, वैसे ही प्रचुर संपत्ति आती और चली जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கூத்தாட்டு <br>(Kooththaattu)",
+          "ta": "கூத்தாடும்",
+          "en": "Dancers",
+          "hi": "रंग-भूमि में"
+        },
+        {
+          "no": 2,
+          "word": "அவைக்குழாத்து <br>(Avaikkuzhaaththu)",
+          "ta": "அரங்கில் கூடும் கூட்டம்",
+          "en": "Crowds fill the hall",
+          "hi": "दर्शक गण की भीड़"
+        },
+        {
+          "no": 3,
+          "word": "அற்றே <br>(Atre)",
+          "ta": "போன்றதே",
+          "en": "Is like",
+          "hi": "ज्यों जमे"
+        },
+        {
+          "no": 4,
+          "word": "பெருஞ்செல்வம் <br>(Perunjelvam)",
+          "ta": "பெருஞ்செல்வம்",
+          "en": "Wealth's increase",
+          "hi": "प्रचुर संपत्ति"
+        },
+        {
+          "no": 5,
+          "word": "போக்கும் <br>(Pokkum)",
+          "ta": "அதன் நீக்கமும்",
+          "en": "Its loss",
+          "hi": "जाना भी"
+        },
+        {
+          "no": 6,
+          "word": "அது <br>(Adhu)",
+          "ta": "அக்கூத்து",
+          "en": "When the dances",
+          "hi": "यथा वह भीड़"
+        },
+        {
+          "no": 7,
+          "word": "விளிந்தற்று <br>(Vilindhatru)",
+          "ta": "முடிந்து கலைவது போன்றது",
+          "en": "Cease / dispersing",
+          "hi": "छँटे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கூத்தாட் டவைக்குழாத் தற்றே பெருஞ்செல்வம்",
+          "line2": "போக்கு மதுவிளிந் தற்று."
+        },
+        "en": {
+          "line1": "As crowds round dancers fill the hall, is wealth's increase;",
+          "line2": "Its loss, as throngs dispersing, when the dances cease."
+        },
+        "hi": {
+          "line1": "रंग-भूमि में ज्यो जमे, दर्शक गण की भीड़ ।",
+          "line2": "जुड़े प्रचुर संपत्ति त्यों, छँटे यथा वह भीड़ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kooththaattu Avaikkuzhaaththu Atre Perunjelvam",
+            "line2": "Pokkum Adhuvilindh Attru."
+          },
+          "hi": {
+            "line1": "कूत्ताट् टवैक्कुऴात् तत्रे पॆरुञ्सॆल्वम्",
+            "line2": "पोक्कु मदुविळिन् तत्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பெருஞ்செல்வம் வந்து சேருவது கூத்தாடும் அரங்கில் கூட்டம் கூடுவது போன்றது; அச்செல்வம் நீங்கிப் போவதும் கூத்து முடிந்ததும் அக்கூட்டம் கலைந்து போவது போன்றது.",
+        "en": "Great wealth gathers like an audience filling a theatre before a performance, and vanishes just as quickly when the show is over.",
+        "hi": "जैसे रंगमंच पर नाच-गान के समय दर्शकों की भीड़ जमा होती है और खेल समाप्त होते ही छँट जाती है, वैसे ही प्रचुर संपत्ति आती और चली जाती है।"
+      }
+    },
+    {
+      "num": 333,
+      "line1": "அற்கா வியல்பிற்றுச் செல்வ மதுபெற்றா",
+      "line2": "லற்குப வாங்கே செயல்.",
+      "enLine1": "Unenduring is all wealth; if you wealth enjoy,",
+      "enLine2": "Enduring works in working wealth straightway employ.",
+      "hiLine1": "धन की प्रकृति अनित्य है, यदि पावे ऐश्वर्य ।",
+      "hiLine2": "तो करना तत्काल ही, नित्य धर्म सब वर्य ॥",
+      "general": "செல்வம் நிலையில்லாத இயல்பினை உடையது; ஆதலால் அச்செல்வத்தைப் பெற்றால், அப்பொழுதே நிலையான அறச் செயல்களைச் செய்ய வேண்டும்.",
+      "en": "Wealth is by nature unenduring; therefore, when you obtain it, immediately use it to perform enduring good deeds.",
+      "hi": "धन की प्रकृति अनित्य (अस्थायी) है; इसलिए यदि तुम्हें ऐश्वर्य प्राप्त हो जाए, तो उसी समय तत्काल श्रेष्ठ और स्थायी धर्म-कर्म कर लेना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அற்கா <br>(Arkaa)",
+          "ta": "நிலையில்லாத",
+          "en": "Unenduring",
+          "hi": "अनित्य"
+        },
+        {
+          "no": 2,
+          "word": "இயல்பிற்று <br>(Iyalbitru)",
+          "ta": "இயல்புடையது",
+          "en": "Is all",
+          "hi": "प्रकृति है"
+        },
+        {
+          "no": 3,
+          "word": "செல்வம் <br>(Selvam)",
+          "ta": "செல்வம்",
+          "en": "Wealth",
+          "hi": "धन की"
+        },
+        {
+          "no": 4,
+          "word": "அதுபெற்றால் <br>(Adhupetraal)",
+          "ta": "அதைப் பெற்றால்",
+          "en": "If you wealth enjoy",
+          "hi": "यदि पावे ऐश्वर्य"
+        },
+        {
+          "no": 5,
+          "word": "அற்குப <br>(Arkuba)",
+          "ta": "நிலையான அறங்களை",
+          "en": "Enduring works",
+          "hi": "नित्य धर्म"
+        },
+        {
+          "no": 6,
+          "word": "ஆங்கே <br>(Aange)",
+          "ta": "அப்பொழுதே",
+          "en": "Straightway",
+          "hi": "तत्काल ही"
+        },
+        {
+          "no": 7,
+          "word": "செயல் <br>(Seyal)",
+          "ta": "செய்ய வேண்டும்",
+          "en": "Employ / do",
+          "hi": "करना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அற்கா வியல்பிற்றுச் செல்வ மதுபெற்றா",
+          "line2": "லற்குப வாங்கே செயல்."
+        },
+        "en": {
+          "line1": "Unenduring is all wealth; if you wealth enjoy,",
+          "line2": "Enduring works in working wealth straightway employ."
+        },
+        "hi": {
+          "line1": "धन की प्रकृति अनित्य है, यदि पावे ऐश्वर्य ।",
+          "line2": "तो करना तत्काल ही, नित्य धर्म सब वर्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arkaa Viyalbitruch Selvam Adhupetraal",
+            "line2": "Arkuba Vaange Seyal."
+          },
+          "hi": {
+            "line1": "अर्का वियल्पित्रुच् सॆल्व मदुपॆत्रा",
+            "line2": "लर्कुप वाङ्गे सॆयल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செல்வம் நிலையில்லாத இயல்பினை உடையது; ஆதலால் அச்செல்வத்தைப் பெற்றால், அப்பொழுதே நிலையான அறச் செயல்களைச் செய்ய வேண்டும்.",
+        "en": "Since wealth is inherently fleeting, the moment it comes into your hands, put it toward lasting acts of goodness without delay.",
+        "hi": "धन की प्रकृति अनित्य (अस्थायी) है; इसलिए यदि तुम्हें ऐश्वर्य प्राप्त हो जाए, तो उसी समय तत्काल श्रेष्ठ और स्थायी धर्म-कर्म कर लेना चाहिए।"
+      }
+    },
+    {
+      "num": 334,
+      "line1": "நாளென வொன்றுபோற் காட்டி யுயிரீரும்",
+      "line2": "வாள துணர்வார்ப் பெறின்.",
+      "enLine1": "As 'day' it vaunts itself; well understood, 'tis 'knife,'",
+      "enLine2": "That daily cuts away a portion from thy life.",
+      "hiLine1": "काल-मान सम भासता, दिन है आरी-दांत ।",
+      "hiLine2": "सोचो तो वह आयु को, चीर रहा दुर्दान्त ॥",
+      "general": "நாளென்று காட்டப்படுவது கால அளவு போல் தோன்றினாலும், ஆராய்ந்து உணர்வார்க்கு அது உயிரை அறுக்கும் வாள் போன்றதாகும்.",
+      "en": "What appears to be a mere 'day' is, to those who truly understand, a saw that relentlessly cuts away one's life.",
+      "hi": "जो 'दिन' समय के एक माप के समान प्रतीत होता है, वह वास्तव में आरी के दांत के समान है; विचार करके देखो तो वह तुम्हारी आयु को निरंतर काट रहा है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நாள் என <br>(Naal ena)",
+          "ta": "நாள் என்று",
+          "en": "As 'day'",
+          "hi": "दिन"
+        },
+        {
+          "no": 2,
+          "word": "ஒன்று போல் <br>(Ondru pol)",
+          "ta": "ஒரு பொருள் போல்",
+          "en": "Vaunts itself",
+          "hi": "काल-मान सम"
+        },
+        {
+          "no": 3,
+          "word": "காட்டி <br>(Kaatti)",
+          "ta": "காட்டி",
+          "en": "Showing",
+          "hi": "भासता"
+        },
+        {
+          "no": 4,
+          "word": "உயிர் ஈரும் <br>(Uyir eerum)",
+          "ta": "உயிரை அறுக்கும்",
+          "en": "Cuts away thy life",
+          "hi": "आयु को चीर रहा"
+        },
+        {
+          "no": 5,
+          "word": "வாள் அது <br>(Vaal adhu)",
+          "ta": "வாள் ஆகும் அது",
+          "en": "'Tis 'knife'",
+          "hi": "आरी-दांत है"
+        },
+        {
+          "no": 6,
+          "word": "உணர்வார் <br>(Unarvaar)",
+          "ta": "ஆராய்ந்து உணர்வார்",
+          "en": "Well understood",
+          "hi": "सोचो तो"
+        },
+        {
+          "no": 7,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "கிடைத்தால்",
+          "en": "If perceived",
+          "hi": "समझने पर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாளென வொன்றுபோற் காட்டி யுயிரீரும்",
+          "line2": "வாள துணர்வார்ப் பெறின்."
+        },
+        "en": {
+          "line1": "As 'day' it vaunts itself; well understood, 'tis 'knife,'",
+          "line2": "That daily cuts away a portion from thy life."
+        },
+        "hi": {
+          "line1": "काल-मान सम भासता, दिन है आरी-दांत ।",
+          "line2": "सोचो तो वह आयु को, चीर रहा दुर्दान्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naalena Ondrupol Kaatti Uyireerum",
+            "line2": "Vaala Dhunarvaarp Perin."
+          },
+          "hi": {
+            "line1": "नाळॆन वॊन्द्रुपोल् काट्टि युयिरीरुम्",
+            "line2": "वाळ दुणर्वार्प् पॆरिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நாளென்று காட்டப்படுவது கால அளவு போல் தோன்றினாலும், ஆராய்ந்து உணர்வார்க்கு அது உயிரை அறுக்கும் வாள் போன்றதாகும்.",
+        "en": "What looks like just another passing day is actually a sharp blade slicing another piece off your lifespan, if only you pause to see it.",
+        "hi": "जो 'दिन' समय के एक माप के समान प्रतीत होता है, वह वास्तव में आरी के दांत के समान है; विचार करके देखो तो वह तुम्हारी आयु को निरंतर काट रहा है।"
+      }
+    },
+    {
+      "num": 335,
+      "line1": "நாச்செற்று விக்குண்மேல் வாராமு னல்வினை",
+      "line2": "மேற்சென்று செய்யப் படும்.",
+      "enLine1": "Before the tongue lie powerless, 'mid the gasp of gurgling breath,",
+      "enLine2": "Arouse thyself, and do good deeds beyond the power of death.",
+      "hiLine1": "जीभ बंद हो, हिचकियाँ लगने से ही पूर्व ।",
+      "hiLine2": "चटपट करना चाहिये, जो है कर्म अपूर्व ॥",
+      "general": "நாக்கு அடங்கி, விக்கல் மேலே வருவதற்கு முன்பே, விரைந்து சென்று நல்வினைகளைச் செய்ய வேண்டும்.",
+      "en": "Before the tongue fails and the final hiccups of death arrive, one must hasten to perform good deeds.",
+      "hi": "मृत्यु के समय जीभ के बंद होने और अंतिम हिचकियाँ लगने से पहले ही, मनुष्य को शीघ्रता से श्रेष्ठ शुभ कर्म कर लेने चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நாச்செற்று <br>(Naachchetru)",
+          "ta": "நாக்கு அடங்கி",
+          "en": "Tongue lie powerless",
+          "hi": "जीभ बंद हो"
+        },
+        {
+          "no": 2,
+          "word": "விக்குள் <br>(Vikkul)",
+          "ta": "விக்கல்",
+          "en": "Gasp of breath",
+          "hi": "हिचकियाँ"
+        },
+        {
+          "no": 3,
+          "word": "மேல்வாரா முன் <br>(Melvaaraa mun)",
+          "ta": "மேலே வருவதற்கு முன்",
+          "en": "Before arriving",
+          "hi": "लगने से ही पूर्व"
+        },
+        {
+          "no": 4,
+          "word": "நல்வினை <br>(Nalvinai)",
+          "ta": "நல்வினைகளை",
+          "en": "Good deeds",
+          "hi": "कर्म अपूर्व"
+        },
+        {
+          "no": 5,
+          "word": "மேற்சென்று <br>(Mersendru)",
+          "ta": "விரைந்து சென்று",
+          "en": "Arouse thyself",
+          "hi": "चटपट"
+        },
+        {
+          "no": 6,
+          "word": "செய்ய <br>(Seyya)",
+          "ta": "செய்ய",
+          "en": "Do",
+          "hi": "करना"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "வேண்டும்",
+          "en": "Must",
+          "hi": "चाहिये"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாச்செற்று விக்குண்மேல் வாராமு னல்வினை",
+          "line2": "மேற்சென்று செய்யப் படும்."
+        },
+        "en": {
+          "line1": "Before the tongue lie powerless, 'mid the gasp of gurgling breath,",
+          "line2": "Arouse thyself, and do good deeds beyond the power of death."
+        },
+        "hi": {
+          "line1": "जीभ बंद हो, हिचकियाँ लगने से ही पूर्व ।",
+          "line2": "चटपट करना चाहिये, जो है कर्म अपूर्व ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naachchetru Vikkunmel Vaaraamu Nalvinai",
+            "line2": "Mersendru Seyyap Padum."
+          },
+          "hi": {
+            "line1": "नाच्चॆत्रु विक्कुण्मेल् वारामु नल्विनै",
+            "line2": "मेर्सॆन्द्रु सॆय्यप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நாக்கு அடங்கி, விக்கல் மேலே வருவதற்கு முன்பே, விரைந்து சென்று நல்வினைகளைச் செய்ய வேண்டும்.",
+        "en": "Don't wait until your voice fails and death's final gasps take over—step up now and do good deeds while you still have strength.",
+        "hi": "मृत्यु के समय जीभ के बंद होने और अंतिम हिचकियाँ लगने से पहले ही, मनुष्य को शीघ्रता से श्रेष्ठ शुभ कर्म कर लेने चाहिए।"
+      }
+    },
+    {
+      "num": 336,
+      "line1": "நெருந லுளனொருவ னின்றில்லை யென்னும்",
+      "line2": "பெருமை யுடைத்திவ் வுலகு.",
+      "enLine1": "Existing yesterday, to-day to nothing hurled!—",
+      "enLine2": "Such greatness owns this transitory world.",
+      "hiLine1": "कल जो था, बस, आज तो, प्राप्त किया पंचत्व ।",
+      "hiLine2": "पाया है संसार ने, ऐसा बड़ा महत्व ॥",
+      "general": "நேற்று இருந்த ஒருவன் இன்று இல்லாமல் போய்விட்டான் என்று சொல்லப்படும் நிலையாமையாகிய பெருமையை உடையது இவ்வுலகம்.",
+      "en": "This world possesses the strange distinction that one who existed yesterday is no more today.",
+      "hi": "जो व्यक्ति कल जीवित था, आज वह पंचतत्व में विलीन हो गया—इस नश्वर संसार ने बस यही अनित्यता का बड़ा महत्व पाया है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நெருநல் <br>(Nerunal)",
+          "ta": "நேற்று",
+          "en": "Yesterday",
+          "hi": "कल"
+        },
+        {
+          "no": 2,
+          "word": "உளன் <br>(Ulan)",
+          "ta": "இருந்த",
+          "en": "Existing",
+          "hi": "जो था"
+        },
+        {
+          "no": 3,
+          "word": "ஒருவன் <br>(Oruvan)",
+          "ta": "ஒருவன்",
+          "en": "One",
+          "hi": "व्यक्ति"
+        },
+        {
+          "no": 4,
+          "word": "இன்று இல்லை <br>(Indru illai)",
+          "ta": "இன்று இல்லை",
+          "en": "To-day to nothing",
+          "hi": "आज तो प्राप्त किया पंचत्व"
+        },
+        {
+          "no": 5,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்று சொல்லப்படும்",
+          "en": "Such",
+          "hi": "ऐसा"
+        },
+        {
+          "no": 6,
+          "word": "பெருமை உடைத்து <br>(Perumai udaiththu)",
+          "ta": "பெருமையை உடையது",
+          "en": "Greatness owns",
+          "hi": "पाया बड़ा महत्व"
+        },
+        {
+          "no": 7,
+          "word": "இவ்வுலகு <br>(Ivvulagu)",
+          "ta": "இவ்வுலகம்",
+          "en": "This world",
+          "hi": "संसार ने"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நெருந லுளனொருவ னின்றில்லை யென்னும்",
+          "line2": "பெருமை யுடைத்திவ் வுலகு."
+        },
+        "en": {
+          "line1": "Existing yesterday, to-day to nothing hurled!—",
+          "line2": "Such greatness owns this transitory world."
+        },
+        "hi": {
+          "line1": "कल जो था, बस, आज तो, प्राप्त किया पंचत्व ।",
+          "line2": "पाया है संसार ने, ऐसा बड़ा महत्व ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Neruna Lulanoruva Nindrillai Yennum",
+            "line2": "Perumai Udaiththiv Vulagu."
+          },
+          "hi": {
+            "line1": "नॆरुन लुळनॊरुव निन्द्रिल्लै यॆन्नुम्",
+            "line2": "पॆरुमै युडैत्तिव् वुलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நேற்று இருந்த ஒருவன் இன்று இல்லாமல் போய்விட்டான் என்று சொல்லப்படும் நிலையாமையாகிய பெருமையை உடையது இவ்வுலகம்.",
+        "en": "Here yesterday, gone today—that is the fleeting reality this world is known for.",
+        "hi": "जो व्यक्ति कल जीवित था, आज वह पंचतत्व में विलीन हो गया—इस नश्वर संसार ने बस यही अनित्यता का बड़ा महत्व पाया है।"
+      }
+    },
+    {
+      "num": 337,
+      "line1": "ஒருபொழுதும் வாழ்வது அறியார் கருதுப",
+      "line2": "கோடியும் அல்ல பல.",
+      "enLine1": "Who know not if their happy lives shall last the day,",
+      "enLine2": "In fancies infinite beguile the hours away!",
+      "hiLine1": "अगले क्षण क्या जी रहें, इसका है नहिं बोध ।",
+      "hiLine2": "चिंतन कोटिन, अनगिनत, करते रहें अबोध ॥",
+      "general": "ஒரு நொடிப்பொழுதும் உயிர் வாழ்வதன் உறுதியை அறியாதவர்கள், கோடியும் அல்லாமல் பல கோடி எண்ணங்களை எண்ணுகின்றனர்.",
+      "en": "People who do not know for certain whether they will live for even a single moment indulge in more than ten million idle thoughts.",
+      "hi": "मनुष्य को इस बात का भी बोध नहीं है कि वह अगले क्षण जीवित रहेगा या नहीं, फिर भी वह अबोध करोड़ों और अनगिनत कल्पनाएँ करता रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒருபொழுதும் <br>(Orupozhudhum)",
+          "ta": "ஒரு பொழுதும்",
+          "en": "Last the day / moment",
+          "hi": "अगले क्षण"
+        },
+        {
+          "no": 2,
+          "word": "வாழ்வது <br>(Vaazhvadhu)",
+          "ta": "உயிர் வாழ்வதை",
+          "en": "Lives",
+          "hi": "क्या जी रहें"
+        },
+        {
+          "no": 3,
+          "word": "அறியார் <br>(Ariyaar)",
+          "ta": "அறியாதவர்",
+          "en": "Who know not",
+          "hi": "इसका है नहिं बोध"
+        },
+        {
+          "no": 4,
+          "word": "கருதுப <br>(Karudhuba)",
+          "ta": "எண்ணுகின்றார்",
+          "en": "Beguile / think",
+          "hi": "चिंतन करते रहें"
+        },
+        {
+          "no": 5,
+          "word": "கோடியும் <br>(Kodiyum)",
+          "ta": "கோடியும்",
+          "en": "Ten million",
+          "hi": "कोटिन"
+        },
+        {
+          "no": 6,
+          "word": "அல்ல <br>(Alla)",
+          "ta": "அல்லாமல்",
+          "en": "Not only",
+          "hi": "ही नहीं"
+        },
+        {
+          "no": 7,
+          "word": "பல <br>(Pala)",
+          "ta": "மிகப் பலவற்றை",
+          "en": "Infinite / many",
+          "hi": "अनगिनत"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒருபொழுதும் வாழ்வது அறியார் கருதுப",
+          "line2": "கோடியும் அல்ல பல."
+        },
+        "en": {
+          "line1": "Who know not if their happy lives shall last the day,",
+          "line2": "In fancies infinite beguile the hours away!"
+        },
+        "hi": {
+          "line1": "अगले क्षण क्या जी रहें, इसका है नहिं बोध ।",
+          "line2": "चिंतन कोटिन, अनगिनत, करते रहें अबोध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Orupozhudhum Vaazhvadhu Ariyaar Karudhuba",
+            "line2": "Kodiyum Alla Pala."
+          },
+          "hi": {
+            "line1": "ऒरुपॊऴुदुम् वाऴ्वदु अरियार् करुदुब",
+            "line2": "कोडियुम् अल्ल पल."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு நொடிப்பொழுதும் உயிர் வாழ்வதன் உறுதியை அறியாதவர்கள், கோடியும் அல்லாமல் பல கோடி எண்ணங்களை எண்ணுகின்றனர்.",
+        "en": "Without even knowing if we'll survive the next hour, we still spend our time chasing millions of endless schemes and daydreams.",
+        "hi": "मनुष्य को इस बात का भी बोध नहीं है कि वह अगले क्षण जीवित रहेगा या नहीं, फिर भी वह अबोध करोड़ों और अनगिनत कल्पनाएँ करता रहता है।"
+      }
+    },
+    {
+      "num": 338,
+      "line1": "குடம்பை தனித்தொழியப் புட்பறந் தற்றே",
+      "line2": "யுடம்போ டுயிரிடை நட்பு.",
+      "enLine1": "Birds fly away, and leave the nest deserted bare;",
+      "enLine2": "Such is the short-lived friendship soul and body share.",
+      "hiLine1": "अंडा फूट हुआ अलग, तो पंछी उड़ जाय ।",
+      "hiLine2": "वैसा देही-देह का, नाता जाना जाय ॥",
+      "general": "பறவை தன் முட்டைக்கூடு தனித்து இருக்கத் தாம் பறந்து செல்வது போன்றதே, உடம்போடு உயிருக்கு உள்ள நட்பாகும்.",
+      "en": "The friendship between the body and the soul is like a bird flying away and leaving its nest empty behind.",
+      "hi": "जैसे अंडा फूटकर अलग होते ही पक्षी उड़ जाता है, वैसे ही शरीर और जीवात्मा (देही-देह) का नाता समझना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குடம்பை <br>(Kudambai)",
+          "ta": "கூடு / முட்டை",
+          "en": "The nest",
+          "hi": "अंडा"
+        },
+        {
+          "no": 2,
+          "word": "தனித்தொழிய <br>(Thaniththozhiya)",
+          "ta": "தனித்து இருக்க",
+          "en": "Leave deserted bare",
+          "hi": "फूट हुआ अलग"
+        },
+        {
+          "no": 3,
+          "word": "புள் <br>(Pul)",
+          "ta": "பறவை",
+          "en": "Birds",
+          "hi": "पक्षी"
+        },
+        {
+          "no": 4,
+          "word": "பறந்தற்றே <br>(Parandhatre)",
+          "ta": "பறந்து போனது போன்றதே",
+          "en": "Fly away, such is",
+          "hi": "उड़ जाय वैसा"
+        },
+        {
+          "no": 5,
+          "word": "உடம்போடு <br>(Udambodu)",
+          "ta": "உடம்போடு",
+          "en": "Body",
+          "hi": "देह"
+        },
+        {
+          "no": 6,
+          "word": "உயிரிடை <br>(Uyiridai)",
+          "ta": "உயிருக்கு இடையே",
+          "en": "Soul",
+          "hi": "देही का"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "உள்ள நட்பு",
+          "en": "Friendship",
+          "hi": "नाता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குடம்பை தனித்தொழியப் புட்பறந் தற்றே",
+          "line2": "யுடம்போ டுயிரிடை நட்பு."
+        },
+        "en": {
+          "line1": "Birds fly away, and leave the nest deserted bare;",
+          "line2": "Such is the short-lived friendship soul and body share."
+        },
+        "hi": {
+          "line1": "अंडा फूट हुआ अलग, तो पंछी उड़ जाय ।",
+          "line2": "वैसा देही-देह का, नाता जाना जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kudambai Thaniththozhiyap Putparandh Atre",
+            "line2": "Udambodu Uyiridai Natpu."
+          },
+          "hi": {
+            "line1": "कुडम्बै तनित्तॊऴियप् पुट्परन् तत्रे",
+            "line2": "युडम्बो डुयिरिडै नट्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பறவை தன் முட்டைக்கூடு தனித்து இருக்கத் தாம் பறந்து செல்வது போன்றதே, உடம்போடு உயிருக்கு உள்ள நட்பாகும்.",
+        "en": "The bond between body and soul is just like a bird taking flight and leaving its empty nest behind.",
+        "hi": "जैसे अंडा फूटकर अलग होते ही पक्षी उड़ जाता है, वैसे ही शरीर और जीवात्मा (देही-देह) का नाता समझना चाहिए।"
+      }
+    },
+    {
+      "num": 339,
+      "line1": "உறங்குவது போலும் சாக்காடு உறங்கி",
+      "line2": "விழிப்பது போலும் பிறப்பு.",
+      "enLine1": "Death is sinking into slumbers deep;",
+      "enLine2": "Birth again is waking out of sleep.",
+      "hiLine1": "निद्रा सम ही जानिये, होता है देहान्त ।",
+      "hiLine2": "जगना सम है जनन फिर, निद्रा के उपरान्त ॥",
+      "general": "இறப்பு என்பது ஆழ்ந்து உறங்குவது போன்றது; பிறப்பு என்பது அங்ஙனம் உறங்கிப் பின்னர் விழித்தெழுவது போன்றது.",
+      "en": "Death is like falling into a deep sleep; birth is like waking up from that sleep.",
+      "hi": "देहान्त (मृत्यु) को गहरी निद्रा के समान ही समझना चाहिए, और फिर से जन्म लेना उस निद्रा के बाद जागने के समान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உறங்குவது <br>(Uranguvadhu)",
+          "ta": "தூங்குவது",
+          "en": "Slumbers deep",
+          "hi": "निद्रा"
+        },
+        {
+          "no": 2,
+          "word": "போலும் <br>(Polum)",
+          "ta": "போன்றது",
+          "en": "Is like",
+          "hi": "सम ही जानिये"
+        },
+        {
+          "no": 3,
+          "word": "சாக்காடு <br>(Saakkaadu)",
+          "ta": "இறப்பு",
+          "en": "Death",
+          "hi": "देहान्त"
+        },
+        {
+          "no": 4,
+          "word": "உறங்கி <br>(Urangi)",
+          "ta": "தூங்கி",
+          "en": "Of sleep",
+          "hi": "निद्रा के उपरान्त"
+        },
+        {
+          "no": 5,
+          "word": "விழிப்பது <br>(Vizhippadhu)",
+          "ta": "விழித்தெழுவது",
+          "en": "Waking out",
+          "hi": "जगना"
+        },
+        {
+          "no": 6,
+          "word": "போலும் <br>(Polum)",
+          "ta": "போன்றது",
+          "en": "Is like",
+          "hi": "सम है"
+        },
+        {
+          "no": 7,
+          "word": "பிறப்பு <br>(Pirappu)",
+          "ta": "பிறப்பு",
+          "en": "Birth",
+          "hi": "जनन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உறங்குவது போலும் சாக்காடு உறங்கி",
+          "line2": "விழிப்பது போலும் பிறப்பு."
+        },
+        "en": {
+          "line1": "Death is sinking into slumbers deep;",
+          "line2": "Birth again is waking out of sleep."
+        },
+        "hi": {
+          "line1": "निद्रा सम ही जानिये, होता है देहान्त ।",
+          "line2": "जगना सम है जनन फिर, निद्रा के उपरान्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uranguvadhu Polum Saakkaadu Urangi",
+            "line2": "Vizhippadhu Polum Pirappu."
+          },
+          "hi": {
+            "line1": "उरङ्गुवदु पोलुम् साक्काडु उरङ्गि",
+            "line2": "विऴिप्पदु पोलुम् पिरप्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இறப்பு என்பது ஆழ்ந்து உறங்குவது போன்றது; பிறப்பு என்பது அங்ஙனம் உறங்கிப் பின்னர் விழித்தெழுவது போன்றது.",
+        "en": "Death is nothing more than drifting into a deep sleep, and birth is simply waking up again afterward.",
+        "hi": "देहान्त (मृत्यु) को गहरी निद्रा के समान ही समझना चाहिए, और फिर से जन्म लेना उस निद्रा के बाद जागने के समान है।"
+      }
+    },
+    {
+      "num": 340,
+      "line1": "புக்கி லமைந்தின்று கொல்லோ வுடம்பினுட்",
+      "line2": "டுச்சி லிருந்த வுயிர்க்கு.",
+      "enLine1": "The soul in fragile shed as lodger courts repose:—",
+      "enLine2": "Is it because no home's conclusive rest it knows?",
+      "hiLine1": "आत्मा का क्या है नहीं, कोई स्थायी धाम ।",
+      "hiLine2": "सो तो रहती देह में, भाड़े का सा धाम ॥",
+      "general": "சிறு குடிசையாகிய உடம்பினுள்ளே தங்கியிருந்த உயிர்க்கு, நிலையான வீடு இன்னும் அமையவில்லையோ!",
+      "en": "Has the soul, which temporarily lodged in the frail hut of this body, not yet found a permanent home of its own?",
+      "hi": "क्या आत्मा का कोई स्थायी निवास स्थान नहीं है, जो वह इस शरीर रूपी अस्थायी झोपड़ी में किराये के घर की तरह रह रही है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "புக்கில் <br>(Pukkil)",
+          "ta": "நிலையான வீடு",
+          "en": "Home's rest",
+          "hi": "स्थायी धाम"
+        },
+        {
+          "no": 2,
+          "word": "அமைந்தின்று <br>(Amaindhindru)",
+          "ta": "அமையவில்லை",
+          "en": "No / not settled",
+          "hi": "क्या है नहीं"
+        },
+        {
+          "no": 3,
+          "word": "கொல்லோ <br>(Kollo)",
+          "ta": "போலும்",
+          "en": "Is it because",
+          "hi": "क्या"
+        },
+        {
+          "no": 4,
+          "word": "உடம்பினுள் <br>(Udambinul)",
+          "ta": "உடம்பினுள்ளே",
+          "en": "In fragile shed",
+          "hi": "देह में"
+        },
+        {
+          "no": 5,
+          "word": "துச்சில் <br>(Thuchchil)",
+          "ta": "சிறு குடிசையில்",
+          "en": "As lodger",
+          "hi": "भाड़े का सा धाम"
+        },
+        {
+          "no": 6,
+          "word": "இருந்த <br>(Irundha)",
+          "ta": "தங்கியிருந்த",
+          "en": "Courts repose",
+          "hi": "रहती"
+        },
+        {
+          "no": 7,
+          "word": "உயிர்க்கு <br>(Uyirkku)",
+          "ta": "உயிர்க்கு",
+          "en": "The soul",
+          "hi": "आत्मा का"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புக்கி லமைந்தின்று கொல்லோ வுடம்பினுட்",
+          "line2": "டுச்சி லிருந்த வுயிர்க்கு."
+        },
+        "en": {
+          "line1": "The soul in fragile shed as lodger courts repose:—",
+          "line2": "Is it because no home's conclusive rest it knows?"
+        },
+        "hi": {
+          "line1": "आत्मा का क्या है नहीं, कोई स्थायी धाम ।",
+          "line2": "सो तो रहती देह में, भाड़े का सा धाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pukkil Amaindhindru Kollo Udambinul",
+            "line2": "Thuchchil Irundha Uyirkku."
+          },
+          "hi": {
+            "line1": "पुक्कि लमैन्दिन्द्रु कोल्लो वुडम्बिनुट्",
+            "line2": "टुच्चि लिरुन्द वुयिर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சிறு குடிசையாகிய உடம்பினுள்ளே தங்கியிருந்த உயிர்க்கு, நிலையான வீடு இன்னும் அமையவில்லையோ!",
+        "en": "Is it because the soul has not yet found a permanent home that it keeps lodging in the fragile, temporary shelter of a body?",
+        "hi": "क्या आत्मा का कोई स्थायी निवास स्थान नहीं है, जो वह इस शरीर रूपी अस्थायी झोपड़ी में किराये के घर की तरह रह रही है?"
+      }
+    }
+  ]
+}

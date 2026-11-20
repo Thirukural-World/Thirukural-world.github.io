@@ -1,0 +1,930 @@
+{
+  "chapterNum": 28,
+  "nameTa": "கூடாவொழுக்கம்",
+  "nameEn": "Inconsistent Conduct",
+  "nameHi": "मिथ्याचार",
+  "paal": "அறத்துப்பால்",
+  "iyal": "துறவறவியல்",
+  "kurals": [
+    {
+      "num": 271,
+      "line1": "வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்",
+      "line2": "ஐந்தும் அகத்தே நகும்.",
+      "enLine1": "Who with deceitful mind in false way walks of covert sin,",
+      "enLine2": "The five-fold elements his frame compose, deride within.",
+      "hiLine1": "वंचक के आचार को, मिथ्यापूर्ण विलोक ।",
+      "hiLine2": "पाँचों भूत शरीरगत, हँस दे मन में रोक ॥",
+      "general": "வஞ்சனை மனம் கொண்டவனுடைய பொய்யான ஒழுக்கத்தைக் கண்டு, அவனுடைய உடம்பில் கலந்துள்ள ஐந்து பூதங்களும் உள்ளுக்குள் சிரிக்கும்.",
+      "en": "The five elements composing the body of a deceitful-minded person will laugh inwardly at his hypocritical conduct.",
+      "hi": "कपटी (वंचक) व्यक्ति के मिथ्याचार को देखकर उसके शरीर में विद्यमान पाँचों तत्व (पंचभूत) मन ही मन हँसते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வஞ்ச <br>(Vanja)",
+          "ta": "வஞ்சனை நிறைந்த",
+          "en": "Deceitful",
+          "hi": "वंचक के"
+        },
+        {
+          "no": 2,
+          "word": "மனத்தான் <br>(Manaththaan)",
+          "ta": "மனத்தை உடையவனின்",
+          "en": "Minded man's",
+          "hi": "मन वाले के"
+        },
+        {
+          "no": 3,
+          "word": "படிற்றொழுக்கம் <br>(Paditrozhukkam)",
+          "ta": "பொய்யான ஒழுக்கத்தை",
+          "en": "False covert conduct",
+          "hi": "मिथ्यापूर्ण आचार को"
+        },
+        {
+          "no": 4,
+          "word": "பூதங்கள் <br>(Bhoodhangal)",
+          "ta": "பூதங்கள்",
+          "en": "Elements",
+          "hi": "भूत"
+        },
+        {
+          "no": 5,
+          "word": "ஐந்தும் <br>(Aindhum)",
+          "ta": "ஐந்தும்",
+          "en": "Five-fold",
+          "hi": "पाँचों शरीरगत"
+        },
+        {
+          "no": 6,
+          "word": "அகத்தே <br>(Agaththe)",
+          "ta": "உள்ளுக்குள்ளேயே",
+          "en": "Within",
+          "hi": "मन में"
+        },
+        {
+          "no": 7,
+          "word": "நகும் <br>(Nagum)",
+          "ta": "எள்ளி நகையாடும்",
+          "en": "Deride / laugh",
+          "hi": "हँस देते हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்",
+          "line2": "ஐந்தும் அகத்தே நகும்."
+        },
+        "en": {
+          "line1": "Who with deceitful mind in false way walks of covert sin,",
+          "line2": "The five-fold elements his frame compose, deride within."
+        },
+        "hi": {
+          "line1": "वंचक के आचार को, मिथ्यापूर्ण विलोक ।",
+          "line2": "पाँचों भूत शरीरगत, हँस दे मन में रोक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vanja Manaththaan Paditrozhukkam Bhoodhangal",
+            "line2": "Aindhum Agaththe Nagum."
+          },
+          "hi": {
+            "line1": "वञ्ज मनत्तान् पडित्रॊऴुक्कम् बूदंगळ्",
+            "line2": "ऐन्दुम् अगत्ते नगुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வஞ்சனை மனம் கொண்டவனுடைய பொய்யான ஒழுக்கத்தைக் கண்டு, அவனுடைய உடம்பில் கலந்துள்ள ஐந்து பூதங்களும் உள்ளுக்குள் சிரிக்கும்.",
+        "en": "Even the five natural elements forming a hypocrite's own body quietly mock the gap between their pious pose and secret deceit.",
+        "hi": "कपटी (वंचक) व्यक्ति के मिथ्याचार को देखकर उसके शरीर में विद्यमान पाँचों तत्व (पंचभूत) मन ही मन हँसते हैं।"
+      }
+    },
+    {
+      "num": 272,
+      "line1": "வானுயர் தோற்றம் எவன்செய்யும் தன்னெஞ்சம்",
+      "line2": "தான்அறி குற்றப் படின்.",
+      "enLine1": "What gain, though virtue's semblance high as heaven his fame exalt,",
+      "enLine2": "If heart dies down through sense of self-detected fault ?",
+      "hiLine1": "उच्च गगन सम वेष तो, क्या आवेगा काम ।",
+      "hiLine2": "समझ- बूझ यदि मन करे, जो है दूषित काम ॥",
+      "general": "தன் நெஞ்சமே குற்றம் என அறிந்த தீய செயலைச் செய்தால், வானளாவ உயர்ந்த தவக்கோலம் என்ன பயனைச் செய்யும்?",
+      "en": "What is the use of an appearance lofty as the sky if one's own heart is conscious of guilt?",
+      "hi": "यदि व्यक्ति का मन जान-बूझकर दूषित कर्म करता है, तो आकाश जैसा ऊँचा और भव्य साधु-वेष धारण करना किस काम आएगा?",
+      "words": [
+        {
+          "no": 1,
+          "word": "வானுயர் <br>(Vaanuyar)",
+          "ta": "வானளாவ உயர்ந்த",
+          "en": "High as heaven",
+          "hi": "उच्च गगन सम"
+        },
+        {
+          "no": 2,
+          "word": "தோற்றம் <br>(Thotram)",
+          "ta": "தவக்கோலம்",
+          "en": "Semblance / appearance",
+          "hi": "वेष तो"
+        },
+        {
+          "no": 3,
+          "word": "எவன்செய்யும் <br>(Evanseyyum)",
+          "ta": "என்ன பயன் செய்யும்",
+          "en": "What gain",
+          "hi": "क्या काम आवेगा"
+        },
+        {
+          "no": 4,
+          "word": "தன்னெஞ்சம் <br>(Thannenjam)",
+          "ta": "தன் மனம்",
+          "en": "His own heart",
+          "hi": "यदि मन"
+        },
+        {
+          "no": 5,
+          "word": "தான்அறி <br>(Thaanari)",
+          "ta": "தானே அறிந்த",
+          "en": "Self-detected",
+          "hi": "समझ-बूझकर"
+        },
+        {
+          "no": 6,
+          "word": "குற்றப் <br>(Kutrap)",
+          "ta": "குற்றத்திற்கு",
+          "en": "Fault / guilt",
+          "hi": "दूषित काम"
+        },
+        {
+          "no": 7,
+          "word": "படின் <br>(Padin)",
+          "ta": "உள்ளானால்",
+          "en": "If subjected to",
+          "hi": "करे तो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வானுயர் தோற்றம் எவன்செய்யும் தன்னெஞ்சம்",
+          "line2": "தான்அறி குற்றப் படின்."
+        },
+        "en": {
+          "line1": "What gain, though virtue's semblance high as heaven his fame exalt,",
+          "line2": "If heart dies down through sense of self-detected fault ?"
+        },
+        "hi": {
+          "line1": "उच्च गगन सम वेष तो, क्या आवेगा काम ।",
+          "line2": "समझ- बूझ यदि मन करे, जो है दूषित काम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vaanuyar Thotram Evanseyyum Thannenjam",
+            "line2": "Thaanari Kutrap Padin."
+          },
+          "hi": {
+            "line1": "वानुयर् तोत्रम् एवन्सॆय्युम् तन्नॆञ्जम्",
+            "line2": "तान्अरि कुत्रप् पडिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன் நெஞ்சமே குற்றம் என அறிந்த தீய செயலைச் செய்தால், வானளாவ உயர்ந்த தவக்கோலம் என்ன பயனைச் செய்யும்?",
+        "en": "A towering reputation for holiness means nothing when your own conscience knows you are guilty of deliberate wrongdoing.",
+        "hi": "यदि व्यक्ति का मन जान-बूझकर दूषित कर्म करता है, तो आकाश जैसा ऊँचा और भव्य साधु-वेष धारण करना किस काम आएगा?"
+      }
+    },
+    {
+      "num": 273,
+      "line1": "வலியில் நிலைமையான் வல்லுருவம் பெற்றம்",
+      "line2": "புலியின்தோல் போர்த்துமேய்ந் தற்று.",
+      "enLine1": "As if a steer should graze wrapped round with tiger's skin,",
+      "enLine2": "Is show of virtuous might when weakness lurks within.",
+      "hiLine1": "महा साधु का वेष धर, दमन-शक्ति नहिं, हाय ।",
+      "hiLine2": "व्याघ्र-चर्म आढे हुए, खेत चरे ज्यों गाय ॥",
+      "general": "மனத்தை அடக்கும் வலிமையில்லாதவன் மேற்கொள்ளும் தவக்கோலம், பசு ஒன்று புலியின் தோலைப் போர்த்திக்கொண்டு பயிரை மேய்ந்ததைப் போன்றதாகும்.",
+      "en": "The assumed ascetic guise of one who has no strength of self-control is like a cow grazing in a field wrapped in a tiger's skin.",
+      "hi": "जिसमें इंद्रिय-दमन की शक्ति न हो, ऐसे व्यक्ति का महासाधु का वेष धारण करना वैसा ही है जैसे बाघ की खाल ओढ़कर कोई गाय खेत चर रही हो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வலியில் <br>(Valiyil)",
+          "ta": "மனவலிமை இல்லாத",
+          "en": "Without strength",
+          "hi": "दमन-शक्ति नहीं"
+        },
+        {
+          "no": 2,
+          "word": "நிலைமையான் <br>(Nilaimaiyaan)",
+          "ta": "நிலையில் உள்ளவனின்",
+          "en": "One in state of",
+          "hi": "ऐसे व्यक्ति का"
+        },
+        {
+          "no": 3,
+          "word": "வல்லுருவம் <br>(Valluruvam)",
+          "ta": "வலிய தவக்கோலம்",
+          "en": "Show of virtuous might",
+          "hi": "महा साधु का वेष"
+        },
+        {
+          "no": 4,
+          "word": "பெற்றம் <br>(Petram)",
+          "ta": "பசு",
+          "en": "A steer / cow",
+          "hi": "गाय"
+        },
+        {
+          "no": 5,
+          "word": "புலியின்தோல் <br>(Puliyinthol)",
+          "ta": "புலியின் தோலைப்",
+          "en": "Tiger's skin",
+          "hi": "व्याघ्र-चर्म"
+        },
+        {
+          "no": 6,
+          "word": "போர்த்து <br>(Porththu)",
+          "ta": "போர்த்து",
+          "en": "Wrapped round",
+          "hi": "ओढ़े हुए"
+        },
+        {
+          "no": 7,
+          "word": "மேய்ந்தற்று <br>(Meyndhatru)",
+          "ta": "பயிர் மேய்ந்தாற் போன்றது",
+          "en": "As if grazing",
+          "hi": "खेत चरे ज्यों"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வலியில் நிலைமையான் வல்லுருவம் பெற்றம்",
+          "line2": "புலியின்தோல் போர்த்துமேய்ந் தற்று."
+        },
+        "en": {
+          "line1": "As if a steer should graze wrapped round with tiger's skin,",
+          "line2": "Is show of virtuous might when weakness lurks within."
+        },
+        "hi": {
+          "line1": "महा साधु का वेष धर, दमन-शक्ति नहिं, हाय ।",
+          "line2": "व्याघ्र-चर्म आढे हुए, खेत चरे ज्यों गाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Valiyil Nilaimaiyaan Valluruvam Petram",
+            "line2": "Puliyinthol Porththu Meyndhatru."
+          },
+          "hi": {
+            "line1": "वलियिल् निलैमैयान् वल्लुरुवम् पेत्रम्",
+            "line2": "पुलियिन्तोल् पोर्त्तुमेय्न् तत्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனத்தை அடக்கும் வலிமையில்லாதவன் மேற்கொள்ளும் தவக்கோலம், பசு ஒன்று புலியின் தோலைப் போர்த்திக்கொண்டு பயிரை மேய்ந்ததைப் போன்றதாகும்.",
+        "en": "Putting on the outward robes of an ascetic without inner self-control is as absurd as a cow sneaking into a field wearing a tiger's skin.",
+        "hi": "जिसमें इंद्रिय-दमन की शक्ति न हो, ऐसे व्यक्ति का महासाधु का वेष धारण करना वैसा ही है जैसे बाघ की खाल ओढ़कर कोई गाय खेत चर रही हो।"
+      }
+    },
+    {
+      "num": 274,
+      "line1": "தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து",
+      "line2": "வேட்டுவன் புள்சிமிழ்த் தற்று.",
+      "enLine1": "'Tis as a fowler, silly birds to snare, in thicket lurks,",
+      "enLine2": "When, clad in stern ascetic garb, one secret evil works.",
+      "hiLine1": "रहते तापस भेस में, करना पापाचार ।",
+      "hiLine2": "झाड़-आड़ चिड़िहार ज्यों, पंछी पकड़े मार ॥",
+      "general": "தவக்கோலத்தில் மறைந்துகொண்டு தீய செயல்களைச் செய்தல், புதரில் மறைந்திருந்து வேடன் பறவைகளை வலைவீசிப் பிடிப்பதைப் போன்றதாகும்.",
+      "en": "Hiding behind asceticism to commit evil deeds is like a fowler hiding in a thicket to snare birds.",
+      "hi": "तपस्वी के वेष में रहकर पापाचार करना ठीक वैसा ही है, जैसे कोई चिड़िमार (बहेलिया) झाड़ी की आड़ में छिपकर पक्षियों को पकड़ता और मारता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தவமறைந்து <br>(Thavamaraindhu)",
+          "ta": "தவக்கோலத்தில் மறைந்து",
+          "en": "Clad in ascetic garb",
+          "hi": "तापस वेष में रहकर"
+        },
+        {
+          "no": 2,
+          "word": "அல்லவை <br>(Allavai)",
+          "ta": "தீய செயல்களை",
+          "en": "Secret evil",
+          "hi": "पापाचार"
+        },
+        {
+          "no": 3,
+          "word": "செய்தல் <br>(Seydhal)",
+          "ta": "செய்தல்",
+          "en": "Working / doing",
+          "hi": "करना"
+        },
+        {
+          "no": 4,
+          "word": "புதல்மறைந்து <br>(Pudhalmaraindhu)",
+          "ta": "புதரில் மறைந்திருந்து",
+          "en": "Lurking in thicket",
+          "hi": "झाड़ी की आड़ में"
+        },
+        {
+          "no": 5,
+          "word": "வேட்டுவன் <br>(Vettuvan)",
+          "ta": "வேடன்",
+          "en": "Fowler",
+          "hi": "चिड़िहार (बहेलिया) ज्यों"
+        },
+        {
+          "no": 6,
+          "word": "புள் <br>(Pul)",
+          "ta": "பறவைகளை",
+          "en": "Birds",
+          "hi": "पंछी"
+        },
+        {
+          "no": 7,
+          "word": "சிமிழ்த்தற்று <br>(Simizhththatru)",
+          "ta": "வலைவீசிப் பிடித்தாற் போன்றது",
+          "en": "Like snaring",
+          "hi": "पकड़े मार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து",
+          "line2": "வேட்டுவன் புள்சிமிழ்த் தற்று."
+        },
+        "en": {
+          "line1": "'Tis as a fowler, silly birds to snare, in thicket lurks,",
+          "line2": "When, clad in stern ascetic garb, one secret evil works."
+        },
+        "hi": {
+          "line1": "रहते तापस भेस में, करना पापाचार ।",
+          "line2": "झाड़-आड़ चिड़िहार ज्यों, पंछी पकड़े मार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thavamaraindhu Allavai Seydhal Pudhalmaraindhu",
+            "line2": "Vettuvan Pul Simizhththatru."
+          },
+          "hi": {
+            "line1": "तवमरैन्दु अल्लवै सॆय्दल् पुदल्मरैन्दु",
+            "line2": "वेट्टुवन् पुळ्सिमिऴ्त् तत्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தவக்கோலத்தில் மறைந்துகொண்டு தீய செயல்களைச் செய்தல், புதரில் மறைந்திருந்து வேடன் பறவைகளை வலைவீசிப் பிடிப்பதைப் போன்றதாகும்.",
+        "en": "Using a saintly appearance as cover to exploit others is no different from a hunter hiding in the bushes to trap unsuspecting birds.",
+        "hi": "तपस्वी के वेष में रहकर पापाचार करना ठीक वैसा ही है, जैसे कोई चिड़िमार (बहेलिया) झाड़ी की आड़ में छिपकर पक्षियों को पकड़ता और मारता है।"
+      }
+    },
+    {
+      "num": 275,
+      "line1": "பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று",
+      "line2": "ஏதம் பலவுந் தரும்.",
+      "enLine1": "'Our souls are free,' who say, yet practise evil secretly,",
+      "enLine2": "'What folly have we wrought !' by many shames o'erwhelmed, shall cry.",
+      "hiLine1": "'हूँ विरक्त' कह जो मनुज, करता मिथ्याचार ।",
+      "hiLine2": "कष्ट अनेकों हों उसे, स्वयं करे धिक्कार ॥",
+      "general": "'யாம் பற்று அற்றவர்' என்று சொல்லிக்கொள்பவரின் வஞ்சக ஒழுக்கம், 'ஐயோ! என்ன தவறு செய்துவிட்டோம்!' என்று வருந்தும்படி பல துன்பங்களைத் தரும்.",
+      "en": "The false conduct of those who claim 'we are free from all attachments' will bring many sorrows, making them cry 'alas, what have we done!'",
+      "hi": "जो मनुष्य 'मैं विरक्त हूँ' ऐसा कहकर भी मिथ्याचार करता है, उसे अनेक कष्ट भोगने पड़ते हैं और वह स्वयं अपने आप को धिक्कारता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பற்றற்றேம் <br>(Patratrem)",
+          "ta": "பற்றற்றோம்",
+          "en": "'Our souls are free'",
+          "hi": "'हूँ विरक्त'"
+        },
+        {
+          "no": 2,
+          "word": "என்பார் <br>(Enbaar)",
+          "ta": "என்று கூறுவார்",
+          "en": "Who say",
+          "hi": "कहने वाला मनुज"
+        },
+        {
+          "no": 3,
+          "word": "படிற்றொழுக்கம் <br>(Paditrozhukkam)",
+          "ta": "வஞ்சக ஒழுக்கம்",
+          "en": "False conduct",
+          "hi": "मिथ्याचार"
+        },
+        {
+          "no": 4,
+          "word": "எற்றெற்றென்று <br>(Etretrendru)",
+          "ta": "என்ன செய்தோம் என்று வருந்த",
+          "en": "Crying 'what folly!'",
+          "hi": "स्वयं को धिक्कारे"
+        },
+        {
+          "no": 5,
+          "word": "ஏதம் <br>(Edham)",
+          "ta": "துன்பங்கள்",
+          "en": "Shames / sorrows",
+          "hi": "कष्ट"
+        },
+        {
+          "no": 6,
+          "word": "பலவுந் <br>(Palavundh)",
+          "ta": "பலவற்றையும்",
+          "en": "Many",
+          "hi": "अनेकों"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Will bring",
+          "hi": "हों उसे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று",
+          "line2": "ஏதம் பலவுந் தரும்."
+        },
+        "en": {
+          "line1": "'Our souls are free,' who say, yet practise evil secretly,",
+          "line2": "'What folly have we wrought !' by many shames o'erwhelmed, shall cry."
+        },
+        "hi": {
+          "line1": "'हूँ विरक्त' कह जो मनुज, करता मिथ्याचार ।",
+          "line2": "कष्ट अनेकों हों उसे, स्वयं करे धिक्कार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Patratrem Enbaar Paditrozhukkam Etretrendru",
+            "line2": "Edham Palavundh Tharum."
+          },
+          "hi": {
+            "line1": "पत्रत्रेम् एन्बार् पडित्रॊऴुक्कम् एत्रॆत्रॆन्द्रु",
+            "line2": "एदम् पलवुन् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'யாம் பற்று அற்றவர்' என்று சொல்லிக்கொள்பவரின் வஞ்சக ஒழுக்கம், 'ஐயோ! என்ன தவறு செய்துவிட்டோம்!' என்று வருந்தும்படி பல துன்பங்களைத் தரும்.",
+        "en": "Those who boast of spiritual detachment while secretly indulging in wrongdoings will end up overwhelmed by regret and shame.",
+        "hi": "जो मनुष्य 'मैं विरक्त हूँ' ऐसा कहकर भी मिथ्याचार करता है, उसे अनेक कष्ट भोगने पड़ते हैं और वह स्वयं अपने आप को धिक्कारता है।"
+      }
+    },
+    {
+      "num": 276,
+      "line1": "நெஞ்சில் துறவார் துறந்தார்போல் வஞ்சித்து",
+      "line2": "வாழ்வாரின் வன்கணார் இல்.",
+      "enLine1": "In mind renouncing nought, in speech renouncing every tie,",
+      "enLine2": "Who guileful live,—no men are found than these of 'harder eye.'",
+      "hiLine1": "मोह-मुक्त मन तो नहीं, है निर्मम की बान ।",
+      "hiLine2": "मिथ्याचारी के सदृश, निष्ठुर नहीं महान ॥",
+      "general": "மனத்தில் ஆசைகளைத் துறக்காமல், துறந்தவர்களைப் போலப் பிறரை வஞ்சித்து வாழ்பவர்களைவிடக் கல்நெஞ்சம் உடையவர் வேறு யாரும் இல்லை.",
+      "en": "There are none more hard-hearted than those who have not renounced in their hearts yet live deceitfully as if they had renounced.",
+      "hi": "जिनका मन मोह-माया से मुक्त नहीं हुआ है किंतु जो निर्मम (विरक्त) होने का स्वांग रचते हैं, ऐसे मिथ्याचारी के समान कोई भी महान निष्ठुर नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நெஞ்சில் <br>(Nenjil)",
+          "ta": "மனத்தில்",
+          "en": "In mind",
+          "hi": "मन में"
+        },
+        {
+          "no": 2,
+          "word": "துறவார் <br>(Thuravaar)",
+          "ta": "துறக்காதவராய்",
+          "en": "Renouncing nought",
+          "hi": "मोह-मुक्त नहीं"
+        },
+        {
+          "no": 3,
+          "word": "துறந்தார்போல் <br>(Thurandhaarpol)",
+          "ta": "துறந்தவரைப் போல",
+          "en": "As if renouncing",
+          "hi": "निर्मम की बान"
+        },
+        {
+          "no": 4,
+          "word": "வஞ்சித்து <br>(Vanjiththu)",
+          "ta": "ஏமாற்றி",
+          "en": "Guilefully",
+          "hi": "मिथ्याचार कर"
+        },
+        {
+          "no": 5,
+          "word": "வாழ்வாரின் <br>(Vaazhvaarin)",
+          "ta": "வாழ்பவரைவிட",
+          "en": "Than those who live",
+          "hi": "जीने वाले के समान"
+        },
+        {
+          "no": 6,
+          "word": "வன்கணார் <br>(Vankanaar)",
+          "ta": "கல்நெஞ்சம் உடையவர்",
+          "en": "Of harder eye / heart",
+          "hi": "महान निष्ठुर"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "None are found",
+          "hi": "नहीं है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நெஞ்சில் துறவார் துறந்தார்போல் வஞ்சித்து",
+          "line2": "வாழ்வாரின் வன்கணார் இல்."
+        },
+        "en": {
+          "line1": "In mind renouncing nought, in speech renouncing every tie,",
+          "line2": "Who guileful live,—no men are found than these of 'harder eye.'"
+        },
+        "hi": {
+          "line1": "मोह-मुक्त मन तो नहीं, है निर्मम की बान ।",
+          "line2": "मिथ्याचारी के सदृश, निष्ठुर नहीं महान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nenjil Thuravaar Thurandhaarpol Vanjiththu",
+            "line2": "Vaazhvaarin Vankanaar Il."
+          },
+          "hi": {
+            "line1": "नॆञ्जिल् तुरवार् तुरन्दार्पोल् वञ्जित्तु",
+            "line2": "वाऴ्वारिन् वन्कणार् इल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனத்தில் ஆசைகளைத் துறக்காமல், துறந்தவர்களைப் போலப் பிறரை வஞ்சித்து வாழ்பவர்களைவிடக் கல்நெஞ்சம் உடையவர் வேறு யாரும் இல்லை.",
+        "en": "No one is more callous than someone who clings to every selfish desire inside while deceiving people with a pretense of renunciation.",
+        "hi": "जिनका मन मोह-माया से मुक्त नहीं हुआ है किंतु जो निर्मम (विरक्त) होने का स्वांग रचते हैं, ऐसे मिथ्याचारी के समान कोई भी महान निष्ठुर नहीं है।"
+      }
+    },
+    {
+      "num": 277,
+      "line1": "புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி",
+      "line2": "மூக்கிற் கரியார் உடைத்து.",
+      "enLine1": "Outward, they shine as 'kunri' berry's scarlet bright ;",
+      "enLine2": "Inward, like tip of 'kunri' bead, as black as night.",
+      "hiLine1": "बाहर से है लालिमा, हैं घुंघची समान ।",
+      "hiLine2": "उसका काला अग्र सम, अन्दर है अज्ञान ॥",
+      "general": "வெளித்தோற்றத்தில் குன்றிமணி போல் செம்மையுடையவராய்த் தோன்றினாலும், உள்ளத்தில் குன்றிமணியின் மூக்குப் போலக் கறுத்தவர்கள் உலகில் உண்டு.",
+      "en": "Though outwardly they look as bright as the kunri berry, there are people whose hearts are as black as the tip of the kunri berry.",
+      "hi": "संसार में ऐसे लोग भी हैं जो बाहर से घुंघची (गुंजा) के समान लाल और चमकदार दिखते हैं, किंतु अंदर से उसके काले अग्रभाग के समान अज्ञान (कालिमा) से भरे होते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "புறங்குன்றி <br>(Purankundri)",
+          "ta": "வெளியில் குன்றிமணி",
+          "en": "Outward like kunri berry",
+          "hi": "बाहर से घुंघची समान"
+        },
+        {
+          "no": 2,
+          "word": "கண்டனையரேனும் <br>(Kandanaiyarenum)",
+          "ta": "போல் தோன்றினாலும்",
+          "en": "Though they shine as",
+          "hi": "लालिमा दिखते हुए भी"
+        },
+        {
+          "no": 3,
+          "word": "அகங்குன்றி <br>(Agankundri)",
+          "ta": "உள்ளத்தில் குன்றிமணியின்",
+          "en": "Inward like kunri bead",
+          "hi": "अंदर से उसके"
+        },
+        {
+          "no": 4,
+          "word": "மூக்கிற் <br>(Mookkir)",
+          "ta": "மூக்குப் போல",
+          "en": "Tip",
+          "hi": "काला अग्र सम"
+        },
+        {
+          "no": 5,
+          "word": "கரியார் <br>(Kariyaar)",
+          "ta": "கறுத்தவர்களை",
+          "en": "Black-hearted ones",
+          "hi": "अज्ञान से भरे लोग"
+        },
+        {
+          "no": 6,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "உடையது இவ்வுலகம்",
+          "en": "Possesses",
+          "hi": "संसार में हैं"
+        },
+        {
+          "no": 7,
+          "word": "அகம் <br>(Agam)",
+          "ta": "மனம் (உள்ளம்)",
+          "en": "Inner mind",
+          "hi": "अंदर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி",
+          "line2": "மூக்கிற் கரியார் உடைத்து."
+        },
+        "en": {
+          "line1": "Outward, they shine as 'kunri' berry's scarlet bright ;",
+          "line2": "Inward, like tip of 'kunri' bead, as black as night."
+        },
+        "hi": {
+          "line1": "बाहर से है लालिमा, हैं घुंघची समान ।",
+          "line2": "उसका काला अग्र सम, अन्दर है अज्ञान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Purankundri Kandanaiya Renum Agankundri",
+            "line2": "Mookkir Kariyaar Udaiththu."
+          },
+          "hi": {
+            "line1": "पुरंगुन्द्रि कण्डनैय रेनुम् अगंगुन्द्रि",
+            "line2": "मूक्किर् करियार् उडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வெளித்தோற்றத்தில் குன்றிமணி போல் செம்மையுடையவராய்த் தோன்றினாலும், உள்ளத்தில் குன்றிமணியின் மூக்குப் போலக் கறுத்தவர்கள் உலகில் உண்டு.",
+        "en": "Some people shine on the outside like a bright red kunri seed, while hiding a pitch-black heart like its dark tip.",
+        "hi": "संसार में ऐसे लोग भी हैं जो बाहर से घुंघची (गुंजा) के समान लाल और चमकदार दिखते हैं, किंतु अंदर से उसके काले अग्रभाग के समान अज्ञान (कालिमा) से भरे होते हैं।"
+      }
+    },
+    {
+      "num": 278,
+      "line1": "மனத்தது மாசாக மாண்டார் நீராடி",
+      "line2": "மறைந்தொழுகு மாந்தர் பலர்.",
+      "enLine1": "Many wash in hallowed waters, living lives of hidden shame ;",
+      "enLine2": "Foul in heart, yet high upraised of men in virtuous fame.",
+      "hiLine1": "नहा तीर्थ में ठाट से, रखते तापस भेस ।",
+      "hiLine2": "मिथ्याचारी हैं बहुत, हृदय शुद्ध नहिं लेश ॥",
+      "general": "மனத்தில் குற்றம் நிறைந்திருக்கும்போதே, புண்ணியத் தலங்களில் நீராடிப் பெரியோரைப் போல மறைந்து வாழும் மனிதர்கள் பலர் உள்ளனர்.",
+      "en": "There are many people who bathe in sacred waters and live disguised as great ascetics while their minds remain full of impurity.",
+      "hi": "तीर्थों में ठाट से स्नान करके तपस्वियों जैसा वेष धारण करने वाले ऐसे बहुत से मिथ्याचारी लोग हैं, जिनका हृदय लेशमात्र भी शुद्ध नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மனத்தது <br>(Manaththadhu)",
+          "ta": "மனத்தில் இருப்பது",
+          "en": "In heart",
+          "hi": "हृदय में"
+        },
+        {
+          "no": 2,
+          "word": "மாசாக <br>(Maasaaga)",
+          "ta": "குற்றமாக இருக்க",
+          "en": "Being foul",
+          "hi": "शुद्ध नहीं लेश"
+        },
+        {
+          "no": 3,
+          "word": "மாண்டார் <br>(Maandaar)",
+          "ta": "பெரியோரைப் போல",
+          "en": "In virtuous fame",
+          "hi": "तापस भेस रखकर"
+        },
+        {
+          "no": 4,
+          "word": "நீராடி <br>(Neeraadi)",
+          "ta": "புனித நீராடி",
+          "en": "Wash in hallowed waters",
+          "hi": "नहा तीर्थ में ठाट से"
+        },
+        {
+          "no": 5,
+          "word": "மறைந்தொழுகு <br>(Maraindhozhugu)",
+          "ta": "மறைந்து நடக்கும்",
+          "en": "Living lives of hidden shame",
+          "hi": "मिथ्याचारी"
+        },
+        {
+          "no": 6,
+          "word": "மாந்தர் <br>(Maandhar)",
+          "ta": "மனிதர்கள்",
+          "en": "People",
+          "hi": "लोग"
+        },
+        {
+          "no": 7,
+          "word": "பலர் <br>(Palar)",
+          "ta": "பலர் உளர்",
+          "en": "Many",
+          "hi": "बहुत हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மனத்தது மாசாக மாண்டார் நீராடி",
+          "line2": "மறைந்தொழுகு மாந்தர் பலர்."
+        },
+        "en": {
+          "line1": "Many wash in hallowed waters, living lives of hidden shame ;",
+          "line2": "Foul in heart, yet high upraised of men in virtuous fame."
+        },
+        "hi": {
+          "line1": "नहा तीर्थ में ठाट से, रखते तापस भेस ।",
+          "line2": "मिथ्याचारी हैं बहुत, हृदय शुद्ध नहिं लेश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Manaththadhu Maasaaga Maandaar Neeraadi",
+            "line2": "Maraindhozhugu Maandhar Palar."
+          },
+          "hi": {
+            "line1": "मनत्तदु मासाग माण्डार् नीराडि",
+            "line2": "मरैन्दॊऴुगु मान्दर् पलर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனத்தில் குற்றம் நிறைந்திருக்கும்போதே, புண்ணியத் தலங்களில் நீராடிப் பெரியோரைப் போல மறைந்து வாழும் மனிதர்கள் பலர் உள்ளனர்.",
+        "en": "Many people perform outward rituals and bathe in holy rivers to win public praise while keeping their hearts completely unwashed.",
+        "hi": "तीर्थों में ठाट से स्नान करके तपस्वियों जैसा वेष धारण करने वाले ऐसे बहुत से मिथ्याचारी लोग हैं, जिनका हृदय लेशमात्र भी शुद्ध नहीं होता।"
+      }
+    },
+    {
+      "num": 279,
+      "line1": "கணைகொடிது யாழ்கோடு செவ்விதுஆங்கு அன்ன",
+      "line2": "வினைபடு பாலால் கொளல்.",
+      "enLine1": "Cruel is the arrow straight, the crookèd lute is sweet,",
+      "enLine2": "Judge by their deeds the many forms of men you meet.",
+      "hiLine1": "टेढ़ी वीणा है मधुर, सीधा तीर कठोर ।",
+      "hiLine2": "वैसे ही कृति से परख, किसी साधु की कोर ॥",
+      "general": "அம்பு நேராக இருந்தாலும் கொடியது; யாழ் வளைந்திருந்தாலும் இனிமையானது; அதுபோல மக்களின் இயல்பையும் அவர்களின் செயலால் அறிந்துகொள்ள வேண்டும்.",
+      "en": "The arrow is cruel though straight, and the lute is sweet though crooked; therefore judge people by their actions rather than appearances.",
+      "hi": "जिस प्रकार टेढ़ी होने पर भी वीणा मधुर होती है और सीधा होने पर भी तीर कठोर (प्राणघातक) होता है, उसी प्रकार किसी साधु के गुणों को उसके कर्मों (कृति) से परखना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கணைகொடிது <br>(Kanaikodidhu)",
+          "ta": "அம்பு (நேராயினும்) கொடியது",
+          "en": "Cruel is the arrow straight",
+          "hi": "सीधा तीर कठोर है"
+        },
+        {
+          "no": 2,
+          "word": "யாழ்கோடு <br>(Yaazhkodu)",
+          "ta": "யாழின் வளைந்த கோடு",
+          "en": "Crooked lute",
+          "hi": "टेढ़ी वीणा"
+        },
+        {
+          "no": 3,
+          "word": "செவ்விது <br>(Sevvidhu)",
+          "ta": "இனிமை தருவது",
+          "en": "Is sweet",
+          "hi": "मधुर है"
+        },
+        {
+          "no": 4,
+          "word": "ஆங்கு <br>(Aangu)",
+          "ta": "அதுபோல",
+          "en": "Like that",
+          "hi": "वैसे ही"
+        },
+        {
+          "no": 5,
+          "word": "அன்ன <br>(Anna)",
+          "ta": "அத்தகைய மக்களின் இயல்பை",
+          "en": "Such men",
+          "hi": "साधु की प्रकृति"
+        },
+        {
+          "no": 6,
+          "word": "வினைபடு <br>(Vinaipadu)",
+          "ta": "செய்யும் செயலின்",
+          "en": "By their deeds",
+          "hi": "कृति से"
+        },
+        {
+          "no": 7,
+          "word": "பாலால் கொளல் <br>(Paalaal kolal)",
+          "ta": "தன்மையால் அறிக",
+          "en": "Judge",
+          "hi": "परख करो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கணைகொடிது யாழ்கோடு செவ்விதுஆங்கு அன்ன",
+          "line2": "வினைபடு பாலால் கொளல்."
+        },
+        "en": {
+          "line1": "Cruel is the arrow straight, the crookèd lute is sweet,",
+          "line2": "Judge by their deeds the many forms of men you meet."
+        },
+        "hi": {
+          "line1": "टेढ़ी वीणा है मधुर, सीधा तीर कठोर ।",
+          "line2": "वैसे ही कृति से परख, किसी साधु की कोर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kanaikodidhu Yaazhkodu Sevvidhuaangu Anna",
+            "line2": "Vinaipadu Paalaal Kolal."
+          },
+          "hi": {
+            "line1": "कणैकॊडिदु याऴ्कोडु सॆव्विदुआंगु अन्न",
+            "line2": "विनैपडु पालाल् कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அம்பு நேராக இருந்தாலும் கொடியது; யாழ் வளைந்திருந்தாலும் இனிமையானது; அதுபோல மக்களின் இயல்பையும் அவர்களின் செயலால் அறிந்துகொள்ள வேண்டும்.",
+        "en": "A straight arrow kills while a curved lute makes music—never judge people by outward appearances, but by what they actually do.",
+        "hi": "जिस प्रकार टेढ़ी होने पर भी वीणा मधुर होती है और सीधा होने पर भी तीर कठोर (प्राणघातक) होता है, उसी प्रकार किसी साधु के गुणों को उसके कर्मों (कृति) से परखना चाहिए।"
+      }
+    },
+    {
+      "num": 280,
+      "line1": "மழித்தலும் நீட்டலும் வேண்டா உலகம்",
+      "line2": "பழித்தது ஒழித்து விடின்.",
+      "enLine1": "What's the worth of shaven head or tresses long,",
+      "enLine2": "If you shun what all the world condemns as wrong ?",
+      "hiLine1": "साधक ने यदि तज दिया, जग-निन्दित सब काम ।",
+      "hiLine2": "उसको मुंडा या जटिल, बनना है बेकाम ॥",
+      "general": "உலகம் பழித்து வெறுக்கும் தீய செயல்களை விட்டுவிட்டால், தலையை மழித்தலும் சடை வளர்த்தலும் ஆகிய புறக்கோலங்கள் தேவையில்லை.",
+      "en": "Neither shaving the head nor growing long matted hair is necessary if one abstains from all conduct that the world condemns.",
+      "hi": "यदि साधक ने संसार द्वारा निंदित सभी बुरे कामों का त्याग कर दिया है, तो उसके लिए सिर मुंडाना या जटाएँ बढ़ाना बिल्कुल व्यर्थ (बेकाम) है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மழித்தலும் <br>(Mazhiththalum)",
+          "ta": "தலையை மழித்தலும்",
+          "en": "Shaven head",
+          "hi": "मुंडा बनना"
+        },
+        {
+          "no": 2,
+          "word": "நீட்டலும் <br>(Neettalum)",
+          "ta": "சடை வளர்த்தலும்",
+          "en": "Tresses long",
+          "hi": "या जटिल बनना"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டா <br>(Vendaa)",
+          "ta": "தேவையில்லை",
+          "en": "Not needed",
+          "hi": "बेकाम है"
+        },
+        {
+          "no": 4,
+          "word": "உலகம் <br>(Ulagam)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "जग"
+        },
+        {
+          "no": 5,
+          "word": "பழித்தது <br>(Pazhiththadhu)",
+          "ta": "பழித்த தீய செயல்களை",
+          "en": "Condemns as wrong",
+          "hi": "निंदित सब काम"
+        },
+        {
+          "no": 6,
+          "word": "ஒழித்து <br>(Ozhiththu)",
+          "ta": "விட்டு",
+          "en": "Shun",
+          "hi": "तज"
+        },
+        {
+          "no": 7,
+          "word": "விடின் <br>(Vidin)",
+          "ta": "விட்டால்",
+          "en": "If",
+          "hi": "दिया यदि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மழித்தலும் நீட்டலும் வேண்டா உலகம்",
+          "line2": "பழித்தது ஒழித்து விடின்."
+        },
+        "en": {
+          "line1": "What's the worth of shaven head or tresses long,",
+          "line2": "If you shun what all the world condemns as wrong ?"
+        },
+        "hi": {
+          "line1": "साधक ने यदि तज दिया, जग-निन्दित सब काम ।",
+          "line2": "उसको मुंडा या जटिल, बनना है बेकाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Mazhiththalum Neettalum Vendaa Ulagam",
+            "line2": "Pazhiththadhu Ozhiththu Vidin."
+          },
+          "hi": {
+            "line1": "मऴित्तलुम् नीट्टलुम् वेण्डा उलगम्",
+            "line2": "पऴित्तदु ऒऴित्तु विडिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உலகம் பழித்து வெறுக்கும் தீய செயல்களை விட்டுவிட்டால், தலையை மழித்தலும் சடை வளர்த்தலும் ஆகிய புறக்கோலங்கள் தேவையில்லை.",
+        "en": "If you genuinely avoid wrongful deeds, you have no need for external religious costumes like shaved heads or matted locks.",
+        "hi": "यदि साधक ने संसार द्वारा निंदित सभी बुरे कामों का त्याग कर दिया है, तो उसके लिए सिर मुंडाना या जटाएँ बढ़ाना बिल्कुल व्यर्थ (बेकाम) है।"
+      }
+    }
+  ]
+}

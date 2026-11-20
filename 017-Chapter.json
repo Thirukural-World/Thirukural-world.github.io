@@ -1,0 +1,930 @@
+{
+  "chapterNum": 17,
+  "nameTa": "அழுக்காறாமை",
+  "nameEn": "Not Envying",
+  "nameHi": "अनसूयता",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 161,
+      "line1": "ஒழுக்காறாக் கொள்க ஒருவன்தன் நெஞ்சத்து",
+      "line2": "அழுக்காறு இலாத இயல்பு.",
+      "enLine1": "As ' strict decorum's ' laws, that all men bind,",
+      "enLine2": "Let each regard unenvying grace of mind.",
+      "hiLine1": "जलन- रहित निज मन रहे ऐसी उत्तम बान ।",
+      "hiLine2": "अपनावें हर एक नर, धर्म आचरण मान ॥",
+      "general": "ஒருவன் தன் மனத்தில் பொறாமை இல்லாத இயல்பை, தனக்குரிய சிறந்த ஒழுக்க நெறியாகக் கொள்ள வேண்டும்.",
+      "en": "Let a man esteem as the rule of virtuous conduct the disposition of having no envy in his heart.",
+      "hi": "प्रत्येक व्यक्ति को अपने मन में ईर्ष्या-रहित रहने के उत्तम स्वभाव को धर्म और सदाचरण का नियम मानकर अपनाना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒழுக்காறாக் <br>(Ozhukkaaraak)",
+          "ta": "ஒழுக்க நெறியாக",
+          "en": "As strict decorum's law",
+          "hi": "धर्म आचरण मानकर"
+        },
+        {
+          "no": 2,
+          "word": "கொள்க <br>(Kolka)",
+          "ta": "கொள்ள வேண்டும்",
+          "en": "Let each regard / adopt",
+          "hi": "अपनावें"
+        },
+        {
+          "no": 3,
+          "word": "ஒருவன்தன் <br>(Oruvandhan)",
+          "ta": "ஒருவன் தனது",
+          "en": "A person's own",
+          "hi": "हर एक नर अपने"
+        },
+        {
+          "no": 4,
+          "word": "நெஞ்சத்து <br>(Nenjaththu)",
+          "ta": "மனத்தில்",
+          "en": "Of mind / heart",
+          "hi": "मन में"
+        },
+        {
+          "no": 5,
+          "word": "அழுக்காறு <br>(Azhukkaaru)",
+          "ta": "பொறாமை",
+          "en": "Envy",
+          "hi": "जलन / ईर्ष्या"
+        },
+        {
+          "no": 6,
+          "word": "இலாத <br>(Ilaadha)",
+          "ta": "இல்லாத",
+          "en": "Free from",
+          "hi": "रहित"
+        },
+        {
+          "no": 7,
+          "word": "இயல்பு <br>(Iyalbu)",
+          "ta": "நல்லியல்பை",
+          "en": "Grace / disposition",
+          "hi": "उत्तम स्वभाव को"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒழுக்காறாக் கொள்க ஒருவன்தன் நெஞ்சத்து",
+          "line2": "அழுக்காறு இலாத இயல்பு."
+        },
+        "en": {
+          "line1": "As ' strict decorum's ' laws, that all men bind,",
+          "line2": "Let each regard unenvying grace of mind."
+        },
+        "hi": {
+          "line1": "जलन- रहित निज मन रहे ऐसी उत्तम बान ।",
+          "line2": "अपनावें हर एक नर, धर्म आचरण मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ozhukkaaraak Kolka Oruvandhan Nenjaththu",
+            "line2": "Azhukkaaru Ilaadha Iyalbu."
+          },
+          "hi": {
+            "line1": "ऒऴुक्काराक् कॊळ्ग ऒरुवन्दन् नॆञ्जत्तु",
+            "line2": "अऴुक्कारु इलाद इयल्बु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் தன் மனத்தில் பொறாமை இல்லாத இயல்பை, தனக்குரிய சிறந்த ஒழுக்க நெறியாகக் கொள்ள வேண்டும்.",
+        "en": "Cultivating a heart completely free from envy should be embraced as a fundamental rule of righteous living.",
+        "hi": "प्रत्येक व्यक्ति को अपने मन में ईर्ष्या-रहित रहने के उत्तम स्वभाव को धर्म और सदाचरण का नियम मानकर अपनाना चाहिए।"
+      }
+    },
+    {
+      "num": 162,
+      "line1": "விழுப்பேற்றின் அஃதொப்பது இல்லையார் மாட்டும்",
+      "line2": "அழுக்காற்றின் அன்மை பெறின்.",
+      "enLine1": "If man can learn to envy none on earth,",
+      "enLine2": "'Tis richest gift,—beyond compare its worth.",
+      "hiLine1": "सबसे ऐसा भाव हो, जो है ईर्ष्या- मुक्त ।",
+      "hiLine2": "तो उसके सम है नहीं, भाग्य श्रेष्ठता युक्त ॥",
+      "general": "யாரிடத்தும் பொறாமை கொள்ளாத தன்மையைப் பெற்றால், அதைவிடச் சிறந்த செல்வமும் பேறும் உலகில் வேறொன்றுமில்லை.",
+      "en": "If a person attains the state of feeling no envy toward anyone at all, there is no higher blessing equal to it.",
+      "hi": "यदि किसी का सबके प्रति ऐसा भाव हो जो ईर्ष्या से पूर्णतः मुक्त है, तो उस श्रेष्ठ भाग्य के समान संसार में कोई दूसरा वरदान नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "விழுப்பேற்றின் <br>(Vizhuppetrin)",
+          "ta": "சிறந்த பேறுகளுள்",
+          "en": "Among richest gifts",
+          "hi": "श्रेष्ठ भाग्य में"
+        },
+        {
+          "no": 2,
+          "word": "அஃதொப்பது <br>(Akdhoppadhu)",
+          "ta": "அதற்கு இணையானது",
+          "en": "Equal to that",
+          "hi": "उसके समान"
+        },
+        {
+          "no": 3,
+          "word": "இல்லையார் <br>(Illaiyaar)",
+          "ta": "இல்லை; யார்",
+          "en": "There is none; toward anyone",
+          "hi": "नहीं है; सबके"
+        },
+        {
+          "no": 4,
+          "word": "மாட்டும் <br>(Maattum)",
+          "ta": "இடத்திலும்",
+          "en": "Whoever",
+          "hi": "प्रति"
+        },
+        {
+          "no": 5,
+          "word": "அழுக்காற்றின் <br>(Azhukkaatrin)",
+          "ta": "பொறாமையின்",
+          "en": "From envy",
+          "hi": "ईर्ष्या से"
+        },
+        {
+          "no": 6,
+          "word": "அன்மை <br>(Anmai)",
+          "ta": "நீங்கிய தன்மையைப்",
+          "en": "Absence / freedom",
+          "hi": "मुक्त भाव"
+        },
+        {
+          "no": 7,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "பெற்றால்",
+          "en": "If one obtains",
+          "hi": "यदि प्राप्त हो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விழுப்பேற்றின் அஃதொப்பது இல்லையார் மாட்டும்",
+          "line2": "அழுக்காற்றின் அன்மை பெறின்."
+        },
+        "en": {
+          "line1": "If man can learn to envy none on earth,",
+          "line2": "'Tis richest gift,—beyond compare its worth."
+        },
+        "hi": {
+          "line1": "सबसे ऐसा भाव हो, जो है ईर्ष्या- मुक्त ।",
+          "line2": "तो उसके सम है नहीं, भाग्य श्रेष्ठता युक्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vizhuppetrin Akdhoppadhu Illaiyaar Maattum",
+            "line2": "Azhukkaatrin Anmai Perin."
+          },
+          "hi": {
+            "line1": "विऴुप्पेत्रिन् अःदॊप्पदु इल्लैयार् माट्टुम्",
+            "line2": "अऴुक्कात्रिन् अन्मै पॆरिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "யாரிடத்தும் பொறாமை கொள்ளாத தன்மையைப் பெற்றால், அதைவிடச் சிறந்த செல்வமும் பேறும் உலகில் வேறொன்றுமில்லை.",
+        "en": "Nothing compares to the inner wealth of harboring no jealousy toward anyone in the world.",
+        "hi": "यदि किसी का सबके प्रति ऐसा भाव हो जो ईर्ष्या से पूर्णतः मुक्त है, तो उस श्रेष्ठ भाग्य के समान संसार में कोई दूसरा वरदान नहीं है।"
+      }
+    },
+    {
+      "num": 163,
+      "line1": "அறனாக்கம் வேண்டாதான் என்பான் பிறனாக்கம்",
+      "line2": "பேணாது அழுக்கறுப் பான்.",
+      "enLine1": "Nor wealth nor virtue does that man desire, 'tis plain,",
+      "enLine2": "Whom others' wealth delights not, feeling envious pain.",
+      "hiLine1": "धर्म- अर्थ के लाभ की, जिसकी हैं नहीं चाह ।",
+      "hiLine2": "पर-समृद्धि से खुश न हो, करता है वह डाह ॥",
+      "general": "பிறருடைய செல்வ வளர்ச்சியைக் கண்டு மகிழாமல் பொறாமைப்படுபவன், தனக்கு அறமும் செல்வமும் வேண்டும் என்று விரும்பாதவனே ஆவான்.",
+      "en": "He who does not rejoice at another's prosperity, but envies it, is one who desires neither virtue nor wealth for himself.",
+      "hi": "जो व्यक्ति दूसरों की समृद्धि देखकर प्रसन्न नहीं होता बल्कि उनसे डाह (ईर्ष्या) करता है, उसे अपने लिए धर्म और अर्थ के लाभ की कोई चाह नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறனாக்கம் <br>(Aranaakkam)",
+          "ta": "அறத்தையும் செல்வத்தையும்",
+          "en": "Virtue and wealth",
+          "hi": "धर्म और अर्थ के लाभ को"
+        },
+        {
+          "no": 2,
+          "word": "வேண்டாதான் <br>(Vendaadhaan)",
+          "ta": "விரும்பாதவன்",
+          "en": "Who desires not",
+          "hi": "न चाहने वाला"
+        },
+        {
+          "no": 3,
+          "word": "என்பான் <br>(Enbaan)",
+          "ta": "என்று கூறப்படுபவன்",
+          "en": "Is declared to be",
+          "hi": "कहलाता है"
+        },
+        {
+          "no": 4,
+          "word": "பிறனாக்கம் <br>(Piranaakkam)",
+          "ta": "பிறருடைய செல்வத்தை",
+          "en": "Others' wealth",
+          "hi": "पर-समृद्धि से"
+        },
+        {
+          "no": 5,
+          "word": "பேணாது <br>(Penaadhu)",
+          "ta": "விரும்பிப் போற்றாமல்",
+          "en": "Not delighting in",
+          "hi": "खुश न होकर"
+        },
+        {
+          "no": 6,
+          "word": "அழுக்கறுப் <br>(Azhukkarup)",
+          "ta": "பொறாமைப்படு",
+          "en": "Envying",
+          "hi": "डाह करने"
+        },
+        {
+          "no": 7,
+          "word": "பான் <br>(Paan)",
+          "ta": "பவனே",
+          "en": "He who",
+          "hi": "वाला"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறனாக்கம் வேண்டாதான் என்பான் பிறனாக்கம்",
+          "line2": "பேணாது அழுக்கறுப் பான்."
+        },
+        "en": {
+          "line1": "Nor wealth nor virtue does that man desire, 'tis plain,",
+          "line2": "Whom others' wealth delights not, feeling envious pain."
+        },
+        "hi": {
+          "line1": "धर्म- अर्थ के लाभ की, जिसकी हैं नहीं चाह ।",
+          "line2": "पर-समृद्धि से खुश न हो, करता है वह डाह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aranaakkam Vendaadhaan Enbaan Piranaakkam",
+            "line2": "Penaadhu Azhukkarup Paan."
+          },
+          "hi": {
+            "line1": "अरनाक्कम् वेण्डादान् एन्बान् पिरनाक्कम्",
+            "line2": "पेणादु अऴुक्करुप् पान्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறருடைய செல்வ வளர்ச்சியைக் கண்டு மகிழாமல் பொறாமைப்படுபவன், தனக்கு அறமும் செல்வமும் வேண்டும் என்று விரும்பாதவனே ஆவான்.",
+        "en": "Anyone who resents another person's success instead of appreciating it is actively working against their own moral and material growth.",
+        "hi": "जो व्यक्ति दूसरों की समृद्धि देखकर प्रसन्न नहीं होता बल्कि उनसे डाह (ईर्ष्या) करता है, उसे अपने लिए धर्म और अर्थ के लाभ की कोई चाह नहीं है।"
+      }
+    },
+    {
+      "num": 164,
+      "line1": "அழுக்காற்றின் அல்லவை செய்யார் இழுக்காற்றின்",
+      "line2": "ஏதம் படுபாக்கு அறிந்து.",
+      "enLine1": "The wise through envy break not virtue's laws,",
+      "enLine2": "Knowing ill-deeds of foul disgrace the cause.",
+      "hiLine1": "पाप- कर्म से हानियाँ, जो होती है जान ।",
+      "hiLine2": "ईर्ष्यावश करते नहीं, पाप- कर्म धीमान ॥",
+      "general": "பொறாமைப்பட்டுத் தீய செயல்களைச் செய்தால் அதனால் பெரும் துன்பம் உண்டாகும் என்பதை அறிந்து, அறிவுடையோர் அவ்வாறு செய்யமாட்டார்கள்.",
+      "en": "The wise do not commit unrighteous deeds out of envy, knowing the misery that springs from straying from the right path.",
+      "hi": "बुद्धिमान लोग यह भली-भाँति जानते हैं कि पाप-कर्म से बड़ी हानियाँ होती हैं, इसलिए वे ईर्ष्या के वश में होकर कभी कोई पाप-कर्म नहीं करते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அழுக்காற்றின் <br>(Azhukkaatrin)",
+          "ta": "பொறாமையினால்",
+          "en": "Through envy",
+          "hi": "ईर्ष्यावश"
+        },
+        {
+          "no": 2,
+          "word": "அல்லவை <br>(Allavai)",
+          "ta": "தீய செயல்களை",
+          "en": "Ill-deeds",
+          "hi": "पाप-कर्म"
+        },
+        {
+          "no": 3,
+          "word": "செய்யார் <br>(Seyyaar)",
+          "ta": "செய்யமாட்டார்",
+          "en": "Will not do",
+          "hi": "नहीं करते"
+        },
+        {
+          "no": 4,
+          "word": "இழுக்காற்றின் <br>(Izhukkaatrin)",
+          "ta": "தீய வழியால்",
+          "en": "From evil way",
+          "hi": "पाप-मार्ग से"
+        },
+        {
+          "no": 5,
+          "word": "ஏதம் <br>(Edham)",
+          "ta": "துன்பமும் பழியும்",
+          "en": "Disgrace / ruin",
+          "hi": "हानियाँ"
+        },
+        {
+          "no": 6,
+          "word": "படுபாக்கு <br>(Padubaakku)",
+          "ta": "உண்டாவதை",
+          "en": "Being caused",
+          "hi": "होती हैं"
+        },
+        {
+          "no": 7,
+          "word": "அறிந்து <br>(Arindhu)",
+          "ta": "அறிந்து",
+          "en": "Knowing",
+          "hi": "जानकर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அழுக்காற்றின் அல்லவை செய்யார் இழுக்காற்றின்",
+          "line2": "ஏதம் படுபாக்கு அறிந்து."
+        },
+        "en": {
+          "line1": "The wise through envy break not virtue's laws,",
+          "line2": "Knowing ill-deeds of foul disgrace the cause."
+        },
+        "hi": {
+          "line1": "पाप- कर्म से हानियाँ, जो होती है जान ।",
+          "line2": "ईर्ष्यावश करते नहीं, पाप- कर्म धीमान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Azhukkaatrin Allavai Seyyaar Izhukkaatrin",
+            "line2": "Edham Padubaakku Arindhu."
+          },
+          "hi": {
+            "line1": "अऴुक्कात्रिन् अल्लवै सॆय्यार् इऴुक्कात्रिन्",
+            "line2": "एदम् पडुबाक्कु अरिन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொறாமைப்பட்டுத் தீய செயல்களைச் செய்தால் அதனால் பெரும் துன்பம் உண்டாகும் என்பதை அறிந்து, அறிவுடையோர் அவ்வாறு செய்யமாட்டார்கள்.",
+        "en": "Wise people refuse to let jealousy drive them into wrongful acts because they understand the lasting harm such actions bring.",
+        "hi": "बुद्धिमान लोग यह भली-भाँति जानते हैं कि पाप-कर्म से बड़ी हानियाँ होती हैं, इसलिए वे ईर्ष्या के वश में होकर कभी कोई पाप-कर्म नहीं करते।"
+      }
+    },
+    {
+      "num": 165,
+      "line1": "அழுக்காறு உடையார்க்கு அதுசாலும் ஒன்னார்",
+      "line2": "வழுக்கியும் கேடீன் பது.",
+      "enLine1": "Envy they have within ! Enough to seal their fate !",
+      "enLine2": "Though foemen fail, envy can ruin consummate.",
+      "hiLine1": "शत्रु न भी हो ईर्ष्यु का, करने को कुछ हानि ।",
+      "hiLine2": "जलन मात्र पर्याप्त है, करने को अति हानि ॥",
+      "general": "பொறாமை உடையவர்க்குப் பகைவர்கள் தவறிவிட்டாலும், அவர்களிடமுள்ள அந்தப் பொறாமையே அவர்களுக்கு அழிவைத் தரப் போதுமானதாகும்.",
+      "en": "Envy itself is enough for the envious; even if enemies fail to harm them, their own envy will bring them ruin.",
+      "hi": "ईर्ष्यालु व्यक्ति का अहित करने के लिए यदि कोई शत्रु न भी हो, तो भी उसकी अपनी जलन ही उसका सर्वनाश करने के लिए पर्याप्त है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அழுக்காறு <br>(Azhukkaaru)",
+          "ta": "பொறாமை",
+          "en": "Envy",
+          "hi": "जलन"
+        },
+        {
+          "no": 2,
+          "word": "உடையார்க்கு <br>(Udaiyaarkku)",
+          "ta": "உடையவர்களுக்கு",
+          "en": "To those who have",
+          "hi": "ईर्ष्यालु के लिए"
+        },
+        {
+          "no": 3,
+          "word": "அதுசாலும் <br>(Adhusaalum)",
+          "ta": "அதுவே போதும்",
+          "en": "That alone is enough",
+          "hi": "मात्र पर्याप्त है"
+        },
+        {
+          "no": 4,
+          "word": "ஒன்னார் <br>(Onnaar)",
+          "ta": "பகைவர்கள்",
+          "en": "Foemen / enemies",
+          "hi": "शत्रु"
+        },
+        {
+          "no": 5,
+          "word": "வழுக்கியும் <br>(Vazhukkiyum)",
+          "ta": "தவறிவிட்டாலும்",
+          "en": "Even if they fail",
+          "hi": "न भी हो"
+        },
+        {
+          "no": 6,
+          "word": "கேடீன் <br>(Kedeen)",
+          "ta": "அழிவைத் தரு",
+          "en": "Ruin",
+          "hi": "अति हानि"
+        },
+        {
+          "no": 7,
+          "word": "பது <br>(Padhu)",
+          "ta": "வதாகும்",
+          "en": "Brings about",
+          "hi": "करने को"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அழுக்காறு உடையார்க்கு அதுசாலும் ஒன்னார்",
+          "line2": "வழுக்கியும் கேடீன் பது."
+        },
+        "en": {
+          "line1": "Envy they have within ! Enough to seal their fate !",
+          "line2": "Though foemen fail, envy can ruin consummate."
+        },
+        "hi": {
+          "line1": "शत्रु न भी हो ईर्ष्यु का, करने को कुछ हानि ।",
+          "line2": "जलन मात्र पर्याप्त है, करने को अति हानि ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Azhukkaaru Udaiyaarkku Adhusaalum Onnaar",
+            "line2": "Vazhukkiyum Kedeen Padhu."
+          },
+          "hi": {
+            "line1": "अऴुक्कारु उडैयार्क्कु अदुसालुम् ऒन्नार्",
+            "line2": "वऴुक्कियुम् केडीन् पदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொறாமை உடையவர்க்குப் பகைவர்கள் தவறிவிட்டாலும், அவர்களிடமுள்ள அந்தப் பொறாமையே அவர்களுக்கு அழிவைத் தரப் போதுமானதாகும்.",
+        "en": "An envious person needs no outside enemies—the poison of envy within is more than enough to destroy them.",
+        "hi": "ईर्ष्यालु व्यक्ति का अहित करने के लिए यदि कोई शत्रु न भी हो, तो भी उसकी अपनी जलन ही उसका सर्वनाश करने के लिए पर्याप्त है।"
+      }
+    },
+    {
+      "num": 166,
+      "line1": "கொடுப்பது அழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம்",
+      "line2": "உண்பதூஉம் இன்றிக் கெடும்.",
+      "enLine1": "Who scans good gifts to others given with envious eye,",
+      "enLine2": "His kin, with none to clothe or feed them, surely die.",
+      "hiLine1": "दान देख कर जो जले, उसे सहित परिवार ।",
+      "hiLine2": "रोटी कपडे को तरस, मिटते लगे न बार ॥",
+      "general": "பிறருக்குக் கொடுப்பதைக் கண்டு பொறாமைப்படுபவனின் சுற்றத்தார், உடுக்க உடையும் உண்ண உணவும் இல்லாமல் அழிந்துபோவார்கள்.",
+      "en": "The kindred of him who envies gifts given to others will perish without clothing to wear or food to eat.",
+      "hi": "जो व्यक्ति दूसरों को दान मिलते देखकर जलता है, वह अपने परिवार सहित रोटी और कपड़े को तरसकर शीघ्र ही नष्ट हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கொடுப்பது <br>(Koduppadhu)",
+          "ta": "பிறர்க்குக் கொடுப்பதை",
+          "en": "Gifts given",
+          "hi": "दान देखकर"
+        },
+        {
+          "no": 2,
+          "word": "அழுக்கறுப்பான் <br>(Azhukkaruppaan)",
+          "ta": "பொறாமைப்படுபவனின்",
+          "en": "Who envies",
+          "hi": "जो जलता है"
+        },
+        {
+          "no": 3,
+          "word": "சுற்றம் <br>(Sutram)",
+          "ta": "சுற்றத்தார்",
+          "en": "Kin / kindred",
+          "hi": "परिवार सहित"
+        },
+        {
+          "no": 4,
+          "word": "உடுப்பதூஉம் <br>(Uduppadhooum)",
+          "ta": "உடுக்க உடையும்",
+          "en": "To clothe",
+          "hi": "कपड़े को"
+        },
+        {
+          "no": 5,
+          "word": "உண்பதூஉம் <br>(Unbadhooum)",
+          "ta": "உண்ண உணவும்",
+          "en": "To feed",
+          "hi": "रोटी को"
+        },
+        {
+          "no": 6,
+          "word": "இன்றிக் <br>(Indrik)",
+          "ta": "இல்லாமல்",
+          "en": "Without",
+          "hi": "तरसकर"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "கெட்டழியும்",
+          "en": "Surely die / perish",
+          "hi": "मिटते देर न लगे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கொடுப்பது அழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம்",
+          "line2": "உண்பதூஉம் இன்றிக் கெடும்."
+        },
+        "en": {
+          "line1": "Who scans good gifts to others given with envious eye,",
+          "line2": "His kin, with none to clothe or feed them, surely die."
+        },
+        "hi": {
+          "line1": "दान देख कर जो जले, उसे सहित परिवार ।",
+          "line2": "रोटी कपडे को तरस, मिटते लगे न बार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Koduppadhu Azhukkaruppaan Sutram Uduppadhooum",
+            "line2": "Unbadhooum Indrik Kedum."
+          },
+          "hi": {
+            "line1": "कॊडुप्पदु अऴुक्करुप्पान् सुत्रम् उडुप्पदूउम्",
+            "line2": "उण्बदूउम् इन्द्रिक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறருக்குக் கொடுப்பதைக் கண்டு பொறாமைப்படுபவனின் சுற்றத்தார், உடுக்க உடையும் உண்ண உணவும் இல்லாமல் அழிந்துபோவார்கள்.",
+        "en": "Grudging the charity or good fortune given to others brings such ruin that even one's own family lacks basic food and clothing.",
+        "hi": "जो व्यक्ति दूसरों को दान मिलते देखकर जलता है, वह अपने परिवार सहित रोटी और कपड़े को तरसकर शीघ्र ही नष्ट हो जाता है।"
+      }
+    },
+    {
+      "num": 167,
+      "line1": "அவ்வித்து அழுக்காறு உடையானைச் செய்யவள்",
+      "line2": "தவ்வையைக் காட்டி விடும்.",
+      "enLine1": "From envious man good fortune's goddess turns away,",
+      "enLine2": "Grudging him good, and points him out misfortune's prey.",
+      "hiLine1": "जलनेवाले से स्वयं, जल कर रमा अदीन ।",
+      "hiLine2": "अपनी ज्येष्ठा के उसे , करती वही अधीन ॥",
+      "general": "மனத்தில் பொறாமை கொண்டவனைக் கண்டு திருமகள் தானும் பொறாமை கொண்டு, அவனைத் தன் தமக்கையாகிய மூதேவியிடம் ஒப்படைத்துவிட்டு நீங்கிவிடுவாள்.",
+      "en": "The goddess of fortune, displeased at the envious man, turns away from him and hands him over to her elder sister, misfortune.",
+      "hi": "ईर्ष्यालु व्यक्ति से स्वयं लक्ष्मी (रमा) भी अप्रसन्न होकर उसे अपनी बड़ी बहन दरिद्रता (अलक्ष्मी) के अधीन कर देती हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அவ்வித்து <br>(Avviththu)",
+          "ta": "மனம் கோணி வெறுத்து",
+          "en": "Grudging / turning away",
+          "hi": "जलकर / अप्रसन्न होकर"
+        },
+        {
+          "no": 2,
+          "word": "அழுக்காறு <br>(Azhukkaaru)",
+          "ta": "பொறாமை",
+          "en": "Envy",
+          "hi": "जलन"
+        },
+        {
+          "no": 3,
+          "word": "உடையானைச் <br>(Udaiyaanaich)",
+          "ta": "உடையவனை",
+          "en": "Man who has",
+          "hi": "वाले को"
+        },
+        {
+          "no": 4,
+          "word": "செய்யவள் <br>(Seyyaval)",
+          "ta": "திருமகள்",
+          "en": "Goddess of fortune",
+          "hi": "रमा (लक्ष्मी)"
+        },
+        {
+          "no": 5,
+          "word": "தவ்வையைக் <br>(Thavvaiyaik)",
+          "ta": "தன் தமக்கையாகிய மூதேவிக்கு",
+          "en": "Elder sister (misfortune)",
+          "hi": "अपनी ज्येष्ठा (अलक्ष्मी) के"
+        },
+        {
+          "no": 6,
+          "word": "காட்டி <br>(Kaatti)",
+          "ta": "காட்டிக் கொடுத்து",
+          "en": "Points him out",
+          "hi": "अधीन"
+        },
+        {
+          "no": 7,
+          "word": "விடும் <br>(Vidum)",
+          "ta": "நீங்கிவிடுவாள்",
+          "en": "Leaves him",
+          "hi": "कर देती है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அவ்வித்து அழுக்காறு உடையானைச் செய்யவள்",
+          "line2": "தவ்வையைக் காட்டி விடும்."
+        },
+        "en": {
+          "line1": "From envious man good fortune's goddess turns away,",
+          "line2": "Grudging him good, and points him out misfortune's prey."
+        },
+        "hi": {
+          "line1": "जलनेवाले से स्वयं, जल कर रमा अदीन ।",
+          "line2": "अपनी ज्येष्ठा के उसे , करती वही अधीन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Avviththu Azhukkaaru Udaiyaanaich Seyyaval",
+            "line2": "Thavvaiyaik Kaatti Vidum."
+          },
+          "hi": {
+            "line1": "अव्वित्तु अऴुक्कारु उडैयानैच् सॆय्यवळ्",
+            "line2": "तव्वैयाक् काट्टि विडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனத்தில் பொறாமை கொண்டவனைக் கண்டு திருமகள் தானும் பொறாமை கொண்டு, அவனைத் தன் தமக்கையாகிய மூதேவியிடம் ஒப்படைத்துவிட்டு நீங்கிவிடுவாள்.",
+        "en": "Prosperity abandons the envious person and leaves them to face misfortune and poverty instead.",
+        "hi": "ईर्ष्यालु व्यक्ति से स्वयं लक्ष्मी (रमा) भी अप्रसन्न होकर उसे अपनी बड़ी बहन दरिद्रता (अलक्ष्मी) के अधीन कर देती हैं।"
+      }
+    },
+    {
+      "num": 168,
+      "line1": "அழுக்காறு எனஒரு பாவி திருச்செற்றுத்",
+      "line2": "தீயுழி உய்த்து விடும்.",
+      "enLine1": "Envy, embodied ill, incomparable bane,",
+      "enLine2": "Good fortune slays, and soul consigns to fiery pain.",
+      "hiLine1": "ईर्ष्या जो है पापिनी, करके श्री का नाश ।",
+      "hiLine2": "नरक-अग्नि में झोंक कर, करती सत्यानास ॥",
+      "general": "பொறாமை என்னும் ஒப்பற்ற பாவி, ஒருவனுடைய செல்வத்தை அழித்து அவனைத் தீய நரகத்திலும் கொண்டுபோய்த் தள்ளிவிடும்.",
+      "en": "Envy, that matchless sinner, destroys a person's prosperity and thrusts them into the fiery pit of ruin.",
+      "hi": "ईर्ष्या नाम की जो पापिनी है, वह व्यक्ति की संपत्ति (श्री) का नाश करके उसे नरक की अग्नि में झोंककर उसका सर्वनाश कर देती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அழுக்காறு <br>(Azhukkaaru)",
+          "ta": "பொறாமை",
+          "en": "Envy",
+          "hi": "ईर्ष्या"
+        },
+        {
+          "no": 2,
+          "word": "எனஒரு <br>(Enaoru)",
+          "ta": "என்னும் ஒப்பற்ற",
+          "en": "Incomparable / one",
+          "hi": "जो है"
+        },
+        {
+          "no": 3,
+          "word": "பாவி <br>(Paavi)",
+          "ta": "பாவி",
+          "en": "Embodied ill / sinner",
+          "hi": "पापिनी"
+        },
+        {
+          "no": 4,
+          "word": "திருச்செற்றுத் <br>(Thiruchchetruththu)",
+          "ta": "செல்வத்தை அழித்து",
+          "en": "Good fortune slays",
+          "hi": "श्री का नाश करके"
+        },
+        {
+          "no": 5,
+          "word": "தீயுழி <br>(Theeyuzhi)",
+          "ta": "தீய நரகத்தில்",
+          "en": "To fiery pain / pit",
+          "hi": "नरक-अग्नि में"
+        },
+        {
+          "no": 6,
+          "word": "உய்த்து <br>(Uyththu)",
+          "ta": "கொண்டுபோய்ச் சேர்த்து",
+          "en": "Consigns / leads",
+          "hi": "झोंककर"
+        },
+        {
+          "no": 7,
+          "word": "விடும் <br>(Vidum)",
+          "ta": "விடும்",
+          "en": "Will cast",
+          "hi": "सत्यानाश कर देती है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அழுக்காறு எனஒரு பாவி திருச்செற்றுத்",
+          "line2": "தீயுழி உய்த்து விடும்."
+        },
+        "en": {
+          "line1": "Envy, embodied ill, incomparable bane,",
+          "line2": "Good fortune slays, and soul consigns to fiery pain."
+        },
+        "hi": {
+          "line1": "ईर्ष्या जो है पापिनी, करके श्री का नाश ।",
+          "line2": "नरक-अग्नि में झोंक कर, करती सत्यानास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Azhukkaaru Enaoru Paavi Thiruchchetruththu",
+            "line2": "Theeyuzhi Uyththu Vidum."
+          },
+          "hi": {
+            "line1": "अऴुक्कारु एनऒरु पावि तिरुच्चॆत्रुत्",
+            "line2": "तीयुऴि उय्त्तु विडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொறாமை என்னும் ஒப்பற்ற பாவி, ஒருவனுடைய செல்வத்தை அழித்து அவனைத் தீய நரகத்திலும் கொண்டுபோய்த் தள்ளிவிடும்.",
+        "en": "Envy acts like a relentless curse that strips away a person's wealth in this life and plunges their soul into torment.",
+        "hi": "ईर्ष्या नाम की जो पापिनी है, वह व्यक्ति की संपत्ति (श्री) का नाश करके उसे नरक की अग्नि में झोंककर उसका सर्वनाश कर देती है।"
+      }
+    },
+    {
+      "num": 169,
+      "line1": "அவ்விய நெஞ்சத்தான் ஆக்கமும் செவ்வியான்",
+      "line2": "கேடும் நினைக்கப் படும்.",
+      "enLine1": "To men of envious heart, when comes increase of joy,",
+      "enLine2": "Or loss to blameless men, the ' why ' will thoughtful hearts employ.",
+      "hiLine1": "जब होती ईर्ष्यालु की, धन की वृद्धि अपार ।",
+      "hiLine2": "तथा हानि भी साधु की, तो करना सुविचार ॥",
+      "general": "பொறாமை மனம் கொண்டவனுக்கு ஏற்படும் செல்வப் பெருக்கமும், நேர்மையான நல்லவனுக்கு ஏற்படும் வறுமையும் அறிஞர்களால் ஆராய்ந்து பார்க்கப்படும்.",
+      "en": "The prosperity of the envious-hearted and the ruin of the upright are matters that cause thoughtful people to reflect deeply.",
+      "hi": "जब ईर्ष्यालु व्यक्ति के धन में अपार वृद्धि हो तथा सज्जन (साधु) व्यक्ति की हानि हो, तो उस स्थिति पर गंभीरता से विचार करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அவ்விய <br>(Avviya)",
+          "ta": "பொறாமை கொண்ட",
+          "en": "Envious",
+          "hi": "ईर्ष्यालु"
+        },
+        {
+          "no": 2,
+          "word": "நெஞ்சத்தான் <br>(Nenjaththaan)",
+          "ta": "நெஞ்சத்தை உடையவனின்",
+          "en": "Hearted man's",
+          "hi": "व्यक्ति की"
+        },
+        {
+          "no": 3,
+          "word": "ஆக்கமும் <br>(Aakkamum)",
+          "ta": "செல்வ வளர்ச்சியும்",
+          "en": "Increase of wealth",
+          "hi": "धन की वृद्धि"
+        },
+        {
+          "no": 4,
+          "word": "செவ்வியான் <br>(Sevviyaan)",
+          "ta": "நல்லொழுக்கமுடையவனின்",
+          "en": "Blameless man's",
+          "hi": "साधु की"
+        },
+        {
+          "no": 5,
+          "word": "கேடும் <br>(Kedum)",
+          "ta": "வறுமையால் வரும் கேடும்",
+          "en": "Loss / ruin",
+          "hi": "हानि भी"
+        },
+        {
+          "no": 6,
+          "word": "நினைக்கப் <br>(Ninaikkap)",
+          "ta": "ஆராய்ந்து பார்க்கப்",
+          "en": "Thoughtfully considered",
+          "hi": "सुविचार करना"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "படும்",
+          "en": "Will be",
+          "hi": "चाहिए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அவ்விய நெஞ்சத்தான் ஆக்கமும் செவ்வியான்",
+          "line2": "கேடும் நினைக்கப் படும்."
+        },
+        "en": {
+          "line1": "To men of envious heart, when comes increase of joy,",
+          "line2": "Or loss to blameless men, the ' why ' will thoughtful hearts employ."
+        },
+        "hi": {
+          "line1": "जब होती ईर्ष्यालु की, धन की वृद्धि अपार ।",
+          "line2": "तथा हानि भी साधु की, तो करना सुविचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Avviya Nenjaththaan Aakkamum Sevviyaan",
+            "line2": "Kedum Ninaikkap Padum."
+          },
+          "hi": {
+            "line1": "अव्विय नॆञ्जत्तान् आक्कमुम् सॆव्वियान्",
+            "line2": "केडुम् निनैक्कप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொறாமை மனம் கொண்டவனுக்கு ஏற்படும் செல்வப் பெருக்கமும், நேர்மையான நல்லவனுக்கு ஏற்படும் வறுமையும் அறிஞர்களால் ஆராய்ந்து பார்க்கப்படும்.",
+        "en": "Whenever an envious person prospers or an upright person suffers loss, wise minds naturally pause to ponder why.",
+        "hi": "जब ईर्ष्यालु व्यक्ति के धन में अपार वृद्धि हो तथा सज्जन (साधु) व्यक्ति की हानि हो, तो उस स्थिति पर गंभीरता से विचार करना चाहिए।"
+      }
+    },
+    {
+      "num": 170,
+      "line1": "அழுக்கற்று அகன்றாரும் இல்லை அஃதில்லார்",
+      "line2": "பெருக்கத்தின் தீர்ந்தாரும் இல்.",
+      "enLine1": "No envious men to large and full felicity attain ;",
+      "enLine2": "No men from envy free have failed a sure increase to gain.",
+      "hiLine1": "सुख-समृद्धि उनकी नहीं, जो हों ईर्ष्यायुक्त ।",
+      "hiLine2": "सुख-समृद्धि की इति नहीं, जो हों ईर्ष्यामुक्त ॥",
+      "general": "பொறாமைப்பட்டுப் பெருமையடைந்தவர்களும் உலகில் இல்லை; பொறாமை இல்லாதவர்கள் செல்வப் பெருக்கத்திலிருந்து நீங்கியவர்களும் இல்லை.",
+      "en": "None have ever attained greatness while harboring envy, and none who are free from envy have ever failed to prosper.",
+      "hi": "जो लोग ईर्ष्या से युक्त हैं, उन्हें कभी सुख-समृद्धि प्राप्त नहीं होती, और जो ईर्ष्या से मुक्त हैं, उनकी सुख-समृद्धि का कभी अंत नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அழுக்கற்று <br>(Azhukkatru)",
+          "ta": "பொறாமை கொண்டு",
+          "en": "Envious men",
+          "hi": "ईर्ष्यायुक्त होकर"
+        },
+        {
+          "no": 2,
+          "word": "அகன்றாரும் <br>(Agandraarum)",
+          "ta": "பெருமையடைந்தவரும்",
+          "en": "Who attained greatness",
+          "hi": "सुख-समृद्धि पाने वाले"
+        },
+        {
+          "no": 3,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "Are none",
+          "hi": "नहीं हैं"
+        },
+        {
+          "no": 4,
+          "word": "அஃதில்லார் <br>(Akdhillaar)",
+          "ta": "பொறாமை இல்லாதவர்",
+          "en": "Men from envy free",
+          "hi": "ईर्ष्यामुक्त लोग"
+        },
+        {
+          "no": 5,
+          "word": "பெருக்கத்தின் <br>(Perukkaththin)",
+          "ta": "செல்வப் பெருக்கத்திலிருந்து",
+          "en": "From sure increase",
+          "hi": "सुख-समृद्धि से"
+        },
+        {
+          "no": 6,
+          "word": "தீர்ந்தாரும் <br>(Theerndhaarum)",
+          "ta": "நீங்கியவரும்",
+          "en": "Who failed / departed",
+          "hi": "वंचित रहे हों"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "There are none",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அழுக்கற்று அகன்றாரும் இல்லை அஃதில்லார்",
+          "line2": "பெருக்கத்தின் தீர்ந்தாரும் இல்."
+        },
+        "en": {
+          "line1": "No envious men to large and full felicity attain ;",
+          "line2": "No men from envy free have failed a sure increase to gain."
+        },
+        "hi": {
+          "line1": "सुख-समृद्धि उनकी नहीं, जो हों ईर्ष्यायुक्त ।",
+          "line2": "सुख-समृद्धि की इति नहीं, जो हों ईर्ष्यामुक्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Azhukkatru Agandraarum Illai Akdhillaar",
+            "line2": "Perukkaththin Theerndhaarum Il."
+          },
+          "hi": {
+            "line1": "अऴुक्कत्रु अगन्द्रारुम् इल्लै अःदिल्लार्",
+            "line2": "पॆरुक्कत्तिन् तीर्न्दारुम् इल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொறாமைப்பட்டுப் பெருமையடைந்தவர்களும் உலகில் இல்லை; பொறாமை இல்லாதவர்கள் செல்வப் பெருக்கத்திலிருந்து நீங்கியவர்களும் இல்லை.",
+        "en": "History knows no one who rose to true greatness through envy, nor anyone free of envy who missed lasting prosperity.",
+        "hi": "जो लोग ईर्ष्या से युक्त हैं, उन्हें कभी सुख-समृद्धि प्राप्त नहीं होती, और जो ईर्ष्या से मुक्त हैं, उनकी सुख-समृद्धि का कभी अंत नहीं होता।"
+      }
+    }
+  ]
+}

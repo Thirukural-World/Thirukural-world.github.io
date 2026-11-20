@@ -1,0 +1,930 @@
+{
+  "chapterNum": 4,
+  "nameTa": "அறன் வலியுறுத்தல்",
+  "nameEn": "Assertion of the Strength of Virtue",
+  "nameHi": "धर्म पर आग्रह",
+  "paal": "அறத்துப்பால்",
+  "iyal": "பாயிறவியல்",
+  "kurals": [
+    {
+      "num": 31,
+      "line1": "சிறப்பீனும் செல்வமும் ஈனும் அறத்தினூஉங்கு",
+      "line2": "ஆக்கம் எவனோ உயிர்க்கு.",
+      "enLine1": "It yields distinction, yields prosperity; what gain",
+      "enLine2": "Greater than virtue can a living man obtain?",
+      "hiLine1": "मोक्षप्रद तो धर्म है, धन दे वही अमेय।",
+      "hiLine2": "उससे बढ़ कर जीव को, है क्या कोई श्रेय ॥",
+      "general": "சிறப்பையும் (வீடுபேற்றையும்) செல்வத்தையும் தரக்கூடிய அறத்தைவிட, உயிர்களுக்கு நன்மை தரக்கூடிய ஆக்கம் வேறு என்ன இருக்கிறது?",
+      "en": "Virtue will confer heaven and wealth; what greater source of happiness can man possess?",
+      "hi": "धर्म ही मोक्ष और अपार धन-संपत्ति प्रदान करता है; भला जीव के लिए धर्म से बढ़कर और कौन-सा कल्याण हो सकता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "சிறப்பீனும் <br>(Sirappeenum)",
+          "ta": "சிறப்பைத் தரும்",
+          "en": "Yields distinction / heaven",
+          "hi": "मोक्ष / श्रेष्ठता देता है"
+        },
+        {
+          "no": 2,
+          "word": "செல்வமும் <br>(Selvamum)",
+          "ta": "செல்வத்தையும்",
+          "en": "Prosperity too",
+          "hi": "धन भी"
+        },
+        {
+          "no": 3,
+          "word": "ஈனும் <br>(Eenum)",
+          "ta": "தரும்",
+          "en": "Yields / gives",
+          "hi": "देता है"
+        },
+        {
+          "no": 4,
+          "word": "அறத்தினூஉங்கு <br>(Araththinooungu)",
+          "ta": "அறத்தைவிட மேலான",
+          "en": "Greater than virtue",
+          "hi": "धर्म से बढ़कर"
+        },
+        {
+          "no": 5,
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "நன்மை / ஆக்கம்",
+          "en": "Gain / source of good",
+          "hi": "लाभ / कल्याण"
+        },
+        {
+          "no": 6,
+          "word": "எவனோ <br>(Evano)",
+          "ta": "வேறு என்ன உள்ளது",
+          "en": "What else is there",
+          "hi": "और क्या है"
+        },
+        {
+          "no": 7,
+          "word": "உயிர்க்கு <br>(Uyirkku)",
+          "ta": "உயிர்களுக்கு",
+          "en": "For living beings",
+          "hi": "जीव के लिए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சிறப்பீனும் செல்வமும் ஈனும் அறத்தினூஉங்கு",
+          "line2": "ஆக்கம் எவனோ உயிர்க்கு."
+        },
+        "en": {
+          "line1": "It yields distinction, yields prosperity; what gain",
+          "line2": "Greater than virtue can a living man obtain?"
+        },
+        "hi": {
+          "line1": "मोक्षप्रद तो धर्म है, धन दे वही अमेय।",
+          "line2": "उससे बढ़ कर जीव को, है क्या कोई श्रेय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sirappinum Selvamum Eenum Araththinooungu",
+            "line2": "Aakkam Evano Uyirkku."
+          },
+          "hi": {
+            "line1": "सिरप्पीनुम् सेल्वमुम् ईनुम् अरत्तिनूउङ्गु",
+            "line2": "आक्कम् एवनो उयिर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சிறப்பையும் (வீடுபேற்றையும்) செல்வத்தையும் தரக்கூடிய அறத்தைவிட, உயிர்களுக்கு நன்மை தரக்கூடிய ஆக்கம் வேறு என்ன இருக்கிறது?",
+        "en": "Virtue brings both spiritual distinction and worldly prosperity; there is no greater good a living soul can attain.",
+        "hi": "धर्म ही मोक्ष और अपार धन-संपत्ति प्रदान करता है; भला जीव के लिए धर्म से बढ़कर और कौन-सा कल्याण हो सकता है?"
+      }
+    },
+    {
+      "num": 32,
+      "line1": "அறத்தினூஉங் காக்கமும் இல்லை அதனை",
+      "line2": "மறத்தலின் ஊங்கில்லை கேடு.",
+      "enLine1": "No greater gain than virtue aught can cause;",
+      "enLine2": "No greater loss than life oblivious of her laws.",
+      "hiLine1": "बढ़ कर कहीं सुधर्म से, अन्य न कुछ भी श्रेय।",
+      "hiLine2": "भूला तो उससे बड़ा, और न कुछ अश्रेय ॥",
+      "general": "அறத்தைக் கடைப்பிடிப்பதைவிட உயர்ந்த நன்மை எதுவும் இல்லை; அந்த அறத்தை மறப்பதைவிடப் பெரிய தீமையும் எதுவும் இல்லை.",
+      "en": "There can be no greater source of good than the practice of virtue; there can be no greater source of evil than the forgetfulness of it.",
+      "hi": "सद्धर्म से बढ़कर कोई अन्य कल्याण नहीं है, और यदि उसे भुला दिया जाए तो उससे बड़ा कोई अन्य अकल्याण भी नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறத்தினூஉங்கு <br>(Araththinooungu)",
+          "ta": "அறத்தைவிட மேலான",
+          "en": "Greater than virtue",
+          "hi": "धर्म से बढ़कर"
+        },
+        {
+          "no": 2,
+          "word": "ஆக்கமும் <br>(Aakkamum)",
+          "ta": "நன்மையும்",
+          "en": "Gain",
+          "hi": "कोई कल्याण"
+        },
+        {
+          "no": 3,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "There is no",
+          "hi": "नहीं है"
+        },
+        {
+          "no": 4,
+          "word": "அதனை <br>(Adhanai)",
+          "ta": "அந்த அறத்தை",
+          "en": "That virtue",
+          "hi": "उस धर्म को"
+        },
+        {
+          "no": 5,
+          "word": "மறத்தலின் <br>(Maraththalin)",
+          "ta": "மறப்பதைவிட",
+          "en": "Than forgetting",
+          "hi": "भूलने से"
+        },
+        {
+          "no": 6,
+          "word": "ஊங்கில்லை <br>(Oongillai)",
+          "ta": "மிகுதியானது இல்லை",
+          "en": "Nothing is greater",
+          "hi": "बढ़कर नहीं है"
+        },
+        {
+          "no": 7,
+          "word": "கேடு <br>(Kedu)",
+          "ta": "கேடு / தீமை",
+          "en": "Loss / evil",
+          "hi": "हानि / अकल्याण"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறத்தினூஉங் காக்கமும் இல்லை அதனை",
+          "line2": "மறத்தலின் ஊங்கில்லை கேடு."
+        },
+        "en": {
+          "line1": "No greater gain than virtue aught can cause;",
+          "line2": "No greater loss than life oblivious of her laws."
+        },
+        "hi": {
+          "line1": "बढ़ कर कहीं सुधर्म से, अन्य न कुछ भी श्रेय।",
+          "line2": "भूला तो उससे बड़ा, और न कुछ अश्रेय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Araththinooung Kaakkamum Illai Adhanai",
+            "line2": "Maraththalin Oongillai Kedu."
+          },
+          "hi": {
+            "line1": "अरत्तिनूउङ् गाक्कमुम् इल्लै अदनै",
+            "line2": "मरत्तलिन् ऊङ्गिल्लै केडु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறத்தைக் கடைப்பிடிப்பதைவிட உயர்ந்த நன்மை எதுவும் இல்லை; அந்த அறத்தை மறப்பதைவிடப் பெரிய தீமையும் எதுவும் இல்லை.",
+        "en": "Nothing produces greater good than living virtuously, and nothing brings greater ruin than neglecting virtue.",
+        "hi": "सद्धर्म से बढ़कर कोई अन्य कल्याण नहीं है, और यदि उसे भुला दिया जाए तो उससे बड़ा कोई अन्य अकल्याण भी नहीं है।"
+      }
+    },
+    {
+      "num": 33,
+      "line1": "ஒல்லும் வகையான் அறவினை ஓவாதே",
+      "line2": "செல்லும்வாய் எல்லாம் செயல்.",
+      "enLine1": "To finish virtue's work with ceaseless effort strive,",
+      "enLine2": "What way thou may'st, where'er thou see'st the work may thrive.",
+      "hiLine1": "यथाशक्ति करना सदा, धर्मयुक्त ही कर्म।",
+      "hiLine2": "तन से मन से वचन से, सर्व रीती से धर्म।",
+      "general": "இயன்ற அளவில், இடைவிடாமல், செல்லும் இடங்களில் எல்லாம் (எந்த வழிகளிலெல்லாம் முடியுமோ அங்கெல்லாம்) அறச்செயலைச் செய்ய வேண்டும்.",
+      "en": "As much as possible, in every way, incessantly practise virtue.",
+      "hi": "अपनी शक्ति के अनुसार मन, वचन और कर्म से हर संभव अवसर पर निरंतर धर्मयुक्त कर्म ही करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒல்லும் <br>(Ollum)",
+          "ta": "இயன்ற",
+          "en": "Possible",
+          "hi": "यथाशक्ति"
+        },
+        {
+          "no": 2,
+          "word": "வகையான் <br>(Vakaiyaan)",
+          "ta": "வழிகளில் எல்லாம்",
+          "en": "In every way",
+          "hi": "हर प्रकार से"
+        },
+        {
+          "no": 3,
+          "word": "அறவினை <br>(Aravinai)",
+          "ta": "அறச்செயலை",
+          "en": "Virtuous deeds",
+          "hi": "धर्मयुक्त कर्म को"
+        },
+        {
+          "no": 4,
+          "word": "ஓவாதே <br>(Ovaadhe)",
+          "ta": "இடைவிடாமல்",
+          "en": "Incessantly",
+          "hi": "निरंतर"
+        },
+        {
+          "no": 5,
+          "word": "செல்லும்வாய் <br>(Sellumvaai)",
+          "ta": "செல்லும் இடங்களில்",
+          "en": "Wherever one goes",
+          "hi": "जहाँ भी अवसर हो"
+        },
+        {
+          "no": 6,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாம்",
+          "en": "All / everywhere",
+          "hi": "सब जगह"
+        },
+        {
+          "no": 7,
+          "word": "செயல் <br>(Seyal)",
+          "ta": "செய்ய வேண்டும்",
+          "en": "Do / practise",
+          "hi": "करना चाहिए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒல்லும் வகையான் அறவினை ஓவாதே",
+          "line2": "செல்லும்வாய் எல்லாம் செயல்."
+        },
+        "en": {
+          "line1": "To finish virtue's work with ceaseless effort strive,",
+          "line2": "What way thou may'st, where'er thou see'st the work may thrive."
+        },
+        "hi": {
+          "line1": "यथाशक्ति करना सदा, धर्मयुक्त ही कर्म।",
+          "line2": "तन से मन से वचन से, सर्व रीती से धर्म।"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ollum Vakaiyaan Aravinai Ovaadhe",
+            "line2": "Sellumvaai Ellaam Seyal."
+          },
+          "hi": {
+            "line1": "ओल्लुम् वगैयान् अरविनै ओवादे",
+            "line2": "सेल्लुम्वाय् एल्लाम् सेयल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இயன்ற அளவில், இடைவிடாமல், செல்லும் இடங்களில் எல்லாம் (எந்த வழிகளிலெல்லாம் முடியுமோ அங்கெல்லாம்) அறச்செயலைச் செய்ய வேண்டும்.",
+        "en": "Practice virtue unceasingly in every way within your power and on every occasion that arises.",
+        "hi": "अपनी शक्ति के अनुसार मन, वचन और कर्म से हर संभव अवसर पर निरंतर धर्मयुक्त कर्म ही करना चाहिए।"
+      }
+    },
+    {
+      "num": 34,
+      "line1": "மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்",
+      "line2": "ஆகுல நீர பிற.",
+      "enLine1": "Spotless be thou in mind! This only merits virtue's name;",
+      "enLine2": "All else, mere pomp of idle sound, no real worth can claim.",
+      "hiLine1": "मन का होना मल रहित, इतना ही है धर्म।",
+      "hiLine2": "बाकी सब केवल रहे, ठाट-बाट के कर्म ॥",
+      "general": "மனத்தில் குற்றம் இல்லாமல் தூய்மையாக இருப்பதே அறம் ஆகும்; மற்றவை எல்லாம் ஆரவாரத் தன்மை கொண்டவையே தவிர உண்மையான அறம் ஆகாது.",
+      "en": "Let him who does virtuous deeds be of spotless mind; to that extent is virtue; all else is vain show.",
+      "hi": "मन का सभी विकारों और मल से रहित होना ही सच्चा धर्म है; इसके अतिरिक्त अन्य सब केवल बाहरी आडंबर और ठाट-बाट के कर्म हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மனத்துக்கண் <br>(Manaththukkan)",
+          "ta": "மனத்தின்கண்",
+          "en": "In the mind",
+          "hi": "मन में"
+        },
+        {
+          "no": 2,
+          "word": "மாசிலன் <br>(Maasilan)",
+          "ta": "குற்றம் இல்லாதவன்",
+          "en": "Spotless person",
+          "hi": "मल-रहित"
+        },
+        {
+          "no": 3,
+          "word": "ஆதல் <br>(Aadhal)",
+          "ta": "ஆதல் (இருத்தல்)",
+          "en": "Being",
+          "hi": "होना"
+        },
+        {
+          "no": 4,
+          "word": "அனைத்தறன் <br>(Anaiththaran)",
+          "ta": "அவ்வளவே அறம் ஆகும்",
+          "en": "That much is virtue",
+          "hi": "इतना ही धर्म है"
+        },
+        {
+          "no": 5,
+          "word": "ஆகுல <br>(Aakula)",
+          "ta": "ஆரவார",
+          "en": "Vain pomp",
+          "hi": "केवल आडंबर"
+        },
+        {
+          "no": 6,
+          "word": "நீர <br>(Neera)",
+          "ta": "தன்மையுடையன",
+          "en": "Of the nature of",
+          "hi": "के समान हैं"
+        },
+        {
+          "no": 7,
+          "word": "பிற <br>(Pira)",
+          "ta": "மற்றவை எல்லாம்",
+          "en": "All else",
+          "hi": "बाकी सब"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்",
+          "line2": "ஆகுல நீர பிற."
+        },
+        "en": {
+          "line1": "Spotless be thou in mind! This only merits virtue's name;",
+          "line2": "All else, mere pomp of idle sound, no real worth can claim."
+        },
+        "hi": {
+          "line1": "मन का होना मल रहित, इतना ही है धर्म।",
+          "line2": "बाकी सब केवल रहे, ठाट-बाट के कर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Manaththukkan Maasilan Aadhal Anaiththaran",
+            "line2": "Aakula Neera Pira."
+          },
+          "hi": {
+            "line1": "मनत्तुक्कण् मासिलन् आदल् अनैत्तरन्",
+            "line2": "आकुल नीर पिर."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனத்தில் குற்றம் இல்லாமல் தூய்மையாக இருப்பதே அறம் ஆகும்; மற்றவை எல்லாம் ஆரவாரத் தன்மை கொண்டவையே தவிர உண்மையான அறம் ஆகாது.",
+        "en": "True virtue consists solely in keeping one's mind free from impurity; everything else is mere outward show.",
+        "hi": "मन का सभी विकारों और मल से रहित होना ही सच्चा धर्म है; इसके अतिरिक्त अन्य सब केवल बाहरी आडंबर और ठाट-बाट के कर्म हैं।"
+      }
+    },
+    {
+      "num": 35,
+      "line1": "அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும்",
+      "line2": "இழுக்கா இயன்றது அறம்.",
+      "enLine1": "'Tis virtue when, his footsteps sliding not through envy, wrath,",
+      "enLine2": "Lust, evil speech-these four, man onwards moves in ordered path.",
+      "hiLine1": "क्रोध लोभ फिर कटुवचन, और जलन ये चार।",
+      "hiLine2": "इनसे बच कर जो हुआ, वही धर्म का सार ॥",
+      "general": "பொறாமை, பேராசை, சினம், கடுஞ்சொல் ஆகிய நான்கு குற்றங்களையும் நீக்கித் தவறாமல் ஒழுகுவதே அறம் ஆகும்.",
+      "en": "That conduct is virtue which is free from these four things, viz., malice, desire, anger and bitter speech.",
+      "hi": "ईर्ष्या (जलन), लोभ, क्रोध और कठोर वचन—इन चारों दोषों से बचकर जो आचरण किया जाता है, वही धर्म का सार है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அழுக்காறு <br>(Azhukkaaru)",
+          "ta": "பொறாமை",
+          "en": "Envy / malice",
+          "hi": "ईर्ष्या / जलन"
+        },
+        {
+          "no": 2,
+          "word": "அவா <br>(Ava)",
+          "ta": "பேராசை",
+          "en": "Lust / greed",
+          "hi": "लोभ"
+        },
+        {
+          "no": 3,
+          "word": "வெகுளி <br>(Vekuli)",
+          "ta": "சினம்",
+          "en": "Wrath / anger",
+          "hi": "क्रोध"
+        },
+        {
+          "no": 4,
+          "word": "இன்னாச்சொல் <br>(Innaachchol)",
+          "ta": "கடுஞ்சொல்",
+          "en": "Evil / bitter speech",
+          "hi": "कटु वचन"
+        },
+        {
+          "no": 5,
+          "word": "நான்கும் <br>(Naankum)",
+          "ta": "ஆகிய நான்கினாலும்",
+          "en": "These four",
+          "hi": "इन चारों से"
+        },
+        {
+          "no": 6,
+          "word": "இழுக்கா இயன்றது <br>(Izhukkaa Iyandradhu)",
+          "ta": "வழுவாது நடப்பது",
+          "en": "Moving without sliding",
+          "hi": "बचकर किया गया आचरण"
+        },
+        {
+          "no": 7,
+          "word": "அறம் <br>(Aram)",
+          "ta": "அறம் ஆகும்",
+          "en": "Is virtue",
+          "hi": "धर्म है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும்",
+          "line2": "இழுக்கா இயன்றது அறம்."
+        },
+        "en": {
+          "line1": "'Tis virtue when, his footsteps sliding not through envy, wrath,",
+          "line2": "Lust, evil speech-these four, man onwards moves in ordered path."
+        },
+        "hi": {
+          "line1": "क्रोध लोभ फिर कटुवचन, और जलन ये चार।",
+          "line2": "इनसे बच कर जो हुआ, वही धर्म का सार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Azhukkaaru AvaaVekuli Innaachchol Naankum",
+            "line2": "Izhukkaa Iyandradhu Aram."
+          },
+          "hi": {
+            "line1": "अऴुक्कारु अवावेगुलि इन्नाच्चोल् नान्गुम्",
+            "line2": "इऴुक्का इयन्द्रदु अरम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொறாமை, பேராசை, சினம், கடுஞ்சொல் ஆகிய நான்கு குற்றங்களையும் நீக்கித் தவறாமல் ஒழுகுவதே அறம் ஆகும்.",
+        "en": "True virtue is a life conducted without yielding to envy, greed, anger, or harsh words.",
+        "hi": "ईर्ष्या (जलन), लोभ, क्रोध और कठोर वचन—इन चारों दोषों से बचकर जो आचरण किया जाता है, वही धर्म का सार है।"
+      }
+    },
+    {
+      "num": 36,
+      "line1": "அன்றறிவாம் என்னாது அறஞ்செய்க மற்றது",
+      "line2": "பொன்றுங்கால் பொன்றாத் துணை.",
+      "enLine1": "Do deeds of virtue now. Say not, 'To-morrow we'll be wise';",
+      "enLine2": "Thus, when thou diest, shalt thou find a help that never dies.",
+      "hiLine1": "'बाद करें मरते समय', सोच न यों, कर धर्म।",
+      "hiLine2": "जान जाय जब छोड़ तन, चिर संगी है धर्म ॥",
+      "general": "பிற்காலத்தில் (முதுமையில்) பார்த்துக்கொள்ளலாம் என்று தள்ளிப் போடாமல் இப்போதே அறத்தைச் செய்ய வேண்டும்; அது உயிர் உடலை விட்டுப் பிரியும்போது அழியாத துணையாகும்.",
+      "en": "Defer not virtue to another day; receive her now; and at the dying hour she will be your undying friend.",
+      "hi": "'मृत्यु के समय बाद में करेंगे'—ऐसा सोचकर धर्म को टालना नहीं चाहिए; जब प्राण शरीर को छोड़ते हैं, तब धर्म ही चिरस्थायी साथी बनता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அன்றறிவாம் <br>(Andrarivaam)",
+          "ta": "பின்னால் பார்த்துக்கொள்ளலாம்",
+          "en": "We will see later",
+          "hi": "बाद में करेंगे"
+        },
+        {
+          "no": 2,
+          "word": "என்னாது <br>(Ennaadhu)",
+          "ta": "என்று தள்ளிப்போடாமல்",
+          "en": "Without saying",
+          "hi": "ऐसा न सोचकर"
+        },
+        {
+          "no": 3,
+          "word": "அறஞ்செய்க <br>(Aranjeyka)",
+          "ta": "அறத்தைச் செய்க",
+          "en": "Do deeds of virtue",
+          "hi": "धर्म का आचरण करो"
+        },
+        {
+          "no": 4,
+          "word": "மற்றது <br>(Matradhu)",
+          "ta": "அவ்வறமே",
+          "en": "That itself",
+          "hi": "वही धर्म"
+        },
+        {
+          "no": 5,
+          "word": "பொன்றுங்கால் <br>(Pondrungaal)",
+          "ta": "இறக்கும் காலத்தில்",
+          "en": "At the time of death",
+          "hi": "शरीर छोड़ते समय"
+        },
+        {
+          "no": 6,
+          "word": "பொன்றாத் <br>(Pondraath)",
+          "ta": "அழியாத",
+          "en": "Undying",
+          "hi": "चिरस्थायी"
+        },
+        {
+          "no": 7,
+          "word": "துணை <br>(Thunai)",
+          "ta": "துணையாகும்",
+          "en": "Companion",
+          "hi": "साथी है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அன்றறிவாம் என்னாது அறஞ்செய்க மற்றது",
+          "line2": "பொன்றுங்கால் பொன்றாத் துணை."
+        },
+        "en": {
+          "line1": "Do deeds of virtue now. Say not, 'To-morrow we'll be wise';",
+          "line2": "Thus, when thou diest, shalt thou find a help that never dies."
+        },
+        "hi": {
+          "line1": "'बाद करें मरते समय', सोच न यों, कर धर्म।",
+          "line2": "जान जाय जब छोड़ तन, चिर संगी है धर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Andrarivaam Ennaadhu Aranjeyka Matradhu",
+            "line2": "Pondrungaal Pondraath Thunai."
+          },
+          "hi": {
+            "line1": "अन्द्ररिवाम् एन्नादु अरञ्जॆय्ग मत्रदु",
+            "line2": "पोन्द्रुङ्गाल् पोन्द्रात् तुणै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிற்காலத்தில் (முதுமையில்) பார்த்துக்கொள்ளலாம் என்று தள்ளிப் போடாமல் இப்போதே அறத்தைச் செய்ய வேண்டும்; அது உயிர் உடலை விட்டுப் பிரியும்போது அழியாத துணையாகும்.",
+        "en": "Perform virtuous deeds today without putting them off until later; at the hour of death, virtue alone will remain an undying companion.",
+        "hi": "'मृत्यु के समय बाद में करेंगे'—ऐसा सोचकर धर्म को टालना नहीं चाहिए; जब प्राण शरीर को छोड़ते हैं, तब धर्म ही चिरस्थायी साथी बनता है।"
+      }
+    },
+    {
+      "num": 37,
+      "line1": "அறத்தாறு இதுவென வேண்டா சிவிகை",
+      "line2": "பொறுத்தானோடு ஊர்ந்தான் இடை.",
+      "enLine1": "Needs not in words to dwell on virtue's fruits: compare",
+      "enLine2": "The man in litter borne with them that toiling bear!",
+      "hiLine1": "धर्म-कर्म के सुफल का, क्या चाहिये प्रमाण।",
+      "hiLine2": "शिविकारूढ़, कहार के, अंतर से तू जान ॥",
+      "general": "அறத்தின் பயன் இதுதான் என்று நூல்களில் சொல்ல வேண்டியதில்லை; பல்லக்கைச் சுமப்பவனுக்கும் அதில் அமர்ந்து செல்பவனுக்கும் இடையிலான வேறுபாட்டிலேயே அதைக் காணலாம்.",
+      "en": "The fruit of virtue need not be described in books; it may be inferred from seeing the bearer of a palanquin and the rider therein.",
+      "hi": "धर्म-कर्म के सुफल को सिद्ध करने के लिए किसी प्रमाण की आवश्यकता नहीं है; पालकी में बैठे व्यक्ति और उसे ढोने वाले कहार के बीच के अंतर से ही इसे समझा जा सकता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறத்தாறு <br>(Araththaaru)",
+          "ta": "அறத்தின் பயன்",
+          "en": "Virtue's fruit / way",
+          "hi": "धर्म का सुफल"
+        },
+        {
+          "no": 2,
+          "word": "இதுவென <br>(Idhuvena)",
+          "ta": "இது என்று",
+          "en": "That this is",
+          "hi": "यह है ऐसा"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டா <br>(Vendaa)",
+          "ta": "கூற வேண்டியதில்லை",
+          "en": "Needs not (be told)",
+          "hi": "बताने की आवश्यकता नहीं"
+        },
+        {
+          "no": 4,
+          "word": "சிவிகை <br>(Sivikai)",
+          "ta": "பல்லக்கை",
+          "en": "Palanquin / litter",
+          "hi": "पालकी (शिविका)"
+        },
+        {
+          "no": 5,
+          "word": "பொறுத்தானோடு <br>(Poruththaanodu)",
+          "ta": "சுமப்பவனுக்கும்",
+          "en": "With him who bears",
+          "hi": "ढोने वाले कहार के"
+        },
+        {
+          "no": 6,
+          "word": "ஊர்ந்தான் <br>(Oorndhaan)",
+          "ta": "அதில் ஊர்ந்து செல்பவனுக்கும்",
+          "en": "Him who rides",
+          "hi": "सवार के"
+        },
+        {
+          "no": 7,
+          "word": "இடை <br>(Idai)",
+          "ta": "இடையே (காணலாம்)",
+          "en": "Between (compare)",
+          "hi": "बीच (अंतर से जानो)"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறத்தாறு இதுவென வேண்டா சிவிகை",
+          "line2": "பொறுத்தானோடு ஊர்ந்தான் இடை."
+        },
+        "en": {
+          "line1": "Needs not in words to dwell on virtue's fruits: compare",
+          "line2": "The man in litter borne with them that toiling bear!"
+        },
+        "hi": {
+          "line1": "धर्म-कर्म के सुफल का, क्या चाहिये प्रमाण।",
+          "line2": "शिविकारूढ़, कहार के, अंतर से तू जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Araththaaru Idhuvena Vendaa Sivikai",
+            "line2": "Poruththaanodu Oorndhaan Idai."
+          },
+          "hi": {
+            "line1": "अरत्तारु इदुवॆन वॆण्डा सिविकै",
+            "line2": "पॊरुत्तानोडु ऊर्न्दान् इडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறத்தின் பயன் இதுதான் என்று நூல்களில் சொல்ல வேண்டியதில்லை; பல்லக்கைச் சுமப்பவனுக்கும் அதில் அமர்ந்து செல்பவனுக்கும் இடையிலான வேறுபாட்டிலேயே அதைக் காணலாம்.",
+        "en": "No lengthy explanation of virtue's rewards is needed—one can see it in the contrast between the person riding in a palanquin and the one carrying it.",
+        "hi": "धर्म-कर्म के सुफल को सिद्ध करने के लिए किसी प्रमाण की आवश्यकता नहीं है; पालकी में बैठे व्यक्ति और उसे ढोने वाले कहार के बीच के अंतर से ही इसे समझा जा सकता है।"
+      }
+    },
+    {
+      "num": 38,
+      "line1": "வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன்",
+      "line2": "வாழ்நாள் வழியடைக்கும் கல்.",
+      "enLine1": "If no day passing idly, good to do each day you toil,",
+      "enLine2": "A stone 'twill be to block the way of future days of moil.",
+      "hiLine1": "बिना गँवाए व्यर्थ दिन, खूब करो यदि धर्म।",
+      "hiLine2": "जन्म-मार्ग को रोकता, शिलारूप वह धर्म ॥",
+      "general": "ஒரு நாளையும் வீணாகக் கழிக்காமல் அறத்தைச் செய்து வந்தால், அதுவே ஒருவனுக்கு மீண்டும் பிறவி எடுக்கும் வழியை அடைக்கும் கல்லாகும்.",
+      "en": "If one allows no day to pass without some good being done, his conduct will be a stone to block up the passage to other births.",
+      "hi": "यदि एक भी दिन व्यर्थ गँवाए बिना निरंतर धर्म का आचरण किया जाए, तो वह धर्म पुनर्जन्म के मार्ग को रोकने वाली शिला के समान बन जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வீழ்நாள் <br>(Veezhnaal)",
+          "ta": "வீணான நாள்",
+          "en": "Idle / wasted day",
+          "hi": "व्यर्थ दिन"
+        },
+        {
+          "no": 2,
+          "word": "படாஅமை <br>(Padaamai)",
+          "ta": "ஏற்படாதவாறு",
+          "en": "Without letting pass",
+          "hi": "न गँवाते हुए"
+        },
+        {
+          "no": 3,
+          "word": "நன்றாற்றின் <br>(Nandraatrin)",
+          "ta": "அறத்தைச் செய்தால்",
+          "en": "If one does good",
+          "hi": "धर्म करने पर"
+        },
+        {
+          "no": 4,
+          "word": "அஃதொருவன் <br>(Aqdhoruvan)",
+          "ta": "அது ஒருவனுக்கு",
+          "en": "That for a person",
+          "hi": "वह मनुष्य के"
+        },
+        {
+          "no": 5,
+          "word": "வாழ்நாள் <br>(Vaazhnaal)",
+          "ta": "மறுபிறப்பு எடுக்கும்",
+          "en": "Future births",
+          "hi": "जन्म-मार्ग को"
+        },
+        {
+          "no": 6,
+          "word": "வழியடைக்கும் <br>(Vazhiyadaikkum)",
+          "ta": "வழியை அடைக்கும்",
+          "en": "Blocking the way",
+          "hi": "रोकने वाली"
+        },
+        {
+          "no": 7,
+          "word": "கல் <br>(Kal)",
+          "ta": "கல்லாகும்",
+          "en": "Stone",
+          "hi": "शिला है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன்",
+          "line2": "வாழ்நாள் வழியடைக்கும் கல்."
+        },
+        "en": {
+          "line1": "If no day passing idly, good to do each day you toil,",
+          "line2": "A stone 'twill be to block the way of future days of moil."
+        },
+        "hi": {
+          "line1": "बिना गँवाए व्यर्थ दिन, खूब करो यदि धर्म।",
+          "line2": "जन्म-मार्ग को रोकता, शिलारूप वह धर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Veezhnaal Padaamai Nandraatrin Aqdhoruvan",
+            "line2": "Vaazhnaal Vazhiyadaikkum Kal."
+          },
+          "hi": {
+            "line1": "वीऴ्नाळ् पडाअमै नन्द्रात्रिन् अक़्दॊरुवन्",
+            "line2": "वाऴ्नाळ् वऴियडैक्कुम् कल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு நாளையும் வீணாகக் கழிக்காமல் அறத்தைச் செய்து வந்தால், அதுவே ஒருவனுக்கு மீண்டும் பிறவி எடுக்கும் வழியை அடைக்கும் கல்லாகும்.",
+        "en": "Doing good every day without letting a single day go to waste becomes a stone that seals off the path of future rebirths.",
+        "hi": "यदि एक भी दिन व्यर्थ गँवाए बिना निरंतर धर्म का आचरण किया जाए, तो वह धर्म पुनर्जन्म के मार्ग को रोकने वाली शिला के समान बन जाता है।"
+      }
+    },
+    {
+      "num": 39,
+      "line1": "அறத்தான் வருவதே இன்பம் மற்றெல்லாம்",
+      "line2": "புறத்த புகழும் இல.",
+      "enLine1": "What from virtue floweth, yieldeth dear delight;",
+      "enLine2": "All else extern, is void of glory's light.",
+      "hiLine1": "धर्म-कर्म से जो हुआ, वही सही सुख-लाभ।",
+      "hiLine2": "अन्य कर्म से सुख नहीं, न तो कीर्ति का लाभ ॥",
+      "general": "அறநெறியில் வாழ்வதால் வரும் இன்பமே உண்மையான இன்பம்; அறம் அல்லாத வழிகளில் வருவன எல்லாம் இன்பமும் அல்ல, புகழும் இல்லாதவை ஆகும்.",
+      "en": "Only that pleasure which flows from domestic virtue is pleasure; all else is not pleasure, and it is without praise.",
+      "hi": "धर्म-कर्म से प्राप्त होने वाला सुख ही वास्तविक सुख है; अधर्म से न तो सच्चा सुख मिलता है और न ही कीर्ति प्राप्त होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறத்தான் <br>(Araththaan)",
+          "ta": "அறநெறியால்",
+          "en": "Through virtue",
+          "hi": "धर्म-कर्म से"
+        },
+        {
+          "no": 2,
+          "word": "வருவதே <br>(Varuvadhe)",
+          "ta": "வருவதே",
+          "en": "That which comes",
+          "hi": "जो प्राप्त होता है"
+        },
+        {
+          "no": 3,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "உண்மையான இன்பம்",
+          "en": "True delight / pleasure",
+          "hi": "वही सच्चा सुख है"
+        },
+        {
+          "no": 4,
+          "word": "மற்றெல்லாம் <br>(Matrellaam)",
+          "ta": "மற்றவை எல்லாம்",
+          "en": "All else",
+          "hi": "अन्य सब कर्म"
+        },
+        {
+          "no": 5,
+          "word": "புறத்த <br>(Puraththa)",
+          "ta": "இன்பத்திற்குப் புறம்பானவை",
+          "en": "External / outside true joy",
+          "hi": "सुख से बाहर हैं"
+        },
+        {
+          "no": 6,
+          "word": "புகழும் <br>(Pukazhum)",
+          "ta": "புகழும்",
+          "en": "Glory / praise",
+          "hi": "कीर्ति भी"
+        },
+        {
+          "no": 7,
+          "word": "இல <br>(Ila)",
+          "ta": "இல்லாதவை",
+          "en": "Devoid of / without",
+          "hi": "रहित हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறத்தான் வருவதே இன்பம் மற்றெல்லாம்",
+          "line2": "புறத்த புகழும் இல."
+        },
+        "en": {
+          "line1": "What from virtue floweth, yieldeth dear delight;",
+          "line2": "All else extern, is void of glory's light."
+        },
+        "hi": {
+          "line1": "धर्म-कर्म से जो हुआ, वही सही सुख-लाभ।",
+          "line2": "अन्य कर्म से सुख नहीं, न तो कीर्ति का लाभ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Araththaan Varuvadhe Inbam Matrellaam",
+            "line2": "Puraththa Pukazhum Ila."
+          },
+          "hi": {
+            "line1": "अरत्तान् वरुवदे इन्बम् मत्रेल्लाम्",
+            "line2": "पुरत्त पुगऴुम् इल."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறநெறியில் வாழ்வதால் வரும் இன்பமே உண்மையான இன்பம்; அறம் அல்லாத வழிகளில் வருவன எல்லாம் இன்பமும் அல்ல, புகழும் இல்லாதவை ஆகும்.",
+        "en": "True happiness is only that which arises from a virtuous life; anything else brings neither real joy nor lasting praise.",
+        "hi": "धर्म-कर्म से प्राप्त होने वाला सुख ही वास्तविक सुख है; अधर्म से न तो सच्चा सुख मिलता है और न ही कीर्ति प्राप्त होती है।"
+      }
+    },
+    {
+      "num": 40,
+      "line1": "செயற்பால தோரும் அறனே ஒருவற்கு",
+      "line2": "உயற்பால தோரும் பழி.",
+      "enLine1": "'Virtue' sums the things that should be done;",
+      "enLine2": "'Vice' sums the things that man should shun.",
+      "hiLine1": "करने योग्य मनुष्य के, धर्म-कर्म ही मान।",
+      "hiLine2": "निन्दनीय जो कर्म हैं, वर्जनीय ही जान ॥",
+      "general": "ஒருவன் செய்யத்தக்கது அறமே ஆகும்; அவன் செய்யாமல் விலக்கத்தக்கது பழியான தீய செயல்களே ஆகும்.",
+      "en": "That is virtue which each ought to do, and that is vice which each should shun.",
+      "hi": "मनुष्य के लिए करने योग्य केवल धर्म-कर्म ही हैं, और जो निंदनीय कर्म हैं उन्हें सर्वथा त्यागने योग्य समझना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செயற்பால <br>(Seyarpaala)",
+          "ta": "செய்யத்தக்கது",
+          "en": "That which should be done",
+          "hi": "करने योग्य कर्म"
+        },
+        {
+          "no": 2,
+          "word": "தோரும் <br>(Dhorum)",
+          "ta": "ஆராய்ந்து பார்த்தால்",
+          "en": "Indeed / upon reflection",
+          "hi": "ही मानो"
+        },
+        {
+          "no": 3,
+          "word": "அறனே <br>(Arane)",
+          "ta": "அறமே ஆகும்",
+          "en": "Is virtue",
+          "hi": "धर्म ही है"
+        },
+        {
+          "no": 4,
+          "word": "ஒருவற்கு <br>(Oruvarku)",
+          "ta": "ஒருவனுக்கு",
+          "en": "For a person",
+          "hi": "मनुष्य के लिए"
+        },
+        {
+          "no": 5,
+          "word": "உயற்பால <br>(Uyarpaala)",
+          "ta": "தவிர்க்கத்தக்கது",
+          "en": "That which should be shunned",
+          "hi": "त्यागने योग्य"
+        },
+        {
+          "no": 6,
+          "word": "தோரும் <br>(Dhorum)",
+          "ta": "ஆராய்ந்து பார்த்தால்",
+          "en": "Indeed / upon reflection",
+          "hi": "ही जानो"
+        },
+        {
+          "no": 7,
+          "word": "பழி <br>(Pazhi)",
+          "ta": "பழியான தீவினையே",
+          "en": "Is vice / blameworthy deeds",
+          "hi": "निंदनीय कर्म ही है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செயற்பால தோரும் அறனே ஒருவற்கு",
+          "line2": "உயற்பால தோரும் பழி."
+        },
+        "en": {
+          "line1": "'Virtue' sums the things that should be done;",
+          "line2": "'Vice' sums the things that man should shun."
+        },
+        "hi": {
+          "line1": "करने योग्य मनुष्य के, धर्म-कर्म ही मान।",
+          "line2": "निन्दनीय जो कर्म हैं, वर्जनीय ही जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seyarpaala Dhorum Arane Oruvarku",
+            "line2": "Uyarpaala Dhorum Pazhi."
+          },
+          "hi": {
+            "line1": "सॆयर्पाल दोरुम् अरने ऒरुवर्कु",
+            "line2": "उयर्पाल दोरुम् पऴि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் செய்யத்தக்கது அறமே ஆகும்; அவன் செய்யாமல் விலக்கத்தக்கது பழியான தீய செயல்களே ஆகும்.",
+        "en": "What a person ought to do is virtue, and what a person ought to avoid is blameworthy vice.",
+        "hi": "मनुष्य के लिए करने योग्य केवल धर्म-कर्म ही हैं, और जो निंदनीय कर्म हैं उन्हें सर्वथा त्यागने योग्य समझना चाहिए।"
+      }
+    }
+  ]
+}

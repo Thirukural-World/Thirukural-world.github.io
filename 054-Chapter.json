@@ -1,0 +1,930 @@
+{
+  "chapterNum": 54,
+  "nameTa": "பொச்சாவாமை",
+  "nameEn": "Unforgetfulness",
+  "nameHi": "अविस्मृति",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 531,
+      "line1": "இறந்த வெகுளியின் தீதே சிறந்த",
+      "line2": "உவகை மகிழ்ச்சியின் சோர்வு.",
+      "enLine1": "'Tis greater ill, if rapture of o'erweening gladness to the soul",
+      "enLine2": "Bring self-forgetfulness, than if transcendent wrath control.",
+      "hiLine1": "अमित हर्ष से मस्त हो, रहना असावधान ।",
+      "hiLine2": "अमित क्रोध से भी अधिक, हानि करेगा जान ॥",
+      "general": "அளவு கடந்த கோபத்தால் ஏற்படும் தீமையை விட, அளவு கடந்த மகிழ்ச்சியில் மயங்கிக் கடமையை மறந்து சோர்வடைவது மிகுந்த தீமையாகும்.",
+      "en": "Forgetfulness born of excessive elation and delight is an even greater evil than uncontrollable anger.",
+      "hi": "असीमित हर्ष में मस्त होकर असावधान हो जाना, असीमित क्रोध से भी अधिक हानिकारक होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இறந்த <br>(Irandha)",
+          "ta": "அளவு கடந்த",
+          "en": "Transcendent",
+          "hi": "अमित"
+        },
+        {
+          "no": 2,
+          "word": "வெகுளியின் <br>(Veguliyin)",
+          "ta": "சினத்தை விட",
+          "en": "Than wrath",
+          "hi": "क्रोध से भी अधिक"
+        },
+        {
+          "no": 3,
+          "word": "தீதே <br>(Theedhe)",
+          "ta": "மிகவும் தீமையானதே",
+          "en": "'Tis greater ill",
+          "hi": "हानि करेगा जान"
+        },
+        {
+          "no": 4,
+          "word": "சிறந்த <br>(Sirandha)",
+          "ta": "மிகுந்த",
+          "en": "O'erweening",
+          "hi": "अमित"
+        },
+        {
+          "no": 5,
+          "word": "உவகை மகிழ்ச்சியில் <br>(Uvagai magizhchiyil)",
+          "ta": "பெரு மகிழ்ச்சியில்",
+          "en": "Rapture of gladness",
+          "hi": "हर्ष से मस्त हो"
+        },
+        {
+          "no": 6,
+          "word": "சோர்வு <br>(Sorvu)",
+          "ta": "கடமையை மறத்தல்",
+          "en": "Self-forgetfulness",
+          "hi": "रहना असावधान"
+        },
+        {
+          "no": 7,
+          "word": "மகிழ்ச்சியில் <br>(Magizhchiyil)",
+          "ta": "மகிழ்ச்சியில்",
+          "en": "In gladness",
+          "hi": "हर्ष में"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இறந்த வெகுளியின் தீதே சிறந்த",
+          "line2": "உவகை மகிழ்ச்சியின் சோர்வு."
+        },
+        "en": {
+          "line1": "'Tis greater ill, if rapture of o'erweening gladness to the soul",
+          "line2": "Bring self-forgetfulness, than if transcendent wrath control."
+        },
+        "hi": {
+          "line1": "अमित हर्ष से मस्त हो, रहना असावधान ।",
+          "line2": "अमित क्रोध से भी अधिक, हानि करेगा जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Irandha Veguliyin Theedhe Sirandha",
+            "line2": "Uvagai Magizhchiyin Sorvu."
+          },
+          "hi": {
+            "line1": "इऱन्द वॆगुळियिन् तीदे सिरन्द",
+            "line2": "उवगै मगिऴ्च्चियिन् सोर्वु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அளவு கடந்த கோபத்தால் ஏற்படும் தீமையை விட, அளவு கடந்த மகிழ்ச்சியில் மயங்கிக் கடமையை மறந்து சோர்வடைவது மிகுந்த தீமையாகும்.",
+        "en": "Getting carried away by euphoria and dropping your guard is even more dangerous than losing your temper.",
+        "hi": "असीमित हर्ष में मस्त होकर असावधान हो जाना, असीमित क्रोध से भी अधिक हानिकारक होता है।"
+      }
+    },
+    {
+      "num": 532,
+      "line1": "பொச்சாப்புக் கொல்லும் புகழை யறிவினை",
+      "line2": "நிச்ச நிரப்புக்கொன் றாங்கு.",
+      "enLine1": "Perpetual poverty is death to wisdom of the wise;",
+      "enLine2": "When man forgets himself his glory dies!",
+      "hiLine1": "ज्यों है नित्यदारिद्रता, करती बुद्धि-विनाश ।",
+      "hiLine2": "त्यों है असावधानता, यों करती कीर्ति-विनाश ॥",
+      "general": "நாள்தோறும் வாட்டும் வறுமை ஒருவனது அறிவை அழித்துவிடுவது போல, மறதியும் சோர்வும் ஒருவனது புகழைக் கொன்றுவிடும்.",
+      "en": "Just as constant poverty destroys wisdom, heedless forgetfulness destroys a person's renown.",
+      "hi": "जिस प्रकार नित्य की दरिद्रता मनुष्य की बुद्धि का विनाश कर देती है, उसी प्रकार असावधानता उसकी कीर्ति (यश) को नष्ट कर देती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொச்சாப்பு <br>(Pochchappu)",
+          "ta": "மறதியும் சோர்வும்",
+          "en": "When man forgets himself",
+          "hi": "असावधानता"
+        },
+        {
+          "no": 2,
+          "word": "கொல்லும் <br>(Kollum)",
+          "ta": "கொன்றுவிடும்",
+          "en": "Dies / kills",
+          "hi": "करती विनाश"
+        },
+        {
+          "no": 3,
+          "word": "புகழை <br>(Pugazhai)",
+          "ta": "புகழை",
+          "en": "His glory",
+          "hi": "कीर्ति"
+        },
+        {
+          "no": 4,
+          "word": "அறிவினை <br>(Arivinai)",
+          "ta": "அறிவை",
+          "en": "Wisdom",
+          "hi": "बुद्धि"
+        },
+        {
+          "no": 5,
+          "word": "நிச்ச நிரப்பு <br>(Nicha nirappu)",
+          "ta": "நாள்தோறும் வரும் வறுமை",
+          "en": "Perpetual poverty",
+          "hi": "नित्यदारिद्रता"
+        },
+        {
+          "no": 6,
+          "word": "கொன்று <br>(Kondru)",
+          "ta": "கொல்வது",
+          "en": "Is death to",
+          "hi": "करती विनाश"
+        },
+        {
+          "no": 7,
+          "word": "ஆங்கு <br>(Aangu)",
+          "ta": "போல",
+          "en": "As",
+          "hi": "ज्यों / त्यों"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொச்சாப்புக் கொல்லும் புகழை யறிவினை",
+          "line2": "நிச்ச நிரப்புக்கொன் றாங்கு."
+        },
+        "en": {
+          "line1": "Perpetual poverty is death to wisdom of the wise;",
+          "line2": "When man forgets himself his glory dies!"
+        },
+        "hi": {
+          "line1": "ज्यों है नित्यदारिद्रता, करती बुद्धि-विनाश ।",
+          "line2": "त्यों है असावधानता, यों करती कीर्ति-विनाश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pochchappuk Kollum Pugazhai Arivinai",
+            "line2": "Nicha Nirappuk Kondraangu."
+          },
+          "hi": {
+            "line1": "पॊच्चाप्पुक् कॊल्लुम् पुगऴै यऱिविनै",
+            "line2": "निच्च निरप्पुकॊन् राङ्गु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நாள்தோறும் வாட்டும் வறுமை ஒருவனது அறிவை அழித்துவிடுவது போல, மறதியும் சோர்வும் ஒருவனது புகழைக் கொன்றுவிடும்.",
+        "en": "Negligence kills reputation just as relentless poverty erodes clear thinking.",
+        "hi": "जिस प्रकार नित्य की दरिद्रता मनुष्य की बुद्धि का विनाश कर देती है, उसी प्रकार असावधानता उसकी कीर्ति (यश) को नष्ट कर देती है।"
+      }
+    },
+    {
+      "num": 533,
+      "line1": "பொச்சாப்பார்க் கில்லைப் புகழ்மை யதுவுலகத்",
+      "line2": "தெப்பானூ லோர்க்குந் துணிவு.",
+      "enLine1": "'To self-oblivious men no praise'; this rule",
+      "enLine2": "Decisive wisdom sums of every school.",
+      "hiLine1": "जो विस्मृत हैं वे नहीं, यश पाने के योग ।",
+      "hiLine2": "जग में यों हैं एकमत, शास्त्रकार सब लोग ॥",
+      "general": "கடமையை மறந்து சோர்ந்திருப்பவர்களுக்குப் புகழ் இல்லை; இது இவ்வுலகத்தில் உள்ள எல்லா நூலாரும் ஒப்புக்கொண்ட உறுதியான முடிவாகும்.",
+      "en": "There is no glory for the heedless and forgetful; this is the settled verdict of wise thinkers of every school in the world.",
+      "hi": "जो लोग विस्मृतिशील (असावधान) हैं, वे यश पाने के योग्य नहीं होते; संसार में सभी शास्त्रकार इस विषय में एकमत हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொச்சாப்பார்க்கு <br>(Pochchappaarkku)",
+          "ta": "மறதியுடையவர்க்கு",
+          "en": "To self-oblivious men",
+          "hi": "जो विस्मृत हैं वे"
+        },
+        {
+          "no": 2,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "No",
+          "hi": "नहीं"
+        },
+        {
+          "no": 3,
+          "word": "புகழ்மை <br>(Pugazhmai)",
+          "ta": "புகழுடைமை",
+          "en": "Praise",
+          "hi": "यश पाने के योग"
+        },
+        {
+          "no": 4,
+          "word": "அது <br>(Adhu)",
+          "ta": "அது",
+          "en": "This rule",
+          "hi": "यों"
+        },
+        {
+          "no": 5,
+          "word": "உலகத்து <br>(Ulagaththu)",
+          "ta": "உலகத்தில் உள்ள",
+          "en": "In the world",
+          "hi": "जग में"
+        },
+        {
+          "no": 6,
+          "word": "எப்பால் நூலோர்க்கும் <br>(Eppaal noolorkkum)",
+          "ta": "எல்லா நூலார்க்கும்",
+          "en": "Every school",
+          "hi": "शास्त्रकार सब लोग"
+        },
+        {
+          "no": 7,
+          "word": "துணிவு <br>(Thunivu)",
+          "ta": "உறுதியான முடிவு",
+          "en": "Decisive wisdom",
+          "hi": "हैं एकमत"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொச்சாப்பார்க் கில்லைப் புகழ்மை யதுவுலகத்",
+          "line2": "தெப்பானூ லோர்க்குந் துணிவு."
+        },
+        "en": {
+          "line1": "'To self-oblivious men no praise'; this rule",
+          "line2": "Decisive wisdom sums of every school."
+        },
+        "hi": {
+          "line1": "जो विस्मृत हैं वे नहीं, यश पाने के योग ।",
+          "line2": "जग में यों हैं एकमत, शास्त्रकार सब लोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pochchaappaark Killaip Pugazhmai Yadhuvulagath",
+            "line2": "Theppaanu Lorkkundh Thunivu."
+          },
+          "hi": {
+            "line1": "पॊच्चाप्पार्क् किल्लैप् पुगऴ्मै यदुवुलगत्",
+            "line2": "तॆप्पानू लोर्क्कुन् तुणिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கடமையை மறந்து சோர்ந்திருப்பவர்களுக்குப் புகழ் இல்லை; இது இவ்வுலகத்தில் உள்ள எல்லா நூலாரும் ஒப்புக்கொண்ட உறுதியான முடிவாகும்.",
+        "en": "Careless, absent-minded people never earn lasting respect—every tradition of wisdom agrees on that.",
+        "hi": "जो लोग विस्मृतिशील (असावधान) हैं, वे यश पाने के योग्य नहीं होते; संसार में सभी शास्त्रकार इस विषय में एकमत हैं।"
+      }
+    },
+    {
+      "num": 534,
+      "line1": "அச்ச முடையார்க் கரணில்லை யாங்கிலைப்",
+      "line2": "பொச்சாப் புடையார்க்கு நன்கு.",
+      "enLine1": "'To cowards is no fort's defence': e'en so",
+      "enLine2": "The self-oblivious men no blessing know.",
+      "hiLine1": "लाभ नहीं है दुर्ग से, उनको जो भयशील ।",
+      "hiLine2": "वैसे उनको ना भला, जो हैं विस्मृतिशील ॥",
+      "general": "மனத்தில் அச்சம் உடையவர்களுக்கு எவ்வளவு பெரிய கோட்டையும் பாதுகாப்பாகாது; அதுபோல மறதியும் சோர்வும் உடையவர்க்கு எந்த நன்மையும் நிலைக்காது.",
+      "en": "Just as no fortress can protect cowards, no good fortune can last for those who are heedless and forgetful.",
+      "hi": "जिस प्रकार भयशील (कायर) लोगों को मजबूत दुर्ग से भी कोई लाभ नहीं होता, उसी प्रकार विस्मृतिशील (असावधान) लोगों का भी कोई भला नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அச்சம் உடையார்க்கு <br>(Acham udaiyaarkku)",
+          "ta": "அச்சமுடையவர்க்கு",
+          "en": "To cowards",
+          "hi": "उनको जो भयशील"
+        },
+        {
+          "no": 2,
+          "word": "அரண் இல்லை <br>(Aran illai)",
+          "ta": "பாதுகாப்பு இல்லை",
+          "en": "No fort's defence",
+          "hi": "लाभ नहीं है दुर्ग से"
+        },
+        {
+          "no": 3,
+          "word": "ஆங்கு <br>(Aangu)",
+          "ta": "அது போல",
+          "en": "E'en so",
+          "hi": "वैसे"
+        },
+        {
+          "no": 4,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "No",
+          "hi": "ना"
+        },
+        {
+          "no": 5,
+          "word": "பொச்சாப்பு <br>(Pochchappu)",
+          "ta": "மறதி",
+          "en": "Self-oblivious",
+          "hi": "विस्मृतिशील"
+        },
+        {
+          "no": 6,
+          "word": "உடையார்க்கு <br>(Udaiyaarkku)",
+          "ta": "உடையவர்க்கு",
+          "en": "Men",
+          "hi": "जो हैं"
+        },
+        {
+          "no": 7,
+          "word": "நன்கு <br>(Nangu)",
+          "ta": "நன்மை",
+          "en": "Blessing",
+          "hi": "भला"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அச்ச முடையார்க் கரணில்லை யாங்கிலைப்",
+          "line2": "பொச்சாப் புடையார்க்கு நன்கு."
+        },
+        "en": {
+          "line1": "'To cowards is no fort's defence': e'en so",
+          "line2": "The self-oblivious men no blessing know."
+        },
+        "hi": {
+          "line1": "लाभ नहीं है दुर्ग से, उनको जो भयशील ।",
+          "line2": "वैसे उनको ना भला, जो हैं विस्मृतिशील ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Achcha Mudaiyaark Karanillai Yaangilaip",
+            "line2": "Pochchaap Pudaiyaarkku Nangu."
+          },
+          "hi": {
+            "line1": "अच्च मुडैयार्क् करणिल्लै याङ्गिलैप्",
+            "line2": "पॊच्चाप् पुडैयार्क्कु नन्गु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனத்தில் அச்சம் உடையவர்களுக்கு எவ்வளவு பெரிய கோட்டையும் பாதுகாப்பாகாது; அதுபோல மறதியும் சோர்வும் உடையவர்க்கு எந்த நன்மையும் நிலைக்காது.",
+        "en": "A fortress cannot save a coward, and no advantage can save someone who stays careless and inattentive.",
+        "hi": "जिस प्रकार भयशील (कायर) लोगों को मजबूत दुर्ग से भी कोई लाभ नहीं होता, उसी प्रकार विस्मृतिशील (असावधान) लोगों का भी कोई भला नहीं होता।"
+      }
+    },
+    {
+      "num": 535,
+      "line1": "முன்னுறக் காவா திழுக்கியான் றன்பிழை",
+      "line2": "பின்னூ றிரங்கி விடும்.",
+      "enLine1": "To him who nought foresees, recks not of anything,",
+      "enLine2": "The after woe shall sure repentance bring.",
+      "hiLine1": "पहले से रक्षा न की, रह कर असावधान ।",
+      "hiLine2": "विपदा आने पर रहा, पछताता अज्ञान ॥",
+      "general": "வருமுன்னரே விழிப்போடு காத்துக்கொள்ளாமல் மறந்து சோர்ந்திருந்தவன், பின்பு துன்பம் வந்தபோது தன் தவற்றை எண்ணி வருந்துவான்.",
+      "en": "He who fails to guard against trouble beforehand through negligence will surely repent of his mistake when disaster strikes.",
+      "hi": "जो अज्ञानी व्यक्ति असावधान रहकर पहले से अपनी रक्षा का प्रबन्ध नहीं करता, वह विपत्ति आने पर पछताता ही रह जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "முன் உற <br>(Mun ura)",
+          "ta": "வருமுன்னரே",
+          "en": "Foresees",
+          "hi": "पहले से"
+        },
+        {
+          "no": 2,
+          "word": "காவாது <br>(Kaavaadhu)",
+          "ta": "காத்துக்கொள்ளாமல்",
+          "en": "Nought guards",
+          "hi": "रक्षा न की"
+        },
+        {
+          "no": 3,
+          "word": "இழுக்கியான் <br>(Izhukkiyaan)",
+          "ta": "சோர்ந்து தவறியவன்",
+          "en": "Recks not",
+          "hi": "रह कर असावधान"
+        },
+        {
+          "no": 4,
+          "word": "தன் பிழை <br>(Than pizhai)",
+          "ta": "தன் குற்றத்தை",
+          "en": "His fault",
+          "hi": "अज्ञान"
+        },
+        {
+          "no": 5,
+          "word": "பின் ஊறு <br>(Pin ooru)",
+          "ta": "பின்பு துன்பம் வந்தபோது",
+          "en": "The after woe",
+          "hi": "विपदा आने पर"
+        },
+        {
+          "no": 6,
+          "word": "இரங்கி <br>(Irangi)",
+          "ta": "வருந்தி",
+          "en": "Repentance",
+          "hi": "पछताता"
+        },
+        {
+          "no": 7,
+          "word": "விடும் <br>(Vidum)",
+          "ta": "விடுவான்",
+          "en": "Shall bring",
+          "hi": "रहा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "முன்னுறக் காவா திழுக்கியான் றன்பிழை",
+          "line2": "பின்னூ றிரங்கி விடும்."
+        },
+        "en": {
+          "line1": "To him who nought foresees, recks not of anything,",
+          "line2": "The after woe shall sure repentance bring."
+        },
+        "hi": {
+          "line1": "पहले से रक्षा न की, रह कर असावधान ।",
+          "line2": "विपदा आने पर रहा, पछताता अज्ञान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Munnurak Kaavaa Dhizhukkiyaan Ranpizhai",
+            "line2": "Pinnu Rirangi Vidum."
+          },
+          "hi": {
+            "line1": "मुन्नुऱक् कावा दिऴुक्कियान् रन्पिऴै",
+            "line2": "पिन्नू ऱिरङ्गि विडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வருமுன்னரே விழிப்போடு காத்துக்கொள்ளாமல் மறந்து சோர்ந்திருந்தவன், பின்பு துன்பம் வந்தபோது தன் தவற்றை எண்ணி வருந்துவான்.",
+        "en": "If you neglect precautions ahead of time, you'll be left regretting your own oversight once the crisis hits.",
+        "hi": "जो अज्ञानी व्यक्ति असावधान रहकर पहले से अपनी रक्षा का प्रबन्ध नहीं करता, वह विपत्ति आने पर पछताता ही रह जाता है।"
+      }
+    },
+    {
+      "num": 536,
+      "line1": "இழுக்காமை யார்மாட்டும் என்றும் வழுக்காமை",
+      "line2": "வாயின் அதுவொப்பது இல்.",
+      "enLine1": "Towards all unswerving, ever watchfulness of soul retain,",
+      "enLine2": "Where this is found there is no greater gain.",
+      "hiLine1": "सब जन से सब काल में, अविस्मरण की बान ।",
+      "hiLine2": "बरती जाय अचूक तो, उसके है न समान ॥",
+      "general": "எல்லாரிடத்திலும் எப்போதும் மறதியும் சோர்வும் இல்லாமல் விழிப்புடன் ஒழுகுவது வாய்க்குமானால், அதற்கு நிகரான நன்மை வேறு இல்லை.",
+      "en": "If one maintains unfailing watchfulness toward everyone at all times without slipping, nothing else equals that.",
+      "hi": "यदि सभी लोगों के प्रति और सभी समयों में बिना किसी चूक के सावधानी (अविस्मरण) बरती जाए, तो उसके समान कोई दूसरा गुण नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இழுக்காமை <br>(Izhukkaamai)",
+          "ta": "மறந்து தவறாமை",
+          "en": "Unswerving",
+          "hi": "अविस्मरण की बान"
+        },
+        {
+          "no": 2,
+          "word": "யார்மாட்டும் <br>(Yaarmaattum)",
+          "ta": "எல்லாரிடத்திலும்",
+          "en": "Towards all",
+          "hi": "सब जन से"
+        },
+        {
+          "no": 3,
+          "word": "என்றும் <br>(Endrum)",
+          "ta": "எப்போதும்",
+          "en": "Ever",
+          "hi": "सब काल में"
+        },
+        {
+          "no": 4,
+          "word": "வழுக்காமை <br>(Vazhukkaamai)",
+          "ta": "தவறாமல் இருத்தல்",
+          "en": "Watchfulness retain",
+          "hi": "बरती जाय अचूक"
+        },
+        {
+          "no": 5,
+          "word": "வாயின் <br>(Vaayin)",
+          "ta": "வாய்க்குமானால்",
+          "en": "Where this is found",
+          "hi": "तो"
+        },
+        {
+          "no": 6,
+          "word": "அது ஒப்பது <br>(Adhu oppadhu)",
+          "ta": "அதற்கு ஒப்பானது",
+          "en": "Greater than that",
+          "hi": "उसके समान"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "No",
+          "hi": "है न"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இழுக்காமை யார்மாட்டும் என்றும் வழுக்காமை",
+          "line2": "வாயின் அதுவொப்பது இல்."
+        },
+        "en": {
+          "line1": "Towards all unswerving, ever watchfulness of soul retain,",
+          "line2": "Where this is found there is no greater gain."
+        },
+        "hi": {
+          "line1": "सब जन से सब काल में, अविस्मरण की बान ।",
+          "line2": "बरती जाय अचूक तो, उसके है न समान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Izhukkaamai Yaarmaattum Endrum Vazhukkaamai",
+            "line2": "Vaayin Adhuvoppadhu Il."
+          },
+          "hi": {
+            "line1": "इऴुक्कामै यार्माट्टुम् ऎन्द्रुम् वऴुक्कामै",
+            "line2": "वायिन् अदुवॊप्पदु इल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லாரிடத்திலும் எப்போதும் மறதியும் சோர்வும் இல்லாமல் விழிப்புடன் ஒழுகுவது வாய்க்குமானால், அதற்கு நிகரான நன்மை வேறு இல்லை.",
+        "en": "Consistent mindfulness with everyone, at all times, is an asset nothing else can match.",
+        "hi": "यदि सभी लोगों के प्रति और सभी समयों में बिना किसी चूक के सावधानी (अविस्मरण) बरती जाए, तो उसके समान कोई दूसरा गुण नहीं है।"
+      }
+    },
+    {
+      "num": 537,
+      "line1": "அரியவென் றாகாத வில்லைப்பொச் சாவாக்",
+      "line2": "கருவியாற் போற்றிச் செயின்.",
+      "enLine1": "Though things are arduous deemed, there 's nought may not be won,",
+      "enLine2": "When work with mind's unslumbering energy and thought is done.",
+      "hiLine1": "रह कर विस्मृति के बिना, सोच-समझ कर कार्य ।",
+      "hiLine2": "यदि करता है तो उसे, कुछ नहिं असाध्य कार्य ॥",
+      "general": "மறதியற்ற விழிப்புணர்வு என்னும் கருவியால் எண்ணிப் போற்றிச் செய்தால், அரியவை என்று சொல்லி முடியாமல் போகும் செயல் எதுவுமே இல்லை.",
+      "en": "There is nothing too difficult to achieve if one acts carefully using the tool of an unforgetful, alert mind.",
+      "hi": "यदि व्यक्ति बिना किसी विस्मृति (भूल) के, भली-भाँति सोच-समझकर कार्य करे, तो उसके लिए कोई भी कार्य असाध्य नहीं रहता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அரிய என்று <br>(Ariya endru)",
+          "ta": "அரியவை என்று",
+          "en": "Arduous deemed",
+          "hi": "असाध्य कार्य"
+        },
+        {
+          "no": 2,
+          "word": "ஆகாத <br>(Aagaadha)",
+          "ta": "முடியாமல் போகாதவை",
+          "en": "May not be won",
+          "hi": "कुछ नहिं"
+        },
+        {
+          "no": 3,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "There's nought",
+          "hi": "नहिं"
+        },
+        {
+          "no": 4,
+          "word": "பொச்சாவா <br>(Pochchaavaa)",
+          "ta": "மறதியற்ற",
+          "en": "Unslumbering",
+          "hi": "विस्मृति के बिना"
+        },
+        {
+          "no": 5,
+          "word": "கருவியால் <br>(Karuviyaal)",
+          "ta": "அறிவுக் கருவியால்",
+          "en": "Energy and thought",
+          "hi": "सोच-समझ कर"
+        },
+        {
+          "no": 6,
+          "word": "போற்றி <br>(Potri)",
+          "ta": "கருத்தோடு",
+          "en": "Carefully",
+          "hi": "रह कर"
+        },
+        {
+          "no": 7,
+          "word": "செயின் <br>(Seyin)",
+          "ta": "செய்தால்",
+          "en": "When done",
+          "hi": "यदि करता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அரியவென் றாகாத வில்லைப்பொச் சாவாக்",
+          "line2": "கருவியாற் போற்றிச் செயின்."
+        },
+        "en": {
+          "line1": "Though things are arduous deemed, there 's nought may not be won,",
+          "line2": "When work with mind's unslumbering energy and thought is done."
+        },
+        "hi": {
+          "line1": "रह कर विस्मृति के बिना, सोच-समझ कर कार्य ।",
+          "line2": "यदि करता है तो उसे, कुछ नहिं असाध्य कार्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ariyaven Raagaadha Villaippoch Chaavaak",
+            "line2": "Karuviyaar Potrich Seyin."
+          },
+          "hi": {
+            "line1": "अरियवॆन् रागाद विल्लैप्पॊच् चावाक्",
+            "line2": "करुवियार् पोत्रिच् सॆयिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மறதியற்ற விழிப்புணர்வு என்னும் கருவியால் எண்ணிப் போற்றிச் செய்தால், அரியவை என்று சொல்லி முடியாமல் போகும் செயல் எதுவுமே இல்லை.",
+        "en": "No goal is out of reach when you pair steady focus with alert, unforgetful execution.",
+        "hi": "यदि व्यक्ति बिना किसी विस्मृति (भूल) के, भली-भाँति सोच-समझकर कार्य करे, तो उसके लिए कोई भी कार्य असाध्य नहीं रहता।"
+      }
+    },
+    {
+      "num": 538,
+      "line1": "புகழ்ந்தவை போற்றிச் செயல்வேண்டுஞ் செய்யா",
+      "line2": "திகழ்ந்தார்க் கெழுமையு மில்.",
+      "enLine1": "Let things that merit praise thy watchful soul employ;",
+      "enLine2": "Who these despise attain through sevenfold births no joy.",
+      "hiLine1": "करना श्रद्धा-भाव से, शास्त्रकार-स्तुत काम ।",
+      "hiLine2": "रहा उपेक्षक, यदि न कर, सात जन्म बेकाम ॥",
+      "general": "அறிவுடையோர் புகழ்ந்து கூறிய செயல்களை மறவாமல் போற்றிச் செய்ய வேண்டும்; அவற்றைச் செய்யாமல் இகழ்ந்தவர்க்கு ஏழு பிறவிகளிலும் நன்மையில்லை.",
+      "en": "One must vigilantly perform actions praised by the wise; those who neglect and despise them find no joy across seven births.",
+      "hi": "शास्त्रकारों द्वारा प्रशंसित कार्यों को श्रद्धा-भाव से करना चाहिए; यदि कोई उनकी उपेक्षा कर उन्हें नहीं करता, तो उसके सातों जन्म व्यर्थ हो जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "புகழ்ந்தவை <br>(Pugazhndhavai)",
+          "ta": "அறிஞர் புகழ்ந்தவற்றை",
+          "en": "Things that merit praise",
+          "hi": "शास्त्रकार-स्तुत काम"
+        },
+        {
+          "no": 2,
+          "word": "போற்றி <br>(Potri)",
+          "ta": "மறவாமல் போற்றி",
+          "en": "Watchful soul",
+          "hi": "श्रद्धा-भाव से"
+        },
+        {
+          "no": 3,
+          "word": "செயல் வேண்டும் <br>(Seyal vendum)",
+          "ta": "செய்ய வேண்டும்",
+          "en": "Employ",
+          "hi": "करना"
+        },
+        {
+          "no": 4,
+          "word": "செய்யாது <br>(Seyyaadhu)",
+          "ta": "செய்யாமல்",
+          "en": "Not doing",
+          "hi": "यदि न कर"
+        },
+        {
+          "no": 5,
+          "word": "இகழ்ந்தார்க்கு <br>(Ighazhndhaarkku)",
+          "ta": "இகழ்ந்து மறந்தவர்க்கு",
+          "en": "Who these despise",
+          "hi": "रहा उपेक्षक"
+        },
+        {
+          "no": 6,
+          "word": "எழுமையும் <br>(Ezhumaiyum)",
+          "ta": "ஏழு பிறப்பிலும்",
+          "en": "Sevenfold births",
+          "hi": "सात जन्म"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "நன்மை இல்லை",
+          "en": "No joy",
+          "hi": "बेकाम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புகழ்ந்தவை போற்றிச் செயல்வேண்டுஞ் செய்யா",
+          "line2": "திகழ்ந்தார்க் கெழுமையு மில்."
+        },
+        "en": {
+          "line1": "Let things that merit praise thy watchful soul employ;",
+          "line2": "Who these despise attain through sevenfold births no joy."
+        },
+        "hi": {
+          "line1": "करना श्रद्धा-भाव से, शास्त्रकार-स्तुत काम ।",
+          "line2": "रहा उपेक्षक, यदि न कर, सात जन्म बेकाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pugazhndhavai Potrich Seyalvendunj Seyyaa",
+            "line2": "Dhigazhndhaark Kezhumaiyu Mil."
+          },
+          "hi": {
+            "line1": "पुगऴ्न्दवै पोत्रिच् सॆयल्वेडुञ् सॆय्या",
+            "line2": "दिगऴ्न्दार्क् कॆऴुमैयु मिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறிவுடையோர் புகழ்ந்து கூறிய செயல்களை மறவாமல் போற்றிச் செய்ய வேண்டும்; அவற்றைச் செய்யாமல் இகழ்ந்தவர்க்கு ஏழு பிறவிகளிலும் நன்மையில்லை.",
+        "en": "Honor and practice what the wise commend; neglecting it out of carelessness leaves lasting regret.",
+        "hi": "शास्त्रकारों द्वारा प्रशंसित कार्यों को श्रद्धा-भाव से करना चाहिए; यदि कोई उनकी उपेक्षा कर उन्हें नहीं करता, तो उसके सातों जन्म व्यर्थ हो जाते हैं।"
+      }
+    },
+    {
+      "num": 539,
+      "line1": "இகழ்ச்சியிற் கெட்டாரை யுள்ளுக தாந்த",
+      "line2": "மகிழ்ச்சியின் மைந்துறும் போழ்து.",
+      "enLine1": "Think on the men whom scornful mind hath brought to nought,",
+      "enLine2": "When exultation overwhelms thy wildered thought.",
+      "hiLine1": "जब अपने संतोष में, मस्त बनेंगे आप ।",
+      "hiLine2": "गफलत से जो हैं मिटे, उन्हें विचारो आप ॥",
+      "general": "மகிழ்ச்சி மிகுதியால் மனம் மயங்கிச் சோர்வடையும் போது, முன்பு அத்தகைய மறதியாலும் இகழ்ச்சியாலும் அழிந்தவர்களை எண்ணிப் பார்க்க வேண்டும்.",
+      "en": "When excessive joy threatens to make your mind careless and intoxicated, remember those who were ruined by heedlessness.",
+      "hi": "जब आप अपनी सफलता और संतोष के नशे में मस्त होने लगें, तब उन लोगों का स्मरण करें जो गफलत (लापरवाही) के कारण मिट गए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இகழ்ச்சியின் <br>(Ighazhchiyin)",
+          "ta": "மறதியின் காரணமாக",
+          "en": "Scornful mind",
+          "hi": "गफलत से"
+        },
+        {
+          "no": 2,
+          "word": "கெட்டாரை <br>(Kettaarai)",
+          "ta": "அழிந்தவர்களை",
+          "en": "Brought to nought",
+          "hi": "जो हैं मिटे"
+        },
+        {
+          "no": 3,
+          "word": "உள்ளுக <br>(Ulluga)",
+          "ta": "நினைத்துப் பார்க்க",
+          "en": "Think on",
+          "hi": "उन्हें विचारो आप"
+        },
+        {
+          "no": 4,
+          "word": "தாம் <br>(Thaam)",
+          "ta": "தாம்",
+          "en": "Thy",
+          "hi": "अपने"
+        },
+        {
+          "no": 5,
+          "word": "தம் மகிழ்ச்சியின் <br>(Tham magizhchiyin)",
+          "ta": "தம் மகிழ்ச்சியால்",
+          "en": "Exultation",
+          "hi": "संतोष में"
+        },
+        {
+          "no": 6,
+          "word": "மைந்துறும் <br>(Maindhurum)",
+          "ta": "மயங்கும்",
+          "en": "Overwhelms",
+          "hi": "मस्त बनेंगे आप"
+        },
+        {
+          "no": 7,
+          "word": "போழ்து <br>(Pozhdhu)",
+          "ta": "பொழுதில்",
+          "en": "When",
+          "hi": "जब"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இகழ்ச்சியிற் கெட்டாரை யுள்ளுக தாந்த",
+          "line2": "மகிழ்ச்சியின் மைந்துறும் போழ்து."
+        },
+        "en": {
+          "line1": "Think on the men whom scornful mind hath brought to nought,",
+          "line2": "When exultation overwhelms thy wildered thought."
+        },
+        "hi": {
+          "line1": "जब अपने संतोष में, मस्त बनेंगे आप ।",
+          "line2": "गफलत से जो हैं मिटे, उन्हें विचारो आप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Igazhchiyir Kettaarai Yulluga Thaandha",
+            "line2": "Magizhchiyin Maindhurum Pozhdhu."
+          },
+          "hi": {
+            "line1": "इगऴ्च्चियिर् कॆट्टारै युळ्ळुग तान्द",
+            "line2": "मगिऴ्च्चियिन् मैन्दुऱुम् पोऴ्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மகிழ்ச்சி மிகுதியால் மனம் மயங்கிச் சோர்வடையும் போது, முன்பு அத்தகைய மறதியாலும் இகழ்ச்சியாலும் அழிந்தவர்களை எண்ணிப் பார்க்க வேண்டும்.",
+        "en": "Whenever success makes you complacent, remind yourself of people who fell because they got careless at the top.",
+        "hi": "जब आप अपनी सफलता और संतोष के नशे में मस्त होने लगें, तब उन लोगों का स्मरण करें जो गफलत (लापरवाही) के कारण मिट गए।"
+      }
+    },
+    {
+      "num": 540,
+      "line1": "உள்ளிய தெய்த லெளிதுமன் மற்றுந்தா",
+      "line2": "னுள்ளிய துள்ளப் பெறின்.",
+      "enLine1": "'Tis easy what thou hast in mind to gain,",
+      "enLine2": "If what thou hast in mind thy mind retain.",
+      "hiLine1": "बना रहेगा यदि सदा, लक्ष्य मात्र का ध्यान ।",
+      "hiLine2": "अपने इच्छित लक्ष्य को, पाना है आसान ॥",
+      "general": "ஒருவன் தான் நினைத்ததை மறவாமல் தொடர்ந்து நினைத்துக்கொண்டே இருக்கப் பெற்றால், தான் எண்ணிய அந்தப் பொருளை அடைவது எளிதே ஆகும்.",
+      "en": "It is easy to attain whatever goal one sets in mind, provided one keeps that goal steadily in mind without forgetting.",
+      "hi": "यदि मनुष्य के मन में सदा केवल अपने लक्ष्य का ही ध्यान बना रहे, तो अपने इच्छित लक्ष्य को प्राप्त करना बहुत आसान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உள்ளியது <br>(Ulliyadhu)",
+          "ta": "நினைத்ததை",
+          "en": "What thou hast in mind",
+          "hi": "अपने इच्छित लक्ष्य को"
+        },
+        {
+          "no": 2,
+          "word": "எய்தல் <br>(Eydhal)",
+          "ta": "அடைவது",
+          "en": "To gain",
+          "hi": "पाना"
+        },
+        {
+          "no": 3,
+          "word": "எளிது மன் <br>(Elidhu man)",
+          "ta": "எளிதாகும்",
+          "en": "'Tis easy",
+          "hi": "है आसान"
+        },
+        {
+          "no": 4,
+          "word": "மற்றும் <br>(Matrum)",
+          "ta": "மேலும்",
+          "en": "If",
+          "hi": "यदि"
+        },
+        {
+          "no": 5,
+          "word": "தான் உள்ளியது <br>(Thaan ulliyadhu)",
+          "ta": "தான் நினைத்ததை",
+          "en": "What thou hast in mind",
+          "hi": "लक्ष्य मात्र का"
+        },
+        {
+          "no": 6,
+          "word": "உள்ளப் <br>(Ullap)",
+          "ta": "மறவாமல் நினைக்கப்",
+          "en": "Thy mind retain",
+          "hi": "ध्यान"
+        },
+        {
+          "no": 7,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "பெற்றால்",
+          "en": "If obtained",
+          "hi": "बना रहेगा सदा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உள்ளிய தெய்த லெளிதுமன் மற்றுந்தா",
+          "line2": "னுள்ளிய துள்ளப் பெறின்."
+        },
+        "en": {
+          "line1": "'Tis easy what thou hast in mind to gain,",
+          "line2": "If what thou hast in mind thy mind retain."
+        },
+        "hi": {
+          "line1": "बना रहेगा यदि सदा, लक्ष्य मात्र का ध्यान ।",
+          "line2": "अपने इच्छित लक्ष्य को, पाना है आसान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ulliya Dheydha Lelidhuman Matrundhaa",
+            "line2": "Nulliya Dhullap Perin."
+          },
+          "hi": {
+            "line1": "उळ्ळिय दॆय्द लॆळिदुमन् मत्रुन्दा",
+            "line2": "नुळ्ळिय दुळ्ळप् पॆरिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் தான் நினைத்ததை மறவாமல் தொடர்ந்து நினைத்துக்கொண்டே இருக்கப் பெற்றால், தான் எண்ணிய அந்தப் பொருளை அடைவது எளிதே ஆகும்.",
+        "en": "Any goal becomes straightforward to reach when you keep it front and center in your mind without losing focus.",
+        "hi": "यदि मनुष्य के मन में सदा केवल अपने लक्ष्य का ही ध्यान बना रहे, तो अपने इच्छित लक्ष्य को प्राप्त करना बहुत आसान है।"
+      }
+    }
+  ]
+}

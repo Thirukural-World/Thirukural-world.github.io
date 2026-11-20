@@ -1,0 +1,930 @@
+{
+  "chapterNum": 45,
+  "nameTa": "பெரியாரைத் துணைக்கோடல்",
+  "nameEn": "Seeking the Aid of Great Men",
+  "nameHi": "सत्संग-लाभ",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 441,
+      "line1": "அறனறிந்து மூத்த வறிவுடையார் கேண்மை",
+      "line2": "திறனறிந்து தேர்ந்து கொளல்.",
+      "enLine1": "As friends the men who virtue know, and riper wisdom share,",
+      "enLine2": "Their worth weighed well, the king should choose with care.",
+      "hiLine1": "ज्ञानवृद्ध जो बन गये, धर्म-सूक्ष्म को जान ।",
+      "hiLine2": "मैत्री उनकी, ढंग से, पा लो महत्व जान ॥",
+      "general": "அறத்தை உணர்ந்து தன்னைவிட அறிவால் மூத்த அறிஞர்களின் நட்பை, அதன் பெருமையை அறிந்து ஆராய்ந்து கொள்ள வேண்டும்.",
+      "en": "A ruler should carefully weigh the worth of and choose as friends those who know virtue and possess mature wisdom.",
+      "hi": "जो धर्म के सूक्ष्म रहस्यों को जानकर ज्ञानवृद्ध बन गए हैं, उनका महत्व समझकर ढंग से उनकी मित्रता प्राप्त कर लेनी चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறன் அறிந்து <br>(Aran arindhu)",
+          "ta": "அறத்தை அறிந்து",
+          "en": "Virtue know",
+          "hi": "धर्म-सूक्ष्म को जान"
+        },
+        {
+          "no": 2,
+          "word": "மூத்த <br>(Mooththa)",
+          "ta": "அறிவால் முதிர்ந்த",
+          "en": "Riper",
+          "hi": "वृद्ध"
+        },
+        {
+          "no": 3,
+          "word": "அறிவுடையார் <br>(Arivudaiyaar)",
+          "ta": "அறிவுடையோரின்",
+          "en": "Wisdom share",
+          "hi": "ज्ञानवृद्ध"
+        },
+        {
+          "no": 4,
+          "word": "கேண்மை <br>(Kenmai)",
+          "ta": "நட்பை",
+          "en": "As friends",
+          "hi": "मैत्री उनकी"
+        },
+        {
+          "no": 5,
+          "word": "திறன் அறிந்து <br>(Thiran arindhu)",
+          "ta": "அதன் திறனை அறிந்து",
+          "en": "Worth weighed well",
+          "hi": "महत्व जान"
+        },
+        {
+          "no": 6,
+          "word": "தேர்ந்து <br>(Therndhu)",
+          "ta": "ஆராய்ந்து",
+          "en": "Choose with care",
+          "hi": "ढंग से"
+        },
+        {
+          "no": 7,
+          "word": "கொளல் <br>(Kolal)",
+          "ta": "கொள்ள வேண்டும்",
+          "en": "Should choose",
+          "hi": "पा लो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறனறிந்து மூத்த வறிவுடையார் கேண்மை",
+          "line2": "திறனறிந்து தேர்ந்து கொளல்."
+        },
+        "en": {
+          "line1": "As friends the men who virtue know, and riper wisdom share,",
+          "line2": "Their worth weighed well, the king should choose with care."
+        },
+        "hi": {
+          "line1": "ज्ञानवृद्ध जो बन गये, धर्म-सूक्ष्म को जान ।",
+          "line2": "मैत्री उनकी, ढंग से, पा लो महत्व जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aranarindhu Mooththa Arivudaiyaar Kenmai",
+            "line2": "Thiranarindhu Therndhu Kolal."
+          },
+          "hi": {
+            "line1": "अरनरिन्दु मूत्त वरिवुडैयार् केण्मै",
+            "line2": "तिरनरिन्दु तेर्न्दु कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறத்தை உணர்ந்து தன்னைவிட அறிவால் மூத்த அறிஞர்களின் நட்பை, அதன் பெருமையை அறிந்து ஆராய்ந்து கொள்ள வேண்டும்.",
+        "en": "Seek out the friendship of seasoned, ethical thinkers—weigh their wisdom carefully and make them your trusted allies.",
+        "hi": "जो धर्म के सूक्ष्म रहस्यों को जानकर ज्ञानवृद्ध बन गए हैं, उनका महत्व समझकर ढंग से उनकी मित्रता प्राप्त कर लेनी चाहिए।"
+      }
+    },
+    {
+      "num": 442,
+      "line1": "உற்றநோய் நீக்கி யுறாஅமை முற்காக்கும்",
+      "line2": "பெற்றியார்ப் பேணிக் கொளல்.",
+      "enLine1": "Cherish the all-accomplished men as friends,",
+      "enLine2": "Whose skill the present ill removes, from coming ill defends.",
+      "hiLine1": "आगत दुःख निवार कर, भावी दुःख से त्राण ।",
+      "hiLine2": "करते जो, अपना उन्हें, करके आदर-मान ॥",
+      "general": "வந்துற்ற துன்பத்தை நீக்கி, இனி வரக்கூடிய துன்பமும் வராமல் முன்பே காக்கும் ஆற்றல் உடைய பெரியாரைப் போற்றித் துணையாகக் கொள்ள வேண்டும்.",
+      "en": "Cherish and secure the companionship of capable elders who can remedy present troubles and prevent future ones from arising.",
+      "hi": "जो आए हुए दुख को दूर करके भविष्य में आने वाले दुख से भी रक्षा (त्राण) करते हैं, ऐसे श्रेष्ठ पुरुषों को आदर-सम्मान देकर अपना बना लेना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உற்ற நோய் <br>(Utra noy)",
+          "ta": "வந்த துன்பத்தை",
+          "en": "Present ill",
+          "hi": "आगत दुःख"
+        },
+        {
+          "no": 2,
+          "word": "நீக்கி <br>(Neekki)",
+          "ta": "போக்கி",
+          "en": "Removes",
+          "hi": "निवार कर"
+        },
+        {
+          "no": 3,
+          "word": "உறாஅமை <br>(Uraaamai)",
+          "ta": "மீண்டும் வராமல்",
+          "en": "From coming ill",
+          "hi": "भावी दुःख से"
+        },
+        {
+          "no": 4,
+          "word": "முற்காக்கும் <br>(Murkaakkum)",
+          "ta": "முன்பே காக்கும்",
+          "en": "Defends",
+          "hi": "त्राण करते जो"
+        },
+        {
+          "no": 5,
+          "word": "பெற்றியார் <br>(Petriyaar)",
+          "ta": "தன்மையுடைய பெரியாரை",
+          "en": "All-accomplished men",
+          "hi": "उन्हें"
+        },
+        {
+          "no": 6,
+          "word": "பேணி <br>(Peni)",
+          "ta": "போற்றி",
+          "en": "Cherish",
+          "hi": "करके आदर-मान"
+        },
+        {
+          "no": 7,
+          "word": "கொளல் <br>(Kolal)",
+          "ta": "துணை கொள்ளல்",
+          "en": "As friends",
+          "hi": "अपना बना लो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உற்றநோய் நீக்கி யுறாஅமை முற்காக்கும்",
+          "line2": "பெற்றியார்ப் பேணிக் கொளல்."
+        },
+        "en": {
+          "line1": "Cherish the all-accomplished men as friends,",
+          "line2": "Whose skill the present ill removes, from coming ill defends."
+        },
+        "hi": {
+          "line1": "आगत दुःख निवार कर, भावी दुःख से त्राण ।",
+          "line2": "करते जो, अपना उन्हें, करके आदर-मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Utranoy Neekki Uraaamai Murkaakkum",
+            "line2": "Petriyaarp Penik Kolal."
+          },
+          "hi": {
+            "line1": "उत्रनोय् नीक्कि युराअमै मुर्काक्कुम्",
+            "line2": "पॆत्रियार्प् पेणिक् कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வந்துற்ற துன்பத்தை நீக்கி, இனி வரக்கூடிய துன்பமும் வராமல் முன்பே காக்கும் ஆற்றல் உடைய பெரியாரைப் போற்றித் துணையாகக் கொள்ள வேண்டும்.",
+        "en": "Value and keep close those capable mentors who know how to solve today's crisis and shield you from tomorrow's.",
+        "hi": "जो आए हुए दुख को दूर करके भविष्य में आने वाले दुख से भी रक्षा (त्राण) करते हैं, ऐसे श्रेष्ठ पुरुषों को आदर-सम्मान देकर अपना बना लेना चाहिए।"
+      }
+    },
+    {
+      "num": 443,
+      "line1": "அரியவற்றுள் எல்லாம் அரிதே பெரியாரைப்",
+      "line2": "பேணித் தமராக் கொளல்.",
+      "enLine1": "To cherish men of mighty soul, and make them all their own,",
+      "enLine2": "Of kingly treasures rare, as rarest gift is known.",
+      "hiLine1": "दुर्लभ सब में है यही, दुर्लभ भाग्य महान ।",
+      "hiLine2": "स्वजन बनाना मान से, जो हैं पुरुष महान ॥",
+      "general": "அருமையான பேறுகள் எல்லாவற்றுள்ளும் மிக அருமையான பேறு, பெரியாரைப் போற்றித் தமக்கு உற்றவராகக் கொள்ளுதலாகும்.",
+      "en": "Of all rare treasures, the rarest is to cherish great, noble people and make them one's own trusted friends.",
+      "hi": "संसार के सभी दुर्लभ सौभाग्यों में सबसे बड़ा और दुर्लभ सौभाग्य यही है कि महान पुरुषों को सम्मान देकर अपना स्वजन बना लिया जाए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அரியவற்றுள் <br>(Ariyavatrul)",
+          "ta": "அருமையானவற்றில்",
+          "en": "Of treasures rare",
+          "hi": "दुर्लभ सब में"
+        },
+        {
+          "no": 2,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாவற்றையும் விட",
+          "en": "All",
+          "hi": "सभी"
+        },
+        {
+          "no": 3,
+          "word": "அரிதே <br>(Aridhe)",
+          "ta": "மிக அரிதே",
+          "en": "Rarest gift is known",
+          "hi": "दुर्लभ भाग्य महान"
+        },
+        {
+          "no": 4,
+          "word": "பெரியாரை <br>(Periyaarai)",
+          "ta": "பெரியாரை",
+          "en": "Men of mighty soul",
+          "hi": "जो हैं पुरुष महान"
+        },
+        {
+          "no": 5,
+          "word": "பேணி <br>(Peni)",
+          "ta": "போற்றி",
+          "en": "To cherish",
+          "hi": "मान से"
+        },
+        {
+          "no": 6,
+          "word": "தமராக <br>(Thamaraagha)",
+          "ta": "தம் உற்றவராகக்",
+          "en": "All their own",
+          "hi": "स्वजन"
+        },
+        {
+          "no": 7,
+          "word": "கொளல் <br>(Kolal)",
+          "ta": "கொள்ளுதல்",
+          "en": "Make",
+          "hi": "बनाना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அரியவற்றுள் எல்லாம் அரிதே பெரியாரைப்",
+          "line2": "பேணித் தமராக் கொளல்."
+        },
+        "en": {
+          "line1": "To cherish men of mighty soul, and make them all their own,",
+          "line2": "Of kingly treasures rare, as rarest gift is known."
+        },
+        "hi": {
+          "line1": "दुर्लभ सब में है यही, दुर्लभ भाग्य महान ।",
+          "line2": "स्वजन बनाना मान से, जो हैं पुरुष महान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ariyavatrul Ellaam Aridhe Periyaaraip",
+            "line2": "Penith Thamaraak Kolal."
+          },
+          "hi": {
+            "line1": "अरियवत्रुळ् ऎल्लाम् अरिदे पॆरियारैप्",
+            "line2": "पेणित् तमराक् कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அருமையான பேறுகள் எல்லாவற்றுள்ளும் மிக அருமையான பேறு, பெரியாரைப் போற்றித் தமக்கு உற்றவராகக் கொள்ளுதலாகும்.",
+        "en": "Among all rare blessings, the rarest is earning the genuine friendship and loyalty of truly great people.",
+        "hi": "संसार के सभी दुर्लभ सौभाग्यों में सबसे बड़ा और दुर्लभ सौभाग्य यही है कि महान पुरुषों को सम्मान देकर अपना स्वजन बना लिया जाए।"
+      }
+    },
+    {
+      "num": 444,
+      "line1": "தம்மிற் பெரியார் தமரா வொழுகுதல்",
+      "line2": "வன்மையு ளெல்லாந் தலை.",
+      "enLine1": "To live with men of greatness that their own excels,",
+      "enLine2": "As cherished friends, is greatest power that with a monarch dwells.",
+      "hiLine1": "करना ऐसा आचरण, जिससे पुरुष महान ।",
+      "hiLine2": "बन जावें आत्मीय जन, उत्तम बल यह जान ॥",
+      "general": "தம்மைவிட அறிவால் பெரியவர்கள் தமக்கு உற்றவராகும்படி நடந்துகொள்ளுதல், வலிமைகள் எல்லாவற்றுள்ளும் தலையாய வலிமையாகும்.",
+      "en": "Conducting oneself so that those greater in wisdom become one's close allies is the greatest of all strengths.",
+      "hi": "ऐसा श्रेष्ठ आचरण करना जिससे महान पुरुष आपके आत्मीय जन (स्वजन) बन जाएँ—इसी को सभी बलों में सबसे उत्तम बल जानो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தம்மில் <br>(Thammil)",
+          "ta": "தம்மைவிட",
+          "en": "Their own excels",
+          "hi": "अपने से"
+        },
+        {
+          "no": 2,
+          "word": "பெரியார் <br>(Periyaar)",
+          "ta": "அறிவால் பெரியார்",
+          "en": "Men of greatness",
+          "hi": "पुरुष महान"
+        },
+        {
+          "no": 3,
+          "word": "தமரா <br>(Thamaraa)",
+          "ta": "தம் உற்றவராக",
+          "en": "As cherished friends",
+          "hi": "आत्मीय जन बन जावें"
+        },
+        {
+          "no": 4,
+          "word": "ஒழுகுதல் <br>(Ozhugudhal)",
+          "ta": "நடந்துகொள்ளுதல்",
+          "en": "To live",
+          "hi": "करना आचरण"
+        },
+        {
+          "no": 5,
+          "word": "வன்மையுள் <br>(Vanmaiyul)",
+          "ta": "வலிமைகளுள்",
+          "en": "Power",
+          "hi": "बल"
+        },
+        {
+          "no": 6,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாவற்றிலும்",
+          "en": "All",
+          "hi": "सबसे"
+        },
+        {
+          "no": 7,
+          "word": "தலை <br>(Thalai)",
+          "ta": "தலையாயது",
+          "en": "Greatest",
+          "hi": "उत्तम यह जान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தம்மிற் பெரியார் தமரா வொழுகுதல்",
+          "line2": "வன்மையு ளெல்லாந் தலை."
+        },
+        "en": {
+          "line1": "To live with men of greatness that their own excels,",
+          "line2": "As cherished friends, is greatest power that with a monarch dwells."
+        },
+        "hi": {
+          "line1": "करना ऐसा आचरण, जिससे पुरुष महान ।",
+          "line2": "बन जावें आत्मीय जन, उत्तम बल यह जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thammil Periyaar Thamaraa Ozhugudhal",
+            "line2": "Vanmaiyul Ellaandh Thalai."
+          },
+          "hi": {
+            "line1": "तम्मिर् पॆरियार् तमरा वॊऴुगुदल्",
+            "line2": "वन्मैयु ळॆल्लान् तलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம்மைவிட அறிவால் பெரியவர்கள் தமக்கு உற்றவராகும்படி நடந்துகொள்ளுதல், வலிமைகள் எல்லாவற்றுள்ளும் தலையாய வலிமையாகும்.",
+        "en": "Earning the close partnership of people wiser and stronger than yourself is the greatest strength a leader can have.",
+        "hi": "ऐसा श्रेष्ठ आचरण करना जिससे महान पुरुष आपके आत्मीय जन (स्वजन) बन जाएँ—इसी को सभी बलों में सबसे उत्तम बल जानो।"
+      }
+    },
+    {
+      "num": 445,
+      "line1": "சூழ்வார்கண் ணாக வொழுகலான் மன்னவன்",
+      "line2": "சூழ்வாரைச் சூழ்ந்து கொளல்.",
+      "enLine1": "The king, since counsellors are monarch's eyes,",
+      "enLine2": "Should counsellors select with counsel wise.",
+      "hiLine1": "आँख बना कर सचिव को, ढोता शासन-भार ।",
+      "hiLine2": "सो नृप चुन ले सचिव को, करके सोच विचार ॥",
+      "general": "அரசன் தக்க அறிவுரை கூறுபவர்களைத் தன் கண்களாகக் கொண்டு ஆட்சி செய்வதால், அத்தகைய அறிஞர்களை நன்கு ஆராய்ந்து தேர்ந்தெடுக்க வேண்டும்.",
+      "en": "Because a king sees and governs through his counselors as his eyes, he must carefully examine and choose the right counselors.",
+      "hi": "राजा अपने सचिवों (मंत्रियों) को अपनी आँख बनाकर शासन का भार वहन करता है; इसलिए राजा को चाहिए कि वह भली-भाँति सोच-विचार कर ही सचिवों का चुनाव करे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சூழ்வார் <br>(Soozhvaar)",
+          "ta": "அறிவுரை கூறும் அமைச்சர்",
+          "en": "Counsellors",
+          "hi": "सचिव को"
+        },
+        {
+          "no": 2,
+          "word": "கண்ணாக <br>(Kannaagha)",
+          "ta": "கண்ணாகக் கொண்டு",
+          "en": "Are monarch's eyes",
+          "hi": "आँख बना कर"
+        },
+        {
+          "no": 3,
+          "word": "ஒழுகலான் <br>(Ozhugalaan)",
+          "ta": "நடப்பதால்",
+          "en": "Since governs",
+          "hi": "ढोता शासन-भार"
+        },
+        {
+          "no": 4,
+          "word": "மன்னவன் <br>(Mannavan)",
+          "ta": "அரசன்",
+          "en": "The king",
+          "hi": "नृप"
+        },
+        {
+          "no": 5,
+          "word": "சூழ்வாரை <br>(Soozhvaarai)",
+          "ta": "அமைச்சர்களை",
+          "en": "Counsellors",
+          "hi": "सचिव को"
+        },
+        {
+          "no": 6,
+          "word": "சூழ்ந்து <br>(Soozhndhu)",
+          "ta": "நன்கு ஆராய்ந்து",
+          "en": "With counsel wise",
+          "hi": "करके सोच विचार"
+        },
+        {
+          "no": 7,
+          "word": "கொளல் <br>(Kolal)",
+          "ta": "தேர்ந்தெடுக்க வேண்டும்",
+          "en": "Should select",
+          "hi": "चुन ले"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சூழ்வார்கண் ணாக வொழுகலான் மன்னவன்",
+          "line2": "சூழ்வாரைச் சூழ்ந்து கொளல்."
+        },
+        "en": {
+          "line1": "The king, since counsellors are monarch's eyes,",
+          "line2": "Should counsellors select with counsel wise."
+        },
+        "hi": {
+          "line1": "आँख बना कर सचिव को, ढोता शासन-भार ।",
+          "line2": "सो नृप चुन ले सचिव को, करके सोच विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Soozhvaar Kannaagha Ozhugalaan Mannavan",
+            "line2": "Soozhvaaraich Soozhndhu Kolal."
+          },
+          "hi": {
+            "line1": "सूऴ्वार्कण् णाग वॊऴुगलान् मन्नवन्",
+            "line2": "सूऴ्वारैच् सूऴ्न्दु कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரசன் தக்க அறிவுரை கூறுபவர்களைத் தன் கண்களாகக் கொண்டு ஆட்சி செய்வதால், அத்தகைய அறிஞர்களை நன்கு ஆராய்ந்து தேர்ந்தெடுக்க வேண்டும்.",
+        "en": "Since a ruler relies on advisors as their very eyes, choosing those advisors requires the utmost care and judgment.",
+        "hi": "राजा अपने सचिवों (मंत्रियों) को अपनी आँख बनाकर शासन का भार वहन करता है; इसलिए राजा को चाहिए कि वह भली-भाँति सोच-विचार कर ही सचिवों का चुनाव करे।"
+      }
+    },
+    {
+      "num": 446,
+      "line1": "தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்",
+      "line2": "செற்றார் செயக்கிடந்த தில்.",
+      "enLine1": "The king, who knows to live with worthy men allied,",
+      "enLine2": "Has nought to fear from any foeman's pride.",
+      "hiLine1": "योग्य जनों का बन्धु बन, करता जो व्यवहार ।",
+      "hiLine2": "उसका कर सकते नहीं, शत्रु लोग अपकार ॥",
+      "general": "தகுதியுடைய பெரியோரின் கூட்டத்தோடு சேர்ந்து நடக்க வல்ல அரசனுக்கு, அவனுடைய பகைவர்கள் செய்யக்கூடிய தீங்கு ஒன்றும் இல்லை.",
+      "en": "Enemies can do no harm to a king who knows how to live and act in alliance with worthy and noble people.",
+      "hi": "जो राजा योग्य और श्रेष्ठ जनों का मित्र बनकर व्यवहार करता है, शत्रु लोग उसका कोई भी अपकार (नुकसान) नहीं कर सकते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தக்கார் <br>(Thakkaar)",
+          "ta": "தகுதியுடையோர்",
+          "en": "Worthy men",
+          "hi": "योग्य जनों का"
+        },
+        {
+          "no": 2,
+          "word": "இனத்தனாய் <br>(Inaththanaay)",
+          "ta": "கூட்டத்தவனாய்",
+          "en": "Allied",
+          "hi": "बन्धु बन"
+        },
+        {
+          "no": 3,
+          "word": "தான் <br>(Thaan)",
+          "ta": "தான்",
+          "en": "The king",
+          "hi": "जो"
+        },
+        {
+          "no": 4,
+          "word": "ஒழுக வல்லானை <br>(Ozhuga vallaanai)",
+          "ta": "நடக்க வல்லவனை",
+          "en": "Knows to live",
+          "hi": "करता व्यवहार"
+        },
+        {
+          "no": 5,
+          "word": "செற்றார் <br>(Setraar)",
+          "ta": "பகைவர்கள்",
+          "en": "Foeman's pride",
+          "hi": "शत्रु लोग"
+        },
+        {
+          "no": 6,
+          "word": "செயக்கிடந்தது <br>(Seyakkidandhadhu)",
+          "ta": "செய்யக்கூடிய தீங்கு",
+          "en": "To fear from",
+          "hi": "अपकार कर सकते"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Nought",
+          "hi": "नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்",
+          "line2": "செற்றார் செயக்கிடந்த தில்."
+        },
+        "en": {
+          "line1": "The king, who knows to live with worthy men allied,",
+          "line2": "Has nought to fear from any foeman's pride."
+        },
+        "hi": {
+          "line1": "योग्य जनों का बन्धु बन, करता जो व्यवहार ।",
+          "line2": "उसका कर सकते नहीं, शत्रु लोग अपकार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thakkaar Inaththanaayth Thaanozhuga Vallaanaich",
+            "line2": "Setraar Seyakkidandhadhu Il."
+          },
+          "hi": {
+            "line1": "तक्का रिनत्तनाय्त् तानॊऴुग वल्लानैच्",
+            "line2": "सॆत्रार् सॆयक्किडन्द दिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தகுதியுடைய பெரியோரின் கூட்டத்தோடு சேர்ந்து நடக்க வல்ல அரசனுக்கு, அவனுடைய பகைவர்கள் செய்யக்கூடிய தீங்கு ஒன்றும் இல்லை.",
+        "en": "When a leader surrounds themselves with capable, honorable people, rivals have no opening to do them harm.",
+        "hi": "जो राजा योग्य और श्रेष्ठ जनों का मित्र बनकर व्यवहार करता है, शत्रु लोग उसका कोई भी अपकार (नुकसान) नहीं कर सकते।"
+      }
+    },
+    {
+      "num": 447,
+      "line1": "இடிக்குந் துணையாரை யாள்வாரை யாரே",
+      "line2": "கெடுக்குந் தகைமை யவர்.",
+      "enLine1": "What power can work his fall, who faithful ministers",
+      "enLine2": "Employs, that thunder out reproaches when he errs.",
+      "hiLine1": "दोष देख कर डाँटने जब हैं मित्र सुयोग्य ।",
+      "hiLine2": "तब नृप का करने अहित, कौन शत्रु है योग्य ॥",
+      "general": "தவறு செய்யும்போது இடித்துரைத்துத் திருத்தும் பெரியாரைத் துணையாகக் கொண்டு ஆள்பவரை, அழிக்கக்கூடிய வல்லமை உடையவர் யார்?",
+      "en": "Who has the power to ruin a ruler who keeps faithful counselors capable of sternly rebuking him when he goes wrong?",
+      "hi": "जब दोष देखकर डाँटने-समझाने वाले सुयोग्य मित्र पास हों, तब भला ऐसा कौन-सा शत्रु है जो उस राजा का अहित कर सके?",
+      "words": [
+        {
+          "no": 1,
+          "word": "இடிக்கும் <br>(Idikkum)",
+          "ta": "இடித்துக் கூறும்",
+          "en": "Thunder out reproaches",
+          "hi": "दोष देख कर डाँटने"
+        },
+        {
+          "no": 2,
+          "word": "துணையாரை <br>(Thunaiyaarai)",
+          "ta": "துணையானவரை",
+          "en": "Faithful ministers",
+          "hi": "मित्र सुयोग्य"
+        },
+        {
+          "no": 3,
+          "word": "ஆள்வாரை <br>(Aalvaarai)",
+          "ta": "துணைகொண்டு ஆள்பவரை",
+          "en": "Who employs",
+          "hi": "जब हैं पास"
+        },
+        {
+          "no": 4,
+          "word": "யாரே <br>(Yaare)",
+          "ta": "யார்தான்",
+          "en": "What power",
+          "hi": "कौन शत्रु है"
+        },
+        {
+          "no": 5,
+          "word": "கெடுக்கும் <br>(Kedukkum)",
+          "ta": "கெடுக்கக்கூடிய",
+          "en": "Can work his fall",
+          "hi": "करने अहित"
+        },
+        {
+          "no": 6,
+          "word": "தகைமை <br>(Thagaimai)",
+          "ta": "தன்மை",
+          "en": "Capable",
+          "hi": "योग्य"
+        },
+        {
+          "no": 7,
+          "word": "அவர் <br>(Avar)",
+          "ta": "உடையவர்",
+          "en": "Those",
+          "hi": "वे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இடிக்குந் துணையாரை யாள்வாரை யாரே",
+          "line2": "கெடுக்குந் தகைமை யவர்."
+        },
+        "en": {
+          "line1": "What power can work his fall, who faithful ministers",
+          "line2": "Employs, that thunder out reproaches when he errs."
+        },
+        "hi": {
+          "line1": "दोष देख कर डाँटने जब हैं मित्र सुयोग्य ।",
+          "line2": "तब नृप का करने अहित, कौन शत्रु है योग्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Idikkum Thunaiyaarai Aalvaarai Yaare",
+            "line2": "Kedukkum Thagaimai Yavar."
+          },
+          "hi": {
+            "line1": "इडिक्कुन् तुणैयारै याळ्वारै यारे",
+            "line2": "कॆडुक्कुन् तगैमै यवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தவறு செய்யும்போது இடித்துரைத்துத் திருத்தும் பெரியாரைத் துணையாகக் கொண்டு ஆள்பவரை, அழிக்கக்கூடிய வல்லமை உடையவர் யார்?",
+        "en": "No enemy can bring down a leader who keeps honest advisors brave enough to call them out when they make a mistake.",
+        "hi": "जब दोष देखकर डाँटने-समझाने वाले सुयोग्य मित्र पास हों, तब भला ऐसा कौन-सा शत्रु है जो उस राजा का अहित कर सके?"
+      }
+    },
+    {
+      "num": 448,
+      "line1": "இடிப்பாரை யில்லாத வேமரா மன்னன்",
+      "line2": "கெடுப்பா ரிலானுங் கெடும்.",
+      "enLine1": "The king with none to censure him, bereft of safeguards all,",
+      "enLine2": "Though none his ruin work, shall surely ruined fall.",
+      "hiLine1": "डांट-डपटते मित्र की, रक्षा बिन नरकंत ।",
+      "hiLine2": "शत्रु बिना भी हानिकर, पा जाता है अंत ॥",
+      "general": "தவறு கண்டால் இடித்துரைக்கும் பெரியார் இல்லாத, பாதுகாப்பற்ற அரசன், தன்னைக் கெடுக்கும் பகைவர் இல்லாவிட்டாலும் தானே கெட்டு அழிவான்.",
+      "en": "A king without counselors to rebuke him and without protection will perish on his own, even if there are no enemies to destroy him.",
+      "hi": "दोषों पर डांट-डपटकर समझाने वाले मित्र के सुरक्षा-कवच के बिना वह राजा, किसी शत्रु के न होने पर भी स्वयं ही विनाश को प्राप्त हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இடிப்பாரை <br>(Idippaarai)",
+          "ta": "இடித்துரைப்பவர்",
+          "en": "To censure him",
+          "hi": "डांट-डपटते मित्र की"
+        },
+        {
+          "no": 2,
+          "word": "இல்லாத <br>(Illaadha)",
+          "ta": "இல்லாத",
+          "en": "With none",
+          "hi": "बिन"
+        },
+        {
+          "no": 3,
+          "word": "ஏமரா <br>(Emaraa)",
+          "ta": "பாதுகாப்பற்ற",
+          "en": "Bereft of safeguards",
+          "hi": "रक्षा बिन"
+        },
+        {
+          "no": 4,
+          "word": "மன்னன் <br>(Mannan)",
+          "ta": "அரசன்",
+          "en": "The king",
+          "hi": "नरकंत"
+        },
+        {
+          "no": 5,
+          "word": "கெடுப்பார் <br>(Keduppaar)",
+          "ta": "கெடுப்பவர்",
+          "en": "Ruin work",
+          "hi": "हानिकर शत्रु"
+        },
+        {
+          "no": 6,
+          "word": "இலானும் <br>(Ilaanum)",
+          "ta": "இல்லாவிட்டாலும்",
+          "en": "Though none",
+          "hi": "बिना भी"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "கெட்டுவிடுவான்",
+          "en": "Shall ruined fall",
+          "hi": "पा जाता है अंत"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இடிப்பாரை யில்லாத வேமரா மன்னன்",
+          "line2": "கெடுப்பா ரிலானுங் கெடும்."
+        },
+        "en": {
+          "line1": "The king with none to censure him, bereft of safeguards all,",
+          "line2": "Though none his ruin work, shall surely ruined fall."
+        },
+        "hi": {
+          "line1": "डांट-डपटते मित्र की, रक्षा बिन नरकंत ।",
+          "line2": "शत्रु बिना भी हानिकर, पा जाता है अंत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Idippaarai Illaadha Emaraa Mannan",
+            "line2": "Keduppaar Ilaanung Kedum."
+          },
+          "hi": {
+            "line1": "इडिप्पारै यिल्लाद वेमरा मन्नन्",
+            "line2": "कॆडुप्पा रिलानुङ् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தவறு கண்டால் இடித்துரைக்கும் பெரியார் இல்லாத, பாதுகாப்பற்ற அரசன், தன்னைக் கெடுக்கும் பகைவர் இல்லாவிட்டாலும் தானே கெட்டு அழிவான்.",
+        "en": "A ruler who has no one willing to challenge or correct them doesn't even need enemies—they will bring about their own downfall.",
+        "hi": "दोषों पर डांट-डपटकर समझाने वाले मित्र के सुरक्षा-कवच के बिना वह राजा, किसी शत्रु के न होने पर भी स्वयं ही विनाश को प्राप्त हो जाता है।"
+      }
+    },
+    {
+      "num": 449,
+      "line1": "முதலிலார்க்கு ஊதியம் இல்லை மதலையாஞ்",
+      "line2": "சார்பிலார்க்கு இல்லை நிலை.",
+      "enLine1": "Who owns no principal, can have no gain of usury;",
+      "enLine2": "Who lacks support of friends, knows no stability.",
+      "hiLine1": "बिना मूलधन वणिक जन, पावेंगे नहिं लाभ ।",
+      "hiLine2": "सहचर-आश्रय रहित नृप, करें न स्थिरता लाभ ॥",
+      "general": "முதல் (மூலதனம்) இல்லாத வணிகர்க்கு அதனால் வரும் ஊதியம் இல்லை; அதுபோலத் தம்மைத் தாங்கும் பெரியார் துணை இல்லாதவர்க்கு நிலைபெற்ற வாழ்வு இல்லை.",
+      "en": "Just as merchants without capital cannot earn profit, rulers without the supporting pillar of wise friends have no stability.",
+      "hi": "जैसे बिना मूलधन के व्यापारी (वणिक) कोई लाभ नहीं पा सकते, वैसे ही सुयोग्य सहचरों के आश्रय से रहित राजा को कभी स्थिरता प्राप्त नहीं होती।",
+      "words": [
+        {
+          "no": 1,
+          "word": "முதல் இலார்க்கு <br>(Mudhal ilaarkku)",
+          "ta": "முதலீடு இல்லாதவர்க்கு",
+          "en": "Owns no principal",
+          "hi": "बिना मूलधन"
+        },
+        {
+          "no": 2,
+          "word": "ஊதியம் <br>(Oodhiyam)",
+          "ta": "லாபம்",
+          "en": "Gain of usury",
+          "hi": "लाभ"
+        },
+        {
+          "no": 3,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "Can have no",
+          "hi": "पावेंगे नहिं"
+        },
+        {
+          "no": 4,
+          "word": "மதலையாம் <br>(Madhalaiyaam)",
+          "ta": "தூண் போன்ற",
+          "en": "Support of",
+          "hi": "सहचर-आश्रय"
+        },
+        {
+          "no": 5,
+          "word": "சார்பு இலார்க்கு <br>(Saarbu ilaarkku)",
+          "ta": "பெரியார் துணையற்றவர்க்கு",
+          "en": "Lacks friends",
+          "hi": "रहित नृप"
+        },
+        {
+          "no": 6,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "Knows no",
+          "hi": "करें न"
+        },
+        {
+          "no": 7,
+          "word": "நிலை <br>(Nilai)",
+          "ta": "நிலைபேறு",
+          "en": "Stability",
+          "hi": "स्थिरता लाभ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "முதலிலார்க்கு ஊதியம் இல்லை மதலையாஞ்",
+          "line2": "சார்பிலார்க்கு இல்லை நிலை."
+        },
+        "en": {
+          "line1": "Who owns no principal, can have no gain of usury;",
+          "line2": "Who lacks support of friends, knows no stability."
+        },
+        "hi": {
+          "line1": "बिना मूलधन वणिक जन, पावेंगे नहिं लाभ ।",
+          "line2": "सहचर-आश्रय रहित नृप, करें न स्थिरता लाभ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Mudhalilaarkku Oodhiyam Illai Madhalaiyaam",
+            "line2": "Saarbilaarkku Illai Nilai."
+          },
+          "hi": {
+            "line1": "मुदलिलार्क्कु ऊदियम् इल्लै मदलैयाञ्",
+            "line2": "सार्बिलार्क्कु इल्लै निलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முதல் (மூலதனம்) இல்லாத வணிகர்க்கு அதனால் வரும் ஊதியம் இல்லை; அதுபோலத் தம்மைத் தாங்கும் பெரியார் துணை இல்லாதவர்க்கு நிலைபெற்ற வாழ்வு இல்லை.",
+        "en": "Without capital, there is no profit; without the steady backing of wise allies, there is no lasting stability.",
+        "hi": "जैसे बिना मूलधन के व्यापारी (वणिक) कोई लाभ नहीं पा सकते, वैसे ही सुयोग्य सहचरों के आश्रय से रहित राजा को कभी स्थिरता प्राप्त नहीं होती।"
+      }
+    },
+    {
+      "num": 450,
+      "line1": "பல்லார் பகைகொளலிற் பத்தடுத்த தீமைத்தே",
+      "line2": "நல்லார் தொடர்கை விடல்.",
+      "enLine1": "Than hate of many foes incurred, works greater woe",
+      "enLine2": "Ten-fold, of worthy men the friendship to forego.",
+      "hiLine1": "बहुत जनों की शत्रुता, करने में जो हानि ।",
+      "hiLine2": "उससे बढ़ सत्संग को, तजने में है हानि ॥",
+      "general": "பலருடைய பகையைத் தேடிக்கொள்வதை விட, நல்லவர்களின் நட்பைக் கைவிடுதல் பத்து மடங்கு அதிகத் தீமையைத் தருவதாகும்.",
+      "en": "Abandoning the friendship of worthy people brings ten times greater harm than incurring the enmity of many foes.",
+      "hi": "बहुत से लोगों से शत्रुता मोल लेने में जो हानि होती है, उससे दस गुना अधिक बड़ी हानि अच्छे लोगों का सत्संग (मित्रता) छोड़ देने में होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பல்லார் <br>(Pallaar)",
+          "ta": "பலருடைய",
+          "en": "Of many foes",
+          "hi": "बहुत जनों की"
+        },
+        {
+          "no": 2,
+          "word": "பகை கொளலின் <br>(Pagai kolalin)",
+          "ta": "பகையைத் தேடுவதைவிட",
+          "en": "Hate incurred",
+          "hi": "शत्रुता करने में"
+        },
+        {
+          "no": 3,
+          "word": "பத்தடுத்த <br>(Paththaduththa)",
+          "ta": "பத்து மடங்கு",
+          "en": "Ten-fold",
+          "hi": "उससे बढ़"
+        },
+        {
+          "no": 4,
+          "word": "தீமைத்தே <br>(Theemaiththe)",
+          "ta": "தீமை உடையது",
+          "en": "Greater woe",
+          "hi": "हानि है"
+        },
+        {
+          "no": 5,
+          "word": "நல்லார் <br>(Nallaar)",
+          "ta": "நல்ல பெரியாரின்",
+          "en": "Of worthy men",
+          "hi": "सत्संग"
+        },
+        {
+          "no": 6,
+          "word": "தொடர்கை <br>(Thodarkai)",
+          "ta": "நட்பை",
+          "en": "Friendship",
+          "hi": "को"
+        },
+        {
+          "no": 7,
+          "word": "விடல் <br>(Vidal)",
+          "ta": "கைவிடுதல்",
+          "en": "To forego",
+          "hi": "तजने में"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பல்லார் பகைகொளலிற் பத்தடுத்த தீமைத்தே",
+          "line2": "நல்லார் தொடர்கை விடல்."
+        },
+        "en": {
+          "line1": "Than hate of many foes incurred, works greater woe",
+          "line2": "Ten-fold, of worthy men the friendship to forego."
+        },
+        "hi": {
+          "line1": "बहुत जनों की शत्रुता, करने में जो हानि ।",
+          "line2": "उससे बढ़ सत्संग को, तजने में है हानि ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pallaar Pagaikolalir Paththaduththa Theemaiththe",
+            "line2": "Nallaar Thodarkai Vidal."
+          },
+          "hi": {
+            "line1": "पल्लार् पगैकॊळलिर् पत्तडुत्त तीमैत्ते",
+            "line2": "नल्लार् तॊडर्कै विडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பலருடைய பகையைத் தேடிக்கொள்வதை விட, நல்லவர்களின் நட்பைக் கைவிடுதல் பத்து மடங்கு அதிகத் தீமையைத் தருவதாகும்.",
+        "en": "Losing the friendship of good, wise people is ten times worse than making a crowd of enemies.",
+        "hi": "बहुत से लोगों से शत्रुता मोल लेने में जो हानि होती है, उससे दस गुना अधिक बड़ी हानि अच्छे लोगों का सत्संग (मित्रता) छोड़ देने में होती है।"
+      }
+    }
+  ]
+}

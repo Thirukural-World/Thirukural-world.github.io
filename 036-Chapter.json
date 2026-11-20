@@ -1,0 +1,930 @@
+{
+  "chapterNum": 36,
+  "nameTa": "மெய்யுணர்தல்",
+  "nameEn": "Knowledge of the True",
+  "nameHi": "तत्वज्ञान",
+  "paal": "அறத்துப்பால்",
+  "iyal": "துறவறவியல்",
+  "kurals": [
+    {
+      "num": 351,
+      "line1": "பொருளல் லவற்றைப் பொருளென் றுணரு",
+      "line2": "மருளானா மாணாப் பிறப்பு.",
+      "enLine1": "Of things devoid of truth as real things men deem;—",
+      "enLine2": "Cause of degraded birth the fond delusive dream!",
+      "hiLine1": "मिथ्या में जब सत्य का, होता भ्रम से भान ।",
+      "hiLine2": "देता है भव-दुःख को, भ्रममूलक वह ज्ञान ॥",
+      "general": "மெய்ப்பொருள் அல்லாதவற்றை மெய்ப்பொருள் என்று தவறாக உணரும் மயக்க அறிவால், சிறப்பில்லாத பிறவி உண்டாகிறது.",
+      "en": "Degraded rebirth arises from the delusion that mistakes unreal, transient things for true reality.",
+      "hi": "जब मनुष्य को भ्रम के कारण असत्य (मिथ्या) वस्तुओं में सत्य का भान होने लगता है, तो वह भ्रममूलक ज्ञान ही संसार के जन्म-मरण रूपी दुख का कारण बनता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொருள் அல்லவற்றை <br>(Porul allavatruai)",
+          "ta": "மெய்ப்பொருள் அல்லாதவற்றை",
+          "en": "Things devoid of truth",
+          "hi": "मिथ्या में"
+        },
+        {
+          "no": 2,
+          "word": "பொருள் என்று <br>(Porul endru)",
+          "ta": "மெய்ப்பொருள் என்று",
+          "en": "As real things",
+          "hi": "सत्य का"
+        },
+        {
+          "no": 3,
+          "word": "உணரும் <br>(Unarum)",
+          "ta": "கருதும்",
+          "en": "Men deem",
+          "hi": "भान होता"
+        },
+        {
+          "no": 4,
+          "word": "மருளான் <br>(Marulaan)",
+          "ta": "மயக்க அறிவால்",
+          "en": "Delusive dream",
+          "hi": "भ्रममूलक ज्ञान"
+        },
+        {
+          "no": 5,
+          "word": "ஆம் <br>(Aam)",
+          "ta": "உண்டாகும்",
+          "en": "Cause of",
+          "hi": "देता है"
+        },
+        {
+          "no": 6,
+          "word": "மாணா <br>(Maanaa)",
+          "ta": "சிறப்பில்லாத",
+          "en": "Degraded",
+          "hi": "भव-दुःख को"
+        },
+        {
+          "no": 7,
+          "word": "பிறப்பு <br>(Pirappu)",
+          "ta": "பிறவி",
+          "en": "Birth",
+          "hi": "जन्म-मरण"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொருளல் லவற்றைப் பொருளென் றுணரு",
+          "line2": "மருளானா மாணாப் பிறப்பு."
+        },
+        "en": {
+          "line1": "Of things devoid of truth as real things men deem;—",
+          "line2": "Cause of degraded birth the fond delusive dream!"
+        },
+        "hi": {
+          "line1": "मिथ्या में जब सत्य का, होता भ्रम से भान ।",
+          "line2": "देता है भव-दुःख को, भ्रममूलक वह ज्ञान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Porulal Lavatraip Porulendru Unarum",
+            "line2": "Marulaanaam Maanaap Pirappu."
+          },
+          "hi": {
+            "line1": "पॊरुळल् लवत्रैप् पॊरुळॆन् रुणरु",
+            "line2": "मरुळाना माणाप् पिरप्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மெய்ப்பொருள் அல்லாதவற்றை மெய்ப்பொருள் என்று தவறாக உணரும் மயக்க அறிவால், சிறப்பில்லாத பிறவி உண்டாகிறது.",
+        "en": "Treating illusions as if they were ultimate truth traps us in the cycle of painful rebirth.",
+        "hi": "जब मनुष्य को भ्रम के कारण असत्य (मिथ्या) वस्तुओं में सत्य का भान होने लगता है, तो वह भ्रममूलक ज्ञान ही संसार के जन्म-मरण रूपी दुख का कारण बनता है।"
+      }
+    },
+    {
+      "num": 352,
+      "line1": "இருள்நீங்கி இன்பம் பயக்கும் மருள்நீங்கி",
+      "line2": "மாசறு காட்சி யவர்க்கு.",
+      "enLine1": "Darkness departs, and rapture springs to men who see",
+      "enLine2": "The mystic vision pure, from all delusion free.",
+      "hiLine1": "मोह-मुक्त हो पा गये, निर्मल तत्वज्ञान ।",
+      "hiLine2": "भव-तम को वह दूर कर, दे आनन्द महान ॥",
+      "general": "மயக்கம் நீங்கிக் குற்றமற்ற மெய்யுணர்வுடையவர்க்கு, அறியாமை இருள் நீங்கிப் பேரின்பம் உண்டாகும்.",
+      "en": "To those who are free from delusion and possess pure vision of the truth, darkness vanishes and supreme bliss arises.",
+      "hi": "जो लोग मोह से मुक्त होकर निर्मल तत्वज्ञान पा जाते हैं, वह ज्ञान संसार के अंधकार (अज्ञान) को दूर करके उन्हें महान आनन्द प्रदान करता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இருள் நீங்கி <br>(Irul neengi)",
+          "ta": "அறியாமை இருள் நீங்கி",
+          "en": "Darkness departs",
+          "hi": "भव-तम को दूर कर"
+        },
+        {
+          "no": 2,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "பேரின்பம்",
+          "en": "Rapture",
+          "hi": "आनन्द महान"
+        },
+        {
+          "no": 3,
+          "word": "பயக்கும் <br>(Payakkum)",
+          "ta": "கொடுக்கும்",
+          "en": "Springs",
+          "hi": "देता है"
+        },
+        {
+          "no": 4,
+          "word": "மருள் நீங்கி <br>(Marul neengi)",
+          "ta": "மயக்கம் நீங்கி",
+          "en": "From delusion free",
+          "hi": "मोह-मुक्त हो"
+        },
+        {
+          "no": 5,
+          "word": "மாசறு <br>(Maasaru)",
+          "ta": "குற்றமற்ற",
+          "en": "Pure",
+          "hi": "निर्मल"
+        },
+        {
+          "no": 6,
+          "word": "காட்சி <br>(Kaatchi)",
+          "ta": "மெய்யறிவு",
+          "en": "Mystic vision",
+          "hi": "तत्वज्ञान"
+        },
+        {
+          "no": 7,
+          "word": "அவர்க்கு <br>(Avarkku)",
+          "ta": "உடையவர்க்கு",
+          "en": "To men who see",
+          "hi": "पा गये जो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இருள்நீங்கி இன்பம் பயக்கும் மருள்நீங்கி",
+          "line2": "மாசறு காட்சி யவர்க்கு."
+        },
+        "en": {
+          "line1": "Darkness departs, and rapture springs to men who see",
+          "line2": "The mystic vision pure, from all delusion free."
+        },
+        "hi": {
+          "line1": "मोह-मुक्त हो पा गये, निर्मल तत्वज्ञान ।",
+          "line2": "भव-तम को वह दूर कर, दे आनन्द महान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Irulneengi Inbam Payakkum Marulneengi",
+            "line2": "Maasaru Kaatchi Yavarkku."
+          },
+          "hi": {
+            "line1": "इरुळ्नीङ्गि इन्बम् पयक्कुम् मरुळ्नीङ्गि",
+            "line2": "मासरु काट्सि यवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மயக்கம் நீங்கிக் குற்றமற்ற மெய்யுணர்வுடையவர்க்கு, அறியாமை இருள் நீங்கிப் பேரின்பம் உண்டாகும்.",
+        "en": "When delusion clears and your vision becomes pure, the darkness of ignorance lifts and deep spiritual joy takes its place.",
+        "hi": "जो लोग मोह से मुक्त होकर निर्मल तत्वज्ञान पा जाते हैं, वह ज्ञान संसार के अंधकार (अज्ञान) को दूर करके उन्हें महान आनन्द प्रदान करता है।"
+      }
+    },
+    {
+      "num": 353,
+      "line1": "ஐயத்தின் நீங்கித் தெளிந்தார்க்கு வையத்தின்",
+      "line2": "வானம் நணியது உடைத்து.",
+      "enLine1": "When doubts disperse, and mists of error roll",
+      "enLine2": "Away, nearer is heav'n than earth to sage's soul.",
+      "hiLine1": "जिसने संशय-मुक्त हो, पाया ज्ञान-प्रदीप ।",
+      "hiLine2": "उसको पृथ्वी से अधिक, रहता मोक्ष समीप ॥",
+      "general": "ஐயத்திலிருந்து நீங்கி மெய்ப்பொருளைத் தெளிவாக உணர்ந்தவர்களுக்கு, இந்த உலகத்தைவிட வீடுபேறு மிக அருகில் உள்ளது.",
+      "en": "To those who are freed from doubt and have attained clear insight, heaven (liberation) is nearer than this earth.",
+      "hi": "जिसने सभी संशयों से मुक्त होकर ज्ञान का दीपक प्राप्त कर लिया है, उसके लिए इस पृथ्वी की अपेक्षा मोक्ष अधिक निकट रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஐயத்தின் <br>(Aiyaththin)",
+          "ta": "சந்தேகத்திலிருந்து",
+          "en": "Doubts",
+          "hi": "संशय"
+        },
+        {
+          "no": 2,
+          "word": "நீங்கி <br>(Neengi)",
+          "ta": "நீங்கி",
+          "en": "Disperse",
+          "hi": "मुक्त हो"
+        },
+        {
+          "no": 3,
+          "word": "தெளிந்தார்க்கு <br>(Thelindhaarkku)",
+          "ta": "தெளிவு பெற்றவர்க்கு",
+          "en": "To sage's soul",
+          "hi": "पाया ज्ञान-प्रदीप"
+        },
+        {
+          "no": 4,
+          "word": "வையத்தின் <br>(Vaiyaththin)",
+          "ta": "உலகத்தைவிட",
+          "en": "Than earth",
+          "hi": "पृथ्वी से अधिक"
+        },
+        {
+          "no": 5,
+          "word": "வானம் <br>(Vaanam)",
+          "ta": "வீடுபேறு",
+          "en": "Heav'n",
+          "hi": "मोक्ष"
+        },
+        {
+          "no": 6,
+          "word": "நணியது <br>(Naniyadhu)",
+          "ta": "மிக அருகில்",
+          "en": "Nearer",
+          "hi": "समीप"
+        },
+        {
+          "no": 7,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "உள்ளது",
+          "en": "Is",
+          "hi": "रहता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஐயத்தின் நீங்கித் தெளிந்தார்க்கு வையத்தின்",
+          "line2": "வானம் நணியது உடைத்து."
+        },
+        "en": {
+          "line1": "When doubts disperse, and mists of error roll",
+          "line2": "Away, nearer is heav'n than earth to sage's soul."
+        },
+        "hi": {
+          "line1": "जिसने संशय-मुक्त हो, पाया ज्ञान-प्रदीप ।",
+          "line2": "उसको पृथ्वी से अधिक, रहता मोक्ष समीप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aiyaththin Neengith Thelindhaarkku Vaiyaththin",
+            "line2": "Vaanam Naniyadhu Udaiththu."
+          },
+          "hi": {
+            "line1": "ऐयत्तिन् नीङ्गित् तॆळिन्दार्क्कु वैयत्तिन्",
+            "line2": "वानम् नणियदु उडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஐயத்திலிருந்து நீங்கி மெய்ப்பொருளைத் தெளிவாக உணர்ந்தவர்களுக்கு, இந்த உலகத்தைவிட வீடுபேறு மிக அருகில் உள்ளது.",
+        "en": "Once all doubts dissolve into clear understanding, liberation is closer to you than the ground beneath your feet.",
+        "hi": "जिसने सभी संशयों से मुक्त होकर ज्ञान का दीपक प्राप्त कर लिया है, उसके लिए इस पृथ्वी की अपेक्षा मोक्ष अधिक निकट रहता है।"
+      }
+    },
+    {
+      "num": 354,
+      "line1": "ஐயுணர் வெய்தியக் கண்ணும் பயனின்றே",
+      "line2": "மெய்யுணர் வில்லா தவர்க்கு.",
+      "enLine1": "Five-fold perception gained, what benefits accrue",
+      "enLine2": "To them whose spirits lack perception of the true?",
+      "hiLine1": "वशीभूत मन हो गया, हुई धारणा सिद्ध ।",
+      "hiLine2": "फिर भी तत्वज्ञान बिन, फल होगा नहिं सिद्ध ॥",
+      "general": "ஐம்பொறிகளால் உணரும் அறிவை முழுமையாகப் பெற்றிருந்தாலும், மெய்ப்பொருளை உணரும் அறிவு இல்லாதவர்களுக்கு அதனால் ஒரு பயனும் இல்லை.",
+      "en": "Even if one has mastered all five-fold sensory perceptions, it is of no use to those who lack the knowledge of the Ultimate Truth.",
+      "hi": "चाहे मन वशीभूत हो गया हो और धारणा भी सिद्ध हो गई हो, फिर भी बिना तत्वज्ञान के कोई वास्तविक फल सिद्ध नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஐயுணர்வு <br>(Aiyunarvu)",
+          "ta": "ஐம்பொறி உணர்வு",
+          "en": "Five-fold perception",
+          "hi": "वशीभूत मन / धारणा"
+        },
+        {
+          "no": 2,
+          "word": "எய்தியக் கண்ணும் <br>(Eydhiyak kannum)",
+          "ta": "அடைந்த போதிலும்",
+          "en": "Gained",
+          "hi": "सिद्ध हुई फिर भी"
+        },
+        {
+          "no": 3,
+          "word": "பயன் இன்றே <br>(Payan indre)",
+          "ta": "பயன் இல்லை",
+          "en": "What benefits accrue",
+          "hi": "फल होगा नहिं सिद्ध"
+        },
+        {
+          "no": 4,
+          "word": "மெய் <br>(Mey)",
+          "ta": "மெய்ப்பொருளை",
+          "en": "Of the true",
+          "hi": "तत्व"
+        },
+        {
+          "no": 5,
+          "word": "உணர்வு <br>(Unarvu)",
+          "ta": "உணரும் அறிவு",
+          "en": "Perception",
+          "hi": "ज्ञान"
+        },
+        {
+          "no": 6,
+          "word": "இல்லாது <br>(Illaadhu)",
+          "ta": "இல்லாத",
+          "en": "Lack",
+          "hi": "बिन"
+        },
+        {
+          "no": 7,
+          "word": "அவர்க்கு <br>(Avarkku)",
+          "ta": "அவர்க்கு",
+          "en": "To them",
+          "hi": "उनके लिए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஐயுணர் வெய்தியக் கண்ணும் பயனின்றே",
+          "line2": "மெய்யுணர் வில்லா தவர்க்கு."
+        },
+        "en": {
+          "line1": "Five-fold perception gained, what benefits accrue",
+          "line2": "To them whose spirits lack perception of the true?"
+        },
+        "hi": {
+          "line1": "वशीभूत मन हो गया, हुई धारणा सिद्ध ।",
+          "line2": "फिर भी तत्वज्ञान बिन, फल होगा नहिं सिद्ध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aiyunar Veydhiyak Kannum Payanindre",
+            "line2": "Meyyunar Villaa Dhavarkku."
+          },
+          "hi": {
+            "line1": "ऐयुणर् वॆय्दियक् कण्णुम् पयनिन्द्रे",
+            "line2": "मॆय्युणर् विल्ला दवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஐம்பொறிகளால் உணரும் அறிவை முழுமையாகப் பெற்றிருந்தாலும், மெய்ப்பொருளை உணரும் அறிவு இல்லாதவர்களுக்கு அதனால் ஒரு பயனும் இல்லை.",
+        "en": "Even complete mastery over the five senses achieves nothing if you still lack insight into the deeper truth.",
+        "hi": "चाहे मन वशीभूत हो गया हो और धारणा भी सिद्ध हो गई हो, फिर भी बिना तत्वज्ञान के कोई वास्तविक फल सिद्ध नहीं होता।"
+      }
+    },
+    {
+      "num": 355,
+      "line1": "எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்",
+      "line2": "மெய்ப்பொருள் காண்பது அறிவு.",
+      "enLine1": "Whatever thing, of whatsoever kind it be,",
+      "enLine2": "'Tis wisdom's part in each the very thing to see.",
+      "hiLine1": "किसी तरह भी क्यों नहीं, भासे अमुक पदार्थ ।",
+      "hiLine2": "तथ्य-बोध उस वस्तु का, जानो ज्ञान पथार्थ ॥",
+      "general": "எந்தப் பொருள் எந்தத் தன்மையுடையதாகத் தோன்றினாலும், அந்தப் பொருளின் உண்மைத் தன்மையை ஆராய்ந்து காண்பதே மெய்யறிவாகும்.",
+      "en": "Whatever a thing may appear to be, true wisdom lies in discerning the real truth behind that thing.",
+      "hi": "कोई भी पदार्थ बाहर से किसी भी तरह का क्यों न प्रतीत होता हो, उस वस्तु का वास्तविक तथ्य-बोध (सच्चाई) समझ लेना ही यथार्थ ज्ञान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எப்பொருள் <br>(Epporul)",
+          "ta": "எந்தப் பொருள்",
+          "en": "Whatever thing",
+          "hi": "अमुक पदार्थ"
+        },
+        {
+          "no": 2,
+          "word": "எத்தன்மைத்தாயினும் <br>(Eththanmaiththaayinum)",
+          "ta": "எத்தகைய தன்மையதாயினும்",
+          "en": "Of whatsoever kind",
+          "hi": "किसी तरह भी"
+        },
+        {
+          "no": 3,
+          "word": "அப்பொருள் <br>(Apporul)",
+          "ta": "அந்தப் பொருளின்",
+          "en": "In each",
+          "hi": "उस वस्तु का"
+        },
+        {
+          "no": 4,
+          "word": "மெய் <br>(Mey)",
+          "ta": "உண்மை",
+          "en": "Very / true",
+          "hi": "तथ्य"
+        },
+        {
+          "no": 5,
+          "word": "பொருள் <br>(Porul)",
+          "ta": "பொருளை",
+          "en": "Thing",
+          "hi": "बोध"
+        },
+        {
+          "no": 6,
+          "word": "காண்பது <br>(Kaanbadhu)",
+          "ta": "காண்பதே",
+          "en": "To see",
+          "hi": "जानो"
+        },
+        {
+          "no": 7,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "அறிவாகும்",
+          "en": "Wisdom's part",
+          "hi": "यथार्थ ज्ञान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்",
+          "line2": "மெய்ப்பொருள் காண்பது அறிவு."
+        },
+        "en": {
+          "line1": "Whatever thing, of whatsoever kind it be,",
+          "line2": "'Tis wisdom's part in each the very thing to see."
+        },
+        "hi": {
+          "line1": "किसी तरह भी क्यों नहीं, भासे अमुक पदार्थ ।",
+          "line2": "तथ्य-बोध उस वस्तु का, जानो ज्ञान पथार्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Epporul Eththanmaith Thaayinum Apporul",
+            "line2": "Meypporul Kaanbadhu Arivu."
+          },
+          "hi": {
+            "line1": "ऎप्पॊरुळ् ऎत्तन्मैत् तायिनुम् अप्पॊरुळ्",
+            "line2": "मॆय्प्पॊरुळ् काण्बदु अरिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எந்தப் பொருள் எந்தத் தன்மையுடையதாகத் தோன்றினாலும், அந்தப் பொருளின் உண்மைத் தன்மையை ஆராய்ந்து காண்பதே மெய்யறிவாகும்.",
+        "en": "No matter how something looks on the surface, true wisdom is seeing straight through to its real nature.",
+        "hi": "कोई भी पदार्थ बाहर से किसी भी तरह का क्यों न प्रतीत होता हो, उस वस्तु का वास्तविक तथ्य-बोध (सच्चाई) समझ लेना ही यथार्थ ज्ञान है।"
+      }
+    },
+    {
+      "num": 356,
+      "line1": "கற்றீண்டு மெய்ப்பொருள் கண்டார் தலைப்படுவர்",
+      "line2": "மற்றீண்டு வாரா நெறி.",
+      "enLine1": "Who learn, and here the knowledge of the true obtain,",
+      "enLine2": "Shall find the path that hither cometh not again.",
+      "hiLine1": "जिसने पाया श्रवण से, यहीं तत्व का ज्ञान ।",
+      "hiLine2": "मोक्ष-मार्ग में अग्रसर, होता वह धीमान ॥",
+      "general": "இவ்வுலகில் கற்க வேண்டியவற்றைக் கற்று மெய்ப்பொருளை உணர்ந்தவர்கள், மீண்டும் இவ்வுலகில் பிறவாத வீடுபேற்று நெறியை அடைவார்கள்.",
+      "en": "Those who learn here and perceive the true reality will enter the path from which there is no return to this world of rebirth.",
+      "hi": "जिस बुद्धिमान ने इसी जीवन में गुरु के उपदेश (श्रवण) से तत्वज्ञान प्राप्त कर लिया है, वह मोक्ष के मार्ग में अग्रसर होता है (पुनर्जन्म से मुक्त हो जाता है)।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கற்று <br>(Katru)",
+          "ta": "கற்று",
+          "en": "Who learn",
+          "hi": "श्रवण से"
+        },
+        {
+          "no": 2,
+          "word": "ஈண்டு <br>(Eendu)",
+          "ta": "இவ்வுலகில்",
+          "en": "Here",
+          "hi": "यहीं"
+        },
+        {
+          "no": 3,
+          "word": "மெய்ப்பொருள் <br>(Meypporul)",
+          "ta": "மெய்ப்பொருளை",
+          "en": "Knowledge of the true",
+          "hi": "तत्व का ज्ञान"
+        },
+        {
+          "no": 4,
+          "word": "கண்டார் <br>(Kandaar)",
+          "ta": "உணர்ந்தவர்",
+          "en": "Obtain",
+          "hi": "जिसने पाया"
+        },
+        {
+          "no": 5,
+          "word": "தலைப்படுவர் <br>(Thalaippaduvar)",
+          "ta": "அடைவர்",
+          "en": "Shall find",
+          "hi": "अग्रसर होता है"
+        },
+        {
+          "no": 6,
+          "word": "மற்று ஈண்டு வாரா <br>(Matru eendu vaaraa)",
+          "ta": "மீண்டும் இங்கு வாராத",
+          "en": "Hither cometh not again",
+          "hi": "पुनर्जन्म से मुक्त"
+        },
+        {
+          "no": 7,
+          "word": "நெறி <br>(Neri)",
+          "ta": "நெறியை",
+          "en": "The path",
+          "hi": "मोक्ष-मार्ग में"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கற்றீண்டு மெய்ப்பொருள் கண்டார் தலைப்படுவர்",
+          "line2": "மற்றீண்டு வாரா நெறி."
+        },
+        "en": {
+          "line1": "Who learn, and here the knowledge of the true obtain,",
+          "line2": "Shall find the path that hither cometh not again."
+        },
+        "hi": {
+          "line1": "जिसने पाया श्रवण से, यहीं तत्व का ज्ञान ।",
+          "line2": "मोक्ष-मार्ग में अग्रसर, होता वह धीमान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Katreendu Meypporul Kandaar Thalaippaduvar",
+            "line2": "Matreendu Vaaraa Neri."
+          },
+          "hi": {
+            "line1": "कत्रीण्डु मॆय्प्पॊरुळ् कण्डार् तलैप्पडुवर्",
+            "line2": "मत्रीण्डु वारा नॆरि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இவ்வுலகில் கற்க வேண்டியவற்றைக் கற்று மெய்ப்பொருளை உணர்ந்தவர்கள், மீண்டும் இவ்வுலகில் பிறவாத வீடுபேற்று நெறியை அடைவார்கள்.",
+        "en": "Those who study and realize the ultimate truth right here in this life step onto the path of liberation with no return to rebirth.",
+        "hi": "जिस बुद्धिमान ने इसी जीवन में गुरु के उपदेश (श्रवण) से तत्वज्ञान प्राप्त कर लिया है, वह मोक्ष के मार्ग में अग्रसर होता है (पुनर्जन्म से मुक्त हो जाता है)।"
+      }
+    },
+    {
+      "num": 357,
+      "line1": "ஓர்த்துள்ள முள்ள துணரி னொருதலையாப்",
+      "line2": "பேர்த்துள்ள வேண்டா பிறப்பு.",
+      "enLine1": "The mind that knows with certitude what is, and ponders well,",
+      "enLine2": "Its thoughts on birth again to other life need not to dwell.",
+      "hiLine1": "उपदेशों को मनन कर, सत्य-बोध हो जाय ।",
+      "hiLine2": "पुनर्जन्म की तो उन्हें, चिन्ता नहिं रह जाय ॥",
+      "general": "மனம் ஆராய்ந்து உண்மையான மெய்ப்பொருளைத் தெளிவாக உணர்ந்தால், மீண்டும் பிறப்பதைப் பற்றி எண்ண வேண்டியதில்லை.",
+      "en": "If the mind reflects deeply and realizes with certainty that which truly exists, one need not think of another birth again.",
+      "hi": "उपदेशों का भली-भाँति मनन करने से जब सत्य का बोध हो जाता है, तब मनुष्य को पुनर्जन्म की कोई चिंता नहीं रह जाती।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஓர்த்து <br>(Orththu)",
+          "ta": "ஆராய்ந்து",
+          "en": "Ponders well",
+          "hi": "मनन कर"
+        },
+        {
+          "no": 2,
+          "word": "உள்ளம் <br>(Ullam)",
+          "ta": "மனம்",
+          "en": "The mind",
+          "hi": "मन"
+        },
+        {
+          "no": 3,
+          "word": "உள்ளது உணரின் <br>(Ulladhu unarin)",
+          "ta": "உள்ள பொருளை உணர்ந்தால்",
+          "en": "Knows what is",
+          "hi": "सत्य-बोध हो जाय"
+        },
+        {
+          "no": 4,
+          "word": "ஒருதலையா <br>(Orudhalaiyaa)",
+          "ta": "உறுதியாக",
+          "en": "With certitude",
+          "hi": "निश्चित रूप से"
+        },
+        {
+          "no": 5,
+          "word": "பேர்த்து <br>(Perththu)",
+          "ta": "மீண்டும்",
+          "en": "Again",
+          "hi": "पुनः"
+        },
+        {
+          "no": 6,
+          "word": "உள்ள வேண்டா <br>(Ulla vendaa)",
+          "ta": "நினைக்க வேண்டா",
+          "en": "Need not to dwell",
+          "hi": "चिन्ता नहिं रह जाय"
+        },
+        {
+          "no": 7,
+          "word": "பிறப்பு <br>(Pirappu)",
+          "ta": "பிறப்பை",
+          "en": "Birth",
+          "hi": "पुनर्जन्म की"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஓர்த்துள்ள முள்ள துணரி னொருதலையாப்",
+          "line2": "பேர்த்துள்ள வேண்டா பிறப்பு."
+        },
+        "en": {
+          "line1": "The mind that knows with certitude what is, and ponders well,",
+          "line2": "Its thoughts on birth again to other life need not to dwell."
+        },
+        "hi": {
+          "line1": "उपदेशों को मनन कर, सत्य-बोध हो जाय ।",
+          "line2": "पुनर्जन्म की तो उन्हें, चिन्ता नहिं रह जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Orththulla Mulladhu Unarin Orudhalaiyaap",
+            "line2": "Perththulla Vendaa Pirappu."
+          },
+          "hi": {
+            "line1": "ओर्त्तुळ्ळ मुळ्ळ दुणरि नॊरुतलैयाप्",
+            "line2": "पेर्त्तुळ्ळ वेण्डा पिरप्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனம் ஆராய்ந்து உண்மையான மெய்ப்பொருளைத் தெளிவாக உணர்ந்தால், மீண்டும் பிறப்பதைப் பற்றி எண்ண வேண்டியதில்லை.",
+        "en": "When your mind reflects deeply and grasps reality with certainty, you no longer have to worry about being born again.",
+        "hi": "उपदेशों का भली-भाँति मनन करने से जब सत्य का बोध हो जाता है, तब मनुष्य को पुनर्जन्म की कोई चिंता नहीं रह जाती।"
+      }
+    },
+    {
+      "num": 358,
+      "line1": "பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னும்",
+      "line2": "செம்பொருள் காண்பது அறிவு.",
+      "enLine1": "When folly, cause of births, departs; and soul can view",
+      "enLine2": "The truth of things, man's dignity—'tis wisdom true.",
+      "hiLine1": "जन्म-मूल अज्ञान है, उसके निवारणार्थ ।",
+      "hiLine2": "मोक्ष-मूल परमार्थ का, दर्शन ज्ञान पथार्थ ॥",
+      "general": "பிறவிக்குக் காரணமான அறியாமை நீங்கும்படி, மேலான வீடுபேற்றைத் தரும் செம்பொருளைக் காண்பதே மெய்யறிவாகும்.",
+      "en": "True wisdom is perceiving the supreme reality that confers salvation, so that the ignorance which causes rebirth vanishes.",
+      "hi": "जन्म-मरण का मूल कारण अज्ञान है; उसके निवारण के लिए मोक्ष के मूल परमार्थ (परम सत्य) का दर्शन करना ही यथार्थ ज्ञान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பிறப்பு என்னும் <br>(Pirappu ennum)",
+          "ta": "பிறவிக்குக் காரணமான",
+          "en": "Cause of births",
+          "hi": "जन्म-मूल"
+        },
+        {
+          "no": 2,
+          "word": "பேதைமை <br>(Pedhaimai)",
+          "ta": "அறியாமை",
+          "en": "Folly",
+          "hi": "अज्ञान है"
+        },
+        {
+          "no": 3,
+          "word": "நீங்க <br>(Neenga)",
+          "ta": "நீங்கும்படி",
+          "en": "Departs",
+          "hi": "निवारणार्थ"
+        },
+        {
+          "no": 4,
+          "word": "சிறப்பு என்னும் <br>(Sirappu ennum)",
+          "ta": "சிறந்த வீடுபேறு என்னும்",
+          "en": "Man's dignity / highest",
+          "hi": "मोक्ष-मूल"
+        },
+        {
+          "no": 5,
+          "word": "செம்பொருள் <br>(Semborul)",
+          "ta": "செம்பொருளை",
+          "en": "Truth of things",
+          "hi": "परमार्थ का"
+        },
+        {
+          "no": 6,
+          "word": "காண்பது <br>(Kaanbadhu)",
+          "ta": "காண்பதே",
+          "en": "Can view",
+          "hi": "दर्शन"
+        },
+        {
+          "no": 7,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "மெய்யறிவு",
+          "en": "Wisdom true",
+          "hi": "यथार्थ ज्ञान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னும்",
+          "line2": "செம்பொருள் காண்பது அறிவு."
+        },
+        "en": {
+          "line1": "When folly, cause of births, departs; and soul can view",
+          "line2": "The truth of things, man's dignity—'tis wisdom true."
+        },
+        "hi": {
+          "line1": "जन्म-मूल अज्ञान है, उसके निवारणार्थ ।",
+          "line2": "मोक्ष-मूल परमार्थ का, दर्शन ज्ञान पथार्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pirappennum Pedhaimai Neengach Sirappennum",
+            "line2": "Semborul Kaanbadhu Arivu."
+          },
+          "hi": {
+            "line1": "पिरप्पॆन्नुम् पेदैमै नीङ्गच् सिरप्पॆन्नुम्",
+            "line2": "सॆम्बॊरुळ् काण्बदु अरिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறவிக்குக் காரணமான அறியாமை நீங்கும்படி, மேலான வீடுபேற்றைத் தரும் செம்பொருளைக் காண்பதே மெய்யறிவாகும்.",
+        "en": "True wisdom is clearing away the ignorance that fuels rebirth and beholding the highest truth that brings liberation.",
+        "hi": "जन्म-मरण का मूल कारण अज्ञान है; उसके निवारण के लिए मोक्ष के मूल परमार्थ (परम सत्य) का दर्शन करना ही यथार्थ ज्ञान है।"
+      }
+    },
+    {
+      "num": 359,
+      "line1": "சார்புணர்ந்து சார்பு கெடவொழுகின் மற்றழித்து",
+      "line2": "சார்தரா சார்தரு நோய்.",
+      "enLine1": "The true 'support' who knows—rejects 'supports' he sought before—",
+      "enLine2": "Sorrow that clings and all destroys, shall cling to him no more.",
+      "hiLine1": "जगदाश्रय को समझ यदि, बनो स्वयं निर्लिप्त ।",
+      "hiLine2": "नाशक भावी दुःख सब, करें कभी नहिं लिप्त ॥",
+      "general": "எல்லாவற்றிற்கும் சார்பான இறைவனை உணர்ந்து, மற்றப் பற்றுகள் கெடும்படி வாழ்ந்தால், துன்பங்கள் அவனை வந்து சேரமாட்டா.",
+      "en": "If one realizes the True Support and lives free from worldly attachments, the destructive sorrows that otherwise cling will never approach him.",
+      "hi": "यदि तुम जगत के वास्तविक आश्रय (ईश्वर) को समझकर स्वयं संसार से निर्लिप्त हो जाओ, तो भविष्य में आने वाले सभी नाशक दुख तुम्हें कभी लिप्त नहीं कर सकेंगे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சார்பு உணர்ந்து <br>(Saarbu unarndhu)",
+          "ta": "உண்மைப் பற்றுக்கோட்டை உணர்ந்து",
+          "en": "True 'support' who knows",
+          "hi": "जगदाश्रय को समझ"
+        },
+        {
+          "no": 2,
+          "word": "சார்பு கெட <br>(Saarbu keda)",
+          "ta": "பிற பற்றுகள் அழிய",
+          "en": "Rejects 'supports'",
+          "hi": "बनो निर्लिप्त"
+        },
+        {
+          "no": 3,
+          "word": "ஒழுகின் <br>(Ozhugin)",
+          "ta": "நடந்தால்",
+          "en": "If one lives",
+          "hi": "यदि"
+        },
+        {
+          "no": 4,
+          "word": "மற்று அழித்து <br>(Matru azhiththu)",
+          "ta": "உயிரை அழித்து",
+          "en": "All destroys",
+          "hi": "नाशक"
+        },
+        {
+          "no": 5,
+          "word": "சார்தரா <br>(Saardharaa)",
+          "ta": "வந்து சேர மாட்டா",
+          "en": "Shall cling no more",
+          "hi": "करें कभी नहिं लिप्त"
+        },
+        {
+          "no": 6,
+          "word": "சார்தரு <br>(Saardharu)",
+          "ta": "வந்து சேரும்",
+          "en": "That clings",
+          "hi": "भावी"
+        },
+        {
+          "no": 7,
+          "word": "நோய் <br>(Noy)",
+          "ta": "துன்பங்கள்",
+          "en": "Sorrow",
+          "hi": "दुःख सब"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சார்புணர்ந்து சார்பு கெடவொழுகின் மற்றழித்து",
+          "line2": "சார்தரா சார்தரு நோய்."
+        },
+        "en": {
+          "line1": "The true 'support' who knows—rejects 'supports' he sought before—",
+          "line2": "Sorrow that clings and all destroys, shall cling to him no more."
+        },
+        "hi": {
+          "line1": "जगदाश्रय को समझ यदि, बनो स्वयं निर्लिप्त ।",
+          "line2": "नाशक भावी दुःख सब, करें कभी नहिं लिप्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Saarbunarndhu Saarbu Kedavozhugin Matrazhiththu",
+            "line2": "Saardharaa Saardharu Noy."
+          },
+          "hi": {
+            "line1": "सार्बुणर्न्दु सार्बु कॆडवॊऴुगिन् मत्रऴित्तु",
+            "line2": "सार्दरा सार्दरु नोय्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லாவற்றிற்கும் சார்பான இறைவனை உணர்ந்து, மற்றப் பற்றுகள் கெடும்படி வாழ்ந்தால், துன்பங்கள் அவனை வந்து சேரமாட்டா.",
+        "en": "When you recognize your true spiritual anchor and let go of false worldly props, destructive sorrows can no longer reach you.",
+        "hi": "यदि तुम जगत के वास्तविक आश्रय (ईश्वर) को समझकर स्वयं संसार से निर्लिप्त हो जाओ, तो भविष्य में आने वाले सभी नाशक दुख तुम्हें कभी लिप्त नहीं कर सकेंगे।"
+      }
+    },
+    {
+      "num": 360,
+      "line1": "காமம் வெகுளி மயக்க மிவைமூன்றி",
+      "line2": "னாமங் கெடக்கெடு நோய்.",
+      "enLine1": "When lust and wrath and error's triple tyranny is o'er,",
+      "enLine2": "Their very names for aye extinct, then pain shall be no more.",
+      "hiLine1": "काम क्रोध औ' मोह का न हो नाम का योग ।",
+      "hiLine2": "तीनों के मिटते, मिटे, कर्म-फलों का रोग ॥",
+      "general": "ஆசை, சினம், அறியாமை ஆகிய இம்மூன்றின் பெயரும் இல்லாமல் அழிந்தால், பிறவித் துன்பமும் அழிந்து போகும்.",
+      "en": "When desire, anger, and delusion—these three—are eradicated so completely that even their names cease to exist, all suffering will end.",
+      "hi": "जब काम, क्रोध और मोह—इन तीनों के नाम का भी संयोग न रहे (ये पूरी तरह मिट जाएँ), तो कर्म-फलों का रोग (जन्म-मरण का दुख) भी मिट जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "காமம் <br>(Kaamam)",
+          "ta": "ஆசை",
+          "en": "Lust",
+          "hi": "काम"
+        },
+        {
+          "no": 2,
+          "word": "வெகுளி <br>(Veguli)",
+          "ta": "சினம்",
+          "en": "Wrath",
+          "hi": "क्रोध"
+        },
+        {
+          "no": 3,
+          "word": "மயக்கம் <br>(Mayakkam)",
+          "ta": "அறியாமை",
+          "en": "Error / delusion",
+          "hi": "मोह"
+        },
+        {
+          "no": 4,
+          "word": "இவை மூன்றின் <br>(Ivai moondrin)",
+          "ta": "இம்மூன்றின்",
+          "en": "Triple",
+          "hi": "इन तीनों के"
+        },
+        {
+          "no": 5,
+          "word": "நாமம் கெட <br>(Naamam keda)",
+          "ta": "பெயரும் அழிய",
+          "en": "Names extinct",
+          "hi": "नाम का योग न हो"
+        },
+        {
+          "no": 6,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "அழிந்துவிடும்",
+          "en": "Shall be no more",
+          "hi": "मिटे"
+        },
+        {
+          "no": 7,
+          "word": "நோய் <br>(Noy)",
+          "ta": "துன்பம்",
+          "en": "Pain",
+          "hi": "कर्म-फलों का रोग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "காமம் வெகுளி மயக்க மிவைமூன்றி",
+          "line2": "னாமங் கெடக்கெடு நோய்."
+        },
+        "en": {
+          "line1": "When lust and wrath and error's triple tyranny is o'er,",
+          "line2": "Their very names for aye extinct, then pain shall be no more."
+        },
+        "hi": {
+          "line1": "काम क्रोध औ' मोह का न हो नाम का योग ।",
+          "line2": "तीनों के मिटते, मिटे, कर्म-फलों का रोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaamam Veguli Mayakkam Ivaimoondrin",
+            "line2": "Naamang Kedakkedum Noy."
+          },
+          "hi": {
+            "line1": "कामम् वॆगुळि मयक्क मिवैमून्द्रि",
+            "line2": "नामङ् कॆडक्कॆडु नोय्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆசை, சினம், அறியாமை ஆகிய இம்மூன்றின் பெயரும் இல்லாமல் அழிந்தால், பிறவித் துன்பமும் அழிந்து போகும்.",
+        "en": "Wipe out desire, anger, and delusion down to their very names, and every form of suffering disappears with them.",
+        "hi": "जब काम, क्रोध और मोह—इन तीनों के नाम का भी संयोग न रहे (ये पूरी तरह मिट जाएँ), तो कर्म-फलों का रोग (जन्म-मरण का दुख) भी मिट जाता है।"
+      }
+    }
+  ]
+}

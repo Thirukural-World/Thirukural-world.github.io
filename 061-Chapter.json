@@ -1,0 +1,930 @@
+{
+  "chapterNum": 61,
+  "nameTa": "மடியின்மை",
+  "nameEn": "Unsluggishness",
+  "nameHi": "आलस्यहीनता",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 601,
+      "line1": "குடியென்னுங் குன்றா விளக்க மடியென்னு",
+      "line2": "மாசு ஊரக் கெடும்.",
+      "enLine1": "Of household dignity the lustre beaming bright,",
+      "enLine2": "Flickers and dies when sluggish foulness dims its light.",
+      "hiLine1": "जब तम से आलस्य के, आच्छादित हो जाय ।",
+      "hiLine2": "अक्षय दीप कुटुंब का, मंद मंद बुझ जाय ॥",
+      "general": "குடிப்பெருமை என்னும் குறையாத ஒளிவிளக்கு, சோம்பல் என்னும் மாசு படிந்தால் ஒளி மங்கிக் கெட்டுப்போகும்.",
+      "en": "The undying lamp of family honor dims and goes out when tainted by the darkness of sloth.",
+      "hi": "जब परिवार (कुटुंब) का अक्षय दीपक आलस्य रूपी अंधकार से ढँक जाता है, तब वह धीरे-धीरे बुझने लगता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குடி என்னும் <br>(Kudi ennum)",
+          "ta": "குடிப்பெருமை என்னும்",
+          "en": "Household dignity",
+          "hi": "कुटुंब का"
+        },
+        {
+          "no": 2,
+          "word": "குன்றா விளக்கம் <br>(Kundraa vilakkam)",
+          "ta": "அணையா விளக்கு",
+          "en": "Lustre beaming bright",
+          "hi": "अक्षय दीप"
+        },
+        {
+          "no": 3,
+          "word": "மடி என்னும் <br>(Madi ennum)",
+          "ta": "சோம்பல் என்னும்",
+          "en": "Sluggish",
+          "hi": "आलस्य के"
+        },
+        {
+          "no": 4,
+          "word": "மாசு <br>(Maasu)",
+          "ta": "மாசு",
+          "en": "Foulness",
+          "hi": "तम से"
+        },
+        {
+          "no": 5,
+          "word": "ஊர <br>(Oora)",
+          "ta": "படிய",
+          "en": "Dims its light",
+          "hi": "आच्छादित हो जाय"
+        },
+        {
+          "no": 6,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "கெட்டு அழியும்",
+          "en": "Flickers and dies",
+          "hi": "मंद मंद बुझ जाय"
+        },
+        {
+          "no": 7,
+          "word": "மடி <br>(Madi)",
+          "ta": "சோம்பல்",
+          "en": "Sloth",
+          "hi": "आलस्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குடியென்னுங் குன்றா விளக்க மடியென்னு",
+          "line2": "மாசு ஊரக் கெடும்."
+        },
+        "en": {
+          "line1": "Of household dignity the lustre beaming bright,",
+          "line2": "Flickers and dies when sluggish foulness dims its light."
+        },
+        "hi": {
+          "line1": "जब तम से आलस्य के, आच्छादित हो जाय ।",
+          "line2": "अक्षय दीप कुटुंब का, मंद मंद बुझ जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kudiyennung Kundraa Vilakka Madiyennu",
+            "line2": "Maasu Oorak Kedum."
+          },
+          "hi": {
+            "line1": "कुडियॆन्नुङ् कुन्द्रा विळक्क मडियॆन्नु",
+            "line2": "मासु ऊरक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குடிப்பெருமை என்னும் குறையாத ஒளிவிளக்கு, சோம்பல் என்னும் மாசு படிந்தால் ஒளி மங்கிக் கெட்டுப்போகும்.",
+        "en": "Laziness slowly dims and extinguishes the proudest family or organizational legacy.",
+        "hi": "जब परिवार (कुटुंब) का अक्षय दीपक आलस्य रूपी अंधकार से ढँक जाता है, तब वह धीरे-धीरे बुझने लगता है।"
+      }
+    },
+    {
+      "num": 602,
+      "line1": "மடியை மடியா வொழுகல் குடியைக்",
+      "line2": "குடியாக வேண்டு பவர்.",
+      "enLine1": "Let indolence, the death of effort, die,",
+      "enLine2": "If you'd uphold your household's dignity.",
+      "hiLine1": "जो चाहें निज वंश का, बना रहे उत्कर्ष ।",
+      "hiLine2": "नाश करें आलस्य का, करते उसका धर्ष ॥",
+      "general": "தம் குடியைச் சிறந்த குடியாக உயர்த்த விரும்புபவர்கள், சோம்பலைச் சோம்பலாகக் கருதாமல் அழித்துவிட்டு முயன்று நடக்க வேண்டும்.",
+      "en": "Those who wish their family to prosper as a noble house must put an end to laziness and act with diligence.",
+      "hi": "जो लोग चाहते हैं कि उनके अपने वंश की उन्नति बनी रहे, वे आलस्य का दमन (धर्ष) करके उसका समूल नाश कर दें।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மடியை <br>(Madiyai)",
+          "ta": "சோம்பலை",
+          "en": "Indolence",
+          "hi": "आलस्य का"
+        },
+        {
+          "no": 2,
+          "word": "மடியா <br>(Madiyaa)",
+          "ta": "அழித்துவிட்டு",
+          "en": "Die",
+          "hi": "नाश करें"
+        },
+        {
+          "no": 3,
+          "word": "ஒழுகல் <br>(Ozhugal)",
+          "ta": "நடக்க வேண்டும்",
+          "en": "Let act",
+          "hi": "करते उसका धर्ष"
+        },
+        {
+          "no": 4,
+          "word": "குடியை <br>(Kudiyai)",
+          "ta": "தம் குடியை",
+          "en": "Your household's",
+          "hi": "निज वंश का"
+        },
+        {
+          "no": 5,
+          "word": "குடியாக <br>(Kudiyaaga)",
+          "ta": "சிறந்த குடியாக",
+          "en": "Dignity",
+          "hi": "बना रहे उत्कर्ष"
+        },
+        {
+          "no": 6,
+          "word": "வேண்டுபவர் <br>(Vendubavar)",
+          "ta": "விரும்புவோர்",
+          "en": "If you'd uphold",
+          "hi": "जो चाहें"
+        },
+        {
+          "no": 7,
+          "word": "குடி <br>(Kudi)",
+          "ta": "குடி",
+          "en": "Household",
+          "hi": "वंश"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மடியை மடியா வொழுகல் குடியைக்",
+          "line2": "குடியாக வேண்டு பவர்."
+        },
+        "en": {
+          "line1": "Let indolence, the death of effort, die,",
+          "line2": "If you'd uphold your household's dignity."
+        },
+        "hi": {
+          "line1": "जो चाहें निज वंश का, बना रहे उत्कर्ष ।",
+          "line2": "नाश करें आलस्य का, करते उसका धर्ष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Madiyai Madiyaa Vozhugal Kudiyaik",
+            "line2": "Kudiyaaga Vendu Pavar."
+          },
+          "hi": {
+            "line1": "मडियै मडिया वॊऴुगल् कुडियैक्",
+            "line2": "कुडियाग वेण्डु पवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம் குடியைச் சிறந்த குடியாக உயர்த்த விரும்புபவர்கள், சோம்பலைச் சோம்பலாகக் கருதாமல் அழித்துவிட்டு முயன்று நடக்க வேண்டும்.",
+        "en": "If you want your household or team to thrive, stamp out procrastination before it takes root.",
+        "hi": "जो लोग चाहते हैं कि उनके अपने वंश की उन्नति बनी रहे, वे आलस्य का दमन (धर्ष) करके उसका समूल नाश कर दें।"
+      }
+    },
+    {
+      "num": 603,
+      "line1": "மடிமடிக்கொண் டொழுகும் பேதை பிறந்த",
+      "line2": "குடிமடியுந் தன்னினு முந்து.",
+      "enLine1": "Who fosters indolence within his breast, the silly elf!",
+      "enLine2": "The house from which he springs shall perish ere himself.",
+      "hiLine1": "गोद लिये आलस्य को, जो जड़ करे विलास ।",
+      "hiLine2": "होगा उसके पूर्व ही, जात-वंश का नाश ॥",
+      "general": "சோம்பலைத் தன் மடியிலே கட்டிக்கொண்டு வாழ்கின்ற அறிவிலி பிறந்த குடி, அவன் அழிவதற்கு முன்னதாகவே அழிந்துவிடும்.",
+      "en": "The family into which a fool who cherishes sloth is born will perish even before he himself does.",
+      "hi": "जो मूर्ख आलस्य को गोद में लेकर उसी में विलास करता रहता है, उसके मरने से पहले ही उसके अपने वंश का नाश हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மடி மடிக் கொண்டு <br>(Madi madik kondu)",
+          "ta": "சோம்பலை மடியில் கட்டிக்கொண்டு",
+          "en": "Fosters indolence",
+          "hi": "गोद लिये आलस्य को"
+        },
+        {
+          "no": 2,
+          "word": "ஒழுகும் <br>(Ozhugum)",
+          "ta": "வாழ்கின்ற",
+          "en": "Lives",
+          "hi": "करे विलास"
+        },
+        {
+          "no": 3,
+          "word": "பேதை <br>(Pedhai)",
+          "ta": "அறிவிலி",
+          "en": "The silly elf",
+          "hi": "जो जड़"
+        },
+        {
+          "no": 4,
+          "word": "பிறந்த குடி <br>(Pirandha kudi)",
+          "ta": "பிறந்த குடியானது",
+          "en": "House from which he springs",
+          "hi": "जात-वंश का"
+        },
+        {
+          "no": 5,
+          "word": "மடியும் <br>(Madiyum)",
+          "ta": "அழிந்து போகும்",
+          "en": "Shall perish",
+          "hi": "नाश होगा"
+        },
+        {
+          "no": 6,
+          "word": "தன்னினும் <br>(Thanninum)",
+          "ta": "அவனை விட",
+          "en": "Ere himself",
+          "hi": "उसके पूर्व ही"
+        },
+        {
+          "no": 7,
+          "word": "முந்து <br>(Mundhu)",
+          "ta": "முன்னதாகவே",
+          "en": "Before",
+          "hi": "पूर्व ही"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மடிமடிக்கொண் டொழுகும் பேதை பிறந்த",
+          "line2": "குடிமடியுந் தன்னினு முந்து."
+        },
+        "en": {
+          "line1": "Who fosters indolence within his breast, the silly elf!",
+          "line2": "The house from which he springs shall perish ere himself."
+        },
+        "hi": {
+          "line1": "गोद लिये आलस्य को, जो जड़ करे विलास ।",
+          "line2": "होगा उसके पूर्व ही, जात-वंश का नाश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Madimadikkon Dozhugum Pedhai Pirandha",
+            "line2": "Kudimadiyun Thanninu Mundhu."
+          },
+          "hi": {
+            "line1": "मडिमडिक्कॊण् डॊऴुगुम् पेदै पिरन्द",
+            "line2": "कुडिमडियुन् तन्निनु मुन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சோம்பலைத் தன் மடியிலே கட்டிக்கொண்டு வாழ்கின்ற அறிவிலி பிறந்த குடி, அவன் அழிவதற்கு முன்னதாகவே அழிந்துவிடும்.",
+        "en": "Someone who hugs laziness as a lifestyle sinks their family's standing long before their own life ends.",
+        "hi": "जो मूर्ख आलस्य को गोद में लेकर उसी में विलास करता रहता है, उसके मरने से पहले ही उसके अपने वंश का नाश हो जाता है।"
+      }
+    },
+    {
+      "num": 604,
+      "line1": "குடிமடிந்து குற்றம் பெருகு மடிமடிந்து",
+      "line2": "மாண்ட வுஞற்றி லவர்க்கு.",
+      "enLine1": "His family decays, and faults unheeded thrive,",
+      "enLine2": "Who, sunk in sloth, for noble objects doth not strive.",
+      "hiLine1": "जो सुस्ती में मग्न हों, यत्न बिना सुविशेष ।",
+      "hiLine2": "तो उनका कुल नष्ट हो, बढ़ें दोष निःशेष ॥",
+      "general": "சோம்பலில் மூழ்கிச் சிறந்த முயற்சி இல்லாதவர்களுக்கு, அவர்களுடைய குடி அழிந்து குற்றங்கள் பெருகும்.",
+      "en": "For those who sink into sloth and lack noble effort, their family falls into ruin and their faults multiply.",
+      "hi": "जो लोग बिना किसी विशेष प्रयास के सुस्ती (आलस्य) में मग्न रहते हैं, उनका कुल नष्ट हो जाता है और उनके सारे दोष बढ़ते जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குடி மடிந்து <br>(Kudi madindhu)",
+          "ta": "குடி அழிந்து",
+          "en": "His family decays",
+          "hi": "उनका कुल नष्ट हो"
+        },
+        {
+          "no": 2,
+          "word": "குற்றம் <br>(Kutram)",
+          "ta": "குற்றங்கள்",
+          "en": "Faults",
+          "hi": "दोष"
+        },
+        {
+          "no": 3,
+          "word": "பெருகும் <br>(Perugum)",
+          "ta": "பெருகும்",
+          "en": "Thrive",
+          "hi": "बढ़ें निःशेष"
+        },
+        {
+          "no": 4,
+          "word": "மடி மடிந்து <br>(Madi madindhu)",
+          "ta": "சோம்பலில் மூழ்கி",
+          "en": "Sunk in sloth",
+          "hi": "सुस्ती में मग्न हों"
+        },
+        {
+          "no": 5,
+          "word": "மாண்ட <br>(Maanda)",
+          "ta": "சிறந்த",
+          "en": "Noble objects",
+          "hi": "सुविशेष"
+        },
+        {
+          "no": 6,
+          "word": "உஞற்று <br>(Unyatru)",
+          "ta": "முயற்சி",
+          "en": "Strive",
+          "hi": "यत्न"
+        },
+        {
+          "no": 7,
+          "word": "இலவர்க்கு <br>(Ilavarkku)",
+          "ta": "இல்லாதவர்க்கு",
+          "en": "Doth not",
+          "hi": "बिना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குடிமடிந்து குற்றம் பெருகு மடிமடிந்து",
+          "line2": "மாண்ட வுஞற்றி லவர்க்கு."
+        },
+        "en": {
+          "line1": "His family decays, and faults unheeded thrive,",
+          "line2": "Who, sunk in sloth, for noble objects doth not strive."
+        },
+        "hi": {
+          "line1": "जो सुस्ती में मग्न हों, यत्न बिना सुविशेष ।",
+          "line2": "तो उनका कुल नष्ट हो, बढ़ें दोष निःशेष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kudimadindhu Kutram Perugu Madimadindhu",
+            "line2": "Maanda Vunyatri Lavarkku."
+          },
+          "hi": {
+            "line1": "कुडिमडिन्दु कुत्रम् पॆरुगु मडिमडिन्दु",
+            "line2": "माण्ड वुञत्रि लवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சோம்பலில் மூழ்கிச் சிறந்த முயற்சி இல்லாதவர்களுக்கு, அவர்களுடைய குடி அழிந்து குற்றங்கள் பெருகும்.",
+        "en": "When people stop striving for worthwhile goals and sink into apathy, their reputation decays and flaws multiply.",
+        "hi": "जो लोग बिना किसी विशेष प्रयास के सुस्ती (आलस्य) में मग्न रहते हैं, उनका कुल नष्ट हो जाता है और उनके सारे दोष बढ़ते जाते हैं।"
+      }
+    },
+    {
+      "num": 605,
+      "line1": "நெடுநீர் மறவி மடிதுயி னான்குங்",
+      "line2": "கெடுநீரார் காமக் கலன்.",
+      "enLine1": "Delay, oblivion, sloth, and sleep: these four",
+      "enLine2": "Are pleasure-boat to bear the doomed to ruin's shore.",
+      "hiLine1": "दीर्घसूत्रता, विस्मरण, सुस्ती, निद्रा-चाव ।",
+      "hiLine2": "जो जन चाहें डूबना, चारों हैं प्रिय नाव ॥",
+      "general": "காலம் தாழ்த்துதல், மறதி, சோம்பல், மிகுந்த தூக்கம் ஆகிய நான்கும் அழியும் இயல்புடையவர்கள் விரும்பி ஏறும் மரக்கலமாகும்.",
+      "en": "Procrastination, forgetfulness, sloth, and excessive sleep—these four are the pleasure boat eagerly boarded by those destined for ruin.",
+      "hi": "दीर्घसूत्रता (टालमटोल), विस्मरण (भूलना), सुस्ती और अत्यधिक नींद का शौक — जो लोग डूबना (नष्ट होना) चाहते हैं, उनके लिए ये चारों प्रिय नाव हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நெடுநீர் <br>(Neduneer)",
+          "ta": "காலம் தாழ்த்தல்",
+          "en": "Delay",
+          "hi": "दीर्घसूत्रता"
+        },
+        {
+          "no": 2,
+          "word": "மறவி <br>(Maravi)",
+          "ta": "மறதி",
+          "en": "Oblivion",
+          "hi": "विस्मरण"
+        },
+        {
+          "no": 3,
+          "word": "மடி <br>(Madi)",
+          "ta": "சோம்பல்",
+          "en": "Sloth",
+          "hi": "सुस्ती"
+        },
+        {
+          "no": 4,
+          "word": "துயில் <br>(Thuyil)",
+          "ta": "மிகுந்த தூக்கம்",
+          "en": "And sleep",
+          "hi": "निद्रा-चाव"
+        },
+        {
+          "no": 5,
+          "word": "நான்கும் <br>(Naangum)",
+          "ta": "ஆகிய நான்கும்",
+          "en": "These four",
+          "hi": "चारों हैं"
+        },
+        {
+          "no": 6,
+          "word": "கெடுநீரார் <br>(Keduneeraar)",
+          "ta": "கெடும் இயல்பினர்",
+          "en": "The doomed",
+          "hi": "जो जन चाहें डूबना"
+        },
+        {
+          "no": 7,
+          "word": "காமக் கலன் <br>(Kaamak kalan)",
+          "ta": "விரும்பி ஏறும் கப்பல்",
+          "en": "Pleasure-boat",
+          "hi": "प्रिय नाव"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நெடுநீர் மறவி மடிதுயி னான்குங்",
+          "line2": "கெடுநீரார் காமக் கலன்."
+        },
+        "en": {
+          "line1": "Delay, oblivion, sloth, and sleep: these four",
+          "line2": "Are pleasure-boat to bear the doomed to ruin's shore."
+        },
+        "hi": {
+          "line1": "दीर्घसूत्रता, विस्मरण, सुस्ती, निद्रा-चाव ।",
+          "line2": "जो जन चाहें डूबना, चारों हैं प्रिय नाव ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Neduneer Maravi Madithuyi Naangung",
+            "line2": "Keduneeraar Kaamak Kalan."
+          },
+          "hi": {
+            "line1": "नॆडुनीर् मऱवि मडितुयि नान्गुङ्",
+            "line2": "कॆडुनीरार् कामक् कलन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "காலம் தாழ்த்துதல், மறதி, சோம்பல், மிகுந்த தூக்கம் ஆகிய நான்கும் அழியும் இயல்புடையவர்கள் விரும்பி ஏறும் மரக்கலமாகும்.",
+        "en": "Procrastination, forgetfulness, laziness, and oversleeping are the four-seat boat straight to self-sabotage.",
+        "hi": "दीर्घसूत्रता (टालमटोल), विस्मरण (भूलना), सुस्ती और अत्यधिक नींद का शौक — जो लोग डूबना (नष्ट होना) चाहते हैं, उनके लिए ये चारों प्रिय नाव हैं।"
+      }
+    },
+    {
+      "num": 606,
+      "line1": "படியுடையார் பற்றமைந்தக் கண்ணு மடியுடையார்",
+      "line2": "மாண்பய னெய்த லரிது.",
+      "enLine1": "Though lords of earth unearned possessions gain,",
+      "enLine2": "The slothful ones no yield of good obtain.",
+      "hiLine1": "सार्वभौम की श्री स्वयं, चाहे आवे पास ।",
+      "hiLine2": "तो भी जो हैं आलसी, पावें नहिं फल खास ॥",
+      "general": "மண்ணுலகை ஆளும் செல்வந்தரது தொடர்பு இயல்பாகவே கிடைத்தாலும், சோம்பல் உடையவர்கள் சிறந்த பயனை அடைவது அரிதாகும்.",
+      "en": "Even if the wealth of kings comes within their reach, the slothful rarely achieve any lasting, noble benefit.",
+      "hi": "चाहे सार्वभौम चक्रवर्ती राजा की राजलक्ष्मी भी स्वयं उनके पास क्यों न आ जाए, फिर भी आलसी लोगों को उससे कोई विशेष फल प्राप्त नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "படியுடையார் <br>(Padiyudaiyaar)",
+          "ta": "உலகை ஆள்வோரின்",
+          "en": "Lords of earth",
+          "hi": "सार्वभौम की"
+        },
+        {
+          "no": 2,
+          "word": "பற்று அமைந்தக்கண்ணும் <br>(Patru amaindhakkannum)",
+          "ta": "செல்வம் கைகூடிய போதும்",
+          "en": "Possessions gain",
+          "hi": "श्री स्वयं आवे पास"
+        },
+        {
+          "no": 3,
+          "word": "மடியுடையார் <br>(Madiyudaiyaar)",
+          "ta": "சோம்பல் உடையவர்",
+          "en": "The slothful ones",
+          "hi": "जो हैं आलसी"
+        },
+        {
+          "no": 4,
+          "word": "மாண் பயன் <br>(Maan payan)",
+          "ta": "சிறந்த பயனை",
+          "en": "Yield of good",
+          "hi": "फल खास"
+        },
+        {
+          "no": 5,
+          "word": "எய்தல் <br>(Eydhal)",
+          "ta": "அடைவது",
+          "en": "Obtain",
+          "hi": "पावें"
+        },
+        {
+          "no": 6,
+          "word": "அரிது <br>(Aridhu)",
+          "ta": "அரிதாகும்",
+          "en": "No / rarely",
+          "hi": "नहिं"
+        },
+        {
+          "no": 7,
+          "word": "பற்று <br>(Patru)",
+          "ta": "உறவு",
+          "en": "Hold",
+          "hi": "पास"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "படியுடையார் பற்றமைந்தக் கண்ணு மடியுடையார்",
+          "line2": "மாண்பய னெய்த லரிது."
+        },
+        "en": {
+          "line1": "Though lords of earth unearned possessions gain,",
+          "line2": "The slothful ones no yield of good obtain."
+        },
+        "hi": {
+          "line1": "सार्वभौम की श्री स्वयं, चाहे आवे पास ।",
+          "line2": "तो भी जो हैं आलसी, पावें नहिं फल खास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Padiyudaiyaar Patramaindhak Kannu Madiyudaiyaar",
+            "line2": "Maanpaya Neydha Laridhu."
+          },
+          "hi": {
+            "line1": "पडियुडैयार् पत्रमैन्दक् कण्णु मडियुडैयार्",
+            "line2": "माण्पय नॆय्द लरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மண்ணுலகை ஆளும் செல்வந்தரது தொடர்பு இயல்பாகவே கிடைத்தாலும், சோம்பல் உடையவர்கள் சிறந்த பயனை அடைவது அரிதாகும்.",
+        "en": "Even if massive resources or privilege fall into their lap, lazy people rarely turn them into anything meaningful.",
+        "hi": "चाहे सार्वभौम चक्रवर्ती राजा की राजलक्ष्मी भी स्वयं उनके पास क्यों न आ जाए, फिर भी आलसी लोगों को उससे कोई विशेष फल प्राप्त नहीं होता।"
+      }
+    },
+    {
+      "num": 607,
+      "line1": "இடிபுரிந் தெள்ளுஞ்சொற் கேட்பர் மடிபுரிந்து",
+      "line2": "மாண்ட வுஞற்றி லவர்.",
+      "enLine1": "Who hug their sloth, nor noble works attempt,",
+      "enLine2": "Shall hear reproofs and words of just contempt.",
+      "hiLine1": "सुस्ती-प्रिय बन, यत्न सुठि, करते नहिं जो लोग ।",
+      "hiLine2": "डांट तथा उपहास भी, सुनते हैं वे लोग ॥",
+      "general": "சோம்பலை விரும்பிப் போற்றிச் சிறந்த முயற்சி இல்லாதவர்கள், பிறர் இடித்துரைக்கும் கடுஞ்சொற்களையும் இகழ்ச்சிச் சொற்களையும் கேட்பார்கள்.",
+      "en": "Those who cling to sloth and make no worthy effort will face sharp rebukes and words of contempt.",
+      "hi": "जो लोग सुस्ती के प्रेमी बनकर भली-भाँति प्रयत्न नहीं करते, उन्हें दूसरों से डाँट और उपहास के वचन सुनने पड़ते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இடி புரிந்து <br>(Idi purindhu)",
+          "ta": "கடிந்துரைத்தும்",
+          "en": "Reproofs",
+          "hi": "डांट तथा"
+        },
+        {
+          "no": 2,
+          "word": "எள்ளும் சொல் <br>(Ellum sol)",
+          "ta": "இகழும் சொற்களையும்",
+          "en": "Words of contempt",
+          "hi": "उपहास भी"
+        },
+        {
+          "no": 3,
+          "word": "கேட்பர் <br>(Ketpar)",
+          "ta": "கேட்பார்கள்",
+          "en": "Shall hear",
+          "hi": "सुनते हैं"
+        },
+        {
+          "no": 4,
+          "word": "மடி புரிந்து <br>(Madi purindhu)",
+          "ta": "சோம்பலை விரும்பி",
+          "en": "Who hug their sloth",
+          "hi": "सुस्ती-प्रिय बन"
+        },
+        {
+          "no": 5,
+          "word": "மாண்ட <br>(Maanda)",
+          "ta": "சிறந்த",
+          "en": "Noble works",
+          "hi": "सुठि"
+        },
+        {
+          "no": 6,
+          "word": "உஞற்று <br>(Unyatru)",
+          "ta": "முயற்சி",
+          "en": "Attempt",
+          "hi": "यत्न"
+        },
+        {
+          "no": 7,
+          "word": "இலவர் <br>(Ilavar)",
+          "ta": "இல்லாதவர்",
+          "en": "Nor",
+          "hi": "करते नहिं जो लोग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இடிபுரிந் தெள்ளுஞ்சொற் கேட்பர் மடிபுரிந்து",
+          "line2": "மாண்ட வுஞற்றி லவர்."
+        },
+        "en": {
+          "line1": "Who hug their sloth, nor noble works attempt,",
+          "line2": "Shall hear reproofs and words of just contempt."
+        },
+        "hi": {
+          "line1": "सुस्ती-प्रिय बन, यत्न सुठि, करते नहिं जो लोग ।",
+          "line2": "डांट तथा उपहास भी, सुनते हैं वे लोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Idipurin Dhellunjor Ketpar Madipurindhu",
+            "line2": "Maanda Vunyatri Lavar."
+          },
+          "hi": {
+            "line1": "इडिपुरिन् दॆळ्ळुञ्चॊर् केट्पर् मडिपुरिन्दु",
+            "line2": "माण्ड वुञत्रि लवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சோம்பலை விரும்பிப் போற்றிச் சிறந்த முயற்சி இல்லாதவர்கள், பிறர் இடித்துரைக்கும் கடுஞ்சொற்களையும் இகழ்ச்சிச் சொற்களையும் கேட்பார்கள்.",
+        "en": "People who choose comfort over effort inevitably end up listening to scolding and ridicule.",
+        "hi": "जो लोग सुस्ती के प्रेमी बनकर भली-भाँति प्रयत्न नहीं करते, उन्हें दूसरों से डाँट और उपहास के वचन सुनने पड़ते हैं।"
+      }
+    },
+    {
+      "num": 608,
+      "line1": "மடிமை குடிமைக்கட் டங்கிற்றன் னொன்னார்க்",
+      "line2": "கடிமை புகுத்தி விடும்.",
+      "enLine1": "If sloth a dwelling find mid noble family,",
+      "enLine2": "Bondsmen to them that hate them shall they be.",
+      "hiLine1": "घर कर ले आलस्य यदि, रह कुलीन के पास ।",
+      "hiLine2": "उसके रिपु के वश उसे, बनायगा वह दास ॥",
+      "general": "உயர்ந்த குடிப்பிறப்பில் சோம்பல் வந்து தங்கிவிட்டால், அது அவர்களைத் தம் பகைவர்களுக்கு அடிமையாக்கிவிடும்.",
+      "en": "If sloth takes up residence in a noble family, it will reduce them to servitude under their own enemies.",
+      "hi": "यदि उच्च कुलीन व्यक्ति के पास आलस्य आकर घर कर ले, तो वह उसे उसके ही शत्रुओं के वश में करके उनका दास बना देता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மடிமை <br>(Madimai)",
+          "ta": "சோம்பல்",
+          "en": "Sloth",
+          "hi": "आलस्य"
+        },
+        {
+          "no": 2,
+          "word": "குடிமைக்கண் <br>(Kudimaikkan)",
+          "ta": "உயர்குடியில்",
+          "en": "Mid noble family",
+          "hi": "कुलीन के पास"
+        },
+        {
+          "no": 3,
+          "word": "தங்கின் <br>(Thangin)",
+          "ta": "தங்கிவிட்டால்",
+          "en": "Dwelling find",
+          "hi": "घर कर ले यदि"
+        },
+        {
+          "no": 4,
+          "word": "தன் ஒன்னார்க்கு <br>(Than onnaarkku)",
+          "ta": "தன் பகைவர்க்கு",
+          "en": "Them that hate them",
+          "hi": "उसके रिपु के वश"
+        },
+        {
+          "no": 5,
+          "word": "அடிமை <br>(Adimai)",
+          "ta": "அடிமைத்தனத்தில்",
+          "en": "Bondsmen",
+          "hi": "दास"
+        },
+        {
+          "no": 6,
+          "word": "புகுத்தி <br>(Puguththi)",
+          "ta": "புகுத்தி",
+          "en": "Make",
+          "hi": "बनायगा"
+        },
+        {
+          "no": 7,
+          "word": "விடும் <br>(Vidum)",
+          "ta": "விடும்",
+          "en": "Shall be",
+          "hi": "वह"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மடிமை குடிமைக்கட் டங்கிற்றன் னொன்னார்க்",
+          "line2": "கடிமை புகுத்தி விடும்."
+        },
+        "en": {
+          "line1": "If sloth a dwelling find mid noble family,",
+          "line2": "Bondsmen to them that hate them shall they be."
+        },
+        "hi": {
+          "line1": "घर कर ले आलस्य यदि, रह कुलीन के पास ।",
+          "line2": "उसके रिपु के वश उसे, बनायगा वह दास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Madimai Kudimaikkat Tangitran Nonnaark",
+            "line2": "Kadimai Puguththi Vidum."
+          },
+          "hi": {
+            "line1": "मडिमै कुडिमैक्कड् टङ्गित्रन् नॊन्नार्क्",
+            "line2": "कडिमै पुगुत्ति विडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உயர்ந்த குடிப்பிறப்பில் சோம்பல் வந்து தங்கிவிட்டால், அது அவர்களைத் தம் பகைவர்களுக்கு அடிமையாக்கிவிடும்.",
+        "en": "Once laziness settles into a proud household, it hands their independence straight over to their rivals.",
+        "hi": "यदि उच्च कुलीन व्यक्ति के पास आलस्य आकर घर कर ले, तो वह उसे उसके ही शत्रुओं के वश में करके उनका दास बना देता है।"
+      }
+    },
+    {
+      "num": 609,
+      "line1": "குடியாண்மை யுள்வந்த குற்ற மொருவன்",
+      "line2": "மடியாண்மை மாற்றக் கெடும்.",
+      "enLine1": "Who changes slothful habits saves",
+      "enLine2": "Himself from all that household rule depraves.",
+      "hiLine1": "सुस्ती-पालन बान का, कर देगा यदि अंत ।",
+      "hiLine2": "वंश और पुरुषार्थ में, लगे दोष हों अंत ॥",
+      "general": "ஒருவன் தன் சோம்பல் ஆளுகையை நீக்கிவிட்டால், அவனது குடிப்பெருமையில் வந்து சேர்ந்த குற்றங்கள் அனைத்தும் நீங்கிவிடும்.",
+      "en": "When a person puts an end to the rule of sloth in their life, every blemish that has crept into their family's honor vanishes.",
+      "hi": "यदि मनुष्य सुस्ती पालने की अपनी आदत का अंत कर दे, तो उसके वंश और पुरुषार्थ में लगे हुए सभी दोष समाप्त हो जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குடியாண்மையுள் <br>(Kudiyaanmaiyul)",
+          "ta": "குடிப்பெருமையில்",
+          "en": "Household rule",
+          "hi": "वंश और पुरुषार्थ में"
+        },
+        {
+          "no": 2,
+          "word": "வந்த <br>(Vandha)",
+          "ta": "வந்து சேர்ந்த",
+          "en": "That came",
+          "hi": "लगे"
+        },
+        {
+          "no": 3,
+          "word": "குற்றம் <br>(Kutram)",
+          "ta": "குற்றங்கள்",
+          "en": "All that depraves",
+          "hi": "दोष"
+        },
+        {
+          "no": 4,
+          "word": "ஒருவன் <br>(Oruvan)",
+          "ta": "ஒருவன்",
+          "en": "One",
+          "hi": "मनुष्य"
+        },
+        {
+          "no": 5,
+          "word": "மடியாண்மை <br>(Madiyaanmai)",
+          "ta": "சோம்பலின் ஆளுகையை",
+          "en": "Slothful habits",
+          "hi": "सुस्ती-पालन बान का"
+        },
+        {
+          "no": 6,
+          "word": "மாற்ற <br>(Maatra)",
+          "ta": "நீக்கினால்",
+          "en": "Who changes",
+          "hi": "कर देगा यदि अंत"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "நீங்கி அழியும்",
+          "en": "Saves / vanishes",
+          "hi": "हों अंत"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குடியாண்மை யுள்வந்த குற்ற மொருவன்",
+          "line2": "மடியாண்மை மாற்றக் கெடும்."
+        },
+        "en": {
+          "line1": "Who changes slothful habits saves",
+          "line2": "Himself from all that household rule depraves."
+        },
+        "hi": {
+          "line1": "सुस्ती-पालन बान का, कर देगा यदि अंत ।",
+          "line2": "वंश और पुरुषार्थ में, लगे दोष हों अंत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kudiyaanmaiyul Vandha Kutram Oruvan",
+            "line2": "Madiyaanmai Maatra Kedum."
+          },
+          "hi": {
+            "line1": "कुडियाण्मै युळ्वन्द कुत्र मॊरुवन्",
+            "line2": "मडियाण्मै मात्रक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் தன் சோம்பல் ஆளுகையை நீக்கிவிட்டால், அவனது குடிப்பெருமையில் வந்து சேர்ந்த குற்றங்கள் அனைத்தும் நீங்கிவிடும்.",
+        "en": "Drop the habit of laziness, and the stains on your reputation and leadership start clearing up immediately.",
+        "hi": "यदि मनुष्य सुस्ती पालने की अपनी आदत का अंत कर दे, तो उसके वंश और पुरुषार्थ में लगे हुए सभी दोष समाप्त हो जाते हैं।"
+      }
+    },
+    {
+      "num": 610,
+      "line1": "மடியிலா மன்னவ னெய்து மடியளந்தான்",
+      "line2": "றாஅய தெல்லா மொருங்கு.",
+      "enLine1": "The king whose life from sluggishness is rid,",
+      "enLine2": "Shall rule o'er all by foot of mighty god bestrid.",
+      "hiLine1": "कदम बढ़ा कर विष्णु ने, जिसे किया था व्याप्त ।",
+      "hiLine2": "वह सब आलसहीन नृप, करे एकदम प्राप्त ॥",
+      "general": "சோம்பல் இல்லாத அரசன், திருவடியால் உலகத்தை அளந்த திருமால் தாவிய நிலப்பரப்பு முழுவதையும் ஒருங்கே அடைவான்.",
+      "en": "A king free from sloth will attain in full all the realms measured by the stride of the mighty god (Vishnu).",
+      "hi": "भगवान विष्णु ने अपने कदम बढ़ाकर जिस सम्पूर्ण विश्व को नाप लिया था, आलस्यहीन राजा उस सबको एक साथ प्राप्त कर लेता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மடி இலா <br>(Madi ilaa)",
+          "ta": "சோம்பல் இல்லாத",
+          "en": "From sluggishness rid",
+          "hi": "आलसहीन"
+        },
+        {
+          "no": 2,
+          "word": "மன்னவன் <br>(Mannavan)",
+          "ta": "அரசன்",
+          "en": "The king",
+          "hi": "नृप"
+        },
+        {
+          "no": 3,
+          "word": "எய்தும் <br>(Eydhum)",
+          "ta": "அடைவான்",
+          "en": "Shall rule / attain",
+          "hi": "करे प्राप्त"
+        },
+        {
+          "no": 4,
+          "word": "அடி அளந்தான் <br>(Adi alandhaan)",
+          "ta": "திருவடியால் அளந்த திருமால்",
+          "en": "Foot of mighty god",
+          "hi": "कदम बढ़ा कर विष्णु ने"
+        },
+        {
+          "no": 5,
+          "word": "தாஅயது <br>(Thaaayadhu)",
+          "ta": "தாவி அளந்த",
+          "en": "Bestrid",
+          "hi": "जिसे किया था व्याप्त"
+        },
+        {
+          "no": 6,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "உலகம் முழுவதையும்",
+          "en": "O'er all",
+          "hi": "वह सब"
+        },
+        {
+          "no": 7,
+          "word": "ஒருங்கு <br>(Orungu)",
+          "ta": "ஒருங்கே",
+          "en": "Together",
+          "hi": "एकदम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மடியிலா மன்னவ னெய்து மடியளந்தான்",
+          "line2": "றாஅய தெல்லா மொருங்கு."
+        },
+        "en": {
+          "line1": "The king whose life from sluggishness is rid,",
+          "line2": "Shall rule o'er all by foot of mighty god bestrid."
+        },
+        "hi": {
+          "line1": "कदम बढ़ा कर विष्णु ने, जिसे किया था व्याप्त ।",
+          "line2": "वह सब आलसहीन नृप, करे एकदम प्राप्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Madiyilaa Mannava Neydhu Madiyalandhaan",
+            "line2": "Raaaya Dhellaa Morungu."
+          },
+          "hi": {
+            "line1": "मडियिला मन्नव नॆय्दु मडियळन्दान्",
+            "line2": "ऱाअय दॆल्ला मॊरुङ्गु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சோம்பல் இல்லாத அரசன், திருவடியால் உலகத்தை அளந்த திருமால் தாவிய நிலப்பரப்பு முழுவதையும் ஒருங்கே அடைவான்.",
+        "en": "A tireless, energetic leader can achieve reach and influence that spans the entire world.",
+        "hi": "भगवान विष्णु ने अपने कदम बढ़ाकर जिस सम्पूर्ण विश्व को नाप लिया था, आलस्यहीन राजा उस सबको एक साथ प्राप्त कर लेता है।"
+      }
+    }
+  ]
+}

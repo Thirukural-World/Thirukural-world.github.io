@@ -1,0 +1,930 @@
+{
+  "chapterNum": 1,
+  "nameTa": "கடவுள் வாழ்த்து",
+  "nameEn": "The Praise of God",
+  "nameHi": "ईश्वर-स्तुति",
+  "paal": "அறத்துப்பால்",
+  "iyal": "பாயிறவியல்",
+  "kurals": [
+    {
+      "num": 1,
+      "line1": "அகர முதல எழுத்தெல்லாம் ஆதி",
+      "line2": "பகவன் முதற்றே உலகு.",
+      "enLine1": "A, as its first of letters, every speech maintains;",
+      "enLine2": "The 'Primal Deity' is first through all the world's domains.",
+      "hiLine1": "अक्षर सबके आदि में, है अकार का स्थान ।",
+      "hiLine2": "अखिल लोक का आदि तो, रहा आदि भगवान ॥",
+      "general": "அகர எழுத்துக்களுக்கு முதலாக இருப்பது போல, உலகமானது கடவுளாகிய முதற்பொருளை அடிப்படையாகக் கொண்டுள்ளது.",
+      "en": "As all letters have the letter A for their first, so the world has the eternal God for its first.",
+      "hi": "जैसे सभी वर्णों की शुरुआत 'अ' से होती है, वैसे ही यह संसार आदि भगवान (ईश्वर) पर आधारित है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அகர <br>(Akara)",
+          "ta": "'அ' என்னும் எழுத்து",
+          "en": "The letter A",
+          "hi": "अ अक्षर"
+        },
+        {
+          "no": 2,
+          "word": "முதல <br>(Muthala)",
+          "ta": "முதலாகக் கொண்டவை",
+          "en": "First of all",
+          "hi": "प्रारंभ"
+        },
+        {
+          "no": 3,
+          "word": "எழுத்தெல்லாம் <br>(Ezhuthellaam)",
+          "ta": "எழுத்துக்கள் யாவும்",
+          "en": "All letters",
+          "hi": "सभी अक्षर"
+        },
+        {
+          "no": 4,
+          "word": "ஆதி <br>(Aathi)",
+          "ta": "கடவுளாகிய",
+          "en": "The Primal",
+          "hi": "आदि"
+        },
+        {
+          "no": 5,
+          "word": "பகவன் <br>(Pakavan)",
+          "ta": "முதற்பொருளானவன்",
+          "en": "God / Lord",
+          "hi": "भगवान"
+        },
+        {
+          "no": 6,
+          "word": "முதற்றே <br>(Mutratre)",
+          "ta": "முதன்மையாகக் கொண்டது",
+          "en": "Is the first",
+          "hi": "आधार है"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulaku)",
+          "ta": "இந்த உலகம்",
+          "en": "This world",
+          "hi": "संसार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அகர முதல எழுத்தெல்லாம் ஆதி",
+          "line2": "பகவன் முதற்றே உலகு."
+        },
+        "en": {
+          "line1": "A, as its first of letters, every speech maintains;",
+          "line2": "The 'Primal Deity' is first through all the world's domains."
+        },
+        "hi": {
+          "line1": "अक्षर सबके आदि में, है अकार का स्थान ।",
+          "line2": "अखिल लोक का आदि तो, रहा आदि भगवान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Akara Muthala Ezhuthellaam Aathi",
+            "line2": "Pakavan Mutratre Ulaku."
+          },
+          "hi": {
+            "line1": "अगर मुदल एऴुत्तेल्लाम् आदि",
+            "line2": "पगवन् मुदत्रे उलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அகர எழுத்துக்களுக்கு முதலாக இருப்பது போல, உலகமானது கடவுளாகிய முதற்பொருளை அடிப்படையாகக் கொண்டுள்ளது.",
+        "en": "Just as the letter A is the first of all letters, God is the first cause and foundation of the world.",
+        "hi": "जैसे सभी वर्णों की शुरुआत 'अ' से होती है, वैसे ही यह संसार आदि भगवान (ईश्वर) पर आधारित है।"
+      }
+    },
+    {
+      "num": 2,
+      "line1": "கற்றதனால் ஆய பயனென்கொல் வாலறிவன்",
+      "line2": "நற்றாள் தொழாஅர் எனின்.",
+      "enLine1": "No fruit have men of all their studied lore,",
+      "enLine2": "Save they the 'Purely Wise One's' feet adore.",
+      "hiLine1": "विद्योपार्जन भी भला, क्या आयेगा काम ।",
+      "hiLine2": "श्रीपद पर सत्याज्ञ के, यदि नहिं किया प्रणाम ॥",
+      "general": "தூய அறிவு வடிவாய் விளங்கும் இறைவனின் நல்ல திருவடிகளைத் தொழுது வணங்காதவர்கள், தாம் கற்ற கல்வியால் பெற்ற பயன் என்ன?",
+      "en": "What is the use of learning if one does not worship the good feet of Him who is possessed of pure intelligence?",
+      "hi": "यदि शुद्ध ज्ञान स्वरूप ईश्वर के पवित्र चरणों की वंदना न की जाए, तो समस्त विद्याओं के अध्ययन का भला क्या लाभ?",
+      "words": [
+        {
+          "no": 1,
+          "word": "கற்றதனால் <br>(Katradhanaal)",
+          "ta": "கற்ற கல்வியால்",
+          "en": "By what was learned",
+          "hi": "विद्योपार्जन से"
+        },
+        {
+          "no": 2,
+          "word": "ஆய <br>(Aaya)",
+          "ta": "உண்டான",
+          "en": "Resulting / obtained",
+          "hi": "प्राप्त होने वाला"
+        },
+        {
+          "no": 3,
+          "word": "பயனென்கொல் <br>(Payanenkol)",
+          "ta": "பயன் என்ன இருக்கிறது",
+          "en": "What fruit is there",
+          "hi": "क्या लाभ है"
+        },
+        {
+          "no": 4,
+          "word": "வாலறிவன் <br>(Vaalarivan)",
+          "ta": "தூய அறிவுடைய இறைவனின்",
+          "en": "Of the Purely Wise One",
+          "hi": "सत्यज्ञ ईश्वर के"
+        },
+        {
+          "no": 5,
+          "word": "நற்றாள் <br>(Natraal)",
+          "ta": "நல்ல திருவடிகளை",
+          "en": "Good feet",
+          "hi": "पावन चरणों को"
+        },
+        {
+          "no": 6,
+          "word": "தொழாஅர் <br>(Thozhaaar)",
+          "ta": "தொழுது வணங்கார்",
+          "en": "Do not adore",
+          "hi": "प्रणाम न करें"
+        },
+        {
+          "no": 7,
+          "word": "எனின் <br>(Enin)",
+          "ta": "ஆனால்",
+          "en": "If",
+          "hi": "यदि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கற்றதனால் ஆய பயனென்கொல் வாலறிவன்",
+          "line2": "நற்றாள் தொழாஅர் எனின்."
+        },
+        "en": {
+          "line1": "No fruit have men of all their studied lore,",
+          "line2": "Save they the 'Purely Wise One's' feet adore."
+        },
+        "hi": {
+          "line1": "विद्योपार्जन भी भला, क्या आयेगा काम ।",
+          "line2": "श्रीपद पर सत्याज्ञ के, यदि नहिं किया प्रणाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Katradhanaal Aaya Payanenkol Vaalarivan",
+            "line2": "Natraal Thozhaaar Enin."
+          },
+          "hi": {
+            "line1": "कत्रदनाल् आय पयनॆन्कॊल् वालरिवन्",
+            "line2": "नत्राळ् तॊऴाअर् एनिन."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தூய அறிவு வடிவாய் விளங்கும் இறைவனின் நல்ல திருவடிகளைத் தொழுது வணங்காதவர்கள், தாம் கற்ற கல்வியால் பெற்ற பயன் என்ன?",
+        "en": "All acquired learning bears no real fruit unless one bows in devotion before the Purely Wise Supreme.",
+        "hi": "यदि शुद्ध ज्ञान स्वरूप ईश्वर के पवित्र चरणों की वंदना न की जाए, तो समस्त विद्याओं के अध्ययन का भला क्या लाभ?"
+      }
+    },
+    {
+      "num": 3,
+      "line1": "மலர்மிசை ஏகினான் மாணடி சேர்ந்தார்",
+      "line2": "நிலமிசை நீடுவாழ் வார்.",
+      "enLine1": "His feet, 'Who o'er the full-blown flower hath past,' who gain",
+      "enLine2": "In bliss long time shall dwell above this earthly plain.",
+      "hiLine1": "हृदय-पद्म-गत ईश के, पाद-पद्म जो पाय ।",
+      "hiLine2": "श्रेयस्कर वरलोक में, चिरजीवी रह जाय ॥",
+      "general": "அன்பரின் அகமாகிய மலரில் வீற்றிருக்கும் இறைவனின் சிறந்த திருவடிகளைப் பொருந்தி நினைப்பவர், இன்ப உலகில் நெடுங்காலம் வாழ்வார்கள்.",
+      "en": "They who are united to the glorious feet of Him who occupies swiftly the flower of the mind shall flourish in the highest of worlds.",
+      "hi": "जो मनुष्य हृदय-कमल में विराजमान ईश्वर के चरण-कमलों की शरण पा लेते हैं, वे श्रेष्ठ परमधाम में चिरंजीवी होकर निवास करते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மலர்மிசை <br>(Malarmisai)",
+          "ta": "அகமலரின் மீது",
+          "en": "Upon the flower (of the heart)",
+          "hi": "हृदय-कमल में"
+        },
+        {
+          "no": 2,
+          "word": "ஏகினான் <br>(Ekinaan)",
+          "ta": "வீற்றிருக்கும் இறைவனின்",
+          "en": "Of Him who walks/dwells",
+          "hi": "विराजमान ईश के"
+        },
+        {
+          "no": 3,
+          "word": "மாணடி <br>(Maanadi)",
+          "ta": "மாட்சிமை பொருந்திய திருவடிகளை",
+          "en": "Glorious feet",
+          "hi": "पावन चरणों को"
+        },
+        {
+          "no": 4,
+          "word": "சேர்ந்தார் <br>(Serndhaar)",
+          "ta": "பொருந்தி அடைந்தவர்கள்",
+          "en": "Those who gain/reach",
+          "hi": "जो प्राप्त करते हैं"
+        },
+        {
+          "no": 5,
+          "word": "நிலமிசை <br>(Nilamisai)",
+          "ta": "மேலான வீட்டுலகத்தில்",
+          "en": "In the supreme realm",
+          "hi": "श्रेष्ठ लोक में"
+        },
+        {
+          "no": 6,
+          "word": "நீடுவாழ் <br>(Needuvaazh)",
+          "ta": "நெடுங்காலம் வாழ்வார்",
+          "en": "Will live long/eternally",
+          "hi": "चिरजीवी रहते"
+        },
+        {
+          "no": 7,
+          "word": "வார் <br>(Vaar)",
+          "ta": "கள்",
+          "en": "They who",
+          "hi": "हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மலர்மிசை ஏகினான் மாணடி சேர்ந்தார்",
+          "line2": "நிலமிசை நீடுவாழ் வார்."
+        },
+        "en": {
+          "line1": "His feet, 'Who o'er the full-blown flower hath past,' who gain",
+          "line2": "In bliss long time shall dwell above this earthly plain."
+        },
+        "hi": {
+          "line1": "हृदय-पद्म-गत ईश के, पाद-पद्म जो पाय ।",
+          "line2": "श्रेयस्कर वरलोक में, चिरजीवी रह जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Malarmisai Ekinaan Maanadi Serndhaar",
+            "line2": "Nilamisai Needuvaazh Vaar."
+          },
+          "hi": {
+            "line1": "मलर्मिसै एगिनान् माणडि सेर्न्दार्",
+            "line2": "निलमिसै नीडुवाऴ् वार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அன்பரின் அகமாகிய மலரில் வீற்றிருக்கும் இறைவனின் சிறந்த திருவடிகளைப் பொருந்தி நினைப்பவர், இன்ப உலகில் நெடுங்காலம் வாழ்வார்கள்.",
+        "en": "Those who take refuge at the glorious feet of God—who dwells in the lotus of the devoted heart—enjoy eternal bliss beyond this earthly realm.",
+        "hi": "जो मनुष्य हृदय-कमल में विराजमान ईश्वर के चरण-कमलों की शरण पा लेते हैं, वे श्रेष्ठ परमधाम में चिरंजीवी होकर निवास करते हैं।"
+      }
+    },
+    {
+      "num": 4,
+      "line1": "வேண்டுதல் வேண்டாமை இல்லான் அடிசேர்ந்தார்க்கு",
+      "line2": "யாண்டும் இடும்பை இல.",
+      "enLine1": "His foot, 'Whom want affects not, irks not grief,' who gain",
+      "enLine2": "Shall not, through every time, of any woes complain.",
+      "hiLine1": "राग-द्वेष विहीन के, चरणाश्रित जो लोग ।",
+      "hiLine2": "दुःख न दे उनको कभी, भव-बाधा का रोग ॥",
+      "general": "விருப்பும் வெறுப்பும் இல்லாத இறைவனின் திருவடிகளைப் பொருந்தி நிற்பவர்களுக்கு, எக்காலத்திலும் எவ்விடத்திலும் துன்பம் இல்லை.",
+      "en": "To those who meditate on the feet of Him who is void of desire or aversion, evil shall never come.",
+      "hi": "जो लोग राग और द्वेष से रहित ईश्वर के चरणों का आश्रय लेते हैं, उन्हें संसार के दुखों और बाधाओं का रोग कभी नहीं सताता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வேண்டுதல் <br>(Vendudhal)",
+          "ta": "விருப்பும்",
+          "en": "Desire / attachment",
+          "hi": "राग (इच्छा)"
+        },
+        {
+          "no": 2,
+          "word": "வேண்டாமை <br>(Vendaamai)",
+          "ta": "வெறுப்பும்",
+          "en": "Aversion / dislike",
+          "hi": "द्वेष (विरक्ति)"
+        },
+        {
+          "no": 3,
+          "word": "இல்லான் <br>(Illaana)",
+          "ta": "இல்லாத இறைவனின்",
+          "en": "He who is free from",
+          "hi": "से रहित ईश्वर के"
+        },
+        {
+          "no": 4,
+          "word": "அடிசேர்ந்தார்க்கு <br>(Adiserndhaarkku)",
+          "ta": "திருவடிகளை அடைந்தவர்க்கு",
+          "en": "To those who gain His feet",
+          "hi": "चरणाश्रित लोगों को"
+        },
+        {
+          "no": 5,
+          "word": "யாண்டும் <br>(Yaandum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "At any time / ever",
+          "hi": "कभी भी"
+        },
+        {
+          "no": 6,
+          "word": "இடும்பை <br>(Idumbai)",
+          "ta": "துன்பம்",
+          "en": "Woes / sorrow",
+          "hi": "दुख / भव-बाधा"
+        },
+        {
+          "no": 7,
+          "word": "இல <br>(Ila)",
+          "ta": "இல்லை",
+          "en": "There is none",
+          "hi": "नहीं होता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வேண்டுதல் வேண்டாமை இல்லான் அடிசேர்ந்தார்க்கு",
+          "line2": "யாண்டும் இடும்பை இல."
+        },
+        "en": {
+          "line1": "His foot, 'Whom want affects not, irks not grief,' who gain",
+          "line2": "Shall not, through every time, of any woes complain."
+        },
+        "hi": {
+          "line1": "राग-द्वेष विहीन के, चरणाश्रित जो लोग ।",
+          "line2": "दुःख न दे उनको कभी, भव-बाधा का रोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vendudhal Vendaamai Illaan Adiserndhaarkku",
+            "line2": "Yaandum Idumbai Ila."
+          },
+          "hi": {
+            "line1": "वेण्डुदल् वेण्डामै इल्लान् अडिसेंर्न्दार्क्कु",
+            "line2": "याण्डुम् इडुम्बै इल."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "விருப்பும் வெறுப்பும் இல்லாத இறைவனின் திருவடிகளைப் பொருந்தி நிற்பவர்களுக்கு, எக்காலத்திலும் எவ்விடத்திலும் துன்பம் இல்லை.",
+        "en": "Those who cling to the feet of the Divine—who is untouched by craving or aversion—will never be overwhelmed by sorrow at any time.",
+        "hi": "जो लोग राग और द्वेष से रहित ईश्वर के चरणों का आश्रय लेते हैं, उन्हें संसार के दुखों और बाधाओं का रोग कभी नहीं सताता।"
+      }
+    },
+    {
+      "num": 5,
+      "line1": "இருள்சேர் இருவினையும் சேரா இறைவன்",
+      "line2": "பொருள்சேர் புகழ்புரிந்தார் மாட்டு.",
+      "enLine1": "The men, who on the 'King's' true praise delight to dwell,",
+      "enLine2": "Affects not them the fruit of deeds done ill or well.",
+      "hiLine1": "जो रहते हैं ईश के, सत्य भजन में लिप्त ।",
+      "hiLine2": "अज्ञानाश्रित कर्म दो, उनको करें न लिप्त ॥",
+      "general": "இறைவனின் உண்மையான புகழை விரும்பிப் போற்றுபவர்களிடம், அறியாமையால் விளையும் நல்வினை, தீவினை ஆகிய இருவினைகளும் வந்து சேராது.",
+      "en": "The two-fold deeds that spring from darkness shall not adhere to those who delight in the true praise of God.",
+      "hi": "जो लोग ईश्वर के सच्चे भजन और गुणगान में लीन रहते हैं, अज्ञान से उत्पन्न होने वाले पुण्य और पाप रूपी दोनों कर्म उन्हें लिप्त नहीं कर पाते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இருள்சேர் <br>(Irulser)",
+          "ta": "அறியாமையைச் சார்ந்த",
+          "en": "Associated with darkness",
+          "hi": "अज्ञानाश्रित"
+        },
+        {
+          "no": 2,
+          "word": "இருவினையும் <br>(Iruvinaiyum)",
+          "ta": "நல்வினை தீவினை ஆகிய இரண்டும்",
+          "en": "Both good and ill deeds",
+          "hi": "दोनों कर्म (पुण्य-पाप)"
+        },
+        {
+          "no": 3,
+          "word": "சேரா <br>(Seraa)",
+          "ta": "வந்து சேராது",
+          "en": "Will not adhere / affect",
+          "hi": "लिप्त नहीं होते"
+        },
+        {
+          "no": 4,
+          "word": "இறைவன் <br>(Iraivan)",
+          "ta": "இறைவனின்",
+          "en": "Of the King / God",
+          "hi": "ईश्वर के"
+        },
+        {
+          "no": 5,
+          "word": "பொருள்சேர் <br>(Porulser)",
+          "ta": "மெய்ப்பொருள் சார்ந்த",
+          "en": "True / meaningful",
+          "hi": "सत्य"
+        },
+        {
+          "no": 6,
+          "word": "புகழ்புரிந்தார் <br>(Pukazhpurindhaar)",
+          "ta": "புகழை விரும்பிப் போற்றுவார்",
+          "en": "Who delight in praise",
+          "hi": "भजन में लिप्त लोगों के"
+        },
+        {
+          "no": 7,
+          "word": "மாட்டு <br>(Maattu)",
+          "ta": "இடத்தில்",
+          "en": "With / in them",
+          "hi": "पास"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இருள்சேர் இருவினையும் சேரா இறைவன்",
+          "line2": "பொருள்சேர் புகழ்புரிந்தார் மாட்டு."
+        },
+        "en": {
+          "line1": "The men, who on the 'King's' true praise delight to dwell,",
+          "line2": "Affects not them the fruit of deeds done ill or well."
+        },
+        "hi": {
+          "line1": "जो रहते हैं ईश के, सत्य भजन में लिप्त ।",
+          "line2": "अज्ञानाश्रित कर्म दो, उनको करें न लिप्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Irulser Iruvinaiyum Seraa Iraivan",
+            "line2": "Porulser Pukazhpurindhaar Maattu."
+          },
+          "hi": {
+            "line1": "इरुळ्सेर् इरुविनैयुम् सेरा इरैवन्",
+            "line2": "पॊरुळ्सेर् पुगऴ्पुरिन्दार् माट्टु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இறைவனின் உண்மையான புகழை விரும்பிப் போற்றுபவர்களிடம், அறியாமையால் விளையும் நல்வினை, தீவினை ஆகிய இருவினைகளும் வந்து சேராது.",
+        "en": "Those who delight in singing the true glory of God are untouched by the binding consequences of good and bad deeds born of ignorance.",
+        "hi": "जो लोग ईश्वर के सच्चे भजन और गुणगान में लीन रहते हैं, अज्ञान से उत्पन्न होने वाले पुण्य और पाप रूपी दोनों कर्म उन्हें लिप्त नहीं कर पाते।"
+      }
+    },
+    {
+      "num": 6,
+      "line1": "பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க",
+      "line2": "நெறிநின்றார் நீடுவாழ் வார்.",
+      "enLine1": "Long live they blest, who 've stood in path from falsehood freed;",
+      "enLine2": "His, 'Who quenched lusts that from the sense-gates five proceed.'",
+      "hiLine1": "पंचेन्द्रिय-निग्रह किये, प्रभु का किया विधान ।",
+      "hiLine2": "धर्म-पंथ के पथिक जो, हों चिर आयुष्मान ॥",
+      "general": "ஐம்பொறிகளின் வழியாகப் பிறக்கும் ஆசைகளை அவித்த இறைவனின், பொய்யற்ற ஒழுக்க நெறியில் நின்றவர்கள் நெடுங்காலம் நலமுடன் வாழ்வார்கள்.",
+      "en": "Those who stand in the path of true virtue prescribed by Him who has extinguished the desires of the five senses shall live long in bliss.",
+      "hi": "पाँचों इंद्रियों को वश में रखने वाले प्रभु के सत्य धर्म-मार्ग का अनुसरण करने वाले साधक चिर आयुष्मान (दीर्घायु व धन्य) होते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொறிவாயில் <br>(Porivaayil)",
+          "ta": "ஐம்பொறிகளின் வழியாகும்",
+          "en": "Sense-gates",
+          "hi": "इंद्रियों के द्वार से"
+        },
+        {
+          "no": 2,
+          "word": "ஐந்தவித்தான் <br>(Ainthaviththaan)",
+          "ta": "ஐந்து ஆசைகளை அவித்த இறைவனின்",
+          "en": "He who quenched the five lusts",
+          "hi": "पाँचों इंद्रिय-निग्रही प्रभु के"
+        },
+        {
+          "no": 3,
+          "word": "பொய்தீர் <br>(Poytheer)",
+          "ta": "பொய்மையற்ற",
+          "en": "Freed from falsehood",
+          "hi": "सत्य (मिथ्या-रहित)"
+        },
+        {
+          "no": 4,
+          "word": "ஒழுக்க <br>(Ozhukka)",
+          "ta": "நல்லொழுக்க",
+          "en": "Righteous conduct",
+          "hi": "धर्म-विधान के"
+        },
+        {
+          "no": 5,
+          "word": "நெறிநின்றார் <br>(Nerinindraar)",
+          "ta": "நெறியில் நிலைத்து நின்றவர்",
+          "en": "Who stood in the path",
+          "hi": "पंथ के पथिक"
+        },
+        {
+          "no": 6,
+          "word": "நீடுவாழ் <br>(Needuvaazh)",
+          "ta": "நெடுங்காலம் வாழ்வார்",
+          "en": "Long live blest",
+          "hi": "चिर आयुष्मान होते"
+        },
+        {
+          "no": 7,
+          "word": "வார் <br>(Vaar)",
+          "ta": "கள்",
+          "en": "They who",
+          "hi": "हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க",
+          "line2": "நெறிநின்றார் நீடுவாழ் வார்."
+        },
+        "en": {
+          "line1": "Long live they blest, who 've stood in path from falsehood freed;",
+          "line2": "His, 'Who quenched lusts that from the sense-gates five proceed.'"
+        },
+        "hi": {
+          "line1": "पंचेन्द्रिय-निग्रह किये, प्रभु का किया विधान ।",
+          "line2": "धर्म-पंथ के पथिक जो, हों चिर आयुष्मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Porivaayil Ainthaviththaan Poytheer Ozhukka",
+            "line2": "Nerinindraar Needuvaazh Vaar."
+          },
+          "hi": {
+            "line1": "पॊरिवायिल् ऐन्दवित्तान् पॊय्दीर् ऒऴुक्क",
+            "line2": "नॆरिनिन्द्रार् नीडुवाऴ् वार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஐம்பொறிகளின் வழியாகப் பிறக்கும் ஆசைகளை அவித்த இறைவனின், பொய்யற்ற ஒழுக்க நெறியில் நின்றவர்கள் நெடுங்காலம் நலமுடன் வாழ்வார்கள்.",
+        "en": "Those who walk steadfastly on the truthful path of conduct shown by the Lord—who conquered all five sense-desires—attain enduring life.",
+        "hi": "पाँचों इंद्रियों को वश में रखने वाले प्रभु के सत्य धर्म-मार्ग का अनुसरण करने वाले साधक चिर आयुष्मान (दीर्घायु व धन्य) होते हैं।"
+      }
+    },
+    {
+      "num": 7,
+      "line1": "தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க்கு அல்லால்",
+      "line2": "மனக்கவலை மாற்றல் அரிது.",
+      "enLine1": "Unless His foot, 'to Whom none can compare,' men gain,",
+      "enLine2": "'Tis hard for mind to find relief from anxious pain.",
+      "hiLine1": "ईश्वर उपमारहित का, नहीं पदाश्रय-युक्त ।",
+      "hiLine2": "तो निश्चय संभव नहीं, होना चिन्ता-मुक्त ॥",
+      "general": "தனக்கு ஒப்புமை இல்லாத இறைவனின் திருவடிகளைப் பொருந்தியவர்களுக்கு அல்லாமல், மற்றவர்களுக்கு மனக்கவலையைப் போக்குவது அரிதாகும்.",
+      "en": "Anxiety of mind cannot be removed, except from those who are united to the feet of Him who is incomparable.",
+      "hi": "यदि मनुष्य उपमारहित ईश्वर के चरणों का आश्रय न ले, तो मन की चिंताओं और व्यथा से मुक्त होना संभव नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தனக்குவமை <br>(Thanakkuvamai)",
+          "ta": "தனக்கு ஒப்பானவர்",
+          "en": "Comparison to Himself",
+          "hi": "उपमा (तुलना)"
+        },
+        {
+          "no": 2,
+          "word": "இல்லாதான் <br>(Illaadhaan)",
+          "ta": "இல்லாத இறைவனின்",
+          "en": "To Whom none can compare",
+          "hi": "रहित ईश्वर के"
+        },
+        {
+          "no": 3,
+          "word": "தாள்சேர்ந்தார்க்கு <br>(Thaalserndhaarkku)",
+          "ta": "திருவடிகளை அடைந்தவர்க்கு",
+          "en": "To those who gain His feet",
+          "hi": "चरणों के आश्रय"
+        },
+        {
+          "no": 4,
+          "word": "அல்லால் <br>(Allaal)",
+          "ta": "அல்லாமல் மற்றவர்க்கு",
+          "en": "Except / unless",
+          "hi": "के बिना"
+        },
+        {
+          "no": 5,
+          "word": "மனக்கவலை <br>(Manakkavalai)",
+          "ta": "மனக்கவலையை",
+          "en": "Mental anxiety / pain",
+          "hi": "मन की चिंता को"
+        },
+        {
+          "no": 6,
+          "word": "மாற்றல் <br>(Maatral)",
+          "ta": "போக்குதல்",
+          "en": "Removing / relieving",
+          "hi": "मिटाना / मुक्त होना"
+        },
+        {
+          "no": 7,
+          "word": "அரிது <br>(Aridhu)",
+          "ta": "அரிதாகும்",
+          "en": "Is hard / impossible",
+          "hi": "संभव नहीं है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க்கு அல்லால்",
+          "line2": "மனக்கவலை மாற்றல் அரிது."
+        },
+        "en": {
+          "line1": "Unless His foot, 'to Whom none can compare,' men gain,",
+          "line2": "'Tis hard for mind to find relief from anxious pain."
+        },
+        "hi": {
+          "line1": "ईश्वर उपमारहित का, नहीं पदाश्रय-युक्त ।",
+          "line2": "तो निश्चय संभव नहीं, होना चिन्ता-मुक्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thanakkuvamai Illaadhaan Thaalserndhaarkku Allaal",
+            "line2": "Manakkavalai Maatral Aridhu."
+          },
+          "hi": {
+            "line1": "तनक्कुवमै इल्लादान् ताळ्सेर्न्दार्क्कु अल्लाल्",
+            "line2": "मनक्कवलै मात्रल् अरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தனக்கு ஒப்புமை இல்லாத இறைவனின் திருவடிகளைப் பொருந்தியவர்களுக்கு அல்லாமல், மற்றவர்களுக்கு மனக்கவலையைப் போக்குவது அரிதாகும்.",
+        "en": "True relief from mental distress is hard to find except for those who take refuge at the feet of the peerless Divine.",
+        "hi": "यदि मनुष्य उपमारहित ईश्वर के चरणों का आश्रय न ले, तो मन की चिंताओं और व्यथा से मुक्त होना संभव नहीं है।"
+      }
+    },
+    {
+      "num": 8,
+      "line1": "அறவாழி அந்தணன் தாள்சேர்ந்தார்க்கு அல்லால்",
+      "line2": "பிறவாழி நீந்தல் அரிது.",
+      "enLine1": "Unless His feet, 'the Sea of Good, the Fair and Bountiful,' men gain,",
+      "enLine2": "'Tis hard the further bank of being's changeful sea to attain.",
+      "hiLine1": "धर्म-सिन्धु करुणेश के, शरणागत है धन्य ।",
+      "hiLine2": "उसे छोड दुख-सिन्धु को, पार न पाये अन्य ॥",
+      "general": "அறக்கடலாக விளங்கும் இறைவனின் திருவடிகளைச் சேர்ந்தவர்களுக்கு அல்லாமல், மற்றவர்களுக்குப் பிறவியாகிய கடலைக் கடந்து கரை சேர்வது அரிதாகும்.",
+      "en": "None can swim the sea of vice/existence, except those who are united to the feet of that gracious Being who is a sea of virtue.",
+      "hi": "धर्म के सागर और करुणा के निधान ईश्वर के शरणागत भक्त ही धन्य हैं; उनके अतिरिक्त अन्य कोई भी इस दुख-सागर (भवसागर) को पार नहीं कर सकता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறவாழி <br>(Aravaazhi)",
+          "ta": "அறக்கடலாக விளங்கும்",
+          "en": "Sea of virtue/good",
+          "hi": "धर्म-सिंधु"
+        },
+        {
+          "no": 2,
+          "word": "அந்தணன் <br>(Andhanan)",
+          "ta": "அருளாளனாகிய இறைவனின்",
+          "en": "The Fair and Bountiful One",
+          "hi": "करुणेश (ईश्वर) के"
+        },
+        {
+          "no": 3,
+          "word": "தாள்சேர்ந்தார்க்கு <br>(Thaalserndhaarkku)",
+          "ta": "திருவடிகளை அடைந்தவர்க்கு",
+          "en": "To those who gain His feet",
+          "hi": "शरणागत को"
+        },
+        {
+          "no": 4,
+          "word": "அல்லால் <br>(Allaal)",
+          "ta": "அல்லாமல் மற்றவர்க்கு",
+          "en": "Except / unless",
+          "hi": "छोड़कर अन्य कोई"
+        },
+        {
+          "no": 5,
+          "word": "பிறவாழி <br>(Piravaazhi)",
+          "ta": "பிறவி என்னும் பெருங்கடலை",
+          "en": "Sea of other evils/existence",
+          "hi": "दुख-सागर को"
+        },
+        {
+          "no": 6,
+          "word": "நீந்தல் <br>(Neendhal)",
+          "ta": "நீந்திக் கடத்தல்",
+          "en": "Swimming across",
+          "hi": "पार पाना"
+        },
+        {
+          "no": 7,
+          "word": "அரிது <br>(Aridhu)",
+          "ta": "அரிதாகும்",
+          "en": "Is hard / impossible",
+          "hi": "असंभव है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறவாழி அந்தணன் தாள்சேர்ந்தார்க்கு அல்லால்",
+          "line2": "பிறவாழி நீந்தல் அரிது."
+        },
+        "en": {
+          "line1": "Unless His feet, 'the Sea of Good, the Fair and Bountiful,' men gain,",
+          "line2": "'Tis hard the further bank of being's changeful sea to attain."
+        },
+        "hi": {
+          "line1": "धर्म-सिन्धु करुणेश के, शरणागत है धन्य ।",
+          "line2": "उसे छोड दुख-सिन्धु को, पार न पाये अन्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aravaazhi Andhanan Thaalserndhaarkku Allaal",
+            "line2": "Piravaazhi Neendhal Aridhu."
+          },
+          "hi": {
+            "line1": "अरवाऴि अन्दणन् ताळ्सेर्न्दार्क्कु अल्लाल्",
+            "line2": "पिरवाऴि नीन्दल् अरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறக்கடலாக விளங்கும் இறைவனின் திருவடிகளைச் சேர்ந்தவர்களுக்கு அல்லாமல், மற்றவர்களுக்குப் பிறவியாகிய கடலைக் கடந்து கரை சேர்வது அரிதாகும்.",
+        "en": "Crossing the turbulent ocean of worldly sorrow is impossible except for those anchored at the feet of the Lord, the ocean of righteousness.",
+        "hi": "धर्म के सागर और करुणा के निधान ईश्वर के शरणागत भक्त ही धन्य हैं; उनके अतिरिक्त अन्य कोई भी इस दुख-सागर (भवसागर) को पार नहीं कर सकता।"
+      }
+    },
+    {
+      "num": 9,
+      "line1": "கோளில் பொறியின் குணமிலவே எண்குணத்தான்",
+      "line2": "தாளை வணங்காத் தலை.",
+      "enLine1": "Before His foot, 'the Eight-fold Excellence,' with unbent head",
+      "enLine2": "Who stands, like palsied sense, is to all living functions dead.",
+      "hiLine1": "निष्क्रिय इन्द्रिय सदृश ही, 'सिर' है केवल नाम ।",
+      "hiLine2": "अष्टगुणी के चरण पर, यदि नहिं किया प्रणाम ॥",
+      "general": "எட்டுக் குணங்களை உடைய இறைவனின் திருவடிகளை வணங்காத தலை, கேட்கவும் பார்க்கவும் முடியாத செயலற்ற பொறிகளைப்போலப் பயனற்றதாகும்.",
+      "en": "The head that does not bow at the feet of Him who is endowed with eight attributes is as useless as senses without the power of sensation.",
+      "hi": "यदि मनुष्य ने अष्टगुणों से युक्त ईश्वर के चरणों में प्रणाम नहीं किया, तो उसका सिर निष्क्रिय और संवेदनहीन इंद्रियों के समान केवल नाम मात्र का सिर है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கோளில் <br>(Kolil)",
+          "ta": "பொருள்களை உணரும் ஆற்றலற்ற",
+          "en": "Without perception / palsied",
+          "hi": "निष्क्रिय"
+        },
+        {
+          "no": 2,
+          "word": "பொறியின் <br>(Poriyin)",
+          "ta": "ஐம்பொறிகளைப் போல",
+          "en": "Like the sense organs",
+          "hi": "इंद्रिय के समान"
+        },
+        {
+          "no": 3,
+          "word": "குணமிலவே <br>(Gunamilave)",
+          "ta": "பயனற்றதாகும்",
+          "en": "Are devoid of quality/use",
+          "hi": "केवल नाम मात्र (गुणहीन) है"
+        },
+        {
+          "no": 4,
+          "word": "எண்குணத்தான் <br>(Engunaththaan)",
+          "ta": "எட்டுக் குணங்களை உடைய இறைவனின்",
+          "en": "Of Him of Eight-fold Excellence",
+          "hi": "अष्टगुणी ईश्वर के"
+        },
+        {
+          "no": 5,
+          "word": "தாளை <br>(Thaalai)",
+          "ta": "திருவடிகளை",
+          "en": "Feet",
+          "hi": "चरणों पर"
+        },
+        {
+          "no": 6,
+          "word": "வணங்காத் <br>(Vanangaath)",
+          "ta": "வணங்காத",
+          "en": "That does not bow",
+          "hi": "यदि प्रणाम न किया"
+        },
+        {
+          "no": 7,
+          "word": "தலை <br>(Thalai)",
+          "ta": "தலை",
+          "en": "The head",
+          "hi": "सिर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கோளில் பொறியின் குணமிலவே எண்குணத்தான்",
+          "line2": "தாளை வணங்காத் தலை."
+        },
+        "en": {
+          "line1": "Before His foot, 'the Eight-fold Excellence,' with unbent head",
+          "line2": "Who stands, like palsied sense, is to all living functions dead."
+        },
+        "hi": {
+          "line1": "निष्क्रिय इन्द्रिय सदृश ही, 'सिर' है केवल नाम ।",
+          "line2": "अष्टगुणी के चरण पर, यदि नहिं किया प्रणाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kolil Poriyin Gunamilave Engunaththaan",
+            "line2": "Thaalai Vanangaath Thalai."
+          },
+          "hi": {
+            "line1": "कोळिल् पॊरियिन् गुणमिलवे एण्गुणत्तान्",
+            "line2": "ताळै वणङ्गात् तलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எட்டுக் குணங்களை உடைய இறைவனின் திருவடிகளை வணங்காத தலை, கேட்கவும் பார்க்கவும் முடியாத செயலற்ற பொறிகளைப்போலப் பயனற்றதாகும்.",
+        "en": "A head that never bows in reverence before the Lord of Eightfold Perfection is as lifeless as sense organs that cannot perceive.",
+        "hi": "यदि मनुष्य ने अष्टगुणों से युक्त ईश्वर के चरणों में प्रणाम नहीं किया, तो उसका सिर निष्क्रिय और संवेदनहीन इंद्रियों के समान केवल नाम मात्र का सिर है।"
+      }
+    },
+    {
+      "num": 10,
+      "line1": "பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார்",
+      "line2": "இறைவன் அடிசேரா தார்.",
+      "enLine1": "They swim the sea of births, the 'Monarch's' foot who gain ;",
+      "enLine2": "None others reach the shore of being's mighty main.",
+      "hiLine1": "भव-सागर विस्तार से, पाते हैं निस्तार ।",
+      "hiLine2": "ईश-शरण बिन जीव तो, कर नहीं पाये पार ॥",
+      "general": "இறைவனின் திருவடிகளைப் பொருந்தியவர்கள் பிறவிப் பெருங்கடலை நீந்திக் கடப்பார்கள்; இறைவன் திருவடிகளைச் சேராதவர்கள் கடக்க மாட்டார்கள்.",
+      "en": "Those who gain the feet of the Lord will cross the great ocean of births; those who do not reach His feet will never cross it.",
+      "hi": "जो जीव ईश्वर की शरण लेते हैं वे इस विशाल भवसागर से पार उतर जाते हैं, परंतु ईश्वर की शरण के बिना कोई भी इसे पार नहीं कर सकता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பிறவிப் <br>(Piravip)",
+          "ta": "பிறவியாகிய",
+          "en": "Of births",
+          "hi": "भव (संसार) के"
+        },
+        {
+          "no": 2,
+          "word": "பெருங்கடல் <br>(Perungadal)",
+          "ta": "பெரிய கடலை",
+          "en": "Mighty ocean",
+          "hi": "विशाल सागर से"
+        },
+        {
+          "no": 3,
+          "word": "நீந்துவர் <br>(Neendhuvar)",
+          "ta": "நீந்திக் கடப்பார்கள்",
+          "en": "Will swim across",
+          "hi": "निस्तार पाते हैं"
+        },
+        {
+          "no": 4,
+          "word": "நீந்தார் <br>(Neendhaar)",
+          "ta": "கடக்க மாட்டார்கள்",
+          "en": "Will not cross",
+          "hi": "पार नहीं कर पाते"
+        },
+        {
+          "no": 5,
+          "word": "இறைவன் <br>(Iraivan)",
+          "ta": "இறைவனின்",
+          "en": "Of the Monarch / Lord",
+          "hi": "ईश्वर की"
+        },
+        {
+          "no": 6,
+          "word": "அடிசேரா <br>(Adiseraa)",
+          "ta": "திருவடிகளை அடையா",
+          "en": "Who do not reach the feet",
+          "hi": "शरण के बिना"
+        },
+        {
+          "no": 7,
+          "word": "தார் <br>(Dhaar)",
+          "ta": "தவர்கள்",
+          "en": "Those who",
+          "hi": "जीव"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார்",
+          "line2": "இறைவன் அடிசேரா தார்."
+        },
+        "en": {
+          "line1": "They swim the sea of births, the 'Monarch's' foot who gain ;",
+          "line2": "None others reach the shore of being's mighty main."
+        },
+        "hi": {
+          "line1": "भव-सागर विस्तार से, पाते हैं निस्तार ।",
+          "line2": "ईश-शरण बिन जीव तो, कर नहीं पाये पार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Piravip Perungadal Neendhuvar Neendhaar",
+            "line2": "Iraivan Adiseraa Dhaar."
+          },
+          "hi": {
+            "line1": "पिरविप् पॆरुङ्गडल् नीन्दुवर् नीन्दार्",
+            "line2": "इरैवन् अडिसेंरा दार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இறைவனின் திருவடிகளைப் பொருந்தியவர்கள் பிறவிப் பெருங்கடலை நீந்திக் கடப்பார்கள்; இறைவன் திருவடிகளைச் சேராதவர்கள் கடக்க மாட்டார்கள்.",
+        "en": "Only those who take shelter at God's feet swim safely across the vast ocean of rebirth; without His grace, none can reach the shore.",
+        "hi": "जो जीव ईश्वर की शरण लेते हैं वे इस विशाल भवसागर से पार उतर जाते हैं, परंतु ईश्वर की शरण के बिना कोई भी इसे पार नहीं कर सकता।"
+      }
+    }
+  ]
+}

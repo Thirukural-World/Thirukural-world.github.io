@@ -1,0 +1,930 @@
+{
+  "chapterNum": 16,
+  "nameTa": "பொறையுடைமை",
+  "nameEn": "The Possession of Patience: Forbearance",
+  "nameHi": "क्षमाशीलता",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 151,
+      "line1": "அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை",
+      "line2": "இகழ்வார்ப் பொறுத்தல் தலை.",
+      "enLine1": "As earth bears up the men who delve into her breast,",
+      "enLine2": "To bear with scornful men of virtues is the best.",
+      "hiLine1": "क्षमा क्षमा कर ज्यों धरे, जो खोदेगा फोड़ ।",
+      "hiLine2": "निन्दक को करना क्षमा, है सुधर्म बेजोड़ ॥",
+      "general": "தன்னைத் தோண்டுபவரைத் தாங்கிக்கொள்ளும் நிலத்தைப் போல, தம்மை இகழ்ந்து பேசுபவர்களையும் பொறுத்துக்கொள்வதே சிறந்த அறமாகும்.",
+      "en": "Just as the earth bears up those who dig into it, bearing with those who scorn us is the foremost of virtues.",
+      "hi": "जिस प्रकार पृथ्वी स्वयं को खोदने वाले को भी धारण करती है, उसी प्रकार अपनी निंदा करने वाले को क्षमा करना सर्वश्रेष्ठ सद्गुण है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அகழ்வாரைத் <br>(Agazhvaaraith)",
+          "ta": "தன்னைத் தோண்டுபவரை",
+          "en": "Those who delve into it",
+          "hi": "खोदने वाले को"
+        },
+        {
+          "no": 2,
+          "word": "தாங்கும் <br>(Thaangum)",
+          "ta": "தாங்கும்",
+          "en": "Bears up",
+          "hi": "धारण करने वाली"
+        },
+        {
+          "no": 3,
+          "word": "நிலம்போலத் <br>(Nilambolath)",
+          "ta": "நிலத்தைப் போல",
+          "en": "Like the earth",
+          "hi": "पृथ्वी के समान"
+        },
+        {
+          "no": 4,
+          "word": "தம்மை <br>(Thammai)",
+          "ta": "தம்மை",
+          "en": "Oneself",
+          "hi": "स्वयं को"
+        },
+        {
+          "no": 5,
+          "word": "இகழ்வார்ப் <br>(Igazhvaarp)",
+          "ta": "இகழ்பவரை",
+          "en": "Scornful men",
+          "hi": "निंदक को"
+        },
+        {
+          "no": 6,
+          "word": "பொறுத்தல் <br>(Poruththal)",
+          "ta": "பொறுத்துக்கொள்ளுதல்",
+          "en": "Bearing with / forgiving",
+          "hi": "क्षमा करना"
+        },
+        {
+          "no": 7,
+          "word": "தலை <br>(Thalai)",
+          "ta": "தலையாய அறம்",
+          "en": "Is the best",
+          "hi": "सर्वश्रेष्ठ धर्म है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை",
+          "line2": "இகழ்வார்ப் பொறுத்தல் தலை."
+        },
+        "en": {
+          "line1": "As earth bears up the men who delve into her breast,",
+          "line2": "To bear with scornful men of virtues is the best."
+        },
+        "hi": {
+          "line1": "क्षमा क्षमा कर ज्यों धरे, जो खोदेगा फोड़ ।",
+          "line2": "निन्दक को करना क्षमा, है सुधर्म बेजोड़ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Agazhvaaraith Thaangum Nilambolath Thammai",
+            "line2": "Igazhvaarp Poruththal Thalai."
+          },
+          "hi": {
+            "line1": "अगऴ्वारैत् तांगुम् निलम्बोलत् तम्मै",
+            "line2": "इगऴ्वार्प् पॊरुत्तल् तलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன்னைத் தோண்டுபவரைத் தாங்கிக்கொள்ளும் நிலத்தைப் போல, தம்மை இகழ்ந்து பேசுபவர்களையும் பொறுத்துக்கொள்வதே சிறந்த அறமாகும்.",
+        "en": "True greatness lies in enduring insults patiently, just as the earth steadfastly supports even those who dig into it.",
+        "hi": "जिस प्रकार पृथ्वी स्वयं को खोदने वाले को भी धारण करती है, उसी प्रकार अपनी निंदा करने वाले को क्षमा करना सर्वश्रेष्ठ सद्गुण है।"
+      }
+    },
+    {
+      "num": 152,
+      "line1": "பொறுத்தல் இறப்பினை என்றும் அதனை",
+      "line2": "மறத்தல் அதனினும் நன்று.",
+      "enLine1": "Forgiving trespasses is good always ;",
+      "enLine2": "Forgetting them hath even higher praise.",
+      "hiLine1": "अच्छा है सब काल में, सहना अत्याचार ।",
+      "hiLine2": "फिर तो उसको भूलना, उससे श्रेष्ठ विचार ॥",
+      "general": "பிறர் செய்த தீங்கை எப்போதும் பொறுத்துக்கொள்ள வேண்டும்; அதை மனத்தில் கொள்ளாமல் மறந்துவிடுவது அதைவிடவும் நல்லதாகும்.",
+      "en": "It is always good to bear with wrongdoings committed by others, and forgetting them altogether is even better.",
+      "hi": "दूसरों के किए हुए अन्याय या अपराध को सदैव सहन कर लेना अच्छा है, और उसे मन से भुला देना उससे भी श्रेष्ठ है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொறுத்தல் <br>(Poruththal)",
+          "ta": "பொறுத்துக்கொள்ளுதல்",
+          "en": "Forgiving / bearing",
+          "hi": "सहन करना"
+        },
+        {
+          "no": 2,
+          "word": "இறப்பினை <br>(Irappinai)",
+          "ta": "பிறர் செய்த தீங்கை",
+          "en": "Trespasses",
+          "hi": "अत्याचार को"
+        },
+        {
+          "no": 3,
+          "word": "என்றும் <br>(Endrum)",
+          "ta": "எப்போதும் நல்லது",
+          "en": "Always",
+          "hi": "सब काल में अच्छा है"
+        },
+        {
+          "no": 4,
+          "word": "அதனை <br>(Adhanai)",
+          "ta": "அத்தீங்கை",
+          "en": "Them",
+          "hi": "उसको"
+        },
+        {
+          "no": 5,
+          "word": "மறத்தல் <br>(Maraththal)",
+          "ta": "மறந்துவிடுதல்",
+          "en": "Forgetting",
+          "hi": "भूल जाना"
+        },
+        {
+          "no": 6,
+          "word": "அதனினும் <br>(Adhaninum)",
+          "ta": "அதைவிடவும்",
+          "en": "Even than that",
+          "hi": "उससे भी"
+        },
+        {
+          "no": 7,
+          "word": "நன்று <br>(Nandru)",
+          "ta": "நல்லதாகும்",
+          "en": "Better / higher praise",
+          "hi": "श्रेष्ठ है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொறுத்தல் இறப்பினை என்றும் அதனை",
+          "line2": "மறத்தல் அதனினும் நன்று."
+        },
+        "en": {
+          "line1": "Forgiving trespasses is good always ;",
+          "line2": "Forgetting them hath even higher praise."
+        },
+        "hi": {
+          "line1": "अच्छा है सब काल में, सहना अत्याचार ।",
+          "line2": "फिर तो उसको भूलना, उससे श्रेष्ठ विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Poruththal Irappinai Endrum Adhanai",
+            "line2": "Maraththal Adhaninum Nandru."
+          },
+          "hi": {
+            "line1": "पॊरुत्तल् इरप्पिनै एन्द्रुम् अदनै",
+            "line2": "मरत्तल् अदनिनुम् नन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறர் செய்த தீங்கை எப்போதும் பொறுத்துக்கொள்ள வேண்டும்; அதை மனத்தில் கொள்ளாமல் மறந்துவிடுவது அதைவிடவும் நல்லதாகும்.",
+        "en": "Enduring offenses is always admirable, yet letting go and completely forgetting them is an even nobler virtue.",
+        "hi": "दूसरों के किए हुए अन्याय या अपराध को सदैव सहन कर लेना अच्छा है, और उसे मन से भुला देना उससे भी श्रेष्ठ है।"
+      }
+    },
+    {
+      "num": 153,
+      "line1": "இன்மையுள் இன்மை விருந்தொரால் வன்மையுள்",
+      "line2": "வன்மை மடவார்ப் பொறை.",
+      "enLine1": "The sorest poverty is bidding guest unfed depart ;",
+      "enLine2": "The mightiest might to bear with men of foolish heart.",
+      "hiLine1": "दारिद में दारिद्रय है, अतिथि-निवारण-बान ।",
+      "hiLine2": "सहन मूर्ख की मूर्खता, बल में भी बल जान ॥",
+      "general": "வறுமைகளுள் எல்லாம் கொடிய வறுமை விருந்தினரைப் போற்றாமல் நீக்குவதாகும்; வலிமைகளுள் எல்லாம் சிறந்த வலிமை அறிவிலிகளின் செயலைப் பொறுத்துக்கொள்வதாகும்.",
+      "en": "The poorest of poverty is turning away a guest unfed; the mightiest of might is bearing patiently with foolish people.",
+      "hi": "दरिद्रता में सबसे बड़ी दरिद्रता अतिथि को लौटा देना है, और सब बलों में सबसे बड़ा बल मूर्खों की मूर्खता को सहन करना है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்மையுள் <br>(Inmaiyul)",
+          "ta": "வறுமைகளுள்",
+          "en": "Among poverties",
+          "hi": "दरिद्रता में"
+        },
+        {
+          "no": 2,
+          "word": "இன்மை <br>(Inmai)",
+          "ta": "கொடிய வறுமை",
+          "en": "Sorest poverty",
+          "hi": "सबसे बड़ी दरिद्रता"
+        },
+        {
+          "no": 3,
+          "word": "விருந்தொரால் <br>(Virundhoraal)",
+          "ta": "விருந்தினரை நீக்குதல்",
+          "en": "Bidding guest depart",
+          "hi": "अतिथि-निवारण"
+        },
+        {
+          "no": 4,
+          "word": "வன்மையுள் <br>(Vanmaiyul)",
+          "ta": "வலிமைகளுள்",
+          "en": "Among strengths",
+          "hi": "बल में भी"
+        },
+        {
+          "no": 5,
+          "word": "வன்மை <br>(Vanmai)",
+          "ta": "சிறந்த வலிமை",
+          "en": "Mightiest might",
+          "hi": "सबसे बड़ा बल"
+        },
+        {
+          "no": 6,
+          "word": "மடவார்ப் <br>(Madavaarp)",
+          "ta": "அறிவிலிகளின் செயலை",
+          "en": "Men of foolish heart",
+          "hi": "मूर्ख की मूर्खता का"
+        },
+        {
+          "no": 7,
+          "word": "பொறை <br>(Porai)",
+          "ta": "பொறுத்தல்",
+          "en": "Bearing with",
+          "hi": "सहन करना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்மையுள் இன்மை விருந்தொரால் வன்மையுள்",
+          "line2": "வன்மை மடவார்ப் பொறை."
+        },
+        "en": {
+          "line1": "The sorest poverty is bidding guest unfed depart ;",
+          "line2": "The mightiest might to bear with men of foolish heart."
+        },
+        "hi": {
+          "line1": "दारिद में दारिद्रय है, अतिथि-निवारण-बान ।",
+          "line2": "सहन मूर्ख की मूर्खता, बल में भी बल जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inmaiyul Inmai Virundhoraal Vanmaiyul",
+            "line2": "Vanmai Madavaarp Porai."
+          },
+          "hi": {
+            "line1": "इन्मैयुळ् इन्मै विरुन्दॊराल् वन्मैयुळ्",
+            "line2": "वन्मै मडवार्प् पॊरै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வறுமைகளுள் எல்லாம் கொடிய வறுமை விருந்தினரைப் போற்றாமல் நீக்குவதாகும்; வலிமைகளுள் எல்லாம் சிறந்த வலிமை அறிவிலிகளின் செயலைப் பொறுத்துக்கொள்வதாகும்.",
+        "en": "Refusing hospitality is the worst form of poverty, while patiently enduring the folly of ignorant people is the highest form of strength.",
+        "hi": "दरिद्रता में सबसे बड़ी दरिद्रता अतिथि को लौटा देना है, और सब बलों में सबसे बड़ा बल मूर्खों की मूर्खता को सहन करना है।"
+      }
+    },
+    {
+      "num": 154,
+      "line1": "நிறையுடைமை நீங்காமை வேண்டின் பொறையுடைமை",
+      "line2": "போற்றி ஒழுகப் படும்.",
+      "enLine1": "Seek'st thou honour never tarnished to retain ;",
+      "enLine2": "So must thou patience, guarding evermore, maintain.",
+      "hiLine1": "अगर सर्व-गुण-पूर्णता, तुमको छोड़ न जाय ।",
+      "hiLine2": "क्षमा-भाव का आचरण, किया लगन से जाय ॥",
+      "general": "நிறைந்த குணமும் பெருமையும் தம்மை விட்டு நீங்காமல் இருக்க விரும்பினால், பொறுமையைப் போற்றி நடக்க வேண்டும்.",
+      "en": "If one desires that perfection of character should never depart from them, they must carefully cherish and practice patience.",
+      "hi": "यदि आप चाहते हैं कि सर्व-गुण-पूर्णता और आत्म-संयम आपको छोड़कर न जाए, तो लगन के साथ क्षमा-भाव का आचरण करें।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நிறையுடைமை <br>(Niraiyudaimai)",
+          "ta": "நிறைந்த நற்குணம்",
+          "en": "Untarnished honour / fullness",
+          "hi": "सर्व-गुण-पूर्णता"
+        },
+        {
+          "no": 2,
+          "word": "நீங்காமை <br>(Neengaamai)",
+          "ta": "நீங்காமல் இருக்க",
+          "en": "Not departing",
+          "hi": "छोड़कर न जाए"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டின் <br>(Vendin)",
+          "ta": "விரும்பினால்",
+          "en": "If you seek",
+          "hi": "यदि चाहते हैं"
+        },
+        {
+          "no": 4,
+          "word": "பொறையுடைமை <br>(Poraiyudaimai)",
+          "ta": "பொறுமை உடைமையை",
+          "en": "Possession of patience",
+          "hi": "क्षमा-भाव को"
+        },
+        {
+          "no": 5,
+          "word": "போற்றி <br>(Potri)",
+          "ta": "போற்றிப் பாதுகாத்து",
+          "en": "Guarding / cherishing",
+          "hi": "लगन से"
+        },
+        {
+          "no": 6,
+          "word": "ஒழுகப் <br>(Ozhugap)",
+          "ta": "நடக்க",
+          "en": "Maintain / conduct",
+          "hi": "आचरण किया"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "வேண்டும்",
+          "en": "Must be",
+          "hi": "जाए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நிறையுடைமை நீங்காமை வேண்டின் பொறையுடைமை",
+          "line2": "போற்றி ஒழுகப் படும்."
+        },
+        "en": {
+          "line1": "Seek'st thou honour never tarnished to retain ;",
+          "line2": "So must thou patience, guarding evermore, maintain."
+        },
+        "hi": {
+          "line1": "अगर सर्व-गुण-पूर्णता, तुमको छोड़ न जाय ।",
+          "line2": "क्षमा-भाव का आचरण, किया लगन से जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Niraiyudaimai Neengaamai Vendin Poraiyudaimai",
+            "line2": "Potri Ozhugap Padum."
+          },
+          "hi": {
+            "line1": "निरैयुडैमै नींगामै वेण्डिन् पॊरैयुडैमै",
+            "line2": "पोत्रि ऒऴुगप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நிறைந்த குணமும் பெருமையும் தம்மை விட்டு நீங்காமல் இருக்க விரும்பினால், பொறுமையைப் போற்றி நடக்க வேண்டும்.",
+        "en": "To preserve inner dignity and moral completeness without blemish, one must consistently guard and practice forbearance.",
+        "hi": "यदि आप चाहते हैं कि सर्व-गुण-पूर्णता और आत्म-संयम आपको छोड़कर न जाए, तो लगन के साथ क्षमा-भाव का आचरण करें।"
+      }
+    },
+    {
+      "num": 155,
+      "line1": "ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர்",
+      "line2": "பொறுத்தாரைப் பொன்போல் பொதிந்து.",
+      "enLine1": "Who wreak their wrath as worthless are despised ;",
+      "enLine2": "Who patiently forbear as gold are prized.",
+      "hiLine1": "प्रतिकारी को जगत तो, माने नहीं पदार्थ ।",
+      "hiLine2": "क्षमशील को वह रखे, स्वर्ण समान पदार्थ ॥",
+      "general": "தமக்குத் தீங்கு செய்தவரைத் தண்டிப்பவர்களை உலகம் ஒரு பொருட்டாக மதிக்காது; ஆனால் பொறுத்துக்கொள்பவர்களைப் பொன்னைப் போலப் போற்றி மனத்தில் வைத்திருக்கும்.",
+      "en": "The world does not esteem those who avenge wrongs as anything of value, but treasures those who forbear like gold.",
+      "hi": "बदला लेने वाले (प्रतिकारी) व्यक्ति को संसार कुछ नहीं समझता, किंतु क्षमाशील व्यक्ति को वह सोने के समान संभाल कर रखता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒறுத்தாரை <br>(Oruththaarai)",
+          "ta": "தீங்கு செய்தவரைத் தண்டிப்பவரை",
+          "en": "Who wreak wrath / punish",
+          "hi": "प्रतिकारी को"
+        },
+        {
+          "no": 2,
+          "word": "ஒன்றாக <br>(Ondraaga)",
+          "ta": "ஒரு பொருட்டாக",
+          "en": "As of any worth",
+          "hi": "कुछ पदार्थ"
+        },
+        {
+          "no": 3,
+          "word": "வையாரே <br>(Vaiyaare)",
+          "ta": "மதிக்கமாட்டார்",
+          "en": "Will not esteem",
+          "hi": "नहीं मानता"
+        },
+        {
+          "no": 4,
+          "word": "வைப்பர் <br>(Vaippar)",
+          "ta": "போற்றி வைப்பார்",
+          "en": "Will prize / keep",
+          "hi": "रखता है"
+        },
+        {
+          "no": 5,
+          "word": "பொறுத்தாரைப் <br>(Poruththaaraip)",
+          "ta": "பொறுத்துக்கொண்டவரை",
+          "en": "Who patiently forbear",
+          "hi": "क्षमाशील को"
+        },
+        {
+          "no": 6,
+          "word": "பொன்போல் <br>(Ponbol)",
+          "ta": "பொன்னைப் போல",
+          "en": "Like gold",
+          "hi": "स्वर्ण के समान"
+        },
+        {
+          "no": 7,
+          "word": "பொதிந்து <br>(Podhindhu)",
+          "ta": "மதித்துப் போற்றி",
+          "en": "Treasuring / enclosing",
+          "hi": "सहेज कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர்",
+          "line2": "பொறுத்தாரைப் பொன்போல் பொதிந்து."
+        },
+        "en": {
+          "line1": "Who wreak their wrath as worthless are despised ;",
+          "line2": "Who patiently forbear as gold are prized."
+        },
+        "hi": {
+          "line1": "प्रतिकारी को जगत तो, माने नहीं पदार्थ ।",
+          "line2": "क्षमशील को वह रखे, स्वर्ण समान पदार्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oruththaarai Ondraaga Vaiyaare Vaippar",
+            "line2": "Poruththaaraip Ponbol Podhindhu."
+          },
+          "hi": {
+            "line1": "ऒरुत्तारै ऒन्द्राग वैयारे वैप्पर्",
+            "line2": "पॊरुत्तारैप् पॊन्बोल् पॊदिन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தமக்குத் தீங்கு செய்தவரைத் தண்டிப்பவர்களை உலகம் ஒரு பொருட்டாக மதிக்காது; ஆனால் பொறுத்துக்கொள்பவர்களைப் பொன்னைப் போலப் போற்றி மனத்தில் வைத்திருக்கும்.",
+        "en": "People who retaliate in anger are regarded as worthless, whereas those who show patience are cherished like fine gold.",
+        "hi": "बदला लेने वाले (प्रतिकारी) व्यक्ति को संसार कुछ नहीं समझता, किंतु क्षमाशील व्यक्ति को वह सोने के समान संभाल कर रखता है।"
+      }
+    },
+    {
+      "num": 156,
+      "line1": "ஒறுத்தார்க்கு ஒருநாளை இன்பம் பொறுத்தார்க்குப்",
+      "line2": "பொன்றும் துணையும் புகழ்.",
+      "enLine1": "Who wreak their wrath have pleasure for a day ;",
+      "enLine2": "Who bear have praise till earth shall pass away.",
+      "hiLine1": "प्रतिकारी का हो मज़ा, एक दिवस में अन्त ।",
+      "hiLine2": "क्षमाशीला को कीर्ति है, लोक-अंत पर्यन्त ॥",
+      "general": "தீங்கு செய்தவரைத் தண்டிப்பவர்க்குப் பழிவாங்கிய அந்த ஒரு நாள் மட்டுமே இன்பம்; ஆனால் பொறுத்தவர்க்கோ உலகம் அழியும் காலம் வரை புகழ் நிலைத்திருக்கும்.",
+      "en": "Those who avenge wrongs enjoy only a single day's pleasure, while those who forbear earn praise that endures until the end of the world.",
+      "hi": "बदला लेने वाले को जो सुख मिलता है वह एक ही दिन में समाप्त हो जाता है, परंतु क्षमाशील व्यक्ति की कीर्ति प्रलय काल तक बनी रहती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒறுத்தார்க்கு <br>(Oruththaarkku)",
+          "ta": "பழிவாங்கியவர்க்கு",
+          "en": "To those who wreak wrath",
+          "hi": "प्रतिकारी का"
+        },
+        {
+          "no": 2,
+          "word": "ஒருநாளை <br>(Orunaalai)",
+          "ta": "ஒரு நாளைக்குரிய",
+          "en": "For a day",
+          "hi": "एक दिन में समाप्त"
+        },
+        {
+          "no": 3,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "இன்பமே",
+          "en": "Pleasure",
+          "hi": "सुख/मज़ा"
+        },
+        {
+          "no": 4,
+          "word": "பொறுத்தார்க்குப் <br>(Poruththaarkkup)",
+          "ta": "பொறுத்துக்கொண்டவர்க்கு",
+          "en": "To those who bear",
+          "hi": "क्षमाशील को"
+        },
+        {
+          "no": 5,
+          "word": "பொன்றும் <br>(Pondrum)",
+          "ta": "உலகம் அழியும்",
+          "en": "Passes away",
+          "hi": "लोक-अंत"
+        },
+        {
+          "no": 6,
+          "word": "துணையும் <br>(Thunaiyum)",
+          "ta": "காலம் வரையிலும்",
+          "en": "Until",
+          "hi": "पर्यंत"
+        },
+        {
+          "no": 7,
+          "word": "புகழ் <br>(Pugazh)",
+          "ta": "புகழ் உண்டு",
+          "en": "Praise / renown",
+          "hi": "कीर्ति है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒறுத்தார்க்கு ஒருநாளை இன்பம் பொறுத்தார்க்குப்",
+          "line2": "பொன்றும் துணையும் புகழ்."
+        },
+        "en": {
+          "line1": "Who wreak their wrath have pleasure for a day ;",
+          "line2": "Who bear have praise till earth shall pass away."
+        },
+        "hi": {
+          "line1": "प्रतिकारी का हो मज़ा, एक दिवस में अन्त ।",
+          "line2": "क्षमाशीला को कीर्ति है, लोक-अंत पर्यन्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oruththaarkku Orunaalai Inbam Poruththaarkkup",
+            "line2": "Pondrum Thunaiyum Pugazh."
+          },
+          "hi": {
+            "line1": "ऒरुत्तार्क्कु ऒरुनाळै इन्बम् पॊरुत्तार्क्कुप्",
+            "line2": "पॊन्द्रुम् तुणैयुम् पुगऴ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தீங்கு செய்தவரைத் தண்டிப்பவர்க்குப் பழிவாங்கிய அந்த ஒரு நாள் மட்டுமே இன்பம்; ஆனால் பொறுத்தவர்க்கோ உலகம் அழியும் காலம் வரை புகழ் நிலைத்திருக்கும்.",
+        "en": "The satisfaction of revenge lasts only for a day, whereas the honor of forbearance endures as long as the world lasts.",
+        "hi": "बदला लेने वाले को जो सुख मिलता है वह एक ही दिन में समाप्त हो जाता है, परंतु क्षमाशील व्यक्ति की कीर्ति प्रलय काल तक बनी रहती है।"
+      }
+    },
+    {
+      "num": 157,
+      "line1": "திறனல்ல தற்பிறர் செய்யினும் நோநொந்து",
+      "line2": "அறனல்ல செய்யாமை நன்று.",
+      "enLine1": "Though others work thee ill, thus shalt thou blessing reap :",
+      "enLine2": "Grieve for their sin, thyself from vicious action keep !",
+      "hiLine1": "यद्यपि कोई आपसे, करता अनुचित कर्म ।",
+      "hiLine2": "अच्छा उस पर कर दया, करना नहीं अधर्म ॥",
+      "general": "தமக்குப் பிறர் தகுதியல்லாத தீமைகளைச் செய்தாலும், அதனால் அவர்கள் அடையும் துன்பத்திற்கு வருந்தி, தாம் அறமல்லாத தீமையைச் செய்யாதிருத்தல் நல்லதாகும்.",
+      "en": "Even if others do you unrighteous wrongs, it is good to grieve for their folly and refrain from doing anything unrighteous in return.",
+      "hi": "यद्यपि कोई आपके साथ अनुचित व्यवहार करे, तब भी उस पर दया करके स्वयं कोई अधर्म (प्रतिकार) न करना ही श्रेष्ठ है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "திறனல்ல <br>(Thiranalla)",
+          "ta": "தகுதியல்லாத தீமைகளை",
+          "en": "Unrighteous / ill things",
+          "hi": "अनुचित कर्म"
+        },
+        {
+          "no": 2,
+          "word": "தற்பிறர் <br>(Tharpirar)",
+          "ta": "தமக்குப் பிறர்",
+          "en": "Others to oneself",
+          "hi": "कोई आपसे"
+        },
+        {
+          "no": 3,
+          "word": "செய்யினும் <br>(Seyyinum)",
+          "ta": "செய்தாலும்",
+          "en": "Though they do",
+          "hi": "यद्यपि करे"
+        },
+        {
+          "no": 4,
+          "word": "நோநொந்து <br>(Nonondhu)",
+          "ta": "அவரது துன்பத்திற்கு வருந்தி",
+          "en": "Grieving for their sin",
+          "hi": "उस पर दया करके"
+        },
+        {
+          "no": 5,
+          "word": "அறனல்ல <br>(Aranalla)",
+          "ta": "அறமல்லாத செயலை",
+          "en": "Vicious / unrighteous action",
+          "hi": "अधर्म"
+        },
+        {
+          "no": 6,
+          "word": "செய்யாமை <br>(Seyyaamai)",
+          "ta": "செய்யாதிருத்தல்",
+          "en": "Keeping from doing",
+          "hi": "न करना"
+        },
+        {
+          "no": 7,
+          "word": "நன்று <br>(Nandru)",
+          "ta": "நல்லதாகும்",
+          "en": "Is good",
+          "hi": "अच्छा है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "திறனல்ல தற்பிறர் செய்யினும் நோநொந்து",
+          "line2": "அறனல்ல செய்யாமை நன்று."
+        },
+        "en": {
+          "line1": "Though others work thee ill, thus shalt thou blessing reap :",
+          "line2": "Grieve for their sin, thyself from vicious action keep !"
+        },
+        "hi": {
+          "line1": "यद्यपि कोई आपसे, करता अनुचित कर्म ।",
+          "line2": "अच्छा उस पर कर दया, करना नहीं अधर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thiranalla Tharpirar Seyyinum Nonondhu",
+            "line2": "Aranalla Seyyaamai Nandru."
+          },
+          "hi": {
+            "line1": "तिरनल्ल तर्पिरर् सॆय्यिनुम् नोनॊन्दु",
+            "line2": "अरनल्ल सॆय्यामै नन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தமக்குப் பிறர் தகுதியல்லாத தீமைகளைச் செய்தாலும், அதனால் அவர்கள் அடையும் துன்பத்திற்கு வருந்தி, தாம் அறமல்லாத தீமையைச் செய்யாதிருத்தல் நல்லதாகும்.",
+        "en": "When others mistreat you, feel compassion for the harm they bring upon themselves and refuse to respond with wrongdoing.",
+        "hi": "यद्यपि कोई आपके साथ अनुचित व्यवहार करे, तब भी उस पर दया करके स्वयं कोई अधर्म (प्रतिकार) न करना ही श्रेष्ठ है।"
+      }
+    },
+    {
+      "num": 158,
+      "line1": "மிகுதியான் மிக்கவை செய்தாரைத் தாந்தம்",
+      "line2": "தகுதியான் வென்று விடல்.",
+      "enLine1": "With overweening pride when men with injuries assail,",
+      "enLine2": "By thine own righteous dealing shalt thou mightily prevail.",
+      "hiLine1": "अहंकार से ज़्यादती, यदि तेरे विपरीत ।",
+      "hiLine2": "करता कोई तो उसे, क्षमा-भाव से जीत ॥",
+      "general": "செருக்கினால் தமக்குக் கொடிய தீமைகளைச் செய்தவர்களை, தாம் தமது பொறுமை என்னும் தகுதியால் வென்றுவிட வேண்டும்.",
+      "en": "One should conquer by one's own forbearance those who out of insolent pride have done them excessive wrongs.",
+      "hi": "यदि कोई व्यक्ति अहंकारवश आपके विरुद्ध कोई ज़्यादती या अन्याय करता है, तो उसे अपने क्षमा-भाव (सज्जनता) से जीत लेना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மிகுதியான் <br>(Migudhiyaan)",
+          "ta": "மனச்செருக்கால்",
+          "en": "With overweening pride",
+          "hi": "अहंकार से"
+        },
+        {
+          "no": 2,
+          "word": "மிக்கவை <br>(Mikkavai)",
+          "ta": "கொடிய தீமைகளை",
+          "en": "Injuries / excesses",
+          "hi": "ज़्यादती"
+        },
+        {
+          "no": 3,
+          "word": "செய்தாரைத் <br>(Seydhaaraith)",
+          "ta": "செய்தவர்களை",
+          "en": "Those who did",
+          "hi": "करने वाले को"
+        },
+        {
+          "no": 4,
+          "word": "தாந்தம் <br>(Thaandham)",
+          "ta": "தாம் தமது",
+          "en": "Thine own",
+          "hi": "अपने"
+        },
+        {
+          "no": 5,
+          "word": "தகுதியான் <br>(Thagudhiyaan)",
+          "ta": "பொறுமைத் தகுதியால்",
+          "en": "By righteous dealing / worth",
+          "hi": "क्षमा-भाव से"
+        },
+        {
+          "no": 6,
+          "word": "வென்று <br>(Vendru)",
+          "ta": "வென்று",
+          "en": "Prevail / conquer",
+          "hi": "जीत"
+        },
+        {
+          "no": 7,
+          "word": "விடல் <br>(Vidal)",
+          "ta": "விட வேண்டும்",
+          "en": "Should",
+          "hi": "लेना चाहिए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மிகுதியான் மிக்கவை செய்தாரைத் தாந்தம்",
+          "line2": "தகுதியான் வென்று விடல்."
+        },
+        "en": {
+          "line1": "With overweening pride when men with injuries assail,",
+          "line2": "By thine own righteous dealing shalt thou mightily prevail."
+        },
+        "hi": {
+          "line1": "अहंकार से ज़्यादती, यदि तेरे विपरीत ।",
+          "line2": "करता कोई तो उसे, क्षमा-भाव से जीत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Migudhiyaan Mikkavai Seydhaaraith Thaandham",
+            "line2": "Thagudhiyaan Vendru Vidal."
+          },
+          "hi": {
+            "line1": "मिगुदियान् मिक्कवै सॆय्दारैत् तान्दम्",
+            "line2": "तगुदियान् वेन्द्रु विडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செருக்கினால் தமக்குக் கொடிய தீமைகளைச் செய்தவர்களை, தாம் தமது பொறுமை என்னும் தகுதியால் வென்றுவிட வேண்டும்.",
+        "en": "Overcome those who act arrogantly and harm you through the quiet strength of your own dignity and patience.",
+        "hi": "यदि कोई व्यक्ति अहंकारवश आपके विरुद्ध कोई ज़्यादती या अन्याय करता है, तो उसे अपने क्षमा-भाव (सज्जनता) से जीत लेना चाहिए।"
+      }
+    },
+    {
+      "num": 159,
+      "line1": "துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய்",
+      "line2": "இன்னாச்சொல் நோற்கிற் பவர்.",
+      "enLine1": "They who transgressors' evil words endure",
+      "enLine2": "With patience, are as stern ascetics pure.",
+      "hiLine1": "संन्यासी से अधिक हैं, ऐसे गृही पवित्र ।",
+      "hiLine2": "सहन करें जो नीच के, कटुक वचन अपवित्र ॥",
+      "general": "வரம்பு கடந்து நடப்பவர்கள் வாயிலிருந்து வரும் கடுஞ்சொற்களைப் பொறுத்துக்கொள்பவர்கள், துறவிகளைப் போன்ற மனத்தூய்மை உடையவர்கள் ஆவர்.",
+      "en": "Those who patiently endure the bitter words spoken by transgressors possess a purity equal to that of ascetics.",
+      "hi": "जो गृहस्थ मर्यादा तोड़ने वाले नीच लोगों के कटु और अपवित्र वचनों को भी सहन कर लेते हैं, वे संन्यासियों के समान अत्यंत पवित्र हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "துறந்தாரின் <br>(Thurandhaarir)",
+          "ta": "துறவிகளைப் போன்ற",
+          "en": "Like ascetics",
+          "hi": "संन्यासी से"
+        },
+        {
+          "no": 2,
+          "word": "தூய்மை <br>(Thooimai)",
+          "ta": "மனத்தூய்மை",
+          "en": "Purity",
+          "hi": "पवित्रता"
+        },
+        {
+          "no": 3,
+          "word": "உடையர் <br>(Udaiyar)",
+          "ta": "உடையவர் ஆவர்",
+          "en": "Possess",
+          "hi": "रखते हैं"
+        },
+        {
+          "no": 4,
+          "word": "இறந்தார்வாய் <br>(Irandhaarvaai)",
+          "ta": "வரம்பு கடந்தவர் வாயின்",
+          "en": "From transgressors' mouths",
+          "hi": "नीच लोगों के"
+        },
+        {
+          "no": 5,
+          "word": "இன்னாச்சொல் <br>(Innaachchol)",
+          "ta": "கடுஞ்சொல்லை",
+          "en": "Evil / bitter words",
+          "hi": "कटुक वचन को"
+        },
+        {
+          "no": 6,
+          "word": "நோற்கிற் <br>(Norkir)",
+          "ta": "பொறுத்துக்கொள்",
+          "en": "Enduring",
+          "hi": "सहन करने"
+        },
+        {
+          "no": 7,
+          "word": "பவர் <br>(Pavar)",
+          "ta": "பவர்",
+          "en": "Those who",
+          "hi": "वाले"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய்",
+          "line2": "இன்னாச்சொல் நோற்கிற் பவர்."
+        },
+        "en": {
+          "line1": "They who transgressors' evil words endure",
+          "line2": "With patience, are as stern ascetics pure."
+        },
+        "hi": {
+          "line1": "संन्यासी से अधिक हैं, ऐसे गृही पवित्र ।",
+          "line2": "सहन करें जो नीच के, कटुक वचन अपवित्र ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thurandhaarir Thooimai Udaiyar Irandhaarvaai",
+            "line2": "Innaachchol Norkir Pavar."
+          },
+          "hi": {
+            "line1": "तुरन्दारिन् तूय्मै उडैयर् इरन्दार्वाय्",
+            "line2": "इन्नाच्चॊल् नोर्किल् पवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வரம்பு கடந்து நடப்பவர்கள் வாயிலிருந்து வரும் கடுஞ்சொற்களைப் பொறுத்துக்கொள்பவர்கள், துறவிகளைப் போன்ற மனத்தூய்மை உடையவர்கள் ஆவர்.",
+        "en": "Householders who calmly endure harsh, abusive speech from unruly people attain a spiritual purity matching that of renunciates.",
+        "hi": "जो गृहस्थ मर्यादा तोड़ने वाले नीच लोगों के कटु और अपवित्र वचनों को भी सहन कर लेते हैं, वे संन्यासियों के समान अत्यंत पवित्र हैं।"
+      }
+    },
+    {
+      "num": 160,
+      "line1": "உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும்",
+      "line2": "இன்னாச்சொல் நோற்பாரின் பின்.",
+      "enLine1": "Though ' great ' we deem the men that fast and suffer pain,",
+      "enLine2": "Who others' bitter words endure, the foremost place obtain.",
+      "hiLine1": "अनशन हो जो तप करें, यद्यपि साधु महान ।",
+      "hiLine2": "पर-कटुवचन-सहिष्णु के, पीछे पावें स्थान ॥",
+      "general": "உணவு உண்ணாமல் நோன்பு இருப்பவர்கள் பெரியோர்கள் ஆவர்; எனினும் அவர்கள் பிறர் சொல்லும் கடுஞ்சொல்லைப் பொறுத்துக்கொள்பவர்களுக்கு அடுத்த நிலையினரே ஆவர்.",
+      "en": "Those who fast without eating are indeed great, yet they rank only after those who patiently endure the bitter words of others.",
+      "hi": "यद्यपि बिना अन्न ग्रहण किए (अनशन द्वारा) तप करने वाले साधु महान हैं, फिर भी वे दूसरों के कटु वचनों को सहन करने वालों के बाद ही स्थान पाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உண்ணாது <br>(Unnaadhu)",
+          "ta": "உணவு உண்ணாமல்",
+          "en": "Without eating / fasting",
+          "hi": "अनशन रहकर"
+        },
+        {
+          "no": 2,
+          "word": "நோற்பார் <br>(Norpaar)",
+          "ta": "நோன்பு இருப்பவர்",
+          "en": "Who perform penance",
+          "hi": "तप करने वाले"
+        },
+        {
+          "no": 3,
+          "word": "பெரியர் <br>(Periyar)",
+          "ta": "பெரியோர் ஆவர்",
+          "en": "Are great",
+          "hi": "महान हैं"
+        },
+        {
+          "no": 4,
+          "word": "பிறர்சொல்லும் <br>(Pirarsollum)",
+          "ta": "பிறர் சொல்லும்",
+          "en": "Spoken by others",
+          "hi": "दूसरों के कहे"
+        },
+        {
+          "no": 5,
+          "word": "இன்னாச்சொல் <br>(Innaachchol)",
+          "ta": "கடுஞ்சொல்லை",
+          "en": "Bitter words",
+          "hi": "कटु वचन को"
+        },
+        {
+          "no": 6,
+          "word": "நோற்பாரின் <br>(Norpaarin)",
+          "ta": "பொறுப்பவர்க்கு",
+          "en": "Of those who endure",
+          "hi": "सहन करने वाले के"
+        },
+        {
+          "no": 7,
+          "word": "பின் <br>(Pin)",
+          "ta": "பின்னர் நிற்பவர்",
+          "en": "After / behind",
+          "hi": "पीछे स्थान पाते हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும்",
+          "line2": "இன்னாச்சொல் நோற்பாரின் பின்."
+        },
+        "en": {
+          "line1": "Though ' great ' we deem the men that fast and suffer pain,",
+          "line2": "Who others' bitter words endure, the foremost place obtain."
+        },
+        "hi": {
+          "line1": "अनशन हो जो तप करें, यद्यपि साधु महान ।",
+          "line2": "पर-कटुवचन-सहिष्णु के, पीछे पावें स्थान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Unnaadhu Norpaar Periyar Pirarsollum",
+            "line2": "Innaachchol Norpaarin Pin."
+          },
+          "hi": {
+            "line1": "उण्णादु नोर्पार् पॆरियर् पिरर्सॊल्लुम्",
+            "line2": "इन्नाच्चॊल् नोर्पारिन् पिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உணவு உண்ணாமல் நோன்பு இருப்பவர்கள் பெரியோர்கள் ஆவர்; எனினும் அவர்கள் பிறர் சொல்லும் கடுஞ்சொல்லைப் பொறுத்துக்கொள்பவர்களுக்கு அடுத்த நிலையினரே ஆவர்.",
+        "en": "Those who practice strict fasting are admirable, but those who endure harsh words from others stand even higher.",
+        "hi": "यद्यपि बिना अन्न ग्रहण किए (अनशन द्वारा) तप करने वाले साधु महान हैं, फिर भी वे दूसरों के कटु वचनों को सहन करने वालों के बाद ही स्थान पाते हैं।"
+      }
+    }
+  ]
+}

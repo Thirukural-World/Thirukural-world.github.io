@@ -1,0 +1,930 @@
+{
+  "chapterNum": 66,
+  "nameTa": "வினைத்தூய்மை",
+  "nameEn": "Purity in Action",
+  "nameHi": "कर्म-शुद्धि",
+  "paal": "பொருட்பால்",
+  "iyal": "அமைச்சியல்",
+  "kurals": [
+    {
+      "num": 651,
+      "line1": "துணைநலம் ஆக்கம் தருஉம் வினைநலம்",
+      "line2": "வேண்டிய எல்லாம் தரும்.",
+      "enLine1": "The good external help confers is worldly gain;",
+      "enLine2": "By action good men every needed gift obtain.",
+      "hiLine1": "साथी की परिशुद्धता, दे देती है प्रेय ।",
+      "hiLine2": "कर्मों की परिशुद्धता, देती है सब श्रेय ॥",
+      "general": "நல்ல துணைவர்களின் சேர்க்கை செல்வத்தை மட்டுமே தரும்; ஆனால் செய்யும் செயலின் தூய்மையோ விரும்பிய எல்லாவற்றையும் தரும்.",
+      "en": "The support of good allies brings wealth and worldly gain, but purity of action grants everything one could desire.",
+      "hi": "अच्छे साथियों का सहयोग केवल सांसारिक सम्पत्ति (प्रेय) देता है, परन्तु कर्म की परिशुद्धता मनुष्य को मनचाहे सभी श्रेय और सुख प्रदान करती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "துணை நலம் <br>(Thunai nalam)",
+          "ta": "நல்ல துணை",
+          "en": "External help",
+          "hi": "साथी की परिशुद्धता"
+        },
+        {
+          "no": 2,
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "செல்வம்",
+          "en": "Worldly gain",
+          "hi": "प्रेय"
+        },
+        {
+          "no": 3,
+          "word": "தருஉம் <br>(Tharooum)",
+          "ta": "தரும்",
+          "en": "Confers",
+          "hi": "दे देती है"
+        },
+        {
+          "no": 4,
+          "word": "வினை நலம் <br>(Vinai nalam)",
+          "ta": "செயலின் நன்மை",
+          "en": "Action good",
+          "hi": "कर्मों की परिशुद्धता"
+        },
+        {
+          "no": 5,
+          "word": "வேண்டிய <br>(Vendiya)",
+          "ta": "விரும்பிய",
+          "en": "Needed gift",
+          "hi": "सब श्रेय"
+        },
+        {
+          "no": 6,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாவற்றையும்",
+          "en": "Every",
+          "hi": "सभी"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "கொடுக்கும்",
+          "en": "Obtain",
+          "hi": "देती है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "துணைநலம் ஆக்கம் தருஉம் வினைநலம்",
+          "line2": "வேண்டிய எல்லாம் தரும்."
+        },
+        "en": {
+          "line1": "The good external help confers is worldly gain;",
+          "line2": "By action good men every needed gift obtain."
+        },
+        "hi": {
+          "line1": "साथी की परिशुद्धता, दे देती है प्रेय ।",
+          "line2": "कर्मों की परिशुद्धता, देती है सब श्रेय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thunainalam Aakkam Tharooum Vinainalam",
+            "line2": "Vendiya Ellaam Tharum."
+          },
+          "hi": {
+            "line1": "तुणैनलम् आक्कम् तरूउम् विनैनलम्",
+            "line2": "वेण्डिय ऎल्लाम् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்ல துணைவர்களின் சேர்க்கை செல்வத்தை மட்டுமே தரும்; ஆனால் செய்யும் செயலின் தூய்மையோ விரும்பிய எல்லாவற்றையும் தரும்.",
+        "en": "Good allies can help you build wealth, but integrity in what you do delivers everything you truly need.",
+        "hi": "अच्छे साथियों का सहयोग केवल सांसारिक सम्पत्ति (प्रेय) देता है, परन्तु कर्म की परिशुद्धता मनुष्य को मनचाहे सभी श्रेय और सुख प्रदान करती है।"
+      }
+    },
+    {
+      "num": 652,
+      "line1": "என்று மொருவுதல் வேண்டும் புகழொடு",
+      "line2": "நன்றி பயவா வினை.",
+      "enLine1": "From action evermore thyself restrain",
+      "enLine2": "Of glory and of good that yields no gain.",
+      "hiLine1": "सदा त्यागना चाहिये, जो हैं ऐसे कर्म ।",
+      "hiLine2": "कीर्ति-लाभ के साथ जो, देते हैं नहिं धर्म ॥",
+      "general": "புகழையும் நன்மையையும் தராத செயல்களை எக்காலத்திலும் செய்யாமல் விட்டுவிட வேண்டும்.",
+      "en": "One must always avoid actions that bring neither honor nor lasting good.",
+      "hi": "जिन कर्मों से न तो कीर्ति प्राप्त हो और न ही धर्म या कल्याण का लाभ हो, ऐसे कर्मों का सदा के लिए त्याग कर देना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "என்றும் <br>(Endrum)",
+          "ta": "எப்போதும்",
+          "en": "Evermore",
+          "hi": "सदा"
+        },
+        {
+          "no": 2,
+          "word": "ஒருவுதல் <br>(Oruvudhal)",
+          "ta": "விலக்கி விடுதல்",
+          "en": "Restrain",
+          "hi": "त्यागना"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டும் <br>(Vendum)",
+          "ta": "வேண்டும்",
+          "en": "Must",
+          "hi": "चाहिये"
+        },
+        {
+          "no": 4,
+          "word": "புகழொடு <br>(Pugazhodu)",
+          "ta": "புகழோடு",
+          "en": "Of glory",
+          "hi": "कीर्ति-लाभ के साथ"
+        },
+        {
+          "no": 5,
+          "word": "நன்றி <br>(Nandri)",
+          "ta": "நன்மையை",
+          "en": "Of good",
+          "hi": "धर्म"
+        },
+        {
+          "no": 6,
+          "word": "பயவா <br>(Payavaa)",
+          "ta": "தராத",
+          "en": "Yields no gain",
+          "hi": "देते हैं नहिं"
+        },
+        {
+          "no": 7,
+          "word": "வினை <br>(Vinai)",
+          "ta": "செயல்களை",
+          "en": "Action",
+          "hi": "कर्म"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "என்று மொருவுதல் வேண்டும் புகழொடு",
+          "line2": "நன்றி பயவா வினை."
+        },
+        "en": {
+          "line1": "From action evermore thyself restrain",
+          "line2": "Of glory and of good that yields no gain."
+        },
+        "hi": {
+          "line1": "सदा त्यागना चाहिये, जो हैं ऐसे कर्म ।",
+          "line2": "कीर्ति-लाभ के साथ जो, देते हैं नहिं धर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Endrum Oruvudhal Vendum Pugazhodu",
+            "line2": "Nandri Payavaa Vinai."
+          },
+          "hi": {
+            "line1": "ऎन्द्रु मॊरुवुदल् वेण्डुम् पुगऴॊडु",
+            "line2": "नन्द्रि पयवा विनै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "புகழையும் நன்மையையும் தராத செயல்களை எக்காலத்திலும் செய்யாமல் விட்டுவிட வேண்டும்.",
+        "en": "Walk away from any task or pursuit that brings neither real benefit nor a good name.",
+        "hi": "जिन कर्मों से न तो कीर्ति प्राप्त हो और न ही धर्म या कल्याण का लाभ हो, ऐसे कर्मों का सदा के लिए त्याग कर देना चाहिए।"
+      }
+    },
+    {
+      "num": 653,
+      "line1": "ஓஒதல் வேண்டு மொளிமாழ்குஞ் செய்வினை",
+      "line2": "யாஅது மென்னு மவர்.",
+      "enLine1": "Who tell themselves that nobler things shall yet be won,",
+      "enLine2": "All deeds that dim the light of glory must they shun.",
+      "hiLine1": "‘उन्नति करनी चाहिये’, यों जिनको हो राग ।",
+      "hiLine2": "निज गौरव को हानिकर, करें कर्म वे त्याग ॥",
+      "general": "வாழ்வில் மேன்மை அடைய வேண்டும் என்று விரும்புகின்றவர்கள், தம் புகழொளியைக் கெடுக்கும் செயல்களை முற்றிலும் தவிர்க்க வேண்டும்.",
+      "en": "Those who aspire to rise and achieve greatness must shun every deed that dims their honor and reputation.",
+      "hi": "जिन्हें जीवन में उन्नति करने की सच्ची इच्छा है, उन्हें अपने गौरव और तेज को कम करने वाले सभी कर्मों का त्याग कर देना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஓஒதல் வேண்டும் <br>(Oodhal vendum)",
+          "ta": "தவிர்க்க வேண்டும்",
+          "en": "Must shun",
+          "hi": "करें त्याग"
+        },
+        {
+          "no": 2,
+          "word": "ஒளி <br>(Oli)",
+          "ta": "புகழ் ஒளி",
+          "en": "Light of glory",
+          "hi": "निज गौरव"
+        },
+        {
+          "no": 3,
+          "word": "மாழ்கும் <br>(Maazhgum)",
+          "ta": "மங்கும்",
+          "en": "That dim",
+          "hi": "हानिकर"
+        },
+        {
+          "no": 4,
+          "word": "செய்வினை <br>(Seyvinai)",
+          "ta": "செய்யும் செயலை",
+          "en": "Deeds",
+          "hi": "कर्म"
+        },
+        {
+          "no": 5,
+          "word": "ஆஅதும் <br>(Aaadhum)",
+          "ta": "உயர்வோம்",
+          "en": "Nobler things won",
+          "hi": "उन्नति करनी चाहिये"
+        },
+        {
+          "no": 6,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்று கருதும்",
+          "en": "Tell themselves",
+          "hi": "यों जिनको हो राग"
+        },
+        {
+          "no": 7,
+          "word": "அவர் <br>(Avar)",
+          "ta": "அவர்கள்",
+          "en": "They",
+          "hi": "वे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஓஒதல் வேண்டு மொளிமாழ்குஞ் செய்வினை",
+          "line2": "யாஅது மென்னு மவர்."
+        },
+        "en": {
+          "line1": "Who tell themselves that nobler things shall yet be won,",
+          "line2": "All deeds that dim the light of glory must they shun."
+        },
+        "hi": {
+          "line1": "‘उन्नति करनी चाहिये’, यों जिनको हो राग ।",
+          "line2": "निज गौरव को हानिकर, करें कर्म वे त्याग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oodhal Vendu Molimaazhgunj Seyvinai",
+            "line2": "Yaaadhu Mennu Mavar."
+          },
+          "hi": {
+            "line1": "ओऒदल् वेण्डु मॊळिमाऴ्गुञ् सॆय्विनै",
+            "line2": "याअदु मॆन्नु मवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வாழ்வில் மேன்மை அடைய வேண்டும் என்று விரும்புகின்றவர்கள், தம் புகழொளியைக் கெடுக்கும் செயல்களை முற்றிலும் தவிர்க்க வேண்டும்.",
+        "en": "If you aim for real stature, steer clear of anything that tarnishes your integrity or reputation.",
+        "hi": "जिन्हें जीवन में उन्नति करने की सच्ची इच्छा है, उन्हें अपने गौरव और तेज को कम करने वाले सभी कर्मों का त्याग कर देना चाहिए।"
+      }
+    },
+    {
+      "num": 654,
+      "line1": "இடுக்கட் படினு மிளிவந்த செய்யார்",
+      "line2": "நடுக்கற்ற காட்சி யவர்.",
+      "enLine1": "Though troubles press, no shameful deed they do,",
+      "enLine2": "Whose eyes the ever-during vision view.",
+      "hiLine1": "यद्यपि संकट-ग्रस्त हों, जिनका निश्चल ज्ञान ।",
+      "hiLine2": "निंद्य कर्म फिर भी सुधी, नहीं करेंगे जान ॥",
+      "general": "கலக்கமற்ற தெளிந்த அறிவுடையவர்கள், எவ்வளவு பெரிய துன்பம் வந்தாலும் இழிவான செயல்களைச் செய்ய மாட்டார்கள்.",
+      "en": "People of steady, unclouded judgment will never stoop to shameful deeds, no matter how severe their hardships.",
+      "hi": "जिनका ज्ञान निश्चल और स्पष्ट है, वे बुद्धिमान लोग चाहे कितने ही बड़े संकट में क्यों न पड़ जाएँ, कभी कोई निन्दनीय कार्य नहीं करते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இடுக்கண் <br>(Idukkan)",
+          "ta": "துன்பம்",
+          "en": "Troubles",
+          "hi": "संकट-ग्रस्त"
+        },
+        {
+          "no": 2,
+          "word": "படினும் <br>(Padinum)",
+          "ta": "வந்தாலும்",
+          "en": "Though press",
+          "hi": "यद्यपि हों"
+        },
+        {
+          "no": 3,
+          "word": "இளிவந்த <br>(Ilivandha)",
+          "ta": "இழிவான செயல்களை",
+          "en": "Shameful deed",
+          "hi": "निंद्य कर्म"
+        },
+        {
+          "no": 4,
+          "word": "செய்யார் <br>(Seyyaar)",
+          "ta": "செய்ய மாட்டார்கள்",
+          "en": "They do not",
+          "hi": "नहीं करेंगे"
+        },
+        {
+          "no": 5,
+          "word": "நடுக்கற்ற <br>(Nadukkatra)",
+          "ta": "கலக்கமற்ற",
+          "en": "Ever-during",
+          "hi": "निश्चल"
+        },
+        {
+          "no": 6,
+          "word": "காட்சி <br>(Kaatchi)",
+          "ta": "அறிவு",
+          "en": "Vision",
+          "hi": "ज्ञान"
+        },
+        {
+          "no": 7,
+          "word": "அவர் <br>(Avar)",
+          "ta": "உடையவர்",
+          "en": "They",
+          "hi": "सुधी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இடுக்கட் படினு மிளிவந்த செய்யார்",
+          "line2": "நடுக்கற்ற காட்சி யவர்."
+        },
+        "en": {
+          "line1": "Though troubles press, no shameful deed they do,",
+          "line2": "Whose eyes the ever-during vision view."
+        },
+        "hi": {
+          "line1": "यद्यपि संकट-ग्रस्त हों, जिनका निश्चल ज्ञान ।",
+          "line2": "निंद्य कर्म फिर भी सुधी, नहीं करेंगे जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Idukkat Padinum Ilivandha Seyyaar",
+            "line2": "Nadukkatra Kaatchi Avar."
+          },
+          "hi": {
+            "line1": "इडुक्कड् पडिनु मिळिवन्द सॆय्यार्",
+            "line2": "नडुक्कत्र काट्चि यवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கலக்கமற்ற தெளிந்த அறிவுடையவர்கள், எவ்வளவு பெரிய துன்பம் வந்தாலும் இழிவான செயல்களைச் செய்ய மாட்டார்கள்.",
+        "en": "Even under heavy pressure, people with clear, steady principles refuse to compromise their standards.",
+        "hi": "जिनका ज्ञान निश्चल और स्पष्ट है, वे बुद्धिमान लोग चाहे कितने ही बड़े संकट में क्यों न पड़ जाएँ, कभी कोई निन्दनीय कार्य नहीं करते।"
+      }
+    },
+    {
+      "num": 655,
+      "line1": "எற்றென் றிரங்குவ செய்யற்க செய்வானேன்",
+      "line2": "மற்றன்ன செய்யாமை நன்று.",
+      "enLine1": "Do nought that soul repenting must deplore,",
+      "enLine2": "If thou hast sinned, 'tis well if thou dost sin no more.",
+      "hiLine1": "जिससे पश्चाताप हो, करो न ऐसा कार्य ।",
+      "hiLine2": "अगर किया तो फिर भला, ना कर ऐसा कार्य ॥",
+      "general": "பின்னால் 'என்ன காரியம் செய்துவிட்டோம்' என்று வருந்தும்படியான செயலைச் செய்யக் கூடாது; தவறிச் செய்துவிட்டால் மீண்டும் அத்தகைய செயலைச் செய்யாதிருப்பது நல்லது.",
+      "en": "Never do anything you will later regret; if you have done such a wrong once, it is best never to repeat it.",
+      "hi": "ऐसा कोई कार्य मत करो जिसके लिए बाद में पश्चाताप करना पड़े; यदि भूल से कभी कर भी लिया हो, तो दोबारा वैसा कार्य न करना ही श्रेयस्कर है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எற்று என்று <br>(Etru endru)",
+          "ta": "என்ன செய்தோம் என்று",
+          "en": "Repenting",
+          "hi": "जिससे पश्चाताप हो"
+        },
+        {
+          "no": 2,
+          "word": "இரங்குவ <br>(Iranguva)",
+          "ta": "வருந்தத்தக்கவற்றை",
+          "en": "Must deplore",
+          "hi": "दुःखद"
+        },
+        {
+          "no": 3,
+          "word": "செய்யற்க <br>(Seyyarka)",
+          "ta": "செய்யாதே",
+          "en": "Do nought",
+          "hi": "करो न"
+        },
+        {
+          "no": 4,
+          "word": "செய்வானேல் <br>(Seyvaanel)",
+          "ta": "செய்துவிட்டால்",
+          "en": "If thou hast sinned",
+          "hi": "अगर किया तो"
+        },
+        {
+          "no": 5,
+          "word": "மற்று அன்ன <br>(Matru anna)",
+          "ta": "மீண்டும் அத்தகையதை",
+          "en": "More",
+          "hi": "फिर ऐसा कार्य"
+        },
+        {
+          "no": 6,
+          "word": "செய்யாமை <br>(Seyyaamai)",
+          "ta": "செய்யாதிருத்தல்",
+          "en": "Sin no more",
+          "hi": "ना कर"
+        },
+        {
+          "no": 7,
+          "word": "நன்று <br>(Nandru)",
+          "ta": "நல்லது",
+          "en": "'Tis well",
+          "hi": "भला"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எற்றென் றிரங்குவ செய்யற்க செய்வானேன்",
+          "line2": "மற்றன்ன செய்யாமை நன்று."
+        },
+        "en": {
+          "line1": "Do nought that soul repenting must deplore,",
+          "line2": "If thou hast sinned, 'tis well if thou dost sin no more."
+        },
+        "hi": {
+          "line1": "जिससे पश्चाताप हो, करो न ऐसा कार्य ।",
+          "line2": "अगर किया तो फिर भला, ना कर ऐसा कार्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Etren Riranguva Seyyarka Seyvaanel",
+            "line2": "Matranna Seyyaamai Nandru."
+          },
+          "hi": {
+            "line1": "ऎत्रॆन् रिरङ्गुव सॆय्यर्क सॆय्वानेन्",
+            "line2": "मत्रन्न सॆय्यामै नन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பின்னால் 'என்ன காரியம் செய்துவிட்டோம்' என்று வருந்தும்படியான செயலைச் செய்யக் கூடாது; தவறிச் செய்துவிட்டால் மீண்டும் அத்தகைய செயலைச் செய்யாதிருப்பது நல்லது.",
+        "en": "Avoid actions that will haunt you with regret—and if you slip up once, make sure you never repeat it.",
+        "hi": "ऐसा कोई कार्य मत करो जिसके लिए बाद में पश्चाताप करना पड़े; यदि भूल से कभी कर भी लिया हो, तो दोबारा वैसा कार्य न करना ही श्रेयस्कर है।"
+      }
+    },
+    {
+      "num": 656,
+      "line1": "ஈன்றாள் பசிகாண்பா னாயினுஞ் செய்யற்க",
+      "line2": "சான்றோர் பழிக்கும் வினை.",
+      "enLine1": "Though her that bore thee hung'ring thou behold, no deed",
+      "enLine2": "Do thou, that men of perfect soul have crime decreed.",
+      "hiLine1": "जननी को भूखी सही, यद्यपि देखा जाय ।",
+      "hiLine2": "सज्जन-निन्दित कार्य को, तो भी किया न जाय ॥",
+      "general": "பெற்ற தாயின் பசியைப் போக்க வேண்டிய நிலை வந்தாலும் கூட, சான்றோர்கள் பழிக்கும்படியான தீய செயலைச் செய்யக் கூடாது.",
+      "en": "Even if you see your own mother starving, never commit an act that wise and virtuous people condemn.",
+      "hi": "यदि अपनी जन्म देने वाली माता को भी भूखा देखना पड़े, तो भी सज्जन पुरुषों द्वारा निन्दित किसी अनुचित कार्य को नहीं करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஈன்றாள் <br>(Eendraal)",
+          "ta": "பெற்ற தாயின்",
+          "en": "Her that bore thee",
+          "hi": "जननी को"
+        },
+        {
+          "no": 2,
+          "word": "பசி <br>(Pasi)",
+          "ta": "பசியை",
+          "en": "Hung'ring",
+          "hi": "भूखी"
+        },
+        {
+          "no": 3,
+          "word": "காண்பான் ஆயினும் <br>(Kaanbaan aayinum)",
+          "ta": "காண நேர்ந்தாலும்",
+          "en": "Though thou behold",
+          "hi": "यद्यपि देखा जाय"
+        },
+        {
+          "no": 4,
+          "word": "செய்யற்க <br>(Seyyarka)",
+          "ta": "செய்யக் கூடாது",
+          "en": "No deed do thou",
+          "hi": "किया न जाय"
+        },
+        {
+          "no": 5,
+          "word": "சான்றோர் <br>(Saandror)",
+          "ta": "சான்றோர்கள்",
+          "en": "Men of perfect soul",
+          "hi": "सज्जन"
+        },
+        {
+          "no": 6,
+          "word": "பழிக்கும் <br>(Pazhikkum)",
+          "ta": "பழிக்கும்",
+          "en": "Have crime decreed",
+          "hi": "निन्दित"
+        },
+        {
+          "no": 7,
+          "word": "வினை <br>(Vinai)",
+          "ta": "செயலை",
+          "en": "Deed",
+          "hi": "कार्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஈன்றாள் பசிகாண்பா னாயினுஞ் செய்யற்க",
+          "line2": "சான்றோர் பழிக்கும் வினை."
+        },
+        "en": {
+          "line1": "Though her that bore thee hung'ring thou behold, no deed",
+          "line2": "Do thou, that men of perfect soul have crime decreed."
+        },
+        "hi": {
+          "line1": "जननी को भूखी सही, यद्यपि देखा जाय ।",
+          "line2": "सज्जन-निन्दित कार्य को, तो भी किया न जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Eendraal Pasikaanbaa Naayinunj Seyyarka",
+            "line2": "Saandror Pazhikkum Vinai."
+          },
+          "hi": {
+            "line1": "ईन्द्राळ् पसिकाण्बा नायिनुञ् सॆय्यर्क",
+            "line2": "सान्द्रोर् पऴिक्कुम् विनै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பெற்ற தாயின் பசியைப் போக்க வேண்டிய நிலை வந்தாலும் கூட, சான்றோர்கள் பழிக்கும்படியான தீய செயலைச் செய்யக் கூடாது.",
+        "en": "Even in the most desperate personal crisis, never cross ethical lines that people of conscience condemn.",
+        "hi": "यदि अपनी जन्म देने वाली माता को भी भूखा देखना पड़े, तो भी सज्जन पुरुषों द्वारा निन्दित किसी अनुचित कार्य को नहीं करना चाहिए।"
+      }
+    },
+    {
+      "num": 657,
+      "line1": "பழிமலைந் தெய்திய வாக்கத்திற் சான்றோர்",
+      "line2": "கழிநல் குரவே தலை.",
+      "enLine1": "Than store of wealth guilt-laden souls obtain,",
+      "enLine2": "The sorest poverty of perfect soul is richer gain.",
+      "hiLine1": "दोष वहन कर प्राप्त जो, सज्जन को ऐश्वर्य ।",
+      "hiLine2": "उससे अति दारिद्र्य ही, सहना उसको वर्य ॥",
+      "general": "பழிச் செயலைச் செய்து சேர்த்த செல்வத்தை விட, சான்றோர்க்கு மிகக் கொடிய வறுமையே மேலானதாகும்.",
+      "en": "For the noble-minded, even extreme poverty is far better than wealth gained through dishonorable deeds.",
+      "hi": "दोष और अपयश मोल लेकर प्राप्त किए गए ऐश्वर्य की अपेक्षा, सज्जन पुरुषों के लिए अत्यन्त दरिद्रता सहना ही अधिक श्रेष्ठ है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பழி <br>(Pazhi)",
+          "ta": "பழியை",
+          "en": "Guilt",
+          "hi": "दोष"
+        },
+        {
+          "no": 2,
+          "word": "மலைந்து <br>(Malaindhu)",
+          "ta": "ஏற்றுக் கொண்டு",
+          "en": "Guilt-laden",
+          "hi": "वहन कर"
+        },
+        {
+          "no": 3,
+          "word": "எய்திய <br>(Eydhiya)",
+          "ta": "அடைந்த",
+          "en": "Obtain",
+          "hi": "प्राप्त जो"
+        },
+        {
+          "no": 4,
+          "word": "ஆக்கத்தின் <br>(Aakkaththin)",
+          "ta": "செல்வத்தை விட",
+          "en": "Than store of wealth",
+          "hi": "ऐश्वर्य से"
+        },
+        {
+          "no": 5,
+          "word": "சான்றோர் <br>(Saandror)",
+          "ta": "சான்றோரின்",
+          "en": "Of perfect soul",
+          "hi": "सज्जन को"
+        },
+        {
+          "no": 6,
+          "word": "கழி நல்குரவே <br>(Kazhi nalkurave)",
+          "ta": "மிகக் கொடிய வறுமையே",
+          "en": "Sorest poverty",
+          "hi": "अति दारिद्र्य ही"
+        },
+        {
+          "no": 7,
+          "word": "தலை <br>(Thalai)",
+          "ta": "சிறந்தது",
+          "en": "Richer gain",
+          "hi": "वर्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பழிமலைந் தெய்திய வாக்கத்திற் சான்றோர்",
+          "line2": "கழிநல் குரவே தலை."
+        },
+        "en": {
+          "line1": "Than store of wealth guilt-laden souls obtain,",
+          "line2": "The sorest poverty of perfect soul is richer gain."
+        },
+        "hi": {
+          "line1": "दोष वहन कर प्राप्त जो, सज्जन को ऐश्वर्य ।",
+          "line2": "उससे अति दारिद्र्य ही, सहना उसको वर्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pazhimalain Dheydhiya Vaakkaththir Saandror",
+            "line2": "Kazhinal Kurave Thalai."
+          },
+          "hi": {
+            "line1": "पऴिमलैन् दॆय्दिय वाक्कत्तिर् सान्द्रोर्",
+            "line2": "कऴिनल् कुरवे तलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பழிச் செயலைச் செய்து சேர்த்த செல்வத்தை விட, சான்றோர்க்கு மிகக் கொடிய வறுமையே மேலானதாகும்.",
+        "en": "Honest poverty is worth far more than riches built on wrongdoing.",
+        "hi": "दोष और अपयश मोल लेकर प्राप्त किए गए ऐश्वर्य की अपेक्षा, सज्जन पुरुषों के लिए अत्यन्त दरिद्रता सहना ही अधिक श्रेष्ठ है।"
+      }
+    },
+    {
+      "num": 658,
+      "line1": "கடிந்த கடிந்தொரார் செய்தார்க் கவைதா",
+      "line2": "முடிந்தாலும் பீழை தரும்.",
+      "enLine1": "To those who hate reproof and do forbidden thing,",
+      "enLine2": "What prospers now, in after days shall anguish bring.",
+      "hiLine1": "वर्ज किये बिन वर्ज्य सब, जो करता दुष्कर्म ।",
+      "hiLine2": "कार्य-पूर्ति ही क्यों न हो, पीड़ा दें वे कर्म ॥",
+      "general": "சான்றோரால் விலக்கப்பட்ட தீய செயல்களை விலக்காமல் செய்தவர்களுக்கு, அச்செயல்கள் வெற்றிகரமாக முடிந்தாலும் பின்னால் துன்பத்தைத் தரும்.",
+      "en": "For those who ignore moral warnings and do forbidden deeds, even apparent success will eventually bring sorrow.",
+      "hi": "निषिद्ध और बुरे कर्मों को त्यागे बिना जो उन्हें करता है, भले ही उसका कार्य सफल होता दिखे, अन्त में वे कर्म उसे पीड़ा ही देते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கடிந்த <br>(Kadindha)",
+          "ta": "விலக்கப்பட்டவற்றை",
+          "en": "Forbidden thing",
+          "hi": "वर्ज्य सब"
+        },
+        {
+          "no": 2,
+          "word": "கடிந்து ஒரார் <br>(Kadindhu oraarr)",
+          "ta": "விலக்கி நீங்காதவராய்",
+          "en": "Hate reproof",
+          "hi": "वर्ज किये बिन"
+        },
+        {
+          "no": 3,
+          "word": "செய்தார்க்கு <br>(Seydhaarkku)",
+          "ta": "செய்தவர்களுக்கு",
+          "en": "To those who do",
+          "hi": "जो करता दुष्कर्म"
+        },
+        {
+          "no": 4,
+          "word": "அவை தாம் <br>(Avai thaam)",
+          "ta": "அச்செயல்கள்",
+          "en": "What prospers",
+          "hi": "वे कर्म"
+        },
+        {
+          "no": 5,
+          "word": "முடிந்தாலும் <br>(Mudindhaalum)",
+          "ta": "நிறைவேறினாலும்",
+          "en": "In after days",
+          "hi": "कार्य-पूर्ति ही क्यों न हो"
+        },
+        {
+          "no": 6,
+          "word": "பீழை <br>(Peezhai)",
+          "ta": "துன்பத்தை",
+          "en": "Anguish",
+          "hi": "पीड़ा"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "கொடுக்கும்",
+          "en": "Shall bring",
+          "hi": "दें"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கடிந்த கடிந்தொரார் செய்தார்க் கவைதா",
+          "line2": "முடிந்தாலும் பீழை தரும்."
+        },
+        "en": {
+          "line1": "To those who hate reproof and do forbidden thing,",
+          "line2": "What prospers now, in after days shall anguish bring."
+        },
+        "hi": {
+          "line1": "वर्ज किये बिन वर्ज्य सब, जो करता दुष्कर्म ।",
+          "line2": "कार्य-पूर्ति ही क्यों न हो, पीड़ा दें वे कर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kadindha Kadindhoraar Seydhaark Kavaidhaa",
+            "line2": "Mudindhaalum Peezhai Tharum."
+          },
+          "hi": {
+            "line1": "कडिन्द कडिन्दॊरार् सॆय्दार्क् कवैदा",
+            "line2": "मुडिन्दालुम् पीऴै तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சான்றோரால் விலக்கப்பட்ட தீய செயல்களை விலக்காமல் செய்தவர்களுக்கு, அச்செயல்கள் வெற்றிகரமாக முடிந்தாலும் பின்னால் துன்பத்தைத் தரும்.",
+        "en": "Short-term wins from unethical shortcuts always catch up with you and turn into pain later.",
+        "hi": "निषिद्ध और बुरे कर्मों को त्यागे बिना जो उन्हें करता है, भले ही उसका कार्य सफल होता दिखे, अन्त में वे कर्म उसे पीड़ा ही देते हैं।"
+      }
+    },
+    {
+      "num": 659,
+      "line1": "அழக்கொண்ட எல்லாம் அழப்போம் இழப்பினும்",
+      "line2": "பிற்பயக்கும் நற்பா லவை.",
+      "enLine1": "What's gained through tears with tears shall go;",
+      "enLine2": "From loss good deeds entail harvests of blessings grow.",
+      "hiLine1": "रुला अन्य को प्राप्त सब, रुला उसे वह जाय ।",
+      "hiLine2": "खो कर भी सत्संपदा, पीछे फल दे जाय ॥",
+      "general": "பிறர் அழுமாறு தீய வழியில் சேர்த்த செல்வம் எல்லாம் நாமும் அழுமாறு அழிந்து போகும்; நல்ல வழியில் இழந்தாலும் பின்னால் நன்மை பயக்கும்.",
+      "en": "Wealth gained by making others weep will depart leaving you in tears; what is lost through righteous deeds yields future blessings.",
+      "hi": "दूसरों को रुलाकर जो कुछ प्राप्त किया जाता है, वह सब स्वयं को रुलाकर ही नष्ट हो जाता है; जबकि सद्मार्ग से हुई हानि भी बाद में शुभ फल देती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அழக் கொண்ட <br>(Azha konda)",
+          "ta": "பிறர் அழும்படி பெற்ற",
+          "en": "Gained through tears",
+          "hi": "रुला अन्य को प्राप्त"
+        },
+        {
+          "no": 2,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாம்",
+          "en": "All",
+          "hi": "सब"
+        },
+        {
+          "no": 3,
+          "word": "அழப் போம் <br>(Azha pom)",
+          "ta": "நாம் அழும்படி போய்விடும்",
+          "en": "With tears shall go",
+          "hi": "रुला उसे वह जाय"
+        },
+        {
+          "no": 4,
+          "word": "இழப்பினும் <br>(Izhappinum)",
+          "ta": "இழந்தாலும்",
+          "en": "From loss",
+          "hi": "खो कर भी"
+        },
+        {
+          "no": 5,
+          "word": "பின் <br>(Pin)",
+          "ta": "பின்னால்",
+          "en": "Harvests",
+          "hi": "पीछे"
+        },
+        {
+          "no": 6,
+          "word": "பயக்கும் <br>(Payakkum)",
+          "ta": "நன்மை தரும்",
+          "en": "Blessings grow",
+          "hi": "फल दे जाय"
+        },
+        {
+          "no": 7,
+          "word": "நற்பாலவை <br>(Narpaalavai)",
+          "ta": "நல்ல செயல்கள்",
+          "en": "Good deeds",
+          "hi": "सत्संपदा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அழக்கொண்ட எல்லாம் அழப்போம் இழப்பினும்",
+          "line2": "பிற்பயக்கும் நற்பா லவை."
+        },
+        "en": {
+          "line1": "What's gained through tears with tears shall go;",
+          "line2": "From loss good deeds entail harvests of blessings grow."
+        },
+        "hi": {
+          "line1": "रुला अन्य को प्राप्त सब, रुला उसे वह जाय ।",
+          "line2": "खो कर भी सत्संपदा, पीछे फल दे जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Azhakkonda Ellaam Azhappom Izhappinum",
+            "line2": "Pirpayakkum Narpaa Lavai."
+          },
+          "hi": {
+            "line1": "अऴक्कॊण्ड ऎल्लाम् अऴप्पोम् इऴप्पिनुम्",
+            "line2": "पिर्पयक्कुम् नर्पा लवै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறர் அழுமாறு தீய வழியில் சேர்த்த செல்வம் எல்லாம் நாமும் அழுமாறு அழிந்து போகும்; நல்ல வழியில் இழந்தாலும் பின்னால் நன்மை பயக்கும்.",
+        "en": "Ill-gotten gains vanish in grief, whereas sacrifices made for doing the right thing pay off in the long run.",
+        "hi": "दूसरों को रुलाकर जो कुछ प्राप्त किया जाता है, वह सब स्वयं को रुलाकर ही नष्ट हो जाता है; जबकि सद्मार्ग से हुई हानि भी बाद में शुभ फल देती है।"
+      }
+    },
+    {
+      "num": 660,
+      "line1": "சலத்தாற் பொருள்செய்தே மார்த்தல் பசுமட்",
+      "line2": "கலத்துணீர் பெய்திரீஇ யற்று.",
+      "enLine1": "In pot of clay unburnt he water pours and would retain,",
+      "enLine2": "Who seeks by wrong the realm in wealth and safety to maintain.",
+      "hiLine1": "छल से धन को जोड़ कर, रखने की तदबीर ।",
+      "hiLine2": "कच्चे मिट्टी कलश में, भर रखना ज्यों नीर ॥",
+      "general": "வஞ்சனையால் பொருள் சேர்த்து அதனைக் காப்பாற்றி வைக்க நினைப்பது, சுடாத பச்சை மண் கலத்தில் நீரை ஊற்றி வைக்க முயல்வது போன்றதாகும்.",
+      "en": "Trying to amass and preserve wealth through deceit is like pouring water into an unbaked clay pot expecting it to hold.",
+      "hi": "छल-कपट से धन इकट्ठा करके उसे सुरक्षित रखने का प्रयास करना वैसा ही व्यर्थ है, जैसे कच्ची मिट्टी के घड़े में पानी भरकर रखना।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சலத்தால் <br>(Salaththaal)",
+          "ta": "வஞ்சனையால்",
+          "en": "By wrong",
+          "hi": "छल से"
+        },
+        {
+          "no": 2,
+          "word": "பொருள் செய்து <br>(Porul seydhu)",
+          "ta": "பொருள் ஈட்டி",
+          "en": "Wealth",
+          "hi": "धन को जोड़ कर"
+        },
+        {
+          "no": 3,
+          "word": "ஏமார்த்தல் <br>(Emaarththal)",
+          "ta": "காத்து வைத்தல்",
+          "en": "Maintain",
+          "hi": "रखने की तदबीर"
+        },
+        {
+          "no": 4,
+          "word": "பசு மண் <br>(Pasu man)",
+          "ta": "சுடாத பச்சை மண்",
+          "en": "Clay unburnt",
+          "hi": "कच्चे मिट्टी"
+        },
+        {
+          "no": 5,
+          "word": "கலத்துள் <br>(Kalaththul)",
+          "ta": "பாத்திரத்தில்",
+          "en": "In pot",
+          "hi": "कलश में"
+        },
+        {
+          "no": 6,
+          "word": "நீர் பெய்து <br>(Neer peydhu)",
+          "ta": "நீரை ஊற்றி",
+          "en": "Water pours",
+          "hi": "भर नीर"
+        },
+        {
+          "no": 7,
+          "word": "இரீஇயற்று <br>(Ireeiyatru)",
+          "ta": "வைத்ததைப் போன்றது",
+          "en": "Would retain",
+          "hi": "रखना ज्यों"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சலத்தாற் பொருள்செய்தே மார்த்தல் பசுமட்",
+          "line2": "கலத்துணீர் பெய்திரீஇ யற்று."
+        },
+        "en": {
+          "line1": "In pot of clay unburnt he water pours and would retain,",
+          "line2": "Who seeks by wrong the realm in wealth and safety to maintain."
+        },
+        "hi": {
+          "line1": "छल से धन को जोड़ कर, रखने की तदबीर ।",
+          "line2": "कच्चे मिट्टी कलश में, भर रखना ज्यों नीर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Salaththaar Porulseydhe Maarththal Pasumat",
+            "line2": "Kalaththuneer Peydhireei Yatru."
+          },
+          "hi": {
+            "line1": "सलत्तार् पॊरुळ्सॆय्दे मार्त्तल् पसुमड्",
+            "line2": "कलत्तुणीर् पॆय्दिरीइ यत्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வஞ்சனையால் பொருள் சேர்த்து அதனைக் காப்பாற்றி வைக்க நினைப்பது, சுடாத பச்சை மண் கலத்தில் நீரை ஊற்றி வைக்க முயல்வது போன்றதாகும்.",
+        "en": "Building wealth on fraud and expecting it to last is like trying to store water in an unbaked clay pot—it will inevitably collapse.",
+        "hi": "छल-कपट से धन इकट्ठा करके उसे सुरक्षित रखने का प्रयास करना वैसा ही व्यर्थ है, जैसे कच्ची मिट्टी के घड़े में पानी भरकर रखना।"
+      }
+    }
+  ]
+}

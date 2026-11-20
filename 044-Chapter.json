@@ -1,0 +1,930 @@
+{
+  "chapterNum": 44,
+  "nameTa": "குற்றங்கடிதல்",
+  "nameEn": "The Correction of Faults",
+  "nameHi": "दोष-निवारण",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 431,
+      "line1": "செருக்குஞ் சினமுஞ் சிறுமையு மில்லார்",
+      "line2": "பெருக்கம் பெருமித நீர்த்து.",
+      "enLine1": "Who arrogance, and wrath, and littleness of low desire restrain,",
+      "enLine2": "To sure increase of lofty dignity attain.",
+      "hiLine1": "काम क्रोध मद दोष से, जो होते हैं मुक्त ।",
+      "hiLine2": "उनकी जो बढ़ती हुई, होती महिमा-युक्त ॥",
+      "general": "செருக்கும் (ஆணவம்), சினமும், கீழ்த்தரமான ஆசையும் இல்லாதவர்களின் செல்வப் பெருக்கம், அனைவராலும் மதிக்கப்படும் பெருமை உடையதாகும்.",
+      "en": "The prosperity of those who are free from pride, anger, and petty lust is worthy of lofty dignity and admiration.",
+      "hi": "जो लोग काम, क्रोध और मद (अहंकार) जैसे दोषों से मुक्त होते हैं, उनकी निरंतर बढ़ती हुई उन्नति अत्यंत महिमायुक्त होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செருக்கும் <br>(Serukkum)",
+          "ta": "ஆணவமும்",
+          "en": "Arrogance",
+          "hi": "मद"
+        },
+        {
+          "no": 2,
+          "word": "சினமும் <br>(Sinamum)",
+          "ta": "கோபமும்",
+          "en": "Wrath",
+          "hi": "क्रोध"
+        },
+        {
+          "no": 3,
+          "word": "சிறுமையும் <br>(Sirumaiyum)",
+          "ta": "கீழ்மையான ஆசையும்",
+          "en": "Low desire",
+          "hi": "काम दोष से"
+        },
+        {
+          "no": 4,
+          "word": "இல்லார் <br>(Illaar)",
+          "ta": "இல்லாதவரது",
+          "en": "Who restrain",
+          "hi": "जो होते हैं मुक्त"
+        },
+        {
+          "no": 5,
+          "word": "பெருக்கம் <br>(Perukkam)",
+          "ta": "செல்வப் பெருக்கம்",
+          "en": "Sure increase",
+          "hi": "उनकी बढ़ती हुई"
+        },
+        {
+          "no": 6,
+          "word": "பெருமித <br>(Perumidha)",
+          "ta": "பெருமைக்குரிய",
+          "en": "Lofty dignity",
+          "hi": "महिमा-युक्त"
+        },
+        {
+          "no": 7,
+          "word": "நீர்த்து <br>(Neerththu)",
+          "ta": "தன்மையது",
+          "en": "Attain / nature",
+          "hi": "होती है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செருக்குஞ் சினமுஞ் சிறுமையு மில்லார்",
+          "line2": "பெருக்கம் பெருமித நீர்த்து."
+        },
+        "en": {
+          "line1": "Who arrogance, and wrath, and littleness of low desire restrain,",
+          "line2": "To sure increase of lofty dignity attain."
+        },
+        "hi": {
+          "line1": "काम क्रोध मद दोष से, जो होते हैं मुक्त ।",
+          "line2": "उनकी जो बढ़ती हुई, होती महिमा-युक्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Serukkunj Sinamunj Sirumaiyum Illaar",
+            "line2": "Perukkam Perumidha Neerththu."
+          },
+          "hi": {
+            "line1": "सॆरुक्कुञ् सिनमुञ् सिरुमैयु मिल्लार्",
+            "line2": "पॆरुक्कम् पॆरुमिद नीर्त्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செருக்கும் (ஆணவம்), சினமும், கீழ்த்தரமான ஆசையும் இல்லாதவர்களின் செல்வப் பெருக்கம், அனைவராலும் மதிக்கப்படும் பெருமை உடையதாகும்.",
+        "en": "When someone is free from arrogance, temper, and petty cravings, their growing success carries genuine dignity.",
+        "hi": "जो लोग काम, क्रोध और मद (अहंकार) जैसे दोषों से मुक्त होते हैं, उनकी निरंतर बढ़ती हुई उन्नति अत्यंत महिमायुक्त होती है।"
+      }
+    },
+    {
+      "num": 432,
+      "line1": "இவறலு மாண்பிறந்த மானமு மாணா",
+      "line2": "வுவகையு மேத மிறைக்கு.",
+      "enLine1": "A niggard hand, o'erweening self-regard, and mirth",
+      "enLine2": "Unseemly, bring disgrace to men of kingly birth.",
+      "hiLine1": "हाथ खींचना दान से, रखना मिथ्या मान ।",
+      "hiLine2": "नृप का अति दाक्षिण्य भी, मानो दोष अमान ॥",
+      "general": "கஞ்சத்தனமும், தகுதிக்கு மீறிய போலி மானமும், அளவு கடந்த மகிழ்ச்சியும் அரசனுக்குக் குற்றங்களாகும்.",
+      "en": "Miserliness, exaggerated false pride, and unseemly indulgence in pleasure are grave faults in a ruler.",
+      "hi": "दान देने से हाथ खींचना (कंजूसी), झूठा अभिमान रखना और राजा का अत्यधिक भोग-विलास (दाक्षिण्य) करना—ये सब अमाननीय दोष हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இவறலும் <br>(Ivaralum)",
+          "ta": "கஞ்சத்தனமும்",
+          "en": "Niggard hand",
+          "hi": "हाथ खींचना दान से"
+        },
+        {
+          "no": 2,
+          "word": "மாண்பிறந்த மானமும் <br>(Maanbirandha maanamum)",
+          "ta": "தகுதி கடந்த மானமும்",
+          "en": "O'erweening self-regard",
+          "hi": "मिथ्या मान"
+        },
+        {
+          "no": 3,
+          "word": "மாணா <br>(Maanaa)",
+          "ta": "தகாத",
+          "en": "Unseemly",
+          "hi": "अति"
+        },
+        {
+          "no": 4,
+          "word": "உவகையும் <br>(Uvagaiyum)",
+          "ta": "மகிழ்ச்சியும்",
+          "en": "Mirth",
+          "hi": "दाक्षिण्य"
+        },
+        {
+          "no": 5,
+          "word": "ஏதம் <br>(Edham)",
+          "ta": "குற்றமாகும்",
+          "en": "Bring disgrace",
+          "hi": "दोष अमान"
+        },
+        {
+          "no": 6,
+          "word": "இறைக்கு <br>(Iraikku)",
+          "ta": "அரசனுக்கு",
+          "en": "Kingly birth",
+          "hi": "नृप का"
+        },
+        {
+          "no": 7,
+          "word": "இவை <br>(Ivai)",
+          "ta": "இவை",
+          "en": "These",
+          "hi": "ये"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இவறலு மாண்பிறந்த மானமு மாணா",
+          "line2": "வுவகையு மேத மிறைக்கு."
+        },
+        "en": {
+          "line1": "A niggard hand, o'erweening self-regard, and mirth",
+          "line2": "Unseemly, bring disgrace to men of kingly birth."
+        },
+        "hi": {
+          "line1": "हाथ खींचना दान से, रखना मिथ्या मान ।",
+          "line2": "नृप का अति दाक्षिण्य भी, मानो दोष अमान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ivaralum Maanbirandha Maanamum Maanaa",
+            "line2": "Uvagaiyum Edham Iraikku."
+          },
+          "hi": {
+            "line1": "इवरलु माण्पिरन्द मानमु माणा",
+            "line2": "वुवगैयु मेद मिरैक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கஞ்சத்தனமும், தகுதிக்கு மீறிய போலி மானமும், அளவு கடந்த மகிழ்ச்சியும் அரசனுக்குக் குற்றங்களாகும்.",
+        "en": "Stinginess, misplaced vanity, and undignified indulgence are three flaws that undermine a leader.",
+        "hi": "दान देने से हाथ खींचना (कंजूसी), झूठा अभिमान रखना और राजा का अत्यधिक भोग-विलास (दाक्षिण्य) करना—ये सब अमाननीय दोष हैं।"
+      }
+    },
+    {
+      "num": 433,
+      "line1": "தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக்",
+      "line2": "கொள்வர் பழிநாணு வார்.",
+      "enLine1": "Though small as millet-seed the fault men deem;",
+      "enLine2": "As palm-tree vast to those who fear disgrace 'twill seem.",
+      "hiLine1": "निन्दा का डर है जिन्हें, तिलभर निज अपराध ।",
+      "hiLine2": "होता तो बस ताड़ सम, मानें उसे अगाध ॥",
+      "general": "பழிக்கு அஞ்சும் பண்பாளர்கள் தம்மிடம் தினை அளவு சிறிய குற்றம் வந்தாலும், அதனைப் பனைமரம் அளவு பெரியதாகக் கருதி விலக்குவார்கள்.",
+      "en": "Those who dread disgrace treat even a fault as tiny as a millet seed as if it were as huge as a palmyra tree.",
+      "hi": "जिन लोगों को निंदा और अपयश का भय रहता है, वे अपने तिलभर (छोटे से) अपराध को भी ताड़ के वृक्ष के समान विशाल मानकर उससे बचते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தினைத்துணையாம் <br>(Thinaiththunaiyaam)",
+          "ta": "தினையளவு சிறிய",
+          "en": "Small as millet-seed",
+          "hi": "तिलभर"
+        },
+        {
+          "no": 2,
+          "word": "குற்றம் <br>(Kutram)",
+          "ta": "குற்றம்",
+          "en": "Fault",
+          "hi": "निज अपराध"
+        },
+        {
+          "no": 3,
+          "word": "வரினும் <br>(Varinum)",
+          "ta": "வந்தாலும்",
+          "en": "Though deem",
+          "hi": "होता तो"
+        },
+        {
+          "no": 4,
+          "word": "பனைத்துணையா <br>(Panaiththunaiyaa)",
+          "ta": "பனை அளவு பெரியதாகக்",
+          "en": "As palm-tree vast",
+          "hi": "ताड़ सम अगाध"
+        },
+        {
+          "no": 5,
+          "word": "கொள்வர் <br>(Kolvar)",
+          "ta": "கருதுவர்",
+          "en": "'Twill seem",
+          "hi": "मानें उसे"
+        },
+        {
+          "no": 6,
+          "word": "பழி <br>(Pazhi)",
+          "ta": "பழிக்கு",
+          "en": "Disgrace",
+          "hi": "निन्दा का"
+        },
+        {
+          "no": 7,
+          "word": "நாணுவார் <br>(Naanuvaar)",
+          "ta": "அஞ்சுவோர்",
+          "en": "Who fear",
+          "hi": "डर है जिन्हें"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக்",
+          "line2": "கொள்வர் பழிநாணு வார்."
+        },
+        "en": {
+          "line1": "Though small as millet-seed the fault men deem;",
+          "line2": "As palm-tree vast to those who fear disgrace 'twill seem."
+        },
+        "hi": {
+          "line1": "निन्दा का डर है जिन्हें, तिलभर निज अपराध ।",
+          "line2": "होता तो बस ताड़ सम, मानें उसे अगाध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thinaiththunaiyaang Kutram Varinum Panaiththunaiyaak",
+            "line2": "Kolvar Pazhinaanu Vaar."
+          },
+          "hi": {
+            "line1": "तिनैत्तुणैयाङ् कुत्रम् वरिनुम् पनैत्तुणैयाक्",
+            "line2": "कॊळ्वर् पऴिनाणु वार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பழிக்கு அஞ்சும் பண்பாளர்கள் தம்மிடம் தினை அளவு சிறிய குற்றம் வந்தாலும், அதனைப் பனைமரம் அளவு பெரியதாகக் கருதி விலக்குவார்கள்.",
+        "en": "People with integrity don't brush off small mistakes—even a flaw the size of a tiny grain feels as big as a palm tree to them.",
+        "hi": "जिन लोगों को निंदा और अपयश का भय रहता है, वे अपने तिलभर (छोटे से) अपराध को भी ताड़ के वृक्ष के समान विशाल मानकर उससे बचते हैं।"
+      }
+    },
+    {
+      "num": 434,
+      "line1": "குற்றமே காக்க பொருளாகக் குற்றமே",
+      "line2": "யற்றந் தரூஉம் பகை.",
+      "enLine1": "Freedom from faults is wealth; watch heedfully",
+      "enLine2": "'Gainst these, for fault is fatal enmity.",
+      "hiLine1": "बचकर रहना दोष से, लक्ष्य मान अत्यंत ।",
+      "hiLine2": "परम शत्रु है दोष ही, जो कर देगा अंत ॥",
+      "general": "குற்றம் வராமல் காப்பதையே சிறந்த செல்வமாகக் கருத வேண்டும்; ஏனெனில் குற்றமே ஒருவனுக்கு அழிவைத் தரும் பகையாகும்.",
+      "en": "Guard against faults as your greatest treasure, for one's own faults are the deadliest enemy that brings ruin.",
+      "hi": "अपने जीवन का मुख्य लक्ष्य मानकर दोषों से बचकर रहना चाहिए, क्योंकि मनुष्य का अपना दोष ही उसका सबसे बड़ा शत्रु है जो उसका अंत कर देगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குற்றமே <br>(Kutrame)",
+          "ta": "குற்றம் வராமல்",
+          "en": "Freedom from faults",
+          "hi": "दोष से"
+        },
+        {
+          "no": 2,
+          "word": "காக்க <br>(Kaakka)",
+          "ta": "காக்க வேண்டும்",
+          "en": "Watch heedfully",
+          "hi": "बचकर रहना"
+        },
+        {
+          "no": 3,
+          "word": "பொருளாக <br>(Porulaagha)",
+          "ta": "செல்வமாகக் கருதி",
+          "en": "Is wealth",
+          "hi": "लक्ष्य मान अत्यंत"
+        },
+        {
+          "no": 4,
+          "word": "குற்றமே <br>(Kutrame)",
+          "ta": "அக்குற்றமே",
+          "en": "For fault",
+          "hi": "दोष ही"
+        },
+        {
+          "no": 5,
+          "word": "அற்றம் <br>(Atram)",
+          "ta": "அழிவைத்",
+          "en": "Fatal",
+          "hi": "अंत"
+        },
+        {
+          "no": 6,
+          "word": "தரூஉம் <br>(Tharooum)",
+          "ta": "தருகின்ற",
+          "en": "Brings",
+          "hi": "कर देगा"
+        },
+        {
+          "no": 7,
+          "word": "பகை <br>(Pagai)",
+          "ta": "பகையாகும்",
+          "en": "Enmity",
+          "hi": "परम शत्रु है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குற்றமே காக்க பொருளாகக் குற்றமே",
+          "line2": "யற்றந் தரூஉம் பகை."
+        },
+        "en": {
+          "line1": "Freedom from faults is wealth; watch heedfully",
+          "line2": "'Gainst these, for fault is fatal enmity."
+        },
+        "hi": {
+          "line1": "बचकर रहना दोष से, लक्ष्य मान अत्यंत ।",
+          "line2": "परम शत्रु है दोष ही, जो कर देगा अंत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kutrame Kaakka Porulaaghak Kutrame",
+            "line2": "Atram Tharooum Pagai."
+          },
+          "hi": {
+            "line1": "कुत्रमे काक्क पॊरुळागक् कुत्रमे",
+            "line2": "यत्रन् तरूउम् पगै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குற்றம் வராமல் காப்பதையே சிறந்த செல்வமாகக் கருத வேண்டும்; ஏனெனில் குற்றமே ஒருவனுக்கு அழிவைத் தரும் பகையாகும்.",
+        "en": "Treat staying free of moral flaws as your real wealth—because your own unaddressed faults are the enemy most likely to ruin you.",
+        "hi": "अपने जीवन का मुख्य लक्ष्य मानकर दोषों से बचकर रहना चाहिए, क्योंकि मनुष्य का अपना दोष ही उसका सबसे बड़ा शत्रु है जो उसका अंत कर देगा।"
+      }
+    },
+    {
+      "num": 435,
+      "line1": "வருமுன்னர்க் காவாதான் வாழ்க்கை யெரிமுன்னர்",
+      "line2": "வைத்தூறு போலக் கெடும்.",
+      "enLine1": "His joy who guards not 'gainst the coming evil day,",
+      "enLine2": "Like straw before the fire shall swift consume away.",
+      "hiLine1": "दोष उपस्थिति पूर्व ही, किया न जीवन रक्ष ।",
+      "hiLine2": "तो वह मिटता है यथा, भूसा अग्नि समक्ष ॥",
+      "general": "குற்றம் வருவதற்கு முன்பே தம்மைக் காத்துக்கொள்ளாதவனது வாழ்க்கை, நெருப்பின் முன்னே வைக்கப்பட்ட வைக்கோல் போர் போல் அழிந்துபோகும்.",
+      "en": "The life of one who does not guard against faults before they arrive will perish like a stack of straw placed before fire.",
+      "hi": "जिसने दोष के आने से पहले ही अपने जीवन की रक्षा नहीं की, उसका जीवन उसी प्रकार नष्ट हो जाता है जैसे आग के सामने रखा हुआ भूसा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வருமுன்னர் <br>(Varumunnar)",
+          "ta": "குற்றம் வருவதற்கு முன்பே",
+          "en": "Coming evil day",
+          "hi": "दोष उपस्थिति पूर्व ही"
+        },
+        {
+          "no": 2,
+          "word": "காவாதான் <br>(Kaavaadhaan)",
+          "ta": "காத்துக்கொள்ளாதவனது",
+          "en": "Who guards not",
+          "hi": "किया न रक्ष"
+        },
+        {
+          "no": 3,
+          "word": "வாழ்க்கை <br>(Vaazhkkai)",
+          "ta": "வாழ்க்கை",
+          "en": "His joy / life",
+          "hi": "जीवन"
+        },
+        {
+          "no": 4,
+          "word": "எரிமுன்னர் <br>(Erimunnar)",
+          "ta": "நெருப்பின் முன்னே",
+          "en": "Before the fire",
+          "hi": "अग्नि समक्ष"
+        },
+        {
+          "no": 5,
+          "word": "வைத்தூறு <br>(Vaiththooru)",
+          "ta": "வைக்கோல் போர்",
+          "en": "Straw",
+          "hi": "भूसा"
+        },
+        {
+          "no": 6,
+          "word": "போல <br>(Pola)",
+          "ta": "போல",
+          "en": "Like",
+          "hi": "यथा"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "அழிந்துபோம்",
+          "en": "Consume away",
+          "hi": "मिटता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வருமுன்னர்க் காவாதான் வாழ்க்கை யெரிமுன்னர்",
+          "line2": "வைத்தூறு போலக் கெடும்."
+        },
+        "en": {
+          "line1": "His joy who guards not 'gainst the coming evil day,",
+          "line2": "Like straw before the fire shall swift consume away."
+        },
+        "hi": {
+          "line1": "दोष उपस्थिति पूर्व ही, किया न जीवन रक्ष ।",
+          "line2": "तो वह मिटता है यथा, भूसा अग्नि समक्ष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Varumunnar Kaavaadhaan Vaazhkkai Erimunnar",
+            "line2": "Vaiththooru Polak Kedum."
+          },
+          "hi": {
+            "line1": "वरुमुन्नर्क् कावादान् वाऴ्क्कै यॆरिमुन्नर्",
+            "line2": "वैत्तूरु पोलक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குற்றம் வருவதற்கு முன்பே தம்மைக் காத்துக்கொள்ளாதவனது வாழ்க்கை, நெருப்பின் முன்னே வைக்கப்பட்ட வைக்கோல் போர் போல் அழிந்துபோகும்.",
+        "en": "If you wait until trouble is already at your door before guarding against your flaws, your life will burn up like dry straw in front of a fire.",
+        "hi": "जिसने दोष के आने से पहले ही अपने जीवन की रक्षा नहीं की, उसका जीवन उसी प्रकार नष्ट हो जाता है जैसे आग के सामने रखा हुआ भूसा।"
+      }
+    },
+    {
+      "num": 436,
+      "line1": "தன்குற்ற நீக்கிப் பிறர்குற்றங் காண்கிற்பி",
+      "line2": "னென்குற்ற மாகு மிறைக்கு.",
+      "enLine1": "Faultless the king who first his own faults cures, and then",
+      "enLine2": "Permits himself to scan the faults of other men.",
+      "hiLine1": "दोष-मुक्त कर आपको, बाद पराया दोष ।",
+      "hiLine2": "जो देखे उस भूप में, हो सकता क्या दोष ॥",
+      "general": "முதலில் தன் குற்றத்தை நீக்கிப் பின்னர் பிறர் குற்றத்தை ஆராய வல்ல அரசனுக்கு, எந்தக் குற்றமும் ஏற்படாது.",
+      "en": "What fault can there be in a king who first removes his own faults and then looks into the faults of others?",
+      "hi": "जो राजा पहले स्वयं को दोष-मुक्त करके फिर दूसरों के दोष देखता है, भला उस राजा में कोई दोष कैसे हो सकता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "தன் குற்றம் <br>(Than kutram)",
+          "ta": "தன்னுடைய குற்றத்தை",
+          "en": "His own faults",
+          "hi": "आपको दोष"
+        },
+        {
+          "no": 2,
+          "word": "நீக்கி <br>(Neekki)",
+          "ta": "நீக்கி",
+          "en": "Cures",
+          "hi": "मुक्त कर"
+        },
+        {
+          "no": 3,
+          "word": "பிறர் குற்றம் <br>(Pirar kutram)",
+          "ta": "மற்றவர் குற்றத்தை",
+          "en": "Faults of other men",
+          "hi": "बाद पराया दोष"
+        },
+        {
+          "no": 4,
+          "word": "காண்கிற்பின் <br>(Kaankirpin)",
+          "ta": "ஆராய்வானாயின்",
+          "en": "Scan",
+          "hi": "जो देखे"
+        },
+        {
+          "no": 5,
+          "word": "என் குற்றம் <br>(En kutram)",
+          "ta": "என்ன குற்றம்",
+          "en": "What fault",
+          "hi": "क्या दोष"
+        },
+        {
+          "no": 6,
+          "word": "ஆகும் <br>(Aagum)",
+          "ta": "உண்டாகும்",
+          "en": "Can there be",
+          "hi": "हो सकता"
+        },
+        {
+          "no": 7,
+          "word": "இறைக்கு <br>(Iraikku)",
+          "ta": "அரசனுக்கு",
+          "en": "The king",
+          "hi": "उस भूप में"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தன்குற்ற நீக்கிப் பிறர்குற்றங் காண்கிற்பி",
+          "line2": "னென்குற்ற மாகு மிறைக்கு."
+        },
+        "en": {
+          "line1": "Faultless the king who first his own faults cures, and then",
+          "line2": "Permits himself to scan the faults of other men."
+        },
+        "hi": {
+          "line1": "दोष-मुक्त कर आपको, बाद पराया दोष ।",
+          "line2": "जो देखे उस भूप में, हो सकता क्या दोष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thankutram Neekkip Pirarkutram Kaankirpin",
+            "line2": "Enkutram Aagum Iraikku."
+          },
+          "hi": {
+            "line1": "तन्कुत्र नीक्किप् पिरर्कुत्रङ् काण्किर्पि",
+            "line2": "नॆन्कुत्र मागु मिरैक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முதலில் தன் குற்றத்தை நீக்கிப் பின்னர் பிறர் குற்றத்தை ஆராய வல்ல அரசனுக்கு, எந்தக் குற்றமும் ஏற்படாது.",
+        "en": "A leader who fixes their own flaws first before pointing out anyone else's stands above reproach.",
+        "hi": "जो राजा पहले स्वयं को दोष-मुक्त करके फिर दूसरों के दोष देखता है, भला उस राजा में कोई दोष कैसे हो सकता है?"
+      }
+    },
+    {
+      "num": 437,
+      "line1": "செயற்பால செய்யா திவறியான் செல்வ",
+      "line2": "முயற்பால தன்றிக் கெடும்.",
+      "enLine1": "Who leaves undone what should be done, with niggard mind,",
+      "enLine2": "His wealth shall perish, leaving not a wrack behind.",
+      "hiLine1": "जो धन में आसक्त है, बिना किये कर्तव्य ।",
+      "hiLine2": "जमता उसके पास जो, व्यर्थ जाय वह द्रव्य ॥",
+      "general": "செய்ய வேண்டிய நற்செயல்களைச் செய்யாமல் கஞ்சத்தனத்தோடு சேர்த்து வைக்கும் உலோபியின் செல்வம், பயனற்று அழிந்துபோம்.",
+      "en": "The wealth of a miser who hoards it without doing what ought to be done will perish without leaving anything enduring.",
+      "hi": "जो व्यक्ति अपने कर्तव्यों (दान-पुण्य आदि) का पालन किए बिना केवल धन में आसक्त रहता है, उसके पास जमा हुआ वह धन व्यर्थ ही नष्ट हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செயற்பால <br>(Seyarpaala)",
+          "ta": "செய்யத்தக்கவற்றை",
+          "en": "What should be done",
+          "hi": "कर्तव्य"
+        },
+        {
+          "no": 2,
+          "word": "செய்யாது <br>(Seyyaadhu)",
+          "ta": "செய்யாமல்",
+          "en": "Leaves undone",
+          "hi": "बिना किये"
+        },
+        {
+          "no": 3,
+          "word": "இவறியான் <br>(Ivariyaan)",
+          "ta": "கஞ்சனது",
+          "en": "With niggard mind",
+          "hi": "जो धन में आसक्त है"
+        },
+        {
+          "no": 4,
+          "word": "செல்வம் <br>(Selvam)",
+          "ta": "செல்வம்",
+          "en": "His wealth",
+          "hi": "वह द्रव्य"
+        },
+        {
+          "no": 5,
+          "word": "உயற்பாலது <br>(Uyarpaaladhu)",
+          "ta": "நிலைத்திருக்கத் தக்கது",
+          "en": "Enduring / wrack",
+          "hi": "जमता उसके पास"
+        },
+        {
+          "no": 6,
+          "word": "அன்றி <br>(Andri)",
+          "ta": "அல்லாமல்",
+          "en": "Without",
+          "hi": "नहीं"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "அழிந்துபோம்",
+          "en": "Shall perish",
+          "hi": "व्यर्थ जाय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செயற்பால செய்யா திவறியான் செல்வ",
+          "line2": "முயற்பால தன்றிக் கெடும்."
+        },
+        "en": {
+          "line1": "Who leaves undone what should be done, with niggard mind,",
+          "line2": "His wealth shall perish, leaving not a wrack behind."
+        },
+        "hi": {
+          "line1": "जो धन में आसक्त है, बिना किये कर्तव्य ।",
+          "line2": "जमता उसके पास जो, व्यर्थ जाय वह द्रव्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seyarpaala Seyyaadhu Ivariyaan Selvam",
+            "line2": "Uyarpaaladhu Andrik Kedum."
+          },
+          "hi": {
+            "line1": "सॆयर्पाल सॆय्या तिवरियान् सॆल्व",
+            "line2": "मुयर्पाल तन्द्रिक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செய்ய வேண்டிய நற்செயல்களைச் செய்யாமல் கஞ்சத்தனத்தோடு சேர்த்து வைக்கும் உலோபியின் செல்வம், பயனற்று அழிந்துபோம்.",
+        "en": "Wealth hoarded by a miser who refuses to spend it on worthwhile duties eventually vanishes without leaving a trace of good.",
+        "hi": "जो व्यक्ति अपने कर्तव्यों (दान-पुण्य आदि) का पालन किए बिना केवल धन में आसक्त रहता है, उसके पास जमा हुआ वह धन व्यर्थ ही नष्ट हो जाता है।"
+      }
+    },
+    {
+      "num": 438,
+      "line1": "பற்றுள்ள மென்னு மிவறன்மை யெற்றுள்ளு",
+      "line2": "மெண்ணப் படுவதொன் றன்று.",
+      "enLine1": "The greed of soul that avarice men call,",
+      "enLine2": "When faults are summed, is worst of all.",
+      "hiLine1": "धनासक्ति जो लोभ है, वह है दोष विशेष ।",
+      "hiLine2": "अन्तर्गत उनके नहीं, जितने दोष अशेष ॥",
+      "general": "பொருள் மேல் பேராசை கொள்ளும் கஞ்சத்தனம் என்பது, மற்ற எந்தக் குற்றங்களுக்குள்ளும் சேர்த்து எண்ணத்தக்க சிறிய குற்றமன்று (அது எல்லாக் குற்றங்களிலும் கொடியது).",
+      "en": "That greedy clinging of the heart called avarice is not to be counted among ordinary faults—it is the worst of all.",
+      "hi": "धन के प्रति जो आसक्ति (लोभ/कृपणता) है, वह एक अत्यंत विशेष दोष है; शेष अन्य कोई भी दोष इसकी तुलना में इसके अंतर्गत नहीं आते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பற்று உள்ளம் <br>(Patru ullam)",
+          "ta": "பொருளாசை கொண்ட உள்ளம்",
+          "en": "Greed of soul",
+          "hi": "धनासक्ति"
+        },
+        {
+          "no": 2,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்று சொல்லப்படும்",
+          "en": "Men call",
+          "hi": "जो है"
+        },
+        {
+          "no": 3,
+          "word": "இவறன்மை <br>(Ivaranmai)",
+          "ta": "கஞ்சத்தனம்",
+          "en": "Avarice",
+          "hi": "लोभ"
+        },
+        {
+          "no": 4,
+          "word": "எற்றுள்ளும் <br>(Etrullum)",
+          "ta": "மற்ற எக்குற்றத்துள்ளும்",
+          "en": "When faults are summed",
+          "hi": "जितने दोष अशेष"
+        },
+        {
+          "no": 5,
+          "word": "எண்ண <br>(Enna)",
+          "ta": "சேர்த்து எண்ணப்",
+          "en": "Counted",
+          "hi": "अन्तर्गत उनके"
+        },
+        {
+          "no": 6,
+          "word": "படுவது <br>(Paduvadhu)",
+          "ta": "படுவது",
+          "en": "Being",
+          "hi": "नहीं"
+        },
+        {
+          "no": 7,
+          "word": "ஒன்றன்று <br>(Ondrandru)",
+          "ta": "ஒன்று அல்ல",
+          "en": "Worst of all",
+          "hi": "दोष विशेष"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பற்றுள்ள மென்னு மிவறன்மை யெற்றுள்ளு",
+          "line2": "மெண்ணப் படுவதொன் றன்று."
+        },
+        "en": {
+          "line1": "The greed of soul that avarice men call,",
+          "line2": "When faults are summed, is worst of all."
+        },
+        "hi": {
+          "line1": "धनासक्ति जो लोभ है, वह है दोष विशेष ।",
+          "line2": "अन्तर्गत उनके नहीं, जितने दोष अशेष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Patrullam Ennum Ivaranmai Etrullum",
+            "line2": "Ennap Paduvadhon Randru."
+          },
+          "hi": {
+            "line1": "पत्रुळ्ळ मॆन्नु मिवरन्मै यॆत्रुळ्ळु",
+            "line2": "मॆण्णप् पडुवदॊन् रन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொருள் மேல் பேராசை கொள்ளும் கஞ்சத்தனம் என்பது, மற்ற எந்தக் குற்றங்களுக்குள்ளும் சேர்த்து எண்ணத்தக்க சிறிய குற்றமன்று (அது எல்லாக் குற்றங்களிலும் கொடியது).",
+        "en": "Stingy greed isn't just another minor flaw—it stands in a league of its own as the worst vice of all.",
+        "hi": "धन के प्रति जो आसक्ति (लोभ/कृपणता) है, वह एक अत्यंत विशेष दोष है; शेष अन्य कोई भी दोष इसकी तुलना में इसके अंतर्गत नहीं आते।"
+      }
+    },
+    {
+      "num": 439,
+      "line1": "வியவற்க வெஞ்ஞான்றுந் தன்னை நயவற்க",
+      "line2": "நன்று பயவா வினை.",
+      "enLine1": "Never indulge in self-complaisant mood,",
+      "enLine2": "Nor deed desire that yields no gain of good.",
+      "hiLine1": "श्रेष्ठ समझ कर आपको, कभी न कर अभिमान ।",
+      "hiLine2": "चाह न हो उस कर्म की, जो न करे कल्याण ॥",
+      "general": "எக்காலத்திலும் தன்னைத் தானே உயர்த்தி வியந்துகொள்ளக் கூடாது; நன்மை தராத செயல்களை ஒருபோதும் விரும்பக் கூடாது.",
+      "en": "Never admire yourself with conceit at any time, and never desire deeds that yield no good.",
+      "hi": "स्वयं को श्रेष्ठ समझकर कभी भी अभिमान मत करो, और न ही उस कर्म की इच्छा करो जो कोई कल्याण न करता हो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வியவற்க <br>(Viyavarka)",
+          "ta": "வியந்து கொள்ளாதே",
+          "en": "Never indulge in",
+          "hi": "कभी न कर अभिमान"
+        },
+        {
+          "no": 2,
+          "word": "எஞ்ஞான்றும் <br>(Enjnaandrum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "At any time",
+          "hi": "कभी"
+        },
+        {
+          "no": 3,
+          "word": "தன்னை <br>(Thannai)",
+          "ta": "தன்னை",
+          "en": "Self-complaisant",
+          "hi": "आपको श्रेष्ठ समझकर"
+        },
+        {
+          "no": 4,
+          "word": "நயவற்க <br>(Nayavarka)",
+          "ta": "விரும்பாதே",
+          "en": "Nor desire",
+          "hi": "चाह न हो"
+        },
+        {
+          "no": 5,
+          "word": "நன்று <br>(Nandru)",
+          "ta": "நன்மை",
+          "en": "Good",
+          "hi": "कल्याण"
+        },
+        {
+          "no": 6,
+          "word": "பயவா <br>(Payavaa)",
+          "ta": "தராத",
+          "en": "Yields no gain",
+          "hi": "जो न करे"
+        },
+        {
+          "no": 7,
+          "word": "வினை <br>(Vinai)",
+          "ta": "செயல்களை",
+          "en": "Deed",
+          "hi": "उस कर्म की"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வியவற்க வெஞ்ஞான்றுந் தன்னை நயவற்க",
+          "line2": "நன்று பயவா வினை."
+        },
+        "en": {
+          "line1": "Never indulge in self-complaisant mood,",
+          "line2": "Nor deed desire that yields no gain of good."
+        },
+        "hi": {
+          "line1": "श्रेष्ठ समझ कर आपको, कभी न कर अभिमान ।",
+          "line2": "चाह न हो उस कर्म की, जो न करे कल्याण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Viyavarka Enjnaandrum Thannai Nayavarka",
+            "line2": "Nandru Payavaa Vinai."
+          },
+          "hi": {
+            "line1": "वियवर्क्क वॆञ्ञान्द्रुन् तन्नै नयवर्क्क",
+            "line2": "नन्द्रु पयवा विनै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எக்காலத்திலும் தன்னைத் தானே உயர்த்தி வியந்துகொள்ளக் கூடாது; நன்மை தராத செயல்களை ஒருபோதும் விரும்பக் கூடாது.",
+        "en": "Never fall in love with your own ego, and never chase actions that produce nothing good.",
+        "hi": "स्वयं को श्रेष्ठ समझकर कभी भी अभिमान मत करो, और न ही उस कर्म की इच्छा करो जो कोई कल्याण न करता हो।"
+      }
+    },
+    {
+      "num": 440,
+      "line1": "காதல காத லறியாமை யுய்க்கிற்பி",
+      "line2": "னேதில வேதிலார் நூல்.",
+      "enLine1": "If, to your foes unknown, you cherish what you love,",
+      "enLine2": "Counsels of men who wish you harm will harmless prove.",
+      "hiLine1": "भोगेगा यदि गुप्त रख, मनचाहा सब काम ।",
+      "hiLine2": "रिपुओं का षड़यंत्र तब, हो जावे बेकाम ॥",
+      "general": "தான் விரும்பும் பொருள்களைப் பகைவர் அறியாமல் இரகசியமாகக் காத்து அனுபவித்தால், பகைவர்களின் சூழ்ச்சிகள் எல்லாம் பயனற்றதாகிவிடும்.",
+      "en": "If one enjoys what one loves without letting enemies know, the schemes of one's foes will prove completely fruitless.",
+      "hi": "यदि कोई व्यक्ति अपने मनचाहे प्रिय कार्यों का उपभोग गुप्त रखकर करेगा, तो शत्रुओं के सारे षड़यंत्र बेकार हो जाएँगे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "காதல <br>(Kaadhala)",
+          "ta": "தான் விரும்பும் பொருள்களை",
+          "en": "What you love",
+          "hi": "मनचाहा सब काम"
+        },
+        {
+          "no": 2,
+          "word": "காதல் <br>(Kaadhal)",
+          "ta": "பகைவர்",
+          "en": "Foes",
+          "hi": "रिपु"
+        },
+        {
+          "no": 3,
+          "word": "அறியாமை <br>(Ariyaamai)",
+          "ta": "அறியாதபடி",
+          "en": "Unknown",
+          "hi": "गुप्त रख"
+        },
+        {
+          "no": 4,
+          "word": "உய்க்கிற்பின் <br>(Uykkirpin)",
+          "ta": "நுகர வல்லவனானால்",
+          "en": "You cherish",
+          "hi": "भोगेगा यदि"
+        },
+        {
+          "no": 5,
+          "word": "ஏதில <br>(Edhila)",
+          "ta": "பயனற்றனவாகும்",
+          "en": "Harmless prove",
+          "hi": "हो जावे बेकाम"
+        },
+        {
+          "no": 6,
+          "word": "ஏதிலார் <br>(Edhilaar)",
+          "ta": "பகைவர்களின்",
+          "en": "Who wish you harm",
+          "hi": "रिपुओं का"
+        },
+        {
+          "no": 7,
+          "word": "நூல் <br>(Nool)",
+          "ta": "சூழ்ச்சிகள்",
+          "en": "Counsels / plots",
+          "hi": "षड़यंत्र"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "காதல காத லறியாமை யுய்க்கிற்பி",
+          "line2": "னேதில வேதிலார் நூல்."
+        },
+        "en": {
+          "line1": "If, to your foes unknown, you cherish what you love,",
+          "line2": "Counsels of men who wish you harm will harmless prove."
+        },
+        "hi": {
+          "line1": "भोगेगा यदि गुप्त रख, मनचाहा सब काम ।",
+          "line2": "रिपुओं का षड़यंत्र तब, हो जावे बेकाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaadhala Kaadhal Ariyaamai Uykkirpin",
+            "line2": "Edhila Edhilaar Nool."
+          },
+          "hi": {
+            "line1": "कादल काद लरियामै युय्क्किर्पि",
+            "line2": "नेदिल वेदिलार् नूल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தான் விரும்பும் பொருள்களைப் பகைவர் அறியாமல் இரகசியமாகக் காத்து அனுபவித்தால், பகைவர்களின் சூழ்ச்சிகள் எல்லாம் பயனற்றதாகிவிடும்.",
+        "en": "Keep what you cherish and pursue out of your rivals' sight, and all their plots against you will fall flat.",
+        "hi": "यदि कोई व्यक्ति अपने मनचाहे प्रिय कार्यों का उपभोग गुप्त रखकर करेगा, तो शत्रुओं के सारे षड़यंत्र बेकार हो जाएँगे।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "chapterNum": 82,
+  "nameTa": "தீநட்பு",
+  "nameEn": "Evil Friendship",
+  "nameHi": "बुरी मैत्री",
+  "paal": "பொருட்பால்",
+  "iyal": "அங்கவியல்",
+  "kurals": [
+    {
+      "num": 811,
+      "line1": "பருகுவார் போலினும் பண்பிலார் கேண்மை",
+      "line2": "பெருகலிற் குன்ற லினிது.",
+      "enLine1": "Though evil men should all-absorbing friendship show,",
+      "enLine2": "Their love had better die away than grow.",
+      "hiLine1": "यद्यपि अतिशय मित्र सम, दिखते हैं गुणहीन ।",
+      "hiLine2": "बढ़ने से वह मित्रता, अच्छा यदि हो क्षीण ॥",
+      "general": "நம்மைப் பருகிவிடுவார் போல அன்பு காட்டினாலும், நற்பண்பில்லாத தீயோரின் நட்பு வளர்வதை விடக் குறைந்து அழிவதே நல்லது.",
+      "en": "Even if unprincipled people show overwhelming affection, it is better for their friendship to wither away than to grow.",
+      "hi": "गुणहीन लोग यद्यपि अत्यधिक घनिष्ठ मित्र के समान दिखते हैं, फिर भी उनकी मित्रता बढ़ने की अपेक्षा घटकर समाप्त हो जाना ही अच्छा है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பருகுவார் போலினும் <br>(Paruguvaar polinum)",
+          "ta": "அன்பால் பருகுவார் போலத் தோன்றினும்",
+          "en": "All-absorbing friendship show",
+          "hi": "यद्यपि अतिशय मित्र सम दिखते हैं"
+        },
+        {
+          "no": 2,
+          "word": "பண்பு இலார் <br>(Panbu ilaar)",
+          "ta": "நற்பண்பு இல்லாதவரின்",
+          "en": "Evil men",
+          "hi": "गुणहीन"
+        },
+        {
+          "no": 3,
+          "word": "கேண்மை <br>(Kenmai)",
+          "ta": "நட்பு",
+          "en": "Their love",
+          "hi": "वह मित्रता"
+        },
+        {
+          "no": 4,
+          "word": "பெருகலின் <br>(Perugalin)",
+          "ta": "வளர்வதை விட",
+          "en": "Than grow",
+          "hi": "बढ़ने से"
+        },
+        {
+          "no": 5,
+          "word": "குன்றல் <br>(Kundral)",
+          "ta": "குறைந்து போதல்",
+          "en": "Die away",
+          "hi": "हो क्षीण"
+        },
+        {
+          "no": 6,
+          "word": "இனிது <br>(Inidhu)",
+          "ta": "நல்லது",
+          "en": "Had better",
+          "hi": "अच्छा"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "मैत्री"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பருகுவார் போலினும் பண்பிலார் கேண்மை",
+          "line2": "பெருகலிற் குன்ற லினிது."
+        },
+        "en": {
+          "line1": "Though evil men should all-absorbing friendship show,",
+          "line2": "Their love had better die away than grow."
+        },
+        "hi": {
+          "line1": "यद्यपि अतिशय मित्र सम, दिखते हैं गुणहीन ।",
+          "line2": "बढ़ने से वह मित्रता, अच्छा यदि हो क्षीण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Paruguvaar Polinum Panpilaar Kenmai",
+            "line2": "Perugalir Kunra Linidhu."
+          },
+          "hi": {
+            "line1": "परुगुवार् पोलिनुम् पण्बिलार् केण्मै",
+            "line2": "पॆरुगलिर् कुन्द्र लिनिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நம்மைப் பருகிவிடுவார் போல அன்பு காட்டினாலும், நற்பண்பில்லாத தீயோரின் நட்பு வளர்வதை விடக் குறைந்து அழிவதே நல்லது.",
+        "en": "Even if someone without character showers you with affection, let that bond fade rather than deepen.",
+        "hi": "गुणहीन लोग यद्यपि अत्यधिक घनिष्ठ मित्र के समान दिखते हैं, फिर भी उनकी मित्रता बढ़ने की अपेक्षा घटकर समाप्त हो जाना ही अच्छा है।"
+      }
+    },
+    {
+      "num": 812,
+      "line1": "உறினட் டறினெரூஉ மொப்பிலார் கேண்மை",
+      "line2": "பெறினு மிழப்பினு மென்.",
+      "enLine1": "What though you gain or lose friendship of men of alien heart,",
+      "enLine2": "Who when you thrive are friends, and when you fail depart?",
+      "hiLine1": "पा या खो कर क्या हुआ, अयोग्य का सौहार्द ।",
+      "hiLine2": "जो मैत्री कर स्वार्थवश, तज दे जब नहिं स्वार्थ ॥",
+      "general": "பயன் உள்ளபோது நட்புக் கொண்டு, பயன் இல்லாதபோது விட்டு நீங்குகின்ற பொருந்தாதவரின் நட்பைப் பெற்றால் என்ன, இழந்தால் என்ன?",
+      "en": "What does it matter whether you gain or lose the friendship of fair-weather companions who cling when you prosper and vanish when you suffer?",
+      "hi": "जो लोग स्वार्थवश मित्रता करते हैं और स्वार्थ न रहने पर छोड़ देते हैं, ऐसे अयोग्य लोगों की मित्रता पाने या खोने से क्या लाभ-हानि है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "உறின் நட்டு <br>(Urin nattu)",
+          "ta": "பயன் உள்ளபோது நட்புக்கொண்டு",
+          "en": "When you thrive are friends",
+          "hi": "जो मैत्री कर स्वार्थवश"
+        },
+        {
+          "no": 2,
+          "word": "அறின் ஒரூஉம் <br>(Arin orooum)",
+          "ta": "பயன் அற்றபோது நீங்கும்",
+          "en": "When you fail depart",
+          "hi": "तज दे जब नहिं स्वार्थ"
+        },
+        {
+          "no": 3,
+          "word": "ஒப்பிலார் <br>(Oppilaar)",
+          "ta": "பொருந்தாதவரின்",
+          "en": "Men of alien heart",
+          "hi": "अयोग्य का"
+        },
+        {
+          "no": 4,
+          "word": "கேண்மை <br>(Kenmai)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "सौहार्द"
+        },
+        {
+          "no": 5,
+          "word": "பெறினும் <br>(Perinum)",
+          "ta": "பெற்றாலும்",
+          "en": "Gain",
+          "hi": "पा"
+        },
+        {
+          "no": 6,
+          "word": "இழப்பினும் <br>(Izhappinum)",
+          "ta": "இழந்தாலும்",
+          "en": "Or lose",
+          "hi": "या खो कर"
+        },
+        {
+          "no": 7,
+          "word": "என் <br>(En)",
+          "ta": "என்ன பயன்",
+          "en": "What though",
+          "hi": "क्या हुआ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உறினட் டறினெரூஉ மொப்பிலார் கேண்மை",
+          "line2": "பெறினு மிழப்பினு மென்."
+        },
+        "en": {
+          "line1": "What though you gain or lose friendship of men of alien heart,",
+          "line2": "Who when you thrive are friends, and when you fail depart?"
+        },
+        "hi": {
+          "line1": "पा या खो कर क्या हुआ, अयोग्य का सौहार्द ।",
+          "line2": "जो मैत्री कर स्वार्थवश, तज दे जब नहिं स्वार्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Urinat Darineroou Moppilaar Kenmai",
+            "line2": "Perinu Mizhappinu Men."
+          },
+          "hi": {
+            "line1": "उरिनट् टरिनॊरूउ मॊप्पिलार् केण्मै",
+            "line2": "पॆरिनु मिऴप्पिनु मॆन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பயன் உள்ளபோது நட்புக் கொண்டு, பயன் இல்லாதபோது விட்டு நீங்குகின்ற பொருந்தாதவரின் நட்பைப் பெற்றால் என்ன, இழந்தால் என்ன?",
+        "en": "Fair-weather friends who stick around only for the perks aren't worth keeping or mourning.",
+        "hi": "जो लोग स्वार्थवश मित्रता करते हैं और स्वार्थ न रहने पर छोड़ देते हैं, ऐसे अयोग्य लोगों की मित्रता पाने या खोने से क्या लाभ-हानि है?"
+      }
+    },
+    {
+      "num": 813,
+      "line1": "உறுவது சீர்தூக்கு நட்பும் பெறுவது",
+      "line2": "கொள்வாருங் கள்வரு நேர்.",
+      "enLine1": "These are alike: the friends who ponder friendship's gain,",
+      "enLine2": "Those who accept whate'er you give, and all the plundering train.",
+      "hiLine1": "मित्र बने जो गणन कर, स्वार्थ-लाभ का मान ।",
+      "hiLine2": "धन-गाहक गणिका तथा, चोर एक सा जान ॥",
+      "general": "கிடைக்கும் பயனை எண்ணிப் பார்க்கும் நட்பும், பொருளை மட்டுமே விரும்பும் விலைமகளிரும், திருடரும் ஆகிய மூவரும் சமமானவர்களே.",
+      "en": "Calculating friends who weigh only what they get out of you, mercenaries who take whatever is paid, and thieves are all alike.",
+      "hi": "जो स्वार्थ-लाभ का हिसाब लगाकर मित्र बनते हैं, धन की लोभी वेश्याएँ तथा चोर—इन तीनों को एक समान समझना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உறுவது <br>(Uruvadhu)",
+          "ta": "கிடைக்கும் பயனை",
+          "en": "Friendship's gain",
+          "hi": "स्वार्थ-लाभ का मान"
+        },
+        {
+          "no": 2,
+          "word": "சீர்தூக்கும் <br>(Seerthookkum)",
+          "ta": "எண்ணிப் பார்க்கும்",
+          "en": "Who ponder",
+          "hi": "गणन कर"
+        },
+        {
+          "no": 3,
+          "word": "நட்பும் <br>(Natpum)",
+          "ta": "நட்பும்",
+          "en": "The friends",
+          "hi": "मित्र बने जो"
+        },
+        {
+          "no": 4,
+          "word": "பெறுவது <br>(Peruvadhu)",
+          "ta": "கிடைக்கும் பொருளை",
+          "en": "Whate'er you give",
+          "hi": "धन-गाहक"
+        },
+        {
+          "no": 5,
+          "word": "கொள்வாரும் <br>(Kolvaarum)",
+          "ta": "வாங்கிக்கொள்ளும் விலைமகளிரும்",
+          "en": "Those who accept",
+          "hi": "गणिका तथा"
+        },
+        {
+          "no": 6,
+          "word": "கள்வரும் <br>(Kalvarum)",
+          "ta": "திருடர்களும்",
+          "en": "Plundering train",
+          "hi": "चोर"
+        },
+        {
+          "no": 7,
+          "word": "நேர் <br>(Ner)",
+          "ta": "சமமானவரே",
+          "en": "Are alike",
+          "hi": "एक सा जान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உறுவது சீர்தூக்கு நட்பும் பெறுவது",
+          "line2": "கொள்வாருங் கள்வரு நேர்."
+        },
+        "en": {
+          "line1": "These are alike: the friends who ponder friendship's gain,",
+          "line2": "Those who accept whate'er you give, and all the plundering train."
+        },
+        "hi": {
+          "line1": "मित्र बने जो गणन कर, स्वार्थ-लाभ का मान ।",
+          "line2": "धन-गाहक गणिका तथा, चोर एक सा जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uruvadhu Seerthookku Natpum Peruvadhu",
+            "line2": "Kolvaarung Kalvaru Ner."
+          },
+          "hi": {
+            "line1": "उरुवदु सीर्दूककु नट्पुम् पॆरुवदु",
+            "line2": "कॊळ्वारुङ् कळ्वरु नेर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கிடைக்கும் பயனை எண்ணிப் பார்க்கும் நட்பும், பொருளை மட்டுமே விரும்பும் விலைமகளிரும், திருடரும் ஆகிய மூவரும் சமமானவர்களே.",
+        "en": "Transactional friends who keep score of what they can extract from you are no better than opportunists or thieves.",
+        "hi": "जो स्वार्थ-लाभ का हिसाब लगाकर मित्र बनते हैं, धन की लोभी वेश्याएँ तथा चोर—इन तीनों को एक समान समझना चाहिए।"
+      }
+    },
+    {
+      "num": 814,
+      "line1": "அமரகத் தாற்றறுக்குங் கல்லாமா வன்னார்",
+      "line2": "தமரிற் றனிமை தலை.",
+      "enLine1": "A steed untrained will leave you in the tug of war;",
+      "enLine2": "Than friends like that to dwell alone is better far.",
+      "hiLine1": "अनभ्यस्त हय युद्ध में, पटक चले ज्यों भाग ।",
+      "hiLine2": "ऐसों के सौहार्द से, एकाकी बड़भाग ॥",
+      "general": "போர்க்களத்தில் வீரனைக் கீழே தள்ளிவிட்டு ஓடும் பழக்கப்படாத குதிரையைப் போன்றவரின் உறவை விடத் தனிமையே சிறந்தது.",
+      "en": "Being alone is far better than relying on friends who are like an untrained horse that throws its rider and bolts in the middle of battle.",
+      "hi": "जिस प्रकार युद्ध में अनभ्यस्त घोड़ा सवार को पटककर भाग जाता है, वैसे ही संकट में साथ छोड़ने वालों की मित्रता से अकेला रहना अधिक सौभाग्यशाली है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அமரகத்து <br>(Amaragathu)",
+          "ta": "போர்க்களத்தில்",
+          "en": "Tug of war",
+          "hi": "युद्ध में"
+        },
+        {
+          "no": 2,
+          "word": "ஆற்றறுக்கும் <br>(Aatrarukkum)",
+          "ta": "கீழே தள்ளி ஓடும்",
+          "en": "Will leave you",
+          "hi": "पटक चले भाग"
+        },
+        {
+          "no": 3,
+          "word": "கல்லாமா <br>(Kallaamaa)",
+          "ta": "பயிற்சியில்லாத குதிரை",
+          "en": "Steed untrained",
+          "hi": "अनभ्यस्त हय"
+        },
+        {
+          "no": 4,
+          "word": "அன்னார் <br>(Annaar)",
+          "ta": "போன்றவரின்",
+          "en": "Friends like that",
+          "hi": "ऐसों के"
+        },
+        {
+          "no": 5,
+          "word": "தமரின் <br>(Thamarin)",
+          "ta": "உறவை விட",
+          "en": "Than friends",
+          "hi": "सौहार्द से"
+        },
+        {
+          "no": 6,
+          "word": "தனிமை <br>(Thanimai)",
+          "ta": "தனித்திருப்பது",
+          "en": "Dwell alone",
+          "hi": "एकाकी"
+        },
+        {
+          "no": 7,
+          "word": "தலை <br>(Thalai)",
+          "ta": "சிறந்தது",
+          "en": "Better far",
+          "hi": "बड़भाग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அமரகத் தாற்றறுக்குங் கல்லாமா வன்னார்",
+          "line2": "தமரிற் றனிமை தலை."
+        },
+        "en": {
+          "line1": "A steed untrained will leave you in the tug of war;",
+          "line2": "Than friends like that to dwell alone is better far."
+        },
+        "hi": {
+          "line1": "अनभ्यस्त हय युद्ध में, पटक चले ज्यों भाग ।",
+          "line2": "ऐसों के सौहार्द से, एकाकी बड़भाग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Amaragathu Aatrarukkum Kallaamaa Annaar",
+            "line2": "Thamarin Thanimai Thalai."
+          },
+          "hi": {
+            "line1": "अमरगत् तात्ररुक्कुङ् कल्लामा वन्नार्",
+            "line2": "तमरिर् रनिमै तलै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "போர்க்களத்தில் வீரனைக் கீழே தள்ளிவிட்டு ஓடும் பழக்கப்படாத குதிரையைப் போன்றவரின் உறவை விடத் தனிமையே சிறந்தது.",
+        "en": "Solitude beats surrounding yourself with unreliable people who panic and leave you stranded in a crisis.",
+        "hi": "जिस प्रकार युद्ध में अनभ्यस्त घोड़ा सवार को पटककर भाग जाता है, वैसे ही संकट में साथ छोड़ने वालों की मित्रता से अकेला रहना अधिक सौभाग्यशाली है।"
+      }
+    },
+    {
+      "num": 815,
+      "line1": "செய்தேமஞ் சாராச் சிறியவர் புன்கேண்மை",
+      "line2": "யெய்தலி னெய்தாமை நன்று.",
+      "enLine1": "'Tis better not to gain than gain the friendship profitless",
+      "enLine2": "Of men of little minds, whose succour fails when dangers press.",
+      "hiLine1": "तुच्छ मित्रता विपद में, जो देती न सहाय ।",
+      "hiLine2": "ना होने में है भला, होने से भी, हाय ॥",
+      "general": "ஆபத்துக் காலத்தில் காவலாக இருந்து உதவாத சிறியவர்களின் இழிந்த நட்பைப் பெறுவதை விடப் பெறாமல் இருப்பதே நல்லது.",
+      "en": "It is better never to form a friendship at all than to have the hollow bond of petty people who fail to help in times of danger.",
+      "hi": "विपत्ति के समय जो तुच्छ मित्रता सहायता नहीं देती, ऐसे छोटे मन वाले लोगों से मित्रता होने की अपेक्षा न होना ही अधिक भला है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செய்து <br>(Seydhu)",
+          "ta": "காவல் செய்து",
+          "en": "Succour",
+          "hi": "देती सहाय"
+        },
+        {
+          "no": 2,
+          "word": "ஏமம் சாரா <br>(Emam saaraa)",
+          "ta": "பாதுகாப்புத் தராத",
+          "en": "Fails when dangers press",
+          "hi": "विपद में न"
+        },
+        {
+          "no": 3,
+          "word": "சிறியவர் <br>(Siriyavar)",
+          "ta": "சிறியவர்களின்",
+          "en": "Men of little minds",
+          "hi": "तुच्छ"
+        },
+        {
+          "no": 4,
+          "word": "புன்கேண்மை <br>(Punkenmai)",
+          "ta": "இழிந்த நட்பை",
+          "en": "Friendship profitless",
+          "hi": "मित्रता"
+        },
+        {
+          "no": 5,
+          "word": "எய்தலின் <br>(Eydhalin)",
+          "ta": "பெறுவதை விட",
+          "en": "Than gain",
+          "hi": "होने से भी"
+        },
+        {
+          "no": 6,
+          "word": "எய்தாமை <br>(Eydhaamai)",
+          "ta": "பெறாதிருத்தல்",
+          "en": "Not to gain",
+          "hi": "ना होने में"
+        },
+        {
+          "no": 7,
+          "word": "நன்று <br>(Nandru)",
+          "ta": "நல்லது",
+          "en": "Better",
+          "hi": "है भला"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செய்தேமஞ் சாராச் சிறியவர் புன்கேண்மை",
+          "line2": "யெய்தலி னெய்தாமை நன்று."
+        },
+        "en": {
+          "line1": "'Tis better not to gain than gain the friendship profitless",
+          "line2": "Of men of little minds, whose succour fails when dangers press."
+        },
+        "hi": {
+          "line1": "तुच्छ मित्रता विपद में, जो देती न सहाय ।",
+          "line2": "ना होने में है भला, होने से भी, हाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seythemany Saaraas Siriyavar Punkenmai",
+            "line2": "Yeythali Neythaamai Nanru."
+          },
+          "hi": {
+            "line1": "सॆय्देमञ् साराच् सिरियवर् पुन्केण्मै",
+            "line2": "यॆय्दलि नॆय्दामै नन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆபத்துக் காலத்தில் காவலாக இருந்து உதவாத சிறியவர்களின் இழிந்த நட்பைப் பெறுவதை விடப் பெறாமல் இருப்பதே நல்லது.",
+        "en": "No friend at all is better than a shallow friend who disappears when you actually need backup.",
+        "hi": "विपत्ति के समय जो तुच्छ मित्रता सहायता नहीं देती, ऐसे छोटे मन वाले लोगों से मित्रता होने की अपेक्षा न होना ही अधिक भला है।"
+      }
+    },
+    {
+      "num": 816,
+      "line1": "பேதை பெருங்கெழீஇ நட்பி னறிவுடையா",
+      "line2": "ரேதின்மை கோடி யுறும்.",
+      "enLine1": "Better ten million times incur the wise man's hate,",
+      "enLine2": "Than form with foolish men a friendship intimate.",
+      "hiLine1": "अति धनिष्ठ बन मूर्ख का, हो जाने से इष्ट ।",
+      "hiLine2": "समझदार की शत्रुता, लाखों गुणा वरिष्ठ ॥",
+      "general": "அறிவற்ற பேதையின் நெருங்கிய நட்பை விட, அறிவுடையவரோடு உண்டாகும் பகைமை கோடி மடங்கு நன்மை தரும்.",
+      "en": "Incurring the hostility of a wise person is ten million times better than being close friends with a fool.",
+      "hi": "मूर्ख व्यक्ति का अत्यन्त घनिष्ठ और प्रिय मित्र बनने की अपेक्षा, किसी समझदार व्यक्ति की शत्रुता लाखों गुना श्रेष्ठ है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பேதை <br>(Pedhai)",
+          "ta": "அறிவிலியின்",
+          "en": "With foolish men",
+          "hi": "मूर्ख का"
+        },
+        {
+          "no": 2,
+          "word": "பெருங்கெழீஇ நட்பின் <br>(Perungezheei natpin)",
+          "ta": "மிக நெருங்கிய நட்பை விட",
+          "en": "Friendship intimate",
+          "hi": "अति धनिष्ठ बन इष्ट"
+        },
+        {
+          "no": 3,
+          "word": "அறிவுடையார் <br>(Arivudaiyaar)",
+          "ta": "அறிவுடையவரின்",
+          "en": "Wise man's",
+          "hi": "समझदार की"
+        },
+        {
+          "no": 4,
+          "word": "ஏதின்மை <br>(Edhinmai)",
+          "ta": "பகைமை",
+          "en": "Hate",
+          "hi": "शत्रुता"
+        },
+        {
+          "no": 5,
+          "word": "கோடி <br>(Kodi)",
+          "ta": "கோடி மடங்கு",
+          "en": "Ten million times",
+          "hi": "लाखों गुणा"
+        },
+        {
+          "no": 6,
+          "word": "உறும் <br>(Urum)",
+          "ta": "நல்லது",
+          "en": "Better",
+          "hi": "वरिष्ठ"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "मित्रता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பேதை பெருங்கெழீஇ நட்பி னறிவுடையா",
+          "line2": "ரேதின்மை கோடி யுறும்."
+        },
+        "en": {
+          "line1": "Better ten million times incur the wise man's hate,",
+          "line2": "Than form with foolish men a friendship intimate."
+        },
+        "hi": {
+          "line1": "अति धनिष्ठ बन मूर्ख का, हो जाने से इष्ट ।",
+          "line2": "समझदार की शत्रुता, लाखों गुणा वरिष्ठ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pedhai Perungezheei Natpin Arivudaiyaar",
+            "line2": "Edhinmai Kodi Urum."
+          },
+          "hi": {
+            "line1": "पेदै पॆरुङ्गॆऴीइ नट्पि नरिउडैया",
+            "line2": "रेदिन्मै कोडि युरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறிவற்ற பேதையின் நெருங்கிய நட்பை விட, அறிவுடையவரோடு உண்டாகும் பகைமை கோடி மடங்கு நன்மை தரும்.",
+        "en": "Even rivalry with someone wise teaches you and keeps you sharp—whereas close ties with a fool only drag you down.",
+        "hi": "मूर्ख व्यक्ति का अत्यन्त घनिष्ठ और प्रिय मित्र बनने की अपेक्षा, किसी समझदार व्यक्ति की शत्रुता लाखों गुना श्रेष्ठ है।"
+      }
+    },
+    {
+      "num": 817,
+      "line1": "நகைவகைய ராகிய நட்பிற் பகைவராற்",
+      "line2": "பத்தடுத்த கோடி யுறும்.",
+      "enLine1": "From foes ten million fold a greater good you gain,",
+      "enLine2": "Than friendship yields that's formed with laughers vain.",
+      "hiLine1": "हास्य-रसिक की मित्रता, करने से भी प्राप्त ।",
+      "hiLine2": "भले बनें दस कोटि गुण, रिपु से जो हों प्राप्त ॥",
+      "general": "சிரித்துப் பொழுது போக்குவதற்காக மட்டுமே கொண்ட நட்பை விட, பகைவரால் வரும் துன்பம் பத்துக் கோடி மடங்கு நன்மை தரும்.",
+      "en": "An open enemy brings ten million times more benefit than a shallow friendship built only on idle laughter and amusement.",
+      "hi": "केवल हँसी-मज़ाक (हास्य-रसिकता) के लिए की गई मित्रता से जो प्राप्त होता है, उससे दस करोड़ गुना अधिक लाभ शत्रुओं से भी प्राप्त हो सकता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நகை வகையர் <br>(Nagai vagaiyar)",
+          "ta": "சிரித்து மகிழும்",
+          "en": "Laughers vain",
+          "hi": "हास्य-रसिक की"
+        },
+        {
+          "no": 2,
+          "word": "ஆகிய <br>(Aagiya)",
+          "ta": "தன்மையுடைய",
+          "en": "Formed with",
+          "hi": "करने से"
+        },
+        {
+          "no": 3,
+          "word": "நட்பின் <br>(Natpin)",
+          "ta": "நட்பை விட",
+          "en": "Than friendship",
+          "hi": "मित्रता"
+        },
+        {
+          "no": 4,
+          "word": "பகைவரால் <br>(Pagaivaraal)",
+          "ta": "பகைவரால் வருவது",
+          "en": "From foes",
+          "hi": "रिपु से"
+        },
+        {
+          "no": 5,
+          "word": "பத்தடுத்த <br>(Paththaduththa)",
+          "ta": "பத்து மடங்கு",
+          "en": "Ten fold",
+          "hi": "दस गुण"
+        },
+        {
+          "no": 6,
+          "word": "கோடி <br>(Kodi)",
+          "ta": "கோடி",
+          "en": "Million",
+          "hi": "कोटि"
+        },
+        {
+          "no": 7,
+          "word": "உறும் <br>(Urum)",
+          "ta": "நன்மை தரும்",
+          "en": "Greater good gain",
+          "hi": "भले प्राप्त"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நகைவகைய ராகிய நட்பிற் பகைவராற்",
+          "line2": "பத்தடுத்த கோடி யுறும்."
+        },
+        "en": {
+          "line1": "From foes ten million fold a greater good you gain,",
+          "line2": "Than friendship yields that's formed with laughers vain."
+        },
+        "hi": {
+          "line1": "हास्य-रसिक की मित्रता, करने से भी प्राप्त ।",
+          "line2": "भले बनें दस कोटि गुण, रिपु से जो हों प्राप्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nagaivagaiya Raagiya Natpir Pagaivaraar",
+            "line2": "Paththaduththa Kodi Yurum."
+          },
+          "hi": {
+            "line1": "नगैवगैय रागिय नट्पिर् पगैवरार्",
+            "line2": "पत्तुडुत्त कोडि युरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சிரித்துப் பொழுது போக்குவதற்காக மட்டுமே கொண்ட நட்பை விட, பகைவரால் வரும் துன்பம் பத்துக் கோடி மடங்கு நன்மை தரும்.",
+        "en": "An honest rival pushes you to grow; empty party friends just waste your time.",
+        "hi": "केवल हँसी-मज़ाक (हास्य-रसिकता) के लिए की गई मित्रता से जो प्राप्त होता है, उससे दस करोड़ गुना अधिक लाभ शत्रुओं से भी प्राप्त हो सकता है।"
+      }
+    },
+    {
+      "num": 818,
+      "line1": "ஒல்லுங் கரும முடற்றுபவர் கேண்மை",
+      "line2": "சொல்லாடார் சோர விடல்.",
+      "enLine1": "Those men who make a grievous toil of what they do",
+      "enLine2": "On your behalf, their friendship silently eschew.",
+      "hiLine1": "यों असाध्य कह साध्य को, जो करता न सहाय ।",
+      "hiLine2": "चुपके से उस ढोंग की, मैत्री छोड़ी जाय ॥",
+      "general": "செய்யக்கூடிய செயலையும் செய்ய முடியாதது போல் காட்டித் தட்டிக்கழிப்பவரின் நட்பை, ஒன்றும் பேசாமல் நழுவ விட்டுவிட வேண்டும்.",
+      "en": "When someone makes excuses and treats an achievable task as impossible to avoid helping you, quietly let that friendship slip away.",
+      "hi": "जो साध्य (करने योग्य) कार्य को भी असाध्य बताकर सहायता नहीं करता, उस ढोंगी की मित्रता को बिना कुछ कहे चुपचाप छोड़ देना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒல்லும் கருமம் <br>(Ollum karumam)",
+          "ta": "இயலும் செயலையும்",
+          "en": "What they do",
+          "hi": "साध्य को"
+        },
+        {
+          "no": 2,
+          "word": "உடற்றுபவர் <br>(Udatrubavar)",
+          "ta": "முடியாதது போல் வருந்திக் காட்டுபவர்",
+          "en": "Make grievous toil",
+          "hi": "असाध्य कह न सहाय"
+        },
+        {
+          "no": 3,
+          "word": "கேண்மை <br>(Kenmai)",
+          "ta": "நட்பை",
+          "en": "Their friendship",
+          "hi": "मैत्री"
+        },
+        {
+          "no": 4,
+          "word": "சொல்லாடார் <br>(Sollaadaar)",
+          "ta": "ஒன்றும் சொல்லாமல்",
+          "en": "Silently",
+          "hi": "चुपके से"
+        },
+        {
+          "no": 5,
+          "word": "சோர <br>(Sora)",
+          "ta": "நழுவ",
+          "en": "Eschew",
+          "hi": "छोड़ी"
+        },
+        {
+          "no": 6,
+          "word": "விடல் <br>(Vidal)",
+          "ta": "விட்டுவிட வேண்டும்",
+          "en": "Let go",
+          "hi": "जाय"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "நட்பு",
+          "en": "Friendship",
+          "hi": "मैत्री"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒல்லுங் கரும முடற்றுபவர் கேண்மை",
+          "line2": "சொல்லாடார் சோர விடல்."
+        },
+        "en": {
+          "line1": "Those men who make a grievous toil of what they do",
+          "line2": "On your behalf, their friendship silently eschew."
+        },
+        "hi": {
+          "line1": "यों असाध्य कह साध्य को, जो करता न सहाय ।",
+          "line2": "चुपके से उस ढोंग की, मैत्री छोड़ी जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ollum Karumam Udatrubavar Kenmai",
+            "line2": "Sollaadaar Sora Vidal."
+          },
+          "hi": {
+            "line1": "ऒल्लुङ् करुम मुडत्रुबवर् केण्मै",
+            "line2": "सॊल्लाडार् सोर विडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செய்யக்கூடிய செயலையும் செய்ய முடியாதது போல் காட்டித் தட்டிக்கழிப்பவரின் நட்பை, ஒன்றும் பேசாமல் நழுவ விட்டுவிட வேண்டும்.",
+        "en": "If someone turns simple favors into huge drama to avoid helping, don't argue—just quietly drift away.",
+        "hi": "जो साध्य (करने योग्य) कार्य को भी असाध्य बताकर सहायता नहीं करता, उस ढोंगी की मित्रता को बिना कुछ कहे चुपचाप छोड़ देना चाहिए।"
+      }
+    },
+    {
+      "num": 819,
+      "line1": "கனவினு மின்னாது மன்னோ வினைவேறு",
+      "line2": "சொல்வேறு பட்டார் தொடர்பு.",
+      "enLine1": "E'en in a dream the intercourse is bitterness",
+      "enLine2": "With men whose deeds are other than their words profess.",
+      "hiLine1": "कहना कुछ करना अलग, जिनकी है यह बान ।",
+      "hiLine2": "उनकी मैत्री खायगी, सपने में भी जान ॥",
+      "general": "சொல்லும் சொல்லுக்கு மாறாகச் செயல் செய்பவரின் நட்பு, கனவிலும் கூடத் துன்பம் தருவதாகும்.",
+      "en": "Associating with people whose actions contradict their words brings bitterness even in one's dreams.",
+      "hi": "जिन लोगों का स्वभाव कहना कुछ और करना कुछ अलग होता है, उनकी मित्रता तो सपने में भी दुःख और कष्ट देने वाली होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கனவினும் <br>(Kanavinum)",
+          "ta": "கனவிலும்",
+          "en": "E'en in a dream",
+          "hi": "सपने में भी"
+        },
+        {
+          "no": 2,
+          "word": "இன்னாது <br>(Innaadhu)",
+          "ta": "துன்பம் தரும்",
+          "en": "Is bitterness",
+          "hi": "खायगी जान"
+        },
+        {
+          "no": 3,
+          "word": "மன்னோ <br>(Manno)",
+          "ta": "நிச்சயமாக",
+          "en": "Indeed",
+          "hi": "निश्चय ही"
+        },
+        {
+          "no": 4,
+          "word": "வினை வேறு <br>(Vinai veru)",
+          "ta": "செயல் வேறாகவும்",
+          "en": "Deeds are other",
+          "hi": "करना अलग"
+        },
+        {
+          "no": 5,
+          "word": "சொல் வேறு <br>(Sol veru)",
+          "ta": "சொல் வேறாகவும்",
+          "en": "Than words profess",
+          "hi": "कहना कुछ"
+        },
+        {
+          "no": 6,
+          "word": "பட்டார் <br>(Pattaar)",
+          "ta": "நடப்பவரின்",
+          "en": "With men",
+          "hi": "जिनकी है यह बान"
+        },
+        {
+          "no": 7,
+          "word": "தொடர்பு <br>(Thodarbu)",
+          "ta": "நட்புத் தொடர்பு",
+          "en": "Intercourse",
+          "hi": "उनकी मैत्री"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கனவினு மின்னாது மன்னோ வினைவேறு",
+          "line2": "சொல்வேறு பட்டார் தொடர்பு."
+        },
+        "en": {
+          "line1": "E'en in a dream the intercourse is bitterness",
+          "line2": "With men whose deeds are other than their words profess."
+        },
+        "hi": {
+          "line1": "कहना कुछ करना अलग, जिनकी है यह बान ।",
+          "line2": "उनकी मैत्री खायगी, सपने में भी जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kanavinu Minnaadhu Manno Vinaiveru",
+            "line2": "Solveru Pattaar Thodarpu."
+          },
+          "hi": {
+            "line1": "कनविनु मिन्नादु मन्नो विनैवेरु",
+            "line2": "सॊल्वेरु पट्टार् तॊडर्बु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சொல்லும் சொல்லுக்கு மாறாகச் செயல் செய்பவரின் நட்பு, கனவிலும் கூடத் துன்பம் தருவதாகும்.",
+        "en": "Two-faced people whose actions don't match their promises are stressful to deal with even in your sleep.",
+        "hi": "जिन लोगों का स्वभाव कहना कुछ और करना कुछ अलग होता है, उनकी मित्रता तो सपने में भी दुःख और कष्ट देने वाली होती है।"
+      }
+    },
+    {
+      "num": 820,
+      "line1": "எனைத்துங் குறுகுத லோம்பன் மனைக்கெழீஇ",
+      "line2": "மன்றிற் பழிப்பார் தொடர்பு.",
+      "enLine1": "In anywise maintain not intercourse with those,",
+      "enLine2": "Who in the house are friends, in hall are slandering foes.",
+      "hiLine1": "घर पर मैत्री पालते, सभा-मध्य धिक्कार ।",
+      "hiLine2": "जो करते वे तनिक भी, निकट न आवें, यार ॥",
+      "general": "வீட்டில் இருக்கும்போது நண்பராகப் பழகி, பொது அவையில் பழித்துப் பேசுபவரின் தொடர்பை எவ்வளவும் நெருங்காமல் தவிர்க்க வேண்டும்.",
+      "en": "Avoid at all costs any closeness with those who act like friends in private at home, yet slander you in public assemblies.",
+      "hi": "जो लोग घर पर तो मित्रता का व्यवहार करते हैं, किन्तु सभा के बीच निन्दा (धिक्कार) करते हैं, ऐसे लोगों के तनिक भी निकट नहीं जाना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எனைத்தும் <br>(Enaiththum)",
+          "ta": "சிறிதளவும்",
+          "en": "In anywise",
+          "hi": "तनिक भी"
+        },
+        {
+          "no": 2,
+          "word": "குறுகுதல் <br>(Kurugudhal)",
+          "ta": "நெருங்குதலை",
+          "en": "Maintain intercourse",
+          "hi": "निकट न आवें"
+        },
+        {
+          "no": 3,
+          "word": "ஓம்பல் <br>(Ombal)",
+          "ta": "தவிர்த்துக் காக்க",
+          "en": "Not",
+          "hi": "बचो"
+        },
+        {
+          "no": 4,
+          "word": "மனைக் கெழீஇ <br>(Manaik kezheei)",
+          "ta": "வீட்டில் நண்பராய்ப் பழகி",
+          "en": "In house are friends",
+          "hi": "घर पर मैत्री पालते"
+        },
+        {
+          "no": 5,
+          "word": "மன்றில் <br>(Mandril)",
+          "ta": "பொது இடத்தில்",
+          "en": "In hall",
+          "hi": "सभा-मध्य"
+        },
+        {
+          "no": 6,
+          "word": "பழிப்பார் <br>(Pazhippaar)",
+          "ta": "பழித்துப் பேசுவாரின்",
+          "en": "Slandering foes",
+          "hi": "धिक्कार जो करते"
+        },
+        {
+          "no": 7,
+          "word": "தொடர்பு <br>(Thodarbu)",
+          "ta": "தொடர்பை",
+          "en": "With those",
+          "hi": "यार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எனைத்துங் குறுகுத லோம்பன் மனைக்கெழீஇ",
+          "line2": "மன்றிற் பழிப்பார் தொடர்பு."
+        },
+        "en": {
+          "line1": "In anywise maintain not intercourse with those,",
+          "line2": "Who in the house are friends, in hall are slandering foes."
+        },
+        "hi": {
+          "line1": "घर पर मैत्री पालते, सभा-मध्य धिक्कार ।",
+          "line2": "जो करते वे तनिक भी, निकट न आवें, यार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Enaiththung Kurugudha Lomban Manaikkezheei",
+            "line2": "Manrir Pazhippaar Thodarpu."
+          },
+          "hi": {
+            "line1": "ऎनैत्तुङ् कुरुगुद लोम्बन् मनैक्कॆऴीइ",
+            "line2": "मन्द्रिर् पऴिप्पार् तॊडर्बु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வீட்டில் இருக்கும்போது நண்பராகப் பழகி, பொது அவையில் பழித்துப் பேசுபவரின் தொடர்பை எவ்வளவும் நெருங்காமல் தவிர்க்க வேண்டும்.",
+        "en": "Stay completely away from people who are warm to your face in private and trash-talk you in public.",
+        "hi": "जो लोग घर पर तो मित्रता का व्यवहार करते हैं, किन्तु सभा के बीच निन्दा (धिक्कार) करते हैं, ऐसे लोगों के तनिक भी निकट नहीं जाना चाहिए।"
+      }
+    }
+  ]
+}

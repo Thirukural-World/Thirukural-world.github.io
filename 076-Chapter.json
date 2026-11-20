@@ -1,0 +1,930 @@
+{
+  "chapterNum": 76,
+  "nameTa": "பொருள்செயல்வகை",
+  "nameEn": "Way of Accumulating Wealth",
+  "nameHi": "वित्त-साधन-विधि",
+  "paal": "பொருட்பால்",
+  "iyal": "அங்கவியல்",
+  "kurals": [
+    {
+      "num": 751,
+      "line1": "பொருளல் லவரைப் பொருளாகச் செய்யும்",
+      "line2": "பொருளல்ல தில்லை பொருள்.",
+      "enLine1": "Nothing exists, save wealth, that can",
+      "enLine2": "Change man of nought to worthy man.",
+      "hiLine1": "धन जो देता है बना, नगण्य को भी गण्य ।",
+      "hiLine2": "उसे छोड़ कर मनुज को, गण्य वस्तु नहिं अन्य ॥",
+      "general": "ஒரு பொருளாக மதிக்கத் தகாதவரையும் மதிப்புடையவராகச் செய்யும் ஆற்றல் செல்வத்தைத் தவிர வேறு எதற்கும் இல்லை.",
+      "en": "There is nothing other than wealth that has the power to turn an insignificant person into someone of consequence.",
+      "hi": "धन के अतिरिक्त अन्य कोई ऐसी वस्तु नहीं है जो नगण्य (तुच्छ) व्यक्ति को भी समाज में गण्य (प्रतिष्ठित) बना दे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொருள் அல்லவரை <br>(Porul allavarai)",
+          "ta": "மதிப்பில்லாதவரையும்",
+          "en": "Man of nought",
+          "hi": "नगण्य को भी"
+        },
+        {
+          "no": 2,
+          "word": "பொருளாகச் <br>(Porulaaga)",
+          "ta": "மதிப்புடையவராக",
+          "en": "Worthy man",
+          "hi": "गण्य"
+        },
+        {
+          "no": 3,
+          "word": "செய்யும் <br>(Seyyum)",
+          "ta": "ஆக்கும்",
+          "en": "Change",
+          "hi": "देता है बना"
+        },
+        {
+          "no": 4,
+          "word": "பொருள் அல்லது <br>(Porul alladhu)",
+          "ta": "பொருளைத் தவிர",
+          "en": "Save wealth",
+          "hi": "उसे छोड़ कर"
+        },
+        {
+          "no": 5,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "வேறு இல்லை",
+          "en": "Nothing exists",
+          "hi": "नहिं अन्य"
+        },
+        {
+          "no": 6,
+          "word": "பொருள் <br>(Porul)",
+          "ta": "செல்வம்",
+          "en": "Wealth",
+          "hi": "धन"
+        },
+        {
+          "no": 7,
+          "word": "ஆற்றல் <br>(Aatral)",
+          "ta": "ஆற்றல்",
+          "en": "Power",
+          "hi": "शक्ति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொருளல் லவரைப் பொருளாகச் செய்யும்",
+          "line2": "பொருளல்ல தில்லை பொருள்."
+        },
+        "en": {
+          "line1": "Nothing exists, save wealth, that can",
+          "line2": "Change man of nought to worthy man."
+        },
+        "hi": {
+          "line1": "धन जो देता है बना, नगण्य को भी गण्य ।",
+          "line2": "उसे छोड़ कर मनुज को, गण्य वस्तु नहिं अन्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Porulal Lavaraip Porulaagas Seyyum",
+            "line2": "Porulalla Thillai Porul."
+          },
+          "hi": {
+            "line1": "पॊरुळल् लवरैप् पॊरुळागच् सॆय्युम्",
+            "line2": "पॊरुळल्ल दिल्लै पॊरुळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு பொருளாக மதிக்கத் தகாதவரையும் மதிப்புடையவராகச் செய்யும் ஆற்றல் செல்வத்தைத் தவிர வேறு எதற்கும் இல்லை.",
+        "en": "Like it or not, financial means have a unique power to give standing and weight to someone who otherwise had none.",
+        "hi": "धन के अतिरिक्त अन्य कोई ऐसी वस्तु नहीं है जो नगण्य (तुच्छ) व्यक्ति को भी समाज में गण्य (प्रतिष्ठित) बना दे।"
+      }
+    },
+    {
+      "num": 752,
+      "line1": "இல்லாரை யெல்லாரு மெள்ளுவர் செல்வரை",
+      "line2": "யெல்லாருஞ் செய்வர் சிறப்பு.",
+      "enLine1": "Those who have nought all will despise;",
+      "enLine2": "All raise the wealthy to the skies.",
+      "hiLine1": "निर्धन लोगो का सभी, करते हैं अपमान ।",
+      "hiLine2": "धनवनों का तो सभी, करते हैं सम्मन ॥",
+      "general": "பொருள் இல்லாத ஏழைகளை எல்லோரும் இகழ்ந்து பேசுவார்கள்; செல்வம் உடையவர்களை எல்லோரும் போற்றிச் சிறப்பிப்பார்கள்.",
+      "en": "Everyone looks down on those who have nothing, while everyone honors and elevates those who possess wealth.",
+      "hi": "निर्धन लोगों का तो सभी अपमान करते हैं, परन्तु धनवान लोगों का सभी लोग आदर और सम्मान करते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இல்லாரை <br>(Illaarai)",
+          "ta": "பொருள் இல்லாதவரை",
+          "en": "Those who have nought",
+          "hi": "निर्धन लोगो का"
+        },
+        {
+          "no": 2,
+          "word": "எல்லாரும் <br>(Ellaarum)",
+          "ta": "எல்லோரும்",
+          "en": "All",
+          "hi": "सभी"
+        },
+        {
+          "no": 3,
+          "word": "எள்ளுவர் <br>(Elluvar)",
+          "ta": "இகழ்வர்",
+          "en": "Will despise",
+          "hi": "करते हैं अपमान"
+        },
+        {
+          "no": 4,
+          "word": "செல்வரை <br>(Selvarai)",
+          "ta": "செல்வந்தரை",
+          "en": "The wealthy",
+          "hi": "धनवनों का"
+        },
+        {
+          "no": 5,
+          "word": "எல்லாரும் <br>(Ellaarum)",
+          "ta": "எல்லோரும்",
+          "en": "All",
+          "hi": "सभी"
+        },
+        {
+          "no": 6,
+          "word": "செய்வர் <br>(Seyvar)",
+          "ta": "செய்வார்கள்",
+          "en": "Raise",
+          "hi": "करते हैं"
+        },
+        {
+          "no": 7,
+          "word": "சிறப்பு <br>(Sirappu)",
+          "ta": "சிறப்பு",
+          "en": "To the skies",
+          "hi": "सम्मन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இல்லாரை யெல்லாரு மெள்ளுவர் செல்வரை",
+          "line2": "யெல்லாருஞ் செய்வர் சிறப்பு."
+        },
+        "en": {
+          "line1": "Those who have nought all will despise;",
+          "line2": "All raise the wealthy to the skies."
+        },
+        "hi": {
+          "line1": "निर्धन लोगो का सभी, करते हैं अपमान ।",
+          "line2": "धनवनों का तो सभी, करते हैं सम्मन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Illaarai Yellaaru Melluvar Selvarai",
+            "line2": "Yellaaruny Seyvar Sirappu."
+          },
+          "hi": {
+            "line1": "इल्लारै यॆल्लारु मॆळ्ळुवर् सॆल्वरै",
+            "line2": "यॆल्लारुञ् सॆय्वर् सिरप्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொருள் இல்லாத ஏழைகளை எல்லோரும் இகழ்ந்து பேசுவார்கள்; செல்வம் உடையவர்களை எல்லோரும் போற்றிச் சிறப்பிப்பார்கள்.",
+        "en": "The world tends to dismiss people who are broke and roll out the red carpet for people with money.",
+        "hi": "निर्धन लोगों का तो सभी अपमान करते हैं, परन्तु धनवान लोगों का सभी लोग आदर और सम्मान करते हैं।"
+      }
+    },
+    {
+      "num": 753,
+      "line1": "பொருளென்னும் பொய்யா விளக்க மிருளறுக்கு",
+      "line2": "மெண்ணிய தேயத்துச் சென்று.",
+      "enLine1": "Wealth, the lamp unfailing, speeds to every land,",
+      "enLine2": "Dispersing darkness at its lord's command.",
+      "hiLine1": "धनरूपी दीपक अमर, देता हुआ प्रकाश ।",
+      "hiLine2": "मनचाहा सब देश चल, करता है नम-नाश ॥",
+      "general": "பொருள் என்று சொல்லப்படும் அணையாத விளக்கு, நினைத்த நாட்டுக்கெல்லாம் சென்று அங்கிருக்கும் பகை என்னும் இருளைப் போக்கும்.",
+      "en": "Wealth is an unfailing lamp that travels wherever its owner wills, dispelling the darkness of opposition.",
+      "hi": "धन रूपी अमर दीपक जहाँ-जहाँ चाहा जाए, वहाँ-वहाँ जाकर अपना प्रकाश फैलाता है और शत्रु रूपी अन्धकार का नाश कर देता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொருள் என்னும் <br>(Porul ennum)",
+          "ta": "செல்வம் என்கிற",
+          "en": "Wealth",
+          "hi": "धनरूपी"
+        },
+        {
+          "no": 2,
+          "word": "பொய்யா விளக்கம் <br>(Poyyaa vilakkam)",
+          "ta": "அணையாத விளக்கு",
+          "en": "Lamp unfailing",
+          "hi": "दीपक अमर"
+        },
+        {
+          "no": 3,
+          "word": "இருள் அறுக்கும் <br>(Irul arukkum)",
+          "ta": "பகை இருளைப் போக்கும்",
+          "en": "Dispersing darkness",
+          "hi": "करता है नम-नाश"
+        },
+        {
+          "no": 4,
+          "word": "எண்ணிய <br>(Enniya)",
+          "ta": "நினைத்த",
+          "en": "Lord's command",
+          "hi": "मनचाहा"
+        },
+        {
+          "no": 5,
+          "word": "தேயத்துச் <br>(Dheyaththuch)",
+          "ta": "நாடுகளுக்கு",
+          "en": "Every land",
+          "hi": "सब देश"
+        },
+        {
+          "no": 6,
+          "word": "சென்று <br>(Sendru)",
+          "ta": "சென்று",
+          "en": "Speeds",
+          "hi": "चल"
+        },
+        {
+          "no": 7,
+          "word": "ஒளி <br>(Oli)",
+          "ta": "ஒளி",
+          "en": "Light",
+          "hi": "प्रकाश"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொருளென்னும் பொய்யா விளக்க மிருளறுக்கு",
+          "line2": "மெண்ணிய தேயத்துச் சென்று."
+        },
+        "en": {
+          "line1": "Wealth, the lamp unfailing, speeds to every land,",
+          "line2": "Dispersing darkness at its lord's command."
+        },
+        "hi": {
+          "line1": "धनरूपी दीपक अमर, देता हुआ प्रकाश ।",
+          "line2": "मनचाहा सब देश चल, करता है नम-नाश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Porulennum Poyyaa Vilakka Mirularukku",
+            "line2": "Menniya Theyaththus Senru."
+          },
+          "hi": {
+            "line1": "पॊरुळॆन्नुम् पॊय्या विळक्क मिरुळरुक्कु",
+            "line2": "मॆण्णिय देयत्तुच् सॆन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொருள் என்று சொல்லப்படும் அணையாத விளக்கு, நினைத்த நாட்டுக்கெல்லாம் சென்று அங்கிருக்கும் பகை என்னும் இருளைப் போக்கும்.",
+        "en": "Wealth works like an unfailing spotlight—it opens doors and clears obstacles wherever you direct it.",
+        "hi": "धन रूपी अमर दीपक जहाँ-जहाँ चाहा जाए, वहाँ-वहाँ जाकर अपना प्रकाश फैलाता है और शत्रु रूपी अन्धकार का नाश कर देता है।"
+      }
+    },
+    {
+      "num": 754,
+      "line1": "அறனீனு மின்பமு மீனுந் திறனறிந்து",
+      "line2": "தீதின்றி வந்த பொருள்.",
+      "enLine1": "Their wealth, who blameless means can use aright,",
+      "enLine2": "Is source of virtue and of choice delight.",
+      "hiLine1": "पाप-मार्ग को छोड़कर, न्याय रीति को जान ।",
+      "hiLine2": "अर्जित धन है सुखद औ', करता धर्म प्रदान ॥",
+      "general": "நல்வழி அறிந்து குற்றமற்ற முறையில் ஈட்டிய பொருள், ஒருவருக்கு அறத்தையும் தரும்; இன்பத்தையும் தரும்.",
+      "en": "Wealth earned through rightful methods without wrongdoing yields both virtue and genuine happiness.",
+      "hi": "पाप के मार्ग को छोड़कर न्याय की रीति से अर्जित किया गया धन सुख देने वाला होता है और धर्म भी प्रदान करता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறன் ஈனும் <br>(Aran eenum)",
+          "ta": "அறத்தையும் தரும்",
+          "en": "Source of virtue",
+          "hi": "करता धर्म प्रदान"
+        },
+        {
+          "no": 2,
+          "word": "இன்பமும் ஈனும் <br>(Inbamum eenum)",
+          "ta": "இன்பத்தையும் தரும்",
+          "en": "Choice delight",
+          "hi": "सुखद"
+        },
+        {
+          "no": 3,
+          "word": "திறன் அறிந்து <br>(Thiran arindhu)",
+          "ta": "நல்ல வழியை அறிந்து",
+          "en": "Use aright",
+          "hi": "न्याय रीति को जान"
+        },
+        {
+          "no": 4,
+          "word": "தீது இன்றி <br>(Theedhu indri)",
+          "ta": "குற்றம் இல்லாமல்",
+          "en": "Blameless means",
+          "hi": "पाप-मार्ग को छोड़कर"
+        },
+        {
+          "no": 5,
+          "word": "வந்த <br>(Vandha)",
+          "ta": "சேர்ந்த",
+          "en": "Gained",
+          "hi": "अर्जित"
+        },
+        {
+          "no": 6,
+          "word": "பொருள் <br>(Porul)",
+          "ta": "செல்வம்",
+          "en": "Wealth",
+          "hi": "धन"
+        },
+        {
+          "no": 7,
+          "word": "நலம் <br>(Nalam)",
+          "ta": "நலம்",
+          "en": "Good",
+          "hi": "कल्याण"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறனீனு மின்பமு மீனுந் திறனறிந்து",
+          "line2": "தீதின்றி வந்த பொருள்."
+        },
+        "en": {
+          "line1": "Their wealth, who blameless means can use aright,",
+          "line2": "Is source of virtue and of choice delight."
+        },
+        "hi": {
+          "line1": "पाप-मार्ग को छोड़कर, न्याय रीति को जान ।",
+          "line2": "अर्जित धन है सुखद औ', करता धर्म प्रदान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Araneenu Minpamu Meenun Thiranarindhu",
+            "line2": "Theedhinri Vandha Porul."
+          },
+          "hi": {
+            "line1": "अरनीनु मिन्बमु मीनुन् तिरणरिन्दु",
+            "line2": "तीदिन्द्रि वन्द पॊरुळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்வழி அறிந்து குற்றமற்ற முறையில் ஈட்டிய பொருள், ஒருவருக்கு அறத்தையும் தரும்; இன்பத்தையும் தரும்.",
+        "en": "Money earned cleanly and ethically lets you do good in the world and enjoy life with a clear conscience.",
+        "hi": "पाप के मार्ग को छोड़कर न्याय की रीति से अर्जित किया गया धन सुख देने वाला होता है और धर्म भी प्रदान करता है।"
+      }
+    },
+    {
+      "num": 755,
+      "line1": "அருளொடு மன்பொடும் வாராப் பொருளாக்கம்",
+      "line2": "புல்லார் புரள விடல்.",
+      "enLine1": "Wealth gained by loss of love and grace,",
+      "enLine2": "Let man cast off from his embrace.",
+      "hiLine1": "दया और प्रिय भाव से, प्राप्त नहीं जो वित्त ।",
+      "hiLine2": "जाने दो उस लाभ को, जमे न उसपर चित्त ॥",
+      "general": "அருளோடும் அன்போடும் சேர்ந்து வராத செல்வப் பெருக்கத்தை, அறிஞர்கள் ஏற்றுக் கொள்ளாமல் ஒதுக்கித் தள்ளிவிடுவர்.",
+      "en": "Do not cling to wealth acquired without compassion and love; cast such ill-gotten gain away.",
+      "hi": "जो धन दया और प्रेम के भाव से प्राप्त न हुआ हो, उस लाभ को छोड़ देना चाहिए और उस पर अपना मन नहीं लगाना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அருளொடும் <br>(Arulodum)",
+          "ta": "அருளோடும்",
+          "en": "Grace",
+          "hi": "दया"
+        },
+        {
+          "no": 2,
+          "word": "அன்பொடும் <br>(Anbodum)",
+          "ta": "அன்போடும்",
+          "en": "Love",
+          "hi": "प्रिय भाव से"
+        },
+        {
+          "no": 3,
+          "word": "வாரா <br>(Vaaraa)",
+          "ta": "வராத",
+          "en": "Gained by loss",
+          "hi": "प्राप्त नहीं जो"
+        },
+        {
+          "no": 4,
+          "word": "பொருள் ஆக்கம் <br>(Porul aakkam)",
+          "ta": "செல்வப் பெருக்கத்தை",
+          "en": "Wealth",
+          "hi": "वित्त"
+        },
+        {
+          "no": 5,
+          "word": "புல்லார் <br>(Pullaar)",
+          "ta": "ஏற்றுக்கொள்ளாமல்",
+          "en": "From his embrace",
+          "hi": "जमे न उसपर चित्त"
+        },
+        {
+          "no": 6,
+          "word": "புரள <br>(Purala)",
+          "ta": "நீங்கும்படி",
+          "en": "Cast off",
+          "hi": "जाने दो"
+        },
+        {
+          "no": 7,
+          "word": "விடல் <br>(Vidal)",
+          "ta": "விட்டுவிட வேண்டும்",
+          "en": "Let",
+          "hi": "उस लाभ को"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அருளொடு மன்பொடும் வாராப் பொருளாக்கம்",
+          "line2": "புல்லார் புரள விடல்."
+        },
+        "en": {
+          "line1": "Wealth gained by loss of love and grace,",
+          "line2": "Let man cast off from his embrace."
+        },
+        "hi": {
+          "line1": "दया और प्रिय भाव से, प्राप्त नहीं जो वित्त ।",
+          "line2": "जाने दो उस लाभ को, जमे न उसपर चित्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arulodu Manpodum Vaaraap Porulaakkam",
+            "line2": "Pullaar Purala Vidal."
+          },
+          "hi": {
+            "line1": "अरुळॊडु मन्बॊडुम् वाराप् पॊरुळाक्कम्",
+            "line2": "पुल्लार् पुरळ विडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அருளோடும் அன்போடும் சேர்ந்து வராத செல்வப் பெருக்கத்தை, அறிஞர்கள் ஏற்றுக் கொள்ளாமல் ஒதுக்கித் தள்ளிவிடுவர்.",
+        "en": "Walk away from profits that require sacrificing basic decency and human warmth.",
+        "hi": "जो धन दया और प्रेम के भाव से प्राप्त न हुआ हो, उस लाभ को छोड़ देना चाहिए और उस पर अपना मन नहीं लगाना चाहिए।"
+      }
+    },
+    {
+      "num": 756,
+      "line1": "உறுபொருளு முல்கு பொருளுந்தன் னொன்னார்த்",
+      "line2": "தெறுபொருளும் வேந்தன் பொருள்.",
+      "enLine1": "Wealth that falls to him as heir, wealth from the kingdom's dues,",
+      "enLine2": "The spoils of slaughtered foes: these are the royal revenues.",
+      "hiLine1": "धन जिसका वारिस नहीं, धन चूँगी से प्राप्त ।",
+      "hiLine2": "विजित शत्रु का भेंट-धन, धन हैं नृप हित आप्त ॥",
+      "general": "உரிமையாளர் இல்லாத பொருளும், சுங்க வரியால் வரும் பொருளும், பகைவரை வென்று பெறும் திறைப் பொருளும் அரசனுக்கு உரிய செல்வங்களாகும்.",
+      "en": "Unclaimed inheritance, customs and tax revenues, and tribute won from defeated foes constitute a king's rightful treasury.",
+      "hi": "लावारिस सम्पत्ति, चूँगी (कर) से प्राप्त धन और पराजित शत्रुओं से मिला भेंट-धन—ये तीनों राजा के लिए उचित राजकोष हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உறு பொருளும் <br>(Uru porulum)",
+          "ta": "உரிமையாரற்ற பொருளும்",
+          "en": "Wealth as heir",
+          "hi": "धन जिसका वारिस नहीं"
+        },
+        {
+          "no": 2,
+          "word": "உல்கு பொருளும் <br>(Ulgu porulum)",
+          "ta": "சுங்க வரியால் வரும் பொருளும்",
+          "en": "Kingdom's dues",
+          "hi": "धन चूँगी से प्राप्त"
+        },
+        {
+          "no": 3,
+          "word": "தன் ஒன்னார்த் <br>(Than onnaarth)",
+          "ta": "தன் பகைவரை",
+          "en": "Foes",
+          "hi": "विजित शत्रु का"
+        },
+        {
+          "no": 4,
+          "word": "தெறு பொருளும் <br>(Theru porulum)",
+          "ta": "வென்று பெறும் பொருளும்",
+          "en": "Spoils",
+          "hi": "भेंट-धन"
+        },
+        {
+          "no": 5,
+          "word": "வேந்தன் <br>(Vendhan)",
+          "ta": "அரசனுக்குரிய",
+          "en": "Royal",
+          "hi": "नृप हित"
+        },
+        {
+          "no": 6,
+          "word": "பொருள் <br>(Porul)",
+          "ta": "செல்வம் ஆகும்",
+          "en": "Revenues",
+          "hi": "आप्त धन हैं"
+        },
+        {
+          "no": 7,
+          "word": "வருவாய் <br>(Varuvaay)",
+          "ta": "வருவாய்",
+          "en": "Revenue",
+          "hi": "राजकोष"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உறுபொருளு முல்கு பொருளுந்தன் னொன்னார்த்",
+          "line2": "தெறுபொருளும் வேந்தன் பொருள்."
+        },
+        "en": {
+          "line1": "Wealth that falls to him as heir, wealth from the kingdom's dues,",
+          "line2": "The spoils of slaughtered foes: these are the royal revenues."
+        },
+        "hi": {
+          "line1": "धन जिसका वारिस नहीं, धन चूँगी से प्राप्त ।",
+          "line2": "विजित शत्रु का भेंट-धन, धन हैं नृप हित आप्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uruborulu Mulku Porulundhan Nonnaarth",
+            "line2": "Theruborulum Vendhan Porul."
+          },
+          "hi": {
+            "line1": "उरुपॊरुळु मुल्गु पॊरुळुन्दन् नॊन्नार्त्",
+            "line2": "तॆरुपॊरुळुम् वेन्दन् पॊरुळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உரிமையாளர் இல்லாத பொருளும், சுங்க வரியால் வரும் பொருளும், பகைவரை வென்று பெறும் திறைப் பொருளும் அரசனுக்கு உரிய செல்வங்களாகும்.",
+        "en": "State revenue flows from three legitimate channels: unclaimed estates, trade duties, and reparations from defeated rivals.",
+        "hi": "लावारिस सम्पत्ति, चूँगी (कर) से प्राप्त धन और पराजित शत्रुओं से मिला भेंट-धन—ये तीनों राजा के लिए उचित राजकोष हैं।"
+      }
+    },
+    {
+      "num": 757,
+      "line1": "அருளென்னு மன்பீன் குழவி பொருளென்னுஞ்",
+      "line2": "செல்வச் செவிலியா லுண்டு.",
+      "enLine1": "'Tis love that kindliness as offspring bears;",
+      "enLine2": "And wealth as bounteous nurse the infant rears.",
+      "hiLine1": "जन्माता है प्रेम जो, दयारूप शिशु सुष्ट ।",
+      "hiLine2": "पालित हो धन-धाय से, होता है बहु पुष्ट ॥",
+      "general": "அன்பு என்ற தாய் பெற்றெடுத்த அருள் என்னும் குழந்தை, பொருள் என்னும் செல்வச் செவிலித்தாயால் வளர்க்கப்படுகின்றது.",
+      "en": "Compassion is the child born of love, and it is nourished and raised by the wealthy foster-nurse of material means.",
+      "hi": "प्रेम रूपी माता से उत्पन्न दया रूपी सुन्दर शिशु, धन रूपी समृद्ध धाय (दाई) द्वारा पाला जाकर ही पुष्ट होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அருள் என்னும் <br>(Arul ennum)",
+          "ta": "அருள் என்கிற",
+          "en": "Kindliness",
+          "hi": "दयारूप"
+        },
+        {
+          "no": 2,
+          "word": "அன்பு ஈன் <br>(Anbu een)",
+          "ta": "அன்பு பெற்றெடுத்த",
+          "en": "Love bears",
+          "hi": "जन्माता है प्रेम"
+        },
+        {
+          "no": 3,
+          "word": "குழவி <br>(Kuzhavi)",
+          "ta": "குழந்தை",
+          "en": "Offspring",
+          "hi": "शिशु सुष्ट"
+        },
+        {
+          "no": 4,
+          "word": "பொருள் என்னும் <br>(Porul ennum)",
+          "ta": "செல்வம் என்கிற",
+          "en": "Wealth",
+          "hi": "धन"
+        },
+        {
+          "no": 5,
+          "word": "செல்வச் செவிலியால் <br>(Selva cheviliyaal)",
+          "ta": "வளமான செவிலித்தாயால்",
+          "en": "Bounteous nurse",
+          "hi": "धाय से"
+        },
+        {
+          "no": 6,
+          "word": "உண்டு <br>(Undu)",
+          "ta": "வளர்க்கப்படுகிறது",
+          "en": "Infant rears",
+          "hi": "पालित हो"
+        },
+        {
+          "no": 7,
+          "word": "வளர்ச்சி <br>(Valarchchi)",
+          "ta": "வளர்ச்சி",
+          "en": "Growth",
+          "hi": "पुष्ट"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அருளென்னு மன்பீன் குழவி பொருளென்னுஞ்",
+          "line2": "செல்வச் செவிலியா லுண்டு."
+        },
+        "en": {
+          "line1": "'Tis love that kindliness as offspring bears;",
+          "line2": "And wealth as bounteous nurse the infant rears."
+        },
+        "hi": {
+          "line1": "जन्माता है प्रेम जो, दयारूप शिशु सुष्ट ।",
+          "line2": "पालित हो धन-धाय से, होता है बहु पुष्ट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arulennu Manpeen Kuzhavi Porulennuny",
+            "line2": "Selvas Seviliyaa Lundu."
+          },
+          "hi": {
+            "line1": "अरुळॆन्नु मन्बीन् कुऴवि पॊरुळॆन्नुञ्",
+            "line2": "सॆल्वच् सॆविलिया लुण्डु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அன்பு என்ற தாய் பெற்றெடுத்த அருள் என்னும் குழந்தை, பொருள் என்னும் செல்வச் செவிலித்தாயால் வளர்க்கப்படுகின்றது.",
+        "en": "Love sparks compassion, but practical resources are what nurture it into real-world generosity.",
+        "hi": "प्रेम रूपी माता से उत्पन्न दया रूपी सुन्दर शिशु, धन रूपी समृद्ध धाय (दाई) द्वारा पाला जाकर ही पुष्ट होता है।"
+      }
+    },
+    {
+      "num": 758,
+      "line1": "குன்றேறி யானைப்போர் கண்டற்றாற் றன்கைத்தொன்",
+      "line2": "றுண்டாகச் செய்வான் வினை.",
+      "enLine1": "As one to view the strife of elephants who takes his stand,",
+      "enLine2": "On hill he's climbed, is he who works with money in his hand.",
+      "hiLine1": "निज धन रखते हाथ में, करना कोई कार्य ।",
+      "hiLine2": "गिरि पर चढ़ गज-समर का, ईक्षण सदृश विचार्य ॥",
+      "general": "தன் கையில் பொருள் இருக்கும்போது ஒரு செயலைச் செய்பவன் நிலை, மலை மேல் ஏறி நின்று பாதுகாப்பாக யானைப் போரைப் பார்ப்பது போன்றதாகும்.",
+      "en": "Undertaking a venture with capital in hand is like climbing a hill to watch a battle of elephants from safety.",
+      "hi": "अपने हाथ में पर्याप्त धन रखकर कोई कार्य करना वैसा ही सुरक्षित है, जैसे पहाड़ पर चढ़कर हाथियों के युद्ध को देखना।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குன்று ஏறி <br>(Kundru eri)",
+          "ta": "மலை மேல் ஏறி",
+          "en": "On hill climbed",
+          "hi": "गिरि पर चढ़"
+        },
+        {
+          "no": 2,
+          "word": "யானைப்போர் <br>(Yaanaippor)",
+          "ta": "யானைகளின் போரை",
+          "en": "Strife of elephants",
+          "hi": "गज-समर का"
+        },
+        {
+          "no": 3,
+          "word": "கண்டற்றால் <br>(Kandatraal)",
+          "ta": "பார்ப்பது போன்றது",
+          "en": "View",
+          "hi": "ईक्षण सदृश"
+        },
+        {
+          "no": 4,
+          "word": "தன் கைத்து <br>(Than kaiththu)",
+          "ta": "தன் கையில்",
+          "en": "In his hand",
+          "hi": "हाथ में"
+        },
+        {
+          "no": 5,
+          "word": "ஒன்று உண்டாக <br>(Ondru undaaga)",
+          "ta": "பொருள் இருக்க",
+          "en": "With money",
+          "hi": "निज धन रखते"
+        },
+        {
+          "no": 6,
+          "word": "செய்வான் <br>(Seyvaan)",
+          "ta": "செய்பவனின்",
+          "en": "Who works",
+          "hi": "करना कोई"
+        },
+        {
+          "no": 7,
+          "word": "வினை <br>(Vinai)",
+          "ta": "செயல்",
+          "en": "Action",
+          "hi": "कार्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குன்றேறி யானைப்போர் கண்டற்றாற் றன்கைத்தொன்",
+          "line2": "றுண்டாகச் செய்வான் வினை."
+        },
+        "en": {
+          "line1": "As one to view the strife of elephants who takes his stand,",
+          "line2": "On hill he's climbed, is he who works with money in his hand."
+        },
+        "hi": {
+          "line1": "निज धन रखते हाथ में, करना कोई कार्य ।",
+          "line2": "गिरि पर चढ़ गज-समर का, ईक्षण सदृश विचार्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kunreri Yaanaippor Kandatraar Rankaiththon",
+            "line2": "Rundaagas Seyvaan Vinai."
+          },
+          "hi": {
+            "line1": "कुन्द्रेरि यानैप्पोर् कण्डत्रार् रन्कैत्तॊन्",
+            "line2": "रुण्डागच् सॆय्वान् विनै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன் கையில் பொருள் இருக்கும்போது ஒரு செயலைச் செய்பவன் நிலை, மலை மேல் ஏறி நின்று பாதுகாப்பாக யானைப் போரைப் பார்ப்பது போன்றதாகும்.",
+        "en": "Executing a plan when you're well-funded gives you safety and perspective—like watching a clash from high ground.",
+        "hi": "अपने हाथ में पर्याप्त धन रखकर कोई कार्य करना वैसा ही सुरक्षित है, जैसे पहाड़ पर चढ़कर हाथियों के युद्ध को देखना।"
+      }
+    },
+    {
+      "num": 759,
+      "line1": "செய்க பொருளைச் செறுநர் செருக்கறுக்கு",
+      "line2": "மெஃகதனிற் கூரிய தில்.",
+      "enLine1": "Make money! Foeman's insolence o'ergrown",
+      "enLine2": "To lop away no keener steel is known.",
+      "hiLine1": "शत्रु-गर्व को चिरने, तेज शस्त्र जो सिद्ध ।",
+      "hiLine2": "धन से बढ़ कर है नहीं, सो संग्रह कर वित्त ॥",
+      "general": "பொருளை ஈட்ட வேண்டும்; பகைவரின் ஆணவத்தை அறுக்க வல்ல ஆயுதம் அதை விடக் கூர்மையானது வேறு இல்லை.",
+      "en": "Accumulate wealth; there is no sharper weapon than wealth to cut down the arrogance of your enemies.",
+      "hi": "शत्रु के घमण्ड को चूर करने के लिए धन से बढ़कर कोई तेज शस्त्र सिद्ध नहीं हुआ है, इसलिए धन का संग्रह करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செய்க <br>(Seyga)",
+          "ta": "ஈட்டுக",
+          "en": "Make",
+          "hi": "संग्रह कर"
+        },
+        {
+          "no": 2,
+          "word": "பொருளை <br>(Porulai)",
+          "ta": "செல்வத்தை",
+          "en": "Money",
+          "hi": "वित्त"
+        },
+        {
+          "no": 3,
+          "word": "செறுநர் <br>(Serunar)",
+          "ta": "பகைவரின்",
+          "en": "Foeman's",
+          "hi": "शत्रु"
+        },
+        {
+          "no": 4,
+          "word": "செருக்கு <br>(Serukku)",
+          "ta": "ஆணவத்தை",
+          "en": "Insolence",
+          "hi": "गर्व को"
+        },
+        {
+          "no": 5,
+          "word": "அறுக்கும் <br>(Arukkum)",
+          "ta": "அறுக்கும்",
+          "en": "Lop away",
+          "hi": "चिरने"
+        },
+        {
+          "no": 6,
+          "word": "எஃகு அதனின் <br>(Ehgu adhanin)",
+          "ta": "ஆயுதம் அதை விட",
+          "en": "Steel",
+          "hi": "तेज शस्त्र"
+        },
+        {
+          "no": 7,
+          "word": "கூரியது இல் <br>(Kooriyadhu il)",
+          "ta": "கூர்மையானது இல்லை",
+          "en": "No keener known",
+          "hi": "बढ़ कर है नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செய்க பொருளைச் செறுநர் செருக்கறுக்கு",
+          "line2": "மெஃகதனிற் கூரிய தில்."
+        },
+        "en": {
+          "line1": "Make money! Foeman's insolence o'ergrown",
+          "line2": "To lop away no keener steel is known."
+        },
+        "hi": {
+          "line1": "शत्रु-गर्व को चिरने, तेज शस्त्र जो सिद्ध ।",
+          "line2": "धन से बढ़ कर है नहीं, सो संग्रह कर वित्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seyka Porulais Serunar Serukkarukku",
+            "line2": "Mehgadhanir Kooriya Thil."
+          },
+          "hi": {
+            "line1": "सॆय्ग पॊरुळैच् सॆरुनर् सॆरुक्करुक्कु",
+            "line2": "मॆह्गदनिर् कूरिय दिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொருளை ஈட்ட வேண்டும்; பகைவரின் ஆணவத்தை அறுக்க வல்ல ஆயுதம் அதை விடக் கூர்மையானது வேறு இல்லை.",
+        "en": "Build your financial strength—nothing cuts a rival's arrogance down to size faster than solid resources.",
+        "hi": "शत्रु के घमण्ड को चूर करने के लिए धन से बढ़कर कोई तेज शस्त्र सिद्ध नहीं हुआ है, इसलिए धन का संग्रह करना चाहिए।"
+      }
+    },
+    {
+      "num": 760,
+      "line1": "ஒண்பொருள் காழ்ப்ப வியற்றியார்க் கெண்பொரு",
+      "line2": "ளேனை யிரண்டு மொருங்கு.",
+      "enLine1": "Who plenteous store of glorious wealth have gained,",
+      "enLine2": "By them the other two are easily obtained.",
+      "hiLine1": "धर्म, काम दोनों सुलभ, मिलते हैं इक साथ ।",
+      "hiLine2": "न्यायार्जित धन प्रचुर हो, लगता जिसके हाथ ॥",
+      "general": "நல்வழியில் சிறந்த பொருளை மிகுதியாகச் சேர்த்தவர்களுக்கு, அறமும் இன்பமும் ஆகிய மற்ற இரண்டும் ஒருசேர எளிதில் கிடைக்கும்.",
+      "en": "For those who have accumulated abundant, honorable wealth, the other two goals—virtue and pleasure—are easily attained together.",
+      "hi": "जिसके हाथ में न्यायपूर्वक अर्जित किया गया प्रचुर धन होता है, उसे धर्म और काम—ये दोनों ही एक साथ सहजता से प्राप्त हो जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒண்பொருள் <br>(Onporul)",
+          "ta": "நல்வழிப் பொருளை",
+          "en": "Glorious wealth",
+          "hi": "न्यायार्जित धन"
+        },
+        {
+          "no": 2,
+          "word": "காழ்ப்ப <br>(Kaazhppa)",
+          "ta": "மிகுதியாக",
+          "en": "Plenteous store",
+          "hi": "प्रचुर हो"
+        },
+        {
+          "no": 3,
+          "word": "இயற்றியார்க்கு <br>(Iyatriyaarkku)",
+          "ta": "சேர்த்தவர்களுக்கு",
+          "en": "Have gained",
+          "hi": "लगता जिसके हाथ"
+        },
+        {
+          "no": 4,
+          "word": "எண்பொருள் <br>(Enporul)",
+          "ta": "எளிய பொருளாகும்",
+          "en": "Easily obtained",
+          "hi": "सुलभ मिलते हैं"
+        },
+        {
+          "no": 5,
+          "word": "ஏனை <br>(Enai)",
+          "ta": "மற்ற",
+          "en": "Other",
+          "hi": "दोनों"
+        },
+        {
+          "no": 6,
+          "word": "இரண்டும் <br>(Irandum)",
+          "ta": "இரண்டும் (அறமும் இன்பமும்)",
+          "en": "Two",
+          "hi": "धर्म, काम"
+        },
+        {
+          "no": 7,
+          "word": "ஒருங்கு <br>(Orungu)",
+          "ta": "ஒருசேர",
+          "en": "Together",
+          "hi": "इक साथ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒண்பொருள் காழ்ப்ப வியற்றியார்க் கெண்பொரு",
+          "line2": "ளேனை யிரண்டு மொருங்கு."
+        },
+        "en": {
+          "line1": "Who plenteous store of glorious wealth have gained,",
+          "line2": "By them the other two are easily obtained."
+        },
+        "hi": {
+          "line1": "धर्म, काम दोनों सुलभ, मिलते हैं इक साथ ।",
+          "line2": "न्यायार्जित धन प्रचुर हो, लगता जिसके हाथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Onporul Kaazhppa Viyatriyaark Kenporu",
+            "line2": "Lenai Yirandu Morunggu."
+          },
+          "hi": {
+            "line1": "ऒण्पॊरुळ् काऴ्प्प वियत्रियार्क् कॆण्पॊरु",
+            "line2": "ळेनै यिरण्डु मॊरुङ्गु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்வழியில் சிறந்த பொருளை மிகுதியாகச் சேர்த்தவர்களுக்கு, அறமும் இன்பமும் ஆகிய மற்ற இரண்டும் ஒருசேர எளிதில் கிடைக்கும்.",
+        "en": "When you build honest wealth in abundance, both charitable impact and personal enjoyment follow naturally.",
+        "hi": "जिसके हाथ में न्यायपूर्वक अर्जित किया गया प्रचुर धन होता है, उसे धर्म और काम—ये दोनों ही एक साथ सहजता से प्राप्त हो जाते हैं।"
+      }
+    }
+  ]
+}

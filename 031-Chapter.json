@@ -1,0 +1,930 @@
+{
+  "chapterNum": 31,
+  "nameTa": "வெகுளாமை",
+  "nameEn": "The not Being Angry",
+  "nameHi": "अक्रोध",
+  "paal": "அறத்துப்பால்",
+  "iyal": "துறவறவியல்",
+  "kurals": [
+    {
+      "num": 301,
+      "line1": "செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக்",
+      "line2": "காக்கினென் காவாக்கால் என்.",
+      "enLine1": "Where thou hast power thy angry will to work, thy wrath restrain ;",
+      "enLine2": "Where power is none, what matter if thou check or give it rein ?",
+      "hiLine1": "जहाँ चले वश क्रोध का, कर उसका अवरोध ।",
+      "hiLine2": "अवश क्रोध का क्या किया, क्या न किया उपरोध ॥",
+      "general": "தம் சினம் பலிக்கும் எளியவரிடத்தில் கோபத்தை அடக்குபவனே சினம் காப்பவன்; பலியாத வலியவரிடத்தில் காத்தால் என்ன, காக்காவிட்டால் என்ன?",
+      "en": "He truly restrains anger who checks it where his wrath can take effect; where it cannot, what does it matter whether he restrains it or not?",
+      "hi": "जहाँ क्रोध का वश चलता हो (अर्थात निर्बल के प्रति), वहीं क्रोध को रोकना चाहिए; जहाँ वश न चले, वहाँ क्रोध को रोका तो क्या और न रोका तो क्या?",
+      "words": [
+        {
+          "no": 1,
+          "word": "செல்லிடத்துக் <br>(Sellidaththuk)",
+          "ta": "தன் சினம் செல்லும் இடத்தில்",
+          "en": "Where thou hast power",
+          "hi": "जहाँ वश चले"
+        },
+        {
+          "no": 2,
+          "word": "காப்பான் <br>(Kaappaan)",
+          "ta": "அடக்கிக் காப்பவனே",
+          "en": "He restrains",
+          "hi": "अवरोध करे"
+        },
+        {
+          "no": 3,
+          "word": "சினங்காப்பான் <br>(Sinangaappaan)",
+          "ta": "சினத்தைக் காப்பவன்",
+          "en": "Restrains wrath",
+          "hi": "क्रोध को रोकने वाला"
+        },
+        {
+          "no": 4,
+          "word": "அல்லிடத்துக் <br>(Allidaththuk)",
+          "ta": "செல்லாத இடத்தில்",
+          "en": "Where power is none",
+          "hi": "अवश स्थान पर"
+        },
+        {
+          "no": 5,
+          "word": "காக்கினென் <br>(Kaakkinen)",
+          "ta": "காத்தால் என்ன",
+          "en": "What if checked",
+          "hi": "क्या उपरोध किया"
+        },
+        {
+          "no": 6,
+          "word": "காவாக்கால் <br>(Kaavaakkaal)",
+          "ta": "காக்காவிட்டால்",
+          "en": "Or given rein",
+          "hi": "क्या न किया"
+        },
+        {
+          "no": 7,
+          "word": "என் <br>(En)",
+          "ta": "என்ன",
+          "en": "What matter",
+          "hi": "क्या फर्क"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக்",
+          "line2": "காக்கினென் காவாக்கால் என்."
+        },
+        "en": {
+          "line1": "Where thou hast power thy angry will to work, thy wrath restrain ;",
+          "line2": "Where power is none, what matter if thou check or give it rein ?"
+        },
+        "hi": {
+          "line1": "जहाँ चले वश क्रोध का, कर उसका अवरोध ।",
+          "line2": "अवश क्रोध का क्या किया, क्या न किया उपरोध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sellidaththuk Kaappaan Sinangaappaan Allidaththuk",
+            "line2": "Kaakkinen Kaavaakkaal En."
+          },
+          "hi": {
+            "line1": "सॆल्लिडत्तुक् काप्पान् सिनंगाप्पान् अल्लिडत्तुक्",
+            "line2": "काक्किनॆन् कावाक्कात् एन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம் சினம் பலிக்கும் எளியவரிடத்தில் கோபத்தை அடக்குபவனே சினம் காப்பவன்; பலியாத வலியவரிடத்தில் காத்தால் என்ன, காக்காவிட்டால் என்ன?",
+        "en": "True self-control is holding back your anger when you actually have the power to lash out—staying calm when you're powerless proves nothing.",
+        "hi": "जहाँ क्रोध का वश चलता हो (अर्थात निर्बल के प्रति), वहीं क्रोध को रोकना चाहिए; जहाँ वश न चले, वहाँ क्रोध को रोका तो क्या और न रोका तो क्या?"
+      }
+    },
+    {
+      "num": 302,
+      "line1": "செல்லா இடத்துச் சினந்தீது செல்லிடத்தும்",
+      "line2": "இல்லதனின் தீய பிற.",
+      "enLine1": "Where power is none to wreak thy wrath, wrath impotent is ill ;",
+      "enLine2": "Where thou hast power thy will to work, 'tis greater evil still.",
+      "hiLine1": "वश न चले जब क्रोध का, तब है क्रोध खराब ।",
+      "hiLine2": "अगर चले बश फिर वही, सबसे रहा खराब ॥",
+      "general": "பயனில்லாத வலியவரிடத்தில் கோபம் கொள்வது தீயது; ஆனால் சினம் பலிக்கும் எளியவரிடத்தில் கோபம் கொள்வதைவிடத் தீயது வேறொன்றுமில்லை.",
+      "en": "Anger is bad even where it is powerless; yet where it can take effect, there is nothing worse than it.",
+      "hi": "जब क्रोध का वश न चले, तब भी क्रोध करना बुरा है; और यदि क्रोध का वश चल जाए, तो वह उससे भी अधिक सबसे खराब होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செல்லா <br>(Sellaa)",
+          "ta": "பயனில்லாத",
+          "en": "Powerless",
+          "hi": "जहाँ वश न चले"
+        },
+        {
+          "no": 2,
+          "word": "இடத்துச் <br>(Idaththuch)",
+          "ta": "இடத்தில்",
+          "en": "Where",
+          "hi": "तब"
+        },
+        {
+          "no": 3,
+          "word": "சினந்தீது <br>(Sinandheedhu)",
+          "ta": "சினம் தீயது",
+          "en": "Wrath is ill",
+          "hi": "क्रोध खराब है"
+        },
+        {
+          "no": 4,
+          "word": "செல்லிடத்தும் <br>(Sellidaththum)",
+          "ta": "பலிக்கும் இடத்திலும்",
+          "en": "Where power is",
+          "hi": "अगर वश चले"
+        },
+        {
+          "no": 5,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "There is none",
+          "hi": "नहीं है"
+        },
+        {
+          "no": 6,
+          "word": "அதனின் <br>(Adhanin)",
+          "ta": "அதைவிடத்",
+          "en": "Than that",
+          "hi": "उससे"
+        },
+        {
+          "no": 7,
+          "word": "தீய பிற <br>(Theeya pira)",
+          "ta": "தீயன பிற",
+          "en": "Greater evil",
+          "hi": "सबसे खराब अन्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செல்லா இடத்துச் சினந்தீது செல்லிடத்தும்",
+          "line2": "இல்லதனின் தீய பிற."
+        },
+        "en": {
+          "line1": "Where power is none to wreak thy wrath, wrath impotent is ill ;",
+          "line2": "Where thou hast power thy will to work, 'tis greater evil still."
+        },
+        "hi": {
+          "line1": "वश न चले जब क्रोध का, तब है क्रोध खराब ।",
+          "line2": "अगर चले बश फिर वही, सबसे रहा खराब ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sellaa Idaththuch Sinandheedhu Sellidaththum",
+            "line2": "Illadhanin Theeya Pira."
+          },
+          "hi": {
+            "line1": "सॆल्ला इडत्तुच् सिनन्दीदु सॆल्लिडत्तुम्",
+            "line2": "इल्लदनिन् तीय पिर."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பயனில்லாத வலியவரிடத்தில் கோபம் கொள்வது தீயது; ஆனால் சினம் பலிக்கும் எளியவரிடத்தில் கோபம் கொள்வதைவிடத் தீயது வேறொன்றுமில்லை.",
+        "en": "Helpless rage only harms you, while venting anger on someone weaker than you is the worst evil of all.",
+        "hi": "जब क्रोध का वश न चले, तब भी क्रोध करना बुरा है; और यदि क्रोध का वश चल जाए, तो वह उससे भी अधिक सबसे खराब होता है।"
+      }
+    },
+    {
+      "num": 303,
+      "line1": "மறத்தல் வெகுளியை யார்மாட்டும் தீய",
+      "line2": "பிறத்தல் அதனான் வரும்.",
+      "enLine1": "If any rouse thy wrath, the trespass straight forget ;",
+      "enLine2": "For wrath an endless train of evils will beget.",
+      "hiLine1": "किसी व्यक्ति पर भी कभी, क्रोध न कर, जा भूल ।",
+      "hiLine2": "क्योंकि अनर्थों का वही, क्रोध बनेगा मूल ॥",
+      "general": "யாரிடத்தும் கோபம் கொள்ளுதலை மறந்துவிட வேண்டும்; ஏனெனில் எல்லாத் தீமைகளும் அந்தக் கோபத்தினாலேயே உண்டாகும்.",
+      "en": "Forget anger toward everyone, for all kinds of evil spring directly from anger.",
+      "hi": "किसी भी व्यक्ति पर कभी क्रोध मत करो, उसे भूल ही जाओ; क्योंकि समस्त अनर्थों (बुरे परिणामों) की जड़ वही क्रोध बनता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மறத்தல் <br>(Maraththal)",
+          "ta": "மறந்துவிட வேண்டும்",
+          "en": "Straight forget",
+          "hi": "भूल जाओ"
+        },
+        {
+          "no": 2,
+          "word": "வெகுளியை <br>(Veguliyai)",
+          "ta": "சினத்தை",
+          "en": "Wrath / anger",
+          "hi": "क्रोध को"
+        },
+        {
+          "no": 3,
+          "word": "யார்மாட்டும் <br>(Yaarmaattum)",
+          "ta": "யாரிடத்தும்",
+          "en": "Toward any",
+          "hi": "किसी व्यक्ति पर भी"
+        },
+        {
+          "no": 4,
+          "word": "தீய <br>(Theeya)",
+          "ta": "தீமைகள்",
+          "en": "Evils",
+          "hi": "अनर्थों का"
+        },
+        {
+          "no": 5,
+          "word": "பிறத்தல் <br>(Piraththal)",
+          "ta": "உண்டாதல்",
+          "en": "Begetting / arising",
+          "hi": "मूल बनना"
+        },
+        {
+          "no": 6,
+          "word": "அதனான் <br>(Adhanaan)",
+          "ta": "அச்சினத்தாலேயே",
+          "en": "From that",
+          "hi": "उसी क्रोध से"
+        },
+        {
+          "no": 7,
+          "word": "வரும் <br>(Varum)",
+          "ta": "வரும்",
+          "en": "Will come",
+          "hi": "होगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மறத்தல் வெகுளியை யார்மாட்டும் தீய",
+          "line2": "பிறத்தல் அதனான் வரும்."
+        },
+        "en": {
+          "line1": "If any rouse thy wrath, the trespass straight forget ;",
+          "line2": "For wrath an endless train of evils will beget."
+        },
+        "hi": {
+          "line1": "किसी व्यक्ति पर भी कभी, क्रोध न कर, जा भूल ।",
+          "line2": "क्योंकि अनर्थों का वही, क्रोध बनेगा मूल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Maraththal Veguliyai Yaarmaattum Theeya",
+            "line2": "Piraththal Adhanaan Varum."
+          },
+          "hi": {
+            "line1": "मरत्तल् वॆगुळियै यार्माट्टुम् तीय",
+            "line2": "पिरत्तल् अदनान् वरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "யாரிடத்தும் கோபம் கொள்ளுதலை மறந்துவிட வேண்டும்; ஏனெனில் எல்லாத் தீமைகளும் அந்தக் கோபத்தினாலேயே உண்டாகும்.",
+        "en": "Let go of anger toward everyone—once anger takes hold, an endless chain of regrets and harms follows.",
+        "hi": "किसी भी व्यक्ति पर कभी क्रोध मत करो, उसे भूल ही जाओ; क्योंकि समस्त अनर्थों (बुरे परिणामों) की जड़ वही क्रोध बनता है।"
+      }
+    },
+    {
+      "num": 304,
+      "line1": "நகையும் உவகையும் கொல்லும் சினத்தின்",
+      "line2": "பகையும் உளவோ பிற.",
+      "enLine1": "Wrath robs the face of smiles, the heart of joy,",
+      "enLine2": "What other foe to man works such annoy ?",
+      "hiLine1": "हास और उल्लास को, हनन करेगा क्रोध ।",
+      "hiLine2": "उससे बढ़ कर कौन है, रिपु जो करे विरोध ॥",
+      "general": "முகத்தின் சிரிப்பையும் மனத்தின் மகிழ்ச்சியையும் கொல்லும் சினத்தைவிட, மனிதனுக்கு வேறு பகை உண்டோ?",
+      "en": "Is there any greater enemy than anger, which destroys both the smile on the face and the joy in the heart?",
+      "hi": "जो क्रोध चेहरे की हँसी (हास) और मन के उल्लास का नाश कर देता है, भला उससे बढ़कर मनुष्य का विरोध करने वाला कोई अन्य शत्रु हो सकता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "நகையும் <br>(Nagaiyum)",
+          "ta": "முகமலர்ச்சியையும்",
+          "en": "Smiles",
+          "hi": "हास और"
+        },
+        {
+          "no": 2,
+          "word": "உவகையும் <br>(Uvagaiyum)",
+          "ta": "மனமகிழ்ச்சியையும்",
+          "en": "Joy of heart",
+          "hi": "उल्लास को"
+        },
+        {
+          "no": 3,
+          "word": "கொல்லும் <br>(Kollum)",
+          "ta": "அழிக்கும்",
+          "en": "Robs / kills",
+          "hi": "हनन करेगा"
+        },
+        {
+          "no": 4,
+          "word": "சினத்தின் <br>(Sinaththin)",
+          "ta": "சினத்தைவிட",
+          "en": "Than wrath",
+          "hi": "क्रोध से बढ़कर"
+        },
+        {
+          "no": 5,
+          "word": "பகையும் <br>(Pagaiyum)",
+          "ta": "பகைவனும்",
+          "en": "Enemy / foe",
+          "hi": "रिपु (शत्रु)"
+        },
+        {
+          "no": 6,
+          "word": "உளவோ <br>(Ulavo)",
+          "ta": "உண்டோ",
+          "en": "Is there",
+          "hi": "कौन है"
+        },
+        {
+          "no": 7,
+          "word": "பிற <br>(Pira)",
+          "ta": "வேறொன்று",
+          "en": "Any other",
+          "hi": "दूसरा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நகையும் உவகையும் கொல்லும் சினத்தின்",
+          "line2": "பகையும் உளவோ பிற."
+        },
+        "en": {
+          "line1": "Wrath robs the face of smiles, the heart of joy,",
+          "line2": "What other foe to man works such annoy ?"
+        },
+        "hi": {
+          "line1": "हास और उल्लास को, हनन करेगा क्रोध ।",
+          "line2": "उससे बढ़ कर कौन है, रिपु जो करे विरोध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nagaiyum Uvagaiyum Kollum Sinaththin",
+            "line2": "Pagaiyum Ulavo Pira."
+          },
+          "hi": {
+            "line1": "नगैयुम् उवगैयुम् कॊल्लुम् सिनत्तिन्",
+            "line2": "पगैयुम् उळवो पिर."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முகத்தின் சிரிப்பையும் மனத்தின் மகிழ்ச்சியையும் கொல்லும் சினத்தைவிட, மனிதனுக்கு வேறு பகை உண்டோ?",
+        "en": "Anger steals the smile from your face and the peace from your heart—no external enemy can do worse.",
+        "hi": "जो क्रोध चेहरे की हँसी (हास) और मन के उल्लास का नाश कर देता है, भला उससे बढ़कर मनुष्य का विरोध करने वाला कोई अन्य शत्रु हो सकता है?"
+      }
+    },
+    {
+      "num": 305,
+      "line1": "தன்னைத்தான் காக்கின் சினங்காக்க காவாக்கால்",
+      "line2": "தன்னையே கொல்லுஞ் சினம்.",
+      "enLine1": "If thou would'st guard thyself, guard against wrath alway ;",
+      "enLine2": "'Gainst wrath who guards not, him his wrath shall slay.",
+      "hiLine1": "रक्षा हित अपनी स्वयं, बचो क्रोध से साफ ।",
+      "hiLine2": "यदि न बचो तो क्रोध ही, तुम्हें करेगा साफ ॥",
+      "general": "ஒருவன் தன்னைத்தான் காத்துக்கொள்ள விரும்பினால் சினம் வராமல் காக்க வேண்டும்; அவ்வாறு காக்காவிட்டால் சினம் தன்னையே அழித்துவிடும்.",
+      "en": "If a person wishes to guard themselves, let them guard against anger; if not, anger will destroy them.",
+      "hi": "अपनी स्वयं की रक्षा के लिए क्रोध से बिल्कुल बचकर रहो; यदि तुम क्रोध से नहीं बचोगे तो वह क्रोध ही तुम्हें समाप्त कर देगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தன்னைத்தான் <br>(Thannaiththaan)",
+          "ta": "தன்னைத்தானே",
+          "en": "Thyself",
+          "hi": "अपनी स्वयं की"
+        },
+        {
+          "no": 2,
+          "word": "காக்கின் <br>(Kaakkin)",
+          "ta": "காக்க விரும்பினால்",
+          "en": "If would guard",
+          "hi": "रक्षा हित"
+        },
+        {
+          "no": 3,
+          "word": "சினங்காக்க <br>(Sinangaakka)",
+          "ta": "சினத்தைக் காக்க",
+          "en": "Guard against wrath",
+          "hi": "क्रोध से बचो"
+        },
+        {
+          "no": 4,
+          "word": "காவாக்கால் <br>(Kaavaakkaal)",
+          "ta": "காக்காவிட்டால்",
+          "en": "If not guarded",
+          "hi": "यदि न बचो तो"
+        },
+        {
+          "no": 5,
+          "word": "தன்னையே <br>(Thannaiye)",
+          "ta": "தன்னையே",
+          "en": "Oneself",
+          "hi": "तुम्हें ही"
+        },
+        {
+          "no": 6,
+          "word": "கொல்லுஞ் <br>(Kollunj)",
+          "ta": "கொன்றுவிடும்",
+          "en": "Shall slay",
+          "hi": "साफ करेगा"
+        },
+        {
+          "no": 7,
+          "word": "சினம் <br>(Sinam)",
+          "ta": "சினம்",
+          "en": "Wrath",
+          "hi": "क्रोध"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தன்னைத்தான் காக்கின் சினங்காக்க காவாக்கால்",
+          "line2": "தன்னையே கொல்லுஞ் சினம்."
+        },
+        "en": {
+          "line1": "If thou would'st guard thyself, guard against wrath alway ;",
+          "line2": "'Gainst wrath who guards not, him his wrath shall slay."
+        },
+        "hi": {
+          "line1": "रक्षा हित अपनी स्वयं, बचो क्रोध से साफ ।",
+          "line2": "यदि न बचो तो क्रोध ही, तुम्हें करेगा साफ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thannaiththaan Kaakkin Sinangaakka Kaavaakkaal",
+            "line2": "Thannaiye Kollunj Sinam."
+          },
+          "hi": {
+            "line1": "तन्नैत्तान् काक्किन् सिनंगाक्क कावाक्कात्",
+            "line2": "तन्नैये कॊल्लुञ् सिनम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் தன்னைத்தான் காத்துக்கொள்ள விரும்பினால் சினம் வராமல் காக்க வேண்டும்; அவ்வாறு காக்காவிட்டால் சினம் தன்னையே அழித்துவிடும்.",
+        "en": "If you want to protect yourself, master your temper—unchecked anger always turns around and destroys the person who holds it.",
+        "hi": "अपनी स्वयं की रक्षा के लिए क्रोध से बिल्कुल बचकर रहो; यदि तुम क्रोध से नहीं बचोगे तो वह क्रोध ही तुम्हें समाप्त कर देगा।"
+      }
+    },
+    {
+      "num": 306,
+      "line1": "சினமென்னும் சேர்ந்தாரைக் கொல்லி இனமென்னும்",
+      "line2": "ஏமப் புணையைச் சுடும்.",
+      "enLine1": "Wrath, the fire that slayeth whoso draweth near,",
+      "enLine2": "Will burn the helpful 'raft' of kindred dear.",
+      "hiLine1": "आश्रित जन का नाश जो, करे क्रोध की आग ।",
+      "hiLine2": "इष्ट-बन्धु-जन-नाव को, जलायगी वह आग ॥",
+      "general": "தன்னை அடைந்தவரை அழிக்கும் நெருப்பாகிய சினம், ஒருவனுக்குப் பாதுகாப்பாக இருக்கும் சுற்றம் என்னும் தெப்பத்தையும் சுட்டெரித்துவிடும்.",
+      "en": "Anger, the fire that destroys whoever approaches it, will burn up even the safe raft of one's own kindred.",
+      "hi": "जो क्रोध की आग अपने आश्रित लोगों का नाश करती है, वह तुम्हारे इष्ट-बंधु-जनों रूपी रक्षक नाव को भी जलाकर भस्म कर देगी।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சினமென்னும் <br>(Sinamennum)",
+          "ta": "சினம் என்னும்",
+          "en": "Wrath, the fire",
+          "hi": "क्रोध की आग"
+        },
+        {
+          "no": 2,
+          "word": "சேர்ந்தாரைக் <br>(Serndhaaraik)",
+          "ta": "தன்னைச் சேர்ந்தவரைக்",
+          "en": "Whoso draweth near",
+          "hi": "आश्रित जन का"
+        },
+        {
+          "no": 3,
+          "word": "கொல்லி <br>(Kolli)",
+          "ta": "கொல்லும் நெருப்பு",
+          "en": "Slayer / fire",
+          "hi": "नाश करने वाली"
+        },
+        {
+          "no": 4,
+          "word": "இனமென்னும் <br>(Inamennum)",
+          "ta": "சுற்றம் என்னும்",
+          "en": "Of kindred",
+          "hi": "इष्ट-बंधु-जन"
+        },
+        {
+          "no": 5,
+          "word": "ஏமப் <br>(Emap)",
+          "ta": "பாதுகாப்பான",
+          "en": "Helpful / safe",
+          "hi": "रक्षक"
+        },
+        {
+          "no": 6,
+          "word": "புணையைச் <br>(Punaiyaich)",
+          "ta": "தெப்பத்தைச்",
+          "en": "Raft",
+          "hi": "नाव को"
+        },
+        {
+          "no": 7,
+          "word": "சுடும் <br>(Sudum)",
+          "ta": "சுட்டெரிக்கும்",
+          "en": "Will burn",
+          "hi": "जलाएगी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சினமென்னும் சேர்ந்தாரைக் கொல்லி இனமென்னும்",
+          "line2": "ஏமப் புணையைச் சுடும்."
+        },
+        "en": {
+          "line1": "Wrath, the fire that slayeth whoso draweth near,",
+          "line2": "Will burn the helpful 'raft' of kindred dear."
+        },
+        "hi": {
+          "line1": "आश्रित जन का नाश जो, करे क्रोध की आग ।",
+          "line2": "इष्ट-बन्धु-जन-नाव को, जलायगी वह आग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sinamennum Serndhaaraik Kolli Inamennum",
+            "line2": "Emap Punaiyaich Sudum."
+          },
+          "hi": {
+            "line1": "सिनमॆन्नुम् सेर्न्दारैक् कॊल्लि इनमॆन्नुम्",
+            "line2": "एमप् पुणैयैच् सुडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன்னை அடைந்தவரை அழிக்கும் நெருப்பாகிய சினம், ஒருவனுக்குப் பாதுகாப்பாக இருக்கும் சுற்றம் என்னும் தெப்பத்தையும் சுட்டெரித்துவிடும்.",
+        "en": "Rage is a fire that spares nothing—it burns up the very family and friends who keep you afloat in times of trouble.",
+        "hi": "जो क्रोध की आग अपने आश्रित लोगों का नाश करती है, वह तुम्हारे इष्ट-बंधु-जनों रूपी रक्षक नाव को भी जलाकर भस्म कर देगी।"
+      }
+    },
+    {
+      "num": 307,
+      "line1": "சினத்தைப் பொருளென்று கொண்டவன் கேடு",
+      "line2": "நிலத்தறைந்தான் கைபிழையா தற்று.",
+      "enLine1": "The hand that smites the earth unfailing feels the sting ;",
+      "enLine2": "So perish they who nurse their wrath as noble thing.",
+      "hiLine1": "मान्य वस्तु सम क्रोध को, जो माने वह जाय ।",
+      "hiLine2": "हाथ मार ज्यों भूमि पर, चोट से न बच जाय ॥",
+      "general": "சினத்தைத் தனக்குரிய சிறந்த பொருள் என்று கருதிக்கொள்பவனின் அழிவு, நிலத்தைக் கையால் அறைந்தவனுடைய கை வலிக்காமல் தப்பாதது போன்றதாகும்.",
+      "en": "The ruin of one who cherishes anger as something valuable is as certain as the hand that strikes the earth not escaping pain.",
+      "hi": "जो व्यक्ति क्रोध को एक आदरणीय वस्तु मानकर अपनाता है, वह ठीक उसी प्रकार नष्ट हो जाता है जैसे कोई भूमि पर जोर से हाथ मारे और चोट से न बच सके।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சினத்தைப் <br>(Sinaththaip)",
+          "ta": "சினத்தை",
+          "en": "Wrath",
+          "hi": "क्रोध को"
+        },
+        {
+          "no": 2,
+          "word": "பொருளென்று <br>(Porulendru)",
+          "ta": "ஒரு பொருள் என்று",
+          "en": "As noble thing",
+          "hi": "मान्य वस्तु सम"
+        },
+        {
+          "no": 3,
+          "word": "கொண்டவன் <br>(Kondavan)",
+          "ta": "கொண்டவனின்",
+          "en": "Of him who nurses",
+          "hi": "मानने वाला"
+        },
+        {
+          "no": 4,
+          "word": "கேடு <br>(Kedu)",
+          "ta": "அழிவு",
+          "en": "Ruin",
+          "hi": "नष्ट हो जाता है"
+        },
+        {
+          "no": 5,
+          "word": "நிலத்தறைந்தான் <br>(Nilaththaraindhaan)",
+          "ta": "நிலத்தில் அறைந்தவனின்",
+          "en": "Who smites the earth",
+          "hi": "भूमि पर मारने वाले का"
+        },
+        {
+          "no": 6,
+          "word": "கை <br>(Kai)",
+          "ta": "கை",
+          "en": "Hand",
+          "hi": "हाथ"
+        },
+        {
+          "no": 7,
+          "word": "பிழையாதற்று <br>(Pizhaiyaadhatru)",
+          "ta": "தவறாமல் புண்படுவது போன்றது",
+          "en": "Unfailing feels sting",
+          "hi": "चोट से न बचे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சினத்தைப் பொருளென்று கொண்டவன் கேடு",
+          "line2": "நிலத்தறைந்தான் கைபிழையா தற்று."
+        },
+        "en": {
+          "line1": "The hand that smites the earth unfailing feels the sting ;",
+          "line2": "So perish they who nurse their wrath as noble thing."
+        },
+        "hi": {
+          "line1": "मान्य वस्तु सम क्रोध को, जो माने वह जाय ।",
+          "line2": "हाथ मार ज्यों भूमि पर, चोट से न बच जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sinaththaip Porulendru Kondavan Kedu",
+            "line2": "Nilaththaraindhaan Kai Pizhaiyaadhatru."
+          },
+          "hi": {
+            "line1": "सिनत्तैप् पॊरुळॆन्द्रु कॊण्डवन् केडु",
+            "line2": "निलत्तरैन्दान् कैपिऴैया तत्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சினத்தைத் தனக்குரிய சிறந்த பொருள் என்று கருதிக்கொள்பவனின் அழிவு, நிலத்தைக் கையால் அறைந்தவனுடைய கை வலிக்காமல் தப்பாதது போன்றதாகும்.",
+        "en": "Nursing anger as a sign of strength guarantees your own hurt—just as punching the ground inevitably injures your own fist.",
+        "hi": "जो व्यक्ति क्रोध को एक आदरणीय वस्तु मानकर अपनाता है, वह ठीक उसी प्रकार नष्ट हो जाता है जैसे कोई भूमि पर जोर से हाथ मारे और चोट से न बचे सके।"
+      }
+    },
+    {
+      "num": 308,
+      "line1": "இணரெரி தோய்வன்ன இன்னா செயினும்",
+      "line2": "புணரின் வெகுளாமை நன்று.",
+      "enLine1": "Though men should work thee woe, like touch of tongues of fire,",
+      "enLine2": "'Tis well if thou canst save thy soul from burning ire.",
+      "hiLine1": "अग्निज्वाला जलन ज्यों, किया अनिष्ट यथेष्ट ।",
+      "hiLine2": "फिर भी यदि संभव हुआ, क्रोध-दमन है श्रेष्ठ ॥",
+      "general": "பல நெருப்புத் திரள்கள் சேர்ந்து சுடுவது போன்ற கொடிய துன்பத்தை ஒருவர் செய்தாலும், கூடுமானவரை சினம் கொள்ளாதிருப்பதே நல்லதாகும்.",
+      "en": "Even if others inflict pain as severe as touching a cluster of flames, it is good if one can refrain from anger.",
+      "hi": "यदि कोई व्यक्ति अग्नि की ज्वाला की जलन के समान आपका अत्यधिक अनिष्ट भी कर दे, तब भी यदि संभव हो तो क्रोध पर नियंत्रण (दमन) रखना ही श्रेष्ठ है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இணரெரி <br>(Inareri)",
+          "ta": "நெருப்புத் திரள்",
+          "en": "Tongues of fire",
+          "hi": "अग्निज्वाला"
+        },
+        {
+          "no": 2,
+          "word": "தோய்வன்ன <br>(Thoyvanna)",
+          "ta": "சுடுவது போன்ற",
+          "en": "Like touch of",
+          "hi": "जलन ज्यों"
+        },
+        {
+          "no": 3,
+          "word": "இன்னா <br>(Innaa)",
+          "ta": "கொடிய துன்பத்தை",
+          "en": "Woe / pain",
+          "hi": "अनिष्ट"
+        },
+        {
+          "no": 4,
+          "word": "செயினும் <br>(Seyinum)",
+          "ta": "செய்தாலும்",
+          "en": "Though men work",
+          "hi": "किया यथेष्ट"
+        },
+        {
+          "no": 5,
+          "word": "புணரின் <br>(Punarim)",
+          "ta": "கூடுமானால்",
+          "en": "If possible",
+          "hi": "यदि संभव हुआ"
+        },
+        {
+          "no": 6,
+          "word": "வெகுளாமை <br>(Vegulaamai)",
+          "ta": "சினம் கொள்ளாதிருத்தல்",
+          "en": "Saving from ire",
+          "hi": "क्रोध-दमन"
+        },
+        {
+          "no": 7,
+          "word": "நன்று <br>(Nandru)",
+          "ta": "நல்லதாகும்",
+          "en": "Is well",
+          "hi": "श्रेष्ठ है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இணரெரி தோய்வன்ன இன்னா செயினும்",
+          "line2": "புணரின் வெகுளாமை நன்று."
+        },
+        "en": {
+          "line1": "Though men should work thee woe, like touch of tongues of fire,",
+          "line2": "'Tis well if thou canst save thy soul from burning ire."
+        },
+        "hi": {
+          "line1": "अग्निज्वाला जलन ज्यों, किया अनिष्ट यथेष्ट ।",
+          "line2": "फिर भी यदि संभव हुआ, क्रोध-दमन है श्रेष्ठ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inareri Thoyvanna Innaa Seyinum",
+            "line2": "Punarin Vegulaamai Nandru."
+          },
+          "hi": {
+            "line1": "इणरॆरि तोय्वन्न इन्ना सॆयिनुम्",
+            "line2": "पुणरिन् वॆगुळामै नन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பல நெருப்புத் திரள்கள் சேர்ந்து சுடுவது போன்ற கொடிய துன்பத்தை ஒருவர் செய்தாலும், கூடுமானவரை சினம் கொள்ளாதிருப்பதே நல்லதாகும்.",
+        "en": "Even when someone hurts you as fiercely as a blazing fire, keeping your soul free from burning anger is always the wiser path.",
+        "hi": "यदि कोई व्यक्ति अग्नि की ज्वाला की जलन के समान आपका अत्यधिक अनिष्ट भी कर दे, तब भी यदि संभव हो तो क्रोध पर नियंत्रण (दमन) रखना ही श्रेष्ठ है।"
+      }
+    },
+    {
+      "num": 309,
+      "line1": "உள்ளிய வெல்லாம் உடனெய்தும் உள்ளத்தால்",
+      "line2": "உள்ளான் வெகுளி எனின்.",
+      "enLine1": "If man his soul preserve from wrathful fires,",
+      "enLine2": "He gains with that whate'er his soul desires.",
+      "hiLine1": "जो मन में नहिं लायगा, कभी क्रोध का ख्याल ।",
+      "hiLine2": "मनचाही सब वस्तुएँ, उसे प्राप्य तत्काल ॥",
+      "general": "ஒருவன் தன் உள்ளத்தால் கோபத்தை நினையாமல் இருப்பானேயானால், அவன் நினைத்த நன்மைகள் எல்லாம் உடனே கைகூடும்.",
+      "en": "All that a person desires will immediately come to them if they do not harbor anger in their mind.",
+      "hi": "जो व्यक्ति अपने मन में कभी क्रोध का ख्याल भी नहीं लाएगा, उसे अपनी मनचाही सभी वस्तुएँ तत्काल प्राप्त हो जाती हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உள்ளிய <br>(Ulliya)",
+          "ta": "நினைத்தவை",
+          "en": "What soul desires",
+          "hi": "मनचाही"
+        },
+        {
+          "no": 2,
+          "word": "வெல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாம்",
+          "en": "All",
+          "hi": "सब वस्तुएँ"
+        },
+        {
+          "no": 3,
+          "word": "உடனெய்தும் <br>(Udaneydhum)",
+          "ta": "உடனே கைகூடும்",
+          "en": "Immediately gains",
+          "hi": "तत्काल प्राप्त"
+        },
+        {
+          "no": 4,
+          "word": "உள்ளத்தால் <br>(Ullaththaal)",
+          "ta": "மனத்தாலும்",
+          "en": "In his soul",
+          "hi": "मन में"
+        },
+        {
+          "no": 5,
+          "word": "உள்ளான் <br>(Ullaan)",
+          "ta": "நினையாதவனாக",
+          "en": "Preserves from",
+          "hi": "नहीं लाएगा"
+        },
+        {
+          "no": 6,
+          "word": "வெகுளி <br>(Veguli)",
+          "ta": "சினத்தை",
+          "en": "Wrathful fires",
+          "hi": "क्रोध का ख्याल"
+        },
+        {
+          "no": 7,
+          "word": "எனின் <br>(Enin)",
+          "ta": "இருந்தால்",
+          "en": "If",
+          "hi": "जो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உள்ளிய வெல்லாம் உடனெய்தும் உள்ளத்தால்",
+          "line2": "உள்ளான் வெகுளி எனின்."
+        },
+        "en": {
+          "line1": "If man his soul preserve from wrathful fires,",
+          "line2": "He gains with that whate'er his soul desires."
+        },
+        "hi": {
+          "line1": "जो मन में नहिं लायगा, कभी क्रोध का ख्याल ।",
+          "line2": "मनचाही सब वस्तुएँ, उसे प्राप्य तत्काल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ulliya Ellaam Udaneydhum Ullaththaal",
+            "line2": "Ullaan Veguli Enin."
+          },
+          "hi": {
+            "line1": "उळ्ळिय वॆल्लाम् उडनॆय्दुम् उळ्ळत्ताल्",
+            "line2": "उळ्ळान् वॆगुळि एनिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் தன் உள்ளத்தால் கோபத்தை நினையாமல் இருப்பானேயானால், அவன் நினைத்த நன்மைகள் எல்லாம் உடனே கைகூடும்.",
+        "en": "A calm mind completely free from anger possesses the clarity and poise to achieve every worthy goal it sets.",
+        "hi": "जो व्यक्ति अपने मन में कभी क्रोध का ख्याल भी नहीं लाएगा, उसे अपनी मनचाही सभी वस्तुएँ तत्काल प्राप्त हो जाती हैं।"
+      }
+    },
+    {
+      "num": 310,
+      "line1": "இறந்தார் இறந்தார் அனையர் சினத்தைத்",
+      "line2": "துறந்தார் துறந்தார் துணை.",
+      "enLine1": "Men of surpassing wrath are like the men who've passed away ;",
+      "enLine2": "Who wrath renounce, equals of all-renouncing sages they !",
+      "hiLine1": "जो होते अति क्रोधवश, हैं वे मृतक समान ।",
+      "hiLine2": "त्यागी हैं जो क्रोध के, त्यक्त-मृत्यु सम मान ॥",
+      "general": "அளவு கடந்து கோபப்படுபவர் உயிரோடு இருந்தாலும் இறந்தவர்களைப் போன்றவர்; கோபத்தைத் துறந்தவர்களோ துறவிகளுக்கு ஒப்பானவர் ஆவர்.",
+      "en": "Those who give way to excessive anger are like the dead; those who renounce anger are equal to ascetics who have renounced all.",
+      "hi": "जो लोग अत्यधिक क्रोध के वश में रहते हैं, वे जीवित होते हुए भी मृतक के समान हैं; और जिन्होंने क्रोध को त्याग दिया है, वे मृत्यु को जीतने वाले संन्यासियों के समान हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இறந்தார் <br>(Irandhaar)",
+          "ta": "வரம்பு கடந்த சினத்தார்",
+          "en": "Men of surpassing wrath",
+          "hi": "अति क्रोधवश होने वाले"
+        },
+        {
+          "no": 2,
+          "word": "இறந்தார் <br>(Irandhaar)",
+          "ta": "இறந்தவர்களைப்",
+          "en": "Men who passed away",
+          "hi": "मृतक"
+        },
+        {
+          "no": 3,
+          "word": "அனையர் <br>(Anaiyar)",
+          "ta": "போன்றவர்",
+          "en": "Are like",
+          "hi": "समान हैं"
+        },
+        {
+          "no": 4,
+          "word": "சினத்தைத் <br>(Sinaththaith)",
+          "ta": "சினத்தைத்",
+          "en": "Wrath",
+          "hi": "क्रोध के"
+        },
+        {
+          "no": 5,
+          "word": "துறந்தார் <br>(Thurandhaar)",
+          "ta": "துறந்தவர்",
+          "en": "Who renounce",
+          "hi": "त्यागी हैं जो"
+        },
+        {
+          "no": 6,
+          "word": "துறந்தார் <br>(Thurandhaar)",
+          "ta": "துறவிகளுக்கு",
+          "en": "All-renouncing sages",
+          "hi": "त्यक्त-मृत्यु (संन्यासी)"
+        },
+        {
+          "no": 7,
+          "word": "துணை <br>(Thunai)",
+          "ta": "ஒப்பானவர்",
+          "en": "Equals of",
+          "hi": "सम मान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இறந்தார் இறந்தார் அனையர் சினத்தைத்",
+          "line2": "துறந்தார் துறந்தார் துணை."
+        },
+        "en": {
+          "line1": "Men of surpassing wrath are like the men who've passed away ;",
+          "line2": "Who wrath renounce, equals of all-renouncing sages they !"
+        },
+        "hi": {
+          "line1": "जो होते अति क्रोधवश, हैं वे मृतक समान ।",
+          "line2": "त्यागी हैं जो क्रोध के, त्यक्त-मृत्यु सम मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Irandhaar Irandhaar Anaiyar Sinaththaith",
+            "line2": "Thurandhaar Thurandhaar Thunai."
+          },
+          "hi": {
+            "line1": "इरन्दार् इरन्दार् अनैयर् सिनत्तैत्",
+            "line2": "तुरन्दार् तुरन्दार् तुणै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அளவு கடந்து கோபப்படுபவர் உயிரோடு இருந்தாலும் இறந்தவர்களைப் போன்றவர்; கோபத்தைத் துறந்தவர்களோ துறவிகளுக்கு ஒப்பானவர் ஆவர்.",
+        "en": "Those consumed by fury are spiritually dead, whereas those who conquer anger stand alongside the wisest sages.",
+        "hi": "जो लोग अत्यधिक क्रोध के वश में रहते हैं, वे जीवित होते हुए भी मृतक के समान हैं; और जिन्होंने क्रोध को त्याग दिया है, वे मृत्यु को जीतने वाले संन्यासियों के समान हैं।"
+      }
+    }
+  ]
+}

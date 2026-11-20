@@ -1,0 +1,930 @@
+{
+  "chapterNum": 46,
+  "nameTa": "சிற்றினஞ்சேராமை",
+  "nameEn": "Avoiding Mean Associations",
+  "nameHi": "कुसंग-वर्जन",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 451,
+      "line1": "சிற்றின மஞ்சும் பெருமை சிறுமைதான்",
+      "line2": "சுற்றமாய்ச் சூழ்ந்து விடும்.",
+      "enLine1": "The great of soul will mean association fear;",
+      "enLine2": "The mean of soul regard mean men as kinsmen dear.",
+      "hiLine1": "ओछों से डरना रहा, उत्तम जन की बान ।",
+      "hiLine2": "गले लगाना बन्धु सम, है ओछों की बान ॥",
+      "general": "பெருமையுடையோர் சிற்றினத்தாரோடு சேர அஞ்சுவார்கள்; சிறுமையில் உள்ளவரோ அச்சிற்றினத்தையே தம் சுற்றமாகக் கொண்டு தழுவிக்கொள்வர்.",
+      "en": "The noble-minded dread the company of the base; the base-minded embrace such company as their close kinsmen.",
+      "hi": "ओछे (नीच) लोगों की संगति से डरकर दूर रहना उत्तम जनों का स्वभाव (बान) है, जबकि उन्हें बंधु के समान गले लगाना ओछे लोगों का स्वभाव है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சிற்றினம் <br>(Sitrinam)",
+          "ta": "கீழோர் கூட்டத்தை",
+          "en": "Mean association",
+          "hi": "ओछों से"
+        },
+        {
+          "no": 2,
+          "word": "அஞ்சும் <br>(Anjum)",
+          "ta": "அஞ்சி விலகும்",
+          "en": "Will fear",
+          "hi": "डरना रहा"
+        },
+        {
+          "no": 3,
+          "word": "பெருமை <br>(Perumai)",
+          "ta": "பெருமை உடையோர்",
+          "en": "The great of soul",
+          "hi": "उत्तम जन की बान"
+        },
+        {
+          "no": 4,
+          "word": "சிறுமைதான் <br>(Sirumaidhaan)",
+          "ta": "சிறியோர்",
+          "en": "The mean of soul",
+          "hi": "ओछों की बान"
+        },
+        {
+          "no": 5,
+          "word": "சுற்றமாய் <br>(Sutramaay)",
+          "ta": "உறவினராக",
+          "en": "As kinsmen dear",
+          "hi": "बन्धु सम"
+        },
+        {
+          "no": 6,
+          "word": "சூழ்ந்து <br>(Soozhndhu)",
+          "ta": "தழுவி",
+          "en": "Regard / surround",
+          "hi": "गले लगाना"
+        },
+        {
+          "no": 7,
+          "word": "விடும் <br>(Vidum)",
+          "ta": "கொள்ளும்",
+          "en": "Will",
+          "hi": "है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சிற்றின மஞ்சும் பெருமை சிறுமைதான்",
+          "line2": "சுற்றமாய்ச் சூழ்ந்து விடும்."
+        },
+        "en": {
+          "line1": "The great of soul will mean association fear;",
+          "line2": "The mean of soul regard mean men as kinsmen dear."
+        },
+        "hi": {
+          "line1": "ओछों से डरना रहा, उत्तम जन की बान ।",
+          "line2": "गले लगाना बन्धु सम, है ओछों की बान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sitrinam Anjum Perumai Sirumaidhaan",
+            "line2": "Sutramaaych Soozhndhu Vidum."
+          },
+          "hi": {
+            "line1": "सित्रिन मञ्जुम् पॆरुमै सिरुमैदान्",
+            "line2": "सुत्रमाय्च् सूऴ्न्दु विडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பெருமையுடையோர் சிற்றினத்தாரோடு சேர அஞ்சுவார்கள்; சிறுமையில் உள்ளவரோ அச்சிற்றினத்தையே தம் சுற்றமாகக் கொண்டு தழுவிக்கொள்வர்.",
+        "en": "People of noble character steer clear of petty company; shallow people welcome it like family.",
+        "hi": "ओछे (नीच) लोगों की संगति से डरकर दूर रहना उत्तम जनों का स्वभाव (बान) है, जबकि उन्हें बंधु के समान गले लगाना ओछे लोगों का स्वभाव है।"
+      }
+    },
+    {
+      "num": 452,
+      "line1": "நிலத்தியல்பா னீர்திரிந் தற்றாகு மாந்தர்க்",
+      "line2": "கினத்தியல்ப தாகு மறிவு.",
+      "enLine1": "The waters' virtues change with soil through which they flow;",
+      "enLine2": "As man's companionship so will his wisdom show.",
+      "hiLine1": "मिट्टी गुणानुसार ज्यों, बदले वारि-स्वभाव ।",
+      "hiLine2": "संगति से त्यों मनुज का, बदले बुद्धि-स्वभाव ॥",
+      "general": "மண்ணின் இயல்பிற்கு ஏற்ப நீரின் சுவையும் நிறமும் மாறுபடுவது போல, மக்களுக்கு அவரவர் சேரும் இனத்தின் இயல்பிற்கு ஏற்ப அறிவு அமையும்.",
+      "en": "Just as water takes on the quality of the soil through which it flows, a person's wisdom takes on the character of their companions.",
+      "hi": "जैसे मिट्टी के गुण के अनुसार पानी का स्वभाव बदल जाता है, वैसे ही संगति के अनुसार मनुष्य की बुद्धि और स्वभाव भी बदल जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நிலத்து இயல்பால் <br>(Nilaththu iyalbaal)",
+          "ta": "நிலத்தின் தன்மையால்",
+          "en": "With soil",
+          "hi": "मिट्टी गुणानुसार"
+        },
+        {
+          "no": 2,
+          "word": "நீர் திரிந்தற்று ஆகும் <br>(Neer thirindhatru aagum)",
+          "ta": "நீர் மாறுபடுவது போன்றதே",
+          "en": "Waters' virtues change",
+          "hi": "ज्यों बदले वारि-स्वभाव"
+        },
+        {
+          "no": 3,
+          "word": "மாந்தர்க்கு <br>(Maandharkku)",
+          "ta": "மக்களுக்கு",
+          "en": "Man's",
+          "hi": "मनुज का"
+        },
+        {
+          "no": 4,
+          "word": "இனத்து இயல்பது <br>(Inaththu iyalbadhu)",
+          "ta": "சேரும் இனத்தின் இயல்பை",
+          "en": "Companionship",
+          "hi": "संगति से"
+        },
+        {
+          "no": 5,
+          "word": "ஆகும் <br>(Aagum)",
+          "ta": "உடையதாகும்",
+          "en": "So will show",
+          "hi": "त्यों बदले"
+        },
+        {
+          "no": 6,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "அறிவு",
+          "en": "His wisdom",
+          "hi": "बुद्धि-स्वभाव"
+        },
+        {
+          "no": 7,
+          "word": "அற்றாகும் <br>(Atraagum)",
+          "ta": "அதுபோலாகும்",
+          "en": "Will be like",
+          "hi": "त्यों"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நிலத்தியல்பா னீர்திரிந் தற்றாகு மாந்தர்க்",
+          "line2": "கினத்தியல்ப தாகு மறிவு."
+        },
+        "en": {
+          "line1": "The waters' virtues change with soil through which they flow;",
+          "line2": "As man's companionship so will his wisdom show."
+        },
+        "hi": {
+          "line1": "मिट्टी गुणानुसार ज्यों, बदले वारि-स्वभाव ।",
+          "line2": "संगति से त्यों मनुज का, बदले बुद्धि-स्वभाव ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nilaththiyalbaal Neerthirindh Atraagu Maandharkku",
+            "line2": "Inaththiyalba Dhaagu Marivu."
+          },
+          "hi": {
+            "line1": "निलत्तियल्बा नीर्तिरिन् तत्रगु मान्दर्क्",
+            "line2": "किनत्तियल्ब तागु मरिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மண்ணின் இயல்பிற்கு ஏற்ப நீரின் சுவையும் நிறமும் மாறுபடுவது போல, மக்களுக்கு அவரவர் சேரும் இனத்தின் இயல்பிற்கு ஏற்ப அறிவு அமையும்.",
+        "en": "Rainwater picks up the taste and color of the soil it runs through; similarly, your thinking is shaped by the company you keep.",
+        "hi": "जैसे मिट्टी के गुण के अनुसार पानी का स्वभाव बदल जाता है, वैसे ही संगति के अनुसार मनुष्य की बुद्धि और स्वभाव भी बदल जाता है।"
+      }
+    },
+    {
+      "num": 453,
+      "line1": "மனத்தானா மாந்தர்க் குணர்ச்சி யினத்தானா",
+      "line2": "மின்னா னெனப்படுஞ் சொல்.",
+      "enLine1": "Perceptions manifold in men are of the mind alone;",
+      "enLine2": "The value of the man by his companionship is known.",
+      "hiLine1": "मनोजन्य है मनुज का, प्राकृत इन्द्रियज्ञान ।",
+      "hiLine2": "ऐसा यह यों नाम तो, संग-जन्य है जान ॥",
+      "general": "மனிதர்களுக்கு உள்ள உணர்வுகள் மனத்தின் வழியால் அமைவன; ஆனால் இவன் இப்படிப்பட்டவன் என்று உலகம் கூறும் பெயர் அவன் சேரும் இனத்தால் அமையும்.",
+      "en": "A person's inner thoughts and feelings belong to the mind, but the reputation of what kind of person he is comes from his associates.",
+      "hi": "मनुष्य का स्वाभाविक इन्द्रिय-ज्ञान तो मन से उत्पन्न होता है, किन्तु समाज में वह 'ऐसा व्यक्ति है'—यह नाम या पहचान उसकी संगति से ही बनती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மனத்தான் ஆம் <br>(Manaththaan aam)",
+          "ta": "மனத்தால் உண்டாகும்",
+          "en": "Of the mind alone",
+          "hi": "मनोजन्य है"
+        },
+        {
+          "no": 2,
+          "word": "மாந்தர்க்கு <br>(Maandharkku)",
+          "ta": "மக்களுக்கு",
+          "en": "In men",
+          "hi": "मनुज का"
+        },
+        {
+          "no": 3,
+          "word": "உணர்ச்சி <br>(Unarchchi)",
+          "ta": "உணர்ச்சி",
+          "en": "Perceptions",
+          "hi": "प्राकृत इन्द्रियज्ञान"
+        },
+        {
+          "no": 4,
+          "word": "இனத்தான் ஆம் <br>(Inaththaan aam)",
+          "ta": "இனத்தால் உண்டாகும்",
+          "en": "By companionship",
+          "hi": "संग-जन्य है"
+        },
+        {
+          "no": 5,
+          "word": "இன்னான் <br>(Innaan)",
+          "ta": "இப்படிப்பட்டவன்",
+          "en": "Value of the man",
+          "hi": "ऐसा यह"
+        },
+        {
+          "no": 6,
+          "word": "எனப்படும் <br>(Enappadum)",
+          "ta": "என்று சொல்லப்படும்",
+          "en": "Is known",
+          "hi": "यों नाम तो"
+        },
+        {
+          "no": 7,
+          "word": "சொல் <br>(Sol)",
+          "ta": "புகழ்/பெயர்",
+          "en": "Reputation",
+          "hi": "जान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மனத்தானா மாந்தர்க் குணர்ச்சி யினத்தானா",
+          "line2": "மின்னா னெனப்படுஞ் சொல்."
+        },
+        "en": {
+          "line1": "Perceptions manifold in men are of the mind alone;",
+          "line2": "The value of the man by his companionship is known."
+        },
+        "hi": {
+          "line1": "मनोजन्य है मनुज का, प्राकृत इन्द्रियज्ञान ।",
+          "line2": "ऐसा यह यों नाम तो, संग-जन्य है जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Manaththaanaa Maandharkku Unarchchi Inaththaanaa",
+            "line2": "Innaan Enappadunj Sol."
+          },
+          "hi": {
+            "line1": "मनत्ताना मान्दर्क् कुणर्चि यिनत्ताना",
+            "line2": "मिन्ना नॆनप्पडुञ् सॊल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனிதர்களுக்கு உள்ள உணர்வுகள் மனத்தின் வழியால் அமைவன; ஆனால் இவன் இப்படிப்பட்டவன் என்று உலகம் கூறும் பெயர் அவன் சேரும் இனத்தால் அமையும்.",
+        "en": "Your thoughts are shaped in your own mind, yet the world judges your character by the company you keep.",
+        "hi": "मनुष्य का स्वाभाविक इन्द्रिय-ज्ञान तो मन से उत्पन्न होता है, किन्तु समाज में वह 'ऐसा व्यक्ति है'—यह नाम या पहचान उसकी संगति से ही बनती है।"
+      }
+    },
+    {
+      "num": 454,
+      "line1": "மனத்து ளதுபோலக் காட்டி யொருவற்",
+      "line2": "கினத்து ளதாகு மறிவு.",
+      "enLine1": "Man's wisdom seems the offspring of his mind;",
+      "enLine2": "'Tis outcome of companionship we find.",
+      "hiLine1": "मनोजन्य सा दीखता, भले बुरे का ज्ञान ।",
+      "hiLine2": "संग-जन्य रहता मगर, नर का ऐसा जान ॥",
+      "general": "ஒருவனுடைய அறிவு அவன் மனத்திலிருந்து தோன்றுவது போலக் காட்டினாலும், உண்மையில் அது அவன் சேர்ந்துள்ள இனத்தின் வழிப்பட்டதாகவே இருக்கும்.",
+      "en": "Though a person's wisdom appears to reside solely in his own mind, in reality it is shaped by the company he keeps.",
+      "hi": "मनुष्य में भले-बुरे का ज्ञान देखने में तो मन से उत्पन्न प्रतीत होता है, किन्तु वास्तव में वह ज्ञान उसकी संगति से ही उत्पन्न होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மனத்து உள்ளது <br>(Manaththu ulladhu)",
+          "ta": "மனத்தில் உள்ளது",
+          "en": "Of his mind",
+          "hi": "मनोजन्य सा"
+        },
+        {
+          "no": 2,
+          "word": "போல <br>(Pola)",
+          "ta": "போல",
+          "en": "Seems",
+          "hi": "दीखता"
+        },
+        {
+          "no": 3,
+          "word": "காட்டி <br>(Kaatti)",
+          "ta": "காட்டி",
+          "en": "Showing",
+          "hi": "है"
+        },
+        {
+          "no": 4,
+          "word": "ஒருவற்கு <br>(Oruvarku)",
+          "ta": "ஒருவனுக்கு",
+          "en": "Man's",
+          "hi": "नर का"
+        },
+        {
+          "no": 5,
+          "word": "இனத்து உள்ளது <br>(Inaththu ulladhu)",
+          "ta": "இனத்தில் உள்ளதாக",
+          "en": "Of companionship",
+          "hi": "संग-जन्य रहता"
+        },
+        {
+          "no": 6,
+          "word": "ஆகும் <br>(Aagum)",
+          "ta": "அமையும்",
+          "en": "We find",
+          "hi": "मगर"
+        },
+        {
+          "no": 7,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "அறிவு",
+          "en": "Wisdom",
+          "hi": "भले बुरे का ज्ञान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மனத்து ளதுபோலக் காட்டி யொருவற்",
+          "line2": "கினத்து ளதாகு மறிவு."
+        },
+        "en": {
+          "line1": "Man's wisdom seems the offspring of his mind;",
+          "line2": "'Tis outcome of companionship we find."
+        },
+        "hi": {
+          "line1": "मनोजन्य सा दीखता, भले बुरे का ज्ञान ।",
+          "line2": "संग-जन्य रहता मगर, नर का ऐसा जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Manaththu Uladhupolak Kaatti Oruvarku",
+            "line2": "Inaththu Uladhaagum Arivu."
+          },
+          "hi": {
+            "line1": "मनत्तु ळदुपोलक् काट्टि यॊरुवर्",
+            "line2": "किनत्तु ळदागु मरिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவனுடைய அறிவு அவன் மனத்திலிருந்து தோன்றுவது போலக் காட்டினாலும், உண்மையில் அது அவன் சேர்ந்துள்ள இனத்தின் வழிப்பட்டதாகவே இருக்கும்.",
+        "en": "We like to think our judgment comes purely from our own mind, but in reality it's heavily molded by the people around us.",
+        "hi": "मनुष्य में भले-बुरे का ज्ञान देखने में तो मन से उत्पन्न प्रतीत होता है, किन्तु वास्तव में वह ज्ञान उसकी संगति से ही उत्पन्न होता है।"
+      }
+    },
+    {
+      "num": 455,
+      "line1": "மனந்தூய்மை செய்வினை தூய்மை யிரண்டு",
+      "line2": "மினந்தூய்மை தூவா வரும்.",
+      "enLine1": "Both purity of mind, and purity of action clear,",
+      "enLine2": "Leaning on staff of pure companionship, to man draw near.",
+      "hiLine1": "मन की होना शुद्धता, तथा कर्म की शुद्धि ।",
+      "hiLine2": "दोनों का अवलंब है, संगति की परिशुद्धि ॥",
+      "general": "மனத்தின் தூய்மையும் செய்யும் செயலின் தூய்மையும் ஆகிய இவ்விரண்டும், ஒருவன் சேரும் இனத்தின் தூய்மையைப் பொறுத்தே அமையும்.",
+      "en": "Both purity of mind and purity of action come to a person relying on the purity of their companionship.",
+      "hi": "मन की शुद्धता और कर्म की शुद्धता—इन दोनों का मुख्य आधार (अवलंब) अच्छी और शुद्ध संगति ही है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மனந்தூய்மை <br>(Manandhooymai)",
+          "ta": "மனத்தூய்மை",
+          "en": "Purity of mind",
+          "hi": "मन की शुद्धता"
+        },
+        {
+          "no": 2,
+          "word": "செய்வினை தூய்மை <br>(Seyvinai thooymai)",
+          "ta": "செயல் தூய்மை",
+          "en": "Purity of action",
+          "hi": "कर्म की शुद्धि"
+        },
+        {
+          "no": 3,
+          "word": "இரண்டும் <br>(Irandum)",
+          "ta": "ஆகிய இரண்டும்",
+          "en": "Both",
+          "hi": "दोनों का"
+        },
+        {
+          "no": 4,
+          "word": "இனந்தூய்மை <br>(Inandhooymai)",
+          "ta": "சேரும் இனத்தின் தூய்மையால்",
+          "en": "Pure companionship",
+          "hi": "संगति की परिशुद्धि"
+        },
+        {
+          "no": 5,
+          "word": "தூவா <br>(Thoovaa)",
+          "ta": "பற்றுக்கோடாகக் கொண்டு",
+          "en": "Leaning on staff",
+          "hi": "अवलंब है"
+        },
+        {
+          "no": 6,
+          "word": "வரும் <br>(Varum)",
+          "ta": "வந்து சேரும்",
+          "en": "Draw near",
+          "hi": "होना"
+        },
+        {
+          "no": 7,
+          "word": "இரண்டு <br>(Irandu)",
+          "ta": "இரண்டு",
+          "en": "Two",
+          "hi": "दोनों"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மனந்தூய்மை செய்வினை தூய்மை யிரண்டு",
+          "line2": "மினந்தூய்மை தூவா வரும்."
+        },
+        "en": {
+          "line1": "Both purity of mind, and purity of action clear,",
+          "line2": "Leaning on staff of pure companionship, to man draw near."
+        },
+        "hi": {
+          "line1": "मन की होना शुद्धता, तथा कर्म की शुद्धि ।",
+          "line2": "दोनों का अवलंब है, संगति की परिशुद्धि ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Manandhooymai Seyvinai Thooymai Irandum",
+            "line2": "Inandhooymai Thoovaa Varum."
+          },
+          "hi": {
+            "line1": "मनन्दूय्मै सॆय्विनै तूय्मै यिरण्डु",
+            "line2": "मिनन्दूय्मै तूवा वरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனத்தின் தூய்மையும் செய்யும் செயலின் தூய்மையும் ஆகிய இவ்விரண்டும், ஒருவன் சேரும் இனத்தின் தூய்மையைப் பொறுத்தே அமையும்.",
+        "en": "Clean intentions and upright actions both grow naturally out of keeping clean, trustworthy company.",
+        "hi": "मन की शुद्धता और कर्म की शुद्धता—इन दोनों का मुख्य आधार (अवलंब) अच्छी और शुद्ध संगति ही है।"
+      }
+    },
+    {
+      "num": 456,
+      "line1": "மனந்தூயார்க் கெச்ச நன்றாகு மினந்தூயார்க்",
+      "line2": "கில்லை நன்றாகா வினை.",
+      "enLine1": "From true pure-minded men a virtuous race proceeds;",
+      "enLine2": "To men of pure companionship belong no evil deeds.",
+      "hiLine1": "पातें सत्सन्तान हैं, जिनका है मन शुद्ध ।",
+      "hiLine2": "विफल कर्म होता नहीं, जिनका रंग विशुद्ध ॥",
+      "general": "மனத்தூய்மை உடையவர்களுக்குப் பின்னால் வரும் வழித்தோன்றல் சிறப்பாக அமையும்; அதுபோல இனத்தூய்மை உடையவர்களுக்கு நன்மை தராத செயல் எதுவுமே இல்லை.",
+      "en": "Those pure in mind are blessed with worthy posterity; those pure in their associations never engage in deeds that fail to bring good.",
+      "hi": "जिनका मन शुद्ध है, वे उत्तम संतान (यश) पाते हैं; और जिनकी संगति शुद्ध है, उनका कोई भी कर्म कभी विफल या अशुभ नहीं होता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மனந்தூயார்க்கு <br>(Manandhooyaarkku)",
+          "ta": "மனத்தூய்மை உடையார்க்கு",
+          "en": "Pure-minded men",
+          "hi": "जिनका है मन शुद्ध"
+        },
+        {
+          "no": 2,
+          "word": "எச்சம் <br>(Echcham)",
+          "ta": "வழித்தோன்றல்",
+          "en": "Race proceeds",
+          "hi": "सत्सन्तान"
+        },
+        {
+          "no": 3,
+          "word": "நன்றாகும் <br>(Nandraagum)",
+          "ta": "நல்லதாக அமையும்",
+          "en": "Virtuous",
+          "hi": "पातें हैं"
+        },
+        {
+          "no": 4,
+          "word": "இனந்தூயார்க்கு <br>(Inandhooyaarkku)",
+          "ta": "இனத்தூய்மை உடையார்க்கு",
+          "en": "Pure companionship",
+          "hi": "जिनका रंग विशुद्ध"
+        },
+        {
+          "no": 5,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "No",
+          "hi": "होता नहीं"
+        },
+        {
+          "no": 6,
+          "word": "நன்றாகா <br>(Nandraagaa)",
+          "ta": "நன்மை தராத",
+          "en": "Evil",
+          "hi": "विफल"
+        },
+        {
+          "no": 7,
+          "word": "வினை <br>(Vinai)",
+          "ta": "செயல்",
+          "en": "Deeds",
+          "hi": "कर्म"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மனந்தூயார்க் கெச்ச நன்றாகு மினந்தூயார்க்",
+          "line2": "கில்லை நன்றாகா வினை."
+        },
+        "en": {
+          "line1": "From true pure-minded men a virtuous race proceeds;",
+          "line2": "To men of pure companionship belong no evil deeds."
+        },
+        "hi": {
+          "line1": "पातें सत्सन्तान हैं, जिनका है मन शुद्ध ।",
+          "line2": "विफल कर्म होता नहीं, जिनका रंग विशुद्ध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Manandhooyaarkku Echcham Nandraagum Inandhooyaarkku",
+            "line2": "Illai Nandraagaa Vinai."
+          },
+          "hi": {
+            "line1": "मनन्दूयार्क् कॆच्च नन्द्रागु मिनन्दूयार्क्",
+            "line2": "किल्लै नन्द्रागा विनै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனத்தூய்மை உடையவர்களுக்குப் பின்னால் வரும் வழித்தோன்றல் சிறப்பாக அமையும்; அதுபோல இனத்தூய்மை உடையவர்களுக்கு நன்மை தராத செயல் எதுவுமே இல்லை.",
+        "en": "Pure-hearted people leave behind a noble legacy, and those surrounded by good company never stray into fruitless or harmful deeds.",
+        "hi": "जिनका मन शुद्ध है, वे उत्तम संतान (यश) पाते हैं; और जिनकी संगति शुद्ध है, उनका कोई भी कर्म कभी विफल या अशुभ नहीं होता।"
+      }
+    },
+    {
+      "num": 457,
+      "line1": "மனநல மன்னுயிர்க் காக்க மினநல",
+      "line2": "மெல்லாப் புகழுந் தரும்.",
+      "enLine1": "Goodness of mind to lives of men increaseth gain;",
+      "enLine2": "And good companionship doth all of praise obtain.",
+      "hiLine1": "मन की शुद्धि मनुष्य को, देती है ऐश्वर्य ।",
+      "hiLine2": "सत्संगति तो फिर उसे, देती सब यश वर्य ॥",
+      "general": "மனநலம் என்பது உயிர்களுக்கு எல்லாச் செல்வத்தையும் தரும்; சேரும் இனநலம் என்பது எல்லாப் புகழையும் தரும்.",
+      "en": "Goodness of mind brings prosperity to living beings, and goodness of companionship brings every kind of renown.",
+      "hi": "मन की शुद्धि मनुष्य को ऐश्वर्य (संपत्ति) प्रदान करती है, और सत्संगति तो उसे सभी प्रकार का श्रेष्ठ यश भी दिलाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மனநலம் <br>(Mananalam)",
+          "ta": "மனநலம்",
+          "en": "Goodness of mind",
+          "hi": "मन की शुद्धि"
+        },
+        {
+          "no": 2,
+          "word": "மன்னுயிர்க்கு <br>(Mannuyirkku)",
+          "ta": "உயிர்களுக்கு",
+          "en": "To lives of men",
+          "hi": "मनुष्य को"
+        },
+        {
+          "no": 3,
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "செல்வத்தைத் தரும்",
+          "en": "Increaseth gain",
+          "hi": "देती है ऐश्वर्य"
+        },
+        {
+          "no": 4,
+          "word": "இனநலம் <br>(Inanalam)",
+          "ta": "இனநலம்",
+          "en": "Good companionship",
+          "hi": "सत्संगति"
+        },
+        {
+          "no": 5,
+          "word": "எல்லா <br>(Ellaa)",
+          "ta": "எல்லாப்",
+          "en": "All",
+          "hi": "सब"
+        },
+        {
+          "no": 6,
+          "word": "புகழும் <br>(Pugazhum)",
+          "ta": "புகழையும்",
+          "en": "Praise",
+          "hi": "यश वर्य"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Doth obtain",
+          "hi": "देती है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மனநல மன்னுயிர்க் காக்க மினநல",
+          "line2": "மெல்லாப் புகழுந் தரும்."
+        },
+        "en": {
+          "line1": "Goodness of mind to lives of men increaseth gain;",
+          "line2": "And good companionship doth all of praise obtain."
+        },
+        "hi": {
+          "line1": "मन की शुद्धि मनुष्य को, देती है ऐश्वर्य ।",
+          "line2": "सत्संगति तो फिर उसे, देती सब यश वर्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Mananalam Mannuyirkku Aakkam Inanalam",
+            "line2": "Ellaap Pugazhundh Tharum."
+          },
+          "hi": {
+            "line1": "मननल मन्नुयिर्क् काक्क मिननल",
+            "line2": "मॆल्लाप् पुगऴुन् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனநலம் என்பது உயிர்களுக்கு எல்லாச் செல்வத்தையும் தரும்; சேரும் இனநலம் என்பது எல்லாப் புகழையும் தரும்.",
+        "en": "A healthy, upright mind brings prosperity, while good company crowns it with lasting honor and respect.",
+        "hi": "मन की शुद्धि मनुष्य को ऐश्वर्य (संपत्ति) प्रदान करती है, और सत्संगति तो उसे सभी प्रकार का श्रेष्ठ यश भी दिलाती है।"
+      }
+    },
+    {
+      "num": 458,
+      "line1": "மனநல நன்குடைய ராயினுஞ் சான்றோர்க்",
+      "line2": "கினநல மேமாப் புடைத்து.",
+      "enLine1": "To perfect men, though minds right good belong,",
+      "enLine2": "Yet good companionship is confirmation strong.",
+      "hiLine1": "शुद्ध चित्तवाले स्वतः, रहते साधु महान ।",
+      "hiLine2": "सत्संगति फिर भी उन्हें, करती शक्ति प्रदान ॥",
+      "general": "சான்றோர்கள் தம்மிடம் மனநலம் நன்கு உடையவர்களாக இருந்தாலும், அவர்களுக்குச் சேரும் இனத்தின் நலம் மேலும் பாதுகாப்பைத் தருவதாகும்.",
+      "en": "Even though noble people already possess great goodness of mind, good companionship serves as an added safeguard for them.",
+      "hi": "शुद्ध चित्त वाले साधु-महात्मा स्वतः ही महान रहते हैं, फिर भी सत्संगति उन्हें और अधिक शक्ति और सुरक्षा प्रदान करती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மனநலம் <br>(Mananalam)",
+          "ta": "மனநலம்",
+          "en": "Minds right good",
+          "hi": "शुद्ध चित्तवाले"
+        },
+        {
+          "no": 2,
+          "word": "நன்கு உடையராயினும் <br>(Nangu udaiyaraayinum)",
+          "ta": "நன்கு உடையவராயினும்",
+          "en": "Though belong",
+          "hi": "स्वतः रहते"
+        },
+        {
+          "no": 3,
+          "word": "சான்றோர்க்கு <br>(Saandrorkku)",
+          "ta": "சான்றோர்க்கு",
+          "en": "To perfect men",
+          "hi": "साधु महान"
+        },
+        {
+          "no": 4,
+          "word": "இனநலம் <br>(Inanalam)",
+          "ta": "இனநலம்",
+          "en": "Good companionship",
+          "hi": "सत्संगति"
+        },
+        {
+          "no": 5,
+          "word": "ஏமாப்பு <br>(Emaappu)",
+          "ta": "பாதுகாப்பு",
+          "en": "Confirmation strong",
+          "hi": "शक्ति"
+        },
+        {
+          "no": 6,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "உடையது",
+          "en": "Is",
+          "hi": "प्रदान करती"
+        },
+        {
+          "no": 7,
+          "word": "ஆயினும் <br>(Aayinum)",
+          "ta": "ஆனாலும்",
+          "en": "Yet",
+          "hi": "फिर भी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மனநல நன்குடைய ராயினுஞ் சான்றோர்க்",
+          "line2": "கினநல மேமாப் புடைத்து."
+        },
+        "en": {
+          "line1": "To perfect men, though minds right good belong,",
+          "line2": "Yet good companionship is confirmation strong."
+        },
+        "hi": {
+          "line1": "शुद्ध चित्तवाले स्वतः, रहते साधु महान ।",
+          "line2": "सत्संगति फिर भी उन्हें, करती शक्ति प्रदान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Mananalam Nangudaiyar Aayinunj Saandrorkku",
+            "line2": "Inanalam Emaappu Udaiththu."
+          },
+          "hi": {
+            "line1": "मननल नन्गुडैय रायिनुञ् सान्द्रोर्क्",
+            "line2": "किननल मेमाप् पुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சான்றோர்கள் தம்மிடம் மனநலம் நன்கு உடையவர்களாக இருந்தாலும், அவர்களுக்குச் சேரும் இனத்தின் நலம் மேலும் பாதுகாப்பைத் தருவதாகும்.",
+        "en": "Even people of rock-solid character gain extra strength and protection from keeping good company.",
+        "hi": "शुद्ध चित्त वाले साधु-महात्मा स्वतः ही महान रहते हैं, फिर भी सत्संगति उन्हें और अधिक शक्ति और सुरक्षा प्रदान करती है।"
+      }
+    },
+    {
+      "num": 459,
+      "line1": "மனநலத்தி னாகு மறுமைமற் றஃது",
+      "line2": "மினநலத்தி னேமாப் புடைத்து.",
+      "enLine1": "Although to mental goodness joys of other life belong,",
+      "enLine2": "Yet good companionship is confirmation strong.",
+      "hiLine1": "चित-शुद्धि परलोक का, देती है आनन्द ।",
+      "hiLine2": "वही शुद्धि सत्संग से होती और बुलन्द ॥",
+      "general": "மனநலத்தால் மறுமை இன்பம் உண்டாகும்; அந்த மனநலமும் சேரும் இனத்தின் நலத்தாலேயே மேலும் வலிமை உடையதாகும்.",
+      "en": "Future bliss is attained through goodness of mind, and even that goodness is fortified by good companionship.",
+      "hi": "चित्त की शुद्धि परलोक का आनन्द देती है, और वही शुद्धि सत्संगति के प्रभाव से और भी अधिक बुलंद (दृढ़) हो जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மனநலத்தின் <br>(Mananalaththin)",
+          "ta": "மனநலத்தால்",
+          "en": "Mental goodness",
+          "hi": "चित-शुद्धि"
+        },
+        {
+          "no": 2,
+          "word": "ஆகும் <br>(Aagum)",
+          "ta": "உண்டாகும்",
+          "en": "Belong",
+          "hi": "देती है"
+        },
+        {
+          "no": 3,
+          "word": "மறுமை <br>(Marumai)",
+          "ta": "மறுமை இன்பம்",
+          "en": "Joys of other life",
+          "hi": "परलोक का आनन्द"
+        },
+        {
+          "no": 4,
+          "word": "மற்று அஃதும் <br>(Matru agdhum)",
+          "ta": "அந்த நலமும்",
+          "en": "Yet that too",
+          "hi": "वही शुद्धि"
+        },
+        {
+          "no": 5,
+          "word": "இனநலத்தின் <br>(Inanalaththin)",
+          "ta": "இனநலத்தால்",
+          "en": "Good companionship",
+          "hi": "सत्संग से"
+        },
+        {
+          "no": 6,
+          "word": "ஏமாப்பு <br>(Emaappu)",
+          "ta": "பாதுகாப்பு",
+          "en": "Confirmation strong",
+          "hi": "और बुलन्द"
+        },
+        {
+          "no": 7,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "உடையது",
+          "en": "Has",
+          "hi": "होती"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மனநலத்தி னாகு மறுமைமற் றஃது",
+          "line2": "மினநலத்தி னேமாப் புடைத்து."
+        },
+        "en": {
+          "line1": "Although to mental goodness joys of other life belong,",
+          "line2": "Yet good companionship is confirmation strong."
+        },
+        "hi": {
+          "line1": "चित-शुद्धि परलोक का, देती है आनन्द ।",
+          "line2": "वही शुद्धि सत्संग से होती और बुलन्द ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Mananalaththin Aagum Marumaimatru Agdhum",
+            "line2": "Inanalaththin Emaappu Udaiththu."
+          },
+          "hi": {
+            "line1": "मननलत्ति नागु मरुमैमर् रक्दु",
+            "line2": "मिननलत्ति नेमाप् पुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனநலத்தால் மறுமை இன்பம் உண்டாகும்; அந்த மனநலமும் சேரும் இனத்தின் நலத்தாலேயே மேலும் வலிமை உடையதாகும்.",
+        "en": "A pure mind secures lasting spiritual peace, and good company reinforces that inner goodness.",
+        "hi": "चित्त की शुद्धि परलोक का आनन्द देती है, और वही शुद्धि सत्संगति के प्रभाव से और भी अधिक बुलंद (दृढ़) हो जाती है।"
+      }
+    },
+    {
+      "num": 460,
+      "line1": "நல்லினத்தி னூங்குந் துணையில்லைத் தீயினத்தி",
+      "line2": "னல்லற் படுப்பதூஉ மில்.",
+      "enLine1": "Than good companionship no surer help we know;",
+      "enLine2": "Than bad companionship nought causes direr woe.",
+      "hiLine1": "साथी कोई है नहीं, साध-संग से उच्च ।",
+      "hiLine2": "बढ़ कर कुसंग से नहीं, शत्रु हानिकर तुच्छ ॥",
+      "general": "நல்ல இனத்தைவிடச் சிறந்த துணை உலகில் வேறொன்றுமில்லை; தீய இனத்தைவிடத் துன்பம் தரும் பகையும் வேறொன்றுமில்லை.",
+      "en": "There is no greater help than good companionship, and there is nothing that brings more misery than bad companionship.",
+      "hi": "सज्जनों की संगति (साधु-संग) से बढ़कर कोई उच्च साथी नहीं है, और कुसंगति से बढ़कर कोई हानिकारक शत्रु नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நல்லினத்தின் <br>(Nallinaththin)",
+          "ta": "நல்ல இனத்தைவிட",
+          "en": "Good companionship",
+          "hi": "साध-संग से"
+        },
+        {
+          "no": 2,
+          "word": "ஊங்கும் <br>(Oongum)",
+          "ta": "சிறந்த",
+          "en": "Surer",
+          "hi": "उच्च"
+        },
+        {
+          "no": 3,
+          "word": "துணை இல்லை <br>(Thunai illai)",
+          "ta": "துணை இல்லை",
+          "en": "No help we know",
+          "hi": "साथी कोई है नहीं"
+        },
+        {
+          "no": 4,
+          "word": "தீயினத்தின் <br>(Theeyinaththin)",
+          "ta": "தீய இனத்தைவிட",
+          "en": "Bad companionship",
+          "hi": "कुसंग से"
+        },
+        {
+          "no": 5,
+          "word": "அல்லல் <br>(Allal)",
+          "ta": "துன்பத்தை",
+          "en": "Direr woe",
+          "hi": "हानिकर"
+        },
+        {
+          "no": 6,
+          "word": "படுப்பதூஉம் <br>(Paduppadhooum)",
+          "ta": "உண்டாக்குவதும்",
+          "en": "Causes",
+          "hi": "बढ़ कर शत्रु"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "வேறில்லை",
+          "en": "Nought",
+          "hi": "नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நல்லினத்தி னூங்குந் துணையில்லைத் தீயினத்தி",
+          "line2": "னல்லற் படுப்பதூஉ மில்."
+        },
+        "en": {
+          "line1": "Than good companionship no surer help we know;",
+          "line2": "Than bad companionship nought causes direr woe."
+        },
+        "hi": {
+          "line1": "साथी कोई है नहीं, साध-संग से उच्च ।",
+          "line2": "बढ़ कर कुसंग से नहीं, शत्रु हानिकर तुच्छ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nallinaththin Oongundh Thunaiyillaith Theeyinaththin",
+            "line2": "Allal Paduppadhooum Il."
+          },
+          "hi": {
+            "line1": "नल्लिनत्ति नूङ्गुन् तुणैयिल्लैत् तीयिनत्ति",
+            "line2": "नल्लर् पडुप्पदूउ मिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்ல இனத்தைவிடச் சிறந்த துணை உலகில் வேறொன்றுமில்லை; தீய இனத்தைவிடத் துன்பம் தரும் பகையும் வேறொன்றுமில்லை.",
+        "en": "Nothing supports you better than good company, and nothing drags you into deeper trouble than bad company.",
+        "hi": "सज्जनों की संगति (साधु-संग) से बढ़कर कोई उच्च साथी नहीं है, और कुसंगति से बढ़कर कोई हानिकारक शत्रु नहीं है।"
+      }
+    }
+  ]
+}

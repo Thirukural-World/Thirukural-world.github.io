@@ -1,0 +1,930 @@
+{
+  "chapterNum": 51,
+  "nameTa": "தெரிந்து தெளிதல்",
+  "nameEn": "Selection and Confidence",
+  "nameHi": "परख कर विश्वास करना",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 501,
+      "line1": "அறம்பொரு ளின்ப முயிரச்ச நான்கின",
+      "line2": "றிறந்தெரிந்து தேறப் படும்.",
+      "enLine1": "How treats he virtue, wealth and pleasure? How, when life 's at stake,",
+      "enLine2": "Comports himself? This four-fold test of man will full assurance make.",
+      "hiLine1": "धर्म-अर्थ औ' काम से, मिला प्राण-भय चार ।",
+      "hiLine2": "इन उपधाओं से परख, विश्वस्त है विचार ॥",
+      "general": "அறம், பொருள், இன்பம், உயிருக்கு அஞ்சும் அச்சம் ஆகிய நான்கின் வழியிலும் ஒருவனது திறத்தை ஆராய்ந்த பின்னரே அவனை நம்பித் தெளிய வேண்டும்.",
+      "en": "A person should be trusted only after testing their character through the fourfold trial of virtue, wealth, pleasure, and fear of losing life.",
+      "hi": "धर्म, अर्थ, काम और प्राण-भय — इन चारों उपधाओं (परीक्षाओं) से भली-भाँति परखकर ही किसी व्यक्ति पर विश्वास करने का विचार करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறம் <br>(Aram)",
+          "ta": "அறம்",
+          "en": "Virtue",
+          "hi": "धर्म"
+        },
+        {
+          "no": 2,
+          "word": "பொருள் <br>(Porul)",
+          "ta": "பொருள்",
+          "en": "Wealth",
+          "hi": "अर्थ"
+        },
+        {
+          "no": 3,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "இன்பம்",
+          "en": "Pleasure",
+          "hi": "काम"
+        },
+        {
+          "no": 4,
+          "word": "உயிரச்சம் <br>(Uyiracham)",
+          "ta": "உயிரச்சம்",
+          "en": "When life's at stake",
+          "hi": "प्राण-भय"
+        },
+        {
+          "no": 5,
+          "word": "நான்கினது திறம் <br>(Naanginadhu thiram)",
+          "ta": "நான்கின் வழியையும்",
+          "en": "Four-fold test",
+          "hi": "इन उपधाओं से"
+        },
+        {
+          "no": 6,
+          "word": "தெரிந்து <br>(Therindhu)",
+          "ta": "ஆராய்ந்து",
+          "en": "Tested",
+          "hi": "परख"
+        },
+        {
+          "no": 7,
+          "word": "தேறப்படும் <br>(Therappadum)",
+          "ta": "நம்பத் தகுந்தவர் ஆவர்",
+          "en": "Assurance make",
+          "hi": "विश्वस्त है विचार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறம்பொரு ளின்ப முயிரச்ச நான்கின",
+          "line2": "றிறந்தெரிந்து தேறப் படும்."
+        },
+        "en": {
+          "line1": "How treats he virtue, wealth and pleasure? How, when life 's at stake,",
+          "line2": "Comports himself? This four-fold test of man will full assurance make."
+        },
+        "hi": {
+          "line1": "धर्म-अर्थ औ' काम से, मिला प्राण-भय चार ।",
+          "line2": "इन उपधाओं से परख, विश्वस्त है विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aramporu Linba Muyirachcha Naangina",
+            "line2": "Rirandherindhu Therap Padum."
+          },
+          "hi": {
+            "line1": "अरम्पॊरु ळिन्ब मुयिरच्च नान्गिन",
+            "line2": "तिरन्दॆरिन्दु तेरप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறம், பொருள், இன்பம், உயிருக்கு அஞ்சும் அச்சம் ஆகிய நான்கின் வழியிலும் ஒருவனது திறத்தை ஆராய்ந்த பின்னரே அவனை நம்பித் தெளிய வேண்டும்.",
+        "en": "Before placing full trust in anyone, test how they handle four pressures: integrity, money, pleasure, and fear for their life.",
+        "hi": "धर्म, अर्थ, काम और प्राण-भय — इन चारों उपधाओं (परीक्षाओं) से भली-भाँति परखकर ही किसी व्यक्ति पर विश्वास करने का विचार करना चाहिए।"
+      }
+    },
+    {
+      "num": 502,
+      "line1": "குடிப்பிறந்து குற்றத்தின் நீங்கி வடுப்பரியும்",
+      "line2": "நாணுடையான் கட்டே தெளிவு.",
+      "enLine1": "Of noble race, of faultless worth, of generous pride",
+      "enLine2": "That shrinks from shame or stain; in him may king confide.",
+      "hiLine1": "जो कुलीन निर्दोष हो, निन्दा से भयभीत ।",
+      "hiLine2": "तथा लजीला हो वही, विश्वस्त है पुनीत ॥",
+      "general": "நற்குடியில் பிறந்து, குற்றங்களிலிருந்து நீங்கி, பழிச்சொல்லுக்கு அஞ்சி நாணுகின்ற பண்பு உடையவனிடத்தே அரசன் நம்பிக்கை வைக்கலாம்.",
+      "en": "A king may place his confidence in one who is of noble birth, free from faults, and possessed of a sense of honor that shrinks from disgrace.",
+      "hi": "जो उच्च कुल में उत्पन्न हो, दोषों से रहित हो, निन्दा से भयभीत रहता हो और लज्जाशील हो, वही पवित्र और विश्वसनीय व्यक्ति होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குடிப்பிறந்து <br>(Kudippirandhu)",
+          "ta": "நற்குடியில் பிறந்து",
+          "en": "Of noble race",
+          "hi": "जो कुलीन"
+        },
+        {
+          "no": 2,
+          "word": "குற்றத்தின் நீங்கி <br>(Kutraththin neengi)",
+          "ta": "குற்றம் இல்லாமல்",
+          "en": "Faultless worth",
+          "hi": "निर्दोष हो"
+        },
+        {
+          "no": 3,
+          "word": "வடு <br>(Vadu)",
+          "ta": "பழிச் சொல்லை",
+          "en": "Shame or stain",
+          "hi": "निन्दा से"
+        },
+        {
+          "no": 4,
+          "word": "பரியும் <br>(Pariyum)",
+          "ta": "அஞ்சுகின்ற",
+          "en": "Shrinks from",
+          "hi": "भयभीत"
+        },
+        {
+          "no": 5,
+          "word": "நாண் உடையான் <br>(Naan udaiyaan)",
+          "ta": "நாணமுடையவன்",
+          "en": "Generous pride",
+          "hi": "लजीला हो"
+        },
+        {
+          "no": 6,
+          "word": "கட்டே <br>(Katte)",
+          "ta": "இடத்திலேயே",
+          "en": "In him",
+          "hi": "वही"
+        },
+        {
+          "no": 7,
+          "word": "தெளிவு <br>(Thelivu)",
+          "ta": "நம்பிக்கை வைக்கலாம்",
+          "en": "May king confide",
+          "hi": "विश्वस्त है पुनीत"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குடிப்பிறந்து குற்றத்தின் நீங்கி வடுப்பரியும்",
+          "line2": "நாணுடையான் கட்டே தெளிவு."
+        },
+        "en": {
+          "line1": "Of noble race, of faultless worth, of generous pride",
+          "line2": "That shrinks from shame or stain; in him may king confide."
+        },
+        "hi": {
+          "line1": "जो कुलीन निर्दोष हो, निन्दा से भयभीत ।",
+          "line2": "तथा लजीला हो वही, विश्वस्त है पुनीत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kudippirandhu Kutraththin Neengi Vaduppariyum",
+            "line2": "Naanudaiyaan Katte Thelivu."
+          },
+          "hi": {
+            "line1": "कुडिप्पिरन्दु कुत्रत्तिन् नीङ्गि वडुप्परियुम्",
+            "line2": "नाणुडैयान् कट्टे तॆळिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நற்குடியில் பிறந்து, குற்றங்களிலிருந்து நீங்கி, பழிச்சொல்லுக்கு அஞ்சி நாணுகின்ற பண்பு உடையவனிடத்தே அரசன் நம்பிக்கை வைக்கலாம்.",
+        "en": "Place your trust in someone of honorable background, clean conduct, and a conscience that genuinely fears disgrace.",
+        "hi": "जो उच्च कुल में उत्पन्न हो, दोषों से रहित हो, निन्दा से भयभीत रहता हो और लज्जाशील हो, वही पवित्र और विश्वसनीय व्यक्ति होता है।"
+      }
+    },
+    {
+      "num": 503,
+      "line1": "அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால்",
+      "line2": "இன்மை அரிதே வெளிறு.",
+      "enLine1": "Though deeply learned, unflecked by fault, 'tis rare to see,",
+      "enLine2": "When closely scanned, a man from all unwisdom free.",
+      "hiLine1": "ज्ञाता विशिष्ट शास्त्र के, औ' निर्दोष स्वभाव ।",
+      "hiLine2": "फिर भी परखो तो उन्हें, नहिं अज्ञता-अभाव ॥",
+      "general": "அரிய நூல்களைக் கற்றுக் குற்றமற்றவர்களிடத்தும் கூட, கூர்ந்து ஆராய்ந்து பார்க்கும்போது அறியாமை இல்லாதிருப்பது அரிதாகும்.",
+      "en": "Even among those who have mastered rare learning and appear faultless, close scrutiny rarely finds someone wholly free from folly.",
+      "hi": "जो विशिष्ट शास्त्रों के ज्ञाता और निर्दोष स्वभाव वाले हैं, फिर भी यदि उन्हें गहराई से परखा जाए तो उनमें भी अज्ञानता का पूर्ण अभाव नहीं मिलता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அரிய கற்று <br>(Ariya katru)",
+          "ta": "அரிய நூல்களைக் கற்று",
+          "en": "Deeply learned",
+          "hi": "ज्ञाता विशिष्ट शास्त्र के"
+        },
+        {
+          "no": 2,
+          "word": "ஆசற்றார் கண்ணும் <br>(Aasatraar kannum)",
+          "ta": "குற்றமற்றவரிடத்தும்",
+          "en": "Unflecked by fault",
+          "hi": "निर्दोष स्वभाव"
+        },
+        {
+          "no": 3,
+          "word": "தெரியுங்கால் <br>(Theriyungaal)",
+          "ta": "ஆராய்ந்து பார்க்கும்போது",
+          "en": "When closely scanned",
+          "hi": "परखो तो उन्हें"
+        },
+        {
+          "no": 4,
+          "word": "இன்மை <br>(Inmai)",
+          "ta": "இல்லாதிருப்பது",
+          "en": "Free from",
+          "hi": "अभाव"
+        },
+        {
+          "no": 5,
+          "word": "அரிதே <br>(Aridhe)",
+          "ta": "அரிதாகும்",
+          "en": "'Tis rare to see",
+          "hi": "नहिं"
+        },
+        {
+          "no": 6,
+          "word": "வெளிறு <br>(Veliru)",
+          "ta": "அறியாமை",
+          "en": "Unwisdom",
+          "hi": "अज्ञता"
+        },
+        {
+          "no": 7,
+          "word": "கண்ணும் <br>(Kannum)",
+          "ta": "இடத்திலும்",
+          "en": "Though / even in",
+          "hi": "फिर भी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால்",
+          "line2": "இன்மை அரிதே வெளிறு."
+        },
+        "en": {
+          "line1": "Though deeply learned, unflecked by fault, 'tis rare to see,",
+          "line2": "When closely scanned, a man from all unwisdom free."
+        },
+        "hi": {
+          "line1": "ज्ञाता विशिष्ट शास्त्र के, औ' निर्दोष स्वभाव ।",
+          "line2": "फिर भी परखो तो उन्हें, नहिं अज्ञता-अभाव ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ariyakatru Aasatraar Kannum Theriyungaal",
+            "line2": "Inmai Aridhe Veliru."
+          },
+          "hi": {
+            "line1": "अरियकत्रु आसत्रार् कण्णुम् तॆरियुङ्काल्",
+            "line2": "इन्मै अरिदे वॆळिरु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரிய நூல்களைக் கற்றுக் குற்றமற்றவர்களிடத்தும் கூட, கூர்ந்து ஆராய்ந்து பார்க்கும்போது அறியாமை இல்லாதிருப்பது அரிதாகும்.",
+        "en": "Even deeply learned and seemingly blameless people rarely turn out to be completely free of blind spots under close inspection.",
+        "hi": "जो विशिष्ट शास्त्रों के ज्ञाता और निर्दोष स्वभाव वाले हैं, फिर भी यदि उन्हें गहराई से परखा जाए तो उनमें भी अज्ञानता का पूर्ण अभाव नहीं मिलता।"
+      }
+    },
+    {
+      "num": 504,
+      "line1": "குணநாடிக் குற்றமு நாடி யவற்றுண்",
+      "line2": "மிகைநாடி மிக்க கொளல்.",
+      "enLine1": "Weigh well the good of each, his failings closely scan,",
+      "enLine2": "As these or those prevail, so estimate the man.",
+      "hiLine1": "परख गुणों को फिर परख, दोषों को भी छान ।",
+      "hiLine2": "उनमें बहुतायत परख, उससे कर पहचान ॥",
+      "general": "ஒருவரின் நற்குணங்களை ஆராய்ந்து, குற்றங்களையும் ஆராய்ந்து, அவற்றுள் எவை மிகுதியாக உள்ளனவோ அதைக் கொண்டு அவரை மதிப்பிட்டு ஏற்றுக்கொள்ள வேண்டும்.",
+      "en": "Examine a person's virtues and examine their faults; weigh which of the two predominates, and judge them accordingly.",
+      "hi": "पहले व्यक्ति के गुणों को परखो और फिर उसके दोषों को भी छानकर देखो; दोनों में से जिसकी अधिकता हो, उसी के आधार पर उसकी पहचान करो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குணம் நாடி <br>(Gunam naadi)",
+          "ta": "குணங்களை ஆராய்ந்து",
+          "en": "Weigh well the good",
+          "hi": "परख गुणों को"
+        },
+        {
+          "no": 2,
+          "word": "குற்றமும் நாடி <br>(Kutramum naadi)",
+          "ta": "குற்றங்களையும் ஆராய்ந்து",
+          "en": "Failings closely scan",
+          "hi": "दोषों को भी छान"
+        },
+        {
+          "no": 3,
+          "word": "அவற்றுள் <br>(Avatrul)",
+          "ta": "அவற்றுள்",
+          "en": "Of each",
+          "hi": "उनमें"
+        },
+        {
+          "no": 4,
+          "word": "மிகை நாடி <br>(Migai naadi)",
+          "ta": "மிகுதியானதை ஆராய்ந்து",
+          "en": "These or those prevail",
+          "hi": "बहुतायत परख"
+        },
+        {
+          "no": 5,
+          "word": "மிக்க <br>(Mikka)",
+          "ta": "மிகுதியான குணத்தைக் கொண்டு",
+          "en": "So estimate",
+          "hi": "उससे"
+        },
+        {
+          "no": 6,
+          "word": "கொளல் <br>(Kolal)",
+          "ta": "ஏற்றுக்கொள்ள வேண்டும்",
+          "en": "Accept / judge",
+          "hi": "कर पहचान"
+        },
+        {
+          "no": 7,
+          "word": "நாடி <br>(Naadi)",
+          "ta": "ஆராய்ந்து",
+          "en": "Scan",
+          "hi": "फिर परख"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குணநாடிக் குற்றமு நாடி யவற்றுண்",
+          "line2": "மிகைநாடி மிக்க கொளல்."
+        },
+        "en": {
+          "line1": "Weigh well the good of each, his failings closely scan,",
+          "line2": "As these or those prevail, so estimate the man."
+        },
+        "hi": {
+          "line1": "परख गुणों को फिर परख, दोषों को भी छान ।",
+          "line2": "उनमें बहुतायत परख, उससे कर पहचान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Gunanaadik Kutramu Naadi Yavatrul",
+            "line2": "Migainaadi Mikka Kolal."
+          },
+          "hi": {
+            "line1": "गुणनाडिक् कुत्रमु नाडि यवत्रुण्",
+            "line2": "मिगैनाडि मिक्क कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவரின் நற்குணங்களை ஆராய்ந்து, குற்றங்களையும் ஆராய்ந்து, அவற்றுள் எவை மிகுதியாக உள்ளனவோ அதைக் கொண்டு அவரை மதிப்பிட்டு ஏற்றுக்கொள்ள வேண்டும்.",
+        "en": "Nobody is flawless—weigh a person's strengths against their flaws and judge them by whichever outweighs the other.",
+        "hi": "पहले व्यक्ति के गुणों को परखो और फिर उसके दोषों को भी छानकर देखो; दोनों में से जिसकी अधिकता हो, उसी के आधार पर उसकी पहचान करो।"
+      }
+    },
+    {
+      "num": 505,
+      "line1": "பெருமைக்கு மேனைச் சிறுமைக்குந் தத்தங்",
+      "line2": "கருமமே கட்டளைக் கல்.",
+      "enLine1": "Of greatness and of meanness too,",
+      "enLine2": "The deeds of each are touchstone true.",
+      "hiLine1": "महिमा या लघिमा सही, इनकी करने जाँच ।",
+      "hiLine2": "नर के निज निज कर्म ही, बनें कसौटी साँच ॥",
+      "general": "ஒருவரது பெருமைக்கும், மற்றொருவரது சிறுமைக்கும் அவரவர் செய்கின்ற செயல்களே தகுதியை உரைத்துப் பார்க்கும் உரைகல்லாகும்.",
+      "en": "A person's own deeds are the true touchstone for measuring both their greatness and their pettiness.",
+      "hi": "मनुष्य की महानता या तुच्छता की सही जाँच करने के लिए उसके अपने-अपने कर्म ही सच्ची कसौटी बनते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பெருமைக்கும் <br>(Perumaikkum)",
+          "ta": "பெருமைக்கும்",
+          "en": "Of greatness",
+          "hi": "महिमा"
+        },
+        {
+          "no": 2,
+          "word": "ஏனைச் சிறுமைக்கும் <br>(Enaich sirumaikkum)",
+          "ta": "மற்றச் சிறுமைக்கும்",
+          "en": "And of meanness too",
+          "hi": "या लघिमा सही"
+        },
+        {
+          "no": 3,
+          "word": "தத்தம் <br>(Thaththam)",
+          "ta": "அவரவரது",
+          "en": "Of each",
+          "hi": "नर के निज निज"
+        },
+        {
+          "no": 4,
+          "word": "கருமமே <br>(Karumame)",
+          "ta": "செயல்களே",
+          "en": "The deeds",
+          "hi": "कर्म ही"
+        },
+        {
+          "no": 5,
+          "word": "கட்டளைக் கல் <br>(Kattalaik kal)",
+          "ta": "உரைகல் ஆகும்",
+          "en": "Touchstone true",
+          "hi": "कसौटी साँच"
+        },
+        {
+          "no": 6,
+          "word": "ஏனை <br>(Enai)",
+          "ta": "மற்ற",
+          "en": "Other",
+          "hi": "या"
+        },
+        {
+          "no": 7,
+          "word": "தத்தம் கருமம் <br>(Thaththam karumam)",
+          "ta": "அவரவர் செயல்",
+          "en": "Each one's deeds",
+          "hi": "करने जाँच"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பெருமைக்கு மேனைச் சிறுமைக்குந் தத்தங்",
+          "line2": "கருமமே கட்டளைக் கல்."
+        },
+        "en": {
+          "line1": "Of greatness and of meanness too,",
+          "line2": "The deeds of each are touchstone true."
+        },
+        "hi": {
+          "line1": "महिमा या लघिमा सही, इनकी करने जाँच ।",
+          "line2": "नर के निज निज कर्म ही, बनें कसौटी साँच ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Perumaikkum Enaich Sirumaikkum Thaththang",
+            "line2": "Karumame Kattalaik Kal."
+          },
+          "hi": {
+            "line1": "पॆरुमैक्कु मेनैच् सिरुमैक्कुन् तत्तङ्",
+            "line2": "करुममे कट्टळैक् कल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவரது பெருமைக்கும், மற்றொருவரது சிறுமைக்கும் அவரவர் செய்கின்ற செயல்களே தகுதியை உரைத்துப் பார்க்கும் உரைகல்லாகும்.",
+        "en": "Actions are the only reliable touchstone—what someone actually does reveals their greatness or smallness.",
+        "hi": "मनुष्य की महानता या तुच्छता की सही जाँच करने के लिए उसके अपने-अपने कर्म ही सच्ची कसौटी बनते हैं।"
+      }
+    },
+    {
+      "num": 506,
+      "line1": "அற்றாரைத் தேறுத லோம்புக மற்றவர்",
+      "line2": "பற்றிலர் நாணார் பழி.",
+      "enLine1": "Beware of trusting men who have no kith or kin;",
+      "enLine2": "No bonds restrain such men, no shame deters from sin.",
+      "hiLine1": "विश्वसनीय न मानिये, बन्धुहीन जो लोग ।",
+      "hiLine2": "निन्दा से लज्जित न हैं, स्नेह शून्य वे लोग ॥",
+      "general": "சுற்றமும் பிணைப்பும் இல்லாதவர்களை நம்பிப் பொறுப்பு ஒப்படைப்பதைத் தவிர்க்க வேண்டும்; ஏனெனில் அவர்கள் பற்றுக்கோடற்றவர் ஆகையால் பழிக்கு நாண மாட்டார்கள்.",
+      "en": "Beware of trusting those who have no family ties or attachments; having no bonds to restrain them, they feel no shame at disgrace.",
+      "hi": "जो लोग बन्धु-बान्धवों से हीन (स्नेह-शून्य) हैं, उन्हें विश्वसनीय नहीं मानना चाहिए, क्योंकि वे निन्दा और अपयश से लज्जित नहीं होते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அற்றாரை <br>(Atraarai)",
+          "ta": "சுற்றம் இல்லாதவரை",
+          "en": "Men who have no kith or kin",
+          "hi": "बन्धुहीन जो लोग"
+        },
+        {
+          "no": 2,
+          "word": "தேறுதல் <br>(Therudhal)",
+          "ta": "நம்பித் தெளிவதை",
+          "en": "Trusting",
+          "hi": "विश्वसनीय मानिये"
+        },
+        {
+          "no": 3,
+          "word": "ஓம்புக <br>(Ombuga)",
+          "ta": "தவிர்க்க வேண்டும்",
+          "en": "Beware of",
+          "hi": "न"
+        },
+        {
+          "no": 4,
+          "word": "மற்றவர் <br>(Matravar)",
+          "ta": "அவர்கள்",
+          "en": "Such men",
+          "hi": "वे लोग"
+        },
+        {
+          "no": 5,
+          "word": "பற்றிலர் <br>(Patrilar)",
+          "ta": "பற்றுக்கோடற்றவர்",
+          "en": "No bonds restrain",
+          "hi": "स्नेह शून्य"
+        },
+        {
+          "no": 6,
+          "word": "நாணார் <br>(Naanaar)",
+          "ta": "வெட்கப்பட மாட்டார்",
+          "en": "No shame deters",
+          "hi": "लज्जित न हैं"
+        },
+        {
+          "no": 7,
+          "word": "பழி <br>(Pazhi)",
+          "ta": "பழிக்கு",
+          "en": "From sin",
+          "hi": "निन्दा से"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அற்றாரைத் தேறுத லோம்புக மற்றவர்",
+          "line2": "பற்றிலர் நாணார் பழி."
+        },
+        "en": {
+          "line1": "Beware of trusting men who have no kith or kin;",
+          "line2": "No bonds restrain such men, no shame deters from sin."
+        },
+        "hi": {
+          "line1": "विश्वसनीय न मानिये, बन्धुहीन जो लोग ।",
+          "line2": "निन्दा से लज्जित न हैं, स्नेह शून्य वे लोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Atraaraith Therudhal Ombuga Matravar",
+            "line2": "Patrilar Naanaar Pazhi."
+          },
+          "hi": {
+            "line1": "अत्रारैत् तेरुद लोम्बुग मत्रवर्",
+            "line2": "पत्रिलर् नाणार् पऴि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சுற்றமும் பிணைப்பும் இல்லாதவர்களை நம்பிப் பொறுப்பு ஒப்படைப்பதைத் தவிர்க்க வேண்டும்; ஏனெனில் அவர்கள் பற்றுக்கோடற்றவர் ஆகையால் பழிக்கு நாண மாட்டார்கள்.",
+        "en": "Be cautious of trusting people with zero social accountability or ties—those who have nothing to lose rarely fear disgrace.",
+        "hi": "जो लोग बन्धु-बान्धवों से हीन (स्नेह-शून्य) हैं, उन्हें विश्वसनीय नहीं मानना चाहिए, क्योंकि वे निन्दा और अपयश से लज्जित नहीं होते।"
+      }
+    },
+    {
+      "num": 507,
+      "line1": "காதன்மை கந்தா வறிவறியார்த் தேறுதல்",
+      "line2": "பேதைமை யெல்லாந் தரும்.",
+      "enLine1": "By fond affection led who trusts in men of unwise soul,",
+      "enLine2": "Yields all his being up to folly's blind control.",
+      "hiLine1": "मूर्ख जनों पर प्रेमवश, जो करता विश्वास ।",
+      "hiLine2": "सभी तरह से वह बने, जड़ता का आवास ॥",
+      "general": "அன்பை மட்டுமே அடிப்படையாகக் கொண்டு, அறிய வேண்டியவற்றை அறியாதவரை நம்பிப் பொறுப்புத் தருவது எல்லா வகையான அறியாமைகளையும் தரும்.",
+      "en": "Trusting ignorant people merely out of blind affection brings every kind of folly upon oneself.",
+      "hi": "जो व्यक्ति केवल प्रेमवश होकर मूर्ख लोगों पर विश्वास कर लेता है, वह हर प्रकार से जड़ता (मूर्खता) का घर बन जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "காதன்மை <br>(Kaadhanmai)",
+          "ta": "அன்புடைமையை",
+          "en": "Fond affection",
+          "hi": "प्रेमवश"
+        },
+        {
+          "no": 2,
+          "word": "கந்தா <br>(Kandhaa)",
+          "ta": "பற்றுக்கோடாகக் கொண்டு",
+          "en": "Led by",
+          "hi": "पर"
+        },
+        {
+          "no": 3,
+          "word": "அறிவு அறியார் <br>(Arivu ariyaar)",
+          "ta": "அறியாதவர்களை",
+          "en": "Men of unwise soul",
+          "hi": "मूर्ख जनों"
+        },
+        {
+          "no": 4,
+          "word": "தேறுதல் <br>(Therudhal)",
+          "ta": "நம்பித் தெளிதல்",
+          "en": "Who trusts",
+          "hi": "जो करता विश्वास"
+        },
+        {
+          "no": 5,
+          "word": "பேதைமை <br>(Pedhaimai)",
+          "ta": "அறியாமையை",
+          "en": "Folly's control",
+          "hi": "जड़ता का आवास"
+        },
+        {
+          "no": 6,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "முழுவதையும்",
+          "en": "All",
+          "hi": "सभी तरह से"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "கொண்டு வரும்",
+          "en": "Yields",
+          "hi": "वह बने"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "காதன்மை கந்தா வறிவறியார்த் தேறுதல்",
+          "line2": "பேதைமை யெல்லாந் தரும்."
+        },
+        "en": {
+          "line1": "By fond affection led who trusts in men of unwise soul,",
+          "line2": "Yields all his being up to folly's blind control."
+        },
+        "hi": {
+          "line1": "मूर्ख जनों पर प्रेमवश, जो करता विश्वास ।",
+          "line2": "सभी तरह से वह बने, जड़ता का आवास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaadhanmai Kandhaa Arivariyaarth Therudhal",
+            "line2": "Pedhaimai Ellaan Tharum."
+          },
+          "hi": {
+            "line1": "कादन्मै कन्दा वरिवरियार्त् तेरुदल्",
+            "line2": "पेदैमै यॆल्लान् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அன்பை மட்டுமே அடிப்படையாகக் கொண்டு, அறிய வேண்டியவற்றை அறியாதவரை நம்பிப் பொறுப்புத் தருவது எல்லா வகையான அறியாமைகளையும் தரும்.",
+        "en": "Letting personal fondness override judgment and trusting incompetent people invites every kind of folly.",
+        "hi": "जो व्यक्ति केवल प्रेमवश होकर मूर्ख लोगों पर विश्वास कर लेता है, वह हर प्रकार से जड़ता (मूर्खता) का घर बन जाता है।"
+      }
+    },
+    {
+      "num": 508,
+      "line1": "தேரான் பிறனைத் தெளிந்தான் வழிமுறை",
+      "line2": "தீரா விடும்பை தரும்.",
+      "enLine1": "Who trusts an untried stranger, brings disgrace,",
+      "enLine2": "Remediless, on all his race.",
+      "hiLine1": "परखे बिन अज्ञात पर, किया अगर विश्वास ।",
+      "hiLine2": "संतति को चिरकाल तक, लेनी पड़े असाँस ॥",
+      "general": "ஆராயாமல் அயலானை நம்பித் தெளிந்தவனது செயல், அவனுக்கு மட்டுமன்றி அவன் வழிமுறையினர்க்கும் நீங்காத துன்பத்தைத் தரும்.",
+      "en": "He who trusts an untested stranger brings irremediable sorrow not only upon himself, but also upon his descendants.",
+      "hi": "यदि किसी अपरिचित व्यक्ति को परखे बिना उस पर विश्वास कर लिया जाए, तो उसका दुष्परिणाम संतानों को भी चिरकाल तक भुगतना पड़ता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தேரான் <br>(Theraan)",
+          "ta": "ஆராயாதவனாய்",
+          "en": "Untried",
+          "hi": "परखे बिन"
+        },
+        {
+          "no": 2,
+          "word": "பிறனை <br>(Piranai)",
+          "ta": "அயலானை",
+          "en": "Stranger",
+          "hi": "अज्ञात पर"
+        },
+        {
+          "no": 3,
+          "word": "தெளிந்தான் <br>(Thelindhaan)",
+          "ta": "நம்பியவனது",
+          "en": "Who trusts",
+          "hi": "किया अगर विश्वास"
+        },
+        {
+          "no": 4,
+          "word": "வழிமுறை <br>(Vazhimurai)",
+          "ta": "வழிமுறையினருக்கும்",
+          "en": "On all his race",
+          "hi": "संतति को चिरकाल तक"
+        },
+        {
+          "no": 5,
+          "word": "தீரா <br>(Theeraa)",
+          "ta": "நீங்காத",
+          "en": "Remediless",
+          "hi": "असाँस"
+        },
+        {
+          "no": 6,
+          "word": "இடும்பை <br>(Idumbai)",
+          "ta": "துன்பத்தை",
+          "en": "Disgrace / sorrow",
+          "hi": "दुःख"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "கொடுக்கும்",
+          "en": "Brings",
+          "hi": "लेनी पड़े"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தேரான் பிறனைத் தெளிந்தான் வழிமுறை",
+          "line2": "தீரா விடும்பை தரும்."
+        },
+        "en": {
+          "line1": "Who trusts an untried stranger, brings disgrace,",
+          "line2": "Remediless, on all his race."
+        },
+        "hi": {
+          "line1": "परखे बिन अज्ञात पर, किया अगर विश्वास ।",
+          "line2": "संतति को चिरकाल तक, लेनी पड़े असाँस ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Theraan Piranaith Thelindhaan Vazhimurai",
+            "line2": "Theeraa Idumbai Tharum."
+          },
+          "hi": {
+            "line1": "तेरान् पिरनैत् तॆळिन्दान् वऴिमुरै",
+            "line2": "तीरा विडुम्बै तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆராயாமல் அயலானை நம்பித் தெளிந்தவனது செயல், அவனுக்கு மட்டுமன்றி அவன் வழிமுறையினர்க்கும் நீங்காத துன்பத்தைத் தரும்.",
+        "en": "Trusting an unvetted outsider can create lasting damage that ripples down through future generations.",
+        "hi": "यदि किसी अपरिचित व्यक्ति को परखे बिना उस पर विश्वास कर लिया जाए, तो उसका दुष्परिणाम संतानों को भी चिरकाल तक भुगतना पड़ता है।"
+      }
+    },
+    {
+      "num": 509,
+      "line1": "தேறற்க யாரையுந் தேராது தேர்ந்தபிற்",
+      "line2": "றேறுக தேறும் பொருள்.",
+      "enLine1": "Trust no man whom you have not fully tried,",
+      "enLine2": "When tested, in his prudence proved confide.",
+      "hiLine1": "किसी व्यक्ति पर मत करो, परखे बिन विश्वास ।",
+      "hiLine2": "बेशक सौंपो योग्य यद, करने पर विश्वास ॥",
+      "general": "ஆராய்ந்து பார்க்காமல் யாரையும் நம்பக் கூடாது; ஆராய்ந்து தெளிந்த பிறகு, நம்பத்தக்க பொருள்களையெல்லாம் அவரிடம் நம்பி ஒப்படைக்கலாம்.",
+      "en": "Trust no one without testing them first; once you have tested them, entrust them with whatever deserves confidence.",
+      "hi": "बिना परखे किसी भी व्यक्ति पर विश्वास मत करो; और भली-भाँति परखकर विश्वास हो जाने पर, उसे योग्य कार्य और पद निस्सन्देह सौंप दो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தேறற்க <br>(Therarka)",
+          "ta": "நம்பக் கூடாது",
+          "en": "Trust no",
+          "hi": "मत करो विश्वास"
+        },
+        {
+          "no": 2,
+          "word": "யாரையும் <br>(Yaaraiyum)",
+          "ta": "எவரையும்",
+          "en": "Man",
+          "hi": "किसी व्यक्ति पर"
+        },
+        {
+          "no": 3,
+          "word": "தேராது <br>(Theraadhu)",
+          "ta": "ஆராயாமல்",
+          "en": "Not fully tried",
+          "hi": "परखे बिन"
+        },
+        {
+          "no": 4,
+          "word": "தேர்ந்த பின் <br>(Therndha pin)",
+          "ta": "ஆராய்ந்து தெளிந்த பிறகு",
+          "en": "When tested",
+          "hi": "करने पर विश्वास"
+        },
+        {
+          "no": 5,
+          "word": "தேறுக <br>(Theruga)",
+          "ta": "நம்பி ஒப்படைக்கலாம்",
+          "en": "Confide",
+          "hi": "बेशक सौंपो"
+        },
+        {
+          "no": 6,
+          "word": "தேறும் <br>(Therum)",
+          "ta": "நம்பத் தகுந்த",
+          "en": "Prudence proved",
+          "hi": "योग्य"
+        },
+        {
+          "no": 7,
+          "word": "பொருள் <br>(Porul)",
+          "ta": "பொருள்களை",
+          "en": "Matters",
+          "hi": "यद"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தேறற்க யாரையுந் தேராது தேர்ந்தபிற்",
+          "line2": "றேறுக தேறும் பொருள்."
+        },
+        "en": {
+          "line1": "Trust no man whom you have not fully tried,",
+          "line2": "When tested, in his prudence proved confide."
+        },
+        "hi": {
+          "line1": "किसी व्यक्ति पर मत करो, परखे बिन विश्वास ।",
+          "line2": "बेशक सौंपो योग्य यद, करने पर विश्वास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Therarka Yaaraiyundh Theraadhu Therndhapir",
+            "line2": "Reruga Therum Porul."
+          },
+          "hi": {
+            "line1": "तेरर्क यारैयुन् तेरादु तेर्न्दपिर्",
+            "line2": "रेरुग तेरुम् पॊरुळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆராய்ந்து பார்க்காமல் யாரையும் நம்பக் கூடாது; ஆராய்ந்து தெளிந்த பிறகு, நம்பத்தக்க பொருள்களையெல்லாம் அவரிடம் நம்பி ஒப்படைக்கலாம்.",
+        "en": "Trust nobody before vetting them; once they pass the test, back them with real responsibility.",
+        "hi": "बिना परखे किसी भी व्यक्ति पर विश्वास मत करो; और भली-भाँति परखकर विश्वास हो जाने पर, उसे योग्य कार्य और पद निस्सन्देह सौंप दो।"
+      }
+    },
+    {
+      "num": 510,
+      "line1": "தேரான் றெளிவுந் தெளிந்தான்க ணையுறவுந்",
+      "line2": "தீரா விடும்பை தரும்.",
+      "enLine1": "Trust where you have not tried, doubt of a friend to feel,",
+      "enLine2": "Once trusted, wounds inflict that nought can heal.",
+      "hiLine1": "परखे बिन विश्वास भी, औ' करके विश्वास ।",
+      "hiLine2": "फिर करना सन्देह भी, देते हैं चिर नाश ॥",
+      "general": "ஆராயாமல் ஒருவரை நம்புதலும், ஆராய்ந்து நம்பியவரிடத்து ஐயம் கொள்ளுதலும் ஆகிய இரண்டும் நீங்காத துன்பத்தைத் தரும்.",
+      "en": "Both trusting someone without testing them and doubting someone after having tested and trusted them bring endless sorrow.",
+      "hi": "बिना परखे किसी पर विश्वास करना, और परखकर विश्वास करने के बाद फिर उस पर सन्देह करना — ये दोनों ही चिरस्थायी विनाश और दुःख देते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தேரான் <br>(Theraan)",
+          "ta": "ஆராயாமல்",
+          "en": "Have not tried",
+          "hi": "परखे बिन"
+        },
+        {
+          "no": 2,
+          "word": "தெளிவும் <br>(Thelivum)",
+          "ta": "நம்புதலும்",
+          "en": "Trust",
+          "hi": "विश्वास भी"
+        },
+        {
+          "no": 3,
+          "word": "தெளிந்தான்கண் <br>(Thelindhaankan)",
+          "ta": "நம்பியவரிடத்து",
+          "en": "Of a friend once trusted",
+          "hi": "करके विश्वास"
+        },
+        {
+          "no": 4,
+          "word": "ஐயுறவும் <br>(Aiyuravum)",
+          "ta": "ஐயப்படுதலும்",
+          "en": "Doubt to feel",
+          "hi": "फिर करना सन्देह भी"
+        },
+        {
+          "no": 5,
+          "word": "தீரா <br>(Theeraa)",
+          "ta": "நீங்காத",
+          "en": "Nought can heal",
+          "hi": "चिर"
+        },
+        {
+          "no": 6,
+          "word": "இடும்பை <br>(Idumbai)",
+          "ta": "துன்பத்தை",
+          "en": "Wounds inflict",
+          "hi": "नाश"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Will bring",
+          "hi": "देते हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தேரான் றெளிவுந் தெளிந்தான்க ணையுறவுந்",
+          "line2": "தீரா விடும்பை தரும்."
+        },
+        "en": {
+          "line1": "Trust where you have not tried, doubt of a friend to feel,",
+          "line2": "Once trusted, wounds inflict that nought can heal."
+        },
+        "hi": {
+          "line1": "परखे बिन विश्वास भी, औ' करके विश्वास ।",
+          "line2": "फिर करना सन्देह भी, देते हैं चिर नाश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Theraan Thelivum Thelindhaankan Aiyuravum",
+            "line2": "Theeraa Idumbai Tharum."
+          },
+          "hi": {
+            "line1": "तेरान् रॆळिवुन् तॆळिन्दान्क णैयुरवुन्",
+            "line2": "तीरा विडुम्बै तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆராயாமல் ஒருவரை நம்புதலும், ஆராய்ந்து நம்பியவரிடத்து ஐயம் கொள்ளுதலும் ஆகிய இரண்டும் நீங்காத துன்பத்தைத் தரும்.",
+        "en": "Blindly trusting the untested and second-guessing those you've already vetted are equally destructive.",
+        "hi": "बिना परखे किसी पर विश्वास करना, और परखकर विश्वास करने के बाद फिर उस पर सन्देह करना — ये दोनों ही चिरस्थायी विनाश और दुःख देते हैं।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "chapterNum": 62,
+  "nameTa": "ஆள்வினையுடைமை",
+  "nameEn": "Manly Effort",
+  "nameHi": "उद्यमशीलता",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 611,
+      "line1": "அருமை யுடைத்தென் றசாவாமை வேண்டும்",
+      "line2": "பெருமை முயற்சி தரும்.",
+      "enLine1": "Say not, ''Tis hard,' in weak, desponding hour,",
+      "enLine2": "For strenuous effort gives prevailing power.",
+      "hiLine1": "दुष्कर यह यों समझकर, होना नहीं निरास ।",
+      "hiLine2": "जानो योग्य महानता, देगा सतत प्रयास ॥",
+      "general": "ஒரு செயல் செய்வதற்கு அரியது என்று எண்ணி மனம் தளராமல் இருக்க வேண்டும்; அச்செயலைச் செய்து முடிக்கும் பெருமையை முயற்சி தரும்.",
+      "en": "Do not lose heart saying a task is too difficult; persistent effort will give you the greatness to accomplish it.",
+      "hi": "यह कार्य कठिन (दुष्कर) है—ऐसा समझकर निराश नहीं होना चाहिए; यह जान लो कि सतत प्रयास ही तुम्हें योग्य महानता प्रदान करेगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அருமை உடைத்து என்று <br>(Arumai udaiththu endru)",
+          "ta": "செய்வதற்கு அரியது என்று",
+          "en": "Say not, ''Tis hard'",
+          "hi": "दुष्कर यह यों समझकर"
+        },
+        {
+          "no": 2,
+          "word": "அசாவாமை <br>(Asaavaamai)",
+          "ta": "மனம் தளராமல் இருக்க",
+          "en": "In weak, desponding hour",
+          "hi": "होना नहीं निरास"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டும் <br>(Vendum)",
+          "ta": "வேண்டும்",
+          "en": "Must",
+          "hi": "चाहिए"
+        },
+        {
+          "no": 4,
+          "word": "பெருமை <br>(Perumai)",
+          "ta": "பெருமையை",
+          "en": "Prevailing power",
+          "hi": "योग्य महानता"
+        },
+        {
+          "no": 5,
+          "word": "முயற்சி <br>(Muyarchi)",
+          "ta": "முயற்சி",
+          "en": "Strenuous effort",
+          "hi": "सतत प्रयास"
+        },
+        {
+          "no": 6,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "கொடுக்கும்",
+          "en": "Gives",
+          "hi": "देगा"
+        },
+        {
+          "no": 7,
+          "word": "அருமை <br>(Arumai)",
+          "ta": "அருமை",
+          "en": "Hardness",
+          "hi": "दुष्कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அருமை யுடைத்தென் றசாவாமை வேண்டும்",
+          "line2": "பெருமை முயற்சி தரும்."
+        },
+        "en": {
+          "line1": "Say not, ''Tis hard,' in weak, desponding hour,",
+          "line2": "For strenuous effort gives prevailing power."
+        },
+        "hi": {
+          "line1": "दुष्कर यह यों समझकर, होना नहीं निरास ।",
+          "line2": "जानो योग्य महानता, देगा सतत प्रयास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arumai Yudaiththen Rasaavaamai Vendum",
+            "line2": "Perumai Muyarchi Tharum."
+          },
+          "hi": {
+            "line1": "अरुमै युडैत्तॆन् रसावामै वेण्डुम्",
+            "line2": "पॆरुमै मुयर्चि तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு செயல் செய்வதற்கு அரியது என்று எண்ணி மனம் தளராமல் இருக்க வேண்டும்; அச்செயலைச் செய்து முடிக்கும் பெருமையை முயற்சி தரும்.",
+        "en": "Never give up on a goal just because it looks hard—sustained effort builds the capacity to pull it off.",
+        "hi": "यह कार्य कठिन (दुष्कर) है—ऐसा समझकर निराश नहीं होना चाहिए; यह जान लो कि सतत प्रयास ही तुम्हें योग्य महानता प्रदान करेगा।"
+      }
+    },
+    {
+      "num": 612,
+      "line1": "வினைக்கண் வினைகெட லோம்பல் வினைக்குறை",
+      "line2": "தீர்ந்தாரிற் றீர்ந்தன் றுலகு.",
+      "enLine1": "In action be thou 'ware of act's defeat;",
+      "enLine2": "The world leaves those who work leave incomplete!",
+      "hiLine1": "ढीला पड़ना यत्न में, कर दो बिलकुल त्याग ।",
+      "hiLine2": "त्यागेंगे जो यत्न को, उन्हें करे जग त्याग ॥",
+      "general": "செய்யும் செயலில் முயற்சி கெடாமல் காக்க வேண்டும்; ஏனெனில் செயலை முடிக்காமல் இடையில் கைவிட்டவர்களை உலகமும் கைவிட்டுவிடும்.",
+      "en": "Beware of letting your effort falter in the middle of a task; the world abandons those who leave their work unfinished.",
+      "hi": "प्रयत्न में ढीला पड़ना बिल्कुल छोड़ दो; क्योंकि जो लोग प्रयत्न को बीच में ही त्याग देते हैं, संसार भी उन्हें त्याग देता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வினைக்கண் <br>(Vinaikkan)",
+          "ta": "செயலில்",
+          "en": "In action",
+          "hi": "यत्न में"
+        },
+        {
+          "no": 2,
+          "word": "வினை கெடல் <br>(Vinai kedal)",
+          "ta": "முயற்சி கெடுவதை",
+          "en": "Act's defeat",
+          "hi": "ढीला पड़ना"
+        },
+        {
+          "no": 3,
+          "word": "ஓம்பல் <br>(Ombal)",
+          "ta": "தவிர்க்க வேண்டும்",
+          "en": "Be thou 'ware",
+          "hi": "कर दो बिलकुल त्याग"
+        },
+        {
+          "no": 4,
+          "word": "வினைக் குறை <br>(Vinaik kurai)",
+          "ta": "செயலை முடிக்காமல்",
+          "en": "Work leave incomplete",
+          "hi": "यत्न को"
+        },
+        {
+          "no": 5,
+          "word": "தீர்ந்தாரின் <br>(Theerndhaarin)",
+          "ta": "கைவிட்டவர்களை",
+          "en": "Those who",
+          "hi": "त्यागेंगे जो"
+        },
+        {
+          "no": 6,
+          "word": "தீர்ந்தன்று <br>(Theerndhandru)",
+          "ta": "கைவிட்டுவிடும்",
+          "en": "Leaves",
+          "hi": "उन्हें करे त्याग"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "जग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வினைக்கண் வினைகெட லோம்பல் வினைக்குறை",
+          "line2": "தீர்ந்தாரிற் றீர்ந்தன் றுலகு."
+        },
+        "en": {
+          "line1": "In action be thou 'ware of act's defeat;",
+          "line2": "The world leaves those who work leave incomplete!"
+        },
+        "hi": {
+          "line1": "ढीला पड़ना यत्न में, कर दो बिलकुल त्याग ।",
+          "line2": "त्यागेंगे जो यत्न को, उन्हें करे जग त्याग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vinaikkan Vinaikeda Lombal Vinaikkurai",
+            "line2": "Theerndhaarir Rheerndhan Rulagu."
+          },
+          "hi": {
+            "line1": "विनैक्कण् विनैगॆड लोम्बल् विनैक्कुरै",
+            "line2": "तीर्न्दारिर् रीर्न्दन् रुलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செய்யும் செயலில் முயற்சி கெடாமல் காக்க வேண்டும்; ஏனெனில் செயலை முடிக்காமல் இடையில் கைவிட்டவர்களை உலகமும் கைவிட்டுவிடும்.",
+        "en": "Never slacken mid-task—people who quit before finishing lose the world's backing.",
+        "hi": "प्रयत्न में ढीला पड़ना बिल्कुल छोड़ दो; क्योंकि जो लोग प्रयत्न को बीच में ही त्याग देते हैं, संसार भी उन्हें त्याग देता है।"
+      }
+    },
+    {
+      "num": 613,
+      "line1": "தாளாண்மை யென்னுந் தகைமைக்கட் டங்கிற்றே",
+      "line2": "வேளாண்மை யென்னுஞ் செருக்கு.",
+      "enLine1": "In strenuous effort doth reside",
+      "enLine2": "The power of helping others: noble pride!",
+      "hiLine1": "यत्नशीलता जो रही, उत्तम गुणस्वरूप ।",
+      "hiLine2": "उसपर स्थित है श्रेष्ठता, परोपकार स्वरूप ॥",
+      "general": "பிறருக்கு உதவுதல் என்னும் பெருமிதம், விடாமுயற்சி என்னும் சிறந்த பண்பினிடத்தேதான் நிலைத்திருக்கும்.",
+      "en": "The noble pride of helping others rests entirely upon the virtue of strenuous effort.",
+      "hi": "जो यत्नशीलता उत्तम गुणों का स्वरूप है, परोपकार रूपी श्रेष्ठता (गर्व) उसी पर आधारित रहती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தாளாண்மை என்னும் <br>(Thaalaanmai ennum)",
+          "ta": "முயற்சி என்னும்",
+          "en": "Strenuous effort",
+          "hi": "यत्नशीलता जो रही"
+        },
+        {
+          "no": 2,
+          "word": "தகைமைக்கண் <br>(Thagaimaikkan)",
+          "ta": "உயர்ந்த பண்பினிடத்தே",
+          "en": "Virtue",
+          "hi": "उत्तम गुणस्वरूप"
+        },
+        {
+          "no": 3,
+          "word": "தங்கிற்றே <br>(Thangitre)",
+          "ta": "நிலைத்துள்ளது",
+          "en": "Doth reside",
+          "hi": "उसपर स्थित है"
+        },
+        {
+          "no": 4,
+          "word": "வேளாண்மை <br>(Velaanmai)",
+          "ta": "பிறருக்கு உதவுதல்",
+          "en": "Helping others",
+          "hi": "परोपकार स्वरूप"
+        },
+        {
+          "no": 5,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்னும்",
+          "en": "Called",
+          "hi": "रूप"
+        },
+        {
+          "no": 6,
+          "word": "செருக்கு <br>(Serukku)",
+          "ta": "பெருமிதம்",
+          "en": "Noble pride",
+          "hi": "श्रेष्ठता"
+        },
+        {
+          "no": 7,
+          "word": "தகைமை <br>(Thagaimai)",
+          "ta": "சிறப்பு",
+          "en": "Excellence",
+          "hi": "उत्तम गुण"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தாளாண்மை யென்னுந் தகைமைக்கட் டங்கிற்றே",
+          "line2": "வேளாண்மை யென்னுஞ் செருக்கு."
+        },
+        "en": {
+          "line1": "In strenuous effort doth reside",
+          "line2": "The power of helping others: noble pride!"
+        },
+        "hi": {
+          "line1": "यत्नशीलता जो रही, उत्तम गुणस्वरूप ।",
+          "line2": "उसपर स्थित है श्रेष्ठता, परोपकार स्वरूप ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thaalaanmai Ennum Thagaimaikkan Thangitre",
+            "line2": "Velaanmai Ennung Serukku."
+          },
+          "hi": {
+            "line1": "ताळाण्मै यॆन्नुन् तगैमैक्कड् टङ्गित्रे",
+            "line2": "वेळाण्मै यॆन्नुञ् सॆरुक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறருக்கு உதவுதல் என்னும் பெருமிதம், விடாமுயற்சி என்னும் சிறந்த பண்பினிடத்தேதான் நிலைத்திருக்கும்.",
+        "en": "The ability to genuinely help others depends on your own hard work and persistence.",
+        "hi": "जो यत्नशीलता उत्तम गुणों का स्वरूप है, परोपकार रूपी श्रेष्ठता (गर्व) उसी पर आधारित रहती है।"
+      }
+    },
+    {
+      "num": 614,
+      "line1": "தாளாண்மை யில்லாதான் வேளாண்மை பேடிகை",
+      "line2": "வேளாண்மை போலக் கெடும்.",
+      "enLine1": "Beneficent intent in men by whom no strenuous work is wrought,",
+      "enLine2": "Like battle-axe in sexless being's hand availeth nought.",
+      "hiLine1": "यों है उद्यमरहित का, करना परोपकार ।",
+      "hiLine2": "कोई कायर व्यर्थ ज्यों, चला रहा तलवार ॥",
+      "general": "முயற்சி இல்லாதவன் பிறருக்கு உதவ நினைப்பது, போரிடத் தெரியாத கோழையின் கையில் உள்ள வாள் போலப் பயனற்றதாகிவிடும்.",
+      "en": "The desire to help others in a person who lacks strenuous effort is as useless as a sword in the hand of a coward.",
+      "hi": "उद्यम से रहित व्यक्ति का परोपकार करने का विचार वैसे ही व्यर्थ है, जैसे कोई कायर व्यक्ति व्यर्थ में तलवार चला रहा हो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தாளாண்மை இல்லாதான் <br>(Thaalaanmai illaadhaan)",
+          "ta": "முயற்சி இல்லாதவனது",
+          "en": "No strenuous work wrought",
+          "hi": "उद्यमरहित का"
+        },
+        {
+          "no": 2,
+          "word": "வேளாண்மை <br>(Velaanmai)",
+          "ta": "உதவும் தன்மை",
+          "en": "Beneficent intent",
+          "hi": "करना परोपकार"
+        },
+        {
+          "no": 3,
+          "word": "பேடி கை <br>(Pedi kai)",
+          "ta": "கோழையின் கையில் உள்ள",
+          "en": "In coward's hand",
+          "hi": "कोई कायर"
+        },
+        {
+          "no": 4,
+          "word": "வாள் ஆண்மை <br>(Vaal aanmai)",
+          "ta": "வாட்போர் போல",
+          "en": "Like battle-axe",
+          "hi": "चला रहा तलवार"
+        },
+        {
+          "no": 5,
+          "word": "போல <br>(Pola)",
+          "ta": "போல",
+          "en": "Like",
+          "hi": "ज्यों"
+        },
+        {
+          "no": 6,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "பயனின்றிப் போகும்",
+          "en": "Availeth nought",
+          "hi": "व्यर्थ"
+        },
+        {
+          "no": 7,
+          "word": "கை <br>(Kai)",
+          "ta": "கை",
+          "en": "Hand",
+          "hi": "हाथ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தாளாண்மை யில்லாதான் வேளாண்மை பேடிகை",
+          "line2": "வேளாண்மை போலக் கெடும்."
+        },
+        "en": {
+          "line1": "Beneficent intent in men by whom no strenuous work is wrought,",
+          "line2": "Like battle-axe in sexless being's hand availeth nought."
+        },
+        "hi": {
+          "line1": "यों है उद्यमरहित का, करना परोपकार ।",
+          "line2": "कोई कायर व्यर्थ ज्यों, चला रहा तलवार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thaalaanmai Illaadhaan Velaanmai Pedikai",
+            "line2": "Vaalaanmai Polak Kedum."
+          },
+          "hi": {
+            "line1": "ताळाण्मै यिल्लादान् वेळाण्मै पेडिगै",
+            "line2": "वेळाण्मै पोलक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முயற்சி இல்லாதவன் பிறருக்கு உதவ நினைப்பது, போரிடத் தெரியாத கோழையின் கையில் உள்ள வாள் போலப் பயனற்றதாகிவிடும்.",
+        "en": "Good intentions without real effort behind them are like a sword in the hands of someone afraid to fight.",
+        "hi": "उद्यम से रहित व्यक्ति का परोपकार करने का विचार वैसे ही व्यर्थ है, जैसे कोई कायर व्यक्ति व्यर्थ में तलवार चला रहा हो।"
+      }
+    },
+    {
+      "num": 615,
+      "line1": "இன்பம் விழையான் வினைவிழைவான் றன்கேளிர்",
+      "line2": "துன்பந் துடைத்தூன்றுந் தூண்.",
+      "enLine1": "Whose heart delighteth not in pleasure, but in action finds delight,",
+      "enLine2": "He wipes away his kinsmen's grief and stands the pillar of their might.",
+      "hiLine1": "जिसे न सुख की चाह है, कर्म-पूर्ति है चाह ।",
+      "hiLine2": "स्तंभ बने वह थामता, मिटा बन्धुजन-आह ॥",
+      "general": "தனக்கு இன்பத்தை விரும்பாமல், செயலை முடிப்பதையே விரும்புபவன் தன் சுற்றத்தாரின் துன்பத்தைத் துடைத்துத் தாங்கும் தூண் ஆவான்.",
+      "en": "One who seeks not personal pleasure but delights in fulfilling work wipes away his kinsmen's sorrow and stands as their supporting pillar.",
+      "hi": "जिसे अपने सुख की चाह न होकर केवल कर्म-पूर्ति की चाह होती है, वह बन्धुजनों के दुःख को मिटाकर उन्हें थामने वाला मजबूत स्तंभ बन जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்பம் விழையான் <br>(Inbam vizhaiyaan)",
+          "ta": "சுகத்தை விரும்பாதவனாய்",
+          "en": "Delighteth not in pleasure",
+          "hi": "जिसे न सुख की चाह है"
+        },
+        {
+          "no": 2,
+          "word": "வினை விழைவான் <br>(Vinai vizhaivaan)",
+          "ta": "செயலை விரும்பிச் செய்பவன்",
+          "en": "In action finds delight",
+          "hi": "कर्म-पूर्ति है चाह"
+        },
+        {
+          "no": 3,
+          "word": "தன் கேளிர் <br>(Than kelir)",
+          "ta": "தன் சுற்றத்தாரின்",
+          "en": "His kinsmen's",
+          "hi": "बन्धुजन"
+        },
+        {
+          "no": 4,
+          "word": "துன்பம் <br>(Thunbam)",
+          "ta": "துன்பத்தை",
+          "en": "Grief",
+          "hi": "आह"
+        },
+        {
+          "no": 5,
+          "word": "துடைத்து <br>(Thudaiththu)",
+          "ta": "நீக்கி",
+          "en": "Wipes away",
+          "hi": "मिटा"
+        },
+        {
+          "no": 6,
+          "word": "ஊன்றும் <br>(Oondrum)",
+          "ta": "தாங்கும்",
+          "en": "Stands",
+          "hi": "थामता"
+        },
+        {
+          "no": 7,
+          "word": "தூண் <br>(Thoon)",
+          "ta": "தூண் ஆவான்",
+          "en": "The pillar",
+          "hi": "स्तंभ बने वह"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்பம் விழையான் வினைவிழைவான் றன்கேளிர்",
+          "line2": "துன்பந் துடைத்தூன்றுந் தூண்."
+        },
+        "en": {
+          "line1": "Whose heart delighteth not in pleasure, but in action finds delight,",
+          "line2": "He wipes away his kinsmen's grief and stands the pillar of their might."
+        },
+        "hi": {
+          "line1": "जिसे न सुख की चाह है, कर्म-पूर्ति है चाह ।",
+          "line2": "स्तंभ बने वह थामता, मिटा बन्धुजन-आह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inbam Vizhaiyaan Vinaivizhaivaan Thankelir",
+            "line2": "Thunban Thudaiththoondrun Thoon."
+          },
+          "hi": {
+            "line1": "इन्बम् विऴैयान् विनैविऴैवान् रन्केळिर्",
+            "line2": "तुन्बन् तुडैत्तून्द्रुन् तूण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தனக்கு இன்பத்தை விரும்பாமல், செயலை முடிப்பதையே விரும்புபவன் தன் சுற்றத்தாரின் துன்பத்தைத் துடைத்துத் தாங்கும் தூண் ஆவான்.",
+        "en": "Someone who loves getting things done more than chasing comfort becomes the pillar their whole circle leans on.",
+        "hi": "जिसे अपने सुख की चाह न होकर केवल कर्म-पूर्ति की चाह होती है, वह बन्धुजनों के दुःख को मिटाकर उन्हें थामने वाला मजबूत स्तंभ बन जाता है।"
+      }
+    },
+    {
+      "num": 616,
+      "line1": "முயற்சி திருவினை யாக்கு முயற்றின்மை",
+      "line2": "யின்மை புகுத்தி விடும்.",
+      "enLine1": "Effort brings fortune's sure increase,",
+      "enLine2": "Its absence brings to nothingness.",
+      "hiLine1": "बढ़ती धन-संपति की, कर देता है यत्न ।",
+      "hiLine2": "दारिद्रय को घुसेड़ कर, देता रहे अयत्न ॥",
+      "general": "முயற்சி ஒருவனுக்குச் செல்வத்தைப் பெருகச் செய்யும்; முயற்சி இல்லாமையோ அவனிடத்தில் வறுமையைப் புகுத்திவிடும்.",
+      "en": "Effort creates prosperity and wealth; lack of effort ushers in poverty.",
+      "hi": "प्रयत्न करने से धन-सम्पत्ति की वृद्धि होती है, जबकि प्रयत्न न करने (आलस्य) से दरिद्रता घर में घुस आती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "முயற்சி <br>(Muyarchi)",
+          "ta": "முயற்சி",
+          "en": "Effort",
+          "hi": "यत्न"
+        },
+        {
+          "no": 2,
+          "word": "திருவினை <br>(Thiruvinai)",
+          "ta": "செல்வத்தை",
+          "en": "Fortune's increase",
+          "hi": "बढ़ती धन-संपति की"
+        },
+        {
+          "no": 3,
+          "word": "ஆக்கும் <br>(Aakkum)",
+          "ta": "உண்டாக்கும்",
+          "en": "Brings",
+          "hi": "कर देता है"
+        },
+        {
+          "no": 4,
+          "word": "முயற்றின்மை <br>(Muyatrinmai)",
+          "ta": "முயற்சி இல்லாமை",
+          "en": "Its absence",
+          "hi": "अयत्न"
+        },
+        {
+          "no": 5,
+          "word": "இன்மை <br>(Inmai)",
+          "ta": "வறுமையை",
+          "en": "Nothingness",
+          "hi": "दारिद्रय को"
+        },
+        {
+          "no": 6,
+          "word": "புகுத்தி <br>(Puguththi)",
+          "ta": "புகுத்தி",
+          "en": "Brings to",
+          "hi": "घुसेड़ कर"
+        },
+        {
+          "no": 7,
+          "word": "விடும் <br>(Vidum)",
+          "ta": "விடும்",
+          "en": "Will",
+          "hi": "देता रहे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "முயற்சி திருவினை யாக்கு முயற்றின்மை",
+          "line2": "யின்மை புகுத்தி விடும்."
+        },
+        "en": {
+          "line1": "Effort brings fortune's sure increase,",
+          "line2": "Its absence brings to nothingness."
+        },
+        "hi": {
+          "line1": "बढ़ती धन-संपति की, कर देता है यत्न ।",
+          "line2": "दारिद्रय को घुसेड़ कर, देता रहे अयत्न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Muyarchi Thiruvinai Yaakku Muyatrinmai",
+            "line2": "Yinmai Puguththi Vidum."
+          },
+          "hi": {
+            "line1": "मुयर्चि तिरुविनै याक्कु मुयत्रिन्मै",
+            "line2": "यिन्मै पुगुत्ति विडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முயற்சி ஒருவனுக்குச் செல்வத்தைப் பெருகச் செய்யும்; முயற்சி இல்லாமையோ அவனிடத்தில் வறுமையைப் புகுத்திவிடும்.",
+        "en": "Effort builds wealth; coasting invites scarcity.",
+        "hi": "प्रयत्न करने से धन-सम्पत्ति की वृद्धि होती है, जबकि प्रयत्न न करने (आलस्य) से दरिद्रता घर में घुस आती है।"
+      }
+    },
+    {
+      "num": 617,
+      "line1": "மடியுளாள் மாமுகடி யென்ப மடியிலான்",
+      "line2": "றாளுளா டாமரை யினாள்.",
+      "enLine1": "In sluggishness is seen misfortune's lurid form, the wise declare;",
+      "enLine2": "Where man unslothful toils, she of the lotus flower is there!",
+      "hiLine1": "करती है आलस्य में, काली ज्येष्ठा वास ।",
+      "hiLine2": "यत्नशील के यत्न में, कमला का है वास ॥",
+      "general": "சோம்பலிடத்தே மூதேவி தங்கியிருக்கிறாள் என்றும், சோம்பல் இல்லாதவனின் முயற்சியிடத்தே தாமரைத் திருமகள் தங்கியிருக்கிறாள் என்றும் அறிஞர் கூறுவர்.",
+      "en": "The wise say that dark misfortune dwells in laziness, while the goddess of fortune (Lakshmi) dwells in the effort of the diligent.",
+      "hi": "विद्वानों का कहना है कि आलस्य में काली ज्येष्ठा (दरिद्रता) निवास करती है, जबकि यत्नशील व्यक्ति के प्रयास में कमला (लक्ष्मी) का वास होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மடியுளாள் <br>(Madiyulaal)",
+          "ta": "சோம்பலில் உள்ளாள்",
+          "en": "In sluggishness is seen",
+          "hi": "करती है आलस्य में वास"
+        },
+        {
+          "no": 2,
+          "word": "மாமுகடி <br>(Maamugadi)",
+          "ta": "கரிய மூதேவி",
+          "en": "Misfortune's lurid form",
+          "hi": "काली ज्येष्ठा"
+        },
+        {
+          "no": 3,
+          "word": "என்ப <br>(Enba)",
+          "ta": "என்று கூறுவர்",
+          "en": "The wise declare",
+          "hi": "कहते हैं"
+        },
+        {
+          "no": 4,
+          "word": "மடி இலான் <br>(Madi ilaan)",
+          "ta": "சோம்பல் இல்லாதவனது",
+          "en": "Man unslothful",
+          "hi": "यत्नशील के"
+        },
+        {
+          "no": 5,
+          "word": "தாளுளாள் <br>(Thaalulaal)",
+          "ta": "முயற்சியில் உள்ளாள்",
+          "en": "Toils / is there",
+          "hi": "यत्न में वास"
+        },
+        {
+          "no": 6,
+          "word": "தாமரையினாள் <br>(Thaamaraiyinaal)",
+          "ta": "தாமரைத் திருமகள்",
+          "en": "She of the lotus flower",
+          "hi": "कमला का"
+        },
+        {
+          "no": 7,
+          "word": "தாள் <br>(Thaal)",
+          "ta": "முயற்சி",
+          "en": "Effort",
+          "hi": "यत्न"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மடியுளாள் மாமுகடி யென்ப மடியிலான்",
+          "line2": "றாளுளா டாமரை யினாள்."
+        },
+        "en": {
+          "line1": "In sluggishness is seen misfortune's lurid form, the wise declare;",
+          "line2": "Where man unslothful toils, she of the lotus flower is there!"
+        },
+        "hi": {
+          "line1": "करती है आलस्य में, काली ज्येष्ठा वास ।",
+          "line2": "यत्नशील के यत्न में, कमला का है वास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Madiyulaal Maamugadi Yenba Madiyilaan",
+            "line2": "Raalulaa Daamarai Yinaal."
+          },
+          "hi": {
+            "line1": "मडियुळाळ् मामुगडि यॆन्ब मडियिलान्",
+            "line2": "राळुळा डामरै यिनाळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சோம்பலிடத்தே மூதேவி தங்கியிருக்கிறாள் என்றும், சோம்பல் இல்லாதவனின் முயற்சியிடத்தே தாமரைத் திருமகள் தங்கியிருக்கிறாள் என்றும் அறிஞர் கூறுவர்.",
+        "en": "Bad luck settles in wherever laziness lives; good fortune shows up wherever someone puts in steady work.",
+        "hi": "विद्वानों का कहना है कि आलस्य में काली ज्येष्ठा (दरिद्रता) निवास करती है, जबकि यत्नशील व्यक्ति के प्रयास में कमला (लक्ष्मी) का वास होता है।"
+      }
+    },
+    {
+      "num": 618,
+      "line1": "பொறியின்மை யார்க்கும் பழியன் றறிவறிந்",
+      "line2": "தாள்வினை யின்மை பழி.",
+      "enLine1": "'Tis no reproach though unpropitious fate should ban;",
+      "enLine2": "But not to do man's work is foul disgrace to man!",
+      "hiLine1": "यदि विधि नहिं अनुकूल है, तो न किसी का दोष ।",
+      "hiLine2": "खूब जान ज्ञातव्य को, यत्न न करना दोष ॥",
+      "general": "விதி நன்மை தராமல் இருப்பது யாருக்கும் பழியாகாது; ஆனால் அறிய வேண்டியதை அறிந்துகொண்டு முயற்சி செய்யாமல் இருப்பதே பழியாகும்.",
+      "en": "Unfavorable luck is no disgrace to anyone; the real disgrace is knowing what ought to be done and failing to make the effort.",
+      "hi": "यदि भाग्य (विधि) अनुकूल न हो तो इसमें किसी का कोई दोष नहीं है; परन्तु जानने योग्य बात को भली-भाँति जानकर भी प्रयत्न न करना ही सबसे बड़ा दोष है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பொறியின்மை <br>(Poriyinmai)",
+          "ta": "நல்விதி இல்லாமை",
+          "en": "Unpropitious fate",
+          "hi": "यदि विधि नहिं अनुकूल है"
+        },
+        {
+          "no": 2,
+          "word": "யார்க்கும் <br>(Yaarkkum)",
+          "ta": "எவருக்கும்",
+          "en": "To any",
+          "hi": "किसी का"
+        },
+        {
+          "no": 3,
+          "word": "பழி அன்று <br>(Pazhi andru)",
+          "ta": "பழி ஆகாது",
+          "en": "'Tis no reproach",
+          "hi": "न दोष"
+        },
+        {
+          "no": 4,
+          "word": "அறிவு அறிந்து <br>(Arivu arindhu)",
+          "ta": "அறிய வேண்டியதை அறிந்து",
+          "en": "Knowing what to do",
+          "hi": "खूब जान ज्ञातव्य को"
+        },
+        {
+          "no": 5,
+          "word": "ஆள்வினை <br>(Aalvinai)",
+          "ta": "முயற்சி",
+          "en": "Man's work",
+          "hi": "यत्न"
+        },
+        {
+          "no": 6,
+          "word": "இன்மை <br>(Inmai)",
+          "ta": "இல்லாமையே",
+          "en": "Not to do",
+          "hi": "न करना"
+        },
+        {
+          "no": 7,
+          "word": "பழி <br>(Pazhi)",
+          "ta": "பழியாகும்",
+          "en": "Foul disgrace",
+          "hi": "दोष"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பொறியின்மை யார்க்கும் பழியன் றறிவறிந்",
+          "line2": "தாள்வினை யின்மை பழி."
+        },
+        "en": {
+          "line1": "'Tis no reproach though unpropitious fate should ban;",
+          "line2": "But not to do man's work is foul disgrace to man!"
+        },
+        "hi": {
+          "line1": "यदि विधि नहिं अनुकूल है, तो न किसी का दोष ।",
+          "line2": "खूब जान ज्ञातव्य को, यत्न न करना दोष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Poriyinmai Yaarkkum Pazhiyan Rarivarin",
+            "line2": "Dhaalvinai Yinmai Pazhi."
+          },
+          "hi": {
+            "line1": "पॊऱियिन्मै यार्क्कुम् पऴियन् रऱिवरिन्",
+            "line2": "दाळ्विनै यिन्मै पऴि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "விதி நன்மை தராமல் இருப்பது யாருக்கும் பழியாகாது; ஆனால் அறிய வேண்டியதை அறிந்துகொண்டு முயற்சி செய்யாமல் இருப்பதே பழியாகும்.",
+        "en": "Bad luck isn't shameful—knowing what needs to be done and refusing to try is.",
+        "hi": "यदि भाग्य (विधि) अनुकूल न हो तो इसमें किसी का कोई दोष नहीं है; परन्तु जानने योग्य बात को भली-भाँति जानकर भी प्रयत्न न करना ही सबसे बड़ा दोष है।"
+      }
+    },
+    {
+      "num": 619,
+      "line1": "தெய்வத்தா னாகா தெனினு முயற்சிதன்",
+      "line2": "மெய்வருத்தக் கூலி தரும்.",
+      "enLine1": "Though fate-divine should make your labour vain;",
+      "enLine2": "Effort its labour's sure reward will gain.",
+      "hiLine1": "यद्यपि मिले न दैववश, इच्छित फल जो भोग्य ।",
+      "hiLine2": "श्रम देगा पारिश्रमिक, निज देह-श्रम-योग्य ॥",
+      "general": "ஊழ்வினையால் ஒரு செயல் முடியாமல் போனாலும், முயற்சி தன் உடம்பு வருந்த உழைத்த உழைப்பிற்கான கூலியையாவது தவறாமல் தரும்.",
+      "en": "Even if destiny prevents a task from succeeding, effort will still surely pay the wages of your bodily exertion.",
+      "hi": "यद्यपि दैववश (भाग्य के कारण) इच्छित फल न भी मिले, फिर भी किया गया परिश्रम अपने शारीरिक श्रम के योग्य पारिश्रमिक (फल) अवश्य देता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தெய்வத்தான் <br>(Dheivaththaan)",
+          "ta": "விதியால்",
+          "en": "Fate-divine",
+          "hi": "दैववश"
+        },
+        {
+          "no": 2,
+          "word": "ஆகாது எனினும் <br>(Aagaadhu eninum)",
+          "ta": "முடியாமல் போனாலும்",
+          "en": "Though make labour vain",
+          "hi": "यद्यपि मिले न इच्छित फल"
+        },
+        {
+          "no": 3,
+          "word": "முயற்சி <br>(Muyarchi)",
+          "ta": "முயற்சி",
+          "en": "Effort",
+          "hi": "श्रम"
+        },
+        {
+          "no": 4,
+          "word": "தன் <br>(Than)",
+          "ta": "தன்னுடைய",
+          "en": "Its",
+          "hi": "निज"
+        },
+        {
+          "no": 5,
+          "word": "மெய்வருத்த <br>(Meivaruththa)",
+          "ta": "உடல் உழைப்பிற்கான",
+          "en": "Labour's",
+          "hi": "देह-श्रम-योग्य"
+        },
+        {
+          "no": 6,
+          "word": "கூலி <br>(Kooli)",
+          "ta": "கூலியை",
+          "en": "Sure reward",
+          "hi": "पारिश्रमिक"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Will gain",
+          "hi": "देगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தெய்வத்தா னாகா தெனினு முயற்சிதன்",
+          "line2": "மெய்வருத்தக் கூலி தரும்."
+        },
+        "en": {
+          "line1": "Though fate-divine should make your labour vain;",
+          "line2": "Effort its labour's sure reward will gain."
+        },
+        "hi": {
+          "line1": "यद्यपि मिले न दैववश, इच्छित फल जो भोग्य ।",
+          "line2": "श्रम देगा पारिश्रमिक, निज देह-श्रम-योग्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Dheivaththaa Naagaa Dheninu Muyarchidhan",
+            "line2": "Meivaruththak Kooli Tharum."
+          },
+          "hi": {
+            "line1": "दॆय्वत्ता नागा दॆनिनु मुयर्चिदन्",
+            "line2": "मॆय्वरुत्तक् कूलि तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஊழ்வினையால் ஒரு செயல் முடியாமல் போனாலும், முயற்சி தன் உடம்பு வருந்த உழைத்த உழைப்பிற்கான கூலியையாவது தவறாமல் தரும்.",
+        "en": "Even when circumstances block the exact outcome you wanted, honest hard work always pays its own dividends.",
+        "hi": "यद्यपि दैववश (भाग्य के कारण) इच्छित फल न भी मिले, फिर भी किया गया परिश्रम अपने शारीरिक श्रम के योग्य पारिश्रमिक (फल) अवश्य देता है।"
+      }
+    },
+    {
+      "num": 620,
+      "line1": "ஊழையு முப்பக்கங் காண்ப ருலைவின்றித்",
+      "line2": "தாழா துஞற்று பவர்.",
+      "enLine1": "Who strive with undismayed, unfaltering mind,",
+      "enLine2": "At length shall leave opposing fate behind.",
+      "hiLine1": "विधि पर भी पाते विजय, जो हैं उद्यमशील ।",
+      "hiLine2": "सतत यत्न करते हुए, बिना किये कुछ ढील ॥",
+      "general": "மனம் தளராமல், முயற்சியில் சிறிதும் குறையாமல் தொடர்ந்து உழைப்பவர்கள், தமக்கு எதிராக வரும் ஊழ்வினையையும் தோல்வியடையச் செய்வார்கள்.",
+      "en": "Those who persevere tirelessly without losing heart or slackening will eventually outlast and overcome even fate itself.",
+      "hi": "जो उद्यमशील व्यक्ति बिना किसी ढील के लगातार प्रयत्न करते रहते हैं, वे अपने प्रयास से भाग्य (विधि) पर भी विजय प्राप्त कर लेते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊழையும் <br>(Oozhaiyum)",
+          "ta": "ஊழ்வினையையும்",
+          "en": "Opposing fate",
+          "hi": "विधि पर भी"
+        },
+        {
+          "no": 2,
+          "word": "உப்பக்கம் காண்பர் <br>(Uppakkam kaanbar)",
+          "ta": "புறமுதுகு காட்டச் செய்வர்",
+          "en": "Leave behind",
+          "hi": "पाते विजय"
+        },
+        {
+          "no": 3,
+          "word": "உலைவு இன்றி <br>(Ulaivu indri)",
+          "ta": "மனம் தளராமல்",
+          "en": "Undismayed",
+          "hi": "बिना किये कुछ ढील"
+        },
+        {
+          "no": 4,
+          "word": "தாழாது <br>(Thaazhaadhu)",
+          "ta": "சோர்ந்து குறையாமல்",
+          "en": "Unfaltering",
+          "hi": "सतत"
+        },
+        {
+          "no": 5,
+          "word": "உஞற்றுபவர் <br>(Unyatrubavar)",
+          "ta": "முயற்சி செய்பவர்",
+          "en": "Who strive",
+          "hi": "उद्यमशील"
+        },
+        {
+          "no": 6,
+          "word": "ஊழ் <br>(Oozh)",
+          "ta": "விதி",
+          "en": "Fate",
+          "hi": "विधि"
+        },
+        {
+          "no": 7,
+          "word": "உஞற்று <br>(Unyatru)",
+          "ta": "முயற்சி",
+          "en": "Striving",
+          "hi": "यत्न"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊழையு முப்பக்கங் காண்ப ருலைவின்றித்",
+          "line2": "தாழா துஞற்று பவர்."
+        },
+        "en": {
+          "line1": "Who strive with undismayed, unfaltering mind,",
+          "line2": "At length shall leave opposing fate behind."
+        },
+        "hi": {
+          "line1": "विधि पर भी पाते विजय, जो हैं उद्यमशील ।",
+          "line2": "सतत यत्न करते हुए, बिना किये कुछ ढील ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oozhaiyum Uppakkang Kaanbar Ulaivindrith",
+            "line2": "Thaazhaadhu Unyatru Pavar."
+          },
+          "hi": {
+            "line1": "ऊऴैयु मुप्पक्कङ् काण्ब रुलैविन्द्रित्",
+            "line2": "ताऴा दुञत्रु पवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனம் தளராமல், முயற்சியில் சிறிதும் குறையாமல் தொடர்ந்து உழைப்பவர்கள், தமக்கு எதிராக வரும் ஊழ்வினையையும் தோல்வியடையச் செய்வார்கள்.",
+        "en": "Relentless, undiscouraged persistence can eventually outrun even the odds stacked against you.",
+        "hi": "जो उद्यमशील व्यक्ति बिना किसी ढील के लगातार प्रयत्न करते रहते हैं, वे अपने प्रयास से भाग्य (विधि) पर भी विजय प्राप्त कर लेते हैं।"
+      }
+    }
+  ]
+}

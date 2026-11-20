@@ -1,0 +1,930 @@
+{
+  "chapterNum": 19,
+  "nameTa": "புறங்கூறாமை",
+  "nameEn": "Not Backbiting",
+  "nameHi": "अपिशुनता",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 181,
+      "line1": "அறங்கூறான் அல்ல செயினும் ஒருவன்",
+      "line2": "புறங்கூறான் என்றல் இனிது.",
+      "enLine1": "Though virtuous words his lips speak not, and all his deeds are ill,",
+      "enLine2": "If neighbour he defame not, there 's good within him still.",
+      "hiLine1": "नाम न लेगा धर्म का, करे अधर्मिक काम ।",
+      "hiLine2": "फिर भी अच्छा यदि वही, पाये अपिशुन नाम ॥",
+      "general": "ஒருவன் அறத்தைப்பற்றிப் பேசாதவனாய், அறமல்லாத செயல்களைச் செய்தாலும், பிறரைப் புறங்கூறாமல் இருக்கிறான் என்று சொல்லப்படுதல் நன்மையாகும்.",
+      "en": "Even if a man does not speak of virtue and commits evil deeds, it is good if it can be said of him that he does not backbite.",
+      "hi": "यदि कोई व्यक्ति धर्म का नाम न लेता हो और अधर्मपूर्ण कार्य भी करता हो, फिर भी यदि वह किसी की चुगली न करने वाला (अपिशुन) कहलाए तो यह अच्छी बात है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறங்கூறான் <br>(Arangooraan)",
+          "ta": "அறத்தைக் கூறாதவனாய்",
+          "en": "Speaks not virtuous words",
+          "hi": "धर्म का नाम न ले"
+        },
+        {
+          "no": 2,
+          "word": "அல்ல <br>(Alla)",
+          "ta": "தீய செயல்களை",
+          "en": "Ill deeds",
+          "hi": "अधार्मिक काम"
+        },
+        {
+          "no": 3,
+          "word": "செயினும் <br>(Seyinum)",
+          "ta": "செய்தாலும்",
+          "en": "Though he does",
+          "hi": "चाहे करे"
+        },
+        {
+          "no": 4,
+          "word": "ஒருவன் <br>(Oruvan)",
+          "ta": "ஒருவன்",
+          "en": "A person",
+          "hi": "वह व्यक्ति"
+        },
+        {
+          "no": 5,
+          "word": "புறங்கூறான் <br>(Purangooraan)",
+          "ta": "பிறரைப் புறங்கூறாதவன்",
+          "en": "Defames not neighbour",
+          "hi": "अपिशुन (चुगली न करने वाला)"
+        },
+        {
+          "no": 6,
+          "word": "என்றல் <br>(Endral)",
+          "ta": "என்று சொல்லப்படுதல்",
+          "en": "Being called",
+          "hi": "नाम पाये"
+        },
+        {
+          "no": 7,
+          "word": "இனிது <br>(Inidhu)",
+          "ta": "நன்மையாகும்",
+          "en": "Is good",
+          "hi": "अच्छा है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறங்கூறான் அல்ல செயினும் ஒருவன்",
+          "line2": "புறங்கூறான் என்றல் இனிது."
+        },
+        "en": {
+          "line1": "Though virtuous words his lips speak not, and all his deeds are ill,",
+          "line2": "If neighbour he defame not, there 's good within him still."
+        },
+        "hi": {
+          "line1": "नाम न लेगा धर्म का, करे अधर्मिक काम ।",
+          "line2": "फिर भी अच्छा यदि वही, पाये अपिशुन नाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arangooraan Alla Seyinum Oruvan",
+            "line2": "Purangooraan Endral Inidhu."
+          },
+          "hi": {
+            "line1": "अरंगूरान् अल्ल सॆयिनुम् ऒरुवन्",
+            "line2": "पुरंगूरान् एन्द्रल् इनिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் அறத்தைப்பற்றிப் பேசாதவனாய், அறமல்லாத செயல்களைச் செய்தாலும், பிறரைப் புறங்கூறாமல் இருக்கிறான் என்று சொல்லப்படுதல் நன்மையாகும்.",
+        "en": "Even someone who neglects moral speech and falters in conduct still retains a redeeming grace if they refrain from slandering others behind their backs.",
+        "hi": "यदि कोई व्यक्ति धर्म का नाम न लेता हो और अधर्मपूर्ण कार्य भी करता हो, फिर भी यदि वह किसी की चुगली न करने वाला (अपिशुन) कहलाए तो यह अच्छी बात है।"
+      }
+    },
+    {
+      "num": 182,
+      "line1": "அறனழீஇ அல்லவை செய்தலின் தீதே",
+      "line2": "புறனழீஇப் பொய்த்து நகை.",
+      "enLine1": "Than he who virtue scorns, and evil deeds performs, more vile",
+      "enLine2": "Is he that slanders friend, then meets him with false smile.",
+      "hiLine1": "नास्तिवाद कर धर्म प्रति, करता पाप अखण्ड ।",
+      "hiLine2": "उससे बदतर पिशुनता, सम्मुख हँस पाखण्ड ॥",
+      "general": "அறத்தை அழித்துத் தீய செயல்களைச் செய்வதைவிட, ஒருவரைப் புறத்தே பழித்துப் பேசிவிட்டு நேரில் பொய்யாகச் சிரித்துப் பழகுதல் மிகவும் தீயதாகும்.",
+      "en": "Worse than scorning virtue and doing evil deeds is slandering someone behind their back and then smiling falsely to their face.",
+      "hi": "धर्म के प्रति नास्तिकता रखकर अखंड पाप करने से भी अधिक बुरा है किसी की पीठ पीछे चुगली करना और सामने आने पर पाखंडपूर्ण हँसी हँसना।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறனழீஇ <br>(Aranazheei)",
+          "ta": "அறத்தைப் பழித்து",
+          "en": "Scorning virtue",
+          "hi": "धर्म के प्रति नास्तिवाद कर"
+        },
+        {
+          "no": 2,
+          "word": "அல்லவை <br>(Allavai)",
+          "ta": "தீய செயல்களை",
+          "en": "Evil deeds",
+          "hi": "पाप"
+        },
+        {
+          "no": 3,
+          "word": "செய்தலின் <br>(Seydhalin)",
+          "ta": "செய்வதைவிட",
+          "en": "Than performing",
+          "hi": "करने से"
+        },
+        {
+          "no": 4,
+          "word": "தீதே <br>(Theedhe)",
+          "ta": "மிகவும் தீயது",
+          "en": "More vile / worse",
+          "hi": "अधिक बुरा है"
+        },
+        {
+          "no": 5,
+          "word": "புறனழீஇப் <br>(Puranazheeip)",
+          "ta": "புறத்தே இகழ்ந்து",
+          "en": "Slandering behind back",
+          "hi": "पिशुनता (चुगली)"
+        },
+        {
+          "no": 6,
+          "word": "பொய்த்து <br>(Poyththu)",
+          "ta": "பொய்யாகப் பழகி",
+          "en": "Falsely",
+          "hi": "पाखंड करके"
+        },
+        {
+          "no": 7,
+          "word": "நகை <br>(Nagai)",
+          "ta": "சிரித்தல்",
+          "en": "Smiling",
+          "hi": "सामने हँसना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறனழீஇ அல்லவை செய்தலின் தீதே",
+          "line2": "புறனழீஇப் பொய்த்து நகை."
+        },
+        "en": {
+          "line1": "Than he who virtue scorns, and evil deeds performs, more vile",
+          "line2": "Is he that slanders friend, then meets him with false smile."
+        },
+        "hi": {
+          "line1": "नास्तिवाद कर धर्म प्रति, करता पाप अखण्ड ।",
+          "line2": "उससे बदतर पिशुनता, सम्मुख हँस पाखण्ड ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aranazheei Allavai Seydhalin Theedhe",
+            "line2": "Puranazheeip Poyththu Nagai."
+          },
+          "hi": {
+            "line1": "अरनऴीइ अल्लवै सॆय्दलिन् तीदे",
+            "line2": "पुरनऴीइप् पॊय्तु नगै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அறத்தை அழித்துத் தீய செயல்களைச் செய்வதைவிட, ஒருவரைப் புறத்தே பழித்துப் பேசிவிட்டு நேரில் பொய்யாகச் சிரித்துப் பழகுதல் மிகவும் தீயதாகும்.",
+        "en": "Two-faced hypocrisy—speaking ill of someone in secret and greeting them with a warm smile in person—is worse than open wrongdoing.",
+        "hi": "धर्म के प्रति नास्तिकता रखकर अखंड पाप करने से भी अधिक बुरा है किसी की पीठ पीछे चुगली करना और सामने आने पर पाखंडपूर्ण हँसी हँसना।"
+      }
+    },
+    {
+      "num": 183,
+      "line1": "புறங்கூறிப் பொய்த்துயிர் வாழ்தலின் சாதல்",
+      "line2": "அறங்கூறும் ஆக்கந் தரும்.",
+      "enLine1": "'Tis greater gain of virtuous good for man to die",
+      "enLine2": "Than live to slander absent friend, and falsely praise when nigh.",
+      "hiLine1": "चुगली खा कर क्या जिया, चापलूस हो साथ ।",
+      "hiLine2": "भला, मृत्यु हो, तो लगे, शास्त्र- उक्त फल हाथ ॥",
+      "general": "பிறரைப் புறங்கூறிப் பொய்யாகப் பேசி உயிர் வாழ்வதைவிட, இறந்துவிடுவது அறநூல்கள் கூறும் நற்பயனைத் தரும்.",
+      "en": "Rather than living a life of backbiting and deceit, dying will yield the reward declared by the treatises of virtue.",
+      "hi": "पीठ पीछे चुगली करके और सामने चापलूसी भरा झूठा जीवन जीने से तो मृत्यु ही भली है, क्योंकि उससे शास्त्रों में कहा गया पुण्य फल प्राप्त होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "புறங்கூறிப் <br>(Purangoorip)",
+          "ta": "புறங்கூறி",
+          "en": "Slandering",
+          "hi": "चुगली खाकर"
+        },
+        {
+          "no": 2,
+          "word": "பொய்த்துயிர் <br>(Poyththuyir)",
+          "ta": "பொய்யாக உயிர்",
+          "en": "Falsely living",
+          "hi": "चापलूसी भरा जीवन"
+        },
+        {
+          "no": 3,
+          "word": "வாழ்தலின் <br>(Vaazhdhalin)",
+          "ta": "வாழ்வதைவிட",
+          "en": "Than living",
+          "hi": "जीने से"
+        },
+        {
+          "no": 4,
+          "word": "சாதல் <br>(Saadhal)",
+          "ta": "இறத்தல்",
+          "en": "To die",
+          "hi": "मृत्यु भली है"
+        },
+        {
+          "no": 5,
+          "word": "அறங்கூறும் <br>(Arangoorum)",
+          "ta": "அறநூல்கள் கூறும்",
+          "en": "Virtue declares",
+          "hi": "शास्त्र-उक्त"
+        },
+        {
+          "no": 6,
+          "word": "ஆக்கந் <br>(Aakkandh)",
+          "ta": "நற்பயனைத்",
+          "en": "Virtuous gain",
+          "hi": "फल"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Will give",
+          "hi": "हाथ लगेगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புறங்கூறிப் பொய்த்துயிர் வாழ்தலின் சாதல்",
+          "line2": "அறங்கூறும் ஆக்கந் தரும்."
+        },
+        "en": {
+          "line1": "'Tis greater gain of virtuous good for man to die",
+          "line2": "Than live to slander absent friend, and falsely praise when nigh."
+        },
+        "hi": {
+          "line1": "चुगली खा कर क्या जिया, चापलूस हो साथ ।",
+          "line2": "भला, मृत्यु हो, तो लगे, शास्त्र- उक्त फल हाथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Purangoorip Poyththuyir Vaazhdhalin Saadhal",
+            "line2": "Arangoorum Aakkandh Tharum."
+          },
+          "hi": {
+            "line1": "पुरंगूरिप् पॊय्तुयिर् वाऴ्दलिन् सादल्",
+            "line2": "अरंगूरुम् आक्कन् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறரைப் புறங்கூறிப் பொய்யாகப் பேசி உயிர் வாழ்வதைவிட, இறந்துவிடுவது அறநூல்கள் கூறும் நற்பயனைத் தரும்.",
+        "en": "An honorable death is far more virtuous than surviving on deceit, flattery, and backbiting.",
+        "hi": "पीठ पीछे चुगली करके और सामने चापलूसी भरा झूठा जीवन जीने से तो मृत्यु ही भली है, क्योंकि उससे शास्त्रों में कहा गया पुण्य फल प्राप्त होता है।"
+      }
+    },
+    {
+      "num": 184,
+      "line1": "கண்ணின்று கண்ணறச் சொல்லினும் சொல்லற்க",
+      "line2": "முன்னின்று பின்னோக்காச் சொல்.",
+      "enLine1": "In presence though unkindly words you speak, say not",
+      "enLine2": "In absence words whose ill result exceeds your thought.",
+      "hiLine1": "कोई मुँह पर ही कहे, यद्यपि निर्दय बात ।",
+      "hiLine2": "कहो पीठ पीछे नहीं, जो न सुचिंतित बात ॥",
+      "general": "ஒருவர் எதிரில் நின்று இரக்கமற்ற கடுஞ்சொற்களைச் சொன்னாலும் சொல்லலாம்; ஆனால் அவர் இல்லாதபோது பின்விளைவை ஆராயாத புறஞ்சொற்களைச் சொல்லக்கூடாது.",
+      "en": "Though one may speak harsh words directly in another's presence, one should never utter thoughtless words behind their back.",
+      "hi": "यद्यपि कोई मुँह पर ही कठोर या निर्दय बात कह दे, तो भी चल सकता है; परंतु किसी की पीठ पीछे ऐसी बात कभी नहीं कहनी चाहिए जो भली-भाँति सोची-समझी न हो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கண்ணின்று <br>(Kannindru)",
+          "ta": "எதிரில் நின்று",
+          "en": "In presence",
+          "hi": "मुँह पर ही"
+        },
+        {
+          "no": 2,
+          "word": "கண்ணறச் <br>(Kannarach)",
+          "ta": "இரக்கமில்லாமல்",
+          "en": "Unkindly / ruthlessly",
+          "hi": "निर्दय"
+        },
+        {
+          "no": 3,
+          "word": "சொல்லினும் <br>(Sollinum)",
+          "ta": "சொன்னாலும்",
+          "en": "Though you speak",
+          "hi": "यद्यपि कहे"
+        },
+        {
+          "no": 4,
+          "word": "சொல்லற்க <br>(Sollarka)",
+          "ta": "சொல்லாதிருக்க",
+          "en": "Say not",
+          "hi": "नहीं कहो"
+        },
+        {
+          "no": 5,
+          "word": "முன்னின்று <br>(Munnindru)",
+          "ta": "எதிரில் இல்லாதபோது",
+          "en": "In absence",
+          "hi": "पीठ पीछे"
+        },
+        {
+          "no": 6,
+          "word": "பின்னோக்காச் <br>(Pinnokkaach)",
+          "ta": "பின்விளைவை ஆராயாத",
+          "en": "Thoughtless of ill result",
+          "hi": "जो न सुचिंतित"
+        },
+        {
+          "no": 7,
+          "word": "சொல் <br>(Sol)",
+          "ta": "புறஞ்சொல்லை",
+          "en": "Words",
+          "hi": "बात"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கண்ணின்று கண்ணறச் சொல்லினும் சொல்லற்க",
+          "line2": "முன்னின்று பின்னோக்காச் சொல்."
+        },
+        "en": {
+          "line1": "In presence though unkindly words you speak, say not",
+          "line2": "In absence words whose ill result exceeds your thought."
+        },
+        "hi": {
+          "line1": "कोई मुँह पर ही कहे, यद्यपि निर्दय बात ।",
+          "line2": "कहो पीठ पीछे नहीं, जो न सुचिंतित बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kannindru Kannarach Sollinum Sollarka",
+            "line2": "Munnindru Pinnokkaach Sol."
+          },
+          "hi": {
+            "line1": "कण्णिन्द्रु कण्णरच् सॊल्लिनुम् सॊल्लर्क",
+            "line2": "मुन्निन्द्रु पिन्नोक्काच् सॊल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவர் எதிரில் நின்று இரக்கமற்ற கடுஞ்சொற்களைச் சொன்னாலும் சொல்லலாம்; ஆனால் அவர் இல்லாதபோது பின்விளைவை ஆராயாத புறஞ்சொற்களைச் சொல்லக்கூடாது.",
+        "en": "Blunt criticism to someone's face is still better than reckless, harmful gossip spoken behind their back.",
+        "hi": "यद्यपि कोई मुँह पर ही कठोर या निर्दय बात कह दे, तो भी चल सकता है; परंतु किसी की पीठ पीछे ऐसी बात कभी नहीं कहनी चाहिए जो भली-भाँति सोची-समझी न हो।"
+      }
+    },
+    {
+      "num": 185,
+      "line1": "அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்",
+      "line2": "புன்மையால் காணப் படும்.",
+      "enLine1": "The slanderous meanness that an absent friend defames,",
+      "enLine2": "' This man in words owns virtue, not in heart,' proclaims.",
+      "hiLine1": "प्रवचन-लीन सुधर्म के, हृदय धर्म से हीन ।",
+      "hiLine2": "भण्डा इसका फोड़ दे, पैशुन्य ही मलीन ॥",
+      "general": "ஒருவன் அறத்தைப்பற்றிப் பேசினாலும், அவன் மனத்தில் அறம் இல்லாத தன்மை அவன் பிறரைப் புறங்கூறும் இழிசெயலால் வெளிப்பட்டுவிடும்.",
+      "en": "The emptiness of a heart that merely speaks of virtue is exposed by the meanness of its backbiting.",
+      "hi": "जो व्यक्ति धर्म के प्रवचनों में लीन रहता है किंतु जिसका हृदय धर्म से शून्य है, उसकी इस वास्तविकता का भंडा उसकी मलिन चुगलखोरी ही फोड़ देती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறஞ்சொல்லும் <br>(Aranjollum)",
+          "ta": "அறத்தைப் பேசும்",
+          "en": "Speaks of virtue",
+          "hi": "सुधर्म के प्रवचन-लीन"
+        },
+        {
+          "no": 2,
+          "word": "நெஞ்சத்தான் <br>(Nenjaththaan)",
+          "ta": "மனத்தினுடைய",
+          "en": "Hearted man's",
+          "hi": "हृदय की"
+        },
+        {
+          "no": 3,
+          "word": "அன்மை <br>(Anmai)",
+          "ta": "அறமின்மை",
+          "en": "Lack / emptiness",
+          "hi": "धर्म से हीनता"
+        },
+        {
+          "no": 4,
+          "word": "புறஞ்சொல்லும் <br>(Puranjollum)",
+          "ta": "புறங்கூறும்",
+          "en": "Slanderous",
+          "hi": "पैशुन्य (चुगली)"
+        },
+        {
+          "no": 5,
+          "word": "புன்மையால் <br>(Punmaiyaal)",
+          "ta": "இழிசெயலால்",
+          "en": "By meanness",
+          "hi": "मलीनता से"
+        },
+        {
+          "no": 6,
+          "word": "காணப் <br>(Kaanap)",
+          "ta": "அறியப்",
+          "en": "Proclaimed / seen",
+          "hi": "भंडा फूट"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "படும்",
+          "en": "Is",
+          "hi": "जाता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்",
+          "line2": "புன்மையால் காணப் படும்."
+        },
+        "en": {
+          "line1": "The slanderous meanness that an absent friend defames,",
+          "line2": "' This man in words owns virtue, not in heart,' proclaims."
+        },
+        "hi": {
+          "line1": "प्रवचन-लीन सुधर्म के, हृदय धर्म से हीन ।",
+          "line2": "भण्डा इसका फोड़ दे, पैशुन्य ही मलीन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aranjollum Nenjaththaan Anmai Puranjollum",
+            "line2": "Punmaiyaal Kaanap Padum."
+          },
+          "hi": {
+            "line1": "अरञ्जॊल्लुम् नॆञ्जत्तान् अन्मै पुरञ्जॊल्लुम्",
+            "line2": "पुन्मैयाल् काणप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் அறத்தைப்பற்றிப் பேசினாலும், அவன் மனத்தில் அறம் இல்லாத தன்மை அவன் பிறரைப் புறங்கூறும் இழிசெயலால் வெளிப்பட்டுவிடும்.",
+        "en": "Talking endlessly about morality means nothing if one's habit of backbiting reveals an empty, insincere heart.",
+        "hi": "जो व्यक्ति धर्म के प्रवचनों में लीन रहता है किंतु जिसका हृदय धर्म से शून्य है, उसकी इस वास्तविकता का भंडा उसकी मलिन चुगलखोरी ही फोड़ देती है।"
+      }
+    },
+    {
+      "num": 186,
+      "line1": "பிறன்பழி கூறுவான் தன்பழி உள்ளுந்",
+      "line2": "திறன்தெரிந்து கூறப் படும்.",
+      "enLine1": "Who on his neighbours' sins delights to dwell,",
+      "enLine2": "The story of his sins, culled out with care, the world will tell.",
+      "hiLine1": "परदूषक यदि तू बना, तुझमें हैं जो दोष ।",
+      "hiLine2": "उनमें चुन सबसे बुरे, वह करता है घोष ॥",
+      "general": "பிறருடைய குற்றங்களைத் தேடிப் புறங்கூறுபவனுடைய குற்றங்களுள் மிகுந்தவை ஆராய்ந்து எடுத்துக் கூறப்படும்.",
+      "en": "The faults of one who speaks of others' faults will be carefully searched out and proclaimed to the world.",
+      "hi": "यदि तुम दूसरों के दोष निकालने वाले (परदूषक) बनोगे, तो तुममें जो दोष हैं उनमें से सबसे बुरे दोषों को चुन-चुनकर संसार घोषित करेगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பிறன்பழி <br>(Piranbazhi)",
+          "ta": "பிறருடைய குற்றத்தை",
+          "en": "Neighbours' sins",
+          "hi": "पर-दोष"
+        },
+        {
+          "no": 2,
+          "word": "கூறுவான் <br>(Kooruvaan)",
+          "ta": "கூறுபவனுடைய",
+          "en": "Who delights to tell",
+          "hi": "बोलने वाले के"
+        },
+        {
+          "no": 3,
+          "word": "தன்பழி <br>(Thanbazhi)",
+          "ta": "தனது குற்றங்களுள்",
+          "en": "His own sins",
+          "hi": "तुझमें जो दोष हैं"
+        },
+        {
+          "no": 4,
+          "word": "உள்ளுந் <br>(Ullundh)",
+          "ta": "உள்ளவற்றுள்ளும்",
+          "en": "Among them",
+          "hi": "उनमें से"
+        },
+        {
+          "no": 5,
+          "word": "திறன்தெரிந்து <br>(Thirandherindhu)",
+          "ta": "மிகத் தீயவற்றை ஆராய்ந்து",
+          "en": "Culled out with care",
+          "hi": "सबसे बुरे चुनकर"
+        },
+        {
+          "no": 6,
+          "word": "கூறப் <br>(Koorap)",
+          "ta": "சொல்லப்",
+          "en": "Will be told",
+          "hi": "घोष किया"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "படும்",
+          "en": "Shall be",
+          "hi": "जाता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பிறன்பழி கூறுவான் தன்பழி உள்ளுந்",
+          "line2": "திறன்தெரிந்து கூறப் படும்."
+        },
+        "en": {
+          "line1": "Who on his neighbours' sins delights to dwell,",
+          "line2": "The story of his sins, culled out with care, the world will tell."
+        },
+        "hi": {
+          "line1": "परदूषक यदि तू बना, तुझमें हैं जो दोष ।",
+          "line2": "उनमें चुन सबसे बुरे, वह करता है घोष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Piranbazhi Kooruvaan Thanbazhi Ullundh",
+            "line2": "Thirandherindhu Koorap Padum."
+          },
+          "hi": {
+            "line1": "पिरन्बऴि कूरुवान् तन्बऴि उळ्ळुन्",
+            "line2": "तिरन्दॆरिन्दु कूरप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறருடைய குற்றங்களைத் தேடிப் புறங்கூறுபவனுடைய குற்றங்களுள் மிகுந்தவை ஆராய்ந்து எடுத்துக் கூறப்படும்.",
+        "en": "Those who obsess over exposing other people's flaws will soon find their own worst faults scrutinized and broadcast in return.",
+        "hi": "यदि तुम दूसरों के दोष निकालने वाले (परदूषक) बनोगे, तो तुममें जो दोष हैं उनमें से सबसे बुरे दोषों को चुन-चुनकर संसार घोषित करेगा।"
+      }
+    },
+    {
+      "num": 187,
+      "line1": "பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி",
+      "line2": "நட்பாடல் தேற்றா தவர்.",
+      "enLine1": "With friendly art who know not pleasant words to say,",
+      "enLine2": "Speak words that sever hearts, and drive choice friends away.",
+      "hiLine1": "जो करते नहिं मित्रता, मधुर वचन हँस बोल ।",
+      "hiLine2": "अलग करावें बन्धु को, परोक्ष में कटु बोल ॥",
+      "general": "மகிழும்படி இனிய சொற்களைப் பேசி நட்புக்கொள்ளத் தெரியாதவர்கள், பிரிவு உண்டாகும்படி புறங்கூறி உறவினரையும் பிரித்துவிடுவார்கள்.",
+      "en": "Those who do not know how to speak pleasantly to win friendship will speak divisive words and estrange even close kin.",
+      "hi": "जो लोग हँसकर मधुर वचन बोलते हुए मित्रता करना नहीं जानते, वे पीठ पीछे कड़वे वचन बोलकर अपने बंधुओं को भी अलग करा देते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பகச்சொல்லிக் <br>(Pagachchollik)",
+          "ta": "பிரிவு உண்டாகும்படி பேசி",
+          "en": "Words that sever hearts",
+          "hi": "परोक्ष में कटु बोलकर"
+        },
+        {
+          "no": 2,
+          "word": "கேளிர்ப் <br>(Kelirp)",
+          "ta": "உறவினரையும்",
+          "en": "Choice friends / kin",
+          "hi": "बंधु को"
+        },
+        {
+          "no": 3,
+          "word": "பிரிப்பர் <br>(Pirippar)",
+          "ta": "பிரித்துவிடுவர்",
+          "en": "Drive away / sever",
+          "hi": "अलग करा देते हैं"
+        },
+        {
+          "no": 4,
+          "word": "நகச்சொல்லி <br>(Nagachcholli)",
+          "ta": "மகிழும்படி இனிதாகப் பேசி",
+          "en": "Pleasant words",
+          "hi": "हँसकर मधुर वचन बोल"
+        },
+        {
+          "no": 5,
+          "word": "நட்பாடல் <br>(Natpaadal)",
+          "ta": "நட்புக்கொள்ளுதலை",
+          "en": "Friendly art",
+          "hi": "मित्रता करना"
+        },
+        {
+          "no": 6,
+          "word": "தேற்றா <br>(Thetraa)",
+          "ta": "அறியா",
+          "en": "Know not",
+          "hi": "नहीं जानते"
+        },
+        {
+          "no": 7,
+          "word": "தவர் <br>(Dhavar)",
+          "ta": "தவர்",
+          "en": "Those who",
+          "hi": "जो लोग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி",
+          "line2": "நட்பாடல் தேற்றா தவர்."
+        },
+        "en": {
+          "line1": "With friendly art who know not pleasant words to say,",
+          "line2": "Speak words that sever hearts, and drive choice friends away."
+        },
+        "hi": {
+          "line1": "जो करते नहिं मित्रता, मधुर वचन हँस बोल ।",
+          "line2": "अलग करावें बन्धु को, परोक्ष में कटु बोल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pagachchollik Kelirp Pirippar Nagachcholli",
+            "line2": "Natpaadal Thetraa Dhavar."
+          },
+          "hi": {
+            "line1": "पगच्चॊल्लिक् केळिर्प् पिरिप्पर् नगच्चॊल्लि",
+            "line2": "नट्पाडल् तेत्रा दवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மகிழும்படி இனிய சொற்களைப் பேசி நட்புக்கொள்ளத் தெரியாதவர்கள், பிரிவு உண்டாகும்படி புறங்கூறி உறவினரையும் பிரித்துவிடுவார்கள்.",
+        "en": "People who lack the warmth to build friendships with kind words end up alienating even their closest companions through divisive gossip.",
+        "hi": "जो लोग हँसकर मधुर वचन बोलते हुए मित्रता करना नहीं जानते, वे पीठ पीछे कड़वे वचन बोलकर अपने बंधुओं को भी अलग करा देते हैं।"
+      }
+    },
+    {
+      "num": 188,
+      "line1": "துன்னியார் குற்றமும் தூற்றும் மரபினார்",
+      "line2": "என்னைகொல் ஏதிலார் மாட்டு.",
+      "enLine1": "Whose nature bids them faults of closest friends proclaim,",
+      "enLine2": "What mercy will they show to other men's good name ?",
+      "hiLine1": "मित्रों के भी दोष का, घोषण जिनका धर्म ।",
+      "hiLine2": "जाने अन्यों के प्रति, क्या क्या करें कुकर्म ॥",
+      "general": "நெருங்கிய நண்பர்களின் குற்றங்களையும் தூற்றித் திரியும் இயல்புடையவர்கள், அறிமுகமில்லாத அயலாரிடத்தில் என்ன தீமை செய்யமாட்டார்கள்?",
+      "en": "If it is a person's habit to proclaim the faults of their closest friends, what will they not do toward strangers?",
+      "hi": "जिन लोगों का स्वभाव अपने घनिष्ठ मित्रों के भी दोषों की घोषणा करना है, न जाने वे अनजान लोगों के प्रति क्या-क्या कुकर्म करते होंगे?",
+      "words": [
+        {
+          "no": 1,
+          "word": "துன்னியார் <br>(Thunniyaar)",
+          "ta": "நெருங்கிய நண்பரின்",
+          "en": "Closest friends'",
+          "hi": "मित्रों के भी"
+        },
+        {
+          "no": 2,
+          "word": "குற்றமும் <br>(Kutramum)",
+          "ta": "குற்றத்தையும்",
+          "en": "Faults",
+          "hi": "दोष का"
+        },
+        {
+          "no": 3,
+          "word": "தூற்றும் <br>(Thootrum)",
+          "ta": "புறங்கூறித் தூற்றும்",
+          "en": "Proclaim / slander",
+          "hi": "घोषण करना"
+        },
+        {
+          "no": 4,
+          "word": "மரபினார் <br>(Marabinaar)",
+          "ta": "இயல்புடையவர்",
+          "en": "Whose nature / habit",
+          "hi": "जिनका स्वभाव है"
+        },
+        {
+          "no": 5,
+          "word": "என்னைகொல் <br>(Ennaikol)",
+          "ta": "என்ன செய்யமாட்டார்",
+          "en": "What will they do",
+          "hi": "क्या-क्या कुकर्म करें"
+        },
+        {
+          "no": 6,
+          "word": "ஏதிலார் <br>(Edhilaar)",
+          "ta": "அயலாரிடத்தில்",
+          "en": "Other men / strangers",
+          "hi": "अन्यों के"
+        },
+        {
+          "no": 7,
+          "word": "மாட்டு <br>(Maattu)",
+          "ta": "இடத்தில்",
+          "en": "Toward",
+          "hi": "प्रति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "துன்னியார் குற்றமும் தூற்றும் மரபினார்",
+          "line2": "என்னைகொல் ஏதிலார் மாட்டு."
+        },
+        "en": {
+          "line1": "Whose nature bids them faults of closest friends proclaim,",
+          "line2": "What mercy will they show to other men's good name ?"
+        },
+        "hi": {
+          "line1": "मित्रों के भी दोष का, घोषण जिनका धर्म ।",
+          "line2": "जाने अन्यों के प्रति, क्या क्या करें कुकर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thunniyaar Kutramum Thootrum Marabinaar",
+            "line2": "Ennaikol Edhilaar Maattu."
+          },
+          "hi": {
+            "line1": "तुन्नियार् कुत्रमुम् तूत्रुम् मरबिनार्",
+            "line2": "एन्नैकॊल् एदिलार् माट्टु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நெருங்கிய நண்பர்களின் குற்றங்களையும் தூற்றித் திரியும் இயல்புடையவர்கள், அறிமுகமில்லாத அயலாரிடத்தில் என்ன தீமை செய்யமாட்டார்கள்?",
+        "en": "If someone cannot refrain from broadcasting the flaws of their closest friends, outsiders can expect no fairness from them at all.",
+        "hi": "जिन लोगों का स्वभाव अपने घनिष्ठ मित्रों के भी दोषों की घोषणा करना है, न जाने वे अनजान लोगों के प्रति क्या-क्या कुकर्म करते होंगे?"
+      }
+    },
+    {
+      "num": 189,
+      "line1": "அறனோக்கி ஆற்றுங்கொல் வையம் புறனோக்கிப்",
+      "line2": "புன்சொல் உரைப்பான் பொறை.",
+      "enLine1": "'Tis charity, I ween, that makes the earth sustain their load",
+      "enLine2": "Who, neighbours' absence watching, tales of slander tell abroad.",
+      "hiLine1": "क्षमाशीलता धर्म है, यों करके सुविचार ।",
+      "hiLine2": "क्या ढोती है भूमि भी, चुगलखोर का भार ॥",
+      "general": "ஒருவர் இல்லாத சமயம் பார்த்துப் புறங்கூறி இழிந்த சொற்களைப் பேசுபவனுடைய சுமையை, இந்த உலகம் 'பொறுமை அறம்' என்று கருதித் தாங்குகிறதோ?",
+      "en": "Is it out of regard for the virtue of charity that the earth bears the weight of him who watches for another's absence to speak slander?",
+      "hi": "शायद 'क्षमाशीलता ही धर्म है' ऐसा विचार करके ही यह पृथ्वी पीठ पीछे बुराई करने वाले चुगलखोरों का भार भी ढो रही है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறனோக்கி <br>(Aranokki)",
+          "ta": "அறத்தைக் கருதி",
+          "en": "Out of charity / virtue",
+          "hi": "धर्म का विचार कर"
+        },
+        {
+          "no": 2,
+          "word": "ஆற்றுங்கொல் <br>(Aatrungol)",
+          "ta": "பொறுத்துத் தாங்குகிறதோ",
+          "en": "Sustains perhaps",
+          "hi": "क्या ढोती है"
+        },
+        {
+          "no": 3,
+          "word": "வையம் <br>(Vaiyam)",
+          "ta": "இவ்வுலகம்",
+          "en": "The earth",
+          "hi": "भूमि भी"
+        },
+        {
+          "no": 4,
+          "word": "புறனோக்கிப் <br>(Puranokkip)",
+          "ta": "ஒருவர் இல்லாத சமயம் பார்த்து",
+          "en": "Watching absence",
+          "hi": "पीठ पीछे"
+        },
+        {
+          "no": 5,
+          "word": "புன்சொல் <br>(Punsol)",
+          "ta": "இழிந்த சொற்களை",
+          "en": "Tales of slander",
+          "hi": "बुराई"
+        },
+        {
+          "no": 6,
+          "word": "உரைப்பான் <br>(Uraippaan)",
+          "ta": "பேசுவோனின்",
+          "en": "Of him who tells",
+          "hi": "करने वाले चुगलखोर का"
+        },
+        {
+          "no": 7,
+          "word": "பொறை <br>(Porai)",
+          "ta": "சுமையை",
+          "en": "Load / burden",
+          "hi": "भार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறனோக்கி ஆற்றுங்கொல் வையம் புறனோக்கிப்",
+          "line2": "புன்சொல் உரைப்பான் பொறை."
+        },
+        "en": {
+          "line1": "'Tis charity, I ween, that makes the earth sustain their load",
+          "line2": "Who, neighbours' absence watching, tales of slander tell abroad."
+        },
+        "hi": {
+          "line1": "क्षमाशीलता धर्म है, यों करके सुविचार ।",
+          "line2": "क्या ढोती है भूमि भी, चुगलखोर का भार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aranokki Aatrungol Vaiyam Puranokkip",
+            "line2": "Punsol Uraippaan Porai."
+          },
+          "hi": {
+            "line1": "अरनोक्कि आत्रुंगॊल् वैयम् पुरनोक्किप्",
+            "line2": "पुन्सॊल् उरैप्पान् पॊरै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவர் இல்லாத சமயம் பார்த்துப் புறங்கூறி இழிந்த சொற்களைப் பேசுபவனுடைய சுமையை, இந்த உலகம் 'பொறுமை அறம்' என்று கருதித் தாங்குகிறதோ?",
+        "en": "It must be sheer forbearance that allows the earth to go on carrying the weight of people who wait for others to leave just to slander them.",
+        "hi": "शायद 'क्षमाशीलता ही धर्म है' ऐसा विचार करके ही यह पृथ्वी पीठ पीछे बुराई करने वाले चुगलखोरों का भार भी ढो रही है।"
+      }
+    },
+    {
+      "num": 190,
+      "line1": "ஏதிலார் குற்றம்போல் தங்குற்றம் காண்கிற்பின்",
+      "line2": "தீதுண்டோ மன்னும் உயிர்க்கு.",
+      "enLine1": "If each his own, as neighbours' faults would scan,",
+      "enLine2": "Could any evil hap to living man ?",
+      "hiLine1": "परछिद्रान्वेषण सदृश, यदि देखे निज दोष ।",
+      "hiLine2": "ति अविनाशी जीव का, क्यों हो दुख से शोष ॥",
+      "general": "பிறருடைய குற்றத்தை ஆராய்ந்து காண்பதுபோல், தம்முடைய குற்றத்தையும் ஒவ்வொருவர் காண்பாரானால், நிலைபெற்ற உயிர்களுக்குத் துன்பம் உண்டோ?",
+      "en": "If people would observe their own faults as keenly as they observe the faults of others, could any evil ever befall living beings?",
+      "hi": "जिस प्रकार मनुष्य दूसरों के दोष ढूँढता है, यदि उसी प्रकार वह अपने दोषों को देखने लगे, तो इस अविनाशी जीव को भला दुखों से कष्ट क्यों होगा?",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஏதிலார் <br>(Edhilaar)",
+          "ta": "அயலாரின்",
+          "en": "Neighbours'",
+          "hi": "दूसरों के"
+        },
+        {
+          "no": 2,
+          "word": "குற்றம்போல் <br>(Kutrambol)",
+          "ta": "குற்றத்தைக் காண்பதுபோல்",
+          "en": "As faults",
+          "hi": "दोष ढूँढने के समान"
+        },
+        {
+          "no": 3,
+          "word": "தங்குற்றம் <br>(Thangutram)",
+          "ta": "தமது குற்றத்தையும்",
+          "en": "His own faults",
+          "hi": "निज दोष"
+        },
+        {
+          "no": 4,
+          "word": "காண்கிற்பின் <br>(Kaankirpin)",
+          "ta": "காண்பாரானால்",
+          "en": "If one would scan",
+          "hi": "यदि देखे"
+        },
+        {
+          "no": 5,
+          "word": "தீதுண்டோ <br>(Theedhundoo)",
+          "ta": "துன்பம் உண்டோ",
+          "en": "Could any evil hap",
+          "hi": "क्यों हो दुख"
+        },
+        {
+          "no": 6,
+          "word": "மன்னும் <br>(Mannum)",
+          "ta": "நிலைபெற்ற",
+          "en": "Living / enduring",
+          "hi": "अविनाशी"
+        },
+        {
+          "no": 7,
+          "word": "உயிர்க்கு <br>(Uyirkku)",
+          "ta": "உயிர்களுக்கு",
+          "en": "To man / soul",
+          "hi": "जीव का"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஏதிலார் குற்றம்போல் தங்குற்றம் காண்கிற்பின்",
+          "line2": "தீதுண்டோ மன்னும் உயிர்க்கு."
+        },
+        "en": {
+          "line1": "If each his own, as neighbours' faults would scan,",
+          "line2": "Could any evil hap to living man ?"
+        },
+        "hi": {
+          "line1": "परछिद्रान्वेषण सदृश, यदि देखे निज दोष ।",
+          "line2": "ति अविनाशी जीव का, क्यों हो दुख से शोष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Edhilaar Kutrambol Thangutram Kaankirpin",
+            "line2": "Theedhundoo Mannum Uyirkku."
+          },
+          "hi": {
+            "line1": "एदिलार् कुत्रम्बोल् तंगुत्रम् काण्किर्पिन्",
+            "line2": "तीदुण्डो मन्नुम् उयिर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறருடைய குற்றத்தை ஆராய்ந்து காண்பதுபோல், தம்முடைய குற்றத்தையும் ஒவ்வொருவர் காண்பாரானால், நிலைபெற்ற உயிர்களுக்குத் துன்பம் உண்டோ?",
+        "en": "If everyone examined their own shortcomings with the same scrutiny they apply to others, much of human suffering would vanish.",
+        "hi": "जिस प्रकार मनुष्य दूसरों के दोष ढूँढता है, यदि उसी प्रकार वह अपने दोषों को देखने लगे, तो इस अविनाशी जीव को भला दुखों से कष्ट क्यों होगा?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "chapterNum": 40,
+  "nameTa": "கல்வி",
+  "nameEn": "Learning",
+  "nameHi": "शिक्षा",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 391,
+      "line1": "கற்க கசடறக் கற்பவை கற்றபின்",
+      "line2": "நிற்க வதற்குத் தக.",
+      "enLine1": "So learn that you may full and faultless learning gain,",
+      "enLine2": "Then in obedience meet to lessons learnt remain.",
+      "hiLine1": "सीख सीखने योग्य सब, भ्रम संशय बिन सीख ।",
+      "hiLine2": "कर उसके अनुसार फिर, योग्य आचरण ठीक ॥",
+      "general": "கற்கத் தகுந்த நூல்களைக் குற்றமறக் கற்க வேண்டும்; அவ்வாறு கற்ற பிறகு, கற்ற கல்விக்குத் தகுந்தபடி நல்வழியில் நடக்க வேண்டும்.",
+      "en": "Learn thoroughly and without flaw whatever is worthy to be learned; and after learning, live in accordance with what you have learned.",
+      "hi": "सीखने योग्य सभी विषयों को बिना किसी भ्रम और संशय के अच्छी तरह सीखना चाहिए, और फिर उस शिक्षा के अनुसार उचित आचरण करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கற்க <br>(Karka)",
+          "ta": "கற்க வேண்டும்",
+          "en": "So learn",
+          "hi": "सीख"
+        },
+        {
+          "no": 2,
+          "word": "கசடற <br>(Kasadara)",
+          "ta": "குற்றம் நீங்க",
+          "en": "Faultless",
+          "hi": "भ्रम संशय बिन"
+        },
+        {
+          "no": 3,
+          "word": "கற்பவை <br>(Karpavai)",
+          "ta": "கற்கத் தகுந்தவற்றை",
+          "en": "Worthy learning",
+          "hi": "सीखने योग्य सब"
+        },
+        {
+          "no": 4,
+          "word": "கற்றபின் <br>(Katrabin)",
+          "ta": "கற்ற பிறகு",
+          "en": "Lessons learnt",
+          "hi": "सीखने के बाद"
+        },
+        {
+          "no": 5,
+          "word": "நிற்க <br>(Nirka)",
+          "ta": "நிற்க வேண்டும்",
+          "en": "Remain",
+          "hi": "आचरण कर"
+        },
+        {
+          "no": 6,
+          "word": "அதற்கு <br>(Adharku)",
+          "ta": "அக்கல்விக்கு",
+          "en": "To it",
+          "hi": "उसके अनुसार"
+        },
+        {
+          "no": 7,
+          "word": "தக <br>(Thagha)",
+          "ta": "தகுந்தபடி",
+          "en": "In obedience meet",
+          "hi": "योग्य ठीक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கற்க கசடறக் கற்பவை கற்றபின்",
+          "line2": "நிற்க வதற்குத் தக."
+        },
+        "en": {
+          "line1": "So learn that you may full and faultless learning gain,",
+          "line2": "Then in obedience meet to lessons learnt remain."
+        },
+        "hi": {
+          "line1": "सीख सीखने योग्य सब, भ्रम संशय बिन सीख ।",
+          "line2": "कर उसके अनुसार फिर, योग्य आचरण ठीक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Karka Kasadarak Karpavai Katrabin",
+            "line2": "Nirka Adharkuth Thagha."
+          },
+          "hi": {
+            "line1": "कर्क कसडरक् कर्पवै कत्रबिन्",
+            "line2": "निर्क वदर्कुत् तग."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கற்கத் தகுந்த நூல்களைக் குற்றமறக் கற்க வேண்டும்; அவ்வாறு கற்ற பிறகு, கற்ற கல்விக்குத் தகுந்தபடி நல்வழியில் நடக்க வேண்டும்.",
+        "en": "Study what is truly worth knowing until you master it without error—and then let your daily conduct reflect what you've learned.",
+        "hi": "सीखने योग्य सभी विषयों को बिना किसी भ्रम और संशय के अच्छी तरह सीखना चाहिए, और फिर उस शिक्षा के अनुसार उचित आचरण करना चाहिए।"
+      }
+    },
+    {
+      "num": 392,
+      "line1": "எண்ணென்ப வேனை யெழுத்தென்ப விவ்விரண்டுங்",
+      "line2": "கண்ணென்ப வாழு முயிர்க்கு.",
+      "enLine1": "The twain that lore of numbers and of letters give",
+      "enLine2": "Are eyes, the wise declare, to all on earth that live.",
+      "hiLine1": "अक्षर कहते है जिसे, जिसको कहते आँक ।",
+      "hiLine2": "दोनों जीवित मनुज के, कहलाते हैं आँख ॥",
+      "general": "எண் என்று சொல்லப்படும் கணிதமும், எழுத்து என்று சொல்லப்படும் இலக்கியமும் ஆகிய இவ்விரண்டையும் வாழும் மக்களுக்குக் கண்கள் என்று அறிஞர் கூறுவர்.",
+      "en": "The wise say that numbers (mathematics) and letters (literature) are the two eyes of all living human beings.",
+      "hi": "जिसे 'अक्षर' (भाषा-साहित्य) कहते हैं और जिसे 'आँक' (गणित) कहते हैं, ये दोनों जीवित मनुष्य के दो नेत्र कहलाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எண் என்ப <br>(En enba)",
+          "ta": "கணிதம் என்பதும்",
+          "en": "Lore of numbers",
+          "hi": "आँक कहते हैं"
+        },
+        {
+          "no": 2,
+          "word": "ஏனை <br>(Enai)",
+          "ta": "மற்ற",
+          "en": "And",
+          "hi": "तथा"
+        },
+        {
+          "no": 3,
+          "word": "எழுத்து என்ப <br>(Ezhuththu enba)",
+          "ta": "இலக்கியம் என்பதும்",
+          "en": "Lore of letters",
+          "hi": "अक्षर कहते हैं"
+        },
+        {
+          "no": 4,
+          "word": "இவ்விரண்டும் <br>(Ivvirandum)",
+          "ta": "இவ்விரண்டும்",
+          "en": "The twain",
+          "hi": "दोनों"
+        },
+        {
+          "no": 5,
+          "word": "கண் என்ப <br>(Kan enba)",
+          "ta": "கண்கள் என்று கூறுவர்",
+          "en": "Are eyes, wise declare",
+          "hi": "कहलाते हैं आँख"
+        },
+        {
+          "no": 6,
+          "word": "வாழும் <br>(Vaazhum)",
+          "ta": "வாழ்கின்ற",
+          "en": "That live",
+          "hi": "जीवित"
+        },
+        {
+          "no": 7,
+          "word": "உயிர்க்கு <br>(Uyirkku)",
+          "ta": "மக்களுக்கு",
+          "en": "To all on earth",
+          "hi": "मनुज के"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எண்ணென்ப வேனை யெழுத்தென்ப விவ்விரண்டுங்",
+          "line2": "கண்ணென்ப வாழு முயிர்க்கு."
+        },
+        "en": {
+          "line1": "The twain that lore of numbers and of letters give",
+          "line2": "Are eyes, the wise declare, to all on earth that live."
+        },
+        "hi": {
+          "line1": "अक्षर कहते है जिसे, जिसको कहते आँक ।",
+          "line2": "दोनों जीवित मनुज के, कहलाते हैं आँख ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "En Enba Enai Ezhuththu Enba Ivvirandum",
+            "line2": "Kan Enba Vaazhum Uyirkku."
+          },
+          "hi": {
+            "line1": "ऎण्णॆन्ब वेनै यॆऴुत्तॆन्ब विव्विरण्डुङ्",
+            "line2": "कण्णॆन्ब वाऴु मुयिर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எண் என்று சொல்லப்படும் கணிதமும், எழுத்து என்று சொல்லப்படும் இலக்கியமும் ஆகிய இவ்விரண்டையும் வாழும் மக்களுக்குக் கண்கள் என்று அறிஞர் கூறுவர்.",
+        "en": "Literacy and numeracy—the worlds of letters and numbers—act as the two eyes through which every living person navigates life.",
+        "hi": "जिसे 'अक्षर' (भाषा-साहित्य) कहते हैं और जिसे 'आँक' (गणित) कहते हैं, ये दोनों जीवित मनुष्य के दो नेत्र कहलाते हैं।"
+      }
+    },
+    {
+      "num": 393,
+      "line1": "கண்ணுடைய ரென்பவர் கற்றோர் முகத்திரண்டு",
+      "line2": "புண்ணுடையர் கல்லா தவர்.",
+      "enLine1": "Men who learning gain have eyes, men say;",
+      "enLine2": "Blockheads' faces pairs of sores display.",
+      "hiLine1": "कहलाते हैं नेत्रयुत, जो हैं विद्यावान ।",
+      "hiLine2": "मुख पर रखते घाव दो, जो है अपढ़ अजान ॥",
+      "general": "கல்வி கற்றவர்களே கண்களை உடையவர் என்று கூறப்படுவார்; கல்வி கற்காதவர்கள் முகத்தில் இரண்டு புண்களை உடையவரே ஆவர்.",
+      "en": "Only the learned are said to truly possess eyes; the unlearned merely have two sores upon their faces.",
+      "hi": "जो लोग विद्यावान (शिक्षित) हैं, वे ही नेत्रयुक्त कहलाते हैं; जो अनपढ़ और अज्ञानी हैं, वे तो अपने मुख पर मानो दो घाव लिए घूमते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கண்ணுடையர் <br>(Kannudaiyar)",
+          "ta": "கண்களை உடையவர்",
+          "en": "Have eyes",
+          "hi": "नेत्रयुत"
+        },
+        {
+          "no": 2,
+          "word": "என்பவர் <br>(Enbavar)",
+          "ta": "என்று சொல்லப்படுவோர்",
+          "en": "Men say",
+          "hi": "कहलाते हैं"
+        },
+        {
+          "no": 3,
+          "word": "கற்றோர் <br>(Katror)",
+          "ta": "கல்வி கற்றவரே",
+          "en": "Who learning gain",
+          "hi": "जो हैं विद्यावान"
+        },
+        {
+          "no": 4,
+          "word": "முகத்து <br>(Mugaththu)",
+          "ta": "முகத்தில்",
+          "en": "Faces",
+          "hi": "मुख पर"
+        },
+        {
+          "no": 5,
+          "word": "இரண்டு <br>(Irandu)",
+          "ta": "இரண்டு",
+          "en": "Pairs of",
+          "hi": "दो"
+        },
+        {
+          "no": 6,
+          "word": "புண்ணுடையர் <br>(Punnudaiyar)",
+          "ta": "புண்களை உடையவர்",
+          "en": "Sores display",
+          "hi": "घाव रखते"
+        },
+        {
+          "no": 7,
+          "word": "கல்லாதவர் <br>(Kallaadhavar)",
+          "ta": "கல்லாதவர்கள்",
+          "en": "Blockheads / unlearned",
+          "hi": "जो है अपढ़ अजान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கண்ணுடைய ரென்பவர் கற்றோர் முகத்திரண்டு",
+          "line2": "புண்ணுடையர் கல்லா தவர்."
+        },
+        "en": {
+          "line1": "Men who learning gain have eyes, men say;",
+          "line2": "Blockheads' faces pairs of sores display."
+        },
+        "hi": {
+          "line1": "कहलाते हैं नेत्रयुत, जो हैं विद्यावान ।",
+          "line2": "मुख पर रखते घाव दो, जो है अपढ़ अजान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kannudaiyar Enbavar Katror Mugaththu Irandu",
+            "line2": "Punnudaiyar Kallaadhavar."
+          },
+          "hi": {
+            "line1": "कण्णुडैय रॆन्बवर् कत्रोर् मुगत्तिरण्डु",
+            "line2": "पुण्णुडैयर् कल्ला दवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கல்வி கற்றவர்களே கண்களை உடையவர் என்று கூறப்படுவார்; கல்வி கற்காதவர்கள் முகத்தில் இரண்டு புண்களை உடையவரே ஆவர்.",
+        "en": "Only educated minds truly have eyes to see the world; without learning, a person's eyes are no better than two sores on their face.",
+        "hi": "जो लोग विद्यावान (शिक्षित) हैं, वे ही नेत्रयुक्त कहलाते हैं; जो अनपढ़ और अज्ञानी हैं, वे तो अपने मुख पर मानो दो घाव लिए घूमते हैं।"
+      }
+    },
+    {
+      "num": 394,
+      "line1": "உவப்பத் தலைக்கூடி யுள்ளப் பிரித",
+      "line2": "லனைத்தே புலவர் தொழில்.",
+      "enLine1": "You meet with joy, with pleasant thought you part;",
+      "enLine2": "Such is the learned scholar's wondrous art!",
+      "hiLine1": "हर्षप्रद होता मिलन, चिन्ताजनक वियोग ।",
+      "hiLine2": "विद्वज्जन का धर्म है, ऐसा गुण-संयोग ॥",
+      "general": "கூடியிருக்கும்போது மகிழும்படிப் பழகி, பிரியும்போது 'இனி எப்போது இவர்களைச் சந்திப்போம்' என்று உள்ளம் ஏங்கும்படிப் பிரிவதே அறிஞர் தொழிலாகும்.",
+      "en": "To meet with joy and to part with the heartfelt longing of when they will meet again—such is the way of learned scholars.",
+      "hi": "विद्वानों से मिलना बड़ा हर्षप्रद होता है और उनसे बिछड़ना चिन्ताजनक (वियोग) लगता है—विद्वज्जन का यह स्वाभाविक गुण-संयोग ही उनका धर्म है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உவப்ப <br>(Uvappa)",
+          "ta": "மகிழும்படி",
+          "en": "With joy",
+          "hi": "हर्षप्रद"
+        },
+        {
+          "no": 2,
+          "word": "தலைக்கூடி <br>(Thalaikkoodi)",
+          "ta": "கூடிப் பழகி",
+          "en": "You meet",
+          "hi": "मिलन"
+        },
+        {
+          "no": 3,
+          "word": "உள்ள <br>(Ulla)",
+          "ta": "மீண்டும் காண எண்ணும்படி",
+          "en": "With pleasant thought",
+          "hi": "चिन्ताजनक"
+        },
+        {
+          "no": 4,
+          "word": "பிரிதல் <br>(Piridhal)",
+          "ta": "பிரிவதே",
+          "en": "You part",
+          "hi": "वियोग"
+        },
+        {
+          "no": 5,
+          "word": "அனைத்தே <br>(Anaiththe)",
+          "ta": "அத்தன்மையதே",
+          "en": "Such is",
+          "hi": "ऐसा गुण-संयोग"
+        },
+        {
+          "no": 6,
+          "word": "புலவர் <br>(Pulavar)",
+          "ta": "அறிஞர்களின்",
+          "en": "Learned scholar's",
+          "hi": "विद्वज्जन का"
+        },
+        {
+          "no": 7,
+          "word": "தொழில் <br>(Thozhil)",
+          "ta": "இயல்பு (தொழில்)",
+          "en": "Wondrous art",
+          "hi": "धर्म है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உவப்பத் தலைக்கூடி யுள்ளப் பிரித",
+          "line2": "லனைத்தே புலவர் தொழில்."
+        },
+        "en": {
+          "line1": "You meet with joy, with pleasant thought you part;",
+          "line2": "Such is the learned scholar's wondrous art!"
+        },
+        "hi": {
+          "line1": "हर्षप्रद होता मिलन, चिन्ताजनक वियोग ।",
+          "line2": "विद्वज्जन का धर्म है, ऐसा गुण-संयोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uvappath Thalaikkoodi Ullap Piridhal",
+            "line2": "Anaiththe Pulavar Thozhil."
+          },
+          "hi": {
+            "line1": "उवप्पत् तलैक्कूडि युळ्ळप् पिरिद",
+            "line2": "लनैत्ते पुलवर् तॊऴिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கூடியிருக்கும்போது மகிழும்படிப் பழகி, பிரியும்போது 'இனி எப்போது இவர்களைச் சந்திப்போம்' என்று உள்ளம் ஏங்கும்படிப் பிரிவதே அறிஞர் தொழிலாகும்.",
+        "en": "The charm of true scholars is that being with them brings pure joy, and parting leaves everyone eagerly wishing to meet again.",
+        "hi": "विद्वानों से मिलना बड़ा हर्षप्रद होता है और उनसे बिछड़ना चिन्ताजनक (वियोग) लगता है—विद्वज्जन का यह स्वाभाविक गुण-संयोग ही उनका धर्म है।"
+      }
+    },
+    {
+      "num": 395,
+      "line1": "உடையார்மு னில்லார்போ லேக்கற்றுங் கற்றார்",
+      "line2": "கடையரே கல்லா தவர்.",
+      "enLine1": "With soul submiss they stand, as paupers front a rich man's face;",
+      "enLine2": "Yet learned men are first; th' unlearned stand in lowest place.",
+      "hiLine1": "धनी समक्ष दरिद्र सम, झुक झुक हो कर दीन ।",
+      "hiLine2": "शिक्षित बनना श्रेष्ठ है, निकृष्ट विद्याहीन ॥",
+      "general": "செல்வர் முன்னே வறியவர் பணிந்து நின்று இரப்பது போல், ஆசிரியர் முன்னே பணிந்து நின்று கற்றவரே உயர்ந்தவர்; கல்லாதவர் இழிந்தவரே.",
+      "en": "Like paupers standing humbly before the rich, those who humbly learn from teachers are supreme; the unlearned remain lowest.",
+      "hi": "जैसे दरिद्र व्यक्ति धनी के सामने दीन होकर झुक-झुककर याचना करता है, वैसे ही गुरु के सामने विनम्र होकर शिक्षित बनना श्रेष्ठ है; विद्याहीन व्यक्ति ही निकृष्ट है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உடையார் முன் <br>(Udaiyaar mun)",
+          "ta": "செல்வர் முன்",
+          "en": "Rich man's face",
+          "hi": "धनी समक्ष"
+        },
+        {
+          "no": 2,
+          "word": "இல்லார் போல் <br>(Illaar pol)",
+          "ta": "வறியவர் போல",
+          "en": "As paupers",
+          "hi": "दरिद्र सम"
+        },
+        {
+          "no": 3,
+          "word": "ஏக்கற்றும் <br>(Ekkatrum)",
+          "ta": "பணிந்து ஏங்கிக்",
+          "en": "With soul submiss",
+          "hi": "झुक झुक हो कर दीन"
+        },
+        {
+          "no": 4,
+          "word": "கற்றார் <br>(Katraar)",
+          "ta": "கற்றவரே உயர்ந்தோர்",
+          "en": "Learned men are first",
+          "hi": "शिक्षित बनना श्रेष्ठ है"
+        },
+        {
+          "no": 5,
+          "word": "கடையரே <br>(Kadaiyare)",
+          "ta": "கடைப்பட்டவரே",
+          "en": "Lowest place",
+          "hi": "निकृष्ट"
+        },
+        {
+          "no": 6,
+          "word": "கல்லாது <br>(Kallaadhu)",
+          "ta": "கல்லாத",
+          "en": "Unlearned",
+          "hi": "विद्याहीन"
+        },
+        {
+          "no": 7,
+          "word": "அவர் <br>(Avar)",
+          "ta": "அவர்கள்",
+          "en": "Those",
+          "hi": "वे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உடையார்மு னில்லார்போ லேக்கற்றுங் கற்றார்",
+          "line2": "கடையரே கல்லா தவர்."
+        },
+        "en": {
+          "line1": "With soul submiss they stand, as paupers front a rich man's face;",
+          "line2": "Yet learned men are first; th' unlearned stand in lowest place."
+        },
+        "hi": {
+          "line1": "धनी समक्ष दरिद्र सम, झुक झुक हो कर दीन ।",
+          "line2": "शिक्षित बनना श्रेष्ठ है, निकृष्ट विद्याहीन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Udaiyaar Mun Illaar Pol Ekkatrung Katraar",
+            "line2": "Kadaiyare Kallaadhavar."
+          },
+          "hi": {
+            "line1": "उडैयार्मु निल्लार्पो लेक्कत्रुङ् कत्रार्",
+            "line2": "कडैयरे कल्ला दवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செல்வர் முன்னே வறியவர் பணிந்து நின்று இரப்பது போல், ஆசிரியர் முன்னே பணிந்து நின்று கற்றவரே உயர்ந்தவர்; கல்லாதவர் இழிந்தவரே.",
+        "en": "Even if a student has to stand as humbly before a teacher as a beggar before the wealthy, learning elevates them—while refusing to learn leaves one at the bottom.",
+        "hi": "जैसे दरिद्र व्यक्ति धनी के सामने दीन होकर झुक-झुककर याचना करता है, वैसे ही गुरु के सामने विनम्र होकर शिक्षित बनना श्रेष्ठ है; विद्याहीन व्यक्ति ही निकृष्ट है।"
+      }
+    },
+    {
+      "num": 396,
+      "line1": "தொட்டனைத் தூறு மணற்கேணி மாந்தர்க்குக்",
+      "line2": "கற்றனைத் தூறு மறிவு.",
+      "enLine1": "In sandy soil, when deep you delve, you reach the springs below;",
+      "enLine2": "The more you learn, the freer streams of wisdom flow.",
+      "hiLine1": "जितना खोदो पुलिन में, उतना नीर-निकास ।",
+      "hiLine2": "जितना शिक्षित नर बने, उतना बुद्धि-विकास ॥",
+      "general": "மணற்பாங்கான இடத்தில் தோண்டிய அளவிற்கு ஏற்ப நீர் ஊறும்; அதுபோல மக்களுக்குக் கற்ற அளவிற்கு ஏற்ப அறிவு பெருகும்.",
+      "en": "Water springs in a sandy well in proportion to how deep it is dug; likewise, wisdom grows in people in proportion to how much they learn.",
+      "hi": "रेत (पुलिन) में जितना गहरा खोदा जाता है, उतना ही अधिक पानी निकलता है; उसी प्रकार मनुष्य जितना अधिक शिक्षित बनता है, उसकी बुद्धि का उतना ही विकास होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தொட்டனைத்து <br>(Thottanaiththu)",
+          "ta": "தோண்டிய அளவிற்கு",
+          "en": "When deep you delve",
+          "hi": "जितना खोदो"
+        },
+        {
+          "no": 2,
+          "word": "ஊறும் <br>(Oorum)",
+          "ta": "நீர் ஊறும்",
+          "en": "Reach the springs",
+          "hi": "उतना नीर-निकास"
+        },
+        {
+          "no": 3,
+          "word": "மணற்கேணி <br>(Manarkeni)",
+          "ta": "மணற் கிணறு",
+          "en": "In sandy soil",
+          "hi": "पुलिन में"
+        },
+        {
+          "no": 4,
+          "word": "மாந்தர்க்கு <br>(Maandharkku)",
+          "ta": "மக்களுக்கு",
+          "en": "To people",
+          "hi": "नर को"
+        },
+        {
+          "no": 5,
+          "word": "கற்றனைத்து <br>(Katranaiththu)",
+          "ta": "கற்ற அளவிற்கு",
+          "en": "The more you learn",
+          "hi": "जितना शिक्षित बने"
+        },
+        {
+          "no": 6,
+          "word": "ஊறும் <br>(Oorum)",
+          "ta": "பெருகும்",
+          "en": "Streams flow",
+          "hi": "उतना विकास"
+        },
+        {
+          "no": 7,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "அறிவு",
+          "en": "Wisdom",
+          "hi": "बुद्धि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தொட்டனைத் தூறு மணற்கேணி மாந்தர்க்குக்",
+          "line2": "கற்றனைத் தூறு மறிவு."
+        },
+        "en": {
+          "line1": "In sandy soil, when deep you delve, you reach the springs below;",
+          "line2": "The more you learn, the freer streams of wisdom flow."
+        },
+        "hi": {
+          "line1": "जितना खोदो पुलिन में, उतना नीर-निकास ।",
+          "line2": "जितना शिक्षित नर बने, उतना बुद्धि-विकास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thottanaiththu Oorum Manarkeni Maandharkkuk",
+            "line2": "Katranaiththu Oorum Arivu."
+          },
+          "hi": {
+            "line1": "तॊट्टनैत् तूरु मणर्केणि मान्दर्क्कुक्",
+            "line2": "कत्रनैत् तूरु मरिवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மணற்பாங்கான இடத்தில் தோண்டிய அளவிற்கு ஏற்ப நீர் ஊறும்; அதுபோல மக்களுக்குக் கற்ற அளவிற்கு ஏற்ப அறிவு பெருகும்.",
+        "en": "Just as a sandy well yields more water the deeper you dig, your wisdom expands in direct measure to how deeply you learn.",
+        "hi": "रेत (पुलिन) में जितना गहरा खोदा जाता है, उतना ही अधिक पानी निकलता है; उसी प्रकार मनुष्य जितना अधिक शिक्षित बनता है, उसकी बुद्धि का उतना ही विकास होता है।"
+      }
+    },
+    {
+      "num": 397,
+      "line1": "யாதானு நாடாமா லூராமா லென்னொருவன்",
+      "line2": "சாந்துணையுங் கல்லாத வாறு.",
+      "enLine1": "The learned make each land their own, in every city find a home;",
+      "enLine2": "Who, till they die, learn nought, along what weary ways they roam!",
+      "hiLine1": "अपना है विद्वान का, कोई पुर या राज ।",
+      "hiLine2": "फिर क्यों रहता मृत्यु तक, कोई अपढ़ अकाज ॥",
+      "general": "கற்றவனுக்கு எந்த நாடும் தன் நாடே, எந்த ஊரும் தன் ஊரே; அப்படியிருக்க ஒருவன் சாகும்வரை கற்காமல் இருப்பது ஏனோ?",
+      "en": "To the learned, any country is their own country and any town is their own town; why then does someone remain unlearned until death?",
+      "hi": "विद्वान व्यक्ति के लिए हर नगर और हर राज्य अपना ही होता है; फिर भी न जाने क्यों कोई व्यक्ति मृत्यु तक अनपढ़ और निकम्मा बना रहता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "யாதானும் <br>(Yaadhaanum)",
+          "ta": "எதுவானாலும்",
+          "en": "Each / any",
+          "hi": "कोई"
+        },
+        {
+          "no": 2,
+          "word": "நாடாம் ஆல் <br>(Naadaam aal)",
+          "ta": "தன் நாடாகும்",
+          "en": "Land their own",
+          "hi": "अपना राज"
+        },
+        {
+          "no": 3,
+          "word": "ஊராம் ஆல் <br>(Ooraam aal)",
+          "ta": "தன் ஊராகும்",
+          "en": "City a home",
+          "hi": "पुर"
+        },
+        {
+          "no": 4,
+          "word": "என் <br>(En)",
+          "ta": "ஏன்",
+          "en": "Why",
+          "hi": "फिर क्यों"
+        },
+        {
+          "no": 5,
+          "word": "ஒருவன் <br>(Oruvan)",
+          "ta": "ஒருவன்",
+          "en": "Someone",
+          "hi": "कोई"
+        },
+        {
+          "no": 6,
+          "word": "சாந்துணையும் <br>(Saandhunaiyum)",
+          "ta": "சாகும் வரையும்",
+          "en": "Till they die",
+          "hi": "मृत्यु तक"
+        },
+        {
+          "no": 7,
+          "word": "கல்லாதவாறு <br>(Kallaadhavaaru)",
+          "ta": "கற்காமல் இருப்பது",
+          "en": "Learn nought",
+          "hi": "अपढ़ अकाज रहता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "யாதானு நாடாமா லூராமா லென்னொருவன்",
+          "line2": "சாந்துணையுங் கல்லாத வாறு."
+        },
+        "en": {
+          "line1": "The learned make each land their own, in every city find a home;",
+          "line2": "Who, till they die, learn nought, along what weary ways they roam!"
+        },
+        "hi": {
+          "line1": "अपना है विद्वान का, कोई पुर या राज ।",
+          "line2": "फिर क्यों रहता मृत्यु तक, कोई अपढ़ अकाज ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Yaadhaanum Naadaam Aal Ooraam Aal En Oruvan",
+            "line2": "Saandhunaiyung Kallaadha Vaaru."
+          },
+          "hi": {
+            "line1": "यादानु नाडामा लूरामा लॆन्नॊरुवन्",
+            "line2": "सान्दुणैयुङ् कल्लाद वारु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கற்றவனுக்கு எந்த நாடும் தன் நாடே, எந்த ஊரும் தன் ஊரே; அப்படியிருக்க ஒருவன் சாகும்வரை கற்காமல் இருப்பது ஏனோ?",
+        "en": "When learning makes every city and country feel like home, why would anyone go through their whole life without learning?",
+        "hi": "विद्वान व्यक्ति के लिए हर नगर और हर राज्य अपना ही होता है; फिर भी न जाने क्यों कोई व्यक्ति मृत्यु तक अनपढ़ और निकम्मा बना रहता है?"
+      }
+    },
+    {
+      "num": 398,
+      "line1": "ஒருமைக்கட் டான்கற்ற கல்வி யொருவற்",
+      "line2": "கெழுமையு மேமாப் புடைத்து.",
+      "enLine1": "The man who store of learning gains,",
+      "enLine2": "In one, through seven worlds, bliss attains.",
+      "hiLine1": "जो विद्या इक जन्म में, नर से पायी जाय ।",
+      "hiLine2": "सात जन्म तक भी उसे, करती वही सहाय ॥",
+      "general": "ஒரு பிறப்பில் தான் கற்ற கல்வியானது, ஒருவனுக்கு ஏழு பிறப்பிலும் தொடர்ந்து வந்து பாதுகாப்புத் தரும் வலிமை உடையதாகும்.",
+      "en": "The learning that a person acquires in a single birth yields protection and benefit across seven future births.",
+      "hi": "मनुष्य द्वारा एक जन्म में जो विद्या अर्जित की जाती है, वही विद्या अगले सात जन्मों तक भी उसकी सहायता और रक्षा करती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒருமைக்கண் <br>(Orumaikkan)",
+          "ta": "ஒரு பிறப்பில்",
+          "en": "In one birth",
+          "hi": "इक जन्म में"
+        },
+        {
+          "no": 2,
+          "word": "தான் கற்ற <br>(Thaan katra)",
+          "ta": "தான் கற்ற",
+          "en": "Gains",
+          "hi": "पायी जाय"
+        },
+        {
+          "no": 3,
+          "word": "கல்வி <br>(Kalvi)",
+          "ta": "கல்வி",
+          "en": "Learning",
+          "hi": "जो विद्या"
+        },
+        {
+          "no": 4,
+          "word": "ஒருவற்கு <br>(Oruvarku)",
+          "ta": "ஒருவனுக்கு",
+          "en": "To the man",
+          "hi": "नर को / उसे"
+        },
+        {
+          "no": 5,
+          "word": "எழுமையும் <br>(Ezhumaiyum)",
+          "ta": "ஏழு பிறப்பிலும்",
+          "en": "Through seven worlds",
+          "hi": "सात जन्म तक भी"
+        },
+        {
+          "no": 6,
+          "word": "ஏமாப்பு <br>(Emaappu)",
+          "ta": "பாதுகாப்பை",
+          "en": "Bliss / protection",
+          "hi": "सहाय"
+        },
+        {
+          "no": 7,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "உடையது",
+          "en": "Attains",
+          "hi": "करती वही"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒருமைக்கட் டான்கற்ற கல்வி யொருவற்",
+          "line2": "கெழுமையு மேமாப் புடைத்து."
+        },
+        "en": {
+          "line1": "The man who store of learning gains,",
+          "line2": "In one, through seven worlds, bliss attains."
+        },
+        "hi": {
+          "line1": "जो विद्या इक जन्म में, नर से पायी जाय ।",
+          "line2": "सात जन्म तक भी उसे, करती वही सहाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Orumaikkan Thaan Katra Kalvi Oruvarku",
+            "line2": "Ezhumaiyum Emaappu Udaiththu."
+          },
+          "hi": {
+            "line1": "ऒरुमैक्कण् टान्कत्र कल्वि यॊरुवर्",
+            "line2": "कॆऴुमैयु मेमाप् पुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு பிறப்பில் தான் கற்ற கல்வியானது, ஒருவனுக்கு ஏழு பிறப்பிலும் தொடர்ந்து வந்து பாதுகாப்புத் தரும் வலிமை உடையதாகும்.",
+        "en": "The knowledge you earn in one lifetime stays with you as a lasting safeguard for generations and lifetimes to come.",
+        "hi": "मनुष्य द्वारा एक जन्म में जो विद्या अर्जित की जाती है, वही विद्या अगले सात जन्मों तक भी उसकी सहायता और रक्षा करती है।"
+      }
+    },
+    {
+      "num": 399,
+      "line1": "தாமின் புறுவ துலகின் புறக்கண்டு",
+      "line2": "காமுறுவர் கற்றறிந் தார்.",
+      "enLine1": "Their joy is joy of all the world, they see; thus more",
+      "enLine2": "The learners learn to love their cherished lore.",
+      "hiLine1": "हर्ष हेतु अपने लिये, वैसे जग हित जान ।",
+      "hiLine2": "उस विद्या में और रत, होते हैं विद्वान ॥",
+      "general": "தாம் இன்புறுவதற்குக் காரணமான கல்வியால் உலகமும் இன்புறுவதைக் கண்டு, கற்றறிந்த அறிஞர்கள் மேலும் மேலும் அக்கல்வியை விரும்புவர்.",
+      "en": "Seeing that the learning which delights them also brings joy to the whole world, scholars grow to love learning even more.",
+      "hi": "जिस विद्या को अपने लिए हर्ष का कारण और संसार के लिए हितकारी जानते हैं, विद्वान लोग उसी विद्या में और भी अधिक रत (तल्लीन) होते जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தாம் இன்புறுவது <br>(Thaam inburuvadhu)",
+          "ta": "தாம் இன்புறும் கல்வி",
+          "en": "Their joy",
+          "hi": "अपने लिये हर्ष हेतु"
+        },
+        {
+          "no": 2,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "உலகம்",
+          "en": "All the world",
+          "hi": "जग"
+        },
+        {
+          "no": 3,
+          "word": "இன்புற <br>(Inbura)",
+          "ta": "மகிழ்ச்சி அடைவதை",
+          "en": "Joy of",
+          "hi": "हित जान"
+        },
+        {
+          "no": 4,
+          "word": "கண்டு <br>(Kandu)",
+          "ta": "பார்த்து",
+          "en": "They see",
+          "hi": "देखकर"
+        },
+        {
+          "no": 5,
+          "word": "காமுறுவர் <br>(Kaamuruvar)",
+          "ta": "மேலும் விரும்புவர்",
+          "en": "Love more",
+          "hi": "और रत होते हैं"
+        },
+        {
+          "no": 6,
+          "word": "கற்று <br>(Katru)",
+          "ta": "கற்று",
+          "en": "The learners",
+          "hi": "उस विद्या में"
+        },
+        {
+          "no": 7,
+          "word": "அறிந்தார் <br>(Arindhaar)",
+          "ta": "அறிந்தவர்கள்",
+          "en": "Who know",
+          "hi": "विद्वान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தாமின் புறுவ துலகின் புறக்கண்டு",
+          "line2": "காமுறுவர் கற்றறிந் தார்."
+        },
+        "en": {
+          "line1": "Their joy is joy of all the world, they see; thus more",
+          "line2": "The learners learn to love their cherished lore."
+        },
+        "hi": {
+          "line1": "हर्ष हेतु अपने लिये, वैसे जग हित जान ।",
+          "line2": "उस विद्या में और रत, होते हैं विद्वान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thaam Inburuvadhu Ulagu Inburak Kandu",
+            "line2": "Kaamuruvar Katrarindhaar."
+          },
+          "hi": {
+            "line1": "तामिन् पुरुव दुलगिन् पुरक्कण्डु",
+            "line2": "कामुरुवर् कत्ररिन् दार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தாம் இன்புறுவதற்குக் காரணமான கல்வியால் உலகமும் இன்புறுவதைக் கண்டு, கற்றறிந்த அறிஞர்கள் மேலும் மேலும் அக்கல்வியை விரும்புவர்.",
+        "en": "When scholars see that the same knowledge that brings them joy also benefits the world, they fall in love with learning all over again.",
+        "hi": "जिस विद्या को अपने लिए हर्ष का कारण और संसार के लिए हितकारी जानते हैं, विद्वान लोग उसी विद्या में और भी अधिक रत (तल्लीन) होते जाते हैं।"
+      }
+    },
+    {
+      "num": 400,
+      "line1": "கேடில் விழுச்செல்வங் கல்வி யொருவற்கு",
+      "line2": "மாடல்ல மற்றை யவை.",
+      "enLine1": "Learning is excellence of wealth that none destroy;",
+      "enLine2": "To man nought else affords reality of joy.",
+      "hiLine1": "शिक्षा-धन है मनुज हित, अक्षय और यथेष्ट ।",
+      "hiLine2": "अन्य सभी संपत्तियाँ, होती हैं नहिं श्रेष्ठ ॥",
+      "general": "ஒருவனுக்கு அழிவில்லாத சிறந்த செல்வம் கல்வியே ஆகும்; மற்ற பொருட்செல்வங்கள் எல்லாம் நிலையான செல்வங்கள் அல்ல.",
+      "en": "Imperishable and supreme wealth for a person is learning; all other material possessions are not true wealth.",
+      "hi": "मनुष्य के लिए शिक्षा रूपी धन ही अक्षय (अविनाशी) और पर्याप्त श्रेष्ठ धन है; अन्य सभी भौतिक संपत्तियाँ उतनी श्रेष्ठ नहीं होतीं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கேடில் <br>(Kedil)",
+          "ta": "அழிவில்லாத",
+          "en": "None destroy",
+          "hi": "अक्षय"
+        },
+        {
+          "no": 2,
+          "word": "விழுச்செல்வம் <br>(Vizhuchchelvam)",
+          "ta": "சிறந்த செல்வம்",
+          "en": "Excellence of wealth",
+          "hi": "यथेष्ट धन"
+        },
+        {
+          "no": 3,
+          "word": "கல்வி <br>(Kalvi)",
+          "ta": "கல்வியே",
+          "en": "Learning",
+          "hi": "शिक्षा-धन"
+        },
+        {
+          "no": 4,
+          "word": "ஒருவற்கு <br>(Oruvarku)",
+          "ta": "ஒருவனுக்கு",
+          "en": "To man",
+          "hi": "मनुज हित"
+        },
+        {
+          "no": 5,
+          "word": "மாடு அல்ல <br>(Maadu alla)",
+          "ta": "செல்வங்கள் அல்ல",
+          "en": "Nought else wealth",
+          "hi": "होती हैं नहिं श्रेष्ठ"
+        },
+        {
+          "no": 6,
+          "word": "மற்றை <br>(Matrai)",
+          "ta": "மற்ற",
+          "en": "Other",
+          "hi": "अन्य सभी"
+        },
+        {
+          "no": 7,
+          "word": "அவை <br>(Avai)",
+          "ta": "பொருள்கள்",
+          "en": "Those",
+          "hi": "संपत्तियाँ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கேடில் விழுச்செல்வங் கல்வி யொருவற்கு",
+          "line2": "மாடல்ல மற்றை யவை."
+        },
+        "en": {
+          "line1": "Learning is excellence of wealth that none destroy;",
+          "line2": "To man nought else affords reality of joy."
+        },
+        "hi": {
+          "line1": "शिक्षा-धन है मनुज हित, अक्षय और यथेष्ट ।",
+          "line2": "अन्य सभी संपत्तियाँ, होती हैं नहिं श्रेष्ठ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kedil Vizhuchchelvam Kalvi Oruvarku",
+            "line2": "Maadu Alla Matrai Avai."
+          },
+          "hi": {
+            "line1": "केडिल् विऴुच्चॆल्वङ् कल्वि यॊरुवर्कु",
+            "line2": "माडल्ल मत्रै यवै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவனுக்கு அழிவில்லாத சிறந்த செல்வம் கல்வியே ஆகும்; மற்ற பொருட்செல்வங்கள் எல்லாம் நிலையான செல்வங்கள் அல்ல.",
+        "en": "Education is the only treasure that can never be stolen or lost; everything else we call wealth is temporary.",
+        "hi": "मनुष्य के लिए शिक्षा रूपी धन ही अक्षय (अविनाशी) और पर्याप्त श्रेष्ठ धन है; अन्य सभी भौतिक संपत्तियाँ उतनी श्रेष्ठ नहीं होतीं।"
+      }
+    }
+  ]
+}

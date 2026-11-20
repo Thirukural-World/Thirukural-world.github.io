@@ -1,0 +1,930 @@
+{
+  "chapterNum": 35,
+  "nameTa": "துறவு",
+  "nameEn": "Renunciation",
+  "nameHi": "संन्यास",
+  "paal": "அறத்துப்பால்",
+  "iyal": "துறவறவியல்",
+  "kurals": [
+    {
+      "num": 341,
+      "line1": "யாதனின் யாதனின் நீங்கியான் நோதல்",
+      "line2": "அதனின் அதனின் இலன்.",
+      "enLine1": "From whatever, aye, whatever, man gets free,",
+      "enLine2": "From that, aye, from that, no more of pain hath he!",
+      "hiLine1": "ज्यों ज्यों मिटती जायगी, जिस जिसमें आसक्ति ।",
+      "hiLine2": "त्यों त्यों तद्गत दुःख से, मुक्त हो रहा व्यक्ति ॥",
+      "general": "ஒருவன் எந்தெந்தப் பொருள்களின் மீதுள்ள பற்றிலிருந்து நீங்குகிறானோ, அந்தந்தப் பொருள்களால் வரும் துன்பம் அவனுக்கு இல்லாமல் போகும்.",
+      "en": "From whatever object a person detaches himself, from that very object he ceases to suffer pain.",
+      "hi": "जिस-जिस वस्तु में मनुष्य की आसक्ति ज्यों-ज्यों मिटती जाएगी, त्यों-त्यों वह व्यक्ति उस वस्तु से होने वाले दुख से मुक्त होता जाएगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "யாதனின் யாதனின் <br>(Yaadhanin yaadhanin)",
+          "ta": "எந்தெந்தப் பொருளிலிருந்து",
+          "en": "From whatever, aye, whatever",
+          "hi": "जिस जिसमें"
+        },
+        {
+          "no": 2,
+          "word": "நீங்கியான் <br>(Neengiyaan)",
+          "ta": "பற்று நீங்கியவன்",
+          "en": "Man gets free",
+          "hi": "आसक्ति मिटती जायगी"
+        },
+        {
+          "no": 3,
+          "word": "நோதல் <br>(Nodhal)",
+          "ta": "துன்பப்படுதல்",
+          "en": "Pain",
+          "hi": "दुःख से"
+        },
+        {
+          "no": 4,
+          "word": "அதனின் <br>(Adhanin)",
+          "ta": "அந்தப் பொருளினால்",
+          "en": "From that",
+          "hi": "तद्गत"
+        },
+        {
+          "no": 5,
+          "word": "அதனின் <br>(Adhanin)",
+          "ta": "அந்த அளவிற்கு",
+          "en": "Aye, from that",
+          "hi": "त्यों त्यों"
+        },
+        {
+          "no": 6,
+          "word": "இலன் <br>(Ilan)",
+          "ta": "இல்லாதவன் ஆவான்",
+          "en": "No more hath he",
+          "hi": "मुक्त हो रहा व्यक्ति"
+        },
+        {
+          "no": 7,
+          "word": "நீங்கியா னோதல் <br>(Neengiyaanodhal)",
+          "ta": "நீங்கியவனது துன்பம்",
+          "en": "Free from suffering",
+          "hi": "दुख से मुक्ति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "யாதனின் யாதனின் நீங்கியான் நோதல்",
+          "line2": "அதனின் அதனின் இலன்."
+        },
+        "en": {
+          "line1": "From whatever, aye, whatever, man gets free,",
+          "line2": "From that, aye, from that, no more of pain hath he!"
+        },
+        "hi": {
+          "line1": "ज्यों ज्यों मिटती जायगी, जिस जिसमें आसक्ति ।",
+          "line2": "त्यों त्यों तद्गत दुःख से, मुक्त हो रहा व्यक्ति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Yaadhanin Yaadhanin Neengiyaan Nodhal",
+            "line2": "Adhanin Adhanin Ilan."
+          },
+          "hi": {
+            "line1": "यादनिन् यादनिन् नीङ्गियान् नोदल्",
+            "line2": "अदनिन् अदनिन् इलन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் எந்தெந்தப் பொருள்களின் மீதுள்ள பற்றிலிருந்து நீங்குகிறானோ, அந்தந்தப் பொருள்களால் வரும் துன்பம் அவனுக்கு இல்லாமல் போகும்.",
+        "en": "Every attachment you let go of is one less source of sorrow in your life.",
+        "hi": "जिस-जिस वस्तु में मनुष्य की आसक्ति ज्यों-ज्यों मिटती जाएगी, त्यों-त्यों वह व्यक्ति उस वस्तु से होने वाले दुख से मुक्त होता जाएगा।"
+      }
+    },
+    {
+      "num": 342,
+      "line1": "வேண்டினுண் டாகத் துறக்க துறந்தபி",
+      "line2": "னீண்டியற் பால பல.",
+      "enLine1": "'Renunciation' made—ev'n here true pleasures men acquire;",
+      "enLine2": "'Renounce' while time is yet, if to those pleasures you aspire.",
+      "hiLine1": "संन्यासी यदि बन गया, यहीं कई आनन्द ।",
+      "hiLine2": "संन्यासी बन समय पर, यदि होना आनन्द ॥",
+      "general": "இன்பங்கள் பலவற்றையும் விரும்பினால், உரிய காலத்திலேயே பற்றுகளைத் துறக்க வேண்டும்; துறந்த பின் இவ்வுலகிலேயே அடையத்தக்க நன்மைகள் பல உண்டு.",
+      "en": "If one desires many lasting joys, one should renounce attachments in time; after renunciation, many great blessings follow even here.",
+      "hi": "यदि तुम जीवन में सच्चे और अनेक आनन्द पाना चाहते हो, तो समय रहते ही संन्यासी (विरक्त) बन जाओ; त्याग करने पर यहीं अनेक आनन्द प्राप्त होते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வேண்டின் <br>(Vendin)",
+          "ta": "விரும்பினால்",
+          "en": "If you aspire",
+          "hi": "यदि होना"
+        },
+        {
+          "no": 2,
+          "word": "உண்டாக <br>(Undaagha)",
+          "ta": "அவை உண்டாகும்படி",
+          "en": "To acquire",
+          "hi": "कई आनन्द"
+        },
+        {
+          "no": 3,
+          "word": "துறக்க <br>(Thurakka)",
+          "ta": "பற்றுகளைத் துறக்க வேண்டும்",
+          "en": "Renounce",
+          "hi": "संन्यासी बन"
+        },
+        {
+          "no": 4,
+          "word": "துறந்தபின் <br>(Thurandhabin)",
+          "ta": "துறந்த பிறகு",
+          "en": "Renunciation made",
+          "hi": "संन्यासी यदि बन गया"
+        },
+        {
+          "no": 5,
+          "word": "ஈண்டு <br>(Eendu)",
+          "ta": "இவ்வுலகிலேயே",
+          "en": "Ev'n here",
+          "hi": "यहीं"
+        },
+        {
+          "no": 6,
+          "word": "இயற்பால <br>(Iyarpala)",
+          "ta": "அடையத்தக்கவை",
+          "en": "True pleasures",
+          "hi": "आनन्द"
+        },
+        {
+          "no": 7,
+          "word": "பல <br>(Pala)",
+          "ta": "பலவாகும்",
+          "en": "Many",
+          "hi": "कई"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வேண்டினுண் டாகத் துறக்க துறந்தபி",
+          "line2": "னீண்டியற் பால பல."
+        },
+        "en": {
+          "line1": "'Renunciation' made—ev'n here true pleasures men acquire;",
+          "line2": "'Renounce' while time is yet, if to those pleasures you aspire."
+        },
+        "hi": {
+          "line1": "संन्यासी यदि बन गया, यहीं कई आनन्द ।",
+          "line2": "संन्यासी बन समय पर, यदि होना आनन्द ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vendin Undaaghath Thurakka Thurandhabin",
+            "line2": "Eendu Iyarpala Pala."
+          },
+          "hi": {
+            "line1": "वेण्डिनुण् डागत् तुरक्क तुरन्दबि",
+            "line2": "नीण्डियर् पाल पल."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இன்பங்கள் பலவற்றையும் விரும்பினால், உரிய காலத்திலேயே பற்றுகளைத் துறக்க வேண்டும்; துறந்த பின் இவ்வுலகிலேயே அடையத்தக்க நன்மைகள் பல உண்டு.",
+        "en": "Let go of worldly cravings while you still have time—true renunciation brings deep, lasting peace and joy right here in this life.",
+        "hi": "यदि तुम जीवन में सच्चे और अनेक आनन्द पाना चाहते हो, तो समय रहते ही संन्यासी (विरक्त) बन जाओ; त्याग करने पर यहीं अनेक आनन्द प्राप्त होते हैं।"
+      }
+    },
+    {
+      "num": 343,
+      "line1": "அடல்வேண்டும் ஐந்தின் புலத்தை விடல்வேண்டும்",
+      "line2": "வேண்டிய எல்லாம் ஒருங்கு.",
+      "enLine1": "'Perceptions of the five' must all expire;—",
+      "enLine2": "Relinquished in its order each desire.",
+      "hiLine1": "दृढ़ता से करना दमन, पंचेन्द्रियगत राग ।",
+      "hiLine2": "उनके प्रेरक वस्तु सब, करो एकदम त्याग ॥",
+      "general": "ஐம்பொறிகளின் வழியாகச் செல்லும் ஆசைகளை அடக்க வேண்டும்; அதோடு அவை விரும்பிய பொருள்களை எல்லாம் ஒருசேர விட்டுவிட வேண்டும்.",
+      "en": "One must subdue the cravings of the five senses, and at the same time completely abandon all the objects they desire.",
+      "hi": "पाँचों इन्द्रियों के राग (विषय-वासना) का दृढ़ता से दमन करना चाहिए, और उन इन्द्रियों को प्रेरित करने वाली सभी वस्तुओं का एक साथ त्याग कर देना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அடல் வேண்டும் <br>(Adal vendum)",
+          "ta": "அடக்க வேண்டும்",
+          "en": "Must expire / subdue",
+          "hi": "दृढ़ता से करना दमन"
+        },
+        {
+          "no": 2,
+          "word": "ஐந்தின் <br>(Aindhin)",
+          "ta": "ஐம்பொறிகளின்",
+          "en": "Of the five",
+          "hi": "पंचेन्द्रियगत"
+        },
+        {
+          "no": 3,
+          "word": "புலத்தை <br>(Pulaththai)",
+          "ta": "புலன்களை",
+          "en": "Perceptions",
+          "hi": "राग"
+        },
+        {
+          "no": 4,
+          "word": "விடல் வேண்டும் <br>(Vidal vendum)",
+          "ta": "விட வேண்டும்",
+          "en": "Relinquished",
+          "hi": "करो त्याग"
+        },
+        {
+          "no": 5,
+          "word": "வேண்டிய <br>(Vendiya)",
+          "ta": "விரும்பியவற்றை",
+          "en": "Each desire",
+          "hi": "उनके प्रेरक वस्तु"
+        },
+        {
+          "no": 6,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாவற்றையும்",
+          "en": "All",
+          "hi": "सब"
+        },
+        {
+          "no": 7,
+          "word": "ஒருங்கு <br>(Orungu)",
+          "ta": "ஒருசேர",
+          "en": "In its order / together",
+          "hi": "एकदम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அடல்வேண்டும் ஐந்தின் புலத்தை விடல்வேண்டும்",
+          "line2": "வேண்டிய எல்லாம் ஒருங்கு."
+        },
+        "en": {
+          "line1": "'Perceptions of the five' must all expire;—",
+          "line2": "Relinquished in its order each desire."
+        },
+        "hi": {
+          "line1": "दृढ़ता से करना दमन, पंचेन्द्रियगत राग ।",
+          "line2": "उनके प्रेरक वस्तु सब, करो एकदम त्याग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Adalvendu Maindhin Pulaththai Vidalvendum",
+            "line2": "Vendiya Ellaam Orungu."
+          },
+          "hi": {
+            "line1": "अडल्वेण्डु मैन्दिन् पुलत्तै विडल्वेण्डुम्",
+            "line2": "वेण्डिय ऎल्लाम् ऒरुङ्गु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஐம்பொறிகளின் வழியாகச் செல்லும் ஆசைகளை அடக்க வேண்டும்; அதோடு அவை விரும்பிய பொருள்களை எல்லாம் ஒருசேர விட்டுவிட வேண்டும்.",
+        "en": "Master the pull of the five senses, and let go of all the tempting things they crave at once.",
+        "hi": "पाँचों इन्द्रियों के राग (विषय-वासना) का दृढ़ता से दमन करना चाहिए, और उन इन्द्रियों को प्रेरित करने वाली सभी वस्तुओं का एक साथ त्याग कर देना चाहिए।"
+      }
+    },
+    {
+      "num": 344,
+      "line1": "இயல்பாகு நோன்பிற்கொன் றின்மை யுடைமை",
+      "line2": "மயலாகு மற்றும் பெயர்த்து.",
+      "enLine1": "'Privation absolute' is penance true;",
+      "enLine2": "'Possession' brings bewilderment anew.",
+      "hiLine1": "सर्वसंग का त्याग ही, तप का है गुण-मूल ।",
+      "hiLine2": "बन्धन फिर तप भंग कर, बने अविद्या-मूल ॥",
+      "general": "தவத்திற்கு இயல்பாவது எப்பொருளையும் உடைமையாகக் கொள்ளாதிருப்பதே; பொருள்களை உடைமையாகக் கொள்ளுதல் மீண்டும் மயக்கத்தைத் தந்துவிடும்.",
+      "en": "Possessing nothing at all is the true nature of austerity; holding onto possessions brings delusion back again.",
+      "hi": "सभी प्रकार के संग्रह और लगाव का त्याग करना ही तप का मूल गुण है; किसी वस्तु का बंधन (परिग्रह) फिर से तप को भंग कर अज्ञान का कारण बन जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இயல்பாகும் <br>(Iyalbaagum)",
+          "ta": "இயல்பாகும்",
+          "en": "Is true nature",
+          "hi": "गुण-मूल है"
+        },
+        {
+          "no": 2,
+          "word": "நோன்பிற்கு <br>(Nonbirku)",
+          "ta": "தவத்திற்கு",
+          "en": "Penance",
+          "hi": "तप का"
+        },
+        {
+          "no": 3,
+          "word": "ஒன்றின்மை <br>(Ondrinnmai)",
+          "ta": "ஒன்றுமில்லாதிருத்தல்",
+          "en": "Privation absolute",
+          "hi": "सर्वसंग का त्याग ही"
+        },
+        {
+          "no": 4,
+          "word": "உடைமை <br>(Udaimai)",
+          "ta": "உடைமை கொள்ளுதல்",
+          "en": "Possession",
+          "hi": "बन्धन"
+        },
+        {
+          "no": 5,
+          "word": "மயலாகும் <br>(Mayalaagum)",
+          "ta": "மயக்கமாகும்",
+          "en": "Bewilderment",
+          "hi": "अविद्या-मूल बने"
+        },
+        {
+          "no": 6,
+          "word": "மற்றும் <br>(Matrum)",
+          "ta": "மீண்டும்",
+          "en": "Again",
+          "hi": "फिर"
+        },
+        {
+          "no": 7,
+          "word": "பெயர்த்து <br>(Peyarththu)",
+          "ta": "மாறி",
+          "en": "Anew",
+          "hi": "तप भंग कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இயல்பாகு நோன்பிற்கொன் றின்மை யுடைமை",
+          "line2": "மயலாகு மற்றும் பெயர்த்து."
+        },
+        "en": {
+          "line1": "'Privation absolute' is penance true;",
+          "line2": "'Possession' brings bewilderment anew."
+        },
+        "hi": {
+          "line1": "सर्वसंग का त्याग ही, तप का है गुण-मूल ।",
+          "line2": "बन्धन फिर तप भंग कर, बने अविद्या-मूल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Iyalbaagum Nonbirku Ondrinnmai Udaimai",
+            "line2": "Mayalaagum Matrum Peyarththu."
+          },
+          "hi": {
+            "line1": "इयल्बागु नोन्पिर्कॊन् रिन्मै युडैमै",
+            "line2": "मयलागु मत्रुम् पॆयर्त्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தவத்திற்கு இயல்பாவது எப்பொருளையும் உடைமையாகக் கொள்ளாதிருப்பதே; பொருள்களை உடைமையாகக் கொள்ளுதல் மீண்டும் மயக்கத்தைத் தந்துவிடும்.",
+        "en": "True spiritual discipline means owning nothing; clinging to possessions only drags you back into confusion.",
+        "hi": "सभी प्रकार के संग्रह और लगाव का त्याग करना ही तप का मूल गुण है; किसी वस्तु का बंधन (परिग्रह) फिर से तप को भंग कर अज्ञान का कारण बन जाता है।"
+      }
+    },
+    {
+      "num": 345,
+      "line1": "மற்றுந் தொடர்ப்பா டெவன்கொல் பிறப்பறுக்க",
+      "line2": "லுற்றார்க் குடம்பு மிகை.",
+      "enLine1": "To those who sev'rance seek from being's varied strife,",
+      "enLine2": "Flesh is burthen sore; what then other bonds of life?",
+      "hiLine1": "भव-बन्धन को काटते, बोझा ही है देह ।",
+      "hiLine2": "फिर औरों से तो कहो, क्यों संबन्ध-सनेह ॥",
+      "general": "பிறவியை அறுக்க முயல்பவர்க்குத் தம் உடம்பே மிகையான பாரமாக இருக்கும்போது, மற்றப் பற்றுகள் எதற்காக வேண்டும்?",
+      "en": "To those striving to cut off rebirth, even their own body is a needless burden—why then would they need any other attachments?",
+      "hi": "जो लोग संसार के जन्म-मरण के बंधन को काटने में लगे हैं, उनके लिए तो स्वयं अपना शरीर ही एक बोझ है; फिर भला वे दूसरों से संबंध और स्नेह क्यों रखेंगे?",
+      "words": [
+        {
+          "no": 1,
+          "word": "மற்றும் <br>(Matrum)",
+          "ta": "வேறு",
+          "en": "Other",
+          "hi": "औरों से"
+        },
+        {
+          "no": 2,
+          "word": "தொடர்ப்பாடு <br>(Thodarppaadu)",
+          "ta": "தொடர்பு (பற்று)",
+          "en": "Bonds of life",
+          "hi": "संबन्ध-सनेह"
+        },
+        {
+          "no": 3,
+          "word": "எவன்கொல் <br>(Evankol)",
+          "ta": "எதற்காக",
+          "en": "What then",
+          "hi": "क्यों"
+        },
+        {
+          "no": 4,
+          "word": "பிறப்பு <br>(Pirappu)",
+          "ta": "பிறவியை",
+          "en": "Being's strife",
+          "hi": "भव-बन्धन को"
+        },
+        {
+          "no": 5,
+          "word": "அறுக்கல் உற்றார்க்கு <br>(Arukkal utraarkku)",
+          "ta": "அறுக்க முயன்றவர்க்கு",
+          "en": "Seek sev'rance",
+          "hi": "काटते"
+        },
+        {
+          "no": 6,
+          "word": "உடம்பு <br>(Udambu)",
+          "ta": "உடம்பே",
+          "en": "Flesh / body",
+          "hi": "देह"
+        },
+        {
+          "no": 7,
+          "word": "மிகை <br>(Migai)",
+          "ta": "மிகையான சுமை",
+          "en": "Burthen sore",
+          "hi": "बोझा ही है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மற்றுந் தொடர்ப்பா டெவன்கொல் பிறப்பறுக்க",
+          "line2": "லுற்றார்க் குடம்பு மிகை."
+        },
+        "en": {
+          "line1": "To those who sev'rance seek from being's varied strife,",
+          "line2": "Flesh is burthen sore; what then other bonds of life?"
+        },
+        "hi": {
+          "line1": "भव-बन्धन को काटते, बोझा ही है देह ।",
+          "line2": "फिर औरों से तो कहो, क्यों संबन्ध-सनेह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Matrum Thodarppaadu Evankol Pirapparukkal",
+            "line2": "Utraarkku Udambu Migai."
+          },
+          "hi": {
+            "line1": "मत्रुन् तॊडर्प्पा डॆवन्कॊल् पिरप्पुरुक्क",
+            "line2": "लुत्रार्क् कुडम्बु मिगै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறவியை அறுக்க முயல்பவர்க்குத் தம் உடம்பே மிகையான பாரமாக இருக்கும்போது, மற்றப் பற்றுகள் எதற்காக வேண்டும்?",
+        "en": "When your own body already feels like excess baggage on the path to liberation, why would you carry any other worldly ties?",
+        "hi": "जो लोग संसार के जन्म-मरण के बंधन को काटने में लगे हैं, उनके लिए तो स्वयं अपना शरीर ही एक बोझ है; फिर भला वे दूसरों से संबंध और स्नेह क्यों रखेंगे?"
+      }
+    },
+    {
+      "num": 346,
+      "line1": "யானென தென்னுஞ் செருகறுப்பான் வானோர்க்கு",
+      "line2": "உயர்ந்த உலகம் புகும்.",
+      "enLine1": "Who kills conceit that utters 'I' and 'mine,'",
+      "enLine2": "Shall enter realms above the powers divine.",
+      "hiLine1": "अहंकार ममकार को, जिसने किया समाप्त ।",
+      "hiLine2": "देवों को अप्राप्य भी, लोक करेगा प्राप्त ॥",
+      "general": "'நான்', 'எனது' என்னும் அகங்கார மமகாரங்களை அழித்தவன், தேவர்க்கும் எட்டாத உயர்ந்த மோட்ச உலகத்தை அடைவான்.",
+      "en": "He who destroys the pride of 'I' and 'mine' shall enter a world higher than that of the celestials.",
+      "hi": "जिस व्यक्ति ने 'मैं' (अहंकार) और 'मेरा' (ममकार) के भाव को पूरी तरह समाप्त कर दिया है, वह देवताओं के लिए भी दुर्लभ परम लोक (मोक्ष) को प्राप्त करेगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "யான் <br>(Yaan)",
+          "ta": "நான்",
+          "en": "I",
+          "hi": "अहंकार"
+        },
+        {
+          "no": 2,
+          "word": "எனது <br>(Enadhu)",
+          "ta": "எனது",
+          "en": "Mine",
+          "hi": "ममकार"
+        },
+        {
+          "no": 3,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்று கருதும்",
+          "en": "That utters",
+          "hi": "को"
+        },
+        {
+          "no": 4,
+          "word": "செருக்கு <br>(Serukku)",
+          "ta": "மயக்கத்தை",
+          "en": "Conceit",
+          "hi": "भाव"
+        },
+        {
+          "no": 5,
+          "word": "அறுப்பான் <br>(Aruppaan)",
+          "ta": "அறுப்பவன்",
+          "en": "Who kills",
+          "hi": "जिसने किया समाप्त"
+        },
+        {
+          "no": 6,
+          "word": "வானோர்க்கு <br>(Vaanorkku)",
+          "ta": "தேவர்கட்கும்",
+          "en": "Powers divine",
+          "hi": "देवों को"
+        },
+        {
+          "no": 7,
+          "word": "உயர்ந்த உலகம் புகும் <br>(Uyarndha ulagam pugum)",
+          "ta": "உயர்ந்த உலகம் சேர்வான்",
+          "en": "Enter realms above",
+          "hi": "अप्राप्य लोक प्राप्त करेगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "யானென தென்னுஞ் செருகறுப்பான் வானோர்க்கு",
+          "line2": "உயர்ந்த உலகம் புகும்."
+        },
+        "en": {
+          "line1": "Who kills conceit that utters 'I' and 'mine,'",
+          "line2": "Shall enter realms above the powers divine."
+        },
+        "hi": {
+          "line1": "अहंकार ममकार को, जिसने किया समाप्त ।",
+          "line2": "देवों को अप्राप्य भी, लोक करेगा प्राप्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Yaanena Dhennunj Serugaruppaan Vaanorkku",
+            "line2": "Uyarndha Ulagam Pugum."
+          },
+          "hi": {
+            "line1": "यानॆन दॆन्नुञ् सॆरुगरुप्पान् वानोर्क्कु",
+            "line2": "उयर्न्द उलगम् पुगुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'நான்', 'எனது' என்னும் அகங்கார மமகாரங்களை அழித்தவன், தேவர்க்கும் எட்டாத உயர்ந்த மோட்ச உலகத்தை அடைவான்.",
+        "en": "Whoever cuts away the ego of 'I' and 'mine' reaches a state of liberation higher than even the gods know.",
+        "hi": "जिस व्यक्ति ने 'मैं' (अहंकार) और 'मेरा' (ममकार) के भाव को पूरी तरह समाप्त कर दिया है, वह देवताओं के लिए भी दुर्लभ परम लोक (मोक्ष) को प्राप्त करेगा।"
+      }
+    },
+    {
+      "num": 347,
+      "line1": "பற்றி விடாஅ விடும்பைகள் பற்றினைப்",
+      "line2": "பற்றி விடாஅ தவர்க்கு.",
+      "enLine1": "Who cling to things that cling and eager clasp,",
+      "enLine2": "Griefs cling to them with unrelaxing grasp.",
+      "hiLine1": "अनासक्त जो न हुए, पर हैं अति आसक्त ।",
+      "hiLine2": "उनको लिपटें दुःख सब, और करें नहिं त्यक्त ॥",
+      "general": "உலகப் பற்றுகளை விடாமல் பற்றிக்கொண்டிருப்பவர்களை, துன்பங்களும் விடாமல் பற்றிக்கொள்ளும்.",
+      "en": "Sorrows cling relentlessly to those who cling tightly to worldly attachments and refuse to let them go.",
+      "hi": "जो लोग अनासक्त (विरक्त) न होकर संसार के विषयों में अत्यधिक आसक्त रहते हैं, उन्हें सभी दुख कसकर लिपट जाते हैं और कभी नहीं छोड़ते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பற்றி <br>(Patri)",
+          "ta": "பற்றிக்கொண்டு",
+          "en": "Cling",
+          "hi": "लिपटें"
+        },
+        {
+          "no": 2,
+          "word": "விடாஅ <br>(Vidaaa)",
+          "ta": "நீங்காத",
+          "en": "Unrelaxing grasp",
+          "hi": "करें नहिं त्यक्त"
+        },
+        {
+          "no": 3,
+          "word": "இடும்பைகள் <br>(Idumbaigal)",
+          "ta": "துன்பங்கள்",
+          "en": "Griefs",
+          "hi": "दुःख सब"
+        },
+        {
+          "no": 4,
+          "word": "பற்றினை <br>(Patrinai)",
+          "ta": "உலகப் பற்றை",
+          "en": "Things that cling",
+          "hi": "आसक्ति को"
+        },
+        {
+          "no": 5,
+          "word": "பற்றி <br>(Patri)",
+          "ta": "பற்றிக்கொண்டு",
+          "en": "Eager clasp",
+          "hi": "अति आसक्त"
+        },
+        {
+          "no": 6,
+          "word": "விடாஅது <br>(Vidaaadhu)",
+          "ta": "விடாத",
+          "en": "Not letting go",
+          "hi": "अनासक्त न हुए"
+        },
+        {
+          "no": 7,
+          "word": "அவர்க்கு <br>(Avarkku)",
+          "ta": "அவர்கட்கு",
+          "en": "To them",
+          "hi": "उनको"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பற்றி விடாஅ விடும்பைகள் பற்றினைப்",
+          "line2": "பற்றி விடாஅ தவர்க்கு."
+        },
+        "en": {
+          "line1": "Who cling to things that cling and eager clasp,",
+          "line2": "Griefs cling to them with unrelaxing grasp."
+        },
+        "hi": {
+          "line1": "अनासक्त जो न हुए, पर हैं अति आसक्त ।",
+          "line2": "उनको लिपटें दुःख सब, और करें नहिं त्यक्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Patri Vidaaa Idumbaigal Patrinaip",
+            "line2": "Patri Vidaaa Dhavarkku."
+          },
+          "hi": {
+            "line1": "पत्रि विडाअ विडुम्बैगळ् पत्रिनैप्",
+            "line2": "पत्रि विडाअ दवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உலகப் பற்றுகளை விடாமல் பற்றிக்கொண்டிருப்பவர்களை, துன்பங்களும் விடாமல் பற்றிக்கொள்ளும்.",
+        "en": "As long as you refuse to loosen your grip on worldly attachments, sorrow will never loosen its grip on you.",
+        "hi": "जो लोग अनासक्त (विरक्त) न होकर संसार के विषयों में अत्यधिक आसक्त रहते हैं, उन्हें सभी दुख कसकर लिपट जाते हैं और कभी नहीं छोड़ते।"
+      }
+    },
+    {
+      "num": 348,
+      "line1": "தலைப்பட்டார் தீரத் துறந்தார் மயங்கி",
+      "line2": "வலைப்பட்டார் மற்றை யவர்.",
+      "enLine1": "Who thoroughly 'renounce' on highest height are set:",
+      "enLine2": "The rest, bewildered, lie entangled in the net.",
+      "hiLine1": "पूर्ण त्याग से पा चुके, मोक्ष-धाम वे धन्य ।",
+      "hiLine2": "भव-बाधा के जाल में, फँसें मोह-वश अन्य ॥",
+      "general": "எல்லாவற்றையும் முற்றிலும் துறந்தவரே மேலான வீடுபேற்றை அடைந்தவர் ஆவர்; அங்ஙனம் துறவாத மற்றவர்கள் மயங்கிப் பிறவி வலையில் அகப்பட்டவராவர்.",
+      "en": "Those who have completely renounced everything have attained the highest state; all others remain bewildered, trapped in the net of worldly illusion.",
+      "hi": "जिन्होंने पूर्ण त्याग करके मोक्ष-धाम प्राप्त कर लिया है, वे ही धन्य हैं; शेष अन्य लोग तो मोह के वशीभूत होकर संसार-बंधनों के जाल में ही फँसे रहते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தலைப்பட்டார் <br>(Thalaippattaar)",
+          "ta": "மேலான நிலை பெற்றார்",
+          "en": "On highest height",
+          "hi": "मोक्ष-धाम पा चुके"
+        },
+        {
+          "no": 2,
+          "word": "தீர <br>(Theera)",
+          "ta": "முற்றிலும்",
+          "en": "Thoroughly",
+          "hi": "पूर्ण"
+        },
+        {
+          "no": 3,
+          "word": "துறந்தார் <br>(Thurandhaar)",
+          "ta": "துறந்தவர்",
+          "en": "Renounce",
+          "hi": "त्याग से"
+        },
+        {
+          "no": 4,
+          "word": "மயங்கி <br>(Mayangi)",
+          "ta": "அறிவு மயங்கி",
+          "en": "Bewildered",
+          "hi": "मोह-वश"
+        },
+        {
+          "no": 5,
+          "word": "வலைப்பட்டார் <br>(Valaippattaar)",
+          "ta": "வலையில் அகப்பட்டார்",
+          "en": "Entangled in the net",
+          "hi": "जाल में फँसें"
+        },
+        {
+          "no": 6,
+          "word": "மற்றை <br>(Matrai)",
+          "ta": "மற்ற",
+          "en": "The rest",
+          "hi": "अन्य"
+        },
+        {
+          "no": 7,
+          "word": "யவர் <br>(Yavar)",
+          "ta": "அவர்கள்",
+          "en": "Those",
+          "hi": "लोग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தலைப்பட்டார் தீரத் துறந்தார் மயங்கி",
+          "line2": "வலைப்பட்டார் மற்றை யவர்."
+        },
+        "en": {
+          "line1": "Who thoroughly 'renounce' on highest height are set:",
+          "line2": "The rest, bewildered, lie entangled in the net."
+        },
+        "hi": {
+          "line1": "पूर्ण त्याग से पा चुके, मोक्ष-धाम वे धन्य ।",
+          "line2": "भव-बाधा के जाल में, फँसें मोह-वश अन्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thalaippattaar Theerath Thurandhaar Mayangi",
+            "line2": "Valaippattaar Matrai Yavar."
+          },
+          "hi": {
+            "line1": "तलैप्पट्टार् तीरत् तुरन्दार् मयङ्गि",
+            "line2": "वलैप्पट्टार् मत्रै यवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லாவற்றையும் முற்றிலும் துறந்தவரே மேலான வீடுபேற்றை அடைந்தவர் ஆவர்; அங்ஙனம் துறவாத மற்றவர்கள் மயங்கிப் பிறவி வலையில் அகப்பட்டவராவர்.",
+        "en": "Those who let go completely reach the summit of freedom; everyone else stays tangled in the net of illusion.",
+        "hi": "जिन्होंने पूर्ण त्याग करके मोक्ष-धाम प्राप्त कर लिया है, वे ही धन्य हैं; शेष अन्य लोग तो मोह के वशीभूत होकर संसार-बंधनों के जाल में ही फँसे रहते हैं।"
+      }
+    },
+    {
+      "num": 349,
+      "line1": "பற்றற்ற கண்ணே பிறப்பறுக்கும் மற்று",
+      "line2": "நிலையாமை காணப் படும்.",
+      "enLine1": "When that which clings falls off, severed is being's tie;",
+      "enLine2": "All else will then be seen as instability.",
+      "hiLine1": "मिटते ही आसक्ति के, होगी भव से मुक्ति ।",
+      "hiLine2": "बनी रहेगी अन्यथा, अनित्यता की भुक्ति ॥",
+      "general": "பற்று அற்ற பொழுதே பிறவித் தளை அறுபடும்; பற்று நீங்காதவிடத்து, பிறவி நிலையாமையே தொடர்ந்து காணப்படும்.",
+      "en": "The moment attachment ceases, the bond of rebirth is severed; otherwise, only the endless cycle of impermanence will be seen.",
+      "hi": "आसक्ति के मिटते ही संसार (जन्म-मरण) से मुक्ति मिल जाएगी; अन्यथा इस अनित्य संसार के दुखों का भोग निरंतर बना रहेगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பற்றற்ற <br>(Patratra)",
+          "ta": "பற்று நீங்கிய",
+          "en": "Which clings falls off",
+          "hi": "मिटते ही आसक्ति के"
+        },
+        {
+          "no": 2,
+          "word": "கண்ணே <br>(Kanne)",
+          "ta": "பொழுதே",
+          "en": "When",
+          "hi": "ही"
+        },
+        {
+          "no": 3,
+          "word": "பிறப்பறுக்கும் <br>(Pirapparukkum)",
+          "ta": "பிறவியை அறுக்கும்",
+          "en": "Severed is being's tie",
+          "hi": "होगी भव से मुक्ति"
+        },
+        {
+          "no": 4,
+          "word": "மற்று <br>(Matru)",
+          "ta": "அல்லாதபோது",
+          "en": "All else / otherwise",
+          "hi": "अन्यथा"
+        },
+        {
+          "no": 5,
+          "word": "நிலையாமை <br>(Nilaiyaamai)",
+          "ta": "நிலையாமைத் தன்மை",
+          "en": "Instability",
+          "hi": "अनित्यता की भुक्ति"
+        },
+        {
+          "no": 6,
+          "word": "காண <br>(Kaana)",
+          "ta": "காண",
+          "en": "Seen",
+          "hi": "बनी"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "படும்",
+          "en": "Will be",
+          "hi": "रहेगी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பற்றற்ற கண்ணே பிறப்பறுக்கும் மற்று",
+          "line2": "நிலையாமை காணப் படும்."
+        },
+        "en": {
+          "line1": "When that which clings falls off, severed is being's tie;",
+          "line2": "All else will then be seen as instability."
+        },
+        "hi": {
+          "line1": "मिटते ही आसक्ति के, होगी भव से मुक्ति ।",
+          "line2": "बनी रहेगी अन्यथा, अनित्यता की भुक्ति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Patratra Kanne Pirapparukkum Matru",
+            "line2": "Nilaiyaamai Kaanap Padum."
+          },
+          "hi": {
+            "line1": "पत्रत्र कण्णे पिरप्परुक्कुम् मत्रु",
+            "line2": "निलैयामै काणप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பற்று அற்ற பொழுதே பிறவித் தளை அறுபடும்; பற்று நீங்காதவிடத்து, பிறவி நிலையாமையே தொடர்ந்து காணப்படும்.",
+        "en": "The instant attachment drops away, the cycle of rebirth breaks; until then, all you will experience is impermanence.",
+        "hi": "आसक्ति के मिटते ही संसार (जन्म-मरण) से मुक्ति मिल जाएगी; अन्यथा इस अनित्य संसार के दुखों का भोग निरंतर बना रहेगा।"
+      }
+    },
+    {
+      "num": 350,
+      "line1": "பற்றுக பற்றற்றான் பற்றினை யப்பற்றைப்",
+      "line2": "பற்றுக பற்று விடற்கு.",
+      "enLine1": "Cling thou to that which He, to Whom nought clings, hath bid thee cling,",
+      "enLine2": "Cling to that bond, to get thee free from every clinging thing.",
+      "hiLine1": "वीतराग के राग में, हो तेरा अनुराग ।",
+      "hiLine2": "सुदृढ़ उसी में रागना, जिससे पाय विराग ॥",
+      "general": "எல்லாப் பற்றுகளிலிருந்தும் விடுபடுவதற்காக, பற்று இல்லாத இறைவனுடைய பற்றை மட்டுமே பற்றிக்கொள்ள வேண்டும்.",
+      "en": "Cling to the attachment to Him who is free from all attachments; cling to that bond in order to cast off all other bonds.",
+      "hi": "सभी सांसारिक बंधनों से वैराग्य पाने के लिए, हे मन! तू उस वीतराग (आसक्ति से रहित ईश्वर) के प्रेम में ही अपना अनुराग दृढ़ता से लगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பற்றுக <br>(Patruga)",
+          "ta": "பற்றிக்கொள்க",
+          "en": "Cling thou",
+          "hi": "अनुराग हो"
+        },
+        {
+          "no": 2,
+          "word": "பற்றற்றான் <br>(Patratraan)",
+          "ta": "பற்று இல்லாத இறைவனின்",
+          "en": "To Whom nought clings",
+          "hi": "वीतराग के"
+        },
+        {
+          "no": 3,
+          "word": "பற்றினை <br>(Patrinai)",
+          "ta": "பற்றினை",
+          "en": "To that bond",
+          "hi": "राग में"
+        },
+        {
+          "no": 4,
+          "word": "அப்பற்றை <br>(Appatrai)",
+          "ta": "அந்தப் பற்றை",
+          "en": "To that bond",
+          "hi": "उसी में"
+        },
+        {
+          "no": 5,
+          "word": "பற்றுக <br>(Patruga)",
+          "ta": "பற்றிக்கொள்க",
+          "en": "Cling",
+          "hi": "सुदृढ़ रागना"
+        },
+        {
+          "no": 6,
+          "word": "பற்று <br>(Patru)",
+          "ta": "உலகப் பற்றை",
+          "en": "Clinging thing",
+          "hi": "आसक्ति से"
+        },
+        {
+          "no": 7,
+          "word": "விடற்கு <br>(Vidarku)",
+          "ta": "விடுவதற்காக",
+          "en": "To get free",
+          "hi": "विराग पाने को"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பற்றுக பற்றற்றான் பற்றினை யப்பற்றைப்",
+          "line2": "பற்றுக பற்று விடற்கு."
+        },
+        "en": {
+          "line1": "Cling thou to that which He, to Whom nought clings, hath bid thee cling,",
+          "line2": "Cling to that bond, to get thee free from every clinging thing."
+        },
+        "hi": {
+          "line1": "वीतराग के राग में, हो तेरा अनुराग ।",
+          "line2": "सुदृढ़ उसी में रागना, जिससे पाय विराग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Patruga Patratraan Patrinai Appatraip",
+            "line2": "Patruga Patru Vidarku."
+          },
+          "hi": {
+            "line1": "पत्रुग पत्रत्रान् पत्रिनै यप्पत्रैप्",
+            "line2": "पत्रुग पत्रु विडर्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லாப் பற்றுகளிலிருந்தும் விடுபடுவதற்காக, பற்று இல்லாத இறைவனுடைய பற்றை மட்டுமே பற்றிக்கொள்ள வேண்டும்.",
+        "en": "Hold fast only to the One who is free of all attachments—that single bond is what frees you from every other.",
+        "hi": "सभी सांसारिक बंधनों से वैराग्य पाने के लिए, हे मन! तू उस वीतराग (आसक्ति से रहित ईश्वर) के प्रेम में ही अपना अनुराग दृढ़ता से लगा।"
+      }
+    }
+  ]
+}

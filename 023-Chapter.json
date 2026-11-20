@@ -1,0 +1,930 @@
+{
+  "chapterNum": 23,
+  "nameTa": "ஈகை",
+  "nameEn": "Giving",
+  "nameHi": "दान",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 221,
+      "line1": "வறியார்க்கொன்று ஈவதே ஈகைமற்று எல்லாம்",
+      "line2": "குறியெதிர்ப்பை நீர துடைத்து.",
+      "enLine1": "Call that a gift to needy men thou dost dispense,",
+      "enLine2": "All else is void of good, seeking for recompense.",
+      "hiLine1": "देना दान गरीब को, है यथार्थ में दान ।",
+      "hiLine2": "प्रत्याशा प्रतिदान की, है अन्य में निदान ॥",
+      "general": "வறியவர்களுக்கு ஒரு பொருளைக் கொடுப்பதே ஈகை எனப்படும்; மற்றவர்களுக்குக் கொடுப்பதெல்லாம் பயன் எதிர்பார்த்துக் கொடுக்கும் தன்மை உடையது.",
+      "en": "Giving to the destitute alone is true charity; all other giving is of the nature of expecting a return.",
+      "hi": "गरीब और जरूरतमंद को कुछ देना ही यथार्थ में दान है; इसके अतिरिक्त अन्य को दिए जाने वाले दान में बदले (प्रतिदान) की आशा छिपी होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வறியார்க்கொன்று <br>(Variyaarkkondru)",
+          "ta": "ஏழைகளுக்கு ஒரு பொருளை",
+          "en": "To needy men",
+          "hi": "गरीब को"
+        },
+        {
+          "no": 2,
+          "word": "ஈவதே <br>(Eevadhe)",
+          "ta": "கொடுப்பதே",
+          "en": "Dispensing / giving",
+          "hi": "देना ही"
+        },
+        {
+          "no": 3,
+          "word": "ஈகை <br>(Eegai)",
+          "ta": "ஈகையாகும்",
+          "en": "True gift / charity",
+          "hi": "यथार्थ में दान है"
+        },
+        {
+          "no": 4,
+          "word": "மற்றுஎல்லாம் <br>(Matruellaam)",
+          "ta": "மற்றவை எல்லாம்",
+          "en": "All else",
+          "hi": "अन्य में"
+        },
+        {
+          "no": 5,
+          "word": "குறியெதிர்ப்பை <br>(Kuriyedhirppai)",
+          "ta": "பயன் எதிர்பார்க்கும்",
+          "en": "Seeking recompense",
+          "hi": "प्रतिदान की प्रत्याशा"
+        },
+        {
+          "no": 6,
+          "word": "நீர <br>(Neera)",
+          "ta": "தன்மை",
+          "en": "Nature",
+          "hi": "का कारण"
+        },
+        {
+          "no": 7,
+          "word": "துடைத்து <br>(Thudaiththu)",
+          "ta": "உடையது",
+          "en": "Possesses",
+          "hi": "होता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வறியார்க்கொன்று ஈவதே ஈகைமற்று எல்லாம்",
+          "line2": "குறியெதிர்ப்பை நீர துடைத்து."
+        },
+        "en": {
+          "line1": "Call that a gift to needy men thou dost dispense,",
+          "line2": "All else is void of good, seeking for recompense."
+        },
+        "hi": {
+          "line1": "देना दान गरीब को, है यथार्थ में दान ।",
+          "line2": "प्रत्याशा प्रतिदान की, है अन्य में निदान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Variyaarkkondru Eevadhe Eegai Matruellaam",
+            "line2": "Kuriyedhirppai Neera Thudaiththu."
+          },
+          "hi": {
+            "line1": "वरियार्क्कॊन्द्रु ईवदे ईगै मत्रॆल्लाम्",
+            "line2": "कुरियॆदिर्प्पै नीर तुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வறியவர்களுக்கு ஒரு பொருளைக் கொடுப்பதே ஈகை எனப்படும்; மற்றவர்களுக்குக் கொடுப்பதெல்லாம் பயன் எதிர்பார்த்துக் கொடுக்கும் தன்மை உடையது.",
+        "en": "True charity means helping those who are genuinely in need without expecting anything back; anything else is just an exchange of favors.",
+        "hi": "गरीब और जरूरतमंद को कुछ देना ही यथार्थ में दान है; इसके अतिरिक्त अन्य को दिए जाने वाले दान में बदले (प्रतिदान) की आशा छिपी होती है।"
+      }
+    },
+    {
+      "num": 222,
+      "line1": "நல்லாறு எனினும் கொளல்தீது மேலுலகம்",
+      "line2": "இல்லெனினும் ஈதலே நன்று.",
+      "enLine1": "Though men declare it heavenward path, yet to receive is ill ;",
+      "enLine2": "Though upper heaven were not, to give is virtue still.",
+      "hiLine1": "मोक्ष-मार्ग ही क्यों न हो, दान- ग्रहण अश्रेय ।",
+      "hiLine2": "यद्यपि मोक्ष नहीं मिले, दान-धर्म ही श्रेय ॥",
+      "general": "பிறரிடம் இரந்து பெறுவது நல்ல வழி என்று கூறப்பட்டாலும் அது தீயதே; மேலுலகம் இல்லை என்றாலும் பிறருக்குக் கொடுப்பதே சிறந்த அறமாகும்.",
+      "en": "Even if begging is said to be a good path, receiving is evil; even if there were no upper heaven, giving is still good.",
+      "hi": "चाहे मोक्ष का मार्ग ही क्यों न हो, दान ग्रहण करना अश्रेय (अनुचित) है; और चाहे मोक्ष न भी मिले, फिर भी दान देना ही श्रेयस्कर धर्म है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நல்லாறு <br>(Nallaaru)",
+          "ta": "நல்ல வழி",
+          "en": "Heavenward / good path",
+          "hi": "मोक्ष-मार्ग ही"
+        },
+        {
+          "no": 2,
+          "word": "எனினும் <br>(Eninum)",
+          "ta": "என்றாலும்",
+          "en": "Though declared",
+          "hi": "क्यों न हो"
+        },
+        {
+          "no": 3,
+          "word": "கொளல்தீது <br>(Kolaltheedhu)",
+          "ta": "ஏற்பது தீயது",
+          "en": "To receive is ill",
+          "hi": "दान-ग्रहण अश्रेय है"
+        },
+        {
+          "no": 4,
+          "word": "மேலுலகம் <br>(Melulagam)",
+          "ta": "மேலுலகம்",
+          "en": "Upper heaven",
+          "hi": "मोक्ष"
+        },
+        {
+          "no": 5,
+          "word": "இல்லெனினும் <br>(Illeninum)",
+          "ta": "இல்லை என்றாலும்",
+          "en": "Though there were not",
+          "hi": "नहीं भी मिले"
+        },
+        {
+          "no": 6,
+          "word": "ஈதலே <br>(Eedhale)",
+          "ta": "கொடுத்தலே",
+          "en": "To give",
+          "hi": "दान-धर्म ही"
+        },
+        {
+          "no": 7,
+          "word": "நன்று <br>(Nandru)",
+          "ta": "நல்லது",
+          "en": "Is virtue still",
+          "hi": "श्रेय है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நல்லாறு எனினும் கொளல்தீது மேலுலகம்",
+          "line2": "இல்லெனினும் ஈதலே நன்று."
+        },
+        "en": {
+          "line1": "Though men declare it heavenward path, yet to receive is ill ;",
+          "line2": "Though upper heaven were not, to give is virtue still."
+        },
+        "hi": {
+          "line1": "मोक्ष-मार्ग ही क्यों न हो, दान- ग्रहण अश्रेय ।",
+          "line2": "यद्यपि मोक्ष नहीं मिले, दान-धर्म ही श्रेय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nallaaru Eninum Kolaltheedhu Melulagam",
+            "line2": "Illeninum Eedhale Nandru."
+          },
+          "hi": {
+            "line1": "नल्लारु एनिनुम् कॊळल्तीदु मेलुलगम्",
+            "line2": "इल्लॆनिनुम् ईदले नन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறரிடம் இரந்து பெறுவது நல்ல வழி என்று கூறப்பட்டாலும் அது தீயதே; மேலுலகம் இல்லை என்றாலும் பிறருக்குக் கொடுப்பதே சிறந்த அறமாகும்.",
+        "en": "Accepting alms diminishes dignity, whereas giving generously is inherently noble—even without any promise of heavenly reward.",
+        "hi": "चाहे मोक्ष का मार्ग ही क्यों न हो, दान ग्रहण करना अश्रेय (अनुचित) है; और चाहे मोक्ष न भी मिले, फिर भी दान देना ही श्रेयस्कर धर्म है।"
+      }
+    },
+    {
+      "num": 223,
+      "line1": "இலனென்னும் எவ்வம் உரையாமை ஈதல்",
+      "line2": "குலனுடையான் கண்ணே உள.",
+      "enLine1": "' I 've nought ' is ne'er the high-born man's reply ;",
+      "enLine2": "He gives to those who raise themselves that cry.",
+      "hiLine1": "'दीन-हीन हूँ' ना कहे, करता है यों दान ।",
+      "hiLine2": "केवल प्राप्य कुलीन में, ऐसी उत्तम बान ॥",
+      "general": "'என்னிடம் பொருள் இல்லை' என்னும் துன்பச் சொல்லைச் சொல்லாமல் வறியவருக்குக் கொடுக்கும் பண்பு, உயர்குடியில் பிறந்தவரிடமே உள்ளது.",
+      "en": "Giving without uttering the distressed excuse 'I have nothing' is found only in those of noble birth.",
+      "hi": "स्वयं 'मैं दीन-हीन हूँ' ऐसा बहाना न कहकर याचक को दान देने की यह उत्तम आदत केवल कुलीन और श्रेष्ठ लोगों में ही पाई जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இலனென்னும் <br>(Ilanennum)",
+          "ta": "என்னிடம் இல்லை என்னும்",
+          "en": "'I have nought'",
+          "hi": "'दीन-हीन हूँ'"
+        },
+        {
+          "no": 2,
+          "word": "எவ்வம் <br>(Evvam)",
+          "ta": "துன்பச் சொல்லை",
+          "en": "Distress / cry",
+          "hi": "ऐसा"
+        },
+        {
+          "no": 3,
+          "word": "உரையாமை <br>(Uraiyaamai)",
+          "ta": "சொல்லாமல்",
+          "en": "Not uttering",
+          "hi": "न कहे"
+        },
+        {
+          "no": 4,
+          "word": "ஈதல் <br>(Eedhal)",
+          "ta": "கொடுத்தல்",
+          "en": "Giving",
+          "hi": "दान करता है"
+        },
+        {
+          "no": 5,
+          "word": "குலனுடையான் <br>(Kulanudaiyaan)",
+          "ta": "உயர்குடியில் பிறந்தவனி",
+          "en": "High-born man",
+          "hi": "कुलीन में"
+        },
+        {
+          "no": 6,
+          "word": "கண்ணே <br>(Kanne)",
+          "ta": "டத்திலேயே",
+          "en": "In him alone",
+          "hi": "केवल"
+        },
+        {
+          "no": 7,
+          "word": "உள <br>(Ula)",
+          "ta": "உள்ளன",
+          "en": "Exists",
+          "hi": "प्राप्य है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இலனென்னும் எவ்வம் உரையாமை ஈதல்",
+          "line2": "குலனுடையான் கண்ணே உள."
+        },
+        "en": {
+          "line1": "' I 've nought ' is ne'er the high-born man's reply ;",
+          "line2": "He gives to those who raise themselves that cry."
+        },
+        "hi": {
+          "line1": "'दीन-हीन हूँ' ना कहे, करता है यों दान ।",
+          "line2": "केवल प्राप्य कुलीन में, ऐसी उत्तम बान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ilanennum Evvam Uraiyaamai Eedhal",
+            "line2": "Kulanudaiyaan Kanne Ula."
+          },
+          "hi": {
+            "line1": "इलनॆन्नुम् एव्वम् उरैयामै ईदल्",
+            "line2": "कुलनुडैयान् कण्णे उळ."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'என்னிடம் பொருள் இல்லை' என்னும் துன்பச் சொல்லைச் சொல்லாமல் வறியவருக்குக் கொடுக்கும் பண்பு, உயர்குடியில் பிறந்தவரிடமே உள்ளது.",
+        "en": "A truly noble person never turns away someone in distress with the excuse 'I have nothing'—they always find a way to give.",
+        "hi": "स्वयं 'मैं दीन-हीन हूँ' ऐसा बहाना न कहकर याचक को दान देने की यह उत्तम आदत केवल कुलीन और श्रेष्ठ लोगों में ही पाई जाती है।"
+      }
+    },
+    {
+      "num": 224,
+      "line1": "இன்னாது இரக்கப் படுதல் இரந்தவர்",
+      "line2": "இன்முகம் காணும் அளவு.",
+      "enLine1": "The suppliants' cry for aid yields scant delight,",
+      "enLine2": "Until you see his face with grateful gladness bright.",
+      "hiLine1": "याचित होने की दशा, तब तक रहे विषण्ण ।",
+      "hiLine2": "जब तक याचक का वदन, होगा नहीं प्रसन्न ॥",
+      "general": "வறியவரால் இரந்து கேட்கப்படுதல் துன்பமானதே; ஆனால் கேட்டவரின் மகிழ்ச்சியான முகத்தைக் காணும் வரை மட்டுமே அத்துன்பம் இருக்கும்.",
+      "en": "Being begged from is painful only until one sees the cheerful, grateful face of the person who received.",
+      "hi": "किसी के द्वारा कुछ माँगे जाने की स्थिति तब तक दुखद और विषण्ण रहती है, जब तक कि दान पाकर याचक का मुख प्रसन्न न हो जाए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்னாது <br>(Innaadhu)",
+          "ta": "துன்பமானது",
+          "en": "Yields scant delight / painful",
+          "hi": "विषण्ण रहती है"
+        },
+        {
+          "no": 2,
+          "word": "இரக்கப் <br>(Irakkap)",
+          "ta": "இரந்து கேட்கப்",
+          "en": "To be begged",
+          "hi": "याचित होने"
+        },
+        {
+          "no": 3,
+          "word": "படுதல் <br>(Padudhal)",
+          "ta": "படுதல்",
+          "en": "Being",
+          "hi": "की दशा"
+        },
+        {
+          "no": 4,
+          "word": "இரந்தவர் <br>(Irandhavar)",
+          "ta": "கேட்டவரின்",
+          "en": "Of the suppliant",
+          "hi": "याचक का"
+        },
+        {
+          "no": 5,
+          "word": "இன்முகம் <br>(Inmugam)",
+          "ta": "மகிழ்ச்சியான முகத்தை",
+          "en": "Glad face",
+          "hi": "प्रसन्न वदन"
+        },
+        {
+          "no": 6,
+          "word": "காணும் <br>(Kaanum)",
+          "ta": "காணும்",
+          "en": "See",
+          "hi": "होने"
+        },
+        {
+          "no": 7,
+          "word": "அளவு <br>(Alavu)",
+          "ta": "வரையில்",
+          "en": "Until",
+          "hi": "तक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்னாது இரக்கப் படுதல் இரந்தவர்",
+          "line2": "இன்முகம் காணும் அளவு."
+        },
+        "en": {
+          "line1": "The suppliants' cry for aid yields scant delight,",
+          "line2": "Until you see his face with grateful gladness bright."
+        },
+        "hi": {
+          "line1": "याचित होने की दशा, तब तक रहे विषण्ण ।",
+          "line2": "जब तक याचक का वदन, होगा नहीं प्रसन्न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Innaadhu Irakkap Padudhal Irandhavar",
+            "line2": "Inmugam Kaanum Alavu."
+          },
+          "hi": {
+            "line1": "इन्नादु इरक्कप् पडुदल् इरन्दवर्",
+            "line2": "इन्मुगम् काणुम् अळवु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வறியவரால் இரந்து கேட்கப்படுதல் துன்பமானதே; ஆனால் கேட்டவரின் மகிழ்ச்சியான முகத்தைக் காணும் வரை மட்டுமே அத்துன்பம் இருக்கும்.",
+        "en": "Hearing someone beg is heartbreaking, yet that sorrow instantly turns to joy the moment your gift lights up their face.",
+        "hi": "किसी के द्वारा कुछ माँगे जाने की स्थिति तब तक दुखद और विषण्ण रहती है, जब तक कि दान पाकर याचक का मुख प्रसन्न न हो जाए।"
+      }
+    },
+    {
+      "num": 225,
+      "line1": "ஆற்றுவார் ஆற்றல் பசியாற்றல் அப்பசியை",
+      "line2": "மாற்றுவார் ஆற்றலின் பின்.",
+      "enLine1": "'Mid devotees they 're great who hunger's pangs sustain,",
+      "enLine2": "Who hunger's pangs relieve a higher merit gain.",
+      "hiLine1": "क्षुधा-नियन्त्रण जो रहा, तपोनिष्ठ की शक्ति ।",
+      "hiLine2": "क्षुधा-निवारक शक्ति के, पीछे ही वह शक्ति ॥",
+      "general": "தவம் செய்வோரின் வலிமை பசியைப் பொறுத்துக்கொள்ளுதலாகும்; ஆனால் அந்த வலிமையும் பிறருடைய பசியைப் போக்குபவரின் வலிமைக்குப் பிற்பட்டதே ஆகும்.",
+      "en": "The power of ascetics who endure hunger comes only after the power of those who relieve the hunger of others.",
+      "hi": "तपोनिष्ठ साधुओं में अपनी भूख पर नियंत्रण रखने की जो शक्ति होती है, वह भी दूसरों की भूख मिटाने की शक्ति के बाद ही आती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஆற்றுவார் <br>(Aatruvaar)",
+          "ta": "தவம் செய்வோரின்",
+          "en": "Of devotees",
+          "hi": "तपोनिष्ठ की"
+        },
+        {
+          "no": 2,
+          "word": "ஆற்றல் <br>(Aatral)",
+          "ta": "வலிமை",
+          "en": "Power / strength",
+          "hi": "शक्ति"
+        },
+        {
+          "no": 3,
+          "word": "பசியாற்றல் <br>(Pasiyaatral)",
+          "ta": "பசியைப் பொறுத்தல்",
+          "en": "Sustaining hunger",
+          "hi": "क्षुधा-नियंत्रण"
+        },
+        {
+          "no": 4,
+          "word": "அப்பசியை <br>(Appasiyai)",
+          "ta": "அந்தப் பசியை",
+          "en": "That hunger",
+          "hi": "क्षुधा को"
+        },
+        {
+          "no": 5,
+          "word": "மாற்றுவார் <br>(Maatruvaar)",
+          "ta": "போக்குபவரின்",
+          "en": "Of those who relieve",
+          "hi": "निवारण करने वाली"
+        },
+        {
+          "no": 6,
+          "word": "ஆற்றலின் <br>(Aatralin)",
+          "ta": "வலிமைக்கு",
+          "en": "Power",
+          "hi": "शक्ति के"
+        },
+        {
+          "no": 7,
+          "word": "பின் <br>(Pin)",
+          "ta": "பின்னர் உள்ளதே",
+          "en": "Comes after",
+          "hi": "पीछे ही है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஆற்றுவார் ஆற்றல் பசியாற்றல் அப்பசியை",
+          "line2": "மாற்றுவார் ஆற்றலின் பின்."
+        },
+        "en": {
+          "line1": "'Mid devotees they 're great who hunger's pangs sustain,",
+          "line2": "Who hunger's pangs relieve a higher merit gain."
+        },
+        "hi": {
+          "line1": "क्षुधा-नियन्त्रण जो रहा, तपोनिष्ठ की शक्ति ।",
+          "line2": "क्षुधा-निवारक शक्ति के, पीछे ही वह शक्ति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aatruvaar Aatral Pasiyaatral Appasiyai",
+            "line2": "Maatruvaar Aatralin Pin."
+          },
+          "hi": {
+            "line1": "आत्रुवार् आत्रल् पसियात्रल् अप्पसियै",
+            "line2": "मात्रुवार् आत्रलिन् पिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தவம் செய்வோரின் வலிமை பசியைப் பொறுத்துக்கொள்ளுதலாகும்; ஆனால் அந்த வலிமையும் பிறருடைய பசியைப் போக்குபவரின் வலிமைக்குப் பிற்பட்டதே ஆகும்.",
+        "en": "Enduring one's own hunger through fasting is impressive, but feeding the hungry is an even higher spiritual virtue.",
+        "hi": "तपोनिष्ठ साधुओं में अपनी भूख पर नियंत्रण रखने की जो शक्ति होती है, वह भी दूसरों की भूख मिटाने की शक्ति के बाद ही आती है।"
+      }
+    },
+    {
+      "num": 226,
+      "line1": "அற்றார் அழிபசி தீர்த்தல் அஃதொருவன்",
+      "line2": "பெற்றான் பொருள்வைப் புழி.",
+      "enLine1": "Let man relieve the wasting hunger men endure ;",
+      "enLine2": "For treasure gained thus finds he treasure-house secure.",
+      "hiLine1": "नाशक-भूक दरिद्र की, कर मिटा कर दूर ।",
+      "hiLine2": "वह धनिकों को चयन हित, बनता कोष ज़रूर ॥",
+      "general": "வறியவர்களின் கொடிய பசியைத் தீர்க்க வேண்டும்; அதுவே பொருள் பெற்ற ஒருவன் அப்பொருளைத் தனக்குப் பாதுகாப்பாகச் சேமித்து வைக்கும் இடமாகும்.",
+      "en": "Relieve the wasting hunger of the destitute; that is the secure treasure-house where a wealthy man can store his wealth.",
+      "hi": "दरिद्रों की प्राणघातक भूख को दूर करना चाहिए; यही धनी लोगों के लिए अपने धन को सुरक्षित रखने का सच्चा कोष (खजाना) बनता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அற்றார் <br>(Atraar)",
+          "ta": "வறியவர்களின்",
+          "en": "Of the destitute",
+          "hi": "दरिद्र की"
+        },
+        {
+          "no": 2,
+          "word": "அழிபசி <br>(Azhibasi)",
+          "ta": "கொடிய பசியை",
+          "en": "Wasting hunger",
+          "hi": "नाशक भूख को"
+        },
+        {
+          "no": 3,
+          "word": "தீர்த்தல் <br>(Theerththal)",
+          "ta": "போக்குதல் வேண்டும்",
+          "en": "Relieving",
+          "hi": "मिटाकर दूर करना"
+        },
+        {
+          "no": 4,
+          "word": "அஃதொருவன் <br>(Akdhoruvan)",
+          "ta": "அதுவே ஒருவன்",
+          "en": "That for a man",
+          "hi": "वह धनिकों के"
+        },
+        {
+          "no": 5,
+          "word": "பெற்றான் <br>(Petraan)",
+          "ta": "பொருள் பெற்றவன்",
+          "en": "Who gained treasure",
+          "hi": "चयन के लिए"
+        },
+        {
+          "no": 6,
+          "word": "பொருள்வைப் <br>(Porulvaip)",
+          "ta": "பொருளைச் சேமிக்கும்",
+          "en": "Treasure-house",
+          "hi": "कोष"
+        },
+        {
+          "no": 7,
+          "word": "புழி <br>(Puzhi)",
+          "ta": "இடமாகும்",
+          "en": "Place",
+          "hi": "जरूर बनता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அற்றார் அழிபசி தீர்த்தல் அஃதொருவன்",
+          "line2": "பெற்றான் பொருள்வைப் புழி."
+        },
+        "en": {
+          "line1": "Let man relieve the wasting hunger men endure ;",
+          "line2": "For treasure gained thus finds he treasure-house secure."
+        },
+        "hi": {
+          "line1": "नाशक-भूक दरिद्र की, कर मिटा कर दूर ।",
+          "line2": "वह धनिकों को चयन हित, बनता कोष ज़रूर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Atraar Azhibasi Theerththal Akdhoruvan",
+            "line2": "Petraan Porulvaip Puzhi."
+          },
+          "hi": {
+            "line1": "अत्रार् अऴिबसि तीर्त्तल् अःदॊरुवन्",
+            "line2": "पेत्रान् पॊरुळ्वैप् पुऴि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வறியவர்களின் கொடிய பசியைத் தீர்க்க வேண்டும்; அதுவே பொருள் பெற்ற ஒருவன் அப்பொருளைத் தனக்குப் பாதுகாப்பாகச் சேமித்து வைக்கும் இடமாகும்.",
+        "en": "Feeding the starving is the safest vault where you can store your wealth—its merit can never be lost or stolen.",
+        "hi": "दरिद्रों की प्राणघातक भूख को दूर करना चाहिए; यही धनी लोगों के लिए अपने धन को सुरक्षित रखने का सच्चा कोष (खजाना) बनता है।"
+      }
+    },
+    {
+      "num": 227,
+      "line1": "பாத்தூண் மரீஇ யவனைப் பசியென்னும்",
+      "line2": "தீப்பிணி தீண்டல் அரிது.",
+      "enLine1": "Whose soul delights with hungry men to share his meal.",
+      "enLine2": "The hand of hunger's sickness sore shall never feel.",
+      "hiLine1": "भोजन को जो बाँट कर, किया करेगा भोग ।",
+      "hiLine2": "उसे नहीं पीड़ित करे, क्षुधा भयंकर रोग ॥",
+      "general": "பிறரோடு பகிர்ந்து உண்ணும் பழக்கம் உடையவனைப் பசி என்னும் கொடிய நோய் ஒருபோதும் அணுகுவது அரிதாகும்.",
+      "en": "The dreadful disease called hunger will rarely touch one who is accustomed to sharing food with others.",
+      "hi": "जो व्यक्ति अपने भोजन को दूसरों के साथ बाँटकर ग्रहण करता है, उसे भूख रूपी भयंकर रोग कभी पीड़ित नहीं करता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பாத்தூண் <br>(Paaththoon)",
+          "ta": "பகுத்து உண்ணுதலை",
+          "en": "Sharing meal",
+          "hi": "भोजन को बाँटकर"
+        },
+        {
+          "no": 2,
+          "word": "மரீஇ <br>(Mareei)",
+          "ta": "பழகிய",
+          "en": "Accustomed / delights",
+          "hi": "भोग"
+        },
+        {
+          "no": 3,
+          "word": "யவனைப் <br>(Yavanaip)",
+          "ta": "வனை",
+          "en": "Him who",
+          "hi": "किया करेगा जो"
+        },
+        {
+          "no": 4,
+          "word": "பசியென்னும் <br>(Pasiyennum)",
+          "ta": "பசி என்று சொல்லப்படும்",
+          "en": "Called hunger",
+          "hi": "क्षुधा"
+        },
+        {
+          "no": 5,
+          "word": "தீப்பிணி <br>(Theeppini)",
+          "ta": "கொடிய நோய்",
+          "en": "Sickness sore",
+          "hi": "भयंकर रोग"
+        },
+        {
+          "no": 6,
+          "word": "தீண்டல் <br>(Theendal)",
+          "ta": "தீண்டுதல்",
+          "en": "Touching",
+          "hi": "पीड़ित करना"
+        },
+        {
+          "no": 7,
+          "word": "அரிது <br>(Aridhu)",
+          "ta": "அரிதாகும்",
+          "en": "Rare / never feel",
+          "hi": "नहीं करेगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பாத்தூண் மரீஇ யவனைப் பசியென்னும்",
+          "line2": "தீப்பிணி தீண்டல் அரிது."
+        },
+        "en": {
+          "line1": "Whose soul delights with hungry men to share his meal.",
+          "line2": "The hand of hunger's sickness sore shall never feel."
+        },
+        "hi": {
+          "line1": "भोजन को जो बाँट कर, किया करेगा भोग ।",
+          "line2": "उसे नहीं पीड़ित करे, क्षुधा भयंकर रोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Paaththoon Mareei Yavanaip Pasiyennum",
+            "line2": "Theeppini Theendal Aridhu."
+          },
+          "hi": {
+            "line1": "पात्तूण् मरीइ यवनैप् पसियॆन्नुम्",
+            "line2": "तीप्पिणि तीण्डल् अरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறரோடு பகிர்ந்து உண்ணும் பழக்கம் உடையவனைப் பசி என்னும் கொடிய நோய் ஒருபோதும் அணுகுவது அரிதாகும்.",
+        "en": "Those who make a habit of sharing their meals with the hungry are protected from ever suffering the pangs of starvation themselves.",
+        "hi": "जो व्यक्ति अपने भोजन को दूसरों के साथ बाँटकर ग्रहण करता है, उसे भूख रूपी भयंकर रोग कभी पीड़ित नहीं करता।"
+      }
+    },
+    {
+      "num": 228,
+      "line1": "ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை",
+      "line2": "வைத்திழக்கும் வன்க ணவர்.",
+      "enLine1": "Delight of glad'ning human hearts with gifts do they not know,",
+      "enLine2": "Men of unpitying eye, who hoard their wealth, and lose it so ?",
+      "hiLine1": "धन-संग्रह कर खो रहा, जो निर्दय धनवान ।",
+      "hiLine2": "दे कर होते हर्ष का, क्या उसको नहिं ज्ञान ॥",
+      "general": "தம்மிடமுள்ள செல்வத்தைப் பிறருக்குக் கொடுக்காமல் சேர்த்து வைத்துப் பின் இழந்துவிடும் இரக்கமற்றவர்கள், பிறருக்குக் கொடுத்து மகிழும் இன்பத்தை அறியாதவர்களோ?",
+      "en": "Do the hard-hearted who hoard their possessions only to lose them not know the joy of giving and rejoicing?",
+      "hi": "जो निर्दयी धनवान व्यक्ति धन का संग्रह करके अंततः उसे खो बैठता है, क्या उसे दान देकर प्राप्त होने वाले आनंद (हर्ष) का कोई ज्ञान नहीं है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஈத்துவக்கும் <br>(Eeththuvakkum)",
+          "ta": "கொடுத்து மகிழும்",
+          "en": "Delight of giving",
+          "hi": "देकर होने वाले हर्ष का"
+        },
+        {
+          "no": 2,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "இன்பத்தை",
+          "en": "Joy",
+          "hi": "आनंद"
+        },
+        {
+          "no": 3,
+          "word": "அறியார்கொல் <br>(Ariyaarkol)",
+          "ta": "அறியாதவர்களோ",
+          "en": "Do they not know",
+          "hi": "क्या ज्ञान नहीं"
+        },
+        {
+          "no": 4,
+          "word": "தாமுடைமை <br>(Thaamudaimai)",
+          "ta": "தம்மிடமுள்ள செல்வத்தை",
+          "en": "Their wealth",
+          "hi": "धन-संग्रह कर"
+        },
+        {
+          "no": 5,
+          "word": "வைத்திழக்கும் <br>(Vaiththizhakkum)",
+          "ta": "சேமித்து வைத்து இழக்கும்",
+          "en": "Hoard and lose",
+          "hi": "खो रहा है"
+        },
+        {
+          "no": 6,
+          "word": "வன்கண் <br>(Vankan)",
+          "ta": "இரக்கமற்ற",
+          "en": "Unpitying",
+          "hi": "निर्दय"
+        },
+        {
+          "no": 7,
+          "word": "அவர் <br>(Avar)",
+          "ta": "வர்கள்",
+          "en": "Men",
+          "hi": "धनवान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை",
+          "line2": "வைத்திழக்கும் வன்க ணவர்."
+        },
+        "en": {
+          "line1": "Delight of glad'ning human hearts with gifts do they not know,",
+          "line2": "Men of unpitying eye, who hoard their wealth, and lose it so ?"
+        },
+        "hi": {
+          "line1": "धन-संग्रह कर खो रहा, जो निर्दय धनवान ।",
+          "line2": "दे कर होते हर्ष का, क्या उसको नहिं ज्ञान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Eeththuvakkum Inbam Ariyaarkol Thaamudaimai",
+            "line2": "Vaiththizhakkum Vankan Avar."
+          },
+          "hi": {
+            "line1": "ईत्तुवक्कुम् इन्बम् अरियार्कॊल् तामुडैमै",
+            "line2": "वैत्तिऴक्कुम् वन्कण् अवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம்மிடமுள்ள செல்வத்தைப் பிறருக்குக் கொடுக்காமல் சேர்த்து வைத்துப் பின் இழந்துவிடும் இரக்கமற்றவர்கள், பிறருக்குக் கொடுத்து மகிழும் இன்பத்தை அறியாதவர்களோ?",
+        "en": "Hard-hearted misers who hoard their wealth until they lose it all have clearly never tasted the deep joy of generous giving.",
+        "hi": "जो निर्दयी धनवान व्यक्ति धन का संग्रह करके अंततः उसे खो बैठता है, क्या उसे दान देकर प्राप्त होने वाले आनंद (हर्ष) का कोई ज्ञान नहीं है?"
+      }
+    },
+    {
+      "num": 229,
+      "line1": "இரத்தலின் இன்னாது மன்ற நிரப்பிய",
+      "line2": "தாமே தமியர் உணல்.",
+      "enLine1": "They keep their garners full, for self alone the board they spread ;—",
+      "enLine2": "'Tis greater pain, be sure, than begging daily bread !",
+      "hiLine1": "स्वयं अकेले जीमना, पूर्ति के हेतु ।",
+      "hiLine2": "याचन करने से अधिक, निश्चय दुख का हेतु ॥",
+      "general": "பொருள் சேமித்து வைத்துக்கொண்டு பிறருக்குக் கொடுக்காமல் தாமே தனித்து உண்பது, பிறரிடம் இரந்து உண்பதைவிட மிகவும் துன்பமானதாகும்.",
+      "en": "Eating all alone by oneself from accumulated wealth is certainly more painful than begging.",
+      "hi": "केवल अपनी ही पूर्ति के लिए स्वयं अकेले भोजन करना (जीमना), दूसरों के सामने हाथ फैलाकर याचना करने से भी अधिक दुख का कारण है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இரத்தலின் <br>(Iraththalin)",
+          "ta": "இரந்துண்பதைவிட",
+          "en": "Than begging",
+          "hi": "याचन करने से अधिक"
+        },
+        {
+          "no": 2,
+          "word": "இன்னாது <br>(Innaadhu)",
+          "ta": "துன்பமானது",
+          "en": "Greater pain",
+          "hi": "दुख का हेतु"
+        },
+        {
+          "no": 3,
+          "word": "மன்ற <br>(Mandra)",
+          "ta": "உறுதியாக",
+          "en": "Be sure / certainly",
+          "hi": "निश्चय ही"
+        },
+        {
+          "no": 4,
+          "word": "நிரப்பிய <br>(Nirappiya)",
+          "ta": "நிறைந்த பொருளை",
+          "en": "Keep garners full",
+          "hi": "पूर्ति के हेतु"
+        },
+        {
+          "no": 5,
+          "word": "தாமே <br>(Thaame)",
+          "ta": "தாமே",
+          "en": "Themselves",
+          "hi": "स्वयं"
+        },
+        {
+          "no": 6,
+          "word": "தமியர் <br>(Thamiyar)",
+          "ta": "தனித்து",
+          "en": "Alone",
+          "hi": "अकेले"
+        },
+        {
+          "no": 7,
+          "word": "உணல் <br>(Unal)",
+          "ta": "உண்ணுதல்",
+          "en": "Eating",
+          "hi": "जीमना (भोजन करना)"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இரத்தலின் இன்னாது மன்ற நிரப்பிய",
+          "line2": "தாமே தமியர் உணல்."
+        },
+        "en": {
+          "line1": "They keep their garners full, for self alone the board they spread ;—",
+          "line2": "'Tis greater pain, be sure, than begging daily bread !"
+        },
+        "hi": {
+          "line1": "स्वयं अकेले जीमना, पूर्ति के हेतु ।",
+          "line2": "याचन करने से अधिक, निश्चय दुख का हेतु ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Iraththalin Innaadhu Mandra Nirappiya",
+            "line2": "Thaame Thamiyar Unal."
+          },
+          "hi": {
+            "line1": "इरत्तलिन् इन्नादु मन्द्र निरप्पिय",
+            "line2": "तामे तमियर् उणल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொருள் சேமித்து வைத்துக்கொண்டு பிறருக்குக் கொடுக்காமல் தாமே தனித்து உண்பது, பிறரிடம் இரந்து உண்பதைவிட மிகவும் துன்பமானதாகும்.",
+        "en": "Hoarding abundance and eating all by yourself without sharing is a more miserable existence than having to beg for a meal.",
+        "hi": "केवल अपनी ही पूर्ति के लिए स्वयं अकेले भोजन करना (जीमना), दूसरों के सामने हाथ फैलाकर याचना करने से भी अधिक दुख का कारण है।"
+      }
+    },
+    {
+      "num": 230,
+      "line1": "சாதலின் இன்னாத தில்லை இனிததூஉம்",
+      "line2": "ஈதல் இயையாக் கடை.",
+      "enLine1": "'Tis bitter pain to die ! 'Tis worse to live",
+      "enLine2": "For him who nothing finds to give !",
+      "hiLine1": "मरने से बढ़ कर नहीं, दुख देने के अर्थ ।",
+      "hiLine2": "सुखद वही जब दान में, देने को असमर्थ ॥",
+      "general": "இறப்பதைவிடத் துன்பம் தருவது வேறொன்றுமில்லை; ஆனால் வறியவர்க்குக் கொடுத்து உதவ முடியாத நிலை ஏற்பட்டால் அந்தச் சாதலும் இனியதாகும்.",
+      "en": "Nothing is more painful than death; yet even death becomes sweet when one is unable to give to others.",
+      "hi": "मरने से बढ़कर कोई दुख नहीं होता, परंतु जब कोई व्यक्ति दान देने में असमर्थ हो जाए, तो उसके लिए वह मृत्यु भी सुखद हो जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சாதலின் <br>(Saadhalin)",
+          "ta": "இறப்பதைவிட",
+          "en": "Than death",
+          "hi": "मरने से बढ़कर"
+        },
+        {
+          "no": 2,
+          "word": "இன்னாதது <br>(Innaadhadhu)",
+          "ta": "துன்பமானது",
+          "en": "Bitter pain",
+          "hi": "दुख देने वाला"
+        },
+        {
+          "no": 3,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "வேறில்லை",
+          "en": "Nothing is",
+          "hi": "नहीं है"
+        },
+        {
+          "no": 4,
+          "word": "இனிதுஅதூஉம் <br>(Inidhadhooum)",
+          "ta": "அச்சாதலும் இனியதாகும்",
+          "en": "Even that is sweet",
+          "hi": "सुखद वही है"
+        },
+        {
+          "no": 5,
+          "word": "ஈதல் <br>(Eedhal)",
+          "ta": "பிறருக்குக் கொடுத்தல்",
+          "en": "To give",
+          "hi": "दान में देने को"
+        },
+        {
+          "no": 6,
+          "word": "இயையாக் <br>(Iyaiyaak)",
+          "ta": "முடியாத",
+          "en": "Unable / finds nothing",
+          "hi": "असमर्थ"
+        },
+        {
+          "no": 7,
+          "word": "கடை <br>(Kadai)",
+          "ta": "நிலையில்",
+          "en": "When",
+          "hi": "होने पर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சாதலின் இன்னாத தில்லை இனிததூஉம்",
+          "line2": "ஈதல் இயையாக் கடை."
+        },
+        "en": {
+          "line1": "'Tis bitter pain to die ! 'Tis worse to live",
+          "line2": "For him who nothing finds to give !"
+        },
+        "hi": {
+          "line1": "मरने से बढ़ कर नहीं, दुख देने के अर्थ ।",
+          "line2": "सुखद वही जब दान में, देने को असमर्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Saadhalin Innaadha Dhillai Inidhadhooum",
+            "line2": "Eedhal Iyaiyaak Kadai."
+          },
+          "hi": {
+            "line1": "सादलिन् इन्नाद दिल्लै इनिददूउम्",
+            "line2": "ईदल् इयैयाक् कडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இறப்பதைவிடத் துன்பம் தருவது வேறொன்றுமில்லை; ஆனால் வறியவர்க்குக் கொடுத்து உதவ முடியாத நிலை ஏற்பட்டால் அந்தச் சாதலும் இனியதாகும்.",
+        "en": "Nothing is harder to bear than death—except living without the means to help someone in need, which makes even death welcome.",
+        "hi": "मरने से बढ़कर कोई दुख नहीं होता, परंतु जब कोई व्यक्ति दान देने में असमर्थ हो जाए, तो उसके लिए वह मृत्यु भी सुखद हो जाती है।"
+      }
+    }
+  ]
+}

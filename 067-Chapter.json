@@ -1,0 +1,930 @@
+{
+  "chapterNum": 67,
+  "nameTa": "வினைத்திட்பம்",
+  "nameEn": "Power in Action",
+  "nameHi": "कर्म में दृढ़ता",
+  "paal": "பொருட்பால்",
+  "iyal": "அமைச்சியல்",
+  "kurals": [
+    {
+      "num": 661,
+      "line1": "வினைத்திட்ப மென்ப தொருவன் மனத்திட்ப",
+      "line2": "மற்றைய வெல்லாம் பிற.",
+      "enLine1": "What men call 'power in action' know for 'power of mind';",
+      "enLine2": "Externe to man all other aids you find.",
+      "hiLine1": "दृढ़ रहना ही कर्म में, मन की दृढ़ता जान ।",
+      "hiLine2": "दृढ़ता कहलाती नहीं, जो है दृढ़ता आन ॥",
+      "general": "செயல் உறுதி என்று சொல்லப்படுவது ஒருவனுடைய மனத்தின் உறுதியே ஆகும்; மற்றவை எல்லாம் அதற்குப் புறம்பான வேறு வலிமைகளே.",
+      "en": "Firmness in action is simply firmness of mind; all other strengths are external to it.",
+      "hi": "कर्म में दृढ़ता कहलाने वाला गुण वास्तव में मनुष्य के मन की दृढ़ता ही है; इसके अतिरिक्त अन्य सभी प्रकार की दृढ़ताएँ बाहरी हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வினைத்திட்பம் <br>(Vinaiththitpam)",
+          "ta": "செயலில் உறுதி",
+          "en": "Power in action",
+          "hi": "दृढ़ रहना कर्म में"
+        },
+        {
+          "no": 2,
+          "word": "என்பது <br>(Enbadhu)",
+          "ta": "என்று சொல்லப்படுவது",
+          "en": "What men call",
+          "hi": "कहलाती"
+        },
+        {
+          "no": 3,
+          "word": "ஒருவன் <br>(Oruvan)",
+          "ta": "ஒருவனுடைய",
+          "en": "To man",
+          "hi": "मनुष्य की"
+        },
+        {
+          "no": 4,
+          "word": "மனத்திட்பம் <br>(Manaththitpam)",
+          "ta": "மன உறுதியே",
+          "en": "Power of mind",
+          "hi": "मन की दृढ़ता"
+        },
+        {
+          "no": 5,
+          "word": "மற்றைய <br>(Matraiya)",
+          "ta": "மற்றவை",
+          "en": "Other aids",
+          "hi": "जो है आन"
+        },
+        {
+          "no": 6,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாம்",
+          "en": "All",
+          "hi": "सब"
+        },
+        {
+          "no": 7,
+          "word": "பிற <br>(Pira)",
+          "ta": "வேறானவை",
+          "en": "Externe",
+          "hi": "अन्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வினைத்திட்ப மென்ப தொருவன் மனத்திட்ப",
+          "line2": "மற்றைய வெல்லாம் பிற."
+        },
+        "en": {
+          "line1": "What men call 'power in action' know for 'power of mind';",
+          "line2": "Externe to man all other aids you find."
+        },
+        "hi": {
+          "line1": "दृढ़ रहना ही कर्म में, मन की दृढ़ता जान ।",
+          "line2": "दृढ़ता कहलाती नहीं, जो है दृढ़ता आन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vinaiththitpa Menba Dhoruvan Manaththitpa",
+            "line2": "Matraiya Vellaam Pira."
+          },
+          "hi": {
+            "line1": "विनैत्तित्प मॆन्ब दॊरुवन् मनत्तित्प",
+            "line2": "मत्रैया वॆल्लाम् पिर."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செயல் உறுதி என்று சொல்லப்படுவது ஒருவனுடைய மனத்தின் உறுதியே ஆகும்; மற்றவை எல்லாம் அதற்குப் புறம்பான வேறு வலிமைகளே.",
+        "en": "True strength in execution comes from mental resolve—every other resource is secondary.",
+        "hi": "कर्म में दृढ़ता कहलाने वाला गुण वास्तव में मनुष्य के मन की दृढ़ता ही है; इसके अतिरिक्त अन्य सभी प्रकार की दृढ़ताएँ बाहरी हैं।"
+      }
+    },
+    {
+      "num": 662,
+      "line1": "ஊறொரா லுற்றபி னொல்காமை யிவ்விரண்டி",
+      "line2": "னாறென்ப ராய்ந்தவர் கோள்.",
+      "enLine1": "'Each hindrance shun,' 'unyielding onward press, if obstacle be there,'",
+      "enLine2": "These two define your way, so those that search out truth declare.",
+      "hiLine1": "दुष्ट न करना, यदि हुआ, तो फिर न हो अधीर ।",
+      "hiLine2": "मत यह है नीतिज्ञ का, दो पथ मानें मीर ॥",
+      "general": "தீமை வரும் செயல்களைத் தவிர்த்தலும், துன்பம் வந்தபின் தளராமல் இருத்தலும் ஆகிய இவ்விரண்டுமே ஆராய்ந்த அறிஞர்களின் நெறியாகும்.",
+      "en": "Avoiding harmful ventures and remaining undaunted if trouble strikes—these two are the guiding principles of the wise.",
+      "hi": "नीतिज्ञ विद्वानों का मत है कि अनुचित कार्य से बचना और संकट आने पर भी विचलित न होना—ये दो ही कर्म के श्रेष्ठ मार्ग हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊறு ஒரால் <br>(Ooru oraal)",
+          "ta": "இடையூறு வரும் செயலைத் தவிர்த்தல்",
+          "en": "Each hindrance shun",
+          "hi": "दुष्ट न करना"
+        },
+        {
+          "no": 2,
+          "word": "உற்றபின் <br>(Utrapin)",
+          "ta": "துன்பம் வந்தபின்",
+          "en": "If obstacle be there",
+          "hi": "यदि हुआ"
+        },
+        {
+          "no": 3,
+          "word": "ஒல்காமை <br>(Olkaamai)",
+          "ta": "தளராதிருத்தல்",
+          "en": "Unyielding onward press",
+          "hi": "तो फिर न हो अधीर"
+        },
+        {
+          "no": 4,
+          "word": "இவ்விரண்டின் <br>(Ivvirandin)",
+          "ta": "இவ்விரண்டின்",
+          "en": "These two",
+          "hi": "दो पथ"
+        },
+        {
+          "no": 5,
+          "word": "ஆறு என்பர் <br>(Aaru enbar)",
+          "ta": "நெறி என்று கூறுவர்",
+          "en": "Define your way",
+          "hi": "मानें"
+        },
+        {
+          "no": 6,
+          "word": "ஆய்ந்தவர் <br>(Aayndhavar)",
+          "ta": "ஆராய்ந்தறிந்த அறிஞர்",
+          "en": "Those that search truth",
+          "hi": "नीतिज्ञ"
+        },
+        {
+          "no": 7,
+          "word": "கோள் <br>(Kol)",
+          "ta": "கொள்கை",
+          "en": "Declare",
+          "hi": "मत"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊறொரா லுற்றபி னொல்காமை யிவ்விரண்டி",
+          "line2": "னாறென்ப ராய்ந்தவர் கோள்."
+        },
+        "en": {
+          "line1": "'Each hindrance shun,' 'unyielding onward press, if obstacle be there,'",
+          "line2": "These two define your way, so those that search out truth declare."
+        },
+        "hi": {
+          "line1": "दुष्ट न करना, यदि हुआ, तो फिर न हो अधीर ।",
+          "line2": "मत यह है नीतिज्ञ का, दो पथ मानें मीर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oororaa Lutrapi Nolkaamai Yivvirandi",
+            "line2": "Naarenba Raayndhavar Kol."
+          },
+          "hi": {
+            "line1": "ऊरॊरा लुत्रपि नॊल्कामै यिव्विरण्डि",
+            "line2": "नारॆन्ब राय्न्दवर् कोळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தீமை வரும் செயல்களைத் தவிர்த்தலும், துன்பம் வந்தபின் தளராமல் இருத்தலும் ஆகிய இவ்விரண்டுமே ஆராய்ந்த அறிஞர்களின் நெறியாகும்.",
+        "en": "Steer clear of reckless risks, and if setbacks still hit, refuse to back down—that is the proven playbook.",
+        "hi": "नीतिज्ञ विद्वानों का मत है कि अनुचित कार्य से बचना और संकट आने पर भी विचलित न होना—ये दो ही कर्म के श्रेष्ठ मार्ग हैं।"
+      }
+    },
+    {
+      "num": 663,
+      "line1": "கடைக்கொட்கச் செய்தக்க தாண்மை யிடைக்கொட்கி",
+      "line2": "னெற்றா விழுமந் தரும்.",
+      "enLine1": "Man's fitting work is known but by success achieved;",
+      "enLine2": "In midst the plan revealed brings ruin ne'er to be retrieved.",
+      "hiLine1": "प्रकट किया कर्मान्त में, तो है योग्य सुधीर ।",
+      "hiLine2": "प्रकट किया यदि बीच में, देगा अनन्त पीर ॥",
+      "general": "எடுத்த செயல் முடிந்த பிறகே பிறர் அறியுமாறு செய்து முடிப்பது ஆண்மையாகும்; இடையில் வெளிப்பட்டால் தீராத துன்பத்தைத் தரும்.",
+      "en": "True capability is shown by keeping a plan quiet until it succeeds; exposing it midway brings irreversible ruin.",
+      "hi": "कार्य के पूर्ण होने पर ही उसे प्रकट करना बुद्धिमान और वीर का लक्षण है; यदि बीच में ही योजना प्रकट कर दी जाए, तो वह भारी कष्ट देती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கடைக்கொட்க <br>(Kadaikkotka)",
+          "ta": "முடிந்தபின் வெளிப்பட",
+          "en": "By success achieved",
+          "hi": "प्रकट किया कर्मान्त में"
+        },
+        {
+          "no": 2,
+          "word": "செய்தக்கது <br>(Seydhakkadhu)",
+          "ta": "செய்யத்தக்கது",
+          "en": "Fitting work",
+          "hi": "योग्य"
+        },
+        {
+          "no": 3,
+          "word": "ஆண்மை <br>(Aanmai)",
+          "ta": "ஆண்மை ஆகும்",
+          "en": "Man's prowess",
+          "hi": "सुधीर"
+        },
+        {
+          "no": 4,
+          "word": "இடைக்கொட்கின் <br>(Idaikkotkin)",
+          "ta": "இடையில் வெளிப்பட்டால்",
+          "en": "In midst revealed",
+          "hi": "प्रकट किया यदि बीच में"
+        },
+        {
+          "no": 5,
+          "word": "எற்றா <br>(Etraa)",
+          "ta": "தீராத",
+          "en": "Ne'er to be retrieved",
+          "hi": "अनन्त"
+        },
+        {
+          "no": 6,
+          "word": "விழுமம் <br>(Vizhumam)",
+          "ta": "துன்பத்தை",
+          "en": "Ruin",
+          "hi": "पीर"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "கொடுக்கும்",
+          "en": "Brings",
+          "hi": "देगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கடைக்கொட்கச் செய்தக்க தாண்மை யிடைக்கொட்கி",
+          "line2": "னெற்றா விழுமந் தரும்."
+        },
+        "en": {
+          "line1": "Man's fitting work is known but by success achieved;",
+          "line2": "In midst the plan revealed brings ruin ne'er to be retrieved."
+        },
+        "hi": {
+          "line1": "प्रकट किया कर्मान्त में, तो है योग्य सुधीर ।",
+          "line2": "प्रकट किया यदि बीच में, देगा अनन्त पीर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kadaikkotkach Seydhakka Dhaanmai Yidaikkotki",
+            "line2": "Netraa Vizhuman Tharum."
+          },
+          "hi": {
+            "line1": "कडैक्कॊट्कच् सॆय्दक्क ताण्मै यिडैक्कॊट्कि",
+            "line2": "नॆत्रा विऴुमन् तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எடுத்த செயல் முடிந்த பிறகே பிறர் அறியுமாறு செய்து முடிப்பது ஆண்மையாகும்; இடையில் வெளிப்பட்டால் தீராத துன்பத்தைத் தரும்.",
+        "en": "Let your results speak when the work is finished—leaking plans halfway through only invites disaster.",
+        "hi": "कार्य के पूर्ण होने पर ही उसे प्रकट करना बुद्धिमान और वीर का लक्षण है; यदि बीच में ही योजना प्रकट कर दी जाए, तो वह भारी कष्ट देती है।"
+      }
+    },
+    {
+      "num": 664,
+      "line1": "சொல்லுதல் யார்க்கு மெளிய வரியவாஞ்",
+      "line2": "சொல்லிய வண்ணஞ் செயல்.",
+      "enLine1": "Easy to every man the speech that shows the way;",
+      "enLine2": "Hard thing to shape one's life by words they say!",
+      "hiLine1": "कहना तो सब के लिये, रहता है आसान ।",
+      "hiLine2": "करना जो जैसा कहे, है दुस्साध्य निदान ॥",
+      "general": "இப்படிச் செய்யலாம் என்று சொல்லுதல் எவருக்கும் எளியது; ஆனால் சொன்னபடியே செய்து முடிப்பது அரிய செயலாகும்.",
+      "en": "Speaking about what should be done is easy for anyone, but carrying out what one has spoken is truly difficult.",
+      "hi": "बोलकर उपदेश देना या योजना बताना तो सभी के लिए आसान है, परन्तु जैसा कहा गया है वैसा करके दिखाना अत्यन्त कठिन है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சொல்லுதல் <br>(Solludhal)",
+          "ta": "பேசுதல்",
+          "en": "The speech",
+          "hi": "कहना"
+        },
+        {
+          "no": 2,
+          "word": "யார்க்கும் <br>(Yaarkkum)",
+          "ta": "எல்லோருக்கும்",
+          "en": "To every man",
+          "hi": "सब के लिये"
+        },
+        {
+          "no": 3,
+          "word": "எளிய <br>(Eliya)",
+          "ta": "எளிதானது",
+          "en": "Easy",
+          "hi": "आसान"
+        },
+        {
+          "no": 4,
+          "word": "அரியவாம் <br>(Ariyavaam)",
+          "ta": "அரியதாகும்",
+          "en": "Hard thing",
+          "hi": "दुस्साध्य निदान"
+        },
+        {
+          "no": 5,
+          "word": "சொல்லிய <br>(Solliya)",
+          "ta": "சொன்ன",
+          "en": "Words they say",
+          "hi": "जो जैसा कहे"
+        },
+        {
+          "no": 6,
+          "word": "வண்ணம் <br>(Vannam)",
+          "ta": "படியே",
+          "en": "Shape by",
+          "hi": "वैसा"
+        },
+        {
+          "no": 7,
+          "word": "செயல் <br>(Seyal)",
+          "ta": "செய்து முடித்தல்",
+          "en": "Action",
+          "hi": "करना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சொல்லுதல் யார்க்கு மெளிய வரியவாஞ்",
+          "line2": "சொல்லிய வண்ணஞ் செயல்."
+        },
+        "en": {
+          "line1": "Easy to every man the speech that shows the way;",
+          "line2": "Hard thing to shape one's life by words they say!"
+        },
+        "hi": {
+          "line1": "कहना तो सब के लिये, रहता है आसान ।",
+          "line2": "करना जो जैसा कहे, है दुस्साध्य निदान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Solludhal Yaarkkum Eliya Ariyavaam",
+            "line2": "Solliya Vannam Seyal."
+          },
+          "hi": {
+            "line1": "सॊल्लुदल् यार्क्कु मॆळिय वरियवाञ्",
+            "line2": "सॊल्लिय वण्णञ् सॆयल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இப்படிச் செய்யலாம் என்று சொல்லுதல் எவருக்கும் எளியது; ஆனால் சொன்னபடியே செய்து முடிப்பது அரிய செயலாகும்.",
+        "en": "Anyone can talk a good game; following through on your own words is what's rare.",
+        "hi": "बोलकर उपदेश देना या योजना बताना तो सभी के लिए आसान है, परन्तु जैसा कहा गया है वैसा करके दिखाना अत्यन्त कठिन है।"
+      }
+    },
+    {
+      "num": 665,
+      "line1": "வீறெய்தி மாண்டார் வினைத்திட்பம் வேந்தன்க",
+      "line2": "ணூறெய்தி யுள்ளப் படும்.",
+      "enLine1": "The power in act of men renowned and great,",
+      "enLine2": "With king acceptance finds and fame through all the state.",
+      "hiLine1": "कीर्ति दिला कर सचित को, कर्म-निष्ठता-बान ।",
+      "hiLine2": "नृप पर डाल प्रभाव वह, पावेगी सम्मान ॥",
+      "general": "பெருமை பெற்று உயர்ந்தவர்களின் செயல் உறுதி, அரசனிடமும் சென்று சேர்ந்து எல்லோராலும் போற்றி மதிக்கப்படும்.",
+      "en": "The steadfastness in action of noble and renowned ministers reaches the king and earns honor throughout the realm.",
+      "hi": "महान और यशस्वी मंत्रियों की कर्म-निष्ठता राजा के हृदय को प्रभावित करती है और पूरे राज्य में सम्मान तथा कीर्ति पाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வீறு எய்தி <br>(Veeru eydhi)",
+          "ta": "பெருமை பெற்று",
+          "en": "Renowned",
+          "hi": "कीर्ति दिला कर"
+        },
+        {
+          "no": 2,
+          "word": "மாண்டார் <br>(Maandaar)",
+          "ta": "மாட்சிமைப்பட்டவரின்",
+          "en": "Men great",
+          "hi": "सचित को"
+        },
+        {
+          "no": 3,
+          "word": "வினைத்திட்பம் <br>(Vinaiththitpam)",
+          "ta": "செயல் உறுதி",
+          "en": "Power in act",
+          "hi": "कर्म-निष्ठता-बान"
+        },
+        {
+          "no": 4,
+          "word": "வேந்தன்கண் <br>(Vendhankan)",
+          "ta": "அரசனிடம்",
+          "en": "With king",
+          "hi": "नृप पर"
+        },
+        {
+          "no": 5,
+          "word": "ஊறு எய்தி <br>(Ooru eydhi)",
+          "ta": "சென்று சேர்ந்து",
+          "en": "Acceptance finds",
+          "hi": "डाल प्रभाव"
+        },
+        {
+          "no": 6,
+          "word": "உள்ளப்படும் <br>(Ullappadum)",
+          "ta": "மதிக்கப்படும்",
+          "en": "Fame through state",
+          "hi": "पावेगी सम्मान"
+        },
+        {
+          "no": 7,
+          "word": "நன்கு <br>(Nangu)",
+          "ta": "நன்கு",
+          "en": "Well",
+          "hi": "भली-भाँति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வீறெய்தி மாண்டார் வினைத்திட்பம் வேந்தன்க",
+          "line2": "ணூறெய்தி யுள்ளப் படும்."
+        },
+        "en": {
+          "line1": "The power in act of men renowned and great,",
+          "line2": "With king acceptance finds and fame through all the state."
+        },
+        "hi": {
+          "line1": "कीर्ति दिला कर सचित को, कर्म-निष्ठता-बान ।",
+          "line2": "नृप पर डाल प्रभाव वह, पावेगी सम्मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Veereydhi Maandaar Vinaiththitpam Vendhanka",
+            "line2": "Nooreydhi Yullap Padum."
+          },
+          "hi": {
+            "line1": "वीरॆय्दि माण्डार् विनैत्तित्पम् वेन्दन्क",
+            "line2": "णूरॆय्दि युळ्ळप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பெருமை பெற்று உயர்ந்தவர்களின் செயல் உறுதி, அரசனிடமும் சென்று சேர்ந்து எல்லோராலும் போற்றி மதிக்கப்படும்.",
+        "en": "Consistent, decisive execution by capable leaders wins the trust of top leadership and earns lasting respect.",
+        "hi": "महान और यशस्वी मंत्रियों की कर्म-निष्ठता राजा के हृदय को प्रभावित करती है और पूरे राज्य में सम्मान तथा कीर्ति पाती है।"
+      }
+    },
+    {
+      "num": 666,
+      "line1": "எண்ணிய வெண்ணியாங் கெய்துப வெண்ணியார்",
+      "line2": "திண்ணிய ராகப் பெறின்.",
+      "enLine1": "Whate'er men think, ev'n as they think, may men obtain,",
+      "enLine2": "If those who think can steadfastness of will retain.",
+      "hiLine1": "संकल्पित सब वस्तुएँ, यथा किया संकल्प ।",
+      "hiLine2": "संकल्पक का जायगा, यदि वह दृढ़-संकल्प ॥",
+      "general": "ஒரு செயலை எண்ணியவர்கள் மன உறுதி உடையவர்களாக இருந்தால், தாம் எண்ணியவற்றை எண்ணியபடியே அடைவார்கள்.",
+      "en": "People will achieve whatever they set their minds to, exactly as they planned, if they hold fast with resolute will.",
+      "hi": "यदि संकल्प करने वाला व्यक्ति अपने निश्चय पर दृढ़ रहे, तो उसने जैसा सोचा है, उसकी वे सभी संकल्पित वस्तुएँ ठीक उसी प्रकार सिद्ध हो जाती हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எண்ணிய <br>(Enniya)",
+          "ta": "நினைத்தவற்றை",
+          "en": "Whate'er men think",
+          "hi": "संकल्पित सब वस्तुएँ"
+        },
+        {
+          "no": 2,
+          "word": "எண்ணியாங்கு <br>(Enniyaangu)",
+          "ta": "நினைத்தபடியே",
+          "en": "Ev'n as they think",
+          "hi": "यथा किया संकल्प"
+        },
+        {
+          "no": 3,
+          "word": "எய்துப <br>(Eydhuba)",
+          "ta": "அடைவார்கள்",
+          "en": "May obtain",
+          "hi": "पा जायगा"
+        },
+        {
+          "no": 4,
+          "word": "எண்ணியார் <br>(Enniyaar)",
+          "ta": "நினைத்தவர்கள்",
+          "en": "Those who think",
+          "hi": "संकल्पक"
+        },
+        {
+          "no": 5,
+          "word": "திண்ணியர் <br>(Thinniyar)",
+          "ta": "மன உறுதி உடையவராக",
+          "en": "Steadfastness of will",
+          "hi": "दृढ़-संकल्प"
+        },
+        {
+          "no": 6,
+          "word": "ஆகப் <br>(Aaga)",
+          "ta": "ஆக",
+          "en": "Retain",
+          "hi": "रहे"
+        },
+        {
+          "no": 7,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "இருந்தால்",
+          "en": "If",
+          "hi": "यदि वह"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எண்ணிய வெண்ணியாங் கெய்துப வெண்ணியார்",
+          "line2": "திண்ணிய ராகப் பெறின்."
+        },
+        "en": {
+          "line1": "Whate'er men think, ev'n as they think, may men obtain,",
+          "line2": "If those who think can steadfastness of will retain."
+        },
+        "hi": {
+          "line1": "संकल्पित सब वस्तुएँ, यथा किया संकल्प ।",
+          "line2": "संकल्पक का जायगा, यदि वह दृढ़-संकल्प ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Enniya Venniyaang Keydhuba Venniyaar",
+            "line2": "Thinniya Raagap Perin."
+          },
+          "hi": {
+            "line1": "ऎण्णिय वॆण्णियाङ् गॆय्दुब वॆण्णियार्",
+            "line2": "तिण्णिय रागप् पॆरिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு செயலை எண்ணியவர்கள் மன உறுதி உடையவர்களாக இருந்தால், தாம் எண்ணியவற்றை எண்ணியபடியே அடைவார்கள்.",
+        "en": "You can achieve exactly what you envision, provided you back your vision with unshakable determination.",
+        "hi": "यदि संकल्प करने वाला व्यक्ति अपने निश्चय पर दृढ़ रहे, तो उसने जैसा सोचा है, उसकी वे सभी संकल्पित वस्तुएँ ठीक उसी प्रकार सिद्ध हो जाती हैं।"
+      }
+    },
+    {
+      "num": 667,
+      "line1": "உருவுகண் டெள்ளாமை வேண்டு முருள்பெருந்தேர்க்",
+      "line2": "கச்சாணி யன்னா ருடைத்து.",
+      "enLine1": "Despise not men of modest bearing; Look not at form, but what men are:",
+      "enLine2": "For some there live, high functions sharing, Like linch-pin of the mighty car!",
+      "hiLine1": "तिरस्कार करना नहीं, छोटा कद अवलोक ।",
+      "hiLine2": "चलते भारी यान में, अक्ष-आणि सम लोग ॥",
+      "general": "ஒருவரின் சிறிய தோற்றத்தைக் கண்டு அவரை இகழக் கூடாது; பெரிய தேரைத் தாங்கிச் செல்லும் சிறிய அச்சாணியைப் போன்றவர்கள் உலகில் உண்டு.",
+      "en": "Never look down on someone because of a modest appearance; some people are like the small linchpin that holds up a massive chariot.",
+      "hi": "किसी व्यक्ति का छोटा रूप या साधारण कद देखकर उसका तिरस्कार नहीं करना चाहिए; इस संसार में ऐसे लोग भी हैं जो भारी रथ की छोटी-सी कील (अक्ष-आणि) के समान महत्त्वपूर्ण होते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உருவு கண்டு <br>(Uruvu kandu)",
+          "ta": "தோற்றத்தைக் கண்டு",
+          "en": "Look at form",
+          "hi": "छोटा कद अवलोक"
+        },
+        {
+          "no": 2,
+          "word": "எள்ளாமை <br>(Ellaamai)",
+          "ta": "இகழாதிருத்தல்",
+          "en": "Despise not",
+          "hi": "तिरस्कार करना नहीं"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டும் <br>(Vendum)",
+          "ta": "வேண்டும்",
+          "en": "Must",
+          "hi": "चाहिये"
+        },
+        {
+          "no": 4,
+          "word": "உருள் பெருந்தேர்க்கு <br>(Urul perundherkku)",
+          "ta": "ஓடும் பெரிய தேருக்கு",
+          "en": "Of the mighty car",
+          "hi": "चलते भारी यान में"
+        },
+        {
+          "no": 5,
+          "word": "அச்சாணி <br>(Achchaani)",
+          "ta": "அச்சாணி",
+          "en": "Linch-pin",
+          "hi": "अक्ष-आणि"
+        },
+        {
+          "no": 6,
+          "word": "அன்னார் <br>(Annaar)",
+          "ta": "போன்றவரை",
+          "en": "Like",
+          "hi": "सम लोग"
+        },
+        {
+          "no": 7,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "உலகம் உடையது",
+          "en": "There live",
+          "hi": "हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உருவுகண் டெள்ளாமை வேண்டு முருள்பெருந்தேர்க்",
+          "line2": "கச்சாணி யன்னா ருடைத்து."
+        },
+        "en": {
+          "line1": "Despise not men of modest bearing; Look not at form, but what men are:",
+          "line2": "For some there live, high functions sharing, Like linch-pin of the mighty car!"
+        },
+        "hi": {
+          "line1": "तिरस्कार करना नहीं, छोटा कद अवलोक ।",
+          "line2": "चलते भारी यान में, अक्ष-आणि सम लोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uruvukan Dellaamai Vendu Murulperundherk",
+            "line2": "Kachchaani Yannaa Rudaiththu."
+          },
+          "hi": {
+            "line1": "उरुवुगण् डॆळ्ळामै वेण्डु मुरुळ्पॆरुन्देर्क्",
+            "line2": "कच्चाणि यन्ना रुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவரின் சிறிய தோற்றத்தைக் கண்டு அவரை இகழக் கூடாது; பெரிய தேரைத் தாங்கிச் செல்லும் சிறிய அச்சாணியைப் போன்றவர்கள் உலகில் உண்டு.",
+        "en": "Don't judge people by outward stature—some quiet individuals are the linchpin holding the whole operation together.",
+        "hi": "किसी व्यक्ति का छोटा रूप या साधारण कद देखकर उसका तिरस्कार नहीं करना चाहिए; इस संसार में ऐसे लोग भी हैं जो भारी रथ की छोटी-सी कील (अक्ष-आणि) के समान महत्त्वपूर्ण होते हैं।"
+      }
+    },
+    {
+      "num": 668,
+      "line1": "கலங்காது கண்ட வினைக்கட் டுளங்காது",
+      "line2": "தூக்கங் கடிந்து செயல்.",
+      "enLine1": "What clearly eye discerns as right, with steadfast will,",
+      "enLine2": "And mind unslumbering, that should man fulfil.",
+      "hiLine1": "सोच समझ निश्चय किया, करने का जो कर्म ।",
+      "hiLine2": "हिचके बिन अविलम्ब ही, कर देना वह कर्म ॥",
+      "general": "தெளிவான மனத்துடன் ஆராய்ந்து முடிவு செய்த செயலை, மனத் தளர்ச்சியின்றியும் காலதாமதமின்றியும் செய்து முடிக்க வேண்டும்.",
+      "en": "Once a course of action is clearly decided without confusion, execute it unwaveringly and without delay.",
+      "hi": "भली-भाँति सोच-समझकर और निश्चल मन से जिस कार्य को करने का निश्चय कर लिया हो, उसे बिना किसी हिचकिचाहट या आलस्य के शीघ्र पूरा कर देना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கலங்காது <br>(Kalangaadhu)",
+          "ta": "குழப்பமில்லாமல்",
+          "en": "Clearly discerns",
+          "hi": "निश्चल मन से"
+        },
+        {
+          "no": 2,
+          "word": "கண்ட <br>(Kanda)",
+          "ta": "உறுதி செய்த",
+          "en": "As right",
+          "hi": "सोच समझ निश्चय किया"
+        },
+        {
+          "no": 3,
+          "word": "வினைக்கண் <br>(Vinaikkan)",
+          "ta": "செயலில்",
+          "en": "In action",
+          "hi": "जो कर्म"
+        },
+        {
+          "no": 4,
+          "word": "துளங்காது <br>(Thulangaadhu)",
+          "ta": "தளராமல்",
+          "en": "Steadfast will",
+          "hi": "हिचके बिन"
+        },
+        {
+          "no": 5,
+          "word": "தூக்கம் <br>(Thookkam)",
+          "ta": "காலதாமதத்தை",
+          "en": "Slumbering delay",
+          "hi": "विलम्ब"
+        },
+        {
+          "no": 6,
+          "word": "கடிந்து <br>(Kadindhu)",
+          "ta": "நீக்கி",
+          "en": "Unslumbering",
+          "hi": "अविलम्ब ही"
+        },
+        {
+          "no": 7,
+          "word": "செயல் <br>(Seyal)",
+          "ta": "செய்ய வேண்டும்",
+          "en": "Should fulfil",
+          "hi": "कर देना वह कर्म"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கலங்காது கண்ட வினைக்கட் டுளங்காது",
+          "line2": "தூக்கங் கடிந்து செயல்."
+        },
+        "en": {
+          "line1": "What clearly eye discerns as right, with steadfast will,",
+          "line2": "And mind unslumbering, that should man fulfil."
+        },
+        "hi": {
+          "line1": "सोच समझ निश्चय किया, करने का जो कर्म ।",
+          "line2": "हिचके बिन अविलम्ब ही, कर देना वह कर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kalangaadhu Kanda Vinaikkat Tulangaadhu",
+            "line2": "Thookkang Kadindhu Seyal."
+          },
+          "hi": {
+            "line1": "कलङ्गादु कण्ड विनैक्कड् डुळङ्गादु",
+            "line2": "तूक्कङ् कडिन्दु सॆयल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தெளிவான மனத்துடன் ஆராய்ந்து முடிவு செய்த செயலை, மனத் தளர்ச்சியின்றியும் காலதாமதமின்றியும் செய்து முடிக்க வேண்டும்.",
+        "en": "When you've thought things through and see the right path, act decisively without hesitation or procrastination.",
+        "hi": "भली-भाँति सोच-समझकर और निश्चल मन से जिस कार्य को करने का निश्चय कर लिया हो, उसे बिना किसी हिचकिचाहट या आलस्य के शीघ्र पूरा कर देना चाहिए।"
+      }
+    },
+    {
+      "num": 669,
+      "line1": "துன்ப முறவரினுஞ் செய்க துணிவாற்றி",
+      "line2": "யின்பம் பயக்கும் வினை.",
+      "enLine1": "Though toil and trouble face thee, firm resolve hold fast,",
+      "enLine2": "And do the deeds that pleasure yield at last.",
+      "hiLine1": "यद्यपि होगा बहुत दुख, दृढ़ता से काम ।",
+      "hiLine2": "सुख-फल दायक ही रहा, जिसका शुभ परिणाम ॥",
+      "general": "செய்யும்போது துன்பம் நேர்ந்தாலும், மனத்துணிவுடன் இருந்து இறுதியில் இன்பம் தரும் நல்ல செயலைச் செய்து முடிக்க வேண்டும்.",
+      "en": "Even if it brings hardship along the way, summon your resolve and carry out the action that yields lasting joy in the end.",
+      "hi": "यद्यपि कार्य करते समय बहुत कष्ट सहना पड़े, फिर भी दृढ़ निश्चय के साथ उस कर्म को पूरा करना चाहिए जिसका अन्तिम परिणाम सुखद हो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "துன்பம் <br>(Thunbam)",
+          "ta": "துன்பம்",
+          "en": "Toil and trouble",
+          "hi": "बहुत दुख"
+        },
+        {
+          "no": 2,
+          "word": "உறவரினும் <br>(Uravarinum)",
+          "ta": "மிகுதியாக வந்தாலும்",
+          "en": "Though face thee",
+          "hi": "यद्यपि होगा"
+        },
+        {
+          "no": 3,
+          "word": "செய்க <br>(Seyga)",
+          "ta": "செய்ய வேண்டும்",
+          "en": "Do",
+          "hi": "करना काम"
+        },
+        {
+          "no": 4,
+          "word": "துணிவு ஆற்றி <br>(Thunivu aatri)",
+          "ta": "மன உறுதி கொண்டு",
+          "en": "Firm resolve hold fast",
+          "hi": "दृढ़ता से"
+        },
+        {
+          "no": 5,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "இன்பத்தை",
+          "en": "Pleasure",
+          "hi": "सुख-फल"
+        },
+        {
+          "no": 6,
+          "word": "பயக்கும் <br>(Payakkum)",
+          "ta": "தரும்",
+          "en": "Yield at last",
+          "hi": "दायक ही रहा"
+        },
+        {
+          "no": 7,
+          "word": "வினை <br>(Vinai)",
+          "ta": "செயலை",
+          "en": "Deeds",
+          "hi": "शुभ परिणाम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "துன்ப முறவரினுஞ் செய்க துணிவாற்றி",
+          "line2": "யின்பம் பயக்கும் வினை."
+        },
+        "en": {
+          "line1": "Though toil and trouble face thee, firm resolve hold fast,",
+          "line2": "And do the deeds that pleasure yield at last."
+        },
+        "hi": {
+          "line1": "यद्यपि होगा बहुत दुख, दृढ़ता से काम ।",
+          "line2": "सुख-फल दायक ही रहा, जिसका शुभ परिणाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thunbam Uravarinum Seyga Thunivaatri",
+            "line2": "Inbam Payakkum Vinai."
+          },
+          "hi": {
+            "line1": "तुन्ब मुरवरिनुञ् सॆय्ग तुणिवारि",
+            "line2": "यिन्बम् पयक्कुम् विनै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செய்யும்போது துன்பம் நேர்ந்தாலும், மனத்துணிவுடன் இருந்து இறுதியில் இன்பம் தரும் நல்ல செயலைச் செய்து முடிக்க வேண்டும்.",
+        "en": "Push through short-term difficulty with grit if the final outcome will bring lasting good.",
+        "hi": "यद्यपि कार्य करते समय बहुत कष्ट सहना पड़े, फिर भी दृढ़ निश्चय के साथ उस कर्म को पूरा करना चाहिए जिसका अन्तिम परिणाम सुखद हो।"
+      }
+    },
+    {
+      "num": 670,
+      "line1": "எனைத்திட்ப மெய்தியக் கண்ணும் வினைத்திட்பம்",
+      "line2": "வேண்டாரை வேண்டா துலகு.",
+      "enLine1": "The world desires not men of every power possessed,",
+      "enLine2": "Who power in act desire not,—crown of all the rest.",
+      "hiLine1": "अन्य विषय में सहृढ़ता, रखते सचिव सुजान ।",
+      "hiLine2": "यदि दृढ़ता नहिं कर्म की, जग न करेगा मान ॥",
+      "general": "வேறு எவ்வளவு வலிமைகளையும் பெற்றிருந்தாலும், செயல் உறுதியை விரும்பாதவர்களை உலகம் விரும்பி மதிக்காது.",
+      "en": "No matter how many other strengths a person possesses, the world does not value those who lack firmness in action.",
+      "hi": "चाहे कोई बुद्धिमान व्यक्ति अन्य सभी विषयों में कितना ही दृढ़ और समर्थ क्यों न हो, यदि उसमें कर्म की दृढ़ता नहीं है, तो संसार उसका सम्मान नहीं करता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எனைத் திட்பம் <br>(Enai thitpam)",
+          "ta": "வேறு எத்தகைய வலிமை",
+          "en": "Every power",
+          "hi": "अन्य विषय में सहृढ़ता"
+        },
+        {
+          "no": 2,
+          "word": "எய்தியக் கண்ணும் <br>(Eydhiyak kannum)",
+          "ta": "பெற்றிருந்தாலும்",
+          "en": "Possessed",
+          "hi": "रखते"
+        },
+        {
+          "no": 3,
+          "word": "வினைத்திட்பம் <br>(Vinaiththitpam)",
+          "ta": "செயல் உறுதியை",
+          "en": "Power in act",
+          "hi": "दृढ़ता कर्म की"
+        },
+        {
+          "no": 4,
+          "word": "வேண்டாரை <br>(Vendaarai)",
+          "ta": "விரும்பாதவர்களை",
+          "en": "Desire not",
+          "hi": "नहिं"
+        },
+        {
+          "no": 5,
+          "word": "வேண்டாது <br>(Vendaadhu)",
+          "ta": "விரும்பாது",
+          "en": "Desires not",
+          "hi": "न करेगा मान"
+        },
+        {
+          "no": 6,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "जग"
+        },
+        {
+          "no": 7,
+          "word": "திட்பம் <br>(Thitpam)",
+          "ta": "உறுதி",
+          "en": "Crown of rest",
+          "hi": "सुजान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எனைத்திட்ப மெய்தியக் கண்ணும் வினைத்திட்பம்",
+          "line2": "வேண்டாரை வேண்டா துலகு."
+        },
+        "en": {
+          "line1": "The world desires not men of every power possessed,",
+          "line2": "Who power in act desire not,—crown of all the rest."
+        },
+        "hi": {
+          "line1": "अन्य विषय में सहृढ़ता, रखते सचिव सुजान ।",
+          "line2": "यदि दृढ़ता नहिं कर्म की, जग न करेगा मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Enaiththitpa Meydhiyak Kannum Vinaiththitpam",
+            "line2": "Vendaarai Vendaa Dhulagu."
+          },
+          "hi": {
+            "line1": "ऎनैत्तित्प मॆय्दियक् कण्णुम् विनैत्तित्पम्",
+            "line2": "वेण्डारै वेण्डा दुलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வேறு எவ்வளவு வலிமைகளையும் பெற்றிருந்தாலும், செயல் உறுதியை விரும்பாதவர்களை உலகம் விரும்பி மதிக்காது.",
+        "en": "Talent and credentials don't count for much if you lack the follow-through to get things done.",
+        "hi": "चाहे कोई बुद्धिमान व्यक्ति अन्य सभी विषयों में कितना ही दृढ़ और समर्थ क्यों न हो, यदि उसमें कर्म की दृढ़ता नहीं है, तो संसार उसका सम्मान नहीं करता।"
+      }
+    }
+  ]
+}

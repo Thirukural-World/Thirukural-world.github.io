@@ -1,0 +1,930 @@
+{
+  "chapterNum": 37,
+  "nameTa": "அவாவறுத்தல்",
+  "nameEn": "The Extirpation of Desire",
+  "nameHi": "तृष्णा का उन्मूलन",
+  "paal": "அறத்துப்பால்",
+  "iyal": "துறவறவியல்",
+  "kurals": [
+    {
+      "num": 361,
+      "line1": "அவாவென்ப வெல்லா வுயிர்க்கு மெஞ்ஞான்றுந்",
+      "line2": "தவாஅப் பிறப்பீனும் வித்து.",
+      "enLine1": "The wise declare, through all the days, to every living thing",
+      "enLine2": "That ceaseless round of birth from seed of strong desire doth spring.",
+      "hiLine1": "सर्व जीव को सर्वदा, तृष्णा-बीज अचूक ।",
+      "hiLine2": "पैदा करता है वही, जन्म-मरण की हूक ॥",
+      "general": "எல்லா உயிர்களுக்கும் எக்காலத்திலும் கெடாமல் தொடர்ந்து வரும் பிறவித் துன்பத்தை உண்டாக்கும் விதை 'அவா' (ஆசை) என்று பெரியோர் கூறுவர்.",
+      "en": "The wise declare that desire is the unfailing seed that brings about ceaseless rebirth for all living beings at all times.",
+      "hi": "सभी जीवों के लिए सदा-सर्वदा जन्म-मरण का दुख पैदा करने वाला अचूक बीज 'तृष्णा' (इच्छा/लालसा) ही है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அவா என்ப <br>(Avaa enba)",
+          "ta": "ஆசை என்று கூறுவர்",
+          "en": "Wise declare desire",
+          "hi": "तृष्णा-बीज"
+        },
+        {
+          "no": 2,
+          "word": "எல்லா உயிர்க்கும் <br>(Ellaa uyirkkum)",
+          "ta": "எல்லா உயிர்களுக்கும்",
+          "en": "Every living thing",
+          "hi": "सर्व जीव को"
+        },
+        {
+          "no": 3,
+          "word": "எஞ்ஞான்றும் <br>(Enjnaandrum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "Through all days",
+          "hi": "सर्वदा"
+        },
+        {
+          "no": 4,
+          "word": "தவாஅ <br>(Thavaaa)",
+          "ta": "கெடாமல்",
+          "en": "Ceaseless",
+          "hi": "अचूक"
+        },
+        {
+          "no": 5,
+          "word": "பிறப்பு <br>(Pirappu)",
+          "ta": "பிறவியை",
+          "en": "Round of birth",
+          "hi": "जन्म-मरण की हूक"
+        },
+        {
+          "no": 6,
+          "word": "ஈனும் <br>(Eenum)",
+          "ta": "உண்டாக்கும்",
+          "en": "Doth spring",
+          "hi": "पैदा करता है"
+        },
+        {
+          "no": 7,
+          "word": "வித்து <br>(Viththu)",
+          "ta": "விதை",
+          "en": "Seed",
+          "hi": "बीज"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அவாவென்ப வெல்லா வுயிர்க்கு மெஞ்ஞான்றுந்",
+          "line2": "தவாஅப் பிறப்பீனும் வித்து."
+        },
+        "en": {
+          "line1": "The wise declare, through all the days, to every living thing",
+          "line2": "That ceaseless round of birth from seed of strong desire doth spring."
+        },
+        "hi": {
+          "line1": "सर्व जीव को सर्वदा, तृष्णा-बीज अचूक ।",
+          "line2": "पैदा करता है वही, जन्म-मरण की हूक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Avaavenba Vellaa Vuyirkku Menjnaandrum",
+            "line2": "Thavaaap Pirappeenum Viththu."
+          },
+          "hi": {
+            "line1": "अवावॆन्ब वॆल्ला वुयिर्क्कु मॆञ्ञान्द्रुन्",
+            "line2": "तवाअप् पिरप्पीनुम् वित्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லா உயிர்களுக்கும் எக்காலத்திலும் கெடாமல் தொடர்ந்து வரும் பிறவித் துன்பத்தை உண்டாக்கும் விதை 'அவா' (ஆசை) என்று பெரியோர் கூறுவர்.",
+        "en": "The wise say that craving is the indestructible seed that keeps every living creature spinning in the endless cycle of rebirth.",
+        "hi": "सभी जीवों के लिए सदा-सर्वदा जन्म-मरण का दुख पैदा करने वाला अचूक बीज 'तृष्णा' (इच्छा/लालसा) ही है।"
+      }
+    },
+    {
+      "num": 362,
+      "line1": "வேண்டுங்கால் வேண்டும் பிறவாமை மற்றது",
+      "line2": "வேண்டாமை வேண்ட வரும்.",
+      "enLine1": "If desire you feel, freedom from changing birth require!",
+      "enLine2": "'Twill come, if you desire to 'scape, set free from all desire.",
+      "hiLine1": "जन्म-नाश की चाह हो, यदि होनी है चाह ।",
+      "hiLine2": "चाह-नाश की चाह से, पूरी हो वह चाह ॥",
+      "general": "ஒருவன் ஒன்றை விரும்புவதானால் பிறவாமையை விரும்ப வேண்டும்; அந்தப் பிறவாமையும், ஆசையின்மையை விரும்பினால் தானே வந்து சேரும்.",
+      "en": "If one must desire anything, one should desire freedom from rebirth; and that freedom comes when one desires freedom from all desire.",
+      "hi": "यदि तुम्हें कोई इच्छा रखनी ही है, तो जन्म-मरण के चक्र को समाप्त करने की इच्छा रखो; और वह इच्छा तभी पूरी होगी जब तुम समस्त इच्छाओं के नाश की चाह रखोगे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வேண்டுங்கால் <br>(Vendungaal)",
+          "ta": "விரும்புவதானால்",
+          "en": "If desire you feel",
+          "hi": "यदि होनी है चाह"
+        },
+        {
+          "no": 2,
+          "word": "வேண்டும் <br>(Vendum)",
+          "ta": "விரும்ப வேண்டும்",
+          "en": "Require",
+          "hi": "चाह हो"
+        },
+        {
+          "no": 3,
+          "word": "பிறவாமை <br>(Piravaamai)",
+          "ta": "பிறவாதிருத்தலை",
+          "en": "Freedom from birth",
+          "hi": "जन्म-नाश की"
+        },
+        {
+          "no": 4,
+          "word": "மற்று அது <br>(Matru adhu)",
+          "ta": "அந்தப் பிறவாமை",
+          "en": "'Twill come",
+          "hi": "पूरी हो वह चाह"
+        },
+        {
+          "no": 5,
+          "word": "வேண்டாமை <br>(Vendaamai)",
+          "ta": "ஆசையின்மையை",
+          "en": "Free from desire",
+          "hi": "चाह-नाश"
+        },
+        {
+          "no": 6,
+          "word": "வேண்ட <br>(Venda)",
+          "ta": "விரும்பினால்",
+          "en": "If you desire",
+          "hi": "की चाह से"
+        },
+        {
+          "no": 7,
+          "word": "வரும் <br>(Varum)",
+          "ta": "வந்து சேரும்",
+          "en": "Will come",
+          "hi": "पूरी हो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வேண்டுங்கால் வேண்டும் பிறவாமை மற்றது",
+          "line2": "வேண்டாமை வேண்ட வரும்."
+        },
+        "en": {
+          "line1": "If desire you feel, freedom from changing birth require!",
+          "line2": "'Twill come, if you desire to 'scape, set free from all desire."
+        },
+        "hi": {
+          "line1": "जन्म-नाश की चाह हो, यदि होनी है चाह ।",
+          "line2": "चाह-नाश की चाह से, पूरी हो वह चाह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vendungaal Vendum Piravaamai Matradhu",
+            "line2": "Vendaamai Venda Varum."
+          },
+          "hi": {
+            "line1": "वेण्डुङ्काल् वेण्डुम् पिरवामै मत्रदु",
+            "line2": "वेण्डामै वेण्ड वरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவன் ஒன்றை விரும்புவதானால் பிறவாமையை விரும்ப வேண்டும்; அந்தப் பிறவாமையும், ஆசையின்மையை விரும்பினால் தானே வந்து சேரும்.",
+        "en": "If you are going to wish for anything, wish for freedom from rebirth—and you attain that by wishing to be free of all desires.",
+        "hi": "यदि तुम्हें कोई इच्छा रखनी ही है, तो जन्म-मरण के चक्र को समाप्त करने की इच्छा रखो; और वह इच्छा तभी पूरी होगी जब तुम समस्त इच्छाओं के नाश की चाह रखोगे।"
+      }
+    },
+    {
+      "num": 363,
+      "line1": "வேண்டாமை யன்ன விழுச்செல்வ மீண்டில்லை",
+      "line2": "யாண்டு மஃதொப்ப தில்.",
+      "enLine1": "No glorious wealth is here like freedom from desire;",
+      "enLine2": "To bliss like this not even there can soul aspire.",
+      "hiLine1": "तृष्णा-त्याग सदृश नहीं, यहाँ श्रेष्ठ धन-धाम ।",
+      "hiLine2": "स्वर्ग-धाम में भी नहीं, उसके सम धन-धाम ॥",
+      "general": "ஆசையின்மையைப் போன்ற சிறந்த செல்வம் இவ்வுலகில் இல்லை; மேலுலகிலும் அதற்கு ஒப்பான செல்வம் வேறொன்றும் இல்லை.",
+      "en": "There is no noble wealth in this world equal to freedom from desire; nor is there anything comparable to it anywhere else.",
+      "hi": "तृष्णा के त्याग जैसा श्रेष्ठ धन इस पृथ्वी पर कोई नहीं है; यहाँ तक कि स्वर्ग लोक में भी उसके समान कोई धन-वैभव नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வேண்டாமை <br>(Vendaamai)",
+          "ta": "ஆசையின்மை",
+          "en": "Freedom from desire",
+          "hi": "तृष्णा-त्याग"
+        },
+        {
+          "no": 2,
+          "word": "அன்ன <br>(Anna)",
+          "ta": "போன்ற",
+          "en": "Like",
+          "hi": "सदृश"
+        },
+        {
+          "no": 3,
+          "word": "விழுச்செல்வம் <br>(Vizhuchchelvam)",
+          "ta": "சிறந்த செல்வம்",
+          "en": "Glorious wealth",
+          "hi": "श्रेष्ठ धन-धाम"
+        },
+        {
+          "no": 4,
+          "word": "ஈண்டு இல்லை <br>(Eendu illai)",
+          "ta": "இவ்வுலகில் இல்லை",
+          "en": "Is here none",
+          "hi": "यहाँ नहीं"
+        },
+        {
+          "no": 5,
+          "word": "யாண்டும் <br>(Yaandum)",
+          "ta": "எவ்வுலகிலும்",
+          "en": "Not even there",
+          "hi": "स्वर्ग-धाम में भी"
+        },
+        {
+          "no": 6,
+          "word": "அஃது ஒப்பது <br>(Agdhu oppadhu)",
+          "ta": "அதற்கு ஒப்பானது",
+          "en": "Like this",
+          "hi": "उसके सम"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Nothing",
+          "hi": "नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வேண்டாமை யன்ன விழுச்செல்வ மீண்டில்லை",
+          "line2": "யாண்டு மஃதொப்ப தில்."
+        },
+        "en": {
+          "line1": "No glorious wealth is here like freedom from desire;",
+          "line2": "To bliss like this not even there can soul aspire."
+        },
+        "hi": {
+          "line1": "तृष्णा-त्याग सदृश नहीं, यहाँ श्रेष्ठ धन-धाम ।",
+          "line2": "स्वर्ग-धाम में भी नहीं, उसके सम धन-धाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vendaamai Yanna Vizhuchchelva Meendillai",
+            "line2": "Yaandu Mahdhoppa Dhil."
+          },
+          "hi": {
+            "line1": "वेण्डामै यन्न विऴुच्चॆल्व मीण्डिल्लै",
+            "line2": "याण्डु मक्दॊप्प दिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆசையின்மையைப் போன்ற சிறந்த செல்வம் இவ்வுலகில் இல்லை; மேலுலகிலும் அதற்கு ஒப்பான செல்வம் வேறொன்றும் இல்லை.",
+        "en": "Nothing on earth—and not even in heaven—matches the true wealth of being completely free from craving.",
+        "hi": "तृष्णा के त्याग जैसा श्रेष्ठ धन इस पृथ्वी पर कोई नहीं है; यहाँ तक कि स्वर्ग लोक में भी उसके समान कोई धन-वैभव नहीं है।"
+      }
+    },
+    {
+      "num": 364,
+      "line1": "தூஉய்மை யென்ப தவாவின்மை மற்றது",
+      "line2": "வாஅய்மை வேண்ட வரும்.",
+      "enLine1": "Desire's decease as purity men know;",
+      "enLine2": "That, too, from yearning search for truth will grow.",
+      "hiLine1": "चाह गई तो है वही, पवित्रता या मुक्ति ।",
+      "hiLine2": "करो सत्य की चाह तो, होगी चाह-विमुक्ति ॥",
+      "general": "தூய்மை என்று சொல்லப்படுவது ஆசையில்லாமல் இருப்பதே ஆகும்; அந்த ஆசையின்மையும் மெய்ம்மையை விரும்பினால் உண்டாகும்.",
+      "en": "Purity of soul is defined as freedom from desire; and that freedom is attained by earnestly seeking the truth.",
+      "hi": "इच्छाओं (चाह) का समाप्त हो जाना ही सच्ची पवित्रता या मुक्ति कहलाती है; और जब तुम सत्य की चाह करोगे, तो स्वयं ही इच्छाओं से विमुक्त हो जाओगे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தூஉய்மை <br>(Thooymai)",
+          "ta": "தூய்மை",
+          "en": "Purity",
+          "hi": "पवित्रता या मुक्ति"
+        },
+        {
+          "no": 2,
+          "word": "என்பது <br>(Enbadhu)",
+          "ta": "என்று சொல்லப்படுவது",
+          "en": "Men know as",
+          "hi": "है वही"
+        },
+        {
+          "no": 3,
+          "word": "அவாவின்மை <br>(Avaavinmai)",
+          "ta": "ஆசையின்மையே",
+          "en": "Desire's decease",
+          "hi": "चाह गई"
+        },
+        {
+          "no": 4,
+          "word": "மற்று அது <br>(Matru adhu)",
+          "ta": "அந்த ஆசையின்மை",
+          "en": "That, too",
+          "hi": "होगी चाह-विमुक्ति"
+        },
+        {
+          "no": 5,
+          "word": "வாஅய்மை <br>(Vaaymai)",
+          "ta": "மெய்ம்மையை",
+          "en": "Truth",
+          "hi": "सत्य की"
+        },
+        {
+          "no": 6,
+          "word": "வேண்ட <br>(Venda)",
+          "ta": "விரும்ப",
+          "en": "Yearning search",
+          "hi": "करो चाह तो"
+        },
+        {
+          "no": 7,
+          "word": "வரும் <br>(Varum)",
+          "ta": "உண்டாகும்",
+          "en": "Will grow",
+          "hi": "होगी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தூஉய்மை யென்ப தவாவின்மை மற்றது",
+          "line2": "வாஅய்மை வேண்ட வரும்."
+        },
+        "en": {
+          "line1": "Desire's decease as purity men know;",
+          "line2": "That, too, from yearning search for truth will grow."
+        },
+        "hi": {
+          "line1": "चाह गई तो है वही, पवित्रता या मुक्ति ।",
+          "line2": "करो सत्य की चाह तो, होगी चाह-विमुक्ति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thooymai Enbadhu Avaavinmai Matradhu",
+            "line2": "Vaaymai Venda Varum."
+          },
+          "hi": {
+            "line1": "तूउय्मै यॆन्ब दवाविन्मै मत्रदु",
+            "line2": "वाअय्मै वेण्ड वरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தூய்மை என்று சொல்லப்படுவது ஆசையில்லாமல் இருப்பதே ஆகும்; அந்த ஆசையின்மையும் மெய்ம்மையை விரும்பினால் உண்டாகும்.",
+        "en": "True inner purity means having no selfish desires—and that state grows naturally when you dedicate yourself to truth.",
+        "hi": "इच्छाओं (चाह) का समाप्त हो जाना ही सच्ची पवित्रता या मुक्ति कहलाती है; और जब तुम सत्य की चाह करोगे, तो स्वयं ही इच्छाओं से विमुक्त हो जाओगे।"
+      }
+    },
+    {
+      "num": 365,
+      "line1": "அற்றவ ரென்பா ரவாவற்றார் மற்றையா",
+      "line2": "ரற்றாக வற்ற திலர்.",
+      "enLine1": "Men freed from bonds of strong desire are free;",
+      "enLine2": "None other share such perfect liberty.",
+      "hiLine1": "कहलाते वे मुक्त हैं, जो हैं तृष्णा-मुक्त ।",
+      "hiLine2": "सब प्रकार से, अन्य सब, उतने नहीं विमुक्त ॥",
+      "general": "ஆசையை அறுத்தவர்களே முற்றிலும் பற்றற்றவர்கள் என்று கூறப்படுவர்; ஆசையை அறுக்காத மற்றவர்கள் எல்லா வகையாலும் பற்றற்றவர் ஆகார்.",
+      "en": "Only those who are free from desire can truly be called detached; all others have not achieved complete freedom.",
+      "hi": "वास्तव में मुक्त (विरक्त) वे ही कहलाते हैं जो तृष्णा से मुक्त हैं; अन्य सभी लोग सब प्रकार से उतने विमुक्त नहीं होते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அற்றவர் <br>(Atravar)",
+          "ta": "பற்றற்றவர்",
+          "en": "Are free",
+          "hi": "मुक्त हैं"
+        },
+        {
+          "no": 2,
+          "word": "என்பார் <br>(Enbaar)",
+          "ta": "என்று சொல்லப்படுவோர்",
+          "en": "Men called",
+          "hi": "कहलाते वे"
+        },
+        {
+          "no": 3,
+          "word": "அவா அற்றார் <br>(Avaa atraar)",
+          "ta": "ஆசை அற்றவரே",
+          "en": "Freed from desire",
+          "hi": "जो हैं तृष्णा-मुक्त"
+        },
+        {
+          "no": 4,
+          "word": "மற்றையார் <br>(Matraiyaar)",
+          "ta": "மற்றவர்கள்",
+          "en": "None other",
+          "hi": "अन्य सब"
+        },
+        {
+          "no": 5,
+          "word": "அற்றாக <br>(Atraagha)",
+          "ta": "முழுமையாக",
+          "en": "Such perfect",
+          "hi": "सब प्रकार से"
+        },
+        {
+          "no": 6,
+          "word": "அற்றது <br>(Atradhu)",
+          "ta": "பற்றற்ற நிலை",
+          "en": "Liberty",
+          "hi": "विमुक्त"
+        },
+        {
+          "no": 7,
+          "word": "இலர் <br>(Ilar)",
+          "ta": "உடையவர் அல்லர்",
+          "en": "Do not share",
+          "hi": "उतने नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அற்றவ ரென்பா ரவாவற்றார் மற்றையா",
+          "line2": "ரற்றாக வற்ற திலர்."
+        },
+        "en": {
+          "line1": "Men freed from bonds of strong desire are free;",
+          "line2": "None other share such perfect liberty."
+        },
+        "hi": {
+          "line1": "कहलाते वे मुक्त हैं, जो हैं तृष्णा-मुक्त ।",
+          "line2": "सब प्रकार से, अन्य सब, उतने नहीं विमुक्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Atrava Renbaa Ravaavatraar Matraiyaa",
+            "line2": "Ratraagha Vatra Dhilar."
+          },
+          "hi": {
+            "line1": "अत्रव रॆन्बा रवावत्रार् मत्रैया",
+            "line2": "रत्राग वत्र तिलर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆசையை அறுத்தவர்களே முற்றிலும் பற்றற்றவர்கள் என்று கூறப்படுவர்; ஆசையை அறுக்காத மற்றவர்கள் எல்லா வகையாலும் பற்றற்றவர் ஆகார்.",
+        "en": "Only those who have severed craving are truly free; everyone else remains bound in some way.",
+        "hi": "वास्तव में मुक्त (विरक्त) वे ही कहलाते हैं जो तृष्णा से मुक्त हैं; अन्य सभी लोग सब प्रकार से उतने विमुक्त नहीं होते।"
+      }
+    },
+    {
+      "num": 366,
+      "line1": "அஞ்சுவ தோரு மறனே யொருவனை",
+      "line2": "வஞ்சிப்ப தோரு மவா.",
+      "enLine1": "Desire each soul beguiles;",
+      "enLine2": "True virtue dreads its wiles.",
+      "hiLine1": "तृष्णा से डरते बचे, है यह धर्म महान ।",
+      "hiLine2": "न तो फँसाये जाल में, पा कर असावधान ॥",
+      "general": "ஆசைக்கு அஞ்சி ஒழுகுவதே அறமாகும்; ஏனெனில் ஒருவனை அறியாமல் வஞ்சித்துக் கெடுப்பதும் அந்த ஆசையே ஆகும்.",
+      "en": "To fear desire is itself virtue, for desire is what deceives and ruins a person.",
+      "hi": "तृष्णा से भयभीत होकर उससे बचे रहना ही महान धर्म है; अन्यथा वह मनुष्य को असावधान पाकर अपने जाल में फँसा लेती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அஞ்சுவது <br>(Anjuvadhu)",
+          "ta": "அஞ்சி விலகுவதே",
+          "en": "Dreads",
+          "hi": "डरते बचे"
+        },
+        {
+          "no": 2,
+          "word": "ஓரும் <br>(Orum)",
+          "ta": "ஆராயுமிடத்து",
+          "en": "True",
+          "hi": "महान"
+        },
+        {
+          "no": 3,
+          "word": "அறனே <br>(Arane)",
+          "ta": "அறமாகும்",
+          "en": "Virtue",
+          "hi": "है यह धर्म"
+        },
+        {
+          "no": 4,
+          "word": "ஒருவனை <br>(Oruvanai)",
+          "ta": "ஒருவனை",
+          "en": "Each soul",
+          "hi": "मनुष्य को"
+        },
+        {
+          "no": 5,
+          "word": "வஞ்சிப்பது <br>(Vanjippadhu)",
+          "ta": "வஞ்சித்துக் கெடுப்பது",
+          "en": "Beguiles",
+          "hi": "फँसाये जाल में"
+        },
+        {
+          "no": 6,
+          "word": "ஓரும் <br>(Orum)",
+          "ta": "ஆராயுமிடத்து",
+          "en": "Its wiles",
+          "hi": "पा कर असावधान"
+        },
+        {
+          "no": 7,
+          "word": "அவா <br>(Avaa)",
+          "ta": "ஆசையே",
+          "en": "Desire",
+          "hi": "तृष्णा से"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அஞ்சுவ தோரு மறனே யொருவனை",
+          "line2": "வஞ்சிப்ப தோரு மவா."
+        },
+        "en": {
+          "line1": "Desire each soul beguiles;",
+          "line2": "True virtue dreads its wiles."
+        },
+        "hi": {
+          "line1": "तृष्णा से डरते बचे, है यह धर्म महान ।",
+          "line2": "न तो फँसाये जाल में, पा कर असावधान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Anjuvadhu Orum Arane Oruvanai",
+            "line2": "Vanjippadhu Orum Avaa."
+          },
+          "hi": {
+            "line1": "अञ्जुव दोरु मरणे यॊरुवनै",
+            "line2": "वञ्जिप्प दोरु मवा."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆசைக்கு அஞ்சி ஒழுகுவதே அறமாகும்; ஏனெனில் ஒருவனை அறியாமல் வஞ்சித்துக் கெடுப்பதும் அந்த ஆசையே ஆகும்.",
+        "en": "Being wary of craving is itself a virtue, because desire is a silent trap that deceives and undoes anyone who lets their guard down.",
+        "hi": "तृष्णा से भयभीत होकर उससे बचे रहना ही महान धर्म है; अन्यथा वह मनुष्य को असावधान पाकर अपने जाल में फँसा लेती है।"
+      }
+    },
+    {
+      "num": 367,
+      "line1": "அவாவினை ஆற்ற அறுப்பின் தவாவினை",
+      "line2": "தான்வேண்டு மாற்றான் வரும்.",
+      "enLine1": "Who throughly rids his life of passion-prompted deed,",
+      "enLine2": "Deeds of unfailing worth shall do, which, as he plans, succeed.",
+      "hiLine1": "तृष्णा को यदि कर दिया, पूरा नष्ट समूल ।",
+      "hiLine2": "धर्म-कर्म सब आ मिले, इच्छा के अनुकूल ॥",
+      "general": "ஆசையை முற்றிலும் அறுத்துவிட்டால், கெடாத நல்வினைகள் (வீடுபேற்றுக்குரிய செயல்கள்) அவன் விரும்பும் வழியிலேயே தானே வந்து சேரும்.",
+      "en": "If one thoroughly uproots desire, unfailing virtuous deeds that lead to liberation will come in the very manner one wishes.",
+      "hi": "यदि किसी ने तृष्णा को जड़ सहित (समूल) पूरी तरह नष्ट कर दिया, तो फिर सभी धर्म-कर्म उसकी इच्छा के अनुकूल स्वयं ही सिद्ध हो जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அவாவினை <br>(Avaavinai)",
+          "ta": "ஆசையை",
+          "en": "Passion-prompted deed",
+          "hi": "तृष्णा को"
+        },
+        {
+          "no": 2,
+          "word": "ஆற்ற <br>(Aatra)",
+          "ta": "முழுவதும்",
+          "en": "Throughly",
+          "hi": "पूरा समूल"
+        },
+        {
+          "no": 3,
+          "word": "அறுப்பின் <br>(Aruppin)",
+          "ta": "அறுத்துவிட்டால்",
+          "en": "Rids his life",
+          "hi": "यदि नष्ट कर दिया"
+        },
+        {
+          "no": 4,
+          "word": "தவாவினை <br>(Thavaavinai)",
+          "ta": "கெடாத நல்வினை",
+          "en": "Deeds of unfailing worth",
+          "hi": "धर्म-कर्म सब"
+        },
+        {
+          "no": 5,
+          "word": "தான் <br>(Thaan)",
+          "ta": "தான்",
+          "en": "He",
+          "hi": "इच्छा के"
+        },
+        {
+          "no": 6,
+          "word": "வேண்டுமாற்றான் <br>(Vendum atraan)",
+          "ta": "விரும்பிய வழியில்",
+          "en": "As he plans",
+          "hi": "अनुकूल"
+        },
+        {
+          "no": 7,
+          "word": "வரும் <br>(Varum)",
+          "ta": "வந்து சேரும்",
+          "en": "Succeed / will come",
+          "hi": "आ मिले"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அவாவினை ஆற்ற அறுப்பின் தவாவினை",
+          "line2": "தான்வேண்டு மாற்றான் வரும்."
+        },
+        "en": {
+          "line1": "Who throughly rids his life of passion-prompted deed,",
+          "line2": "Deeds of unfailing worth shall do, which, as he plans, succeed."
+        },
+        "hi": {
+          "line1": "तृष्णा को यदि कर दिया, पूरा नष्ट समूल ।",
+          "line2": "धर्म-कर्म सब आ मिले, इच्छा के अनुकूल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Avaavinai Aatra Aruppin Thavaavinai",
+            "line2": "Thaanvendu Maatraan Varum."
+          },
+          "hi": {
+            "line1": "अवाविनै आत्र अरुप्पिन् तवाविनै",
+            "line2": "तान्वेण्डु मात्रान् वरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆசையை முற்றிலும் அறுத்துவிட்டால், கெடாத நல்வினைகள் (வீடுபேற்றுக்குரிய செயல்கள்) அவன் விரும்பும் வழியிலேயே தானே வந்து சேரும்.",
+        "en": "Uproot craving completely, and lasting righteous actions will unfold naturally just as you intend.",
+        "hi": "यदि किसी ने तृष्णा को जड़ सहित (समूल) पूरी तरह नष्ट कर दिया, तो फिर सभी धर्म-कर्म उसकी इच्छा के अनुकूल स्वयं ही सिद्ध हो जाते हैं।"
+      }
+    },
+    {
+      "num": 368,
+      "line1": "அவாவில்லார்க் கில்லாகுந் துன்ப மஃதுண்டேற்",
+      "line2": "றவாஅது மேன்மேல் வரும்.",
+      "enLine1": "Affliction is not known where no desires abide;",
+      "enLine2": "Where these are, endless rises sorrow's tide.",
+      "hiLine1": "तृष्णा-त्यागी को कभी, होगा ही नहिं दुःख ।",
+      "hiLine2": "तृष्णा के वश यदि पड़े, होगा दुःख पर दुःख ॥",
+      "general": "ஆசையில்லாதவர்க்குத் துன்பம் என்பதே இல்லையாகும்; ஆசை இருந்தால், நீங்காமல் மேன்மேலும் துன்பங்கள் வந்து சேரும்.",
+      "en": "Those who have no desire experience no sorrow; where desire exists, endless troubles keep coming one after another.",
+      "hi": "तृष्णा का त्याग करने वाले व्यक्ति को कभी कोई दुख नहीं होता; और यदि कोई तृष्णा के वश में पड़ जाए, तो उस पर दुख के बाद दुख आते रहते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அவா இல்லார்க்கு <br>(Avaa illaarkku)",
+          "ta": "ஆசையில்லாதவர்க்கு",
+          "en": "Where no desires abide",
+          "hi": "तृष्णा-त्यागी को"
+        },
+        {
+          "no": 2,
+          "word": "இல்லாகும் <br>(Illaagum)",
+          "ta": "இல்லாமல் போகும்",
+          "en": "Is not known",
+          "hi": "होगा ही नहिं"
+        },
+        {
+          "no": 3,
+          "word": "துன்பம் <br>(Thunbam)",
+          "ta": "துன்பம்",
+          "en": "Affliction",
+          "hi": "दुःख"
+        },
+        {
+          "no": 4,
+          "word": "அஃது உண்டேல் <br>(Agdhu undel)",
+          "ta": "அவ்வாசை இருந்தால்",
+          "en": "Where these are",
+          "hi": "तृष्णा के वश यदि पड़े"
+        },
+        {
+          "no": 5,
+          "word": "தவாஅது <br>(Thavaaadhu)",
+          "ta": "இடையறாமல்",
+          "en": "Endless",
+          "hi": "निरंतर"
+        },
+        {
+          "no": 6,
+          "word": "மேன்மேல் <br>(Menmel)",
+          "ta": "மேலும் மேலும்",
+          "en": "Rises tide",
+          "hi": "दुःख पर दुःख"
+        },
+        {
+          "no": 7,
+          "word": "வரும் <br>(Varum)",
+          "ta": "வந்து சேரும்",
+          "en": "Will come",
+          "hi": "होगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அவாவில்லார்க் கில்லாகுந் துன்ப மஃதுண்டேற்",
+          "line2": "றவாஅது மேன்மேல் வரும்."
+        },
+        "en": {
+          "line1": "Affliction is not known where no desires abide;",
+          "line2": "Where these are, endless rises sorrow's tide."
+        },
+        "hi": {
+          "line1": "तृष्णा-त्यागी को कभी, होगा ही नहिं दुःख ।",
+          "line2": "तृष्णा के वश यदि पड़े, होगा दुःख पर दुःख ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Avaavillaark Killaagun Thunba Mahdhundel",
+            "line2": "Thavaaadhu Menmel Varum."
+          },
+          "hi": {
+            "line1": "अवाविल्लार्क् किल्लागुन् तुन्ब मक्दुण्डेर्",
+            "line2": "रवाअदु मेन्मेल् वरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆசையில்லாதவர்க்குத் துன்பம் என்பதே இல்லையாகும்; ஆசை இருந்தால், நீங்காமல் மேன்மேலும் துன்பங்கள் வந்து சேரும்.",
+        "en": "Where craving is absent, sorrow has no foothold; where craving lives, waves of trouble never stop coming.",
+        "hi": "तृष्णा का त्याग करने वाले व्यक्ति को कभी कोई दुख नहीं होता; और यदि कोई तृष्णा के वश में पड़ जाए, तो उस पर दुख के बाद दुख आते रहते हैं।"
+      }
+    },
+    {
+      "num": 369,
+      "line1": "இன்ப மிடையறா தீண்டு மவாவென்னுந்",
+      "line2": "துன்பத்துட் டுன்பங் கெடின்.",
+      "enLine1": "When dies away desire, that woe of woes,",
+      "enLine2": "Ev'n here the soul unceasing rapture knows.",
+      "hiLine1": "तृष्णा का यदि नाश हो, जो है दुःख कराल ।",
+      "hiLine2": "इस जीवन में भी मनुज, पावे सुख चिरकाल ॥",
+      "general": "துன்பங்களுக்கெல்லாம் பெருந்துன்பமாகிய ஆசை ஒழிந்துவிட்டால், இவ்வுலகிலேயே இடைவிடாத பேரின்பம் வந்து சேரும்.",
+      "en": "When desire, which is the sorrow of all sorrows, is destroyed, unbroken happiness is attained right here in this life.",
+      "hi": "यदि 'तृष्णा' का नाश हो जाए—जो कि सब दुखों में सबसे भयंकर दुख है—तो मनुष्य इसी जीवन में भी चिरकाल तक रहने वाला अखंड सुख प्राप्त कर लेता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "இன்பம்",
+          "en": "Rapture",
+          "hi": "सुख"
+        },
+        {
+          "no": 2,
+          "word": "இடையறாது <br>(Idaiyaraadhu)",
+          "ta": "இடைவிடாமல்",
+          "en": "Unceasing",
+          "hi": "चिरकाल"
+        },
+        {
+          "no": 3,
+          "word": "ஈண்டும் <br>(Eendum)",
+          "ta": "இவ்வுலகிலேயே கூடும்",
+          "en": "Ev'n here",
+          "hi": "इस जीवन में भी पावे"
+        },
+        {
+          "no": 4,
+          "word": "அவா என்னும் <br>(Avaa ennum)",
+          "ta": "ஆசை என்னும்",
+          "en": "Desire",
+          "hi": "तृष्णा"
+        },
+        {
+          "no": 5,
+          "word": "துன்பத்துள் <br>(Thunbaththul)",
+          "ta": "துன்பங்களுள்",
+          "en": "Of woes",
+          "hi": "दुःख"
+        },
+        {
+          "no": 6,
+          "word": "துன்பம் <br>(Thunbam)",
+          "ta": "கொடிய துன்பம்",
+          "en": "That woe",
+          "hi": "कराल"
+        },
+        {
+          "no": 7,
+          "word": "கெடின் <br>(Kedin)",
+          "ta": "அழிந்தால்",
+          "en": "When dies away",
+          "hi": "यदि नाश हो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்ப மிடையறா தீண்டு மவாவென்னுந்",
+          "line2": "துன்பத்துட் டுன்பங் கெடின்."
+        },
+        "en": {
+          "line1": "When dies away desire, that woe of woes,",
+          "line2": "Ev'n here the soul unceasing rapture knows."
+        },
+        "hi": {
+          "line1": "तृष्णा का यदि नाश हो, जो है दुःख कराल ।",
+          "line2": "इस जीवन में भी मनुज, पावे सुख चिरकाल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inba Midaiyaraa Dheendu Mavaavennum",
+            "line2": "Thunbaththut Thunbang Kedin."
+          },
+          "hi": {
+            "line1": "इन्ब मिडैयरा दीण्डु मवावॆन्नुन्",
+            "line2": "तुन्बत्तुट् टुन्बङ् कॆडिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "துன்பங்களுக்கெல்லாம் பெருந்துன்பமாகிய ஆசை ஒழிந்துவிட்டால், இவ்வுலகிலேயே இடைவிடாத பேரின்பம் வந்து சேரும்.",
+        "en": "Destroy craving—the root sorrow behind all sorrows—and uninterrupted joy becomes yours right here and now.",
+        "hi": "यदि 'तृष्णा' का नाश हो जाए—जो कि सब दुखों में सबसे भयंकर दुख है—तो मनुष्य इसी जीवन में भी चिरकाल तक रहने वाला अखंड सुख प्राप्त कर लेता है।"
+      }
+    },
+    {
+      "num": 370,
+      "line1": "ஆரா வியற்கை யவாநீப்பி னந்நிலையே",
+      "line2": "பேரா வியற்கை தரும்.",
+      "enLine1": "Drive from thy soul desire insatiate;",
+      "enLine2": "Straightway is gained the moveless blissful state.",
+      "hiLine1": "तृष्णा को त्यागो अगर, जिसकी कभी न तुष्टि ।",
+      "hiLine2": "वही दशा दे मुक्ति जो, रही सदा सन्तुष्टि ॥",
+      "general": "எப்போதும் நிறைவடையாத இயல்பையுடைய ஆசையை விட்டுவிட்டால், அந்த நிலையே என்றும் மாறாத பேரின்ப நிலையைத் தரும்.",
+      "en": "If one casts off insatiable desire, that very state immediately grants the unchanging, eternal bliss of liberation.",
+      "hi": "जिस तृष्णा की कभी तृप्ति (तुष्टि) नहीं होती, यदि तुम उसका त्याग कर दो, तो वही दशा तुम्हें वह अटल मुक्ति (मोक्ष) देगी जिसमें सदा संतुष्टि रहती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஆரா <br>(Aaraa)",
+          "ta": "நிறைவடையாத",
+          "en": "Insatiate",
+          "hi": "जिसकी कभी न तुष्टि"
+        },
+        {
+          "no": 2,
+          "word": "இயற்கை <br>(Iyarkai)",
+          "ta": "இயல்புடைய",
+          "en": "Nature",
+          "hi": "स्वभाव वाली"
+        },
+        {
+          "no": 3,
+          "word": "அவா <br>(Avaa)",
+          "ta": "ஆசையை",
+          "en": "Desire",
+          "hi": "तृष्णा को"
+        },
+        {
+          "no": 4,
+          "word": "நீப்பின் <br>(Neeppin)",
+          "ta": "நீக்கிவிட்டால்",
+          "en": "Drive from",
+          "hi": "त्यागो अगर"
+        },
+        {
+          "no": 5,
+          "word": "அந்நிலையே <br>(Annilaiye)",
+          "ta": "அந்த நிலையே",
+          "en": "Straightway",
+          "hi": "वही दशा"
+        },
+        {
+          "no": 6,
+          "word": "பேரா இயற்கை <br>(Peraa iyarkai)",
+          "ta": "மாறாத பேரின்பம்",
+          "en": "Moveless blissful state",
+          "hi": "मुक्ति / सदा सन्तुष्टि"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "கொடுக்கும்",
+          "en": "Is gained",
+          "hi": "देगी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஆரா வியற்கை யவாநீப்பி னந்நிலையே",
+          "line2": "பேரா வியற்கை தரும்."
+        },
+        "en": {
+          "line1": "Drive from thy soul desire insatiate;",
+          "line2": "Straightway is gained the moveless blissful state."
+        },
+        "hi": {
+          "line1": "तृष्णा को त्यागो अगर, जिसकी कभी न तुष्टि ।",
+          "line2": "वही दशा दे मुक्ति जो, रही सदा सन्तुष्टि ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aaraa Viyarkai Yavaaneeppi Nannilaiye",
+            "line2": "Peraa Viyarkai Tharum."
+          },
+          "hi": {
+            "line1": "आरा वियर्कै यवानीप्पि नन्निलैये",
+            "line2": "पेरा वियर्कै तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எப்போதும் நிறைவடையாத இயல்பையுடைய ஆசையை விட்டுவிட்டால், அந்த நிலையே என்றும் மாறாத பேரின்ப நிலையைத் தரும்.",
+        "en": "Let go of insatiable craving, and in that very moment you gain an unshakable, lasting state of peace.",
+        "hi": "जिस तृष्णा की कभी तृप्ति (तुष्टि) नहीं होती, यदि तुम उसका त्याग कर दो, तो वही दशा तुम्हें वह अटल मुक्ति (मोक्ष) देगी जिसमें सदा संतुष्टि रहती है।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "chapterNum": 47,
+  "nameTa": "தெரிந்துசெயல்வகை",
+  "nameEn": "Acting after due Consideration",
+  "nameHi": "सुविचारित कार्य-कुशलता",
+  "paal": "பொருட்பால்",
+  "iyal": "அரசியல்",
+  "kurals": [
+    {
+      "num": 461,
+      "line1": "அழிவதூஉ மாவதூஉ மாகி வழிப்பயக்கு",
+      "line2": "மூதியமுஞ் சூழ்ந்து செயல்.",
+      "enLine1": "Expenditure, return, and profit of the deed",
+      "enLine2": "In time to come: weigh these—then to the act proceed.",
+      "hiLine1": "कर विचार व्यय-आय का, करना लाभ-विचार ।",
+      "hiLine2": "फिर हो प्रवृत कार्य में, करके सोच-विचार ॥",
+      "general": "ஒரு செயலால் நேரும் அழிவையும் (செலவையும்), அதனால் உண்டாகும் ஆக்கத்தையும் (வரவையும்), முடிவில் கிடைக்கும் ஊதியத்தையும் (லாபத்தையும்) ஆராய்ந்து அச்செயலைச் செய்ய வேண்டும்.",
+      "en": "Weigh carefully the expenditure, the return, and the eventual profit that a deed will yield, and only then proceed to act.",
+      "hi": "पहले कार्य में होने वाले व्यय और आय पर विचार करो, फिर उससे होने वाले लाभ का विचार करो—इस प्रकार भली-भाँति सोच-विचार करके ही कार्य में प्रवृत्त होना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அழிவதூஉம் <br>(Azhivadhooum)",
+          "ta": "அழிவதும் (செலவும்)",
+          "en": "Expenditure",
+          "hi": "व्यय"
+        },
+        {
+          "no": 2,
+          "word": "ஆவதூஉம் <br>(Aavadhooum)",
+          "ta": "ஆவதும் (வரவும்)",
+          "en": "Return",
+          "hi": "आय"
+        },
+        {
+          "no": 3,
+          "word": "ஆகி <br>(Aagi)",
+          "ta": "ஆகியவற்றோடு",
+          "en": "Of the deed",
+          "hi": "का"
+        },
+        {
+          "no": 4,
+          "word": "வழிப்பயக்கும் <br>(Vazhippayakkum)",
+          "ta": "பின்னர் தரும்",
+          "en": "In time to come",
+          "hi": "करना"
+        },
+        {
+          "no": 5,
+          "word": "ஊதியமும் <br>(Oodhiyamum)",
+          "ta": "லாபத்தையும்",
+          "en": "Profit",
+          "hi": "लाभ-विचार"
+        },
+        {
+          "no": 6,
+          "word": "சூழ்ந்து <br>(Soozhndhu)",
+          "ta": "ஆராய்ந்து",
+          "en": "Weigh these",
+          "hi": "करके सोच-विचार"
+        },
+        {
+          "no": 7,
+          "word": "செயல் <br>(Seyal)",
+          "ta": "செய்ய வேண்டும்",
+          "en": "To act proceed",
+          "hi": "प्रवृत कार्य में हो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அழிவதூஉ மாவதூஉ மாகி வழிப்பயக்கு",
+          "line2": "மூதியமுஞ் சூழ்ந்து செயல்."
+        },
+        "en": {
+          "line1": "Expenditure, return, and profit of the deed",
+          "line2": "In time to come: weigh these—then to the act proceed."
+        },
+        "hi": {
+          "line1": "कर विचार व्यय-आय का, करना लाभ-विचार ।",
+          "line2": "फिर हो प्रवृत कार्य में, करके सोच-विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Azhivadhooum Aavadhooum Aagi Vazhippayakkum",
+            "line2": "Oodhiyamunj Soozhndhu Seyal."
+          },
+          "hi": {
+            "line1": "अऴिवदूउ मावदूउ मागि वऴिप्पयक्कु",
+            "line2": "मूदियमुञ् सूऴ्न्दु सॆयल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு செயலால் நேரும் அழிவையும் (செலவையும்), அதனால் உண்டாகும் ஆக்கத்தையும் (வரவையும்), முடிவில் கிடைக்கும் ஊதியத்தையும் (லாபத்தையும்) ஆராய்ந்து அச்செயலைச் செய்ய வேண்டும்.",
+        "en": "Before starting any venture, weigh what it will cost, what it will bring in, and what the long-term payoff will be.",
+        "hi": "पहले कार्य में होने वाले व्यय और आय पर विचार करो, फिर उससे होने वाले लाभ का विचार करो—इस प्रकार भली-भाँति सोच-विचार करके ही कार्य में प्रवृत्त होना चाहिए।"
+      }
+    },
+    {
+      "num": 462,
+      "line1": "தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்",
+      "line2": "கரும்பொருள் யாதொன்று மில்.",
+      "enLine1": "With chosen friends deliberate; next use thy private thought;",
+      "enLine2": "Then act. By those who thus proceed all works with ease are wrought.",
+      "hiLine1": "आप्तों से कर मंत्रणा, करता स्वयं विचार ।",
+      "hiLine2": "उस कर्मी को है नहीं, कुछ भी असाध्य कार ॥",
+      "general": "ஆராய்ந்து தேர்ந்தெடுத்த நண்பர்களுடன் கலந்து ஆலோசித்து, தானும் நன்கு எண்ணிச் செயல்படுபவர்க்கு அரிய செயல் எதுவுமே இல்லை.",
+      "en": "Nothing is too difficult to accomplish for those who deliberate with chosen associates and then reflect carefully on their own before acting.",
+      "hi": "जो व्यक्ति अपने विश्वसनीय मित्रों (आप्तों) से मंत्रणा करके स्वयं भी भली-भाँति विचार कर कार्य करता है, उस कर्मठ व्यक्ति के लिए कोई भी कार्य असाध्य नहीं रहता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தெரிந்த இனத்தொடு <br>(Therindha inaththodu)",
+          "ta": "ஆராய்ந்த நண்பரோடு",
+          "en": "With chosen friends",
+          "hi": "आप्तों से"
+        },
+        {
+          "no": 2,
+          "word": "தேர்ந்து <br>(Therndhu)",
+          "ta": "கலந்து ஆராய்ந்து",
+          "en": "Deliberate",
+          "hi": "कर मंत्रणा"
+        },
+        {
+          "no": 3,
+          "word": "எண்ணி <br>(Enni)",
+          "ta": "தானும் சிந்தித்து",
+          "en": "Use private thought",
+          "hi": "करता स्वयं विचार"
+        },
+        {
+          "no": 4,
+          "word": "செய்வார்க்கு <br>(Seyvaarkku)",
+          "ta": "செய்பவர்க்கு",
+          "en": "By those who proceed",
+          "hi": "उस कर्मी को"
+        },
+        {
+          "no": 5,
+          "word": "அரும்பொருள் <br>(Arumborul)",
+          "ta": "முடியாத செயல்",
+          "en": "Difficult work",
+          "hi": "असाध्य कार"
+        },
+        {
+          "no": 6,
+          "word": "யாதொன்றும் <br>(Yaadhondrum)",
+          "ta": "எதுவும்",
+          "en": "Anything",
+          "hi": "कुछ भी"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Is not",
+          "hi": "है नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்",
+          "line2": "கரும்பொருள் யாதொன்று மில்."
+        },
+        "en": {
+          "line1": "With chosen friends deliberate; next use thy private thought;",
+          "line2": "Then act. By those who thus proceed all works with ease are wrought."
+        },
+        "hi": {
+          "line1": "आप्तों से कर मंत्रणा, करता स्वयं विचार ।",
+          "line2": "उस कर्मी को है नहीं, कुछ भी असाध्य कार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Therindha Inaththodu Therndhennich Seyvaarkku",
+            "line2": "Arumborul Yaadhondrum Il."
+          },
+          "hi": {
+            "line1": "तॆरिन्द विनत्तॊडु तेर्न्दॆण्णिच् सॆय्वार्क्",
+            "line2": "करुम्पॊरुळ् यादॊन्द्रु मिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆராய்ந்து தேர்ந்தெடுத்த நண்பர்களுடன் கலந்து ஆலோசித்து, தானும் நன்கு எண்ணிச் செயல்படுபவர்க்கு அரிய செயல் எதுவுமே இல்லை.",
+        "en": "Consult trusted advisors, think it through carefully yourself, and then act—nothing will be beyond your reach.",
+        "hi": "जो व्यक्ति अपने विश्वसनीय मित्रों (आप्तों) से मंत्रणा करके स्वयं भी भली-भाँति विचार कर कार्य करता है, उस कर्मठ व्यक्ति के लिए कोई भी कार्य असाध्य नहीं रहता।"
+      }
+    },
+    {
+      "num": 463,
+      "line1": "ஆக்கங் கருதி முதலிழக்குஞ் செய்வினை",
+      "line2": "யூக்கா ரறிவுடை யார்.",
+      "enLine1": "To risk one's all and lose, aiming at added gain,",
+      "enLine2": "Is rash affair, from which the wise abstain.",
+      "hiLine1": "कितना भावी लाभ हो, इसपर दे कर ध्यान ।",
+      "hiLine2": "पूँजी-नाशक कर्म तो, करते नहिं मतिमान ॥",
+      "general": "எதிர்காலத்தில் வரும் இலாபத்தைக் கருதி, கையிலிருக்கும் மூலதனத்தையும் இழக்கச் செய்யும் செயலில் அறிவுடையவர் ஈடுபட மாட்டார்கள்.",
+      "en": "The wise will never undertake an enterprise that risks losing their existing capital in the hope of uncertain future gain.",
+      "hi": "भविष्य में कितना ही अधिक लाभ क्यों न दिखता हो, उस पर ध्यान देकर भी बुद्धिमान लोग अपनी मूल पूँजी को नष्ट करने वाले कर्म कभी नहीं करते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஆக்கம் <br>(Aakkam)",
+          "ta": "வருமானத்தை",
+          "en": "Added gain",
+          "hi": "भावी लाभ"
+        },
+        {
+          "no": 2,
+          "word": "கருதி <br>(Karudhi)",
+          "ta": "எண்ணி",
+          "en": "Aiming at",
+          "hi": "दे कर ध्यान"
+        },
+        {
+          "no": 3,
+          "word": "முதல் இழக்கும் <br>(Mudhal izhakkum)",
+          "ta": "மூலதனத்தை இழக்கும்",
+          "en": "Risk one's all and lose",
+          "hi": "पूँजी-नाशक"
+        },
+        {
+          "no": 4,
+          "word": "செய்வினை <br>(Seyvinai)",
+          "ta": "செயலை",
+          "en": "Affair / enterprise",
+          "hi": "कर्म तो"
+        },
+        {
+          "no": 5,
+          "word": "ஊக்கார் <br>(Ookkaar)",
+          "ta": "செய்யத் துணியார்",
+          "en": "Abstain",
+          "hi": "करते नहिं"
+        },
+        {
+          "no": 6,
+          "word": "அறிவுடையார் <br>(Arivudaiyaar)",
+          "ta": "அறிவுடையவர்",
+          "en": "The wise",
+          "hi": "मतिमान"
+        },
+        {
+          "no": 7,
+          "word": "வினை <br>(Vinai)",
+          "ta": "செயல்",
+          "en": "Deed",
+          "hi": "कर्म"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஆக்கங் கருதி முதலிழக்குஞ் செய்வினை",
+          "line2": "யூக்கா ரறிவுடை யார்."
+        },
+        "en": {
+          "line1": "To risk one's all and lose, aiming at added gain,",
+          "line2": "Is rash affair, from which the wise abstain."
+        },
+        "hi": {
+          "line1": "कितना भावी लाभ हो, इसपर दे कर ध्यान ।",
+          "line2": "पूँजी-नाशक कर्म तो, करते नहिं मतिमान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aakkang Karudhi Mudhalizhakkunj Seyvinai",
+            "line2": "Ookkaar Arivudai Yaar."
+          },
+          "hi": {
+            "line1": "आक्कङ् करुदि मुदलिऴक्कुञ् सॆय्विनै",
+            "line2": "यूक्का ररिवुडै यार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எதிர்காலத்தில் வரும் இலாபத்தைக் கருதி, கையிலிருக்கும் மூலதனத்தையும் இழக்கச் செய்யும் செயலில் அறிவுடையவர் ஈடுபட மாட்டார்கள்.",
+        "en": "Wise people never gamble away their core capital just chasing the promise of bigger returns.",
+        "hi": "भविष्य में कितना ही अधिक लाभ क्यों न दिखता हो, उस पर ध्यान देकर भी बुद्धिमान लोग अपनी मूल पूँजी को नष्ट करने वाले कर्म कभी नहीं करते।"
+      }
+    },
+    {
+      "num": 464,
+      "line1": "தெளிவி லதனைத் தொடங்கா ரிளிவென்னு",
+      "line2": "மேதப்பா டஞ்சு பவர்.",
+      "enLine1": "A work of which the issue is not clear,",
+      "enLine2": "Begin not they reproachful scorn who fear.",
+      "hiLine1": "अपयश के आरोप से, जो होते हैं भीत ।",
+      "hiLine2": "शुरू न करते कर्म वे, स्पष्ट न जिसकी रीत ॥",
+      "general": "இழிவு என்ற குற்றம் வந்து சேருமே என அஞ்சுபவர்கள், முடிவு தெளிவாகத் தெரியாத ஒரு செயலைத் தொடங்க மாட்டார்கள்.",
+      "en": "Those who fear the disgrace of failure will never begin an undertaking whose outcome is unclear.",
+      "hi": "जो लोग अपयश और निंदा के आरोप से भयभीत रहते हैं, वे ऐसा कोई भी कार्य प्रारंभ नहीं करते जिसकी कार्य-पद्धति और परिणाम स्पष्ट न हों।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தெளிவு இலதனை <br>(Thelivu iladhanai)",
+          "ta": "தெளிவு இல்லாத செயலை",
+          "en": "Issue is not clear",
+          "hi": "स्पष्ट न जिसकी रीत"
+        },
+        {
+          "no": 2,
+          "word": "தொடங்கார் <br>(Thodangaar)",
+          "ta": "தொடங்க மாட்டார்",
+          "en": "Begin not",
+          "hi": "शुरू न करते"
+        },
+        {
+          "no": 3,
+          "word": "இளிவு என்னும் <br>(Ilivu ennum)",
+          "ta": "இழிவு என்னும்",
+          "en": "Reproachful scorn",
+          "hi": "अपयश के आरोप से"
+        },
+        {
+          "no": 4,
+          "word": "ஏதப்பாடு <br>(Edhappadu)",
+          "ta": "குற்றத்திற்கு",
+          "en": "Reproach",
+          "hi": "आरोप"
+        },
+        {
+          "no": 5,
+          "word": "அஞ்சுபவர் <br>(Anjubavar)",
+          "ta": "அஞ்சுபவர்கள்",
+          "en": "Who fear",
+          "hi": "जो होते हैं भीत"
+        },
+        {
+          "no": 6,
+          "word": "தெளிவு <br>(Thelivu)",
+          "ta": "தெளிவு",
+          "en": "Clarity",
+          "hi": "स्पष्ट"
+        },
+        {
+          "no": 7,
+          "word": "அதனை <br>(Adhanai)",
+          "ta": "அதை",
+          "en": "That work",
+          "hi": "कर्म वे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தெளிவி லதனைத் தொடங்கா ரிளிவென்னு",
+          "line2": "மேதப்பா டஞ்சு பவர்."
+        },
+        "en": {
+          "line1": "A work of which the issue is not clear,",
+          "line2": "Begin not they reproachful scorn who fear."
+        },
+        "hi": {
+          "line1": "अपयश के आरोप से, जो होते हैं भीत ।",
+          "line2": "शुरू न करते कर्म वे, स्पष्ट न जिसकी रीत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thelivu Iladhanaith Thodangaar Ilivennum",
+            "line2": "Edhappaadu Anju Bavar."
+          },
+          "hi": {
+            "line1": "तॆळिवि लदनैत् तॊडङ्गा रिळिवॆन्नु",
+            "line2": "मेदप्पा डञ्जु बवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இழிவு என்ற குற்றம் வந்து சேருமே என அஞ்சுபவர்கள், முடிவு தெளிவாகத் தெரியாத ஒரு செயலைத் தொடங்க மாட்டார்கள்.",
+        "en": "People who care about their reputation don't launch into ventures when the path and outcome are still foggy.",
+        "hi": "जो लोग अपयश और निंदा के आरोप से भयभीत रहते हैं, वे ऐसा कोई भी कार्य प्रारंभ नहीं करते जिसकी कार्य-पद्धति और परिणाम स्पष्ट न हों।"
+      }
+    },
+    {
+      "num": 465,
+      "line1": "வகையறச் சூழா தெழுதல் பகைவரைப்",
+      "line2": "பாத்திப் படுப்பதோ ராறு.",
+      "enLine1": "With plans not well matured to rise against your foe,",
+      "enLine2": "Is way to plant him out where he is sure to grow!",
+      "hiLine1": "टूट पड़े जो शत्रु पर, बिन सोचे सब मर्म ।",
+      "hiLine2": "शत्रु-गुल्म हित तो बने, क्यारी ज्यों वह कर्म ॥",
+      "general": "செய்யும் முறைகளைத் தெளிவாக ஆராயாமல் பகைவர் மேல் படையெடுத்துச் செல்வது, அப்பகைவர் வளர்வதற்கான பாத்தியை அமைத்துக் கொடுக்கும் வழியாகும்.",
+      "en": "Marching against enemies without thoroughly planning every detail is simply preparing a fertile bed for those enemies to grow stronger.",
+      "hi": "जो राजा बिना सारा मर्म और रणनीति सोचे-समझे ही शत्रु पर टूट पड़ता है, उसका वह कर्म शत्रु रूपी झाड़ी (गुल्म) के लिए खाद-पानी वाली क्यारी के समान हितकारी बन जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வகையற <br>(Vagaiyara)",
+          "ta": "உபாயங்களை எல்லாம்",
+          "en": "Plans well matured",
+          "hi": "सब मर्म"
+        },
+        {
+          "no": 2,
+          "word": "சூழாது <br>(Soozhaadhu)",
+          "ta": "ஆராயாமல்",
+          "en": "Not matured",
+          "hi": "बिन सोचे"
+        },
+        {
+          "no": 3,
+          "word": "எழுதல் <br>(Ezhudhal)",
+          "ta": "முயன்று எழுதல்",
+          "en": "To rise against",
+          "hi": "टूट पड़े जो"
+        },
+        {
+          "no": 4,
+          "word": "பகைவரை <br>(Pagaivarai)",
+          "ta": "பகைவரை",
+          "en": "Your foe",
+          "hi": "शत्रु पर"
+        },
+        {
+          "no": 5,
+          "word": "பாத்திப் படுப்பது <br>(Paaththip paduppadhu)",
+          "ta": "பாத்தி கட்டி வளர்ப்பது போன்ற",
+          "en": "Plant him out to grow",
+          "hi": "शत्रु-गुल्म हित क्यारी ज्यों"
+        },
+        {
+          "no": 6,
+          "word": "ஓர் ஆறு <br>(Or aaru)",
+          "ta": "ஒரு வழியாகும்",
+          "en": "Is way",
+          "hi": "बने वह कर्म"
+        },
+        {
+          "no": 7,
+          "word": "பகை <br>(Pagai)",
+          "ta": "பகை",
+          "en": "Enmity",
+          "hi": "शत्रु"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வகையறச் சூழா தெழுதல் பகைவரைப்",
+          "line2": "பாத்திப் படுப்பதோ ராறு."
+        },
+        "en": {
+          "line1": "With plans not well matured to rise against your foe,",
+          "line2": "Is way to plant him out where he is sure to grow!"
+        },
+        "hi": {
+          "line1": "टूट पड़े जो शत्रु पर, बिन सोचे सब मर्म ।",
+          "line2": "शत्रु-गुल्म हित तो बने, क्यारी ज्यों वह कर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vagaiyarach Soozhaadhu Ezhudhal Pagaivaraip",
+            "line2": "Paaththip Paduppadhu Oraaru."
+          },
+          "hi": {
+            "line1": "वगैयरच् सूऴा दॆऴुदल् पगैवरैप्",
+            "line2": "पात्तिप् पडुप्पदो रारु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செய்யும் முறைகளைத் தெளிவாக ஆராயாமல் பகைவர் மேல் படையெடுத்துச் செல்வது, அப்பகைவர் வளர்வதற்கான பாத்தியை அமைத்துக் கொடுக்கும் வழியாகும்.",
+        "en": "Attacking a rival without a fully thought-out plan is like building a well-watered garden bed for them to grow stronger in.",
+        "hi": "जो राजा बिना सारा मर्म और रणनीति सोचे-समझे ही शत्रु पर टूट पड़ता है, उसका वह कर्म शत्रु रूपी झाड़ी (गुल्म) के लिए खाद-पानी वाली क्यारी के समान हितकारी बन जाता है।"
+      }
+    },
+    {
+      "num": 466,
+      "line1": "செய்தக்க வல்ல செயக்கெடுஞ் செய்தக்க",
+      "line2": "செய்யாமை யானுங் கெடும்.",
+      "enLine1": "'Tis ruin if man do an unbefitting thing;",
+      "enLine2": "Fit things to leave undone will equal ruin bring.",
+      "hiLine1": "करता अनुचित कर्म तो, होता है नर नष्ट ।",
+      "hiLine2": "उचित कर्म को छोड़ता, तो भी होता नष्ट ॥",
+      "general": "செய்யத் தகாத செயல்களைச் செய்வதால் ஒருவன் கெடுவான்; அதுபோலச் செய்யத் தக்க செயல்களைச் செய்யாமல் விடுவதாலும் கெடுவான்.",
+      "en": "A person is ruined by doing what ought not to be done, and is equally ruined by failing to do what ought to be done.",
+      "hi": "यदि मनुष्य अनुचित (न करने योग्य) कर्म करता है तो नष्ट हो जाता है, और यदि उचित (करने योग्य) कर्म को छोड़ देता है तो भी नष्ट हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செய்தக்க அல்ல <br>(Seydhakka alla)",
+          "ta": "செய்யத் தகாதவற்றை",
+          "en": "Unbefitting thing",
+          "hi": "अनुचित कर्म"
+        },
+        {
+          "no": 2,
+          "word": "செய <br>(Seya)",
+          "ta": "செய்வதால்",
+          "en": "If man do",
+          "hi": "करता तो"
+        },
+        {
+          "no": 3,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "கெடுவான்",
+          "en": "'Tis ruin",
+          "hi": "होता है नर नष्ट"
+        },
+        {
+          "no": 4,
+          "word": "செய்தக்க <br>(Seydhakka)",
+          "ta": "செய்யத் தக்கவற்றை",
+          "en": "Fit things",
+          "hi": "उचित कर्म को"
+        },
+        {
+          "no": 5,
+          "word": "செய்யாமையானும் <br>(Seyyaamaiyaanum)",
+          "ta": "செய்யாமையாலும்",
+          "en": "To leave undone",
+          "hi": "छोड़ता तो भी"
+        },
+        {
+          "no": 6,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "கெடுவான்",
+          "en": "Will ruin bring",
+          "hi": "होता नष्ट"
+        },
+        {
+          "no": 7,
+          "word": "யானும் <br>(Yaanum)",
+          "ta": "ஆதலாலும்",
+          "en": "Also by",
+          "hi": "तो भी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செய்தக்க வல்ல செயக்கெடுஞ் செய்தக்க",
+          "line2": "செய்யாமை யானுங் கெடும்."
+        },
+        "en": {
+          "line1": "'Tis ruin if man do an unbefitting thing;",
+          "line2": "Fit things to leave undone will equal ruin bring."
+        },
+        "hi": {
+          "line1": "करता अनुचित कर्म तो, होता है नर नष्ट ।",
+          "line2": "उचित कर्म को छोड़ता, तो भी होता नष्ट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seydhakka Alla Seyakkedum Seydhakka",
+            "line2": "Seyyaamai Yaanung Kedum."
+          },
+          "hi": {
+            "line1": "सॆय्दक्क वल्ल सॆयक्कॆडुञ् सॆय्दक्क",
+            "line2": "सॆय्यामै यानुङ् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செய்யத் தகாத செயல்களைச் செய்வதால் ஒருவன் கெடுவான்; அதுபோலச் செய்யத் தக்க செயல்களைச் செய்யாமல் விடுவதாலும் கெடுவான்.",
+        "en": "You can ruin yourself just as easily by neglecting what you should do as by doing what you shouldn't.",
+        "hi": "यदि मनुष्य अनुचित (न करने योग्य) कर्म करता है तो नष्ट हो जाता है, और यदि उचित (करने योग्य) कर्म को छोड़ देता है तो भी नष्ट हो जाता है।"
+      }
+    },
+    {
+      "num": 467,
+      "line1": "எண்ணித் துணிக கருமந் துணிந்தபி",
+      "line2": "னெண்ணுவ மென்ப திழுக்கு.",
+      "enLine1": "Think, and then dare the deed! Who cry,",
+      "enLine2": "'Deed dared, we'll think,' disgraced shall be.",
+      "hiLine1": "होना प्रवृत कर्म में, करके सोच-विचार ।",
+      "hiLine2": "'हो कर प्रवृत सोच लें', है यह गलत विचार ॥",
+      "general": "எந்தச் செயலையும் நன்கு எண்ணித் துணிந்து தொடங்க வேண்டும்; துணிந்து தொடங்கிய பிறகு எண்ணிப் பார்க்கலாம் என்பது குற்றமாகும்.",
+      "en": "Deliberate well before embarking on a task; saying 'let us think after we have started' is a grave blunder.",
+      "hi": "भली-भाँति सोच-विचार करके ही किसी कर्म में प्रवृत्त होना चाहिए; 'पहले काम शुरू कर लें फिर सोचेंगे'—यह अत्यंत गलत विचार है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எண்ணி <br>(Enni)",
+          "ta": "நன்கு எண்ணிப் பார்த்து",
+          "en": "Think",
+          "hi": "करके सोच-विचार"
+        },
+        {
+          "no": 2,
+          "word": "துணிக <br>(Thunigha)",
+          "ta": "துணிய வேண்டும்",
+          "en": "Dare the deed",
+          "hi": "होना प्रवृत"
+        },
+        {
+          "no": 3,
+          "word": "கருமம் <br>(Karumam)",
+          "ta": "செயலை",
+          "en": "The deed",
+          "hi": "कर्म में"
+        },
+        {
+          "no": 4,
+          "word": "துணிந்தபின் <br>(Thunindhabin)",
+          "ta": "துணிந்த பிறகு",
+          "en": "Deed dared",
+          "hi": "हो कर प्रवृत"
+        },
+        {
+          "no": 5,
+          "word": "எண்ணுவம் <br>(Ennuvam)",
+          "ta": "எண்ணிப் பார்ப்போம்",
+          "en": "We'll think",
+          "hi": "सोच लें"
+        },
+        {
+          "no": 6,
+          "word": "என்பது <br>(Enbadhu)",
+          "ta": "என்று கூறுவது",
+          "en": "Who cry",
+          "hi": "है यह"
+        },
+        {
+          "no": 7,
+          "word": "இழுக்கு <br>(Izhukku)",
+          "ta": "குற்றமாகும்",
+          "en": "Disgraced / fault",
+          "hi": "गलत विचार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எண்ணித் துணிக கருமந் துணிந்தபி",
+          "line2": "னெண்ணுவ மென்ப திழுக்கு."
+        },
+        "en": {
+          "line1": "Think, and then dare the deed! Who cry,",
+          "line2": "'Deed dared, we'll think,' disgraced shall be."
+        },
+        "hi": {
+          "line1": "होना प्रवृत कर्म में, करके सोच-विचार ।",
+          "line2": "'हो कर प्रवृत सोच लें', है यह गलत विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ennith Thunigha Karumam Thunindhabin",
+            "line2": "Ennuvam Enbadhu Izhukku."
+          },
+          "hi": {
+            "line1": "ऎण्णित् तुणिग करुमन् तुणिन्दबि",
+            "line2": "नॆण्णुव मॆन्ब दिऴुक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எந்தச் செயலையும் நன்கு எண்ணித் துணிந்து தொடங்க வேண்டும்; துணிந்து தொடங்கிய பிறகு எண்ணிப் பார்க்கலாம் என்பது குற்றமாகும்.",
+        "en": "Think first, then act boldly—jumping in first and hoping to figure it out later is asking for trouble.",
+        "hi": "भली-भाँति सोच-विचार करके ही किसी कर्म में प्रवृत्त होना चाहिए; 'पहले काम शुरू कर लें फिर सोचेंगे'—यह अत्यंत गलत विचार है।"
+      }
+    },
+    {
+      "num": 468,
+      "line1": "ஆற்றின் வருந்தா வருத்தம் பலர்நின்று",
+      "line2": "போற்றினும் பொத்துப் படும்.",
+      "enLine1": "On no right system if man toil and strive,",
+      "enLine2": "Though many men assist, no work can thrive.",
+      "hiLine1": "जो भी साध्य उपाय बिन, किया जायगा यत्न ।",
+      "hiLine2": "कई समर्थक क्यों न हों, खाली हो वह यत्न ॥",
+      "general": "தக்க வழியில் நின்று முயற்சி செய்யாத செயல், பலர் துணை நின்று போற்றினாலும் குற்றமுடையதாகிக் கெட்டுப்போகும்.",
+      "en": "Effort not made along the right method will fail and come to nothing, even if many people stand by and support it.",
+      "hi": "उचित साध्य और उपाय के बिना जो भी प्रयत्न किया जाएगा, उसमें चाहे कितने ही समर्थक क्यों न हों, वह प्रयत्न खाली (निष्फल) ही जाएगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஆற்றின் <br>(Aatrin)",
+          "ta": "உரிய வழியில்",
+          "en": "On right system",
+          "hi": "साध्य उपाय बिन"
+        },
+        {
+          "no": 2,
+          "word": "வருந்தா <br>(Varundhaa)",
+          "ta": "முயற்சி செய்யாத",
+          "en": "If man not toil",
+          "hi": "किया जायगा"
+        },
+        {
+          "no": 3,
+          "word": "வருத்தம் <br>(Varuththam)",
+          "ta": "முயற்சி",
+          "en": "Effort / strive",
+          "hi": "यत्न"
+        },
+        {
+          "no": 4,
+          "word": "பலர் நின்று <br>(Palar nindru)",
+          "ta": "பலர் துணை நின்று",
+          "en": "Many men assist",
+          "hi": "कई समर्थक क्यों न हों"
+        },
+        {
+          "no": 5,
+          "word": "போற்றினும் <br>(Potrinum)",
+          "ta": "காத்தாலும்",
+          "en": "Support",
+          "hi": "समर्थन करें"
+        },
+        {
+          "no": 6,
+          "word": "பொத்து <br>(Poththu)",
+          "ta": "குற்றம்",
+          "en": "Failure",
+          "hi": "खाली"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "உண்டாகும்",
+          "en": "Cannot thrive",
+          "hi": "हो वह यत्न"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஆற்றின் வருந்தா வருத்தம் பலர்நின்று",
+          "line2": "போற்றினும் பொத்துப் படும்."
+        },
+        "en": {
+          "line1": "On no right system if man toil and strive,",
+          "line2": "Though many men assist, no work can thrive."
+        },
+        "hi": {
+          "line1": "जो भी साध्य उपाय बिन, किया जायगा यत्न ।",
+          "line2": "कई समर्थक क्यों न हों, खाली हो वह यत्न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aatrin Varundhaa Varuththam Palarnindru",
+            "line2": "Potrinum Poththup Padum."
+          },
+          "hi": {
+            "line1": "आत्रिन् वरुन्दा वरुत्तम् पलर्निन्द्रु",
+            "line2": "पोत्रिनुम् पॊत्तुप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தக்க வழியில் நின்று முயற்சி செய்யாத செயல், பலர் துணை நின்று போற்றினாலும் குற்றமுடையதாகிக் கெட்டுப்போகும்.",
+        "en": "Without the right strategy, even an army of helpers cheering you on won't save an effort from falling apart.",
+        "hi": "उचित साध्य और उपाय के बिना जो भी प्रयत्न किया जाएगा, उसमें चाहे कितने ही समर्थक क्यों न हों, वह प्रयत्न खाली (निष्फल) ही जाएगा।"
+      }
+    },
+    {
+      "num": 469,
+      "line1": "நன்றாற்ற லுள்ளுங் தவறுண் டவரவர்",
+      "line2": "பண்பறிந் தாற்றாக் கடை.",
+      "enLine1": "Though well the work be done, yet one mistake is made,",
+      "enLine2": "To habitudes of various men when no regard is paid.",
+      "hiLine1": "बिन जाने गुण शत्रु का, यदि उसके अनुकूल ।",
+      "hiLine2": "किया गया सदुपाय तो, उससे भी हो भूल ॥",
+      "general": "நல்ல செயல்களைச் செய்யும்போதும், அவரவருடைய இயல்பை அறிந்து அதற்கேற்பச் செய்யாவிட்டால் அதிலும் தவறு உண்டாகும்.",
+      "en": "Even in doing good deeds, a mistake occurs if one fails to act with due regard to each person's nature and temperament.",
+      "hi": "यदि किसी व्यक्ति (या शत्रु) के गुण-स्वभाव को जाने बिना उसके अनुकूल मानकर कोई अच्छा उपाय भी किया जाए, तो उससे भी भूल (गलती) हो जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நன்று ஆற்றலுள்ளும் <br>(Nandru aatralullum)",
+          "ta": "நன்மை செய்வதிலும்",
+          "en": "Though well work be done",
+          "hi": "सदुपाय किया गया"
+        },
+        {
+          "no": 2,
+          "word": "தவறு உண்டு <br>(Thavaru undu)",
+          "ta": "தவறு உண்டு",
+          "en": "Mistake is made",
+          "hi": "उससे भी हो भूल"
+        },
+        {
+          "no": 3,
+          "word": "அவரவர் <br>(Avaravar)",
+          "ta": "அவரவரது",
+          "en": "Of various men",
+          "hi": "शत्रु का"
+        },
+        {
+          "no": 4,
+          "word": "பண்பு <br>(Panbu)",
+          "ta": "இயல்பை",
+          "en": "Habitudes",
+          "hi": "गुण"
+        },
+        {
+          "no": 5,
+          "word": "அறிந்து <br>(Arindhu)",
+          "ta": "அறிந்து",
+          "en": "Regard is paid",
+          "hi": "बिन जाने"
+        },
+        {
+          "no": 6,
+          "word": "ஆற்றா <br>(Aatraa)",
+          "ta": "செய்யா",
+          "en": "When not",
+          "hi": "अनुकूल"
+        },
+        {
+          "no": 7,
+          "word": "கடை <br>(Kadai)",
+          "ta": "விட்டால்",
+          "en": "If",
+          "hi": "यदि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நன்றாற்ற லுள்ளுங் தவறுண் டவரவர்",
+          "line2": "பண்பறிந் தாற்றாக் கடை."
+        },
+        "en": {
+          "line1": "Though well the work be done, yet one mistake is made,",
+          "line2": "To habitudes of various men when no regard is paid."
+        },
+        "hi": {
+          "line1": "बिन जाने गुण शत्रु का, यदि उसके अनुकूल ।",
+          "line2": "किया गया सदुपाय तो, उससे भी हो भूल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nandraatra Lullung Thavarundu Avaravar",
+            "line2": "Panbarindhu Aatraak Kadai."
+          },
+          "hi": {
+            "line1": "नन्द्रात्र लुळ्ळुङ् तवरुण् डवरवर्",
+            "line2": "पण्बरिन् दात्राक् कडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்ல செயல்களைச் செய்யும்போதும், அவரவருடைய இயல்பை அறிந்து அதற்கேற்பச் செய்யாவிட்டால் அதிலும் தவறு உண்டாகும்.",
+        "en": "Even good intentions backfire if you don't tailor your approach to the character and temperament of the people involved.",
+        "hi": "यदि किसी व्यक्ति (या शत्रु) के गुण-स्वभाव को जाने बिना उसके अनुकूल मानकर कोई अच्छा उपाय भी किया जाए, तो उससे भी भूल (गलती) हो जाती है।"
+      }
+    },
+    {
+      "num": 470,
+      "line1": "எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு",
+      "line2": "கொள்ளாத கொள்ளா துலகு.",
+      "enLine1": "Plan and perform no work that others may despise;",
+      "enLine2": "What misbeseems a king the world will not approve as wise.",
+      "hiLine1": "अनुपयुक्त जो है तुम्हें, जग न करे स्वीकार ।",
+      "hiLine2": "करना अनिंद्य कार्य ही, करके सोच-विचार ॥",
+      "general": "பிறர் இகழாத செயல்களையே எண்ணிப் பார்த்துச் செய்ய வேண்டும்; தம் தகுதியோடு பொருந்தாத செயல்களை உலகம் ஏற்றுக்கொள்ளாது.",
+      "en": "One should plan and carry out only such deeds as will not be despised; the world will not accept what does not befit one's station.",
+      "hi": "जो कार्य तुम्हारे लिए अनुपयुक्त (अशोभनीय) है, उसे संसार कभी स्वीकार नहीं करेगा; इसलिए भली-भाँति सोच-विचार कर निंदा से रहित (अनिंद्य) कार्य ही करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எள்ளாத <br>(Ellaadha)",
+          "ta": "பிறர் இகழாததை",
+          "en": "None may despise",
+          "hi": "अनिंद्य कार्य ही"
+        },
+        {
+          "no": 2,
+          "word": "எண்ணி <br>(Enni)",
+          "ta": "எண்ணிப் பார்த்து",
+          "en": "Plan",
+          "hi": "करके सोच-विचार"
+        },
+        {
+          "no": 3,
+          "word": "செயல் வேண்டும் <br>(Seyal vendum)",
+          "ta": "செய்ய வேண்டும்",
+          "en": "Perform",
+          "hi": "करना"
+        },
+        {
+          "no": 4,
+          "word": "தம்மொடு <br>(Thammodu)",
+          "ta": "தம் தகுதியோடு",
+          "en": "What beseems",
+          "hi": "जो है तुम्हें"
+        },
+        {
+          "no": 5,
+          "word": "கொள்ளாத <br>(Kollaadha)",
+          "ta": "பொருந்தாததை",
+          "en": "Misbeseems",
+          "hi": "अनुपयुक्त"
+        },
+        {
+          "no": 6,
+          "word": "கொள்ளாது <br>(Kollaadhu)",
+          "ta": "ஏற்றுக்கொள்ளாது",
+          "en": "Will not approve",
+          "hi": "न करे स्वीकार"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "जग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு",
+          "line2": "கொள்ளாத கொள்ளா துலகு."
+        },
+        "en": {
+          "line1": "Plan and perform no work that others may despise;",
+          "line2": "What misbeseems a king the world will not approve as wise."
+        },
+        "hi": {
+          "line1": "अनुपयुक्त जो है तुम्हें, जग न करे स्वीकार ।",
+          "line2": "करना अनिंद्य कार्य ही, करके सोच-विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ellaadha Ennich Seyalvendum Thammodu",
+            "line2": "Kollaadha Kollaadhu Ulagu."
+          },
+          "hi": {
+            "line1": "ऎळ्ळाद वॆण्णिच् सॆयल्वेण्डुन् तम्मॊडु",
+            "line2": "कॊळ्ळाद कॊळ्ळा दुलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறர் இகழாத செயல்களையே எண்ணிப் பார்த்துச் செய்ய வேண்டும்; தம் தகுதியோடு பொருந்தாத செயல்களை உலகம் ஏற்றுக்கொள்ளாது.",
+        "en": "Choose only actions that command respect—the world will never endorse conduct that falls beneath your dignity.",
+        "hi": "जो कार्य तुम्हारे लिए अनुपयुक्त (अशोभनीय) है, उसे संसार कभी स्वीकार नहीं करेगा; इसलिए भली-भाँति सोच-विचार कर निंदा से रहित (अनिंद्य) कार्य ही करना चाहिए।"
+      }
+    }
+  ]
+}

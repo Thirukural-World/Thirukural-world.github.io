@@ -1,0 +1,930 @@
+{
+  "chapterNum": 14,
+  "nameTa": "ஒழுக்கமுடைமை",
+  "nameEn": "The Possession of Decorum",
+  "nameHi": "आचारशीलता",
+  "paal": "அறத்துப்பால்",
+  "iyal": "இல்லறவியல்",
+  "kurals": [
+    {
+      "num": 131,
+      "line1": "ஒழுக்கம் விழுப்பம் தரலான் ஒழுக்கம்",
+      "line2": "உயிரினும் ஓம்பப் படும்.",
+      "enLine1": "'Decorum' gives especial excellence ; with greater care",
+      "enLine2": "'Decorum' should men guard than life, which all men share.",
+      "hiLine1": "सदाचार-संपन्नता, देती सब को श्रेय ।",
+      "hiLine2": "तब तो प्राणों से अधिक, रक्षणीय वह ज्ञेय ॥",
+      "general": "நல்லொழுக்கம் எல்லோர்க்கும் மேன்மையைத் தருவதால், அந்த ஒழுக்கத்தைத் தம் உயிரைவிடச் சிறந்ததாகப் போற்றிக் காக்க வேண்டும்.",
+      "en": "Since propriety of conduct confers greatness and dignity, it should be guarded more carefully than life itself.",
+      "hi": "सदाचार से संपन्न होना सबको श्रेष्ठता प्रदान करता है, इसलिए विद्वानों ने सदाचार को अपने प्राणों से भी अधिक रक्षणीय माना है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒழுக்கம் <br>(Ozhukkam)",
+          "ta": "நல்லொழுக்கம்",
+          "en": "Decorum / good conduct",
+          "hi": "सदाचार"
+        },
+        {
+          "no": 2,
+          "word": "விழுப்பம் <br>(Vizhuppam)",
+          "ta": "மேன்மையை",
+          "en": "Especial excellence",
+          "hi": "श्रेष्ठता (श्रेय)"
+        },
+        {
+          "no": 3,
+          "word": "தரலான் <br>(Tharalaan)",
+          "ta": "தருவதால்",
+          "en": "Because it gives",
+          "hi": "देता है इसलिए"
+        },
+        {
+          "no": 4,
+          "word": "ஒழுக்கம் <br>(Ozhukkam)",
+          "ta": "அந்த ஒழுக்கம்",
+          "en": "Decorum",
+          "hi": "वह सदाचार"
+        },
+        {
+          "no": 5,
+          "word": "உயிரினும் <br>(Uyirinum)",
+          "ta": "உயிரைவிடவும்",
+          "en": "More than life",
+          "hi": "प्राणों से भी अधिक"
+        },
+        {
+          "no": 6,
+          "word": "ஓம்பப் <br>(Ombap)",
+          "ta": "போற்றிக் காக்கப்",
+          "en": "Should be guarded",
+          "hi": "रक्षणीय"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "படும்",
+          "en": "Must be",
+          "hi": "जानना चाहिए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒழுக்கம் விழுப்பம் தரலான் ஒழுக்கம்",
+          "line2": "உயிரினும் ஓம்பப் படும்."
+        },
+        "en": {
+          "line1": "'Decorum' gives especial excellence ; with greater care",
+          "line2": "'Decorum' should men guard than life, which all men share."
+        },
+        "hi": {
+          "line1": "सदाचार-संपन्नता, देती सब को श्रेय ।",
+          "line2": "तब तो प्राणों से अधिक, रक्षणीय वह ज्ञेय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ozhukkam Vizhuppam Tharalaan Ozhukkam",
+            "line2": "Uyirinum Ombap Padum."
+          },
+          "hi": {
+            "line1": "ऒऴुक्कम् विऴुप्पम् तरलान् ऒऴुक्कम्",
+            "line2": "उयिरिनुम् ओम्बप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்லொழுக்கம் எல்லோர்க்கும் மேன்மையைத் தருவதால், அந்த ஒழுக்கத்தைத் தம் உயிரைவிடச் சிறந்ததாகப் போற்றிக் காக்க வேண்டும்.",
+        "en": "Because upright conduct brings true honor and distinction, it must be protected even more carefully than life itself.",
+        "hi": "सदाचार से संपन्न होना सबको श्रेष्ठता प्रदान करता है, इसलिए विद्वानों ने सदाचार को अपने प्राणों से भी अधिक रक्षणीय माना है।"
+      }
+    },
+    {
+      "num": 132,
+      "line1": "பரிந்தோம்பிக் காக்க ஒழுக்கம் தெரிந்தோம்பித்",
+      "line2": "தேரினும் அஃதே துணை.",
+      "enLine1": "Searching, duly watching, learning,—'decorum' still we find",
+      "enLine2": "Man's only aid : toiling, guard thou this with watchful mind.",
+      "hiLine1": "सदाचार को यत्न से, रखना सहित विवेक ।",
+      "hiLine2": "अनुशीलन से पायगा, वही सहायक एक ॥",
+      "general": "எல்லா அறங்களையும் ஆராய்ந்து தெளிந்தாலும் அந்த நல்லொழுக்கமே நமக்குத் துணையாகும்; ஆகையால், வருந்தியும் போற்றி ஒழுக்கத்தைக் காக்க வேண்டும்.",
+      "en": "Let decorum be laboriously preserved and guarded; though one examine and test all other virtues, that alone will be his true support.",
+      "hi": "विवेक के साथ प्रयत्नपूर्वक सदाचार की रक्षा करनी चाहिए; सभी धर्मों का भली-भाँति अनुशीलन करने पर भी अंततः वही एकमात्र सच्चा सहायक सिद्ध होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பரிந்தோம்பிக் <br>(Parindhombik)",
+          "ta": "வருந்தியும் போற்றி",
+          "en": "Toiling and cherishing",
+          "hi": "यत्न से"
+        },
+        {
+          "no": 2,
+          "word": "காக்க <br>(Kaakka)",
+          "ta": "காக்க வேண்டும்",
+          "en": "Guard / preserve",
+          "hi": "रक्षा करनी चाहिए"
+        },
+        {
+          "no": 3,
+          "word": "ஒழுக்கம் <br>(Ozhukkam)",
+          "ta": "நல்லொழுக்கத்தை",
+          "en": "Decorum / good conduct",
+          "hi": "सदाचार को"
+        },
+        {
+          "no": 4,
+          "word": "தெரிந்தோம்பித் <br>(Therindhombith)",
+          "ta": "பல அறங்களைத் தேர்ந்து போற்றி",
+          "en": "Searching and watching",
+          "hi": "विवेक सहित"
+        },
+        {
+          "no": 5,
+          "word": "தேரினும் <br>(Therinum)",
+          "ta": "ஆராய்ந்து பார்த்தாலும்",
+          "en": "Even if examined",
+          "hi": "अनुशीलन करने पर भी"
+        },
+        {
+          "no": 6,
+          "word": "அஃதே <br>(Aqdhe)",
+          "ta": "அவ்வொழுக்கமே",
+          "en": "That alone",
+          "hi": "वही एक"
+        },
+        {
+          "no": 7,
+          "word": "துணை <br>(Thunai)",
+          "ta": "துணையாகும்",
+          "en": "Is man's aid",
+          "hi": "सहायक है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பரிந்தோம்பிக் காக்க ஒழுக்கம் தெரிந்தோம்பித்",
+          "line2": "தேரினும் அஃதே துணை."
+        },
+        "en": {
+          "line1": "Searching, duly watching, learning,—'decorum' still we find",
+          "line2": "Man's only aid : toiling, guard thou this with watchful mind."
+        },
+        "hi": {
+          "line1": "सदाचार को यत्न से, रखना सहित विवेक ।",
+          "line2": "अनुशीलन से पायगा, वही सहायक एक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Parindhombik Kaakka Ozhukkam Therindhombith",
+            "line2": "Therinum Aqdhe Thunai."
+          },
+          "hi": {
+            "line1": "परिन्दोम्बिक् काक्क ऒऴुक्कम् तेरिन्दोम्बित्",
+            "line2": "तेरिनुम् अक़्दे तुणै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லா அறங்களையும் ஆராய்ந்து தெளிந்தாலும் அந்த நல்லொழுக்கமே நமக்குத் துணையாகும்; ஆகையால், வருந்தியும் போற்றி ஒழுக்கத்தைக் காக்க வேண்டும்.",
+        "en": "Guard virtuous conduct with diligent care; no matter how thoroughly you examine all virtues, good conduct remains your truest ally.",
+        "hi": "विवेक के साथ प्रयत्नपूर्वक सदाचार की रक्षा करनी चाहिए; सभी धर्मों का भली-भाँति अनुशीलन करने पर भी अंततः वही एकमात्र सच्चा सहायक सिद्ध होता है।"
+      }
+    },
+    {
+      "num": 133,
+      "line1": "ஒழுக்கம் உடைமை குடிமை இழுக்கம்",
+      "line2": "இழிந்த பிறப்பாய் விடும்.",
+      "enLine1": "'Decorum' 's true nobility on earth ;",
+      "enLine2": "'Indecorum's' issue is ignoble birth.",
+      "hiLine1": "सदाचार-संपन्नता, है कुलीनता जान ।",
+      "hiLine2": "चूके यदि आचार से, नीच जन्म है मान ॥",
+      "general": "நல்லொழுக்கம் உடையவராக இருத்தலே உயர்ந்த குடிப்பிறப்பாகும்; ஒழுக்கம் தவறுதல் தாழ்ந்த குடிப்பிறப்பாகிவிடும்.",
+      "en": "Propriety of conduct is true nobility of birth; impropriety of conduct reduces a person to ignoble birth.",
+      "hi": "सदाचार से संपन्न होना ही सच्ची कुलीनता (ऊँचा कुल) है, और यदि आचरण से चूक गए तो उसे नीच जन्म के समान ही समझना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒழுக்கம் <br>(Ozhukkam)",
+          "ta": "நல்லொழுக்கம்",
+          "en": "Decorum",
+          "hi": "सदाचार"
+        },
+        {
+          "no": 2,
+          "word": "உடைமை <br>(Udaimai)",
+          "ta": "உடையவராதலே",
+          "en": "Possession of",
+          "hi": "संपन्नता ही"
+        },
+        {
+          "no": 3,
+          "word": "குடிமை <br>(Kudimai)",
+          "ta": "உயர்ந்த குடிப்பிறப்பாகும்",
+          "en": "True nobility",
+          "hi": "कुलीनता है"
+        },
+        {
+          "no": 4,
+          "word": "இழுக்கம் <br>(Izhukkam)",
+          "ta": "ஒழுக்கம் தவறுதல்",
+          "en": "Indecorum / breach",
+          "hi": "आचार से चूकना"
+        },
+        {
+          "no": 5,
+          "word": "இழிந்த <br>(Izhindha)",
+          "ta": "தாழ்ந்த",
+          "en": "Ignoble / low",
+          "hi": "नीच"
+        },
+        {
+          "no": 6,
+          "word": "பிறப்பாய் <br>(Pirappaai)",
+          "ta": "பிறப்பாக",
+          "en": "Birth",
+          "hi": "जन्म"
+        },
+        {
+          "no": 7,
+          "word": "விடும் <br>(Vidum)",
+          "ta": "ஆகிவிடும்",
+          "en": "Becomes",
+          "hi": "मानो हो जाता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒழுக்கம் உடைமை குடிமை இழுக்கம்",
+          "line2": "இழிந்த பிறப்பாய் விடும்."
+        },
+        "en": {
+          "line1": "'Decorum' 's true nobility on earth ;",
+          "line2": "'Indecorum's' issue is ignoble birth."
+        },
+        "hi": {
+          "line1": "सदाचार-संपन्नता, है कुलीनता जान ।",
+          "line2": "चूके यदि आचार से, नीच जन्म है मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ozhukkam Udaimai Kudimai Izhukkam",
+            "line2": "Izhindha Pirappaai Vidum."
+          },
+          "hi": {
+            "line1": "ऒऴुक्कम् उडैमै कुडिमै इऴुक्कम्",
+            "line2": "इऴिन्द पिरप्पाय् विडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்லொழுக்கம் உடையவராக இருத்தலே உயர்ந்த குடிப்பிறப்பாகும்; ஒழுக்கம் தவறுதல் தாழ்ந்த குடிப்பிறப்பாகிவிடும்.",
+        "en": "Noble birth is defined by upright character; abandoning good conduct lowers a person regardless of lineage.",
+        "hi": "सदाचार से संपन्न होना ही सच्ची कुलीनता (ऊँचा कुल) है, और यदि आचरण से चूक गए तो उसे नीच जन्म के समान ही समझना चाहिए।"
+      }
+    },
+    {
+      "num": 134,
+      "line1": "மறப்பினும் ஒத்துக் கொளலாகும் பார்ப்பான்",
+      "line2": "பிறப்பொழுக்கம் குன்றக் கெடும்.",
+      "enLine1": "Though he forget, the Brâhman may regain his Vêdic lore ;",
+      "enLine2": "Failing in 'decorum due,' birthright's gone for evermore.",
+      "hiLine1": "संभव है फिर अध्ययन, भूल गया यदि वेद ।",
+      "hiLine2": "आचारच्युत विप्र के, होगा कुल का छेद ॥",
+      "general": "கற்ற வேதத்தை மறந்துவிட்டாலும் மீண்டும் ஓதிக் கற்றுக்கொள்ளலாம்; ஆனால், தன் ஒழுக்கத்தில் குறைந்தால் அந்தணனின் சிறப்பு அழிந்துவிடும்.",
+      "en": "Even if a scholar forgets his Vedic learning, he may study and recover it; but if he fails in the decorum of his birth, his nobility is ruined.",
+      "hi": "यदि वेद आदि का अध्ययन भूल भी जाए, तो उसे फिर से पढ़कर प्राप्त करना संभव है; किंतु आचरण से च्युत होने पर विद्वान (विप्र) की कुलीनता सदा के लिए नष्ट हो जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மறப்பினும் <br>(Marappinum)",
+          "ta": "மறந்துவிட்டாலும்",
+          "en": "Though he forget",
+          "hi": "भूल गया यदि"
+        },
+        {
+          "no": 2,
+          "word": "ஒத்துக் <br>(Oththuk)",
+          "ta": "ஓதிய வேதத்தை",
+          "en": "Vedic lore",
+          "hi": "वेद"
+        },
+        {
+          "no": 3,
+          "word": "கொளலாகும் <br>(Kolalaakum)",
+          "ta": "மீண்டும் கற்றுக்கொள்ளலாம்",
+          "en": "May regain",
+          "hi": "फिर अध्ययन संभव है"
+        },
+        {
+          "no": 4,
+          "word": "பார்ப்பான் <br>(Paarppaan)",
+          "ta": "அந்தணன்",
+          "en": "The scholar / Brahman",
+          "hi": "विप्र (विद्वान)"
+        },
+        {
+          "no": 5,
+          "word": "பிறப்பொழுக்கம் <br>(Pirappozhukkam)",
+          "ta": "தன் பிறப்புக்குரிய ஒழுக்கம்",
+          "en": "Due decorum",
+          "hi": "आचारच्युत होने पर"
+        },
+        {
+          "no": 6,
+          "word": "குன்றக் <br>(Kundrak)",
+          "ta": "குறைந்தால்",
+          "en": "Failing / declining",
+          "hi": "कुल का"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "கெட்டுவிடும்",
+          "en": "Is ruined / gone",
+          "hi": "छेद (नाश) होगा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மறப்பினும் ஒத்துக் கொளலாகும் பார்ப்பான்",
+          "line2": "பிறப்பொழுக்கம் குன்றக் கெடும்."
+        },
+        "en": {
+          "line1": "Though he forget, the Brâhman may regain his Vêdic lore ;",
+          "line2": "Failing in 'decorum due,' birthright's gone for evermore."
+        },
+        "hi": {
+          "line1": "संभव है फिर अध्ययन, भूल गया यदि वेद ।",
+          "line2": "आचारच्युत विप्र के, होगा कुल का छेद ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Marappinum Oththuk Kolalaakum Paarppaan",
+            "line2": "Pirappozhukkam Kundrak Kedum."
+          },
+          "hi": {
+            "line1": "मरप्पिनुम् ओत्तुक् कॊळलागुम् पार्प्पान्",
+            "line2": "पिरप्पॊऴुक्कम् कुन्द्रक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கற்ற வேதத்தை மறந்துவிட்டாலும் மீண்டும் ஓதிக் கற்றுக்கொள்ளலாம்; ஆனால், தன் ஒழுக்கத்தில் குறைந்தால் அந்தணனின் சிறப்பு அழிந்துவிடும்.",
+        "en": "Forgotten scriptures can always be relearned, but once moral conduct is lost, one's true standing is permanently ruined.",
+        "hi": "यदि वेद आदि का अध्ययन भूल भी जाए, तो उसे फिर से पढ़कर प्राप्त करना संभव है; किंतु आचरण से च्युत होने पर विद्वान (विप्र) की कुलीनता सदा के लिए नष्ट हो जाती है।"
+      }
+    },
+    {
+      "num": 135,
+      "line1": "அழுக்கா றுடையான்கண் ஆக்கம்போன் றில்லை",
+      "line2": "ஒழுக்கம் இலான்கண் உயர்வு.",
+      "enLine1": "The envious soul in life no rich increase of blessing gains,",
+      "enLine2": "So man of 'due decorum' void no dignity obtains.",
+      "hiLine1": "धन की ज्यों ईर्ष्यालु के, होती नहीं समृद्धि ।",
+      "hiLine2": "आचारहीन की नहीं, कुलीनता की वृद्धि ॥",
+      "general": "பொறாமை உடையவனிடம் செல்வம் நிலைபெறாதது போல, ஒழுக்கம் இல்லாதவனிடம் உயர்வும் நிலைபெறாது.",
+      "en": "Just as wealth does not abide with the envious, so greatness does not abide with one who lacks propriety of conduct.",
+      "hi": "जिस प्रकार ईर्ष्यालु व्यक्ति के पास धन-संपत्ति की समृद्धि नहीं होती, उसी प्रकार सदाचार से रहित व्यक्ति के पास कभी सम्मान और गौरव की वृद्धि नहीं होती।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அழுக்கா <br>(Azhukkaa)",
+          "ta": "பொறாமை",
+          "en": "Envy",
+          "hi": "ईर्ष्या"
+        },
+        {
+          "no": 2,
+          "word": "றுடையான்கண் <br>(Rudaiyaankan)",
+          "ta": "உடையவனிடம்",
+          "en": "In the envious soul",
+          "hi": "ईर्ष्यालु के पास"
+        },
+        {
+          "no": 3,
+          "word": "ஆக்கம்போன் <br>(Aakkampon)",
+          "ta": "செல்வம் இல்லாதது போல",
+          "en": "Like increase/wealth",
+          "hi": "धन की समृद्धि के समान"
+        },
+        {
+          "no": 4,
+          "word": "றில்லை <br>(Rillai)",
+          "ta": "இல்லை",
+          "en": "There is none",
+          "hi": "नहीं होती"
+        },
+        {
+          "no": 5,
+          "word": "ஒழுக்கம் <br>(Ozhukkam)",
+          "ta": "நல்லொழுக்கம்",
+          "en": "Decorum",
+          "hi": "आचार"
+        },
+        {
+          "no": 6,
+          "word": "இலான்கண் <br>(Ilaankan)",
+          "ta": "இல்லாதவனிடம்",
+          "en": "In one void of",
+          "hi": "रहित व्यक्ति में"
+        },
+        {
+          "no": 7,
+          "word": "உயர்வு <br>(Uyarvu)",
+          "ta": "உயர்வு",
+          "en": "Dignity / greatness",
+          "hi": "कुलीनता की वृद्धि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அழுக்கா றுடையான்கண் ஆக்கம்போன் றில்லை",
+          "line2": "ஒழுக்கம் இலான்கண் உயர்வு."
+        },
+        "en": {
+          "line1": "The envious soul in life no rich increase of blessing gains,",
+          "line2": "So man of 'due decorum' void no dignity obtains."
+        },
+        "hi": {
+          "line1": "धन की ज्यों ईर्ष्यालु के, होती नहीं समृद्धि ।",
+          "line2": "आचारहीन की नहीं, कुलीनता की वृद्धि ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Azhukkaa Rudaiyaankan Aakkampon Rillai",
+            "line2": "Ozhukkam Ilaankan Uyarvu."
+          },
+          "hi": {
+            "line1": "अऴुक्का रुडैयान्कण् आक्कम्बोन् रिल्लै",
+            "line2": "ऒऴुक्कम् इलान्कण् उयर्वु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொறாமை உடையவனிடம் செல்வம் நிலைபெறாதது போல, ஒழுக்கம் இல்லாதவனிடம் உயர்வும் நிலைபெறாது.",
+        "en": "Just as lasting prosperity eludes the envious, true dignity never stays with someone who lacks good conduct.",
+        "hi": "जिस प्रकार ईर्ष्यालु व्यक्ति के पास धन-संपत्ति की समृद्धि नहीं होती, उसी प्रकार सदाचार से रहित व्यक्ति के पास कभी सम्मान और गौरव की वृद्धि नहीं होती।"
+      }
+    },
+    {
+      "num": 136,
+      "line1": "ஒழுக்கத்தின் ஒல்கார் உரவோர் இழுக்கத்தின்",
+      "line2": "ஏதம் படுபாக் கறிந்து.",
+      "enLine1": "The strong of soul no jot abate of 'strict decorum's' laws,",
+      "enLine2": "Knowing that 'due decorum's' breach foulest disgrace will cause.",
+      "hiLine1": "सदाचार दुष्कर समझ, धीर न खींचे हाथ ।",
+      "hiLine2": "परिभव जो हो जान कर, उसकी च्युति के साथ ॥",
+      "general": "ஒழுக்கம் தவறுவதால் ஏற்படும் குற்றத்தையும் பழியையும் அறிந்து, மனவலிமை உடைய சான்றோர்கள் ஒழுக்க நெறியிலிருந்து ஒருபோதும் தவற மாட்டார்கள்.",
+      "en": "The strong-minded will never swerve from propriety of conduct, knowing the disgrace and misery that result from its breach.",
+      "hi": "सदाचार का पालन कठिन समझकर भी धीर-वीर पुरुष उससे हाथ नहीं खींचते, क्योंकि वे जानते हैं कि आचार से गिरने पर भारी अपमान और पतन होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒழுக்கத்தின் <br>(Ozhukkaththin)",
+          "ta": "நல்லொழுக்கத்திலிருந்து",
+          "en": "From decorum's laws",
+          "hi": "सदाचार से"
+        },
+        {
+          "no": 2,
+          "word": "ஒல்கார் <br>(Olkaar)",
+          "ta": "தளர மாட்டார்கள்",
+          "en": "Will not abate / swerve",
+          "hi": "हाथ नहीं खींचते"
+        },
+        {
+          "no": 3,
+          "word": "உரவோர் <br>(Uravoar)",
+          "ta": "மனவலிமை உடையவர்",
+          "en": "The strong of soul",
+          "hi": "धीर पुरुष"
+        },
+        {
+          "no": 4,
+          "word": "இழுக்கத்தின் <br>(Izhukkaththin)",
+          "ta": "ஒழுக்கம் தவறுவதால்",
+          "en": "From its breach",
+          "hi": "उसकी च्युति से"
+        },
+        {
+          "no": 5,
+          "word": "ஏதம் <br>(Edham)",
+          "ta": "குற்றமும் பழியும்",
+          "en": "Disgrace / evil",
+          "hi": "परिभव (अपमान)"
+        },
+        {
+          "no": 6,
+          "word": "படுபாக் <br>(Padupaak)",
+          "ta": "உண்டாவதை",
+          "en": "That arises",
+          "hi": "जो होता है"
+        },
+        {
+          "no": 7,
+          "word": "கறிந்து <br>(Karindhu)",
+          "ta": "அறிந்து",
+          "en": "Knowing",
+          "hi": "जानकर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒழுக்கத்தின் ஒல்கார் உரவோர் இழுக்கத்தின்",
+          "line2": "ஏதம் படுபாக் கறிந்து."
+        },
+        "en": {
+          "line1": "The strong of soul no jot abate of 'strict decorum's' laws,",
+          "line2": "Knowing that 'due decorum's' breach foulest disgrace will cause."
+        },
+        "hi": {
+          "line1": "सदाचार दुष्कर समझ, धीर न खींचे हाथ ।",
+          "line2": "परिभव जो हो जान कर, उसकी च्युति के साथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ozhukkaththin Olkaar Uravoar Izhukkaththin",
+            "line2": "Edham Padupaak Karindhu."
+          },
+          "hi": {
+            "line1": "ऒऴुक्कत्तिन् ऒल्गार् उरवोर् इऴुक्कत्तिन्",
+            "line2": "एदम् पडुपाक् करिन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒழுக்கம் தவறுவதால் ஏற்படும் குற்றத்தையும் பழியையும் அறிந்து, மனவலிமை உடைய சான்றோர்கள் ஒழுக்க நெறியிலிருந்து ஒருபோதும் தவற மாட்டார்கள்.",
+        "en": "People of inner strength never relax their moral standards, knowing full well the disgrace that follows a lapse in conduct.",
+        "hi": "सदाचार का पालन कठिन समझकर भी धीर-वीर पुरुष उससे हाथ नहीं खींचते, क्योंकि वे जानते हैं कि आचार से गिरने पर भारी अपमान और पतन होता है।"
+      }
+    },
+    {
+      "num": 137,
+      "line1": "ஒழுக்கத்தின் எய்துவர் மேன்மை இழுக்கத்தின்",
+      "line2": "எய்துவர் எய்தாப் பழி.",
+      "enLine1": "'Tis source of dignity when 'true decorum' is preserved ;",
+      "enLine2": "Who break 'decorum's' rules endure e'en censures undeserved.",
+      "hiLine1": "सदाचार से ही रही, महा कीर्ति की प्राप्ति ।",
+      "hiLine2": "उसकी च्युति से तो रही, अति निन्दा की प्राप्ति ॥",
+      "general": "நல்லொழுக்கத்தினால் எல்லோரும் மேன்மையை அடைவார்கள்; ஒழுக்கம் தவறுதலால் அடையத்தகாத பெரும் பழியை அடைவார்கள்.",
+      "en": "By propriety of conduct men obtain greatness; by impropriety of conduct they incur intolerable disgrace.",
+      "hi": "सदाचार के पालन से ही मनुष्य को महान कीर्ति और गौरव की प्राप्ति होती है, जबकि सदाचार से गिरने पर उसे अत्यधिक निंदा और अपयश मिलता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒழுக்கத்தின் <br>(Ozhukkaththin)",
+          "ta": "நல்லொழுக்கத்தால்",
+          "en": "By decorum",
+          "hi": "सदाचार से ही"
+        },
+        {
+          "no": 2,
+          "word": "எய்துவர் <br>(Eydhuvar)",
+          "ta": "அடைவார்கள்",
+          "en": "They will attain",
+          "hi": "प्राप्ति होती है"
+        },
+        {
+          "no": 3,
+          "word": "மேன்மை <br>(Menmai)",
+          "ta": "உயர்வை (மேன்மையை)",
+          "en": "Dignity / greatness",
+          "hi": "महा कीर्ति की"
+        },
+        {
+          "no": 4,
+          "word": "இழுக்கத்தின் <br>(Izhukkaththin)",
+          "ta": "ஒழுக்கம் தவறுதலால்",
+          "en": "By breaking decorum",
+          "hi": "उसकी च्युति से"
+        },
+        {
+          "no": 5,
+          "word": "எய்துவர் <br>(Eydhuvar)",
+          "ta": "அடைவார்கள்",
+          "en": "They will endure",
+          "hi": "प्राप्त होती है"
+        },
+        {
+          "no": 6,
+          "word": "எய்தாப் <br>(Eydhaap)",
+          "ta": "அடையத்தகாத",
+          "en": "Undeserved / intolerable",
+          "hi": "अत्यधिक"
+        },
+        {
+          "no": 7,
+          "word": "பழி <br>(Pazhi)",
+          "ta": "பெரும் பழியை",
+          "en": "Censure / disgrace",
+          "hi": "निंदा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒழுக்கத்தின் எய்துவர் மேன்மை இழுக்கத்தின்",
+          "line2": "எய்துவர் எய்தாப் பழி."
+        },
+        "en": {
+          "line1": "'Tis source of dignity when 'true decorum' is preserved ;",
+          "line2": "Who break 'decorum's' rules endure e'en censures undeserved."
+        },
+        "hi": {
+          "line1": "सदाचार से ही रही, महा कीर्ति की प्राप्ति ।",
+          "line2": "उसकी च्युति से तो रही, अति निन्दा की प्राप्ति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ozhukkaththin Eydhuvar Menmai Izhukkaththin",
+            "line2": "Eydhuvar Eydhaap Pazhi."
+          },
+          "hi": {
+            "line1": "ऒऴुक्कत्तिन् एय्दुवर् मेन्मै इऴुक्कत्तिन्",
+            "line2": "एय्दुवर् एय्दाप् पऴि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்லொழுக்கத்தினால் எல்லோரும் மேன்மையை அடைவார்கள்; ஒழுக்கம் தவறுதலால் அடையத்தகாத பெரும் பழியை அடைவார்கள்.",
+        "en": "Upright conduct leads to honor and dignity, while breaking moral rules invites severe and lasting disgrace.",
+        "hi": "सदाचार के पालन से ही मनुष्य को महान कीर्ति और गौरव की प्राप्ति होती है, जबकि सदाचार से गिरने पर उसे अत्यधिक निंदा और अपयश मिलता है।"
+      }
+    },
+    {
+      "num": 138,
+      "line1": "நன்றிக்கு வித்தாகும் நல்லொழுக்கம் தீயொழுக்கம்",
+      "line2": "என்றும் இடும்பை தரும்.",
+      "enLine1": "'Decorum true' observed a seed of good will be ;",
+      "enLine2": "'Decorum's breach' will sorrow yield eternally.",
+      "hiLine1": "सदाचार के बीज से, होता सुख उत्पन्न ।",
+      "hiLine2": "कदाचार से ही सदा, होता मनुज विपन्न ॥",
+      "general": "நல்லொழுக்கம் எப்போதும் நன்மைக்கு விதையாக அமையும்; தீய ஒழுக்கம் எக்காலத்திலும் துன்பத்தையே தரும்.",
+      "en": "Good conduct is the seed of virtue and happiness; bad conduct will ever produce sorrow.",
+      "hi": "सदाचार रूपी बीज से सदा सुख और कल्याण उत्पन्न होता है, जबकि कदाचार (बुरे आचरण) से मनुष्य सदैव दुखी और विपन्न होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நன்றிக்கு <br>(Nandrikku)",
+          "ta": "நன்மைக்கு",
+          "en": "Of good",
+          "hi": "सुख / कल्याण के लिए"
+        },
+        {
+          "no": 2,
+          "word": "வித்தாகும் <br>(Viththaakum)",
+          "ta": "விதையாகும்",
+          "en": "Will be a seed",
+          "hi": "बीज से उत्पन्न होता है"
+        },
+        {
+          "no": 3,
+          "word": "நல்லொழுக்கம் <br>(Nallozhukkam)",
+          "ta": "நல்லொழுக்கம்",
+          "en": "True decorum",
+          "hi": "सदाचार"
+        },
+        {
+          "no": 4,
+          "word": "தீயொழுக்கம் <br>(Theeyozhukkam)",
+          "ta": "தீய ஒழுக்கம்",
+          "en": "Decorum's breach",
+          "hi": "कदाचार से"
+        },
+        {
+          "no": 5,
+          "word": "என்றும் <br>(Endrum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "Eternally / ever",
+          "hi": "सदा"
+        },
+        {
+          "no": 6,
+          "word": "இடும்பை <br>(Idumbai)",
+          "ta": "துன்பத்தையே",
+          "en": "Sorrow / misery",
+          "hi": "विपन्न (दुखी)"
+        },
+        {
+          "no": 7,
+          "word": "தரும் <br>(Tharum)",
+          "ta": "தரும்",
+          "en": "Will yield",
+          "hi": "होता है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நன்றிக்கு வித்தாகும் நல்லொழுக்கம் தீயொழுக்கம்",
+          "line2": "என்றும் இடும்பை தரும்."
+        },
+        "en": {
+          "line1": "'Decorum true' observed a seed of good will be ;",
+          "line2": "'Decorum's breach' will sorrow yield eternally."
+        },
+        "hi": {
+          "line1": "सदाचार के बीज से, होता सुख उत्पन्न ।",
+          "line2": "कदाचार से ही सदा, होता मनुज विपन्न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nandrikku Viththaakum Nallozhukkam Theeyozhukkam",
+            "line2": "Endrum Idumbai Tharum."
+          },
+          "hi": {
+            "line1": "नन्द्रिक्कु वित्तागुम् नल्लॊऴुक्कम् तीयॊऴुक्कम्",
+            "line2": "एन्द्रुम् इडुम्बै तरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்லொழுக்கம் எப்போதும் நன்மைக்கு விதையாக அமையும்; தீய ஒழுக்கம் எக்காலத்திலும் துன்பத்தையே தரும்.",
+        "en": "Good conduct is the seed from which lasting happiness grows, while bad conduct brings endless sorrow.",
+        "hi": "सदाचार रूपी बीज से सदा सुख और कल्याण उत्पन्न होता है, जबकि कदाचार (बुरे आचरण) से मनुष्य सदैव दुखी और विपन्न होता है।"
+      }
+    },
+    {
+      "num": 139,
+      "line1": "ஒழுக்கம் உடையவர்க்கு ஒல்லாவே தீய",
+      "line2": "வழுக்கியும் வாயாற் சொலல்.",
+      "enLine1": "It cannot be that they who 'strict decorum's' law fulfil,",
+      "enLine2": "E'en in forgetful mood, should utter words of ill.",
+      "hiLine1": "सदाचारयुत लोग तो, मुख से कर भी भूल ।",
+      "hiLine2": "कहने को असमर्थ हैं, बुरे वचन प्रतिकूल ॥",
+      "general": "நல்லொழுக்கம் உடையவர்களுக்கு, மறந்தும் தம் வாயால் தீய சொற்களைச் சொல்லுதல் இயலாததாகும்.",
+      "en": "It is impossible for those who possess propriety of conduct to utter evil words, even out of forgetfulness.",
+      "hi": "सदाचार से युक्त लोग भूलकर भी अपने मुख से बुरे और प्रतिकूल वचन कहने में असमर्थ होते हैं (वे कभी कटु नहीं बोलते)।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒழுக்கம் <br>(Ozhukkam)",
+          "ta": "நல்லொழுக்கம்",
+          "en": "Decorum",
+          "hi": "सदाचार"
+        },
+        {
+          "no": 2,
+          "word": "உடையவர்க்கு <br>(Udaiyavarkku)",
+          "ta": "உடையவர்களுக்கு",
+          "en": "To those who fulfil",
+          "hi": "से युक्त लोगों को"
+        },
+        {
+          "no": 3,
+          "word": "ஒல்லாவே <br>(Ollaave)",
+          "ta": "இயலாததாகும்",
+          "en": "Cannot be / impossible",
+          "hi": "असमर्थ हैं"
+        },
+        {
+          "no": 4,
+          "word": "தீய <br>(Theeya)",
+          "ta": "தீய சொற்களை",
+          "en": "Words of ill",
+          "hi": "बुरे वचन"
+        },
+        {
+          "no": 5,
+          "word": "வழுக்கியும் <br>(Vazhukkiyum)",
+          "ta": "தவறியும் (மறந்தும்)",
+          "en": "Even in forgetful mood",
+          "hi": "भूलकर भी"
+        },
+        {
+          "no": 6,
+          "word": "வாயாற் <br>(Vaayaar)",
+          "ta": "தம் வாயால்",
+          "en": "With the mouth",
+          "hi": "मुख से"
+        },
+        {
+          "no": 7,
+          "word": "சொலல் <br>(Solal)",
+          "ta": "சொல்லுதல்",
+          "en": "Uttering",
+          "hi": "कहना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒழுக்கம் உடையவர்க்கு ஒல்லாவே தீய",
+          "line2": "வழுக்கியும் வாயாற் சொலல்."
+        },
+        "en": {
+          "line1": "It cannot be that they who 'strict decorum's' law fulfil,",
+          "line2": "E'en in forgetful mood, should utter words of ill."
+        },
+        "hi": {
+          "line1": "सदाचारयुत लोग तो, मुख से कर भी भूल ।",
+          "line2": "कहने को असमर्थ हैं, बुरे वचन प्रतिकूल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ozhukkam Udaiyavarkku Ollaave Theeya",
+            "line2": "Vazhukkiyum Vaayaar Solal."
+          },
+          "hi": {
+            "line1": "ऒऴुक्कम् उडैयवर्क्कु ऒल्लावे तीय",
+            "line2": "वऴुक्कियुम् वायार् सॊलल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்லொழுக்கம் உடையவர்களுக்கு, மறந்தும் தம் வாயால் தீய சொற்களைச் சொல்லுதல் இயலாததாகும்.",
+        "en": "People of true integrity cannot bring themselves to speak hurtful words, not even in a slip of the tongue.",
+        "hi": "सदाचार से युक्त लोग भूलकर भी अपने मुख से बुरे और प्रतिकूल वचन कहने में असमर्थ होते हैं (वे कभी कटु नहीं बोलते)।"
+      }
+    },
+    {
+      "num": 140,
+      "line1": "உலகத்தோடு ஒட்ட ஒழுகல் பலகற்றும்",
+      "line2": "கல்லார் அறிவிலா தார்.",
+      "enLine1": "Who know not with the world in harmony to dwell,",
+      "enLine2": "May many things have learned, but nothing well.",
+      "hiLine1": "जिनको लोकाचार की, अनुगति का नहिं ज्ञान ।",
+      "hiLine2": "ज्ञाता हों सब शास्त्र के, जानों उन्हें अजान ॥",
+      "general": "உலகத்து உயர்ந்தோரோடு பொருந்தி ஒழுகும் முறையை அறியாதவர்கள், எத்தனை பல நூல்களைக் கற்றாலும் அறிவில்லாதவர்களே ஆவர்.",
+      "en": "Those who do not know how to live in harmony with the world, though they have learned many things, are ignorant.",
+      "hi": "जिन लोगों को लोकाचार के अनुसार चलने का ज्ञान नहीं है, वे चाहे सभी शास्त्रों के ज्ञाता क्यों न हों, उन्हें अज्ञानी ही समझना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உலகத்தோடு <br>(Ulakaththodu)",
+          "ta": "உலகத்து உயர்ந்தோரோடு",
+          "en": "With the world",
+          "hi": "लोकाचार से"
+        },
+        {
+          "no": 2,
+          "word": "ஒட்ட <br>(Otta)",
+          "ta": "பொருந்த",
+          "en": "In harmony",
+          "hi": "अनुगति (अनुसार)"
+        },
+        {
+          "no": 3,
+          "word": "ஒழுகல் <br>(Ozhukal)",
+          "ta": "நடப்பதை",
+          "en": "To dwell / act",
+          "hi": "चलने का ज्ञान"
+        },
+        {
+          "no": 4,
+          "word": "பலகற்றும் <br>(Palakatrum)",
+          "ta": "பல நூல்களைக் கற்றும்",
+          "en": "Having learned many things",
+          "hi": "सब शास्त्रों के ज्ञाता होकर भी"
+        },
+        {
+          "no": 5,
+          "word": "கல்லார் <br>(Kallaar)",
+          "ta": "கற்காதவரே",
+          "en": "Unlearned",
+          "hi": "अज्ञानी"
+        },
+        {
+          "no": 6,
+          "word": "அறிவிலா <br>(Arivilaa)",
+          "ta": "அறிவில்லா",
+          "en": "Without wisdom",
+          "hi": "अजान"
+        },
+        {
+          "no": 7,
+          "word": "தார் <br>(Dhaar)",
+          "ta": "தவர்களே ஆவர்",
+          "en": "They who",
+          "hi": "जानो उन्हें"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உலகத்தோடு ஒட்ட ஒழுகல் பலகற்றும்",
+          "line2": "கல்லார் அறிவிலா தார்."
+        },
+        "en": {
+          "line1": "Who know not with the world in harmony to dwell,",
+          "line2": "May many things have learned, but nothing well."
+        },
+        "hi": {
+          "line1": "जिनको लोकाचार की, अनुगति का नहिं ज्ञान ।",
+          "line2": "ज्ञाता हों सब शास्त्र के, जानों उन्हें अजान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ulakaththodu Otta Ozhukal Palakatrum",
+            "line2": "Kallaar Arivilaa Dhaar."
+          },
+          "hi": {
+            "line1": "उलगत्तोडु ओट्ट ऒऴुगल् पलकत्रुम्",
+            "line2": "कल्लार् अरिविला दार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உலகத்து உயர்ந்தோரோடு பொருந்தி ஒழுகும் முறையை அறியாதவர்கள், எத்தனை பல நூல்களைக் கற்றாலும் அறிவில்லாதவர்களே ஆவர்.",
+        "en": "No matter how many books they have studied, those who cannot live in harmony with society remain truly uneducated.",
+        "hi": "जिन लोगों को लोकाचार के अनुसार चलने का ज्ञान नहीं है, वे चाहे सभी शास्त्रों के ज्ञाता क्यों न हों, उन्हें अज्ञानी ही समझना चाहिए।"
+      }
+    }
+  ]
+}
