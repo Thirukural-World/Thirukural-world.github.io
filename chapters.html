@@ -2,11 +2,10 @@
 <html lang="ta">
 <head>
 <!-- ==========================================================================
-     DAILY-KURAL: GitHub Pages Edition (Chapters 1 to 133)
-- Deployed from Private Repo (Thirukural-World/Thirukural-world-Chapters)
-  to Public GitHub Pages (thirukural-world.github.io)
+     DAILY-KURAL: Firebase Firestore Edition (Chapters 1 to 133)
+- Fetches Chapters 1–133 directly from Cloud Firestore (`chapters` collection)
 - Complete 133-Chapter Directory in Tamil, English, and Hindi
-- Fast Browser/PWA Caching with Relative JSON Paths
+- Built-in Firestore Offline Caching & PWA Support
      ========================================================================== -->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
@@ -20,6 +19,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Tamil:ital,wght@0,400;0,600;0,700;1,400&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+
+<!-- FIREBASE WEB SDK (COMPAT MODE FOR DIRECT SCRIPT INTEGRATION) -->
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
 
 <style>
 @font-face {
@@ -93,7 +96,7 @@ html, body {
   letter-spacing: 0.5px;
 }
 
-/* STANDALONE GITHUB LANGUAGE SWITCHER PILL */
+/* STANDALONE LANGUAGE SWITCHER PILL */
 .lang-switch-pill {
   background: #fff8eb;
   color: #c26100;
@@ -718,6 +721,28 @@ html, body {
 </div>
 
 <script>
+/* ==========================================================================
+   FIREBASE INITIALIZATION (REPLACE WITH YOUR FIREBASE WEB APP CONFIG)
+   ========================================================================== */
+const firebaseConfig = {
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_PROJECT_ID.appspot.com",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID"
+};
+
+if (!firebase.apps.length) {
+  firebase.initializeApp(firebaseConfig);
+}
+const db = firebase.firestore();
+
+// Enable Firestore Offline IndexedDB Cache for fast PWA loading
+db.enablePersistence().catch((err) => {
+  console.warn("Firestore offline persistence skipped:", err.code);
+});
+
 // Universal Double-Decoding UTF-8 & HTML Entity Resolver
 function decodeHtml(html) {
   if (!html) return '';
@@ -731,7 +756,7 @@ function decodeHtml(html) {
   return decoded;
 }
 
-// Dynamic Site URL for GitHub Pages (thirukural-world.github.io)
+// Dynamic Site URL
 function getSiteBaseUrl() {
   if (window.location.protocol.startsWith('http')) {
     return window.location.origin + window.location.pathname;
@@ -910,7 +935,6 @@ function populateDropdown() {
     else badgeEl.textContent = 'தமிழ்';
   }
 
-  // Update Label & Hindi Font Class
   if (labelEl) {
     if (translationLang === 'en') {
       labelEl.innerHTML = decodeHtml("Chapter:");
@@ -956,6 +980,9 @@ function populateDropdown() {
   dropdown.value = currentVal;
 }
 
+/* ==========================================================================
+   LOAD CHAPTER DATA DIRECTLY FROM CLOUD FIRESTORE (`chapters` COLLECTION)
+   ========================================================================== */
 async function loadChapterData(chNum, autoOpenKuralNum = null) {
   try {
     let formattedNum = String(chNum).padStart(3, '0');
@@ -966,20 +993,26 @@ async function loadChapterData(chNum, autoOpenKuralNum = null) {
     if (translationLang === 'hi') loadingMsg = `अध्याय ${chNum} के कुरल लोड हो रहे हैं...`;
     container.innerHTML = `<div style="text-align:center; padding: 30px; font-weight:bold; color:#c26100;">${loadingMsg}</div>`;
 
-    // Fetch relative to thirukural-world.github.io (deployed from Private Repo via GitHub Actions)
-    let targetUrl = `./${formattedNum}-Chapter.json`;
-    let response = await fetch(targetUrl);
+    // Query Firestore document IDs matching your uploaded filenames (e.g., "001-Chapter", "001-Chapter-Revised", or "1")
+    const candidateDocIds = [
+      `${formattedNum}-Chapter`,
+      `${formattedNum}-Chapter-Revised`,
+      String(chNum)
+    ];
 
-    if (!response.ok) {
-      targetUrl = `./${formattedNum}-Chapter-Revised.json`;
-      response = await fetch(targetUrl);
+    let data = null;
+    for (const docId of candidateDocIds) {
+      const docSnap = await db.collection("chapters").doc(docId).get();
+      if (docSnap.exists) {
+        data = docSnap.data();
+        break;
+      }
     }
 
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: Failed to load chapter data`);
+    if (!data) {
+      throw new Error(`Chapter ${chNum} document not found in Firestore 'chapters' collection.`);
     }
 
-    let data = await response.json();
     kuralsData = data.kurals || [];
 
     let defaultPaalTa = "அறத்துப்பால்", defaultPaalEn = "Book of Virtue", defaultPaalHi = "धर्म-कांड";
@@ -1062,7 +1095,7 @@ async function loadChapterData(chNum, autoOpenKuralNum = null) {
     }
 
   } catch (error) {
-    console.error("Error loading chapter data:", error);
+    console.error("Error loading chapter data from Firestore:", error);
     document.getElementById('kuralListContainer').innerHTML = `
       <div style="text-align:center; padding: 30px; color:#e53935; font-weight:bold;">
         ⚠️ அதிகாரம் ${chNum} தரவை ஏற்ற முடியவில்லை.<br>
@@ -1359,7 +1392,7 @@ function updateModalContent() {
     expTextEl.classList.remove('kural-hi-script');
   }
 
-  // VOCABULARY TABLE: Safely replace <br> with HTML tag so it renders cleanly
+  // VOCABULARY TABLE
   const tbody = document.getElementById('modalWordTableBody');
   tbody.innerHTML = (item.words || []).slice(0, 7).map(w => {
     let rawWord = w.word || '';
