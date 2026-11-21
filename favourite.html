@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="ta" data-lang="ta">
+<head>
+<!-- ==========================================================================
+     DAILY-KURAL: DEDICATED FAVORITES PAGE — Standalone GitHub Edition (favourite.html)
+     - Reads saved Kurals from localStorage ('daily_kural_favs')
+     - Supports Instant Multi-Language Display (Tamil / English / Hindi)
+     - Allows removing items directly with immediate UI update
+     - Connected to shared layout.js (Top Header Bar, Side Drawer & Search)
+     ========================================================================== -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+<meta name="application-name" content="Daily-Kural">
+<meta name="description" content="உங்கள் விருப்பக் குறள்கள் (Favorite Thirukkural Couplets)">
+<meta name="theme-color" content="#263b50">
+<title>Daily-Kural | விருப்பக் குறள்கள் (Favorites)</title>
+
+<!-- GOOGLE FONTS FOR NOTO SERIF TAMIL & TIRO DEVANAGARI HINDI -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Tamil:ital,wght@0,400;0,600;0,700;1,400&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+
+<style>
+@font-face {
+  font-family: 'Vijaya';
+  src: local('Vijaya'), local('Vijaya Regular'), local('Vijaya-Regular');
+  font-display: swap;
+}
+
+:root {
+  --bg-color: #faf6ee;
+  --card-bg: #fffdf7;
+  --text-main: #332619;
+  --text-muted: #59636a;
+  --accent: #c26100;
+  --border-color: #dfcba5;
+}
+
+html.dark-mode, body.dark-mode {
+  --bg-color: #12161a !important;
+  --card-bg: #1c2228 !important;
+  --text-main: #e6edf3 !important;
+  --text-muted: #9ba7b4 !important;
+  --accent: #e58e26 !important;
+  --border-color: #3b4654 !important;
+}
+
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  max-width: 100vw !important;
+  overflow-x: hidden !important;
+  box-sizing: border-box;
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  font-family: 'Vijaya', 'Noto Serif Tamil', Georgia, serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.kural-lang-hi,
+html[data-lang="hi"] .kural-lang-hi {
+  font-family: 'Tiro Devanagari Hindi', serif !important;
+}
+
+/* MULTI-LANGUAGE VISIBILITY TOGGLING (TA / EN / HI) */
+html[data-lang="ta"] .kural-lang-en,
+html[data-lang="ta"] .kural-lang-hi,
+html[data-lang="en"] .kural-lang-ta,
+html[data-lang="en"] .kural-lang-hi,
+html[data-lang="hi"] .kural-lang-ta,
+html[data-lang="hi"] .kural-lang-en {
+  display: none !important;
+}
+
+.fav-page-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px 14px 60px;
+  font-family: 'Vijaya', 'Noto Serif Tamil', Georgia, serif;
+  line-height: 1.6;
+}
+
+.fav-page-header {
+  text-align: center;
+  padding: 20px 10px;
+  border-bottom: 1.5px solid var(--border-color);
+  margin-bottom: 24px;
+}
+
+.fav-page-header h1 {
+  margin: 0;
+  font-size: clamp(26px, 5vw, 36px);
+  color: var(--accent);
+}
+
+.fav-page-header p {
+  margin: 6px 0 0;
+  font-size: 15px;
+  color: var(--text-muted);
+}
+
+/* LIST OF FAVORITE CARDS */
+.fav-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.fav-card-item {
+  background: var(--card-bg);
+  border: 1.5px solid var(--border-color);
+  border-left: 5px solid var(--accent);
+  border-radius: 12px;
+  padding: 16px 18px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.fav-card-item:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+}
+
+.fav-card-content {
+  flex: 1;
+}
+
+.fav-kural-badge {
+  display: inline-block;
+  background: var(--accent);
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 2px 10px;
+  border-radius: 14px;
+  margin-bottom: 6px;
+}
+
+.fav-kural-text {
+  font-size: 17px;
+  font-weight: bold;
+  color: var(--text-main);
+  margin: 4px 0 6px;
+  line-height: 1.5;
+}
+
+.fav-kural-meta {
+  font-size: 14px;
+  font-weight: bold;
+  color: var(--text-muted);
+}
+
+.fav-card-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-end;
+}
+
+.btn-open-kural {
+  background: var(--accent);
+  color: #ffffff !important;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 6px 14px;
+  border-radius: 20px;
+  white-space: nowrap;
+}
+
+.btn-remove-fav {
+  background: transparent;
+  border: none;
+  color: #d9534f;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: bold;
+  text-decoration: underline;
+  padding: 4px;
+}
+
+.fav-empty-state {
+  text-align: center;
+  padding: 60px 10px;
+  color: var(--text-muted);
+}
+
+.fav-empty-icon {
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+</style>
+</head>
+<body>
+
+<!-- SHARED TOP HEADER BAR, SIDE DRAWER & SEARCH MODAL -->
+<script src="layout.js"></script>
+
+<div class="fav-page-container">
+
+  <!-- PAGE HEADER -->
+  <header class="fav-page-header">
+    <div class="kural-lang-ta">
+      <h1>❤️ உங்கள் விருப்பக் குறள்கள்</h1>
+      <p>நீங்கள் தேர்ந்தெடுத்துச் சேமித்த திருக்குறள்கள் அனைத்தும் இங்கே பட்டியலிடப்பட்டுள்ளன.</p>
+    </div>
+    <div class="kural-lang-en">
+      <h1>❤️ Favorite Kurals</h1>
+      <p>All couplets you have marked as favorites are organized here.</p>
+    </div>
+    <div class="kural-lang-hi">
+      <h1>❤️ पसंदीदा कुरल</h1>
+      <p>आपके द्वारा पसंदीदा के रूप में चिह्नित सभी कुरल यहाँ सूचीबद्ध हैं।</p>
+    </div>
+  </header>
+
+  <!-- CONTAINER WHERE FAVORITE CARDS ARE INJECTED -->
+  <div id="favoritesListGrid" class="fav-grid"></div>
+
+</div>
+
+<script>
+(function() {
+  function getFavorites() {
+    try {
+      return JSON.parse(localStorage.getItem('daily_kural_favs') || '[]');
+    } catch (e) {
+      return [];
+    }
+  }
+
+  function getChapterUrl(kuralNo) {
+    var chapterNum = Math.ceil(kuralNo / 10);
+    var paal = 'aram';
+    if (chapterNum >= 39 && chapterNum <= 108) {
+      paal = 'porul';
+    } else if (chapterNum >= 109) {
+      paal = 'inbam';
+    }
+    return 'chapters.html?ch=' + chapterNum + '&paal=' + paal + '&kural=' + kuralNo + '#kural-' + kuralNo;
+  }
+
+  window.removeFavorite = function(kuralNo) {
+    var favs = getFavorites().filter(function(n) { return Number(n) !== Number(kuralNo); });
+    localStorage.setItem('daily_kural_favs', JSON.stringify(favs));
+    renderFavorites();
+  };
+
+  function renderFavorites() {
+    var favs = getFavorites();
+    var container = document.getElementById('favoritesListGrid');
+    if (!container) return;
+
+    if (!favs || favs.length === 0) {
+      container.innerHTML = `
+        <div class="fav-empty-state">
+          <div class="fav-empty-icon">🤍</div>
+          <div class="kural-lang-ta">
+            <h3>விருப்பக் குறள்கள் எதுவும் இல்லை</h3>
+            <p>அதிகாரப் பக்கங்களில் உள்ள ♥ குறியீட்டை அழுத்தி உங்கள் விருப்பக் குறள்களைச் சேர்க்கவும்.</p>
+          </div>
+          <div class="kural-lang-en">
+            <h3>No Favorite Kurals Found</h3>
+            <p>Click the ♥ symbol on chapter pages to save couplets to this list.</p>
+          </div>
+          <div class="kural-lang-hi">
+            <h3>कोई पसंदीदा कुरल नहीं मिला</h3>
+            <p>कुरल को इस सूची में सहेजने के लिए अध्याय पृष्ठों पर ♥ आइकन दबाएं।</p>
+          </div>
+        </div>
+      `;
+      return;
+    }
+
+    // Sort Kurals numerically
+    favs.sort(function(a, b) { return Number(a) - Number(b); });
+
+    container.innerHTML = favs.map(function(num) {
+      var kuralNum = Number(num);
+      var chapterNum = Math.ceil(kuralNum / 10);
+      var targetLink = getChapterUrl(kuralNum);
+
+      return `
+        <div class="fav-card-item">
+          <div class="fav-card-content">
+            <span class="fav-kural-badge"># ${kuralNum}</span>
+            <div class="fav-kural-meta">
+              <span class="kural-lang-ta">அதிகாரம் ${chapterNum}</span>
+              <span class="kural-lang-en">Chapter ${chapterNum}</span>
+              <span class="kural-lang-hi">अध्याय ${chapterNum}</span>
+            </div>
+          </div>
+          <div class="fav-card-actions">
+            <a href="${targetLink}" class="btn-open-kural">
+              <span class="kural-lang-ta">படிக்க →</span>
+              <span class="kural-lang-en">Read →</span>
+              <span class="kural-lang-hi">पढ़ें →</span>
+            </a>
+            <button class="btn-remove-fav" onclick="removeFavorite(${kuralNum})" type="button">
+              <span class="kural-lang-ta">நீக்கு</span>
+              <span class="kural-lang-en">Remove</span>
+              <span class="kural-lang-hi">हटाएं</span>
+            </button>
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  document.addEventListener('DOMContentLoaded', renderFavorites);
+})();
+</script>
+
+</body>
+</html>

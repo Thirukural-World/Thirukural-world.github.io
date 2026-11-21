@@ -1,0 +1,930 @@
+{
+  "chapterNum": 112,
+  "nameTa": "நலம்புனைந்துரைத்தல்",
+  "nameEn": "The Praise of Her Beauty",
+  "nameHi": "सौन्दर्य वर्णन",
+  "paal": "காமத்துப்பால்",
+  "iyal": "களவியல்",
+  "kurals": [
+    {
+      "num": 1111,
+      "line1": "நன்னீரை வாழி யனிச்சமே நின்னினு",
+      "line2": "மென்னீரள் யாம்வீழ் பவள்.",
+      "enLine1": "O flower of the sensitive plant ! than thee",
+      "enLine2": "More tender's the maiden beloved by me.",
+      "hiLine1": "रे अनिच्च तू धन्य है, तू है कोमल प्राण ।",
+      "hiLine2": "मेरी जो है प्रियतमा, तुझसे मृदुतर जान ॥",
+      "general": "அனிச்ச மலரே! நீ நல்ல மென்மையான தன்மை உடையாய், வாழ்க! ஆனால் நான் விரும்பும் என் காதலி உன்னைவிடவும் மென்மையானவள்.",
+      "en": "O delicate anichcham flower, may you flourish! Yet the maiden I love is even more tender than you.",
+      "hi": "हे अनिच्च के फूल! तू बहुत कोमल है, तू धन्य है; परन्तु जान ले कि मेरी प्रियतमा तुझसे भी अधिक कोमल है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நன்னீரை <br>(Nanneerai)",
+          "ta": "நல்ல மென்மை உடையாய்",
+          "en": "Sensitive",
+          "hi": "कोमल प्राण"
+        },
+        {
+          "no": 2,
+          "word": "வாழி <br>(Vaazhi)",
+          "ta": "வாழ்க",
+          "en": "Flourish",
+          "hi": "तू धन्य है"
+        },
+        {
+          "no": 3,
+          "word": "அனிச்சமே <br>(Anichchame)",
+          "ta": "அனிச்ச மலரே",
+          "en": "O flower of sensitive plant",
+          "hi": "रे अनिच्च"
+        },
+        {
+          "no": 4,
+          "word": "நின்னினும் <br>(Ninninum)",
+          "ta": "உன்னைவிடவும்",
+          "en": "Than thee",
+          "hi": "तुझसे"
+        },
+        {
+          "no": 5,
+          "word": "மென்னீரள் <br>(Menneeral)",
+          "ta": "மென்மையானவள்",
+          "en": "More tender's",
+          "hi": "मृदुतर जान"
+        },
+        {
+          "no": 6,
+          "word": "யாம் <br>(Yaam)",
+          "ta": "நாம்",
+          "en": "By me",
+          "hi": "मेरी"
+        },
+        {
+          "no": 7,
+          "word": "வீழ்பவள் <br>(Veezhbaval)",
+          "ta": "விரும்பும் காதலி",
+          "en": "Maiden beloved",
+          "hi": "जो है प्रियतमा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நன்னீரை வாழி யனிச்சமே நின்னினு",
+          "line2": "மென்னீரள் யாம்வீழ் பவள்."
+        },
+        "en": {
+          "line1": "O flower of the sensitive plant ! than thee",
+          "line2": "More tender's the maiden beloved by me."
+        },
+        "hi": {
+          "line1": "रे अनिच्च तू धन्य है, तू है कोमल प्राण ।",
+          "line2": "मेरी जो है प्रियतमा, तुझसे मृदुतर जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nanneerai Vaazhi Anichchame Ninninum",
+            "line2": "Menneeral Yaam Veezhbaval."
+          },
+          "hi": {
+            "line1": "नन्नीरै वाऴि यनिच्चमे निन्निनु",
+            "line2": "मॆन्नीरळ् याम्वीऴ् बवळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அனிச்ச மலரே! நீ நல்ல மென்மையான தன்மை உடையாய், வாழ்க! ஆனால் நான் விரும்பும் என் காதலி உன்னைவிடவும் மென்மையானவள்.",
+        "en": "The anichcham flower wilts at a mere breath, yet the woman I love is even more delicate than that.",
+        "hi": "हे अनिच्च के फूल! तू बहुत कोमल है, तू धन्य है; परन्तु जान ले कि मेरी प्रियतमा तुझसे भी अधिक कोमल है।"
+      }
+    },
+    {
+      "num": 1112,
+      "line1": "மலர்காணின் மையாத்தி நெஞ்சே யிவள்கண்",
+      "line2": "பலர்காணும் பூவொக்கு மென்று.",
+      "enLine1": "You deemed, as you saw the flowers, her eyes were as flowers, my soul,",
+      "enLine2": "That many may see; it was surely some folly that over you stole !",
+      "hiLine1": "बहु-जन-दृष्ट सुमन सदृश, इसके दृग को मान ।",
+      "hiLine2": "रे मन यदि देखो सुमन, तुम हो भ्रमित अजान ॥",
+      "general": "என் நெஞ்சே! பலரும் பார்க்கும் மலர்களைப் பார்த்தால், அம்மலர்கள் இவளுடைய கண்களைப் போன்று இருக்கின்றன என்று மயங்குகிறாயே!",
+      "en": "O my heart, whenever you see blossoms, you get confused and mistake them for her eyes—even though flowers are seen by everyone!",
+      "hi": "हे मन! बहुत से लोगों के द्वारा देखे जाने वाले फूलों को इस सुन्दरी की आँखों के समान मानकर यदि तुम फूलों को देखते हो, तो तुम अज्ञानवश भ्रम में पड़े हो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மலர் காணின் <br>(Malar kaanin)",
+          "ta": "மலர்களைக் கண்டால்",
+          "en": "Saw the flowers",
+          "hi": "यदि देखो सुमन"
+        },
+        {
+          "no": 2,
+          "word": "மையாத்தி <br>(Maiyaaththi)",
+          "ta": "மயங்குகிறாய்",
+          "en": "Folly over you stole",
+          "hi": "तुम हो भ्रमित अजान"
+        },
+        {
+          "no": 3,
+          "word": "நெஞ்சே <br>(Nenje)",
+          "ta": "என் நெஞ்சே",
+          "en": "My soul",
+          "hi": "रे मन"
+        },
+        {
+          "no": 4,
+          "word": "இவள் கண் <br>(Ival kan)",
+          "ta": "இவள் கண்களை",
+          "en": "Her eyes",
+          "hi": "इसके दृग को"
+        },
+        {
+          "no": 5,
+          "word": "பலர் காணும் <br>(Palar kaanum)",
+          "ta": "பலரும் பார்க்கும்",
+          "en": "Many may see",
+          "hi": "बहु-जन-दृष्ट"
+        },
+        {
+          "no": 6,
+          "word": "பூ <br>(Poo)",
+          "ta": "மலர்கள்",
+          "en": "As flowers",
+          "hi": "सुमन सदृश"
+        },
+        {
+          "no": 7,
+          "word": "ஒக்கும் என்று <br>(Okkum endru)",
+          "ta": "ஒத்திருக்கின்றன என்று",
+          "en": "Were as",
+          "hi": "मान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மலர்காணின் மையாத்தி நெஞ்சே யிவள்கண்",
+          "line2": "பலர்காணும் பூவொக்கு மென்று."
+        },
+        "en": {
+          "line1": "You deemed, as you saw the flowers, her eyes were as flowers, my soul,",
+          "line2": "That many may see; it was surely some folly that over you stole !"
+        },
+        "hi": {
+          "line1": "बहु-जन-दृष्ट सुमन सदृश, इसके दृग को मान ।",
+          "line2": "रे मन यदि देखो सुमन, तुम हो भ्रमित अजान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Malarkaanin Maiyaaththi Nenje Yivalkan",
+            "line2": "Palarkaanum Poovokku Menru."
+          },
+          "hi": {
+            "line1": "मलर्काणिन् मैयात्ति नॆञ्जे यिवळ्गण्",
+            "line2": "पलर्काणुम् पूवॊक्कु मॆन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் நெஞ்சே! பலரும் பார்க்கும் மலர்களைப் பார்த்தால், அம்மலர்கள் இவளுடைய கண்களைப் போன்று இருக்கின்றன என்று மயங்குகிறாயே!",
+        "en": "Why do you get fooled every time you see a flower, thinking it looks like her eyes? Anyone can look at a flower!",
+        "hi": "हे मन! बहुत से लोगों के द्वारा देखे जाने वाले फूलों को इस सुन्दरी की आँखों के समान मानकर यदि तुम फूलों को देखते हो, तो तुम अज्ञानवश भ्रम में पड़े हो।"
+      }
+    },
+    {
+      "num": 1113,
+      "line1": "முறிமேனி முத்தம் முறுவல் வெறிநாற்றம்",
+      "line2": "வேலுண்கண் வேய்த்தோள் அவட்கு.",
+      "enLine1": "As tender shoot her frame; teeth, pearls; around her odours blend;",
+      "enLine2": "Darts are the eyes of her whose shoulders like the bambu bend.",
+      "hiLine1": "पल्लव तन, मोती रदन, प्राकृत गंध सुगंध ।",
+      "hiLine2": "भाला कजरारा नयन, जिसके बाँस-स्कंध ॥",
+      "general": "மூங்கில் போன்ற தோள்களையுடைய இவளுக்கு, தளிர்போன்ற மேனி, முத்துப்போன்ற பற்கள், இயற்கையான நறுமணம், வேல்போன்ற மை தீட்டிய கண்கள் ஆகியவை அமைந்துள்ளன.",
+      "en": "She has a frame like a tender shoot, pearl-like teeth, natural fragrance, spear-like kohl-lined eyes, and shoulders graceful as bamboo.",
+      "hi": "जिसके कन्धे बाँस के समान कोमल हैं, उस सुन्दरी का शरीर नए पत्ते (पल्लव) जैसा, दाँत मोती जैसे, स्वाभाविक गन्ध सुगन्धित और कजरारे नेत्र भाले के समान हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "முறி மேனி <br>(Muri meni)",
+          "ta": "தளிர்போன்ற உடம்பு",
+          "en": "Tender shoot her frame",
+          "hi": "पल्लव तन"
+        },
+        {
+          "no": 2,
+          "word": "முத்தம் முறுவல் <br>(Muththam muruval)",
+          "ta": "முத்துப்போன்ற பற்கள்",
+          "en": "Teeth, pearls",
+          "hi": "मोती रदन"
+        },
+        {
+          "no": 3,
+          "word": "வெறி நாற்றம் <br>(Veri naatram)",
+          "ta": "இயற்கை நறுமணம்",
+          "en": "Odours blend",
+          "hi": "प्राकृत गंध सुगंध"
+        },
+        {
+          "no": 4,
+          "word": "வேல் உண்கண் <br>(Vel unkan)",
+          "ta": "வேல்போன்ற மைக்கண்",
+          "en": "Darts are the eyes",
+          "hi": "भाला कजरारा नयन"
+        },
+        {
+          "no": 5,
+          "word": "வேய்த்தோள் <br>(Veyththol)",
+          "ta": "மூங்கில் போன்ற தோள்",
+          "en": "Shoulders like bambu",
+          "hi": "बाँस-स्कंध"
+        },
+        {
+          "no": 6,
+          "word": "அவட்கு <br>(Avatku)",
+          "ta": "அவளுக்கு",
+          "en": "Of her",
+          "hi": "जिसके"
+        },
+        {
+          "no": 7,
+          "word": "அழகு <br>(Azhagu)",
+          "ta": "அழகு",
+          "en": "Beauty",
+          "hi": "सौन्दर्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "முறிமேனி முத்தம் முறுவல் வெறிநாற்றம்",
+          "line2": "வேலுண்கண் வேய்த்தோள் அவட்கு."
+        },
+        "en": {
+          "line1": "As tender shoot her frame; teeth, pearls; around her odours blend;",
+          "line2": "Darts are the eyes of her whose shoulders like the bambu bend."
+        },
+        "hi": {
+          "line1": "पल्लव तन, मोती रदन, प्राकृत गंध सुगंध ।",
+          "line2": "भाला कजरारा नयन, जिसके बाँस-स्कंध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Murimeni Muththam Muruval Verinaatram",
+            "line2": "Velunkan Veyththol Avatku."
+          },
+          "hi": {
+            "line1": "मुरिमेनि मुत्तम् मुरुवल् वॆरिनात्रम्",
+            "line2": "वेलुण्गण् वेय्तोळ् अवट्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மூங்கில் போன்ற தோள்களையுடைய இவளுக்கு, தளிர்போன்ற மேனி, முத்துப்போன்ற பற்கள், இயற்கையான நறுமணம், வேல்போன்ற மை தீட்டிய கண்கள் ஆகியவை அமைந்துள்ளன.",
+        "en": "Skin like fresh leaves, a smile of pearls, natural fragrance, piercing dark eyes, and graceful shoulders—everything about her is poetry.",
+        "hi": "जिसके कन्धे बाँस के समान कोमल हैं, उस सुन्दरी का शरीर नए पत्ते (पल्लव) जैसा, दाँत मोती जैसे, स्वाभाविक गन्ध सुगन्धित और कजरारे नेत्र भाले के समान हैं।"
+      }
+    },
+    {
+      "num": 1114,
+      "line1": "காணிற் குவளை கவிழ்ந்து நிலனோக்கு",
+      "line2": "மாணிழைகண் ணொவ்வே மென்று.",
+      "enLine1": "The lotus, seeing her, with head demiss, the ground would eye,",
+      "enLine2": "And say, 'With eyes of her, rich gems who wears, we cannot vie.'",
+      "hiLine1": "कुवलय दल यदि देखता, सोच झुका कर सीस ।",
+      "hiLine2": "इसके दृग सम हम नहीं, होती उसको खीस ॥",
+      "general": "சிறந்த அணிகலன்களை அணிந்த இவளுடைய கண்களைக் குவளை மலர் பார்த்தால், 'அக்கண்களுக்கு நாம் ஒப்பாக மாட்டோம்' என்று நாணித் தலை கவிழ்ந்து நிலத்தைப் பார்க்கும்.",
+      "en": "If the blue water-lily were to see her eyes, it would bow its head toward the ground in shame, admitting it cannot rival the eyes of this jewel-decked maiden.",
+      "hi": "यदि नीलकमल (कुवलय) के पत्ते इसे देख लें, तो 'हम इसके नेत्रों के समान नहीं हैं' यह सोचकर और लज्जित होकर वे सिर झुकाकर धरती देखने लगेंगे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "காணின் <br>(Kaanin)",
+          "ta": "பார்த்தால்",
+          "en": "Seeing her",
+          "hi": "यदि देखता"
+        },
+        {
+          "no": 2,
+          "word": "குவளை <br>(Kuvalai)",
+          "ta": "குவளை மலர்",
+          "en": "The lotus",
+          "hi": "कुवलय दल"
+        },
+        {
+          "no": 3,
+          "word": "கவிழ்ந்து <br>(Kavizhndhu)",
+          "ta": "தலை குனிந்து",
+          "en": "Head demiss",
+          "hi": "झुका कर सीस"
+        },
+        {
+          "no": 4,
+          "word": "நிலன் நோக்கும் <br>(Nilan nokkum)",
+          "ta": "நிலத்தைப் பார்க்கும்",
+          "en": "The ground would eye",
+          "hi": "सोच"
+        },
+        {
+          "no": 5,
+          "word": "மாண் இழை <br>(Maan izhai)",
+          "ta": "சிறந்த அணிகலன் அணிந்தவள்",
+          "en": "Rich gems who wears",
+          "hi": "इसके"
+        },
+        {
+          "no": 6,
+          "word": "கண் <br>(Kan)",
+          "ta": "கண்களுக்கு",
+          "en": "Eyes of her",
+          "hi": "दृग सम"
+        },
+        {
+          "no": 7,
+          "word": "ஒவ்வேம் என்று <br>(Ovvem endru)",
+          "ta": "நாம் ஒப்பாக மாட்டோம் என்று",
+          "en": "We cannot vie",
+          "hi": "हम नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "காணிற் குவளை கவிழ்ந்து நிலனோக்கு",
+          "line2": "மாணிழைகண் ணொவ்வே மென்று."
+        },
+        "en": {
+          "line1": "The lotus, seeing her, with head demiss, the ground would eye,",
+          "line2": "And say, 'With eyes of her, rich gems who wears, we cannot vie.'"
+        },
+        "hi": {
+          "line1": "कुवलय दल यदि देखता, सोच झुका कर सीस ।",
+          "line2": "इसके दृग सम हम नहीं, होती उसको खीस ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaanir Kuvalai Kavizhndhu Nilanokku",
+            "line2": "Maanizhaigan Novve Menru."
+          },
+          "hi": {
+            "line1": "काणिर कुवळै कविऴ्न्दु निलनोक्कु",
+            "line2": "माणिऴैगण् णॊव्वे मॆन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சிறந்த அணிகலன்களை அணிந்த இவளுடைய கண்களைக் குவளை மலர் பார்த்தால், 'அக்கண்களுக்கு நாம் ஒப்பாக மாட்டோம்' என்று நாணித் தலை கவிழ்ந்து நிலத்தைப் பார்க்கும்.",
+        "en": "Even the blue water lily would hang its head in defeat if it ever saw her eyes.",
+        "hi": "यदि नीलकमल (कुवलय) के पत्ते इसे देख लें, तो 'हम इसके नेत्रों के समान नहीं हैं' यह सोचकर और लज्जित होकर वे सिर झुकाकर धरती देखने लगेंगे।"
+      }
+    },
+    {
+      "num": 1115,
+      "line1": "அனிச்சப்பூக் கால்களையாள் பெய்தா ணுசுப்பிற்கு",
+      "line2": "நல்ல படாஅ பறை.",
+      "enLine1": "The flowers of the sensitive plant as a girdle around her she placed ;",
+      "enLine2": "The stems she forgot to nip off; they'll weigh down the delicate waist.",
+      "hiLine1": "धारण किया अनिच्च को, बिना निकाले वृन्त ।",
+      "hiLine2": "इसकी कटि हिन ना बजे, मंगल बाजा-वृन्द ॥",
+      "general": "அனிச்சப் பூவின் காம்பை நீக்காமல் அப்படியே இவள் தலையில் சூடிக்கொண்டாள்; அந்தப் பூவின் சுமையால் இவளுடைய மெல்லிய இடைக்கு நல்ல பறை ஒலிக்காது.",
+      "en": "She wore the anichcham flower without trimming off its tiny stem; that extra weight is too much for her slender waist to bear.",
+      "hi": "इसने अनिच्च के फूल का डंठल (वृन्त) निकाले बिना ही उसे धारण कर लिया है; इसके भार से इसकी पतली कमर टूट न जाए (कहीं मंगल बाजे न रुक जाएँ)।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அனிச்சப்பூ <br>(Anichchappoo)",
+          "ta": "அனிச்ச மலரின்",
+          "en": "Flowers of sensitive plant",
+          "hi": "अनिच्च को"
+        },
+        {
+          "no": 2,
+          "word": "கால் களையாள் <br>(Kaal kalaiyaal)",
+          "ta": "காம்பைக் களையாமல்",
+          "en": "Stems forgot to nip off",
+          "hi": "बिना निकाले वृन्त"
+        },
+        {
+          "no": 3,
+          "word": "பெய்தாள் <br>(Peydhaal)",
+          "ta": "சூடிக்கொண்டாள்",
+          "en": "She placed",
+          "hi": "धारण किया"
+        },
+        {
+          "no": 4,
+          "word": "நுசுப்பிற்கு <br>(Nusuppirku)",
+          "ta": "இவள் இடைக்கு",
+          "en": "Delicate waist",
+          "hi": "इसकी कटि"
+        },
+        {
+          "no": 5,
+          "word": "நல்ல <br>(Nalla)",
+          "ta": "நல்ல (மங்கல)",
+          "en": "Good",
+          "hi": "मंगल"
+        },
+        {
+          "no": 6,
+          "word": "படாஅ <br>(Padaa)",
+          "ta": "ஒலிக்காது",
+          "en": "Will not sound",
+          "hi": "ना बजे"
+        },
+        {
+          "no": 7,
+          "word": "பறை <br>(Parai)",
+          "ta": "பறை",
+          "en": "Drum",
+          "hi": "बाजा-वृन्द"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அனிச்சப்பூக் கால்களையாள் பெய்தா ணுசுப்பிற்கு",
+          "line2": "நல்ல படாஅ பறை."
+        },
+        "en": {
+          "line1": "The flowers of the sensitive plant as a girdle around her she placed ;",
+          "line2": "The stems she forgot to nip off; they'll weigh down the delicate waist."
+        },
+        "hi": {
+          "line1": "धारण किया अनिच्च को, बिना निकाले वृन्त ।",
+          "line2": "इसकी कटि हिन ना बजे, मंगल बाजा-वृन्द ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Anichchappook Kaalkalaiyaal Peythaa Nusuppirku",
+            "line2": "Nalla Padaaa Parai."
+          },
+          "hi": {
+            "line1": "अनिच्चप्पूक् काल्गळैयाळ् पॆय्दा णुसुप्पिर्कु",
+            "line2": "नल्ल पडाअ परै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அனிச்சப் பூவின் காம்பை நீக்காமல் அப்படியே இவள் தலையில் சூடிக்கொண்டாள்; அந்தப் பூவின் சுமையால் இவளுடைய மெல்லிய இடைக்கு நல்ல பறை ஒலிக்காது.",
+        "en": "She forgot to snip the tiny stems off the anichcham flowers before wearing them—that featherweight is already too heavy for her.",
+        "hi": "इसने अनिच्च के फूल का डंठल (वृन्त) निकाले बिना ही उसे धारण कर लिया है; इसके भार से इसकी पतली कमर टूट न जाए (कहीं मंगल बाजे न रुक जाएँ)।"
+      }
+    },
+    {
+      "num": 1116,
+      "line1": "மதியு மடந்தை முகனு மறியாப்",
+      "line2": "பதியிற் கலங்கிய மீன்.",
+      "enLine1": "The stars perplexed are rushing wildly from their spheres ;",
+      "enLine2": "For like another moon this maiden's face appears.",
+      "hiLine1": "तारे अपने मार्ग में, भटक रहे हैं आज ।",
+      "hiLine2": "समझ न पाये चन्द्र है, या यह मुख-सरताज ॥",
+      "general": "வானத்தில் உள்ள நட்சத்திரங்கள், நிலவு எது என்றும் இப்பெண்ணின் முகம் எது என்றும் வேறுபாடு அறிய முடியாமல் தம் இடத்திலிருந்து தடுமாறிச் சுழல்கின்றன.",
+      "en": "Unable to tell the moon apart from this maiden's radiant face, the stars have wandered off their courses in confusion.",
+      "hi": "आकाश के तारे भी यह भेद न समझ पाने के कारण कि असली चन्द्रमा कौन है और इस सुन्दरी का मुख कौन है, अपने पथ से विचलित होकर भटक रहे हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மதியும் <br>(Madhiyum)",
+          "ta": "நிலவையும்",
+          "en": "Moon",
+          "hi": "चन्द्र है"
+        },
+        {
+          "no": 2,
+          "word": "மடந்தை முகனும் <br>(Madandhai muganum)",
+          "ta": "இவள் முகத்தையும்",
+          "en": "This maiden's face",
+          "hi": "या यह मुख-सरताज"
+        },
+        {
+          "no": 3,
+          "word": "அறியா <br>(Ariyaa)",
+          "ta": "வேறுபாடு அறியாமல்",
+          "en": "Perplexed",
+          "hi": "समझ न पाये"
+        },
+        {
+          "no": 4,
+          "word": "பதியில் <br>(Padhiyil)",
+          "ta": "தம் இடத்தில்",
+          "en": "From their spheres",
+          "hi": "अपने मार्ग में"
+        },
+        {
+          "no": 5,
+          "word": "கலங்கிய <br>(Kalangiya)",
+          "ta": "தடுமாறிச் சுழன்றன",
+          "en": "Rushing wildly",
+          "hi": "भटक रहे हैं"
+        },
+        {
+          "no": 6,
+          "word": "மீன் <br>(Meen)",
+          "ta": "விண்மீன்கள்",
+          "en": "The stars",
+          "hi": "तारे"
+        },
+        {
+          "no": 7,
+          "word": "வானம் <br>(Vaanam)",
+          "ta": "வானம்",
+          "en": "Sky",
+          "hi": "आकाश"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மதியு மடந்தை முகனு மறியாப்",
+          "line2": "பதியிற் கலங்கிய மீன்."
+        },
+        "en": {
+          "line1": "The stars perplexed are rushing wildly from their spheres ;",
+          "line2": "For like another moon this maiden's face appears."
+        },
+        "hi": {
+          "line1": "तारे अपने मार्ग में, भटक रहे हैं आज ।",
+          "line2": "समझ न पाये चन्द्र है, या यह मुख-सरताज ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Madhiyum Madandhai Muganum Ariyaa",
+            "line2": "Padhiyil Kalangiya Meen."
+          },
+          "hi": {
+            "line1": "मदियु मदन्दै मुगनु मरियाप्",
+            "line2": "पदियिर कलङ्गिय मीन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வானத்தில் உள்ள நட்சத்திரங்கள், நிலவு எது என்றும் இப்பெண்ணின் முகம் எது என்றும் வேறுபாடு அறிய முடியாமல் தம் இடத்திலிருந்து தடுமாறிச் சுழல்கின்றன.",
+        "en": "Even the stars are losing their orbit because they can't tell which one is the real moon and which one is her face.",
+        "hi": "आकाश के तारे भी यह भेद न समझ पाने के कारण कि असली चन्द्रमा कौन है और इस सुन्दरी का मुख कौन है, अपने पथ से विचलित होकर भटक रहे हैं।"
+      }
+    },
+    {
+      "num": 1117,
+      "line1": "அறுவாய் நிறைந்த வவிர்மதிக்குப் போல",
+      "line2": "மறுவுண்டோ மாதர் முகத்து.",
+      "enLine1": "In moon, that waxing waning shines, as spots appear,",
+      "enLine2": "Are any spots discerned in face of maiden here?",
+      "hiLine1": "क्षय पाकर फिर पूर्ण हो, शोभित रहा मयंक ।",
+      "hiLine2": "इस नारी के वदन पर, रहता कहाँ कलंक ॥",
+      "general": "தேய்ந்து பின்பு நிறைந்து ஒளிரும் நிலாவில் களங்கம் இருப்பது போல, இப்பெண்ணின் முகத்தில் ஏதேனும் களங்கம் உண்டோ? இல்லை.",
+      "en": "Just as the waxing and waning moon bears dark spots, is there any blemish at all on this maiden's face?",
+      "hi": "जिस प्रकार चन्द्रमा क्षय होकर फिर पूर्ण रूप से सुशोभित होता है (और उसमें कलंक रहता है), क्या इस नारी के मुख पर वैसा कोई कलंक है? बिल्कुल नहीं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறுவாய் <br>(Aruvaay)",
+          "ta": "தேய்ந்து",
+          "en": "Waning",
+          "hi": "क्षय पाकर"
+        },
+        {
+          "no": 2,
+          "word": "நிறைந்த <br>(Niraindha)",
+          "ta": "நிறைந்த",
+          "en": "Waxing",
+          "hi": "फिर पूर्ण हो"
+        },
+        {
+          "no": 3,
+          "word": "அவிர் மதிக்குப் போல <br>(Avir madhikkup pola)",
+          "ta": "ஒளிரும் நிலவைப் போல",
+          "en": "In moon that shines",
+          "hi": "शोभित रहा मयंक"
+        },
+        {
+          "no": 4,
+          "word": "மறு <br>(Maru)",
+          "ta": "களங்கம்",
+          "en": "Spots",
+          "hi": "कलंक"
+        },
+        {
+          "no": 5,
+          "word": "உண்டோ <br>(Undo)",
+          "ta": "உண்டோ",
+          "en": "Are any discerned",
+          "hi": "रहता कहाँ"
+        },
+        {
+          "no": 6,
+          "word": "மாதர் <br>(Maadhar)",
+          "ta": "இப்பெண்ணின்",
+          "en": "Of maiden",
+          "hi": "इस नारी के"
+        },
+        {
+          "no": 7,
+          "word": "முகத்து <br>(Mugaththu)",
+          "ta": "முகத்தில்",
+          "en": "Face",
+          "hi": "वदन पर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறுவாய் நிறைந்த வவிர்மதிக்குப் போல",
+          "line2": "மறுவுண்டோ மாதர் முகத்து."
+        },
+        "en": {
+          "line1": "In moon, that waxing waning shines, as spots appear,",
+          "line2": "Are any spots discerned in face of maiden here?"
+        },
+        "hi": {
+          "line1": "क्षय पाकर फिर पूर्ण हो, शोभित रहा मयंक ।",
+          "line2": "इस नारी के वदन पर, रहता कहाँ कलंक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aruvaay Niraindha Vavirmadhikkup Pola",
+            "line2": "Maruvundo Maadhar Mugaththu."
+          },
+          "hi": {
+            "line1": "अरुवाय् निरैन्द वविर्मदिक्कुप् पोल",
+            "line2": "मरुवुण्डो मादर् मुगत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தேய்ந்து பின்பு நிறைந்து ஒளிரும் நிலாவில் களங்கம் இருப்பது போல, இப்பெண்ணின் முகத்தில் ஏதேனும் களங்கம் உண்டோ? இல்லை.",
+        "en": "The moon waxes, wanes, and carries dark spots—her face has none of those flaws.",
+        "hi": "जिस प्रकार चन्द्रमा क्षय होकर फिर पूर्ण रूप से सुशोभित होता है (और उसमें कलंक रहता है), क्या इस नारी के मुख पर वैसा कोई कलंक है? बिल्कुल नहीं।"
+      }
+    },
+    {
+      "num": 1118,
+      "line1": "மாதர் முகம்போ லொளிவிட வல்லையேற்",
+      "line2": "காதலை வாழி மதி.",
+      "enLine1": "Farewell, O moon ! If that thine orb could shine",
+      "enLine2": "Bright as her face, thou shouldst be love of mine.",
+      "hiLine1": "इस नारी के वदन सम, चमक सके तो चाँद ।",
+      "hiLine2": "प्रेम-पात्र मेरा बने, चिरजीवी रह चाँद ॥",
+      "general": "நிலாவே! வாழ்க! என் காதலியின் முகத்தைப் போல நீயும் ஒளிவீச வல்லவனானால், நீயும் என் அன்பிற்குரியவனாவாய்.",
+      "en": "May you prosper, O Moon! If you could only shine as brightly as my beloved's face, you too would earn my affection.",
+      "hi": "हे चाँद, तू चिरंजीवी रहे! यदि तू इस नारी के मुख के समान चमक सके, तो तू भी मेरा प्रेम-पात्र बन जाएगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மாதர் <br>(Maadhar)",
+          "ta": "இப்பெண்ணின்",
+          "en": "Her",
+          "hi": "इस नारी के"
+        },
+        {
+          "no": 2,
+          "word": "முகம் போல் <br>(Mugam pol)",
+          "ta": "முகம் போல",
+          "en": "As her face",
+          "hi": "वदन सम"
+        },
+        {
+          "no": 3,
+          "word": "ஒளிவிட <br>(Olivida)",
+          "ta": "ஒளி வீச",
+          "en": "Could shine",
+          "hi": "चमक सके"
+        },
+        {
+          "no": 4,
+          "word": "வல்லையேல் <br>(Vallaiyel)",
+          "ta": "வல்லவனானால்",
+          "en": "If",
+          "hi": "तो"
+        },
+        {
+          "no": 5,
+          "word": "காதலை <br>(Kaadhalai)",
+          "ta": "அன்பிற்குரியவனாவாய்",
+          "en": "Love of mine",
+          "hi": "प्रेम-पात्र मेरा बने"
+        },
+        {
+          "no": 6,
+          "word": "வாழி <br>(Vaazhi)",
+          "ta": "வாழ்க",
+          "en": "Farewell",
+          "hi": "चिरजीवी रह"
+        },
+        {
+          "no": 7,
+          "word": "மதி <br>(Madhi)",
+          "ta": "நிலவே",
+          "en": "O moon!",
+          "hi": "चाँद"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மாதர் முகம்போ லொளிவிட வல்லையேற்",
+          "line2": "காதலை வாழி மதி."
+        },
+        "en": {
+          "line1": "Farewell, O moon ! If that thine orb could shine",
+          "line2": "Bright as her face, thou shouldst be love of mine."
+        },
+        "hi": {
+          "line1": "इस नारी के वदन सम, चमक सके तो चाँद ।",
+          "line2": "प्रेम-पात्र मेरा बने, चिरजीवी रह चाँद ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Maadhar Mugambo Lolivida Vallaiyer",
+            "line2": "Kaadhalai Vaazhi Madhi."
+          },
+          "hi": {
+            "line1": "मादर् मुगम्बो लॊळिविड वल्लैयेर्",
+            "line2": "कादलै वाऴि मदि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நிலாவே! வாழ்க! என் காதலியின் முகத்தைப் போல நீயும் ஒளிவீச வல்லவனானால், நீயும் என் அன்பிற்குரியவனாவாய்.",
+        "en": "Dear Moon, if you could actually shine half as bright as her face, maybe I'd love you too!",
+        "hi": "हे चाँद, तू चिरंजीवी रहे! यदि तू इस नारी के मुख के समान चमक सके, तो तू भी मेरा प्रेम-पात्र बन जाएगा।"
+      }
+    },
+    {
+      "num": 1119,
+      "line1": "மலரன்ன கண்ணாண் முகமொத்தி யாயிற்",
+      "line2": "பலர்காணத் தோன்றன் மதி.",
+      "enLine1": "If as her face, whose eyes are flowers, thou wouldst have charms for me,",
+      "enLine2": "Shine for my eyes alone, O moon, shine not for all to see !",
+      "hiLine1": "सुमन-नयन युत वदन सम, यदि होने की चाह ।",
+      "hiLine2": "सबके सम्मुख चन्द्र तू चमक न बेपरवाह ॥",
+      "general": "நிலாவே! மலர்போன்ற கண்களையுடைய என் காதலியின் முகத்தை ஒத்திருக்க நீ விரும்பினால், எல்லாரும் பார்க்கும்படி வானத்தில் தோன்றாதே.",
+      "en": "O Moon, if you wish to resemble the face of my flower-eyed beloved, do not appear openly for everyone in the world to gaze upon.",
+      "hi": "हे चन्द्रमा! यदि तुझे फूलों जैसे नेत्रों वाली मेरी प्रियतमा के मुख के समान बनने की चाह है, तो तू सबके सामने बेपरवाह होकर मत चमक।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மலர் அன்ன கண்ணாள் <br>(Malar anna kannaal)",
+          "ta": "மலர் போன்ற கண்ணாள்",
+          "en": "Whose eyes are flowers",
+          "hi": "सुमन-नयन युत"
+        },
+        {
+          "no": 2,
+          "word": "முகம் <br>(Mugam)",
+          "ta": "முகத்தை",
+          "en": "Her face",
+          "hi": "वदन सम"
+        },
+        {
+          "no": 3,
+          "word": "ஒத்தியாயின் <br>(Oththiyaayin)",
+          "ta": "ஒத்திருக்க விரும்பினால்",
+          "en": "If thou wouldst",
+          "hi": "यदि होने की चाह"
+        },
+        {
+          "no": 4,
+          "word": "பலர் காண <br>(Palar kaana)",
+          "ta": "பலரும் பார்க்கும்படி",
+          "en": "For all to see",
+          "hi": "सबके सम्मुख"
+        },
+        {
+          "no": 5,
+          "word": "தோன்றல் <br>(Thondral)",
+          "ta": "தோன்றாதே",
+          "en": "Shine not",
+          "hi": "चमक न बेपरवाह"
+        },
+        {
+          "no": 6,
+          "word": "மதி <br>(Madhi)",
+          "ta": "நிலவே",
+          "en": "O moon",
+          "hi": "चन्द्र तू"
+        },
+        {
+          "no": 7,
+          "word": "காதல் <br>(Kaadhal)",
+          "ta": "காதல்",
+          "en": "Charms",
+          "hi": "प्रेम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மலரன்ன கண்ணாண் முகமொத்தி யாயிற்",
+          "line2": "பலர்காணத் தோன்றன் மதி."
+        },
+        "en": {
+          "line1": "If as her face, whose eyes are flowers, thou wouldst have charms for me,",
+          "line2": "Shine for my eyes alone, O moon, shine not for all to see !"
+        },
+        "hi": {
+          "line1": "सुमन-नयन युत वदन सम, यदि होने की चाह ।",
+          "line2": "सबके सम्मुख चन्द्र तू चमक न बेपरवाह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Malaranna Kannaan Mugamoththi Yaayir",
+            "line2": "Palarkaanath Thonran Madhi."
+          },
+          "hi": {
+            "line1": "मलरन्न कण्णाण् मुगमॊत्ति यायिर",
+            "line2": "पलर्काणत् तोन्द्रन् मदि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நிலாவே! மலர்போன்ற கண்களையுடைய என் காதலியின் முகத்தை ஒத்திருக்க நீ விரும்பினால், எல்லாரும் பார்க்கும்படி வானத்தில் தோன்றாதே.",
+        "en": "O Moon, if you really want to match her beauty, stop showing yourself off to the whole world—shine for me alone!",
+        "hi": "हे चन्द्रमा! यदि तुझे फूलों जैसे नेत्रों वाली मेरी प्रियतमा के मुख के समान बनने की चाह है, तो तू सबके सामने बेपरवाह होकर मत चमक।"
+      }
+    },
+    {
+      "num": 1120,
+      "line1": "அனிச்சமு மன்னத்தின் றூவியு மாத",
+      "line2": "ரடிக்கு நெருஞ்சிப் பழம்.",
+      "enLine1": "The flower of the sensitive plant, and the down on the swan's white breast,",
+      "enLine2": "As the thorn are harsh, by the delicate feet of this maiden pressed.",
+      "hiLine1": "मृदु अनिच्च का फूल औ', हंसी का मृदु तूल ।",
+      "hiLine2": "बाला के मृदु पाद हित, रहे गोखरु शूल ॥",
+      "general": "மென்மையான அனிச்ச மலரும் அன்னப் பறவையின் சிறகின் தூவியும், இப்பெண்ணின் மெல்லிய அடிகளுக்கு நெருஞ்சி முள்ளைப் போலக் கடுமையானவையாகும்.",
+      "en": "Even the tender anichcham flower and the soft down of a swan feel as harsh as thorny caltrops beneath this maiden's delicate feet.",
+      "hi": "कोमल अनिच्च का फूल और हंसी के कोमल पंख (तूल)—ये भी इस बाला के कोमल पैरों के लिए गोखरू के काँटे के समान चुभने वाले हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அனிச்சமும் <br>(Anichchamum)",
+          "ta": "அனிச்ச மலரும்",
+          "en": "Flower of sensitive plant",
+          "hi": "मृदु अनिच्च का फूल"
+        },
+        {
+          "no": 2,
+          "word": "அன்னத்தின் <br>(Annaththin)",
+          "ta": "அன்னப் பறவையின்",
+          "en": "On the swan's",
+          "hi": "हंसी का"
+        },
+        {
+          "no": 3,
+          "word": "தூவியும் <br>(Thooviyum)",
+          "ta": "மெல்லிய இறகும்",
+          "en": "Down",
+          "hi": "मृदु तूल"
+        },
+        {
+          "no": 4,
+          "word": "மாதர் <br>(Maadhar)",
+          "ta": "இப்பெண்ணின்",
+          "en": "This maiden",
+          "hi": "बाला के"
+        },
+        {
+          "no": 5,
+          "word": "அடிக்கு <br>(Adikku)",
+          "ta": "பாதங்களுக்கு",
+          "en": "Delicate feet",
+          "hi": "मृदु पाद हित"
+        },
+        {
+          "no": 6,
+          "word": "நெருஞ்சிப் பழம் <br>(Nerunjip pazham)",
+          "ta": "நெருஞ்சி முள் போன்றவை",
+          "en": "As the thorn are harsh",
+          "hi": "गोखरु शूल"
+        },
+        {
+          "no": 7,
+          "word": "மென்மை <br>(Menmai)",
+          "ta": "மென்மை",
+          "en": "Delicacy",
+          "hi": "कोमलता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அனிச்சமு மன்னத்தின் றூவியு மாத",
+          "line2": "ரடிக்கு நெருஞ்சிப் பழம்."
+        },
+        "en": {
+          "line1": "The flower of the sensitive plant, and the down on the swan's white breast,",
+          "line2": "As the thorn are harsh, by the delicate feet of this maiden pressed."
+        },
+        "hi": {
+          "line1": "मृदु अनिच्च का फूल औ', हंसी का मृदु तूल ।",
+          "line2": "बाला के मृदु पाद हित, रहे गोखरु शूल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Anichchamum Annaththin Thooviyum Maadhar",
+            "line2": "Adikku Nerunjip Pazham."
+          },
+          "hi": {
+            "line1": "अनिच्चमु मन्नत्तिन् रूवियु माद",
+            "line2": "रडिक्कु नॆरुञ्जिप् पऴम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மென்மையான அனிச்ச மலரும் அன்னப் பறவையின் சிறகின் தூவியும், இப்பெண்ணின் மெல்லிய அடிகளுக்கு நெருஞ்சி முள்ளைப் போலக் கடுமையானவையாகும்.",
+        "en": "Even the softest flower petals and swan feathers would feel like sharp thorns under her delicate feet.",
+        "hi": "कोमल अनिच्च का फूल और हंसी के कोमल पंख (तूल)—ये भी इस बाला के कोमल पैरों के लिए गोखरू के काँटे के समान चुभने वाले हैं।"
+      }
+    }
+  ]
+}

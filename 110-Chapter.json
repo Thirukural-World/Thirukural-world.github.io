@@ -1,0 +1,930 @@
+{
+  "chapterNum": 110,
+  "nameTa": "குறிப்பறிதல்",
+  "nameEn": "Recognition of the Signs (of Mutual Love)",
+  "nameHi": "संकेत समझना",
+  "paal": "காமத்துப்பால்",
+  "iyal": "களவியல்",
+  "kurals": [
+    {
+      "num": 1091,
+      "line1": "இருநோக்கு இவளுண்கண் உள்ளது ஒருநோக்கு",
+      "line2": "நோய்நோக்கொன்று அந்நோய் மருந்து.",
+      "enLine1": "A double witchery have glances of her liquid eye ;",
+      "enLine2": "One glance is glance that brings me pain ; the other heals again.",
+      "hiLine1": "इसके कजरारे नयन, रखते हैं दो दृष्टि ।",
+      "hiLine2": "रोग एक, उस रोग की, दवा दूसरी दृष्टि ॥",
+      "general": "மை தீட்டிய இவளுடைய கண்களில் இரண்டு வகையான பார்வைகள் உள்ளன: ஒரு பார்வை காதல் நோயைத் தரும் பார்வை; மற்றொரு பார்வை அந்நோய்க்கு மருந்தாகும் பார்வை.",
+      "en": "There are two kinds of glances in her kohl-lined eyes: one glance inflicts the ache of love, and the other is the remedy for that very ache.",
+      "hi": "इसके कजरारे नेत्रों में दो प्रकार की दृष्टियाँ हैं—एक दृष्टि प्रेम-रोग उत्पन्न करती है और दूसरी दृष्टि उस रोग की दवा है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இரு நோக்கு <br>(Iru nokku)",
+          "ta": "இரண்டு பார்வைகள்",
+          "en": "Double witchery",
+          "hi": "दो दृष्टि"
+        },
+        {
+          "no": 2,
+          "word": "இவள் உண்கண் <br>(Ival unkan)",
+          "ta": "இவள் மை தீட்டிய கண்களில்",
+          "en": "Her liquid eye",
+          "hi": "इसके कजरारे नयन"
+        },
+        {
+          "no": 3,
+          "word": "உள்ளது <br>(Ulladhu)",
+          "ta": "உள்ளன",
+          "en": "Have",
+          "hi": "रखते हैं"
+        },
+        {
+          "no": 4,
+          "word": "ஒரு நோக்கு <br>(Oru nokku)",
+          "ta": "ஒரு பார்வை",
+          "en": "One glance",
+          "hi": "एक दृष्टि"
+        },
+        {
+          "no": 5,
+          "word": "நோய் நோக்கு <br>(Noy nokku)",
+          "ta": "நோய் தரும் பார்வை",
+          "en": "Brings me pain",
+          "hi": "रोग एक"
+        },
+        {
+          "no": 6,
+          "word": "ஒன்று <br>(Ondru)",
+          "ta": "மற்றொன்று",
+          "en": "The other",
+          "hi": "दूसरी दृष्टि"
+        },
+        {
+          "no": 7,
+          "word": "அந்நோய் மருந்து <br>(Annoy marundhu)",
+          "ta": "அந்த நோய்க்கு மருந்து",
+          "en": "Heals again",
+          "hi": "उस रोग की दवा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இருநோக்கு இவளுண்கண் உள்ளது ஒருநோக்கு",
+          "line2": "நோய்நோக்கொன்று அந்நோய் மருந்து."
+        },
+        "en": {
+          "line1": "A double witchery have glances of her liquid eye ;",
+          "line2": "One glance is glance that brings me pain ; the other heals again."
+        },
+        "hi": {
+          "line1": "इसके कजरारे नयन, रखते हैं दो दृष्टि ।",
+          "line2": "रोग एक, उस रोग की, दवा दूसरी दृष्टि ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Irunokku Ivalunkan Ulladhu Orunokku",
+            "line2": "Noynokkondru Annoy Marundhu."
+          },
+          "hi": {
+            "line1": "इरुनोक्कु इवळुण्गण् उळ्ळदु ऒरुनोक्कु",
+            "line2": "नोय्नोक्कॊन्द्रु अन्नोय् मरुन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மை தீட்டிய இவளுடைய கண்களில் இரண்டு வகையான பார்வைகள் உள்ளன: ஒரு பார்வை காதல் நோயைத் தரும் பார்வை; மற்றொரு பார்வை அந்நோய்க்கு மருந்தாகும் பார்வை.",
+        "en": "Her eyes hold two different looks: the first gives you lovesickness, and the second cures it.",
+        "hi": "इसके कजरारे नेत्रों में दो प्रकार की दृष्टियाँ हैं—एक दृष्टि प्रेम-रोग उत्पन्न करती है और दूसरी दृष्टि उस रोग की दवा है।"
+      }
+    },
+    {
+      "num": 1092,
+      "line1": "கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற்",
+      "line2": "செம்பாக மன்று பெரிது.",
+      "enLine1": "The furtive glance, that gleams one instant bright,",
+      "enLine2": "Is more than half of love's supreme delight.",
+      "hiLine1": "आंख बचा कर देखना, तनिक मुझे क्षण काल ।",
+      "hiLine2": "अर्द्ध नहीं, संयोग का, उससे अधिक रसाल ॥",
+      "general": "மற்றவர்கள் அறியாமல் கண்களால் திருடிப் பார்க்கும் சிறிய பார்வையானது, காதல் இன்பத்தில் சரிபங்கு மட்டுமல்ல, அதைவிடவும் பெரிய இன்பமாகும்.",
+      "en": "That brief, stolen glance exchanged in secret is not merely half of love's joy—it is even greater than that.",
+      "hi": "दूसरों की आँख बचाकर क्षण भर के लिए तिरछी निगाह से देख लेना संयोग के सुख का आधा ही नहीं, बल्कि उससे भी अधिक मधुर आनन्द है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கண் களவு கொள்ளும் <br>(Kan kalavu kollum)",
+          "ta": "கண்களால் திருடிப் பார்க்கும்",
+          "en": "The furtive glance",
+          "hi": "आंख बचा कर देखना"
+        },
+        {
+          "no": 2,
+          "word": "சிறு நோக்கம் <br>(Siru nokkam)",
+          "ta": "சிறிய பார்வை",
+          "en": "Gleams one instant",
+          "hi": "तनिक क्षण काल"
+        },
+        {
+          "no": 3,
+          "word": "காமத்தில் <br>(Kaamaththil)",
+          "ta": "காதல் இன்பத்தில்",
+          "en": "Of love's delight",
+          "hi": "संयोग का"
+        },
+        {
+          "no": 4,
+          "word": "செம்பாகம் <br>(Sembaagam)",
+          "ta": "சரிபாதி",
+          "en": "Half",
+          "hi": "अर्द्ध"
+        },
+        {
+          "no": 5,
+          "word": "அன்று <br>(Andru)",
+          "ta": "அல்ல",
+          "en": "Not",
+          "hi": "नहीं"
+        },
+        {
+          "no": 6,
+          "word": "பெரிது <br>(Peridhu)",
+          "ta": "அதைவிடப் பெரியது",
+          "en": "More than",
+          "hi": "उससे अधिक रसाल"
+        },
+        {
+          "no": 7,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "இன்பம்",
+          "en": "Delight",
+          "hi": "आनन्द"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற்",
+          "line2": "செம்பாக மன்று பெரிது."
+        },
+        "en": {
+          "line1": "The furtive glance, that gleams one instant bright,",
+          "line2": "Is more than half of love's supreme delight."
+        },
+        "hi": {
+          "line1": "आंख बचा कर देखना, तनिक मुझे क्षण काल ।",
+          "line2": "अर्द्ध नहीं, संयोग का, उससे अधिक रसाल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kankalavu Kolluny Sirunokkang Kaamaththir",
+            "line2": "Sembaaga Manru Peridhu."
+          },
+          "hi": {
+            "line1": "कण्गळवु कॊळ्ळुञ् सिरुनोक्कङ् गामत्तिर्",
+            "line2": "सॆम्बाग मन्द्रु पॆरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மற்றவர்கள் அறியாமல் கண்களால் திருடிப் பார்க்கும் சிறிய பார்வையானது, காதல் இன்பத்தில் சரிபங்கு மட்டுமல்ல, அதைவிடவும் பெரிய இன்பமாகும்.",
+        "en": "That quick, stolen glance across a room isn't just half the thrill of romance—it's even sweeter than that.",
+        "hi": "दूसरों की आँख बचाकर क्षण भर के लिए तिरछी निगाह से देख लेना संयोग के सुख का आधा ही नहीं, बल्कि उससे भी अधिक मधुर आनन्द है।"
+      }
+    },
+    {
+      "num": 1093,
+      "line1": "நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்",
+      "line2": "யாப்பினு ளட்டிய நீர்.",
+      "enLine1": "She looked, and looking drooped her head :",
+      "enLine2": "On springing shoot of love 'tis water shed !",
+      "hiLine1": "देखा, उसने देख कर, झुका लिया जो सीस ।",
+      "hiLine2": "वह क्यारी में प्रेम की, देना था जल सींच ॥",
+      "general": "என்னைப் பார்த்தாள்; பார்த்துவிட்டு நாணித் தலையைக் குனிந்தாள்; அது அவள் எங்கள் காதல் பயிரின் வேரில் ஊற்றிய நீராகும்.",
+      "en": "She looked at me, and having looked, modestly bowed her head; that gesture was like watering the young plant of our love.",
+      "hi": "उसने मेरी ओर देखा और देखकर लज्जा से अपना सिर झुका लिया; उसका वह संकेत मानो हमारे प्रेम की क्यारी को जल से सींचना था।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நோக்கினாள் <br>(Nokkinaal)",
+          "ta": "பார்த்தாள்",
+          "en": "She looked",
+          "hi": "देखा उसने"
+        },
+        {
+          "no": 2,
+          "word": "நோக்கி <br>(Nokki)",
+          "ta": "பார்த்துவிட்டு",
+          "en": "Looking",
+          "hi": "देख कर"
+        },
+        {
+          "no": 3,
+          "word": "இறைஞ்சினாள் <br>(Irainjinaal)",
+          "ta": "தலை குனிந்தாள்",
+          "en": "Drooped her head",
+          "hi": "झुका लिया जो सीस"
+        },
+        {
+          "no": 4,
+          "word": "அஃது <br>(Agdhu)",
+          "ta": "அச்செயல்",
+          "en": "'Tis",
+          "hi": "वह"
+        },
+        {
+          "no": 5,
+          "word": "அவள் <br>(Aval)",
+          "ta": "அவள்",
+          "en": "Her",
+          "hi": "उसने"
+        },
+        {
+          "no": 6,
+          "word": "யாப்பினுள் <br>(Yaappinul)",
+          "ta": "காதல் பயிரில்",
+          "en": "Shoot of love",
+          "hi": "क्यारी में प्रेम की"
+        },
+        {
+          "no": 7,
+          "word": "அட்டிய நீர் <br>(Attiya neer)",
+          "ta": "ஊற்றிய நீர்",
+          "en": "Water shed",
+          "hi": "देना था जल सींच"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்",
+          "line2": "யாப்பினு ளட்டிய நீர்."
+        },
+        "en": {
+          "line1": "She looked, and looking drooped her head :",
+          "line2": "On springing shoot of love 'tis water shed !"
+        },
+        "hi": {
+          "line1": "देखा, उसने देख कर, झुका लिया जो सीस ।",
+          "line2": "वह क्यारी में प्रेम की, देना था जल सींच ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nokkinaa Nokki Yirainjinaa Lahdhaval",
+            "line2": "Yaappinu Lattiya Neer."
+          },
+          "hi": {
+            "line1": "नोक्किना णोक्कि यिरैञ्जिना ळग्दवळ्",
+            "line2": "याप्पिनु ळट्टिय नीर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என்னைப் பார்த்தாள்; பார்த்துவிட்டு நாணித் தலையைக் குனிந்தாள்; அது அவள் எங்கள் காதல் பயிரின் வேரில் ஊற்றிய நீராகும்.",
+        "en": "She caught my eye, then shyly looked down—like pouring fresh water onto a newly sprouting seed of love.",
+        "hi": "उसने मेरी ओर देखा और देखकर लज्जा से अपना सिर झुका लिया; उसका वह संकेत मानो हमारे प्रेम की क्यारी को जल से सींचना था।"
+      }
+    },
+    {
+      "num": 1094,
+      "line1": "யானோக்குங் காலை நிலனோக்கு நோக்காக்காற்",
+      "line2": "றானோக்கி மெல்ல நகும்.",
+      "enLine1": "I look on her : her eyes are on the ground the while ;",
+      "enLine2": "I look away : she looks on me with timid smile.",
+      "hiLine1": "मैं देखूँ तो डालती, दृष्टि भूमि की ओर ।",
+      "hiLine2": "ना देखूँ तो देख खुद, मन में रही हिलोर ॥",
+      "general": "நான் அவளைப் பார்க்கும்போது அவள் நிலத்தைப் பார்ப்பாள்; நான் அவளைப் பார்க்காதபோது அவள் என்னைப் பார்த்து மெல்லச் சிரிப்பாள்.",
+      "en": "Whenever I look at her, she looks down at the ground; when I look away, she looks at me and smiles softly.",
+      "hi": "जब मैं उसकी ओर देखता हूँ, तो वह लजाकर अपनी दृष्टि भूमि की ओर कर लेती है; और जब मैं नहीं देखता, तो वह स्वयं मुझे देखकर मन ही मन हर्षित होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "யான் நோக்கும் காலை <br>(Yaan nokkum kaalai)",
+          "ta": "நான் பார்க்கும்போது",
+          "en": "I look on her",
+          "hi": "मैं देखूँ तो"
+        },
+        {
+          "no": 2,
+          "word": "நிலன் <br>(Nilan)",
+          "ta": "நிலத்தை",
+          "en": "The ground",
+          "hi": "भूमि की ओर"
+        },
+        {
+          "no": 3,
+          "word": "நோக்கும் <br>(Nokkum)",
+          "ta": "பார்ப்பாள்",
+          "en": "Her eyes are on",
+          "hi": "डालती दृष्टि"
+        },
+        {
+          "no": 4,
+          "word": "நோக்காக்கால் <br>(Nokkaakkaal)",
+          "ta": "நான் பார்க்காதபோது",
+          "en": "I look away",
+          "hi": "ना देखूँ तो"
+        },
+        {
+          "no": 5,
+          "word": "தான் நோக்கி <br>(Thaan nokki)",
+          "ta": "தான் என்னைப் பார்த்து",
+          "en": "She looks on me",
+          "hi": "देख खुद"
+        },
+        {
+          "no": 6,
+          "word": "மெல்ல <br>(Mella)",
+          "ta": "மெதுவாக",
+          "en": "Timid",
+          "hi": "मन में"
+        },
+        {
+          "no": 7,
+          "word": "நகும் <br>(Nagum)",
+          "ta": "புன்னகைப்பாள்",
+          "en": "Smile",
+          "hi": "रही हिलोर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "யானோக்குங் காலை நிலனோக்கு நோக்காக்காற்",
+          "line2": "றானோக்கி மெல்ல நகும்."
+        },
+        "en": {
+          "line1": "I look on her : her eyes are on the ground the while ;",
+          "line2": "I look away : she looks on me with timid smile."
+        },
+        "hi": {
+          "line1": "मैं देखूँ तो डालती, दृष्टि भूमि की ओर ।",
+          "line2": "ना देखूँ तो देख खुद, मन में रही हिलोर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Yaanokkung Kaalai Nilanokku Nokkaakkaar",
+            "line2": "Raanokki Mella Nagum."
+          },
+          "hi": {
+            "line1": "यानोक्कुङ् गालै निलनोक्कु नोक्काक्कार",
+            "line2": "राणोक्कि मॆल्ल नगुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நான் அவளைப் பார்க்கும்போது அவள் நிலத்தைப் பார்ப்பாள்; நான் அவளைப் பார்க்காதபோது அவள் என்னைப் பார்த்து மெல்லச் சிரிப்பாள்.",
+        "en": "When I look at her, she stares at the floor; the second I look away, she glances back with a gentle smile.",
+        "hi": "जब मैं उसकी ओर देखता हूँ, तो वह लजाकर अपनी दृष्टि भूमि की ओर कर लेती है; और जब मैं नहीं देखता, तो वह स्वयं मुझे देखकर मन ही मन हर्षित होती है।"
+      }
+    },
+    {
+      "num": 1095,
+      "line1": "குறிக்கொண்டு நோக்காமை யல்லா லொருகண்",
+      "line2": "சிறக்கணித்தாள் போல நகும்.",
+      "enLine1": "She seemed to see me not ; but yet the maid",
+      "enLine2": "Her love, by smiling side-long glance, betrayed.",
+      "hiLine1": "सीधे वह नहीं देखती, यद्यपि मेरी ओर ।",
+      "hiLine2": "सुकुचाती सी एक दृग, मन में रही हिलोर ॥",
+      "general": "என்னை நேருக்கு நேர் குறிவைத்துப் பார்க்காதது மட்டுமல்லாமல், ஒரு கண்ணைச் சுருக்கிப் பார்ப்பவளைப் போலக் கடைக்கண்ணால் பார்த்து மகிழ்வாள்.",
+      "en": "Without looking directly at me, she narrows one eye in a playful side-glance and smiles inwardly.",
+      "hi": "यद्यपि वह सीधे मेरी ओर नहीं देखती, फिर भी एक आँख को संकुचित करके (तिरछी निगाह से) देखकर मन ही मन प्रसन्न होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குறிக்கொண்டு <br>(Kurikkondu)",
+          "ta": "நேராகக் குறிவைத்து",
+          "en": "Directly",
+          "hi": "सीधे मेरी ओर"
+        },
+        {
+          "no": 2,
+          "word": "நோக்காமை அல்லால் <br>(Nokkaamai allaal)",
+          "ta": "பார்க்காதிருப்பதோடு",
+          "en": "Seemed to see not",
+          "hi": "यद्यपि नहीं देखती"
+        },
+        {
+          "no": 3,
+          "word": "ஒரு கண் <br>(Oru kan)",
+          "ta": "ஒரு கண்ணை",
+          "en": "Side-long glance",
+          "hi": "एक दृग"
+        },
+        {
+          "no": 4,
+          "word": "சிறக்கணித்தாள் <br>(Sirakkaniththaal)",
+          "ta": "சுருக்கிப் பார்த்தாள்",
+          "en": "Narrowed",
+          "hi": "सुकुचाती सी"
+        },
+        {
+          "no": 5,
+          "word": "போல <br>(Pola)",
+          "ta": "போல",
+          "en": "As if",
+          "hi": "सी"
+        },
+        {
+          "no": 6,
+          "word": "நகும் <br>(Nagum)",
+          "ta": "மகிழ்ந்து சிரிப்பாள்",
+          "en": "Smiling",
+          "hi": "मन में रही हिलोर"
+        },
+        {
+          "no": 7,
+          "word": "குறிப்பு <br>(Kurippu)",
+          "ta": "குறிப்பு",
+          "en": "Sign",
+          "hi": "संकेत"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குறிக்கொண்டு நோக்காமை யல்லா லொருகண்",
+          "line2": "சிறக்கணித்தாள் போல நகும்."
+        },
+        "en": {
+          "line1": "She seemed to see me not ; but yet the maid",
+          "line2": "Her love, by smiling side-long glance, betrayed."
+        },
+        "hi": {
+          "line1": "सीधे वह नहीं देखती, यद्यपि मेरी ओर ।",
+          "line2": "सुकुचाती सी एक दृग, मन में रही हिलोर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kurikkondu Nokkaamai Yallaa Lorugan",
+            "line2": "Sirakkaniththaal Pola Nagum."
+          },
+          "hi": {
+            "line1": "कुरिक्कॊण्डु नोक्कामै यल्ला लॊरुगण्",
+            "line2": "सिरक्कणित्ताळ् पोल नगुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என்னை நேருக்கு நேர் குறிவைத்துப் பார்க்காதது மட்டுமல்லாமல், ஒரு கண்ணைச் சுருக்கிப் பார்ப்பவளைப் போலக் கடைக்கண்ணால் பார்த்து மகிழ்வாள்.",
+        "en": "She avoids staring straight at me, yet gives me away with a playful sidelong glance and a suppressed smile.",
+        "hi": "यद्यपि वह सीधे मेरी ओर नहीं देखती, फिर भी एक आँख को संकुचित करके (तिरछी निगाह से) देखकर मन ही मन प्रसन्न होती है।"
+      }
+    },
+    {
+      "num": 1096,
+      "line1": "உறாஅ தவர்போல் சொலினும் செறாஅர்சொல்",
+      "line2": "ஒல்லை உணரப் படும்.",
+      "enLine1": "Though with their lips affection they disown,",
+      "enLine2": "Yet, when they hate us not, 'tis quickly known.",
+      "hiLine1": "यद्यपि वह अनभिज्ञ सी, करती है कटु बात ।",
+      "hiLine2": "बात नहीं है क्रुद्ध की, झट होती यह ज्ञात ॥",
+      "general": "தொடர்பில்லாத அயலாரைப் போலப் பேசினாலும், உள்ளத்தில் வெறுப்பில்லாத காதலரின் சொற்கள் அன்புடையவை என்பது விரைவில் உணரப்படும்.",
+      "en": "Even if they speak like strangers with harsh words, one quickly senses that their words carry no real anger.",
+      "hi": "यद्यपि वह अनजान बनकर कटु वचन बोलती है, फिर भी यह बात झट से समझ में आ जाती है कि ये वचन क्रोध के नहीं हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உறாஅதவர் போல் <br>(Uraadhadhavar pol)",
+          "ta": "அயலாரைப் போல",
+          "en": "Affection they disown",
+          "hi": "वह अनभिज्ञ सी"
+        },
+        {
+          "no": 2,
+          "word": "சொலினும் <br>(Solinum)",
+          "ta": "பேசினாலும்",
+          "en": "Though they speak",
+          "hi": "करती है कटु बात"
+        },
+        {
+          "no": 3,
+          "word": "செறாஅர் <br>(Seraar)",
+          "ta": "சினமில்லாதவரின்",
+          "en": "Hate us not",
+          "hi": "नहीं है क्रुद्ध की"
+        },
+        {
+          "no": 4,
+          "word": "சொல் <br>(Sol)",
+          "ta": "சொல்",
+          "en": "Words",
+          "hi": "बात"
+        },
+        {
+          "no": 5,
+          "word": "ஒல்லை <br>(Ollai)",
+          "ta": "விரைவில்",
+          "en": "Quickly",
+          "hi": "झट"
+        },
+        {
+          "no": 6,
+          "word": "உணரப்படும் <br>(Unarappadum)",
+          "ta": "உணர்ந்து கொள்ளப்படும்",
+          "en": "Is known",
+          "hi": "होती यह ज्ञात"
+        },
+        {
+          "no": 7,
+          "word": "அன்பு <br>(Anbu)",
+          "ta": "அன்பு",
+          "en": "Affection",
+          "hi": "स्नेह"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உறாஅ தவர்போல் சொலினும் செறாஅர்சொல்",
+          "line2": "ஒல்லை உணரப் படும்."
+        },
+        "en": {
+          "line1": "Though with their lips affection they disown,",
+          "line2": "Yet, when they hate us not, 'tis quickly known."
+        },
+        "hi": {
+          "line1": "यद्यपि वह अनभिज्ञ सी, करती है कटु बात ।",
+          "line2": "बात नहीं है क्रुद्ध की, झट होती यह ज्ञात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uraaa Thavarpol Solinum Seraarsol",
+            "line2": "Ollai Unarap Padum."
+          },
+          "hi": {
+            "line1": "उराअ तवर्पोल् सॊलिनुम् सॆराअर्सॊल्",
+            "line2": "ऒल्लै उणरप् पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தொடர்பில்லாத அயலாரைப் போலப் பேசினாலும், உள்ளத்தில் வெறுப்பில்லாத காதலரின் சொற்கள் அன்புடையவை என்பது விரைவில் உணரப்படும்.",
+        "en": "Even if someone acts aloof and talks tough, you can tell right away when there's no real anger behind it.",
+        "hi": "यद्यपि वह अनजान बनकर कटु वचन बोलती है, फिर भी यह बात झट से समझ में आ जाती है कि ये वचन क्रोध के नहीं हैं।"
+      }
+    },
+    {
+      "num": 1097,
+      "line1": "செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு",
+      "line2": "முறாஅர்போன் றுற்றார் குறிப்பு.",
+      "enLine1": "The slighting words that anger feign, while eyes their love reveal,",
+      "enLine2": "Are signs of those that love, but would their love conceal.",
+      "hiLine1": "रुष्ट दृष्टि है शत्रु सम, कटुक वचन सप्रीति ।",
+      "hiLine2": "दिखना मानों अन्य जन, प्रेमी जन की रीति ॥",
+      "general": "வெறுப்பில்லாமல் பேசும் கடுஞ்சொல்லும், பகைவர் போலப் பார்க்கும் பார்வையும், அயலார் போல நடித்து உள்ளத்தில் காதல் கொண்டவரின் குறிப்புகளாகும்.",
+      "en": "Playfully sharp words without real anger and a look that pretends to be stern are the telltale signs of lovers trying to hide their affection.",
+      "hi": "भीतर प्रेम रखते हुए भी शत्रु के समान रूठी दृष्टि डालना, मीठे-कड़वे वचन बोलना और अनजान-सा दिखना—यह प्रेमी जनों की ही रीति है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செறாஅ <br>(Seraa)",
+          "ta": "சினமில்லாத",
+          "en": "Without anger",
+          "hi": "सप्रीति"
+        },
+        {
+          "no": 2,
+          "word": "சிறு சொல்லும் <br>(Siru sollum)",
+          "ta": "சிறிய கடுஞ்சொல்லும்",
+          "en": "Slighting words",
+          "hi": "कटुक वचन"
+        },
+        {
+          "no": 3,
+          "word": "செற்றார் போல் <br>(Setraar pol)",
+          "ta": "பகைவர் போல",
+          "en": "That anger feign",
+          "hi": "शत्रु सम"
+        },
+        {
+          "no": 4,
+          "word": "நோக்கும் <br>(Nokkum)",
+          "ta": "பார்க்கும் பார்வையும்",
+          "en": "Look",
+          "hi": "रुष्ट दृष्टि"
+        },
+        {
+          "no": 5,
+          "word": "உறாஅர் போன்று <br>(Uraar pondru)",
+          "ta": "தொடர்பில்லாதவர் போல",
+          "en": "Conceal",
+          "hi": "दिखना मानों अन्य जन"
+        },
+        {
+          "no": 6,
+          "word": "உற்றார் <br>(Utraar)",
+          "ta": "காதல் கொண்டவரின்",
+          "en": "Those that love",
+          "hi": "प्रेमी जन की"
+        },
+        {
+          "no": 7,
+          "word": "குறிப்பு <br>(Kurippu)",
+          "ta": "அடையாளங்கள்",
+          "en": "Signs",
+          "hi": "रीति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு",
+          "line2": "முறாஅர்போன் றுற்றார் குறிப்பு."
+        },
+        "en": {
+          "line1": "The slighting words that anger feign, while eyes their love reveal,",
+          "line2": "Are signs of those that love, but would their love conceal."
+        },
+        "hi": {
+          "line1": "रुष्ट दृष्टि है शत्रु सम, कटुक वचन सप्रीति ।",
+          "line2": "दिखना मानों अन्य जन, प्रेमी जन की रीति ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Seraaas Sirusolluny Setraarpo Nokku",
+            "line2": "Muraaarpon Rutraar Kurippu."
+          },
+          "hi": {
+            "line1": "सॆराअच् सिरुसॊल्लुञ् सॆत्र्रार्पो नोकु",
+            "line2": "मुराअर्पोन् रुत्र्रार् कुरिप्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வெறுப்பில்லாமல் பேசும் கடுஞ்சொல்லும், பகைவர் போலப் பார்க்கும் பார்வையும், அயலார் போல நடித்து உள்ளத்தில் காதல் கொண்டவரின் குறிப்புகளாகும்.",
+        "en": "Teasingly sharp words and fake glares are classic giveaways of someone secretly in love.",
+        "hi": "भीतर प्रेम रखते हुए भी शत्रु के समान रूठी दृष्टि डालना, मीठे-कड़वे वचन बोलना और अनजान-सा दिखना—यह प्रेमी जनों की ही रीति है।"
+      }
+    },
+    {
+      "num": 1098,
+      "line1": "அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப்",
+      "line2": "பசையினள் பைய நகும்.",
+      "enLine1": "I gaze, the tender maid relents the while ;",
+      "enLine2": "And, oh the matchless grace of that soft smile !",
+      "hiLine1": "मैं देखूँ तो, स्निग्ध हो, करे मंद वह हास ।",
+      "hiLine2": "सुकुमारी में उस समय, एक रही छवी खास ॥",
+      "general": "நான் பார்க்கும்போது மனம் நெகிழ்ந்து மெதுவாகப் புன்னகைக்கும் மென்மையான இயல்புடைய இவளிடம், ஒப்பற்ற ஒரு தனி அழகு உள்ளது.",
+      "en": "When I gaze at this tender-natured maiden, she softens and smiles gently—what an extraordinary grace shines in her then!",
+      "hi": "जब मैं इस सुकुमारी की ओर देखता हूँ, तो वह स्निग्ध (प्रसन्न) होकर मन्द-मन्द मुस्कुराती है; उस समय उसमें एक विशेष छवि दिखाई देती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அசையியற்கு <br>(Asaiyiyarku)",
+          "ta": "மென்மையான இயல்புடையவளுக்கு",
+          "en": "The tender maid",
+          "hi": "सुकुमारी में"
+        },
+        {
+          "no": 2,
+          "word": "உண்டு ஆண்டு <br>(Undu aandu)",
+          "ta": "அப்போது உண்டு",
+          "en": "The while",
+          "hi": "उस समय रही"
+        },
+        {
+          "no": 3,
+          "word": "ஓர் ஏர் <br>(Or er)",
+          "ta": "ஒப்பற்ற ஓர் அழகு",
+          "en": "Matchless grace",
+          "hi": "एक छवी खास"
+        },
+        {
+          "no": 4,
+          "word": "யான் நோக்க <br>(Yaan nokka)",
+          "ta": "நான் பார்க்க",
+          "en": "I gaze",
+          "hi": "मैं देखूँ तो"
+        },
+        {
+          "no": 5,
+          "word": "பசையினள் <br>(Pasaiyinal)",
+          "ta": "மனம் நெகிழ்ந்து",
+          "en": "Relents",
+          "hi": "स्निग्ध हो"
+        },
+        {
+          "no": 6,
+          "word": "பைய <br>(Paiya)",
+          "ta": "மெதுவாக",
+          "en": "Soft",
+          "hi": "मंद"
+        },
+        {
+          "no": 7,
+          "word": "நகும் <br>(Nagum)",
+          "ta": "புன்னகைப்பாள்",
+          "en": "Smile",
+          "hi": "करे हास"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப்",
+          "line2": "பசையினள் பைய நகும்."
+        },
+        "en": {
+          "line1": "I gaze, the tender maid relents the while ;",
+          "line2": "And, oh the matchless grace of that soft smile !"
+        },
+        "hi": {
+          "line1": "मैं देखूँ तो, स्निग्ध हो, करे मंद वह हास ।",
+          "line2": "सुकुमारी में उस समय, एक रही छवी खास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Asaiyiyar Kundaando Reeryaa Nokkap",
+            "line2": "Pasaiyinal Paiya Nagum."
+          },
+          "hi": {
+            "line1": "असैयियर् कुण्डाण्डो रेएर्या नोक्कप्",
+            "line2": "पसैयिनळ् पैय नगुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நான் பார்க்கும்போது மனம் நெகிழ்ந்து மெதுவாகப் புன்னகைக்கும் மென்மையான இயல்புடைய இவளிடம், ஒப்பற்ற ஒரு தனி அழகு உள்ளது.",
+        "en": "When I look at her and she softens into a quiet little smile, there's a charm in that moment like nothing else.",
+        "hi": "जब मैं इस सुकुमारी की ओर देखता हूँ, तो वह स्निग्ध (प्रसन्न) होकर मन्द-मन्द मुस्कुराती है; उस समय उसमें एक विशेष छवि दिखाई देती है।"
+      }
+    },
+    {
+      "num": 1099,
+      "line1": "ஏதிலார் போலப் பொதுநோக்கு நோக்குதல்",
+      "line2": "காதலார் கண்ணே யுள.",
+      "enLine1": "The look indifferent, that would its love disguise,",
+      "enLine2": "Is only read aright by lovers' eyes.",
+      "hiLine1": "उदासीन हो देखना, मानों हो अनजान ।",
+      "hiLine2": "प्रेमी जन के पास ही, रहती ऐसी बान ॥",
+      "general": "முன்பின் அறிமுகமில்லாத அயலாரைப் போலப் பொதுவாகப் பார்ப்பது, உண்மையில் உள்ளத்தில் காதல் கொண்டவர்களிடமே காணப்படும் பண்பாகும்.",
+      "en": "Casting a seemingly indifferent, casual glance as if they were strangers is a subtle habit found only among true lovers.",
+      "hi": "मानो बिल्कुल अनजान हों, इस प्रकार उदासीन भाव से देखना—यह अनोखी आदत केवल प्रेमी जनों के पास ही होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஏதிலார் போல <br>(Edhilaar pola)",
+          "ta": "அயலாரைப் போல",
+          "en": "Disguise",
+          "hi": "मानों हो अनजान"
+        },
+        {
+          "no": 2,
+          "word": "பொது நோக்கு <br>(Podhu nokku)",
+          "ta": "பொதுவான பார்வை",
+          "en": "Look indifferent",
+          "hi": "उदासीन हो"
+        },
+        {
+          "no": 3,
+          "word": "நோக்குதல் <br>(Nokkudhal)",
+          "ta": "பார்த்தல்",
+          "en": "Looking",
+          "hi": "देखना"
+        },
+        {
+          "no": 4,
+          "word": "காதலார் <br>(Kaadhalaar)",
+          "ta": "காதலர்க்கு",
+          "en": "Lovers'",
+          "hi": "प्रेमी जन के"
+        },
+        {
+          "no": 5,
+          "word": "கண்ணே <br>(Kanne)",
+          "ta": "இடத்திலேயே",
+          "en": "Eyes",
+          "hi": "पास ही"
+        },
+        {
+          "no": 6,
+          "word": "உள <br>(Ula)",
+          "ta": "உள்ளன",
+          "en": "Is",
+          "hi": "रहती ऐसी बान"
+        },
+        {
+          "no": 7,
+          "word": "மறைப்பு <br>(Maraippu)",
+          "ta": "மறைப்பு",
+          "en": "Disguise",
+          "hi": "छिपाव"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஏதிலார் போலப் பொதுநோக்கு நோக்குதல்",
+          "line2": "காதலார் கண்ணே யுள."
+        },
+        "en": {
+          "line1": "The look indifferent, that would its love disguise,",
+          "line2": "Is only read aright by lovers' eyes."
+        },
+        "hi": {
+          "line1": "उदासीन हो देखना, मानों हो अनजान ।",
+          "line2": "प्रेमी जन के पास ही, रहती ऐसी बान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Edhilaar Polap Podhunokku Nokkudhal",
+            "line2": "Kaadhalaar Kanne Yula."
+          },
+          "hi": {
+            "line1": "एदिलार् पोलप् पॊदुनोक्कु नोक्कुदल्",
+            "line2": "कादलार् कण्णे युळ."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முன்பின் அறிமுகமில்லாத அயலாரைப் போலப் பொதுவாகப் பார்ப்பது, உண்மையில் உள்ளத்தில் காதல் கொண்டவர்களிடமே காணப்படும் பண்பாகும்.",
+        "en": "Pretending to glance right past someone as if you barely know them is a classic move only lovers pull off.",
+        "hi": "मानो बिल्कुल अनजान हों, इस प्रकार उदासीन भाव से देखना—यह अनोखी आदत केवल प्रेमी जनों के पास ही होती है।"
+      }
+    },
+    {
+      "num": 1100,
+      "line1": "கண்ணொடு கண்ணினை நோக்கொக்கின் வாய்ச்சொற்க",
+      "line2": "ளென்ன பயனு மில.",
+      "enLine1": "When eye to answering eye reveals the tale of love,",
+      "enLine2": "All words that lips can say must useless prove.",
+      "hiLine1": "नयन नयन मिल देखते, यदि होता है योग ।",
+      "hiLine2": "वचनों का मूँह से कहे, है नहिं कुछ उपयोग ॥",
+      "general": "கண்ணும் கண்ணும் நேராகப் பார்த்துக் கருத்து ஒத்துவிட்டால், வாயால் பேசும் சொற்களால் எந்தப் பயனும் இல்லை.",
+      "en": "When two pairs of eyes meet and agree in silent understanding, spoken words from the mouth serve no purpose at all.",
+      "hi": "जब दोनों की आँखें आपस में मिलकर एक हो जाती हैं (मन के भाव समझ लेती हैं), तब मुँह से कहे जाने वाले वचनों का कोई उपयोग नहीं रह जाता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கண்ணொடு <br>(Kannodu)",
+          "ta": "ஒருவரின் கண்ணோடு",
+          "en": "With eye",
+          "hi": "नयन"
+        },
+        {
+          "no": 2,
+          "word": "கண்ணினை <br>(Kanninai)",
+          "ta": "மற்றவரின் கண்",
+          "en": "To answering eye",
+          "hi": "नयन मिल"
+        },
+        {
+          "no": 3,
+          "word": "நோக்கு ஒக்கின் <br>(Nokku okkin)",
+          "ta": "பார்வை ஒத்துவிட்டால்",
+          "en": "Reveals tale of love",
+          "hi": "यदि होता है योग"
+        },
+        {
+          "no": 4,
+          "word": "வாய்ச்சொற்கள் <br>(Vaaychchorkal)",
+          "ta": "வாயால் பேசும் சொற்கள்",
+          "en": "Words lips can say",
+          "hi": "वचनों का मूँह से कहे"
+        },
+        {
+          "no": 5,
+          "word": "என்ன <br>(Enna)",
+          "ta": "எந்த",
+          "en": "What",
+          "hi": "क्या"
+        },
+        {
+          "no": 6,
+          "word": "பயனும் <br>(Payanum)",
+          "ta": "பயனும்",
+          "en": "Use",
+          "hi": "उपयोग"
+        },
+        {
+          "no": 7,
+          "word": "இல <br>(Ila)",
+          "ta": "இல்லை",
+          "en": "Useless prove",
+          "hi": "है नहिं कुछ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கண்ணொடு கண்ணினை நோக்கொக்கின் வாய்ச்சொற்க",
+          "line2": "ளென்ன பயனு மில."
+        },
+        "en": {
+          "line1": "When eye to answering eye reveals the tale of love,",
+          "line2": "All words that lips can say must useless prove."
+        },
+        "hi": {
+          "line1": "नयन नयन मिल देखते, यदि होता है योग ।",
+          "line2": "वचनों का मूँह से कहे, है नहिं कुछ उपयोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kannodu Kanninai Nokkokkin Vaaychchorka",
+            "line2": "Lenna Payanu Mila."
+          },
+          "hi": {
+            "line1": "कण्णॊडु कण्णिनै नोक्कॊक्किन् वाय्च्चॊर्क",
+            "line2": "ळॆन्न पयनु मिल."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கண்ணும் கண்ணும் நேராகப் பார்த்துக் கருத்து ஒத்துவிட்டால், வாயால் பேசும் சொற்களால் எந்தப் பயனும் இல்லை.",
+        "en": "When two people's eyes meet and say everything, talking out loud is completely unnecessary.",
+        "hi": "जब दोनों की आँखें आपस में मिलकर एक हो जाती हैं (मन के भाव समझ लेती हैं), तब मुँह से कहे जाने वाले वचनों का कोई उपयोग नहीं रह जाता।"
+      }
+    }
+  ]
+}

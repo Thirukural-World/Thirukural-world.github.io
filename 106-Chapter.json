@@ -1,0 +1,930 @@
+{
+  "chapterNum": 106,
+  "nameTa": "இரவு",
+  "nameEn": "Mendicancy",
+  "nameHi": "याचना",
+  "paal": "பொருட்பால்",
+  "iyal": "ஒழிபியல்",
+  "kurals": [
+    {
+      "num": 1051,
+      "line1": "இரக்க விரத்தக்கார்க் காணிற் கரப்பி",
+      "line2": "னவர்பழி தம்பழி யன்று.",
+      "enLine1": "When those you find from whom 'tis meet to ask,—for aid apply ;",
+      "enLine2": "Theirs is the sin, not yours, if they the gift deny.",
+      "hiLine1": "याचन करने योग्य हों, तो माँगना ज़रूर ।",
+      "hiLine2": "उनका गोपन-दोष हो, तेरा कुछ न कसूर ॥",
+      "general": "கொடுக்கும் தகுதியுடைய இரத்தக்கவர்களைக் கண்டால் அவர்களிடம் கேட்கலாம்; அவர்கள் ஒளித்துக்கொண்டு கொடுக்காவிட்டால் அது அவர்களுடைய பழியே தவிர, கேட்டவரின் பழி அன்று.",
+      "en": "When you meet people worthy of being asked for help, you may ask them; if they refuse and withhold aid, the blame is theirs, not yours.",
+      "hi": "यदि कोई याचना करने योग्य (सुपात्र दाता) मिले, तो उससे ज़रूर माँगना चाहिए; यदि वह छिपाकर मना कर दे, तो यह उसका दोष है, इसमें माँगने वाले का कोई कसूर नहीं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இரக்க <br>(Irakka)",
+          "ta": "கேட்கலாம்",
+          "en": "For aid apply",
+          "hi": "तो माँगना ज़रूर"
+        },
+        {
+          "no": 2,
+          "word": "இரத்தக்கார்க்கு <br>(Iraththakkaarkku)",
+          "ta": "கேட்கத் தகுந்தவரை",
+          "en": "Meet to ask",
+          "hi": "याचन करने योग्य हों"
+        },
+        {
+          "no": 3,
+          "word": "காணின் <br>(Kaanin)",
+          "ta": "கண்டால்",
+          "en": "When you find",
+          "hi": "मिलें"
+        },
+        {
+          "no": 4,
+          "word": "கரப்பின் <br>(Karappin)",
+          "ta": "ஒளித்துக் கொடாராயின்",
+          "en": "If they deny",
+          "hi": "गोपन-दोष हो"
+        },
+        {
+          "no": 5,
+          "word": "அவர் பழி <br>(Avar pazhi)",
+          "ta": "அவருடைய பழி",
+          "en": "Theirs is the sin",
+          "hi": "उनका दोष"
+        },
+        {
+          "no": 6,
+          "word": "தம் பழி <br>(Tham pazhi)",
+          "ta": "கேட்டவர் பழி",
+          "en": "Yours",
+          "hi": "तेरा कसूर"
+        },
+        {
+          "no": 7,
+          "word": "அன்று <br>(Andru)",
+          "ta": "அல்ல",
+          "en": "Not",
+          "hi": "कुछ न"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இரக்க விரத்தக்கார்க் காணிற் கரப்பி",
+          "line2": "னவர்பழி தம்பழி யன்று."
+        },
+        "en": {
+          "line1": "When those you find from whom 'tis meet to ask,—for aid apply ;",
+          "line2": "Theirs is the sin, not yours, if they the gift deny."
+        },
+        "hi": {
+          "line1": "याचन करने योग्य हों, तो माँगना ज़रूर ।",
+          "line2": "उनका गोपन-दोष हो, तेरा कुछ न कसूर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Irakka Viraththakkaark Kaanir Karappi",
+            "line2": "Navarpazhi Thambazhi Yanru."
+          },
+          "hi": {
+            "line1": "इरक्क विरत्तक्कार्क् काणिर करप्पि",
+            "line2": "नवर्पऴि तम्पऴि यन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கொடுக்கும் தகுதியுடைய இரத்தக்கவர்களைக் கண்டால் அவர்களிடம் கேட்கலாம்; அவர்கள் ஒளித்துக்கொண்டு கொடுக்காவிட்டால் அது அவர்களுடைய பழியே தவிர, கேட்டவரின் பழி அன்று.",
+        "en": "There's no shame in asking for help from someone who is able and meant to give—if they turn you away, that's on them.",
+        "hi": "यदि कोई याचना करने योग्य (सुपात्र दाता) मिले, तो उससे ज़रूर माँगना चाहिए; यदि वह छिपाकर मना कर दे, तो यह उसका दोष है, इसमें माँगने वाले का कोई कसूर नहीं।"
+      }
+    },
+    {
+      "num": 1052,
+      "line1": "இன்ப மொருவற் கிரத்த லிரந்தவை",
+      "line2": "துன்ப முறூஅ வரின்.",
+      "enLine1": "Even to ask an alms may pleasure give,",
+      "enLine2": "If what you ask without annoyance you receive.",
+      "hiLine1": "यचित चीज़ें यदि मिलें, बिना दिये दुख-द्वन्द ।",
+      "hiLine2": "याचन करना मनुज को, देता है आनन्द ॥",
+      "general": "கேட்ட பொருள் மனத்திற்குத் துன்பம் ஏற்படாமல் எளிதில் கிடைக்குமானால், ஒருவனுக்குப் பிறரிடம் சென்று இரத்தலும் இன்பமாகவே இருக்கும்.",
+      "en": "Even asking for help can feel pleasant if the requested thing is given cheerfully without causing humiliation or distress.",
+      "hi": "यदि माँगी हुई वस्तुएँ बिना किसी दुःख या क्लेश के मिल जाएँ, तो मनुष्य को याचना करना भी आनन्द ही देता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "இன்பம் தருவதாகும்",
+          "en": "Pleasure give",
+          "hi": "देता है आनन्द"
+        },
+        {
+          "no": 2,
+          "word": "ஒருவற்கு <br>(Oruvarku)",
+          "ta": "ஒருவனுக்கு",
+          "en": "To one",
+          "hi": "मनुज को"
+        },
+        {
+          "no": 3,
+          "word": "இரத்தல் <br>(Iraththal)",
+          "ta": "இரத்தலும்",
+          "en": "To ask an alms",
+          "hi": "याचन करना"
+        },
+        {
+          "no": 4,
+          "word": "இரந்தவை <br>(Irandhavai)",
+          "ta": "கேட்ட பொருள்கள்",
+          "en": "What you ask",
+          "hi": "यचित चीज़ें"
+        },
+        {
+          "no": 5,
+          "word": "துன்பம் <br>(Thunbam)",
+          "ta": "துன்பம்",
+          "en": "Annoyance",
+          "hi": "दुख-द्वन्द"
+        },
+        {
+          "no": 6,
+          "word": "உறூஅ <br>(Urooa)",
+          "ta": "ஏற்படாமல்",
+          "en": "Without",
+          "hi": "बिना दिये"
+        },
+        {
+          "no": 7,
+          "word": "வரின் <br>(Varin)",
+          "ta": "கிடைத்தால்",
+          "en": "You receive",
+          "hi": "यदि मिलें"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்ப மொருவற் கிரத்த லிரந்தவை",
+          "line2": "துன்ப முறூஅ வரின்."
+        },
+        "en": {
+          "line1": "Even to ask an alms may pleasure give,",
+          "line2": "If what you ask without annoyance you receive."
+        },
+        "hi": {
+          "line1": "यचित चीज़ें यदि मिलें, बिना दिये दुख-द्वन्द ।",
+          "line2": "याचन करना मनुज को, देता है आनन्द ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inbam Oruvarku Iraththal Irandhavai",
+            "line2": "Thunbam Urooa Varin."
+          },
+          "hi": {
+            "line1": "इन्ब मॊरुवर् किरत्त लिरन्दवै",
+            "line2": "तुन्ब मुरूअ वरिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கேட்ட பொருள் மனத்திற்குத் துன்பம் ஏற்படாமல் எளிதில் கிடைக்குமானால், ஒருவனுக்குப் பிறரிடம் சென்று இரத்தலும் இன்பமாகவே இருக்கும்.",
+        "en": "Asking for help doesn't have to feel painful—when the giver responds warmly and without friction, it feels good for everyone.",
+        "hi": "यदि माँगी हुई वस्तुएँ बिना किसी दुःख या क्लेश के मिल जाएँ, तो मनुष्य को याचना करना भी आनन्द ही देता है।"
+      }
+    },
+    {
+      "num": 1053,
+      "line1": "கரப்பிலா நெஞ்சிற் கடனறிவார் முன்னின்",
+      "line2": "றிரப்புமோ ரேஎ ருடைத்து.",
+      "enLine1": "The men who nought deny, but know what's due, before their face",
+      "enLine2": "To stand as suppliants affords especial grace.",
+      "hiLine1": "खुला हृदय रखते हुए, जो मानेंगे मान ।",
+      "hiLine2": "उनके सम्मुख जा खड़े, याचन में भी शान ॥",
+      "general": "ஒளிக்காத உள்ளத்தோடு தம் கடமையை அறிந்து கொடுப்பவர்களின் முன்னே சென்று நின்று இரப்பதும் ஒருவகை அழகுடையதே.",
+      "en": "Standing as a suppliant before open-hearted people who know their duty has a quiet dignity of its own.",
+      "hi": "जो लोग खुला हृदय रखते हुए अपने कर्तव्य और मान को समझते हैं, उनके सामने जाकर याचना करने में भी एक शान (शोभा) होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கரப்பு இலா <br>(Karappu ilaa)",
+          "ta": "ஒளிவுமறைவற்ற",
+          "en": "Nought deny",
+          "hi": "खुला हृदय रखते"
+        },
+        {
+          "no": 2,
+          "word": "நெஞ்சில் <br>(Nenjil)",
+          "ta": "மனத்துடன்",
+          "en": "Heart",
+          "hi": "हृदय"
+        },
+        {
+          "no": 3,
+          "word": "கடன் அறிவார் <br>(Kadan arivaar)",
+          "ta": "கடமையை அறிந்தவர்",
+          "en": "Know what's due",
+          "hi": "जो मानेंगे मान"
+        },
+        {
+          "no": 4,
+          "word": "முன் நின்று <br>(Mun nindru)",
+          "ta": "முன் நின்று",
+          "en": "Before their face",
+          "hi": "उनके सम्मुख जा खड़े"
+        },
+        {
+          "no": 5,
+          "word": "இரப்பும் <br>(Irappum)",
+          "ta": "கேட்டலும்",
+          "en": "As suppliants",
+          "hi": "याचन में भी"
+        },
+        {
+          "no": 6,
+          "word": "ஓர் ஏர் <br>(Or er)",
+          "ta": "ஒரு அழகு",
+          "en": "Especial grace",
+          "hi": "शान"
+        },
+        {
+          "no": 7,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "உடையது",
+          "en": "Affords",
+          "hi": "है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கரப்பிலா நெஞ்சிற் கடனறிவார் முன்னின்",
+          "line2": "றிரப்புமோ ரேஎ ருடைத்து."
+        },
+        "en": {
+          "line1": "The men who nought deny, but know what's due, before their face",
+          "line2": "To stand as suppliants affords especial grace."
+        },
+        "hi": {
+          "line1": "खुला हृदय रखते हुए, जो मानेंगे मान ।",
+          "line2": "उनके सम्मुख जा खड़े, याचन में भी शान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Karappilaa Nenjir Kadanarivaar Munnin",
+            "line2": "Rirappumo Ree Rudaiththu."
+          },
+          "hi": {
+            "line1": "करप्पिला नॆञ्जिर् कडनरिमार् मुन्निन",
+            "line2": "रिरप्पुमो रेए रुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒளிக்காத உள்ளத்தோடு தம் கடமையை அறிந்து கொடுப்பவர்களின் முன்னே சென்று நின்று இரப்பதும் ஒருவகை அழகுடையதே.",
+        "en": "Asking someone who is generous and duty-bound carries no indignity—there's actually grace in that exchange.",
+        "hi": "जो लोग खुला हृदय रखते हुए अपने कर्तव्य और मान को समझते हैं, उनके सामने जाकर याचना करने में भी एक शान (शोभा) होती है।"
+      }
+    },
+    {
+      "num": 1054,
+      "line1": "இரத்தலு மீதலே போலுங் கரத்தல்",
+      "line2": "கனவிலுந் தேற்றாதார் மாட்டு.",
+      "enLine1": "Like giving alms, may even asking pleasant seem,",
+      "enLine2": "From men who of denial never even dream.",
+      "hiLine1": "जिन्हें स्वप्न में भी 'नहीं', कहने की नहिं बान ।",
+      "hiLine2": "उनसे याचन भी रहा, देना ही सम जान ॥",
+      "general": "பொருளை ஒளித்து இல்லை என்று சொல்லக் கனவிலும்கூட அறியாதவர்களிடம் சென்று இரப்பதும், பிறருக்குக் கொடுப்பதைப் போன்ற இன்பம் தரும்.",
+      "en": "Asking for help from those who never even dream in their sleep of refusing feels just like giving.",
+      "hi": "जिन्हें स्वप्न में भी किसी को 'नहीं' कहने की आदत नहीं है, उनसे कुछ माँगना भी दान देने के समान ही सुखद जान पड़ता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இரத்தலும் <br>(Iraththalum)",
+          "ta": "இரத்தலும்",
+          "en": "Even asking",
+          "hi": "याचन भी रहा"
+        },
+        {
+          "no": 2,
+          "word": "ஈதலே போலும் <br>(Eedhale polum)",
+          "ta": "கொடுத்தலைப் போன்றதே",
+          "en": "Like giving alms",
+          "hi": "देना ही सम जान"
+        },
+        {
+          "no": 3,
+          "word": "கரத்தல் <br>(Karaththal)",
+          "ta": "இல்லை என்று ஒளிப்பதை",
+          "en": "Of denial",
+          "hi": "'नहीं' कहने की"
+        },
+        {
+          "no": 4,
+          "word": "கனவிலும் <br>(Kanavilum)",
+          "ta": "கனவிலும்",
+          "en": "Even dream",
+          "hi": "स्वप्न में भी"
+        },
+        {
+          "no": 5,
+          "word": "தேற்றாதார் <br>(Thetraadhaar)",
+          "ta": "அறியாதவர்",
+          "en": "Never",
+          "hi": "नहिं बान"
+        },
+        {
+          "no": 6,
+          "word": "மாட்டு <br>(Maattu)",
+          "ta": "இடத்தில்",
+          "en": "From men",
+          "hi": "उनसे"
+        },
+        {
+          "no": 7,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "இன்பம்",
+          "en": "Pleasant",
+          "hi": "सुखद"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இரத்தலு மீதலே போலுங் கரத்தல்",
+          "line2": "கனவிலுந் தேற்றாதார் மாட்டு."
+        },
+        "en": {
+          "line1": "Like giving alms, may even asking pleasant seem,",
+          "line2": "From men who of denial never even dream."
+        },
+        "hi": {
+          "line1": "जिन्हें स्वप्न में भी 'नहीं', कहने की नहिं बान ।",
+          "line2": "उनसे याचन भी रहा, देना ही सम जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Iraththalu Meedhale Polung Karaththal",
+            "line2": "Kanavilun Thetraadhaar Maattu."
+          },
+          "hi": {
+            "line1": "इरत्तलु मीदले पोलुङ् करत्तल्",
+            "line2": "कनविलुन् तेत्र्रादार् माट्टु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொருளை ஒளித்து இல்லை என்று சொல்லக் கனவிலும்கூட அறியாதவர்களிடம் சென்று இரப்பதும், பிறருக்குக் கொடுப்பதைப் போன்ற இன்பம் தரும்.",
+        "en": "Asking someone who wouldn't dream of saying no feels as easy and joyful as being the giver yourself.",
+        "hi": "जिन्हें स्वप्न में भी किसी को 'नहीं' कहने की आदत नहीं है, उनसे कुछ माँगना भी दान देने के समान ही सुखद जान पड़ता है।"
+      }
+    },
+    {
+      "num": 1055,
+      "line1": "கரப்பிலார் வையகத் துண்மையாற் கண்ணின்",
+      "line2": "றிரப்பவர் மேற்கொள் வது.",
+      "enLine1": "Because on earth the men exist, who never say them nay,",
+      "enLine2": "Men bear to stand before their eyes for help to pray.",
+      "hiLine1": "सम्मुख होने मात्र से, बिना किये इनकार ।",
+      "hiLine2": "दाता हैं जग में, तभी, याचन है स्वीकार ॥",
+      "general": "ஒளிக்காமல் கொடுப்பவர்கள் இவ்வுலகத்தில் இருப்பதால்தான், இரப்பவர்கள் அவர்களின் கண்முன்னே சென்று நின்று கேட்கும் தொழிலை மேற்கொள்கிறார்கள்.",
+      "en": "It is only because there are open-handed people in this world who never hide their wealth that beggars can stand before them and ask.",
+      "hi": "संसार में ऐसे दाता विद्यमान हैं जो सामने आते ही बिना इनकार किए दे देते हैं, तभी याचक भी माँगने का कार्य स्वीकार करते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கரப்பு இலார் <br>(Karappu ilaar)",
+          "ta": "ஒளிக்காமல் கொடுப்பவர்",
+          "en": "Never say them nay",
+          "hi": "बिना किये इनकार"
+        },
+        {
+          "no": 2,
+          "word": "வையகத்து <br>(Vaiyagaththu)",
+          "ta": "உலகத்தில்",
+          "en": "On earth",
+          "hi": "जग में"
+        },
+        {
+          "no": 3,
+          "word": "உண்மையால் <br>(Unmaiyaal)",
+          "ta": "இருப்பதால்",
+          "en": "Exist",
+          "hi": "दाता हैं तभी"
+        },
+        {
+          "no": 4,
+          "word": "கண் நின்று <br>(Kan nindru)",
+          "ta": "கண்முன் நின்று",
+          "en": "Before their eyes",
+          "hi": "सम्मुख होने मात्र से"
+        },
+        {
+          "no": 5,
+          "word": "இரப்பவர் <br>(Irappavar)",
+          "ta": "இரப்பவர்கள்",
+          "en": "Men",
+          "hi": "याचक"
+        },
+        {
+          "no": 6,
+          "word": "மேற்கொள்வது <br>(Merkolvadhu)",
+          "ta": "கேட்கத் துணிகிறார்கள்",
+          "en": "Bear to pray",
+          "hi": "याचन है स्वीकार"
+        },
+        {
+          "no": 7,
+          "word": "நம்பிக்கை <br>(Nambikkai)",
+          "ta": "நம்பிக்கை",
+          "en": "Trust",
+          "hi": "विश्वास"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கரப்பிலார் வையகத் துண்மையாற் கண்ணின்",
+          "line2": "றிரப்பவர் மேற்கொள் வது."
+        },
+        "en": {
+          "line1": "Because on earth the men exist, who never say them nay,",
+          "line2": "Men bear to stand before their eyes for help to pray."
+        },
+        "hi": {
+          "line1": "सम्मुख होने मात्र से, बिना किये इनकार ।",
+          "line2": "दाता हैं जग में, तभी, याचन है स्वीकार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Karappilaar Vaiyagath Thunmaiyaar Kannin",
+            "line2": "Rirappavar Merkol Vadhu."
+          },
+          "hi": {
+            "line1": "करप्पिलार् वैयगत् तुण्मैयार् कण्णिन्",
+            "line2": "रिरप्पवर् मेर्कॊळ् वदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒளிக்காமல் கொடுப்பவர்கள் இவ்வுலகத்தில் இருப்பதால்தான், இரப்பவர்கள் அவர்களின் கண்முன்னே சென்று நின்று கேட்கும் தொழிலை மேற்கொள்கிறார்கள்.",
+        "en": "People still muster the courage to ask for help only because genuinely generous givers exist in the world.",
+        "hi": "संसार में ऐसे दाता विद्यमान हैं जो सामने आते ही बिना इनकार किए दे देते हैं, तभी याचक भी माँगने का कार्य स्वीकार करते हैं।"
+      }
+    },
+    {
+      "num": 1056,
+      "line1": "கரப்பிடும்பை யில்லாரைக் காணி னிரப்பிடும்பை",
+      "line2": "யெல்லா மொருங்கு கெடும்.",
+      "enLine1": "If those you find from evil of 'denial' free,",
+      "enLine2": "At once all plague of poverty will flee.",
+      "hiLine1": "उन्हें देख जिनको नहीं, 'ना', कह सहना कष्ट ।",
+      "hiLine2": "दुःख सभी दारिद्र्य के, एक साथ हों नष्ट ॥",
+      "general": "இல்லை என்று ஒளிக்கும் குற்றம் இல்லாத வள்ளல்களைக் கண்டால், வறுமையால் ஏற்படும் துன்பங்கள் எல்லாம் ஒருங்கே நீங்கிவிடும்.",
+      "en": "The moment you meet people free from the meanness of refusal, all the sorrows of poverty vanish at once.",
+      "hi": "जिन दाताओं को 'ना' कहने का कष्ट नहीं सहना पड़ता (जो कभी मना नहीं करते), उन्हें देखते ही दरिद्रता के सारे दुःख एक साथ नष्ट हो जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கரப்பு இடும்பை <br>(Karappu idumbai)",
+          "ta": "ஒளிக்கும் குற்றம்",
+          "en": "Evil of denial",
+          "hi": "'ना' कह सहना कष्ट"
+        },
+        {
+          "no": 2,
+          "word": "இல்லாரை <br>(Illaarai)",
+          "ta": "இல்லாதவரைக்",
+          "en": "Free from",
+          "hi": "जिनको नहीं"
+        },
+        {
+          "no": 3,
+          "word": "காணின் <br>(Kaanin)",
+          "ta": "கண்டால்",
+          "en": "If you find",
+          "hi": "उन्हें देख"
+        },
+        {
+          "no": 4,
+          "word": "நிரப்பு இடும்பை <br>(Nirappu idumbai)",
+          "ta": "வறுமைத் துன்பம்",
+          "en": "Plague of poverty",
+          "hi": "दुःख दारिद्र्य के"
+        },
+        {
+          "no": 5,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "எல்லாம்",
+          "en": "All",
+          "hi": "सभी"
+        },
+        {
+          "no": 6,
+          "word": "ஒருங்கு <br>(Orungu)",
+          "ta": "ஒருசேர",
+          "en": "At once",
+          "hi": "एक साथ"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "அழிந்துவிடும்",
+          "en": "Will flee",
+          "hi": "हों नष्ट"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கரப்பிடும்பை யில்லாரைக் காணி னிரப்பிடும்பை",
+          "line2": "யெல்லா மொருங்கு கெடும்."
+        },
+        "en": {
+          "line1": "If those you find from evil of 'denial' free,",
+          "line2": "At once all plague of poverty will flee."
+        },
+        "hi": {
+          "line1": "उन्हें देख जिनको नहीं, 'ना', कह सहना कष्ट ।",
+          "line2": "दुःख सभी दारिद्र्य के, एक साथ हों नष्ट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Karappidumbai Yillaaraik Kaani Nirappidumbai",
+            "line2": "Yellaa Morunggu Kedum."
+          },
+          "hi": {
+            "line1": "करप्पिडुम्बै यिल्लारैक् काणि निरप्पिडुम्बै",
+            "line2": "यॆल्ला मॊरुङ्गु कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இல்லை என்று ஒளிக்கும் குற்றம் இல்லாத வள்ளல்களைக் கண்டால், வறுமையால் ஏற்படும் துன்பங்கள் எல்லாம் ஒருங்கே நீங்கிவிடும்.",
+        "en": "Just meeting someone who never withholds help makes the crushing weight of poverty disappear all at once.",
+        "hi": "जिन दाताओं को 'ना' कहने का कष्ट नहीं सहना पड़ता (जो कभी मना नहीं करते), उन्हें देखते ही दरिद्रता के सारे दुःख एक साथ नष्ट हो जाते हैं।"
+      }
+    },
+    {
+      "num": 1057,
+      "line1": "இகழ்ந்தெள்ளா தீவாரைக் காணின் மகிழ்ந்துள்ள",
+      "line2": "முள்ளு ளுவப்ப துடைத்து.",
+      "enLine1": "If men are found who give and no harsh words of scorn employ,",
+      "enLine2": "The minds of askers, through and through, will thrill with joy.",
+      "hiLine1": "बिना किये अवहेलना, देते जन को देख ।",
+      "hiLine2": "मन ही मन आनन्द से, रहा हर्ष-अतिरेक ॥",
+      "general": "இகழ்ந்து ஏளனம் செய்யாமல் கொடுப்பவர்களைக் கண்டால், இரப்பவர்களின் உள்ளம் தன் அகத்தே மகிழ்ந்து பூரிக்கும் தன்மையை உடையதாகும்.",
+      "en": "Seeing people who give without scorn or mockery fills the heart of the asker with deep, inward joy.",
+      "hi": "बिना किसी अपमान या अवहेलना के दान देने वाले व्यक्ति को देखकर याचक का मन ही मन अत्यधिक हर्ष और आनन्द से भर जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இகழ்ந்து எள்ளாது <br>(Igazhndhu ellaadhu)",
+          "ta": "இகழ்ந்து ஏளனம் செய்யாமல்",
+          "en": "No harsh words of scorn",
+          "hi": "बिना किये अवहेलना"
+        },
+        {
+          "no": 2,
+          "word": "ஈவாரை <br>(Eevaarai)",
+          "ta": "கொடுப்பவரைக்",
+          "en": "Who give",
+          "hi": "देते जन को"
+        },
+        {
+          "no": 3,
+          "word": "காணின் <br>(Kaanin)",
+          "ta": "கண்டால்",
+          "en": "If found",
+          "hi": "देख"
+        },
+        {
+          "no": 4,
+          "word": "மகிழ்ந்து <br>(Magizhndhu)",
+          "ta": "மகிழ்ந்து",
+          "en": "With joy",
+          "hi": "आनन्द से"
+        },
+        {
+          "no": 5,
+          "word": "உள்ளம் <br>(Ullam)",
+          "ta": "மனம்",
+          "en": "The minds",
+          "hi": "मन ही मन"
+        },
+        {
+          "no": 6,
+          "word": "உள்ளுள் <br>(Ullul)",
+          "ta": "உள்ளுக்குள்ளே",
+          "en": "Through and through",
+          "hi": "भीतर ही भीतर"
+        },
+        {
+          "no": 7,
+          "word": "உவப்பது உடைத்து <br>(Uvappadhu udaiththu)",
+          "ta": "பூரிக்கும் தன்மையது",
+          "en": "Will thrill",
+          "hi": "रहा हर्ष-अतिरेक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இகழ்ந்தெள்ளா தீவாரைக் காணின் மகிழ்ந்துள்ள",
+          "line2": "முள்ளு ளுவப்ப துடைத்து."
+        },
+        "en": {
+          "line1": "If men are found who give and no harsh words of scorn employ,",
+          "line2": "The minds of askers, through and through, will thrill with joy."
+        },
+        "hi": {
+          "line1": "बिना किये अवहेलना, देते जन को देख ।",
+          "line2": "मन ही मन आनन्द से, रहा हर्ष-अतिरेक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Igazhndhellaa Theevaaraik Kaanin Magizhndhulla",
+            "line2": "Mullu Luvappa Thudaiththu."
+          },
+          "hi": {
+            "line1": "इगऴ्न्दॆळ्ळा दीवारैक् काणिन् मगिऴ्न्दुळ्ळ",
+            "line2": "मुळ्ळु ळुवप्प दुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இகழ்ந்து ஏளனம் செய்யாமல் கொடுப்பவர்களைக் கண்டால், இரப்பவர்களின் உள்ளம் தன் அகத்தே மகிழ்ந்து பூரிக்கும் தன்மையது.",
+        "en": "Finding someone who helps without looking down on you brings a wave of pure, quiet relief.",
+        "hi": "बिना किसी अपमान या अवहेलना के दान देने वाले व्यक्ति को देखकर याचक का मन ही मन अत्यधिक हर्ष और आनन्द से भर जाता है।"
+      }
+    },
+    {
+      "num": 1058,
+      "line1": "இரப்பாரை யில்லாயி னீர்ங்கண்மா ஞால",
+      "line2": "மரப்பாவை சென்றுவந் தற்று.",
+      "enLine1": "If askers cease, the mighty earth, where cooling fountains flow,",
+      "enLine2": "Will be a stage where wooden puppets come and go.",
+      "hiLine1": "शीतल थलयुत विपुल जग, यदि हो याचक-हीन ।",
+      "hiLine2": "कठपुथली सम वह रहे, चलती सूत्राधीन ॥",
+      "general": "இரப்பவர்கள் இல்லாமற்போனால், குளிர்ந்த கடலால் சூழப்பட்ட இப்பெரிய உலகம் மரப்பாவை கயிற்றால் ஆட்டப்பட்டுச் சென்று வருவதைப் போலாகிவிடும்.",
+      "en": "If there were no one asking for help, this vast, cool earth would be nothing more than wooden puppets mechanically coming and going.",
+      "hi": "यदि शीतल स्थानों से युक्त यह विशाल संसार याचकों से रहित हो जाए, तो यह सूत्र (धागे) के अधीन चलने वाली कठपुतलियों के समान निर्जीव हो जाएगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இரப்பாரை <br>(Irappaarai)",
+          "ta": "இரப்பவர்கள்",
+          "en": "Askers",
+          "hi": "याचक"
+        },
+        {
+          "no": 2,
+          "word": "இல்லாயின் <br>(Illaayin)",
+          "ta": "இல்லாவிட்டால்",
+          "en": "If cease",
+          "hi": "यदि हो हीन"
+        },
+        {
+          "no": 3,
+          "word": "ஈர்ங்கண் மா ஞாலம் <br>(Eerngan maa gnaalam)",
+          "ta": "குளிர்ந்த இடமுடைய பெரிய உலகம்",
+          "en": "Mighty earth",
+          "hi": "शीतल थलयुत विपुल जग"
+        },
+        {
+          "no": 4,
+          "word": "மரப்பாவை <br>(Marappaavai)",
+          "ta": "மரப்பாவை",
+          "en": "Wooden puppets",
+          "hi": "कठपुथली सम"
+        },
+        {
+          "no": 5,
+          "word": "சென்று <br>(Sendru)",
+          "ta": "சென்று",
+          "en": "Go",
+          "hi": "चलती"
+        },
+        {
+          "no": 6,
+          "word": "வந்தற்று <br>(Vandhatru)",
+          "ta": "வந்தது போன்றது",
+          "en": "Come",
+          "hi": "वह रहे"
+        },
+        {
+          "no": 7,
+          "word": "இயக்கம் <br>(Iyakkam)",
+          "ta": "இயக்கம்",
+          "en": "Motion",
+          "hi": "सूत्राधीन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இரப்பாரை யில்லாயி னீர்ங்கண்மா ஞால",
+          "line2": "மரப்பாவை சென்றுவந் தற்று."
+        },
+        "en": {
+          "line1": "If askers cease, the mighty earth, where cooling fountains flow,",
+          "line2": "Will be a stage where wooden puppets come and go."
+        },
+        "hi": {
+          "line1": "शीतल थलयुत विपुल जग, यदि हो याचक-हीन ।",
+          "line2": "कठपुथली सम वह रहे, चलती सूत्राधीन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Irappaarai Yillaayi Neerngganmaa Nyaala",
+            "line2": "Marappaavai Senruvan Thatru."
+          },
+          "hi": {
+            "line1": "इरप्पारै यिल्लायि नीर्ङ्गण्मा ञाल",
+            "line2": "मरप्पावै सॆन्द्रुवन् दत्र्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இரப்பவர்கள் இல்லாமற்போனால், குளிர்ந்த கடலால் சூழப்பட்ட இப்பெரிய உலகம் மரப்பாவை கயிற்றால் ஆட்டப்பட்டுச் சென்று வருவதைப் போலாகிவிடும்.",
+        "en": "Without people needing help and others giving it, human society would feel lifeless—like wooden puppets moving on strings.",
+        "hi": "यदि शीतल स्थानों से युक्त यह विशाल संसार याचकों से रहित हो जाए, तो यह सूत्र (धागे) के अधीन चलने वाली कठपुतलियों के समान निर्जीव हो जाएगा।"
+      }
+    },
+    {
+      "num": 1059,
+      "line1": "ஈவார்க ணென்னுண்டாந் தோற்ற மிரந்துகொண்",
+      "line2": "மேவா ரிலாஅக் கடை.",
+      "enLine1": "What glory will there be to men of generous soul,",
+      "enLine2": "When none are found to love the askers' role ?",
+      "hiLine1": "जब कि प्रतिग्रह चाहते, मिलें न याचक लोग ।",
+      "hiLine2": "दाताओं को क्या मिले, यश पाने का योग ॥",
+      "general": "இரந்து பெற்று வாழ்வதை விரும்புவார் இல்லாமற் போனால், கொடுப்பவர்களிடம் என்ன புகழும் சிறப்பும் உண்டாகப் போகிறது?",
+      "en": "What distinction or glory would generous givers ever have if there were no one willing to ask and receive?",
+      "hi": "जब दान लेने की इच्छा रखने वाले याचक लोग ही न मिलें, तो दाताओं को भला यश प्राप्त करने का अवसर कहाँ से मिलेगा?",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஈவார்கண் <br>(Eevaarkan)",
+          "ta": "கொடுப்பவரிடத்தில்",
+          "en": "Men of generous soul",
+          "hi": "दाताओं को"
+        },
+        {
+          "no": 2,
+          "word": "என் உண்டாம் <br>(En undaam)",
+          "ta": "என்ன உண்டாகும்",
+          "en": "What will there be",
+          "hi": "क्या मिले"
+        },
+        {
+          "no": 3,
+          "word": "தோற்றம் <br>(Thotram)",
+          "ta": "புகழ்",
+          "en": "Glory",
+          "hi": "यश पाने का योग"
+        },
+        {
+          "no": 4,
+          "word": "இரந்துகொண்டு <br>(Irandhukondu)",
+          "ta": "இரந்து பெற்று",
+          "en": "Askers'",
+          "hi": "प्रतिग्रह चाहते"
+        },
+        {
+          "no": 5,
+          "word": "மேவார் <br>(Mevaar)",
+          "ta": "விரும்புவார்",
+          "en": "Found to love",
+          "hi": "याचक लोग"
+        },
+        {
+          "no": 6,
+          "word": "இலாஅக்கடை <br>(Ilaakkadai)",
+          "ta": "இல்லாவிட்டால்",
+          "en": "When none",
+          "hi": "मिलें न"
+        },
+        {
+          "no": 7,
+          "word": "கொடை <br>(Kodai)",
+          "ta": "கொடை",
+          "en": "Generosity",
+          "hi": "दान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஈவார்க ணென்னுண்டாந் தோற்ற மிரந்துகொண்",
+          "line2": "மேவா ரிலாஅக் கடை."
+        },
+        "en": {
+          "line1": "What glory will there be to men of generous soul,",
+          "line2": "When none are found to love the askers' role ?"
+        },
+        "hi": {
+          "line1": "जब कि प्रतिग्रह चाहते, मिलें न याचक लोग ।",
+          "line2": "दाताओं को क्या मिले, यश पाने का योग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Eevaarka Nennundaan Thotra Mirandhugon",
+            "line2": "Mevaa Rilaaak Kadai."
+          },
+          "hi": {
+            "line1": "ईवार्ग णॆन्नुण्डान् तोत्र्र मिरन्दुगॊण्",
+            "line2": "मेवा रिलाअक् कडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இரந்து பெற்று வாழ்வதை விரும்புவார் இல்லாமற் போனால், கொடுப்பவர்களிடம் என்ன புகழும் சிறப்பும் உண்டாகப் போகிறது?",
+        "en": "Generosity only shines when someone is willing to receive—without receivers, givers have no stage.",
+        "hi": "जब दान लेने की इच्छा रखने वाले याचक लोग ही न मिलें, तो दाताओं को भला यश प्राप्त करने का अवसर कहाँ से मिलेगा?"
+      }
+    },
+    {
+      "num": 1060,
+      "line1": "இரப்பான் வெகுளாமை வேண்டு நிரப்பிடும்பை",
+      "line2": "தானேயுஞ் சாலுங் கரி.",
+      "enLine1": "Askers refused from wrath must stand aloof ;",
+      "enLine2": "The plague of poverty itself is ample proof.",
+      "hiLine1": "याचक को तो चाहिये, ग्रहण करे अक्रोध ।",
+      "hiLine2": "निज दरिद्रता-दुःख ही, करे उसे यह बोध ॥",
+      "general": "இரப்பவன் தனக்குக் கொடுக்காதவரிடம் சினம் கொள்ளாமல் இருக்க வேண்டும்; அதற்கு அவனது வறுமைத் துன்பமே போதுமான சான்றாகும்.",
+      "en": "One who asks for help should not get angry when refused; the hardship of their own poverty is proof enough to keep them humble.",
+      "hi": "याचक को चाहिए कि वह क्रोध न करे (अक्रोध धारण करे); उसकी अपनी दरिद्रता का दुःख ही उसे इस बात का बोध कराने के लिए पर्याप्त प्रमाण है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இரப்பான் <br>(Irappaan)",
+          "ta": "இரப்பவன்",
+          "en": "Askers",
+          "hi": "याचक को"
+        },
+        {
+          "no": 2,
+          "word": "வெகுளாமை <br>(Vegulaamai)",
+          "ta": "சினம் கொள்ளாதிருத்தல்",
+          "en": "Stand aloof from wrath",
+          "hi": "ग्रहण करे अक्रोध"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டும் <br>(Vendum)",
+          "ta": "வேண்டும்",
+          "en": "Must",
+          "hi": "तो चाहिये"
+        },
+        {
+          "no": 4,
+          "word": "நிரப்பு இடும்பை <br>(Nirappu idumbai)",
+          "ta": "வறுமைத் துன்பம்",
+          "en": "Plague of poverty",
+          "hi": "निज दरिद्रता-दुःख ही"
+        },
+        {
+          "no": 5,
+          "word": "தானேயும் <br>(Thaaneyum)",
+          "ta": "தானே",
+          "en": "Itself",
+          "hi": "ही"
+        },
+        {
+          "no": 6,
+          "word": "சாலும் <br>(Saalum)",
+          "ta": "போதுமான",
+          "en": "Is ample",
+          "hi": "पर्याप्त"
+        },
+        {
+          "no": 7,
+          "word": "கரி <br>(Kari)",
+          "ta": "சான்று",
+          "en": "Proof",
+          "hi": "बोध"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இரப்பான் வெகுளாமை வேண்டு நிரப்பிடும்பை",
+          "line2": "தானேயுஞ் சாலுங் கரி."
+        },
+        "en": {
+          "line1": "Askers refused from wrath must stand aloof ;",
+          "line2": "The plague of poverty itself is ample proof."
+        },
+        "hi": {
+          "line1": "याचक को तो चाहिये, ग्रहण करे अक्रोध ।",
+          "line2": "निज दरिद्रता-दुःख ही, करे उसे यह बोध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Irappaan Vegulaamai Vendu Nirappidumbai",
+            "line2": "Thaaneyuny Saalung Kari."
+          },
+          "hi": {
+            "line1": "इरप्पान् वॆगुळामै वेण्डु निरप्पिडुम्बै",
+            "line2": "तानेयुञ् सालुङ् गरि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இரப்பவன் தனக்குக் கொடுக்காதவரிடம் சினம் கொள்ளாமல் இருக்க வேண்டும்; அதற்கு அவனது வறுமைத் துன்பமே போதுமான சான்றாகும்.",
+        "en": "If someone turns down your request for help, don't lash out—your own situation is reminder enough to stay patient.",
+        "hi": "याचक को चाहिए कि वह क्रोध न करे (अक्रोध धारण करे); उसकी अपनी दरिद्रता का दुःख ही उसे इस बात का बोध कराने के लिए पर्याप्त प्रमाण है।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "chapterNum": 129,
+  "nameTa": "புணர்ச்சிவிதும்பல்",
+  "nameEn": "Desire for Reunion",
+  "nameHi": "मिलन-उत्कंठा",
+  "paal": "காமத்துப்பால்",
+  "iyal": "கற்பியல்",
+  "kurals": [
+    {
+      "num": 1281,
+      "line1": "உள்ளக் களித்தலுங் காண மகிழ்தலுங்",
+      "line2": "கள்ளுக்கில் காமத்திற் குண்டு",
+      "enLine1": "Gladness at the thought, rejoicing at the sight,",
+      "enLine2": "Not palm-tree wine, but love, yields such delight.",
+      "hiLine1": "मुद होना स्मृति मात्र से, दर्शन से उल्लास ।",
+      "hiLine2": "ये गुण नहीं शराब में, रहे काम के पास ॥",
+      "general": "நினைத்த அளவிலேயே உள்ளம் களிப்படைவதும், கண்ட அளவிலேயே மகிழ்ச்சி அடைவதும் ஆகிய இன்பங்கள் கள்ளுக்கு இல்லை; காமத்திற்கு மட்டுமே உண்டு.",
+      "en": "The joy of thrilling at the mere thought of the beloved and rejoicing at their sight does not belong to toddy—it belongs only to love.",
+      "hi": "केवल स्मरण करने मात्र से हृदय का प्रफुल्लित होना और दर्शन से उल्लासित होना—ये गुण मदिरा में नहीं, केवल प्रेम में ही होते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உள்ள <br>(Ulla)",
+          "ta": "நினைக்க",
+          "en": "At the thought",
+          "hi": "स्मरण मात्र से"
+        },
+        {
+          "no": 2,
+          "word": "களித்தலும் <br>(Kaliththalum)",
+          "ta": "மகிழ்வதும்",
+          "en": "Gladness also",
+          "hi": "प्रफुल्लित होना"
+        },
+        {
+          "no": 3,
+          "word": "காண <br>(Kaana)",
+          "ta": "பார்க்க",
+          "en": "At the sight",
+          "hi": "दर्शन से"
+        },
+        {
+          "no": 4,
+          "word": "மகிழ்தலும் <br>(Magizhdhalum)",
+          "ta": "சந்தோஷிப்பதும்",
+          "en": "Rejoicing also",
+          "hi": "उल्लास होना"
+        },
+        {
+          "no": 5,
+          "word": "கள்ளுக்கு இல் <br>(Kallukku Il)",
+          "ta": "கள்ளுக்கு இல்லை",
+          "en": "Not in palm-wine",
+          "hi": "मदिरा में नहीं"
+        },
+        {
+          "no": 6,
+          "word": "காமத்திற்கு <br>(Kaamaththirku)",
+          "ta": "காமத்திற்கே",
+          "en": "To love",
+          "hi": "प्रेम के पास"
+        },
+        {
+          "no": 7,
+          "word": "உண்டு <br>(Undu)",
+          "ta": "உள்ளது",
+          "en": "Exists / belongs",
+          "hi": "होते हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உள்ளக் களித்தலுங் காண மகிழ்தலுங்",
+          "line2": "கள்ளுக்கில் காமத்திற் குண்டு"
+        },
+        "en": {
+          "line1": "Gladness at the thought, rejoicing at the sight,",
+          "line2": "Not palm-tree wine, but love, yields such delight."
+        },
+        "hi": {
+          "line1": "मुद होना स्मृति मात्र से, दर्शन से उल्लास ।",
+          "line2": "ये गुण नहीं शराब में, रहे काम के पास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ullak Kaliththalung Kaana Magizhthalung",
+            "line2": "Kallukkil Kaamaththir Kundu"
+          },
+          "hi": {
+            "line1": "उळ्ळक् कळित्तलुङ् काण मगिऴ्तलुङ्",
+            "line2": "कळ्ळुक्किल् कामत्तिऱ् कुण्डु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மதுவைக் குடித்தால் மட்டுமே மயக்கம் தரும்; ஆனால் காதலோ நினைத்த மாத்திரத்திலேயே இன்பமும் கண்டதும் மகிழ்ச்சியும் தரும் தனிச்சிறப்பு உடையது.",
+        "en": "Wine only intoxicates when consumed, whereas love brings delight at a mere thought and pure joy at first sight.",
+        "hi": "मदिरा केवल पीने पर ही नशा देती है, किंतु प्रेम में स्मरण मात्र से आनंद और दर्शन से उल्लास मिलने का अद्भुत गुण होता है।"
+      }
+    },
+    {
+      "num": 1282,
+      "line1": "தினைத்துணையு மூடாமை வேண்டும் பனைத்துணையுங்",
+      "line2": "காம நிறைய வரின்",
+      "enLine1": "When as palmyra tall, fulness of perfect love we gain,",
+      "enLine2": "Distrust can find no place small as the millet grain.",
+      "hiLine1": "यदि आवेगा काम तो, बढ़ कर ताड़ समान ।",
+      "hiLine2": "तिल भर भी नहिं चाहिये, करना प्रिय से मान ॥",
+      "general": "பனையளவு பெரிதாகக் காமம் நிறைந்து வரும்போது, தினையளவும் ஊடல் கொள்ளாமல் இருக்க வேண்டும்.",
+      "en": "When love swells as tall and full as a palmyra tree, one should not harbor even a millet-seed's worth of sulking or distrust.",
+      "hi": "जब प्रेम ताड़ के वृक्ष के समान विशाल और पूर्ण होकर उमड़ आए, तब तिल भर भी मान (रूठना) नहीं करना चाहिए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தினைத்துணையும் <br>(Thinaiththunaiyum)",
+          "ta": "தினையளவும்",
+          "en": "Even a millet-grain's worth",
+          "hi": "तिल भर भी"
+        },
+        {
+          "no": 2,
+          "word": "ஊடாமை <br>(Oodaamai)",
+          "ta": "ஊடாமல் இருத்தல்",
+          "en": "Not sulking",
+          "hi": "मान न करना"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டும் <br>(Vendum)",
+          "ta": "வேண்டும்",
+          "en": "Is necessary",
+          "hi": "चाहिए"
+        },
+        {
+          "no": 4,
+          "word": "பனைத்துணையும் <br>(Panaiththunaiyum)",
+          "ta": "பனையளவும்",
+          "en": "As tall as a palmyra",
+          "hi": "ताड़ के समान"
+        },
+        {
+          "no": 5,
+          "word": "காமம் <br>(Kaamam)",
+          "ta": "காமம்",
+          "en": "Love",
+          "hi": "प्रेम"
+        },
+        {
+          "no": 6,
+          "word": "நிறைய <br>(Niraiya)",
+          "ta": "நிறைந்து",
+          "en": "In fullness",
+          "hi": "पूर्ण होकर"
+        },
+        {
+          "no": 7,
+          "word": "வரின் <br>(Varin)",
+          "ta": "வந்தால்",
+          "en": "If it comes",
+          "hi": "यदि आ जाए"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தினைத்துணையு மூடாமை வேண்டும் பனைத்துணையுங்",
+          "line2": "காம நிறைய வரின்"
+        },
+        "en": {
+          "line1": "When as palmyra tall, fulness of perfect love we gain,",
+          "line2": "Distrust can find no place small as the millet grain."
+        },
+        "hi": {
+          "line1": "यदि आवेगा काम तो, बढ़ कर ताड़ समान ।",
+          "line2": "तिल भर भी नहिं चाहिये, करना प्रिय से मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thinaiththunaiyu Moodaamai Vendum Panaiththunaiyung",
+            "line2": "Kaama Niraiya Varin"
+          },
+          "hi": {
+            "line1": "तिनैत्तुणैयु मूडामै वेण्डुम् पनैत्तुणैयुङ्",
+            "line2": "काम निऱैय वरिन्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "காதல் பனைமரம்போல் பெரிதாகப் பெருகி வரும்போது, தினை அளவுகூடச் சிறு பிணக்கு கொள்ளாமல் அன்பை ஏற்க வேண்டும்.",
+        "en": "When affection overflows as vast as a palmyra palm, there is no room for even a tiny grain of petty resentment.",
+        "hi": "जब प्रिय के प्रति प्रेम ताड़ के समान विशाल हो जाए, तब तिनके या तिल के बराबर भी रूठने की गुंजाइश नहीं रखनी चाहिए।"
+      }
+    },
+    {
+      "num": 1283,
+      "line1": "பேணாது பெட்பவே செய்யினுங் கொண்கனைக்",
+      "line2": "காணா தமையல கண்",
+      "enLine1": "Although, his will his only law, he lightly value me,",
+      "enLine2": "My heart knows no repose unless my lord I see.",
+      "hiLine1": "यद्यपि मनमानी करें, बिन आदर की सैन ।",
+      "hiLine2": "प्रियतम को देखे बिना, नयनों को नहिं चैन ॥",
+      "general": "என்னை மதிக்காமல் தன் விருப்பப்படியே அவர் நடந்து கொண்டாலும், என் கண்கள் தலைவரைக் காணாமல் அமைதி அடைய மாட்டா.",
+      "en": "Even if my husband disregards me and acts solely as he pleases, my eyes cannot rest without seeing him.",
+      "hi": "यद्यपि प्रियतम मेरा आदर किए बिना मनमानी ही करते रहें, फिर भी उन्हें देखे बिना मेरी आँखों को चैन नहीं मिलता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பேணாது <br>(Penaadhu)",
+          "ta": "மதிக்காமல்",
+          "en": "Without regarding",
+          "hi": "आदर किए बिना"
+        },
+        {
+          "no": 2,
+          "word": "பெட்பவே <br>(Petpave)",
+          "ta": "விரும்பியவற்றையே",
+          "en": "Only his own desires",
+          "hi": "मनमानी ही"
+        },
+        {
+          "no": 3,
+          "word": "செய்யினும் <br>(Seyyinum)",
+          "ta": "செய்தாலும்",
+          "en": "Even if he does",
+          "hi": "करें"
+        },
+        {
+          "no": 4,
+          "word": "கொண்கனை <br>(Konkanai)",
+          "ta": "தலைவனை",
+          "en": "My husband / lord",
+          "hi": "प्रियतम को"
+        },
+        {
+          "no": 5,
+          "word": "காணாது <br>(Kaanaadhu)",
+          "ta": "காணாமல்",
+          "en": "Without seeing",
+          "hi": "देखे बिना"
+        },
+        {
+          "no": 6,
+          "word": "அமையல <br>(Amaiyala)",
+          "ta": "அமையமாட்டா",
+          "en": "Will not rest",
+          "hi": "चैन नहीं पातीं"
+        },
+        {
+          "no": 7,
+          "word": "கண் <br>(Kan)",
+          "ta": "கண்கள்",
+          "en": "Eyes",
+          "hi": "नयन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பேணாது பெட்பவே செய்யினுங் கொண்கனைக்",
+          "line2": "காணா தமையல கண்"
+        },
+        "en": {
+          "line1": "Although, his will his only law, he lightly value me,",
+          "line2": "My heart knows no repose unless my lord I see."
+        },
+        "hi": {
+          "line1": "यद्यपि मनमानी करें, बिन आदर की सैन ।",
+          "line2": "प्रियतम को देखे बिना, नयनों को नहिं चैन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Penaadhu Petpave Seyyinung Konkanaik",
+            "line2": "Kaanaa Thamaiyala Kan"
+          },
+          "hi": {
+            "line1": "पेणादु पॆट्पवे सॆय्यिनुङ् कॊण्कनैक्",
+            "line2": "काणा तमैयल कण्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தலைவர் என்னைப் பொருட்படுத்தாமல் தன் இஷ்டம்போல் நடந்தாலும், அவரைப் பார்க்காமல் என் கண்கள் ஒருபோதும் நிம்மதி அடைவதில்லை.",
+        "en": "No matter how heedlessly he follows his own whims, my eyes simply cannot find peace until they see him.",
+        "hi": "चाहे प्रियतम मेरी परवाह किए बिना अपनी मनमानी करें, फिर भी उनके दर्शन के बिना इन नेत्रों को तनिक भी शांति नहीं मिलती।"
+      }
+    },
+    {
+      "num": 1284,
+      "line1": "ஊடற்கட் சென்றேன்மற் றோழி யதுமறந்து",
+      "line2": "கூடற்கட் சென்றதென் னெஞ்சு",
+      "enLine1": "My friend, I went prepared to show a cool disdain ;",
+      "enLine2": "My heart, forgetting all, could not its love restrain.",
+      "hiLine1": "गयी रूठने री सखी, करके मान-विचार ।",
+      "hiLine2": "मेरा दिल वह भूल कर, मिलने को तैयार ॥",
+      "general": "தோழியே! நான் அவரோடு ஊடல் கொள்ளச் சென்றேன்; ஆனால் என் நெஞ்சம் அந்த ஊடலை மறந்து அவரோடு கூடவே சென்றுவிட்டது.",
+      "en": "My friend, I went intending to sulk with him, yet my heart forgot all about it and rushed into reunion.",
+      "hi": "हे सखी! मैं तो मान (रूठने) का विचार करके गई थी, किंतु मेरा हृदय वह सब भूलकर उनसे मिलने के लिए तत्पर हो गया।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊடற்கண் <br>(Oodarkan)",
+          "ta": "ஊடல் கொள்ள",
+          "en": "To sulk / feign anger",
+          "hi": "रूठने के लिए"
+        },
+        {
+          "no": 2,
+          "word": "சென்றேன் <br>(Sendren)",
+          "ta": "போனேன்",
+          "en": "I went",
+          "hi": "मैं गई"
+        },
+        {
+          "no": 3,
+          "word": "மன் தோழி <br>(Man Thozhi)",
+          "ta": "தோழியே",
+          "en": "O my friend",
+          "hi": "हे सखी"
+        },
+        {
+          "no": 4,
+          "word": "அது மறந்து <br>(Adhu Marandhu)",
+          "ta": "அதை மறந்து",
+          "en": "Forgetting that",
+          "hi": "उसे भूल कर"
+        },
+        {
+          "no": 5,
+          "word": "கூடற்கண் <br>(Koodarkan)",
+          "ta": "கூடுவதற்கு",
+          "en": "To unite",
+          "hi": "मिलने को"
+        },
+        {
+          "no": 6,
+          "word": "சென்றது <br>(Sendradhu)",
+          "ta": "போய்விட்டது",
+          "en": "Went",
+          "hi": "तैयार हो गया"
+        },
+        {
+          "no": 7,
+          "word": "என் நெஞ்சு <br>(En Nenju)",
+          "ta": "என் மனம்",
+          "en": "My heart",
+          "hi": "मेरा हृदय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊடற்கட் சென்றேன்மற் றோழி யதுமறந்து",
+          "line2": "கூடற்கட் சென்றதென் னெஞ்சு"
+        },
+        "en": {
+          "line1": "My friend, I went prepared to show a cool disdain ;",
+          "line2": "My heart, forgetting all, could not its love restrain."
+        },
+        "hi": {
+          "line1": "गयी रूठने री सखी, करके मान-विचार ।",
+          "line2": "मेरा दिल वह भूल कर, मिलने को तैयार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oodarkat Senrenmar Rozhi Yadhumarandhu",
+            "line2": "Koodarkat Senradhen Nenju"
+          },
+          "hi": {
+            "line1": "ऊडऱ्कट् सॆन्देन्मऱ् ऱोऴि यदुमऱन्दु",
+            "line2": "कूडऱ्कट् सॆन्ददॆन् नॆञ्जु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தோழி, கோபம் காட்டிப் பேசலாம் என்றுதான் போனேன்; ஆனால் அவரைப் பார்த்ததும் என் மனம் கோபத்தை மறந்து அன்போடு சேர்ந்துவிட்டது.",
+        "en": "Friend, I walked up ready to give him the cold shoulder, but the moment I saw him my heart forgot the anger and melted into his embrace.",
+        "hi": "सखी, मैं रूठने का निश्चय करके गई थी, लेकिन सामने जाते ही मेरा दिल सारा मान भूलकर उनसे मिलने को व्याकुल हो गया।"
+      }
+    },
+    {
+      "num": 1285,
+      "line1": "எழுதுங்காற் கோல்காணாக் கண்ணேபோற் கொண்கன்",
+      "line2": "பழிகாணேன் கண்ட விடத்து",
+      "enLine1": "The eye sees not the rod that paints it ; nor can I",
+      "enLine2": "See any fault, when I behold my husband nigh.",
+      "hiLine1": "कूँची को नहिं देखते, यथा आंजते अक्ष ।",
+      "hiLine2": "उनकी भूल न देखती, जब हैं नाथ समक्ष ॥",
+      "general": "மையெழுதும் கோலைக் கண் காணாததுபோல, என் தலைவரை நேரில் கண்டபோது அவருடைய குற்றங்களை நான் காண்பதில்லை.",
+      "en": "Just as the eye cannot see the kohl-stick while painting it, I cannot see any fault in my husband when I see him before me.",
+      "hi": "जैसे काजल लगाते समय आँखें सलाई (कूँची) को नहीं देख पातीं, वैसे ही प्रियतम के सामने होने पर मुझे उनका कोई दोष दिखाई नहीं देता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எழுதுங்கால் <br>(Ezhudhungaal)",
+          "ta": "மையெழுதும்போது",
+          "en": "While painting (kohl)",
+          "hi": "आँजते समय"
+        },
+        {
+          "no": 2,
+          "word": "கோல் காணா <br>(Kol Kaanaa)",
+          "ta": "கோலைக் காணாத",
+          "en": "Not seeing the rod",
+          "hi": "कूँची को न देखने वाली"
+        },
+        {
+          "no": 3,
+          "word": "கண்ணே போல் <br>(Kanne Pol)",
+          "ta": "கண்ணைப் போல",
+          "en": "Like the eye",
+          "hi": "आँखों के समान"
+        },
+        {
+          "no": 4,
+          "word": "கொண்கன் <br>(Konkan)",
+          "ta": "தலைவனுடைய",
+          "en": "My husband's",
+          "hi": "प्रियतम की"
+        },
+        {
+          "no": 5,
+          "word": "பழி காணேன் <br>(Pazhi Kaanen)",
+          "ta": "குற்றத்தைக் காணேன்",
+          "en": "I see no fault",
+          "hi": "भूल न देखती"
+        },
+        {
+          "no": 6,
+          "word": "கண்ட <br>(Kanda)",
+          "ta": "பார்த்த",
+          "en": "When seen",
+          "hi": "जब देखती हूँ"
+        },
+        {
+          "no": 7,
+          "word": "இடத்து <br>(Idaththu)",
+          "ta": "போது",
+          "en": "At that moment",
+          "hi": "समक्ष होने पर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எழுதுங்காற் கோல்காணாக் கண்ணேபோற் கொண்கன்",
+          "line2": "பழிகாணேன் கண்ட விடத்து"
+        },
+        "en": {
+          "line1": "The eye sees not the rod that paints it ; nor can I",
+          "line2": "See any fault, when I behold my husband nigh."
+        },
+        "hi": {
+          "line1": "कूँची को नहिं देखते, यथा आंजते अक्ष ।",
+          "line2": "उनकी भूल न देखती, जब हैं नाथ समक्ष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ezhudhunggaar Kolkaanaak Kannebor Konkan",
+            "line2": "Pazhigaanen Kanda Vidaththu"
+          },
+          "hi": {
+            "line1": "ऎऴुदुङ्गाऱ् कोल्काणाक् कण्णेबोऱ् कॊण्कन्",
+            "line2": "पऴिगाणेन् कण्ड विडत्तु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கண்ணுக்கு மை தீட்டும் குச்சியைக் கண் பார்க்க முடியாதது போல, என் கணவர் எதிரே வந்ததும் அவர் செய்த தவறுகள் எதுவும் என் கண்ணுக்குத் தெரிவதில்லை.",
+        "en": "Just as an eye cannot see the applicator brush while kohl is being applied, all his faults vanish from my sight the moment he stands before me.",
+        "hi": "जिस प्रकार काजल आँजते समय नेत्र सलाई को नहीं देख पाते, उसी प्रकार पति के समक्ष आते ही मुझे उनकी कोई गलती नहीं दिखती।"
+      }
+    },
+    {
+      "num": 1286,
+      "line1": "காணுங்காற் காணேன் றவறாய காணாக்காற்",
+      "line2": "காணேன் றவறல் லவை",
+      "enLine1": "When him I see, to all his faults I 'm blind ;",
+      "enLine2": "But when I see him not, nothing but faults I find.",
+      "hiLine1": "जब प्रिय को मैं देखती, नहीं देखती दोष ।",
+      "hiLine2": "ना देखूँ तो देखती, कुछ न छोड़ कर दोष ॥",
+      "general": "தலைவரைக் காணும்போது அவருடைய தவறுகளைக் காணமாட்டேன்; காணாதபோது அவருடைய தவறு அல்லாதவற்றையும் தவறாகவே காண்பேன்.",
+      "en": "When I see him, I see none of his faults; when I do not see him, I see nothing but faults.",
+      "hi": "जब मैं प्रियतम को देखती हूँ तो मुझे उनका कोई दोष नहीं दिखता; और जब नहीं देखती तो गुणों में भी केवल दोष ही दोष दिखाई देते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "காணுங்கால் <br>(Kaanungaal)",
+          "ta": "காணும்போது",
+          "en": "When seeing",
+          "hi": "जब देखती हूँ"
+        },
+        {
+          "no": 2,
+          "word": "காணேன் <br>(Kaanen)",
+          "ta": "காணமாட்டேன்",
+          "en": "I do not see",
+          "hi": "नहीं देखती"
+        },
+        {
+          "no": 3,
+          "word": "தவறு ஆய <br>(Thavaru Aaya)",
+          "ta": "குற்றமானவற்றை",
+          "en": "What are faults",
+          "hi": "दोषों को"
+        },
+        {
+          "no": 4,
+          "word": "காணாக்கால் <br>(Kaanaakkaal)",
+          "ta": "காணாதபோது",
+          "en": "When not seeing",
+          "hi": "न देखने पर"
+        },
+        {
+          "no": 5,
+          "word": "காணேன் <br>(Kaanen)",
+          "ta": "காணமாட்டேன்",
+          "en": "I see nothing",
+          "hi": "नहीं देखती"
+        },
+        {
+          "no": 6,
+          "word": "தவறு அல்லவை <br>(Thavaru Allavai)",
+          "ta": "குற்றமல்லாதவற்றை",
+          "en": "Other than faults",
+          "hi": "दोष के सिवा कुछ"
+        },
+        {
+          "no": 7,
+          "word": "அவை <br>(Avai)",
+          "ta": "அவற்றை",
+          "en": "Those",
+          "hi": "सब"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "காணுங்காற் காணேன் றவறாய காணாக்காற்",
+          "line2": "காணேன் றவறல் லவை"
+        },
+        "en": {
+          "line1": "When him I see, to all his faults I 'm blind ;",
+          "line2": "But when I see him not, nothing but faults I find."
+        },
+        "hi": {
+          "line1": "जब प्रिय को मैं देखती, नहीं देखती दोष ।",
+          "line2": "ना देखूँ तो देखती, कुछ न छोड़ कर दोष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaanunggaar Kaanen Ravaraaya Kaanaakkaar",
+            "line2": "Kaanen Ravaral Lavai"
+          },
+          "hi": {
+            "line1": "काणुङ्गाऱ् काणेन् ऱवऱाय काणाक्काऱ्",
+            "line2": "काणेन् ऱवऱल् लवै"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அவர் நேரில் இருக்கும்போது எந்தக் குறையும் தெரிவதில்லை; பிரிந்திருக்கும்போதோ எல்லாமே குறையாகத்தான் தோன்றுகிறது.",
+        "en": "In his presence I am completely blind to his shortcomings, yet in his absence everything he does looks like a fault.",
+        "hi": "प्रिय के सामने रहने पर कोई गलती नजर नहीं आती, पर उनके न दिखने पर हर बात में दोष ही दिखाई देता है।"
+      }
+    },
+    {
+      "num": 1287,
+      "line1": "உய்த்த லறிந்து புனல்பாய் பவரேபோற்",
+      "line2": "பொய்த்த லறிந்தேன் புலந்து",
+      "enLine1": "As those of rescue sure, who plunge into the stream,",
+      "enLine2": "So did I anger feign, though it must falsehood seem ?",
+      "hiLine1": "कूदे यथा प्रवाह में, बाढ़ बहाती जान ।",
+      "hiLine2": "निष्फलता को जान कर, क्या हो करते मान ॥",
+      "general": "தன்னை இழுத்துச் செல்லும் என்பதை அறிந்தே வெள்ளத்தில் பாய்பவரைப் போல, என் ஊடல் பொய்த்துப்போகும் என்று அறிந்தே நான் ஊடினேன்.",
+      "en": "Like one who plunges into a rushing stream knowing it will sweep them away, I feigned anger knowing my sulking would fail.",
+      "hi": "जैसे कोई तेज बाढ़ के प्रवाह को बहा ले जाने वाला जानकर भी उसमें कूद पड़े, वैसे ही मैं भी अपने मान की निष्फलता जानकर रूठती हूँ।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உய்த்தல் <br>(Uyththal)",
+          "ta": "இழுத்துச் செல்லுதல்",
+          "en": "Sweeping away",
+          "hi": "बहा ले जाना"
+        },
+        {
+          "no": 2,
+          "word": "அறிந்து <br>(Arindhu)",
+          "ta": "தெரிந்து",
+          "en": "Knowing",
+          "hi": "जान कर"
+        },
+        {
+          "no": 3,
+          "word": "புனல் <br>(Punal)",
+          "ta": "வெள்ளத்தில்",
+          "en": "Into the stream",
+          "hi": "प्रवाह में"
+        },
+        {
+          "no": 4,
+          "word": "பாய்பவரே போல் <br>(Paaybavare Pol)",
+          "ta": "குதிப்பவரைப் போல",
+          "en": "Like those who plunge",
+          "hi": "कूदने वाले की तरह"
+        },
+        {
+          "no": 5,
+          "word": "பொய்த்தல் <br>(Poyththal)",
+          "ta": "பொய்யாதல்",
+          "en": "Failing / falsehood",
+          "hi": "निष्फलता को"
+        },
+        {
+          "no": 6,
+          "word": "அறிந்தேன் <br>(Arindhen)",
+          "ta": "அறிந்திருந்தேன்",
+          "en": "I knew",
+          "hi": "जान कर"
+        },
+        {
+          "no": 7,
+          "word": "புலந்து <br>(Pulandhu)",
+          "ta": "ஊடி",
+          "en": "Feigning anger",
+          "hi": "मान कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உய்த்த லறிந்து புனல்பாய் பவரேபோற்",
+          "line2": "பொய்த்த லறிந்தேன் புலந்து"
+        },
+        "en": {
+          "line1": "As those of rescue sure, who plunge into the stream,",
+          "line2": "So did I anger feign, though it must falsehood seem ?"
+        },
+        "hi": {
+          "line1": "कूदे यथा प्रवाह में, बाढ़ बहाती जान ।",
+          "line2": "निष्फलता को जान कर, क्या हो करते मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uyththa Larindhu Punalpaay Pavarebor",
+            "line2": "Poyththa Larindhen Pulandhu"
+          },
+          "hi": {
+            "line1": "उय्त्त लऱिन्दु पुनल्पाय् पवरेबोऱ्",
+            "line2": "पॊय्त्त लऱिन्देन् पुलन्दु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வெள்ளம் அடித்துச் செல்லும் என்று தெரிந்தே ஆற்றில் குதிப்பவரைப் போல, என் கோபம் நிலைக்காது என்று தெரிந்தும் நான் கோபித்துக்கொள்கிறேன்.",
+        "en": "Just like someone diving into a strong current knowing they will be swept away, I pretend to be angry even though I know I'll give in immediately.",
+        "hi": "बाढ़ का वेग बहा ले जाएगा यह जानकर भी उसमें कूदने वाले की तरह, मैं अपने रूठने का व्यर्थ होना जानकर भी मान करती हूँ।"
+      }
+    },
+    {
+      "num": 1288,
+      "line1": "இளித்தக்க வின்னா செயினுங் களித்தார்க்குக்",
+      "line2": "கள்ளற்றே கள்வநின் மார்பு",
+      "enLine1": "Though shameful ill it works, dear is the palm-tree wine",
+      "enLine2": "To drunkards ; traitor, so to me that breast of thine !",
+      "hiLine1": "निन्दाप्रद दुख क्यों न दे, मद्यप को ज्यों पान ।",
+      "hiLine2": "त्यों है, वंचक रे, हमें, तेरी छाती जान ॥",
+      "general": "இழிவான துன்பங்களைத் தந்தாலும் குடிகாரர்களுக்குக் கள் இனியதாக இருப்பதுபோல, கள்வனே! நீ துன்பம் தந்தாலும் உன் மார்பு எனக்கு இனியதாகவே உள்ளது.",
+      "en": "Even though palm-wine brings shameful misery, it remains dear to drunkards; so too, O deceiver, is your chest dear to me.",
+      "hi": "हे वंचक! जैसे निंदा और दुख देने पर भी मद्यप को मदिरा प्रिय लगती है, वैसे ही तेरा वक्षस्थल मुझे सर्वदा प्रिय है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இளித்தக்க <br>(Iliththakka)",
+          "ta": "இழிவான",
+          "en": "Shameful",
+          "hi": "निंदाप्रद"
+        },
+        {
+          "no": 2,
+          "word": "இன்னா <br>(Innaa)",
+          "ta": "துன்பங்களை",
+          "en": "Ills / misery",
+          "hi": "दुख"
+        },
+        {
+          "no": 3,
+          "word": "செயினும் <br>(Seyinum)",
+          "ta": "செய்தாலும்",
+          "en": "Though it works",
+          "hi": "क्यों न दे"
+        },
+        {
+          "no": 4,
+          "word": "களித்தார்க்கு <br>(Kaliththaarkku)",
+          "ta": "குடிகாரருக்கு",
+          "en": "To drunkards",
+          "hi": "मद्यप को"
+        },
+        {
+          "no": 5,
+          "word": "கள் அற்றே <br>(Kal Atre)",
+          "ta": "கள் போன்றதே",
+          "en": "Like palm-wine",
+          "hi": "मदिरा समान है"
+        },
+        {
+          "no": 6,
+          "word": "கள்வ நின் <br>(Kalva Nin)",
+          "ta": "கள்வனே உன்",
+          "en": "Traitor, thine",
+          "hi": "हे वंचक, तेरी"
+        },
+        {
+          "no": 7,
+          "word": "மார்பு <br>(Maarbu)",
+          "ta": "மார்பு",
+          "en": "Breast / chest",
+          "hi": "छाती"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இளித்தக்க வின்னா செயினுங் களித்தார்க்குக்",
+          "line2": "கள்ளற்றே கள்வநின் மார்பு"
+        },
+        "en": {
+          "line1": "Though shameful ill it works, dear is the palm-tree wine",
+          "line2": "To drunkards ; traitor, so to me that breast of thine !"
+        },
+        "hi": {
+          "line1": "निन्दाप्रद दुख क्यों न दे, मद्यप को ज्यों पान ।",
+          "line2": "त्यों है, वंचक रे, हमें, तेरी छाती जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Iliththakka Vinnaa Seyinung Kaliththaarkkuk",
+            "line2": "Kallatre Kalvanin Maarpu"
+          },
+          "hi": {
+            "line1": "इळित्तक्क विन्ना सॆयिनुङ् कळित्तार्क्कुक्",
+            "line2": "कळ्ळट्रे कळ्वनिन् मार्पु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குடிப்பவருக்குக் கள் எவ்வளவு கெடுதல் செய்தாலும் அதை விரும்புவது போல, கள்வனான உன் அன்பை எண்ணி உன் மார்பையே நான் விரும்புகிறேன்.",
+        "en": "Just as a drunkard craves wine despite the disgrace it brings, my heart still longs for your embrace even though you hurt me.",
+        "hi": "जैसे शराबी को बदनामी और दुख देने पर भी शराब प्यारी लगती है, हे छली, वैसे ही मुझे भी तुम्हारा आलिंगन प्रिय लगता है।"
+      }
+    },
+    {
+      "num": 1289,
+      "line1": "மலரினு மெல்லிது காமஞ் சிலரதன்",
+      "line2": "செவ்வி தலைப்படு வார்",
+      "enLine1": "Love is tender as an opening flower. In season due",
+      "enLine2": "To gain its perfect bliss is rapture known to few.",
+      "hiLine1": "मृदुतर हो कर सुमन से, जो रहता है काम ।",
+      "hiLine2": "बिरले जन को प्राप्त है, उसका शुभ परिणाम ॥",
+      "general": "காமம் மலரைவிட மென்மையானது; அதன் பக்குவமான செவ்வியை அறிந்து இன்பம் பெறுபவர் சிலரே.",
+      "en": "Love is more tender than a blossom; only a rare few truly know how to attain its perfect ripeness.",
+      "hi": "प्रेम पुष्प से भी अधिक कोमल होता है; उसके परिपक्व और सुंदर रूप का आनंद बहुत ही विरले लोगों को प्राप्त होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மலரினும் <br>(Malarinum)",
+          "ta": "மலரைவிடவும்",
+          "en": "Than a flower",
+          "hi": "पुष्प से भी"
+        },
+        {
+          "no": 2,
+          "word": "மெல்லிது <br>(Mellidhu)",
+          "ta": "மென்மையானது",
+          "en": "Is tender",
+          "hi": "मृदुतर है"
+        },
+        {
+          "no": 3,
+          "word": "காமம் <br>(Kaamam)",
+          "ta": "காமம்",
+          "en": "Love",
+          "hi": "काम (प्रेम)"
+        },
+        {
+          "no": 4,
+          "word": "சிலர் <br>(Silar)",
+          "ta": "சிலரே",
+          "en": "Few",
+          "hi": "बिरले जन"
+        },
+        {
+          "no": 5,
+          "word": "அதன் <br>(Adhan)",
+          "ta": "அதனுடைய",
+          "en": "Its",
+          "hi": "उसका"
+        },
+        {
+          "no": 6,
+          "word": "செவ்வி <br>(Sevvi)",
+          "ta": "பக்குவத்தை",
+          "en": "Right season / grace",
+          "hi": "शुभ परिणाम"
+        },
+        {
+          "no": 7,
+          "word": "தலைப்படுவார் <br>(Thalaippaduvaar)",
+          "ta": "அடைவார்கள்",
+          "en": "Will attain",
+          "hi": "प्राप्त करते हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மலரினு மெல்லிது காமஞ் சிலரதன்",
+          "line2": "செவ்வி தலைப்படு வார்"
+        },
+        "en": {
+          "line1": "Love is tender as an opening flower. In season due",
+          "line2": "To gain its perfect bliss is rapture known to few."
+        },
+        "hi": {
+          "line1": "मृदुतर हो कर सुमन से, जो रहता है काम ।",
+          "line2": "बिरले जन को प्राप्त है, उसका शुभ परिणाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Malarinu Mellidhu Kaamany Silaradhan",
+            "line2": "Sevvi Thalaippadu Vaar"
+          },
+          "hi": {
+            "line1": "मलरिनु मॆल्लिदु कामञ् सिलरदन्",
+            "line2": "सॆव्वि तलैप्पडु वार्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "காதல் பூவைவிட மென்மையான உணர்வு; அதைக் கவனமாகப் போற்றி அதன் முழு இன்பத்தையும் அனுபவிக்கத் தெரிந்தவர்கள் மிகச் சிலரே.",
+        "en": "Love is more delicate than a petal, and very few people possess the grace to experience its fullest, ripest joy.",
+        "hi": "प्रेम फूल से भी ज्यादा नाजुक होता है; इसकी सही भावना को समझकर इसका सुख पाने वाले बहुत कम लोग होते हैं।"
+      }
+    },
+    {
+      "num": 1290,
+      "line1": "கண்ணிற் றுனித்தே கலங்கினாள் புல்லுத",
+      "line2": "லென்னினுந் தான்விதுப் புற்று",
+      "enLine1": "Her eye, as I drew nigh one day, with anger shone ;",
+      "enLine2": "By love o'erpowered, her tenderness surpassed my own.",
+      "hiLine1": "उत्कंठित मुझसे अधिक, रही मिलन हित बाल ।",
+      "hiLine2": "मान दिखा कर नयन से, गले लगी तत्काल ॥",
+      "general": "கண்களால் மட்டும் கோபம் காட்டிப் பின் என்னைத் தழுவுவதில் என்னைவிடத் தானே அதிக ஆவல் கொண்டு மனம் நெகிழ்ந்தாள்.",
+      "en": "Though her eyes first flashed with feigned anger, she was soon overcome with greater eagerness for my embrace than even I was.",
+      "hi": "पहले तो उसने नेत्रों से थोड़ा मान दिखाया, किंतु मिलन के लिए मुझसे भी अधिक उत्कंठित होकर वह तुरंत गले लग गई।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கண்ணின் <br>(Kannin)",
+          "ta": "கண்களால்",
+          "en": "In her eye",
+          "hi": "नयन से"
+        },
+        {
+          "no": 2,
+          "word": "துனித்தே <br>(Thuniththe)",
+          "ta": "கோபம் காட்டி",
+          "en": "Showing anger",
+          "hi": "मान दिखा कर"
+        },
+        {
+          "no": 3,
+          "word": "கலங்கினாள் <br>(Kalanginaal)",
+          "ta": "நெகிழ்ந்தாள்",
+          "en": "She melted / stirred",
+          "hi": "व्याकुल हुई"
+        },
+        {
+          "no": 4,
+          "word": "புல்லுதல் <br>(Pulludhal)",
+          "ta": "தழுவுவதில்",
+          "en": "In embracing",
+          "hi": "गले लगने में"
+        },
+        {
+          "no": 5,
+          "word": "என்னினும் <br>(Enninum)",
+          "ta": "என்னைவிடவும்",
+          "en": "More than me",
+          "hi": "मुझसे अधिक"
+        },
+        {
+          "no": 6,
+          "word": "தான் <br>(Thaan)",
+          "ta": "தானே",
+          "en": "Herself",
+          "hi": "स्वयं"
+        },
+        {
+          "no": 7,
+          "word": "விதுப்புற்று <br>(Vidhupputru)",
+          "ta": "மிகவும் ஆவல் கொண்டு",
+          "en": "Being eager",
+          "hi": "उत्कंठित होकर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கண்ணிற் றுனித்தே கலங்கினாள் புல்லுத",
+          "line2": "லென்னினுந் தான்விதுப் புற்று"
+        },
+        "en": {
+          "line1": "Her eye, as I drew nigh one day, with anger shone ;",
+          "line2": "By love o'erpowered, her tenderness surpassed my own."
+        },
+        "hi": {
+          "line1": "उत्कंठित मुझसे अधिक, रही मिलन हित बाल ।",
+          "line2": "मान दिखा कर नयन से, गले लगी तत्काल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kannir Runiththe Kalangginaal Pulludha",
+            "line2": "Lenninun Thaanvidhup Putru"
+          },
+          "hi": {
+            "line1": "कण्णिऱ् ऱुनित्ते कलङ्गिनाळ् पुल्लुद",
+            "line2": "लॆन्निनुन् तान्विदुप् पुट्रु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அவள் பார்வையில் மட்டும் கோபம் காட்டினாள்; ஆனால் என்னைக் கட்டித் தழுவுவதில் என்னைவிட அவளுக்கே அதிக ஆவல் இருந்தது.",
+        "en": "Her eyes briefly showed a flash of pique, yet she melted and rushed into my arms with even more longing than I felt.",
+        "hi": "उसने आँखों से तो थोड़ी नाराजगी दिखाई, लेकिन गले मिलने की आतुरता मुझसे भी ज्यादा दिखाते हुए तुरंत लिपट गई।"
+      }
+    }
+  ]
+}

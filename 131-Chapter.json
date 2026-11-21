@@ -1,0 +1,930 @@
+{
+  "chapterNum": 131,
+  "nameTa": "புலவி",
+  "nameEn": "Pouting",
+  "nameHi": "मान",
+  "paal": "காமத்துப்பால்",
+  "iyal": "கற்பியல்",
+  "kurals": [
+    {
+      "num": 1301,
+      "line1": "புல்லா திராஅப் புலத்தை யவருறு",
+      "line2": "மல்லனோய் காண்கஞ் சிறிது",
+      "enLine1": "Be still reserved, decline his proferred love ;",
+      "enLine2": "A little while his sore distress we 'll prove.",
+      "hiLine1": "आलिंगन करना नहीं, ठहरो करके मान ।",
+      "hiLine2": "देखें हम उनको ज़रा, सहते ताप अमान ॥",
+      "general": "(தோழி தலைவியிடம்) அவரைத் தழுவாமல் சற்று நேரம் ஊடியிருப்பாயாக; அதனால் அவர் அடையும் துயரத்தைக் கொஞ்சம் பார்ப்போம்.",
+      "en": "Hold back from his embrace and keep up your pouting; let us watch for a little while the distress he endures.",
+      "hi": "(सखी कहती है) अभी आलिंगन मत करो, थोड़ा मान करके रुकी रहो; जरा देखें तो सही कि वे इस मान के दुख को कैसे सहते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "புல்லாது <br>(Pullaaadhu)",
+          "ta": "தழுவாமல்",
+          "en": "Without embracing",
+          "hi": "आलिंगन न करके"
+        },
+        {
+          "no": 2,
+          "word": "இராஅப் புலத்தை <br>(Iraaap Pulaththai)",
+          "ta": "இருந்து ஊடுவாயாக",
+          "en": "Stay pouting",
+          "hi": "ठहरो मान करके"
+        },
+        {
+          "no": 3,
+          "word": "அவர் <br>(Avar)",
+          "ta": "அவர்",
+          "en": "He",
+          "hi": "उनको"
+        },
+        {
+          "no": 4,
+          "word": "உறும் <br>(Urum)",
+          "ta": "அடையும்",
+          "en": "Suffers",
+          "hi": "सहते हुए"
+        },
+        {
+          "no": 5,
+          "word": "அல்லல் நோய் <br>(Allal Noy)",
+          "ta": "துன்ப நோயை",
+          "en": "Sore distress",
+          "hi": "ताप-दुख"
+        },
+        {
+          "no": 6,
+          "word": "காண்கம் <br>(Kaangam)",
+          "ta": "பார்ப்போம்",
+          "en": "Let us see",
+          "hi": "देखें हम"
+        },
+        {
+          "no": 7,
+          "word": "சிறிது <br>(Siridhu)",
+          "ta": "கொஞ்ச நேரம்",
+          "en": "A little while",
+          "hi": "ज़रा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புல்லா திராஅப் புலத்தை யவருறு",
+          "line2": "மல்லனோய் காண்கஞ் சிறிது"
+        },
+        "en": {
+          "line1": "Be still reserved, decline his proferred love ;",
+          "line2": "A little while his sore distress we 'll prove."
+        },
+        "hi": {
+          "line1": "आलिंगन करना नहीं, ठहरो करके मान ।",
+          "line2": "देखें हम उनको ज़रा, सहते ताप अमान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pullaa Thiraaap Pulaththai Yavaruru",
+            "line2": "Mallanoy Kaankany Siridhu"
+          },
+          "hi": {
+            "line1": "पुल्ला तिराअप् पुलत्तै यवरुऱु",
+            "line2": "मल्लनोय् काण्कञ् सिऱिदु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தோழி சொல்கிறாள்: உடனே அவரிடம் போய்க் கட்டித் தழுவாதே; கொஞ்ச நேரம் கோபமாக இருந்து அவர் படும் பாட்டைப் பார்ப்போம்.",
+        "en": "Her friend advises: Keep your distance and don't embrace him yet—let's see him squirm a little in longing.",
+        "hi": "सखी कहती है: अभी गले मत लगो, थोड़ा रूठकर ठहरो; जरा देखें कि तुम्हारे रूठने से वे कितना तड़पते हैं।"
+      }
+    },
+    {
+      "num": 1302,
+      "line1": "உப்பமைந்த தற்றாற் புலவி யதுசிறிது",
+      "line2": "மிக்கற்றா னீள விடல்",
+      "enLine1": "A cool reserve is like the salt that seasons well the mess,",
+      "enLine2": "Too long maintained, 'tis like the salt's excess.",
+      "hiLine1": "ज्यों भोजन में नमक हो, प्रणय-कलह त्यों जान ।",
+      "hiLine2": "ज़रा बढ़ाओ तो उसे, ज्यादा नमक समान ॥",
+      "general": "ஊடல் என்பது உணவில் அளவாக இடப்பட்ட உப்புப் போன்றது; அதனை அளவுக்கு மீறி நீட்டிக்க விடுவது உப்பு அதிகமானது போன்றதாகும்.",
+      "en": "Pouting is like the right pinch of salt that flavors a dish; letting it drag on too long is like adding too much salt.",
+      "hi": "प्रणय-कलह (मान) को भोजन में ठीक मात्रा के नमक के समान समझो; यदि उसे थोड़ा भी अधिक बढ़ा दो, तो वह ज्यादा नमक के समान अरुचिकर हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உப்பு அமைந்தற்று <br>(Uppu Amaindhatru)",
+          "ta": "உப்பு அளவானது போன்றது",
+          "en": "Like well-seasoned salt",
+          "hi": "भोजन में नमक जैसा"
+        },
+        {
+          "no": 2,
+          "word": "ஆல் <br>(Aal)",
+          "ta": "ஆகும்",
+          "en": "Indeed",
+          "hi": "जानो"
+        },
+        {
+          "no": 3,
+          "word": "புலவி <br>(Pulavi)",
+          "ta": "ஊடல்",
+          "en": "Pouting",
+          "hi": "प्रणय-कलह"
+        },
+        {
+          "no": 4,
+          "word": "அது சிறிது <br>(Adhu Siridhu)",
+          "ta": "அது கொஞ்சம்",
+          "en": "That a little",
+          "hi": "उसे ज़रा"
+        },
+        {
+          "no": 5,
+          "word": "மிக்கற்று ஆல் <br>(Mikkatru Aal)",
+          "ta": "மிகுந்தது போன்றது",
+          "en": "Like excess",
+          "hi": "ज्यादा नमक समान"
+        },
+        {
+          "no": 6,
+          "word": "நீள <br>(Neela)",
+          "ta": "நீடிக்க",
+          "en": "To prolong",
+          "hi": "बढ़ाना"
+        },
+        {
+          "no": 7,
+          "word": "விடல் <br>(Vidal)",
+          "ta": "விடுதல்",
+          "en": "Leaving it",
+          "hi": "करना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உப்பமைந்த தற்றாற் புலவி யதுசிறிது",
+          "line2": "மிக்கற்றா னீள விடல்"
+        },
+        "en": {
+          "line1": "A cool reserve is like the salt that seasons well the mess,",
+          "line2": "Too long maintained, 'tis like the salt's excess."
+        },
+        "hi": {
+          "line1": "ज्यों भोजन में नमक हो, प्रणय-कलह त्यों जान ।",
+          "line2": "ज़रा बढ़ाओ तो उसे, ज्यादा नमक समान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uppamaindha Thatraar Pulavi Yadhusiridhu",
+            "line2": "Mikkatraa Neela Vidal"
+          },
+          "hi": {
+            "line1": "उप्पमैन्द तट्राऱ् पुलवि यदुसिऱिदु",
+            "line2": "मिक्कट्रा नीळ विडल्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சிறிய அளவில் ஊடல் இருப்பது சாப்பாட்டில் உப்புப் போடுவதுபோல் சுவை தரும்; ஆனால் அதுவே அதிகமானால் உப்பு கரிப்பதுபோல் ஆகிவிடும்.",
+        "en": "A touch of pouting seasons love like salt in food, but dragging it out ruins the whole thing like oversalting a meal.",
+        "hi": "थोड़ा-सा रूठना भोजन में संतुलित नमक की तरह स्वाद बढ़ाता है, पर ज्यादा देर तक रूठे रहना अधिक नमक की तरह बेस्वाद कर देता है।"
+      }
+    },
+    {
+      "num": 1303,
+      "line1": "அலந்தாரை யல்லனோய் செய்தற்றாற் றம்மைப்",
+      "line2": "புலந்தாரைப் புல்லா விடல்",
+      "enLine1": "'Tis heaping griefs on those whose hearts are grieved ;",
+      "enLine2": "To leave the grieving one without a fond embrace.",
+      "hiLine1": "अगर मना कर ना मिलो, जो करती है मान ।",
+      "hiLine2": "तो वह, दुखिया को यथा, देना दुख महान ॥",
+      "general": "தம்மோடு ஊடியவரைத் தழுவிச் சமாதானம் செய்யாமல் விடுவது, ஏற்கனவே துன்பத்தால் வருந்தியவரை மேலும் துன்புறுத்துவது போன்றதாகும்.",
+      "en": "To leave a pouting lover unembraced is like heaping fresh sorrow on someone who is already grieving.",
+      "hi": "जो प्रियतमा मान करके बैठी है, उसे मनाकर गले न लगाना तो मानो पहले से ही दुखी व्यक्ति को और अधिक दुख देने जैसा है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அலந்தாரை <br>(Alandhaarai)",
+          "ta": "வருந்தினவரை",
+          "en": "Those who are grieved",
+          "hi": "दुखिया को"
+        },
+        {
+          "no": 2,
+          "word": "அல்லல் நோய் <br>(Allal Noy)",
+          "ta": "துன்ப நோயை",
+          "en": "Sore grief",
+          "hi": "महान दुख"
+        },
+        {
+          "no": 3,
+          "word": "செய்தற்று <br>(Seydhatru)",
+          "ta": "செய்தது போன்றது",
+          "en": "Like inflicting",
+          "hi": "देने जैसा"
+        },
+        {
+          "no": 4,
+          "word": "தம்மை <br>(Thammai)",
+          "ta": "தம்மோடு",
+          "en": "With oneself",
+          "hi": "जो स्वयं से"
+        },
+        {
+          "no": 5,
+          "word": "புலந்தாரை <br>(Pulandhaarai)",
+          "ta": "ஊடியவரை",
+          "en": "The pouting one",
+          "hi": "मान करती है"
+        },
+        {
+          "no": 6,
+          "word": "புல்லா <br>(Pullaa)",
+          "ta": "தழுவாமல்",
+          "en": "Without embracing",
+          "hi": "न मिलकर"
+        },
+        {
+          "no": 7,
+          "word": "விடல் <br>(Vidal)",
+          "ta": "விடுதல்",
+          "en": "Leaving",
+          "hi": "छोड़ देना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அலந்தாரை யல்லனோய் செய்தற்றாற் றம்மைப்",
+          "line2": "புலந்தாரைப் புல்லா விடல்"
+        },
+        "en": {
+          "line1": "'Tis heaping griefs on those whose hearts are grieved ;",
+          "line2": "To leave the grieving one without a fond embrace."
+        },
+        "hi": {
+          "line1": "अगर मना कर ना मिलो, जो करती है मान ।",
+          "line2": "तो वह, दुखिया को यथा, देना दुख महान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Alandhaarai Yallanoy Seythatraar Rammaip",
+            "line2": "Pulandhaaraip Pullaa Vidal"
+          },
+          "hi": {
+            "line1": "अलन्दारै यल्लनोय् सॆय्तट्राऱ् ऱम्मैप्",
+            "line2": "पुलन्दारैप् पुल्ला विडल्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கோபமாக இருப்பவரைக் கட்டி அணைத்துச் சமாதானப்படுத்தாமல் விட்டுவிடுவது, ஏற்கனவே கஷ்டப்படுபவருக்கு மேலும் கஷ்டம் கொடுப்பது போன்றது.",
+        "en": "Refusing to comfort and embrace a lover who is sulking is just adding pain to someone who is already hurting.",
+        "hi": "रूठी हुई प्रिया को मनाकर गले न लगाना, पहले से ही दुखी व्यक्ति को और बड़ा दुख देने के बराबर है।"
+      }
+    },
+    {
+      "num": 1304,
+      "line1": "ஊடி யவரை யுணர்த்தாமை வாடிய",
+      "line2": "வள்ளி முதலரிந் தற்று",
+      "enLine1": "To use no kind conciliating art when lover grieves,",
+      "enLine2": "Is cutting out the root of tender winding plant that droops.",
+      "hiLine1": "उसे मनाया यदि नहीं, जो कर बैठी मान ।",
+      "hiLine2": "सूखी वल्ली का यथा, मूल काटना जान ॥",
+      "general": "ஊடல் கொண்டவரைத் தகுந்தவாறு பேசிச் சமாதானம் செய்யாமல் இருப்பது, வாடிப்போன பூங்கொடியின் வேரை அறுத்துவிடுவது போன்றதாகும்.",
+      "en": "Failing to soothe a lover who is pouting is like cutting the very root of a drooping creeper.",
+      "hi": "जो मान करके बैठी है उसे न मनाना तो मानो पहले से मुरझाई हुई लता की जड़ ही काट देने के समान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊடியவரை <br>(Oodiyavarai)",
+          "ta": "ஊடியவரை",
+          "en": "One who pouts",
+          "hi": "मान करने वाली को"
+        },
+        {
+          "no": 2,
+          "word": "உணர்த்தாமை <br>(Unarththaamai)",
+          "ta": "சமாதானம் செய்யாமை",
+          "en": "Not conciliating",
+          "hi": "न मनाना"
+        },
+        {
+          "no": 3,
+          "word": "வாடிய <br>(Vaadiya)",
+          "ta": "வாடிய",
+          "en": "Drooping / withered",
+          "hi": "सूखी"
+        },
+        {
+          "no": 4,
+          "word": "வள்ளி <br>(Valli)",
+          "ta": "கொடியின்",
+          "en": "Creeper's",
+          "hi": "लता की"
+        },
+        {
+          "no": 5,
+          "word": "முதல் <br>(Mudhal)",
+          "ta": "வேரை",
+          "en": "Root",
+          "hi": "जड़"
+        },
+        {
+          "no": 6,
+          "word": "அரிந்து <br>(Arindhu)",
+          "ta": "அறுத்தது",
+          "en": "Cutting",
+          "hi": "काटना"
+        },
+        {
+          "no": 7,
+          "word": "அற்று <br>(Atru)",
+          "ta": "போன்றது",
+          "en": "Is like",
+          "hi": "समान जानो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊடி யவரை யுணர்த்தாமை வாடிய",
+          "line2": "வள்ளி முதலரிந் தற்று"
+        },
+        "en": {
+          "line1": "To use no kind conciliating art when lover grieves,",
+          "line2": "Is cutting out the root of tender winding plant that droops."
+        },
+        "hi": {
+          "line1": "उसे मनाया यदि नहीं, जो कर बैठी मान ।",
+          "line2": "सूखी वल्ली का यथा, मूल काटना जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oodi Yavarai Yunarththaamai Vaadiya",
+            "line2": "Valli Mudhalarin Thatru"
+          },
+          "hi": {
+            "line1": "ऊडि यवरै युणर्त्तामै वाडिय",
+            "line2": "वळ्ळि मुदलरिन् तट्रु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கோபித்துக்கொண்டு வாடியிருக்கும் காதலியைச் சமாதானப்படுத்தாமல் விடுவது, வாடிய கொடியின் வேரை வெட்டுவதைப் போன்றது.",
+        "en": "Ignoring a pouting partner instead of gently winning her back is like severing the root of a wilting vine.",
+        "hi": "रूठी हुई प्रिया को न मनाना, मुरझाई हुई बेल की जड़ काट देने जैसा है।"
+      }
+    },
+    {
+      "num": 1305,
+      "line1": "நலத்தகை நல்லவர்க் கேஎர் புலத்தகை",
+      "line2": "பூவன்ன கண்ணா ரகத்து",
+      "enLine1": "Even to men of good and worthy mind, the petulance",
+      "enLine2": "Of wives with flowery eyes lacks not a lovely grace.",
+      "hiLine1": "कुसुम-नेत्रयुत प्रियतमा, रूठे अगर यथेष्ट ।",
+      "hiLine2": "शोभा देती सुजन को, जिनके गुण हैं श्रेष्ठ ॥",
+      "general": "மலர் போன்ற கண்களை உடைய மனைவியரின் ஊடல், நல்ல பண்புகள் நிறைந்த கணவர்களுக்கும் அழகையே தரும்.",
+      "en": "Even to worthy, noble-hearted men, the petulant pouting of their flower-eyed wives holds a charming grace.",
+      "hi": "कमल-नयनी प्रियतमा का प्रेमपूर्ण मान उन श्रेष्ठ और सद्गुणी पुरुषों को भी अत्यंत शोभा देता है (अर्थात उन्हें भी प्रिय लगता है)।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நலத்தகை <br>(Nalaththagai)",
+          "ta": "நற்பண்புள்ள",
+          "en": "Of worthy grace",
+          "hi": "श्रेष्ठ गुण वाले"
+        },
+        {
+          "no": 2,
+          "word": "நல்லவர்க்கு <br>(Nallavarkku)",
+          "ta": "நல்லவர்களுக்கும்",
+          "en": "To good men",
+          "hi": "सुजन को"
+        },
+        {
+          "no": 3,
+          "word": "ஏஎர் <br>(Eer)",
+          "ta": "அழகாகும்",
+          "en": "Is a grace",
+          "hi": "शोभा देती है"
+        },
+        {
+          "no": 4,
+          "word": "புலத்தகை <br>(Pulatththagai)",
+          "ta": "ஊடல் தன்மை",
+          "en": "Nature of pouting",
+          "hi": "रूठने का भाव"
+        },
+        {
+          "no": 5,
+          "word": "பூவன்ன <br>(Poovanna)",
+          "ta": "பூவைப் போன்ற",
+          "en": "Flower-like",
+          "hi": "कुसुम समान"
+        },
+        {
+          "no": 6,
+          "word": "கண்ணார் <br>(Kannaar)",
+          "ta": "கண்களை உடையவரின்",
+          "en": "Of those with eyes",
+          "hi": "नेत्रयुत प्रियतमा के"
+        },
+        {
+          "no": 7,
+          "word": "அகத்து <br>(Agaththu)",
+          "ta": "நெஞ்சில்",
+          "en": "In the heart",
+          "hi": "हृदय में"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நலத்தகை நல்லவர்க் கேஎர் புலத்தகை",
+          "line2": "பூவன்ன கண்ணா ரகத்து"
+        },
+        "en": {
+          "line1": "Even to men of good and worthy mind, the petulance",
+          "line2": "Of wives with flowery eyes lacks not a lovely grace."
+        },
+        "hi": {
+          "line1": "कुसुम-नेत्रयुत प्रियतमा, रूठे अगर यथेष्ट ।",
+          "line2": "शोभा देती सुजन को, जिनके गुण हैं श्रेष्ठ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nalaththagai Nallavark Keer Pulaththagai",
+            "line2": "Poovanna Kannaa Ragaththu"
+          },
+          "hi": {
+            "line1": "नलत्तगै नल्लवर्क् केऎर् पुलत्तगै",
+            "line2": "पूवन्न कण्णा रगत्तु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மலர் போன்ற கண்களையுடைய மனைவி கொள்ளும் செல்லக் கோபம், நல்ல பண்புள்ள ஆண்களுக்கும் அழகாகவும் இனிமையாகவுமே இருக்கும்.",
+        "en": "Even for the most dignified men, a little playful pouting from their flower-eyed beloved has an irresistible charm.",
+        "hi": "फूल जैसे नेत्रों वाली प्रियतमा का थोड़ा रूठना सज्जन और गुणी पुरुषों को भी बहुत भाता और शोभा देता है।"
+      }
+    },
+    {
+      "num": 1306,
+      "line1": "துனியும் புலவியு மில்லாயிற் காமங்",
+      "line2": "கனியுங் கருக்காயு மற்று",
+      "enLine1": "Love without hatred is as ripened fruit ;",
+      "enLine2": "Without some lesser strife, fruit immature.",
+      "hiLine1": "प्रणय-कलह यदि नहिं हुआ, और न थोड़ा मान ।",
+      "hiLine2": "कच्चा या अति पक्व सम, काम-भोग-फल जान ॥",
+      "general": "சிறு கோபமும் ஊடலும் இல்லையானால், காமம் மிகக் கனிந்து குழைந்த பழம் போன்றும், முற்றாத இளங்காய் போன்றும் சுவையற்றதாகிவிடும்.",
+      "en": "Without occasional sulking and pouting, love becomes tasteless—like fruit that is either overripe or unripe.",
+      "hi": "यदि प्रेम में थोड़ा मान और प्रणय-कलह न हो, तो काम-भोग का फल कच्चे या अत्यधिक पके हुए (पिलपिले) फल के समान बेस्वाद हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "துனியும் <br>(Thuniyum)",
+          "ta": "சிறு கோபமும்",
+          "en": "Longer sulk also",
+          "hi": "प्रणय-कलह"
+        },
+        {
+          "no": 2,
+          "word": "புலவியும் <br>(Pulaviyum)",
+          "ta": "ஊடலும்",
+          "en": "Pouting also",
+          "hi": "थोड़ा मान"
+        },
+        {
+          "no": 3,
+          "word": "இல்லாயின் <br>(Illaayin)",
+          "ta": "இல்லையானால்",
+          "en": "If absent",
+          "hi": "यदि न हो"
+        },
+        {
+          "no": 4,
+          "word": "காமம் <br>(Kaamam)",
+          "ta": "காமம்",
+          "en": "Love",
+          "hi": "काम-भोग"
+        },
+        {
+          "no": 5,
+          "word": "கனியும் <br>(Kaniyum)",
+          "ta": "மிகக் கனிந்த பழமும்",
+          "en": "Overripe fruit",
+          "hi": "अति पक्व फल"
+        },
+        {
+          "no": 6,
+          "word": "கருக்காயும் <br>(Karukkaayum)",
+          "ta": "இளங்காயும்",
+          "en": "Unripe fruit",
+          "hi": "कच्चा फल"
+        },
+        {
+          "no": 7,
+          "word": "அற்று <br>(Atru)",
+          "ta": "போன்றது",
+          "en": "Is like",
+          "hi": "समान जानो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "துனியும் புலவியு மில்லாயிற் காமங்",
+          "line2": "கனியுங் கருக்காயு மற்று"
+        },
+        "en": {
+          "line1": "Love without hatred is as ripened fruit ;",
+          "line2": "Without some lesser strife, fruit immature."
+        },
+        "hi": {
+          "line1": "प्रणय-कलह यदि नहिं हुआ, और न थोड़ा मान ।",
+          "line2": "कच्चा या अति पक्व सम, काम-भोग-फल जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thuniyum Pulaviyu Millaayir Kaamang",
+            "line2": "Kaniyung Karukkaayu Matru"
+          },
+          "hi": {
+            "line1": "तुनियुम् पुलवियु मिल्लायिऱ् कामङ्",
+            "line2": "कनियुङ् करुक्कायु मट्रु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சின்னச் சின்ன கோபமும் ஊடலும் இல்லாத காதல், அதிகம் பழுத்து அழுகிய பழம் போலவோ அல்லது பழுக்காத காய் போலவோ சுவை இல்லாமல் போய்விடும்.",
+        "en": "Love without any playful tiffs or pouting loses its flavor, just like fruit that is either rock-hard unripe or mushy overripe.",
+        "hi": "यदि प्रेम में थोड़ी नोक-झोंक और रूठना-मनाना न हो, तो उसका स्वाद कच्चे या गले हुए फल की तरह फीका पड़ जाता है।"
+      }
+    },
+    {
+      "num": 1307,
+      "line1": "ஊடலி னுண்டாங் கோர்துன்பம் புணர்வது",
+      "line2": "நீடுவ தன்றுகொ லென்று",
+      "enLine1": "A lovers' quarrel brings its pain, when mind afraid",
+      "enLine2": "Asks doubtful, ' Will reunion sweet be long delayed ? '",
+      "hiLine1": "‘क्या न बढ़ेगा मिलन-सुख’, यों है शंका-भाव ।",
+      "hiLine2": "प्रणय-कलह में इसलिये, रहता दुखद स्वभाव ॥",
+      "general": "கூடுவது இன்னும் தாமதமாகுமோ என்ற ஐயத்தால், ஊடலிலும் ஒருவிதத் துன்பம் உண்டாகும்.",
+      "en": "Even within a lovers' quarrel there is an anxious ache, wondering, 'Will our sweet reunion be delayed?'",
+      "hi": "प्रणय-कलह में भी यह शंका बनी रहती है कि 'कहीं मिलन होने में देर न हो जाए'; इसी कारण मान में भी थोड़ा दुखद भाव रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊடலின் <br>(Oodalin)",
+          "ta": "ஊடலில்",
+          "en": "In pouting",
+          "hi": "प्रणय-कलह में"
+        },
+        {
+          "no": 2,
+          "word": "உண்டாம் <br>(Undaam)",
+          "ta": "உண்டாகும்",
+          "en": "Arises",
+          "hi": "रहता है"
+        },
+        {
+          "no": 3,
+          "word": "ஓர் துன்பம் <br>(Or Thunbam)",
+          "ta": "ஒரு துன்பம்",
+          "en": "A certain pain",
+          "hi": "दुखद स्वभाव"
+        },
+        {
+          "no": 4,
+          "word": "புணர்வது <br>(Punarvadhu)",
+          "ta": "கூடுவது",
+          "en": "Reunion",
+          "hi": "मिलन-सुख"
+        },
+        {
+          "no": 5,
+          "word": "நீடுவது <br>(NeeduVadhu)",
+          "ta": "தாமதமாவது",
+          "en": "Being delayed",
+          "hi": "बढ़ना / देर होना"
+        },
+        {
+          "no": 6,
+          "word": "அன்று கொல் <br>(Andru Kol)",
+          "ta": "அல்லவோ",
+          "en": "Will it not be",
+          "hi": "क्या न होगा"
+        },
+        {
+          "no": 7,
+          "word": "என்று <br>(Endru)",
+          "ta": "என்று",
+          "en": "Thinking thus",
+          "hi": "यों शंका से"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊடலி னுண்டாங் கோர்துன்பம் புணர்வது",
+          "line2": "நீடுவ தன்றுகொ லென்று"
+        },
+        "en": {
+          "line1": "A lovers' quarrel brings its pain, when mind afraid",
+          "line2": "Asks doubtful, ' Will reunion sweet be long delayed ? '"
+        },
+        "hi": {
+          "line1": "‘क्या न बढ़ेगा मिलन-सुख’, यों है शंका-भाव ।",
+          "line2": "प्रणय-कलह में इसलिये, रहता दुखद स्वभाव ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oodali Nundaang Korthunpam Punarvadhu",
+            "line2": "Needuva Thanrugo Lenru"
+          },
+          "hi": {
+            "line1": "ऊडलि नुण्डाङ् कोर्तुन्पम् पुणर्वदु",
+            "line2": "नीडुव तन्दुगॊ लॆन्दु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஊடல் இனிமையானதுதான் என்றாலும், சேருவதற்கு இன்னும் நேரம் நீடிக்குமோ என்ற தயக்கத்தால் அதிலும் ஒரு சிறிய மனக்கஷ்டம் ஏற்படும்.",
+        "en": "Even playful pouting carries a quiet pang of worry: 'What if making up takes longer than we thought?'",
+        "hi": "रूठने-मनाने में भी मन में यह चिंता बनी रहती है कि कहीं मिलन में देरी न हो जाए, जिससे एक हल्का-सा दुख भी रहता है।"
+      }
+    },
+    {
+      "num": 1308,
+      "line1": "நோத லெவன்மற்று நொத்தாரென் றஃதறியுங்",
+      "line2": "காதல ரில்லா வழி",
+      "enLine1": "What good can grieving do, when none who love",
+      "enLine2": "Are there to know the grief thy soul endures ?",
+      "hiLine1": "‘पीड़ित है’ यों समझती, प्रिया नहीं रह जाय ।",
+      "hiLine2": "तो सहने से वेदना, क्या ही फल हो जाय ॥",
+      "general": "நாம் வருந்துவதை உணர்ந்துகொள்ளும் அன்புள்ளவர் இல்லாதபோது, நாம் வருந்துவதால் என்ன பயன் இருக்கப் போகிறது?",
+      "en": "What is the use of grieving when there is no loving partner present to sense and feel that pain?",
+      "hi": "जब यह समझने वाली प्रिया ही पास न हो कि 'ये दुखी हैं', तो फिर इस विरह-वेदना को सहने से क्या लाभ होगा?",
+      "words": [
+        {
+          "no": 1,
+          "word": "நோதல் <br>(Nodhal)",
+          "ta": "வருந்துதல்",
+          "en": "Grieving",
+          "hi": "वेदना सहना"
+        },
+        {
+          "no": 2,
+          "word": "எவன் மற்று <br>(Evan Matru)",
+          "ta": "என்ன பயன்",
+          "en": "What good",
+          "hi": "क्या फल"
+        },
+        {
+          "no": 3,
+          "word": "நொத்தார் என்று <br>(Noththaar Endru)",
+          "ta": "வருந்தினார் என்று",
+          "en": "That one grieved",
+          "hi": "पीड़ित है यों"
+        },
+        {
+          "no": 4,
+          "word": "அஃது அறியும் <br>(Ahdhu Ariyum)",
+          "ta": "அதை உணரும்",
+          "en": "Who knows that",
+          "hi": "समझने वाली"
+        },
+        {
+          "no": 5,
+          "word": "காதலர் <br>(Kaadhalar)",
+          "ta": "காதலர்",
+          "en": "Loving one",
+          "hi": "प्रिया"
+        },
+        {
+          "no": 6,
+          "word": "இல்லா <br>(Illaa)",
+          "ta": "இல்லாத",
+          "en": "Not being there",
+          "hi": "नहीं"
+        },
+        {
+          "no": 7,
+          "word": "வழி <br>(Vazhi)",
+          "ta": "போது",
+          "en": "When",
+          "hi": "होने पर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நோத லெவன்மற்று நொத்தாரென் றஃதறியுங்",
+          "line2": "காதல ரில்லா வழி"
+        },
+        "en": {
+          "line1": "What good can grieving do, when none who love",
+          "line2": "Are there to know the grief thy soul endures ?"
+        },
+        "hi": {
+          "line1": "‘पीड़ित है’ यों समझती, प्रिया नहीं रह जाय ।",
+          "line2": "तो सहने से वेदना, क्या ही फल हो जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nodha Levanmatru Noththaaren Rahdhariyung",
+            "line2": "Kaadhala Rillaa Vazhi"
+          },
+          "hi": {
+            "line1": "नोद लॆवन्मट्रु नॊत्तारॆन् ऱःदऱियुङ्",
+            "line2": "कादल रिल्ला वऴि"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நாம் வருத்தப்படுகிறோம் என்பதைப் புரிந்துகொண்டு ஆறுதல் சொல்ல அன்பானவர் பக்கத்தில் இல்லாதபோது, வருத்தப்படுவதால் ஒரு பயனும் இல்லை.",
+        "en": "What is the point of sulking or hurting if the one you love isn't even around to notice your pain?",
+        "hi": "जब अपने दुख को समझने वाला कोई प्रेमी पास ही न हो, तो ऐसे रूठने या वेदना सहने का क्या फायदा?"
+      }
+    },
+    {
+      "num": 1309,
+      "line1": "நீரு நிழல தினிதே புலவியும்",
+      "line2": "வீழுநர் கண்ணே யினிது",
+      "enLine1": "Water is pleasant in the cooling shade ;",
+      "enLine2": "So coolness for a time with those we love.",
+      "hiLine1": "छाया के नीचे रहा, तो है सुमधुर नीर ।",
+      "hiLine2": "प्रिय से हो तो मधुर है, प्रणय कलह-तासीर ॥",
+      "general": "நீரும் நிழலில் இருந்தால்தான் இனிமையாக இருக்கும்; அதுபோல ஊடலும் அன்புடையவரிடத்தில் மட்டுமே இனிமையாக இருக்கும்.",
+      "en": "Water is refreshing only in the shade; likewise, pouting is sweet only with someone who truly loves us.",
+      "hi": "जैसे छाया के नीचे रखा जल ही मधुर और शीतल लगता है, वैसे ही प्रणय-कलह (रूठना) भी सच्चे प्रेमी के साथ ही सुखद होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நீரும் <br>(Neerum)",
+          "ta": "தண்ணீரும்",
+          "en": "Water too",
+          "hi": "नीर भी"
+        },
+        {
+          "no": 2,
+          "word": "நிழலது <br>(Nizhaladhu)",
+          "ta": "நிழலில் உள்ளது",
+          "en": "In the shade",
+          "hi": "छाया के नीचे"
+        },
+        {
+          "no": 3,
+          "word": "இனிதே <br>(Inidhe)",
+          "ta": "இனிமையானதே",
+          "en": "Is pleasant",
+          "hi": "सुमधुर है"
+        },
+        {
+          "no": 4,
+          "word": "புலவியும் <br>(Pulaviyum)",
+          "ta": "ஊடலும்",
+          "en": "Pouting too",
+          "hi": "प्रणय-कलह भी"
+        },
+        {
+          "no": 5,
+          "word": "வீழுநர் <br>(Veezhunar)",
+          "ta": "விரும்புபவர்",
+          "en": "Those who love",
+          "hi": "प्रिय के"
+        },
+        {
+          "no": 6,
+          "word": "கண்ணே <br>(Kanne)",
+          "ta": "இடத்திலேயே",
+          "en": "With them only",
+          "hi": "साथ ही"
+        },
+        {
+          "no": 7,
+          "word": "இனிது <br>(Inidhu)",
+          "ta": "இனிது",
+          "en": "Is sweet",
+          "hi": "मधुर है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நீரு நிழல தினிதே புலவியும்",
+          "line2": "வீழுநர் கண்ணே யினிது"
+        },
+        "en": {
+          "line1": "Water is pleasant in the cooling shade ;",
+          "line2": "So coolness for a time with those we love."
+        },
+        "hi": {
+          "line1": "छाया के नीचे रहा, तो है सुमधुर नीर ।",
+          "line2": "प्रिय से हो तो मधुर है, प्रणय कलह-तासीर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Neeru Nizhala Thinidhe Pulaviyum",
+            "line2": "Veezhunar Kanne Yinidhu"
+          },
+          "hi": {
+            "line1": "नीरु निऴल तिनिदे पुलवियुम्",
+            "line2": "वीऴुनर् कण्णे यिनिदु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நிழலில் இருக்கும் தண்ணீர் குளுமையாக இருப்பதுபோல, ஆழமான அன்பு உள்ளவர்களிடம் கொள்ளும் ஊடல் மட்டுமே இனிமை தரும்.",
+        "en": "Just as cool water tastes sweetest in the shade, playful pouting is only enjoyable with someone who deeply loves you.",
+        "hi": "जैसे छांव में रखा पानी ही मीठा लगता है, वैसे ही रूठना-मनाना भी केवल सच्चे प्रेमी के साथ ही अच्छा लगता है।"
+      }
+    },
+    {
+      "num": 1310,
+      "line1": "ஊட லுணங்க விடுவாரோ டென்னெஞ்சங்",
+      "line2": "கூடுவே மென்ப தவா",
+      "enLine1": "Of her who leaves me thus in variance languishing,",
+      "enLine2": "To think within my heart with love is fond desire.",
+      "hiLine1": "सूख गयी जो मान से, और रही बिन छोह ।",
+      "hiLine2": "मिलनेच्छा उससे रहा, मेरे दिल का मोह ॥",
+      "general": "ஊடலால் நான் வாடும்படி விட்டுவிடும் அவளோடு, மீண்டும் சேர வேண்டும் என்று என் நெஞ்சம் விரும்புவது பேராசையாகும்.",
+      "en": "For my heart to still crave reunion with her who leaves me pining in variance is sheer longing.",
+      "hi": "जो मान करके मुरझा गई है और बिना स्नेह के रूठी बैठी है, उससे फिर भी मिलने की इच्छा करना मेरे हृदय का मोह ही है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊடல் <br>(Oodal)",
+          "ta": "ஊடலால்",
+          "en": "By variance",
+          "hi": "मान से"
+        },
+        {
+          "no": 2,
+          "word": "உணங்க <br>(Unanga)",
+          "ta": "வாடும்படி",
+          "en": "To languish",
+          "hi": "सूखने को"
+        },
+        {
+          "no": 3,
+          "word": "விடுவாரோடு <br>(Viduvaarodu)",
+          "ta": "விட்டுவிடுபவளோடு",
+          "en": "With her who leaves",
+          "hi": "छोड़ने वाली से"
+        },
+        {
+          "no": 4,
+          "word": "என் நெஞ்சம் <br>(En Nenjam)",
+          "ta": "என் நெஞ்சம்",
+          "en": "My heart",
+          "hi": "मेरे दिल का"
+        },
+        {
+          "no": 5,
+          "word": "கூடுவேம் <br>(Kooduvem)",
+          "ta": "கூடுவோம்",
+          "en": "We shall unite",
+          "hi": "मिलनेच्छा"
+        },
+        {
+          "no": 6,
+          "word": "என்பது <br>(Enbadhu)",
+          "ta": "என்று நினைப்பது",
+          "en": "Thinking thus",
+          "hi": "कहना"
+        },
+        {
+          "no": 7,
+          "word": "அவா <br>(Ava)",
+          "ta": "பேராசை",
+          "en": "Fond desire",
+          "hi": "मोह है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊட லுணங்க விடுவாரோ டென்னெஞ்சங்",
+          "line2": "கூடுவே மென்ப தவா"
+        },
+        "en": {
+          "line1": "Of her who leaves me thus in variance languishing,",
+          "line2": "To think within my heart with love is fond desire."
+        },
+        "hi": {
+          "line1": "सूख गयी जो मान से, और रही बिन छोह ।",
+          "line2": "मिलनेच्छा उससे रहा, मेरे दिल का मोह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ooda Lunangga Viduvaaro Dennenjang",
+            "line2": "Kooduve Menpa Thavaa"
+          },
+          "hi": {
+            "line1": "ऊड लुणङ्ग विडुवारो टॆन्नॆञ्जङ्",
+            "line2": "कूडुवे मॆन्प तवा"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நான் ஊடலில் வாடி நிற்கும்போது கண்டுகொள்ளாமல் விட்டுவிட்டவளோடு சேர வேண்டும் என்று என் மனம் துடிப்பது பெரும் ஆசையால் தான்.",
+        "en": "It is sheer infatuation that makes my heart ache to reunite with her even as she leaves me languishing in a sulk.",
+        "hi": "जो मुझे रूठने की पीड़ा में छोड़कर बेरुखी दिखाती है, उससे भी मिलने की चाह रखना मेरे दिल का गहरा मोह ही है।"
+      }
+    }
+  ]
+}

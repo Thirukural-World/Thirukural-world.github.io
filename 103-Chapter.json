@@ -1,0 +1,930 @@
+{
+  "chapterNum": 103,
+  "nameTa": "குடிசெயல்வகை",
+  "nameEn": "The Way of Maintaining the Family",
+  "nameHi": "वंशोत्कर्ष-विधान",
+  "paal": "பொருட்பால்",
+  "iyal": "ஒழிபியல்",
+  "kurals": [
+    {
+      "num": 1021,
+      "line1": "கருமஞ் செயவொருவன் கைதூவே னென்னும்",
+      "line2": "பெருமையிற் பீடுடைய தில்.",
+      "enLine1": "Who says 'I'll do my work, nor slack my hand,'",
+      "enLine2": "His greatness, clothed with dignity supreme, shall stand.",
+      "hiLine1": "'हाथ न खींचूँ कर्म से, जो कुल हित कर्तव्य ।",
+      "hiLine2": "इसके सम नहिं श्रेष्ठता, यों है जो मन्तव्य ॥",
+      "general": "தன் குடும்பத்திற்குரிய செயலைச் செய்வதில் நான் சோர்வடைய மாட்டேன் என்று ஒருவன் கூறும் பெருமையைவிடப் பெருமை உடையது வேறு ஒன்றும் இல்லை.",
+      "en": "There is no greater dignity than the resolve of one who says, 'I will not slacken my hand in doing my duty for my family.'",
+      "hi": "जो व्यक्ति यह दृढ़ संकल्प करता है कि 'मैं अपने कुल के हित में किए जाने वाले कर्तव्य-कर्म से कभी हाथ नहीं खींचूँगा', उसके समान कोई अन्य श्रेष्ठता नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கருமம் செய <br>(Karumam seya)",
+          "ta": "செயலைச் செய்வதில்",
+          "en": "Do my work",
+          "hi": "कर्म से"
+        },
+        {
+          "no": 2,
+          "word": "ஒருவன் <br>(Oruvan)",
+          "ta": "ஒருவன்",
+          "en": "Who",
+          "hi": "जो"
+        },
+        {
+          "no": 3,
+          "word": "கைதூவேன் <br>(Kaidhooven)",
+          "ta": "கைவிடமாட்டேன்",
+          "en": "Nor slack my hand",
+          "hi": "हाथ न खींचूँ"
+        },
+        {
+          "no": 4,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்று சொல்லும்",
+          "en": "Says",
+          "hi": "यों है मन्तव्य"
+        },
+        {
+          "no": 5,
+          "word": "பெருமையில் <br>(Perumaiyil)",
+          "ta": "பெருமையைவிட",
+          "en": "Greatness",
+          "hi": "इसके सम"
+        },
+        {
+          "no": 6,
+          "word": "பீடுடையது <br>(Peedudaiyadhu)",
+          "ta": "சிறப்புடையது",
+          "en": "With dignity supreme",
+          "hi": "श्रेष्ठता"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "None",
+          "hi": "नहिं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கருமஞ் செயவொருவன் கைதூவே னென்னும்",
+          "line2": "பெருமையிற் பீடுடைய தில்."
+        },
+        "en": {
+          "line1": "Who says 'I'll do my work, nor slack my hand,'",
+          "line2": "His greatness, clothed with dignity supreme, shall stand."
+        },
+        "hi": {
+          "line1": "'हाथ न खींचूँ कर्म से, जो कुल हित कर्तव्य ।",
+          "line2": "इसके सम नहिं श्रेष्ठता, यों है जो मन्तव्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Karumany Seyavoruvan Kaidhoove Nennum",
+            "line2": "Perumaiyir Peedudaiya Thil."
+          },
+          "hi": {
+            "line1": "करुमञ् सॆयवॊरुवन् कैदूवे नॆन्नुम्",
+            "line2": "पॆरुमैयिर् पीडुडैय दिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன் குடும்பத்திற்குரிய செயலைச் செய்வதில் நான் சோர்வடைய மாட்டேன் என்று ஒருவன் கூறும் பெருமையைவிடப் பெருமை உடையது வேறு ஒன்றும் இல்லை.",
+        "en": "Nothing commands more respect than someone who steps up for their family and refuses to quit.",
+        "hi": "जो व्यक्ति यह दृढ़ संकल्प करता है कि 'मैं अपने कुल के हित में किए जाने वाले कर्तव्य-कर्म से कभी हाथ नहीं खींचूँगा', उसके समान कोई अन्य श्रेष्ठता नहीं है।"
+      }
+    },
+    {
+      "num": 1022,
+      "line1": "ஆள்வினையு மான்ற வறிவு மெனவிரண்டி",
+      "line2": "னீள்வினையா னீளுங் குடி.",
+      "enLine1": "The manly act and knowledge full, when these combine",
+      "enLine2": "In deed prolonged, then lengthens out the race's line.",
+      "hiLine1": "सत् प्रयत्न गंभीर मति, ये दोनों ही अंश ।",
+      "hiLine2": "क्रियाशील जब हैं सतत, उन्नत होता वंश ॥",
+      "general": "விடாமுயற்சியும், நிறைந்த அறிவும் ஆகிய இரண்டின் இடைவிடாத செயலால் ஒருவனுடைய குடி உயர்ந்து வளரும்.",
+      "en": "A family rises and endures through the sustained combination of determined effort and mature wisdom.",
+      "hi": "जब सच्चा प्रयत्न (पुरुषार्थ) और गम्भीर बुद्धि—ये दोनों ही निरन्तर क्रियाशील रहते हैं, तब वंश की लगातार उन्नति होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஆள்வினையும் <br>(Aalvinaiyum)",
+          "ta": "விடாமுயற்சியும்",
+          "en": "Manly act",
+          "hi": "सत् प्रयत्न"
+        },
+        {
+          "no": 2,
+          "word": "ஆன்ற அறிவும் <br>(Aandra arivum)",
+          "ta": "நிறைந்த அறிவும்",
+          "en": "Knowledge full",
+          "hi": "गंभीर मति"
+        },
+        {
+          "no": 3,
+          "word": "என இரண்டின் <br>(Ena irandin)",
+          "ta": "என்ற இரண்டின்",
+          "en": "When these combine",
+          "hi": "ये दोनों ही अंश"
+        },
+        {
+          "no": 4,
+          "word": "நீள் வினையால் <br>(Neel vinaiyaal)",
+          "ta": "தொடர்ந்த செயலால்",
+          "en": "Deed prolonged",
+          "hi": "क्रियाशील सतत"
+        },
+        {
+          "no": 5,
+          "word": "நீளும் <br>(Neelum)",
+          "ta": "உயர்ந்து வளரும்",
+          "en": "Lengthens out",
+          "hi": "उन्नत होता"
+        },
+        {
+          "no": 6,
+          "word": "குடி <br>(Kudi)",
+          "ta": "குடி",
+          "en": "Race's line",
+          "hi": "वंश"
+        },
+        {
+          "no": 7,
+          "word": "முயற்சி <br>(Muyarchi)",
+          "ta": "முயற்சி",
+          "en": "Effort",
+          "hi": "प्रयत्न"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஆள்வினையு மான்ற வறிவு மெனவிரண்டி",
+          "line2": "னீள்வினையா னீளுங் குடி."
+        },
+        "en": {
+          "line1": "The manly act and knowledge full, when these combine",
+          "line2": "In deed prolonged, then lengthens out the race's line."
+        },
+        "hi": {
+          "line1": "सत् प्रयत्न गंभीर मति, ये दोनों ही अंश ।",
+          "line2": "क्रियाशील जब हैं सतत, उन्नत होता वंश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aalvinaiyu Maanra Varivu Menavirandi",
+            "line2": "Neelvinaiyaa Neelung Kudi."
+          },
+          "hi": {
+            "line1": "आळ्विनैयु मान्द्र वरिवु मॆनविरण्डि",
+            "line2": "नीळ्विनैया नीळुङ् गुडि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "விடாமுயற்சியும், நிறைந்த அறிவும் ஆகிய இரண்டின் இடைவிடாத செயலால் ஒருவனுடைய குடி உயர்ந்து வளரும்.",
+        "en": "Consistent hard work paired with sound judgment is what keeps a family thriving across generations.",
+        "hi": "जब सच्चा प्रयत्न (पुरुषार्थ) और गम्भीर बुद्धि—ये दोनों ही निरन्तर क्रियाशील रहते हैं, तब वंश की लगातार उन्नति होती है।"
+      }
+    },
+    {
+      "num": 1023,
+      "line1": "குடிசெய்வ லென்னு மொருவற்குத் தெய்வ",
+      "line2": "மடிதற்றுத் தான்முந் துறும்.",
+      "enLine1": "'I'll make my race renowned,' if man shall say,",
+      "enLine2": "With vest succinct the goddess leads the way.",
+      "hiLine1": "'कुल को अन्नत मैं करूँ', कहता है दृढ बात ।",
+      "hiLine2": "तो आगे बढ़ कमर कस, दैव बँटावे हाथ ॥",
+      "general": "என் குடியை உயரச் செய்வேன் என்று உறுதி பூண்ட ஒருவனுக்கு, தெய்வமும் தன் ஆடையை வரிந்து கட்டிக்கொண்டு தானே முன்வந்து உதவும்.",
+      "en": "To one who resolves, 'I will uplift my family,' even Providence girds up its loins and steps forward to help.",
+      "hi": "जो व्यक्ति दृढ़ता से कहता है कि 'मैं अपने कुल को उन्नत करूँगा', तो दैव (भाग्य) भी कमर कसकर आगे बढ़कर उसका हाथ बँटाने लगता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குடி செய்வல் <br>(Kudi seyval)",
+          "ta": "குடியை உயர்த்துவேன்",
+          "en": "Make my race renowned",
+          "hi": "कुल को अन्नत करूँ"
+        },
+        {
+          "no": 2,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்று சொல்லும்",
+          "en": "Shall say",
+          "hi": "कहता है दृढ बात"
+        },
+        {
+          "no": 3,
+          "word": "ஒருவற்கு <br>(Oruvarku)",
+          "ta": "ஒருவனுக்கு",
+          "en": "To man",
+          "hi": "उसे"
+        },
+        {
+          "no": 4,
+          "word": "தெய்வம் <br>(Dheivam)",
+          "ta": "தெய்வம்",
+          "en": "The goddess",
+          "hi": "दैव"
+        },
+        {
+          "no": 5,
+          "word": "மடிதற்று <br>(Madithatru)",
+          "ta": "ஆடையை வரிந்து கட்டி",
+          "en": "With vest succinct",
+          "hi": "कमर कस"
+        },
+        {
+          "no": 6,
+          "word": "தான் <br>(Thaan)",
+          "ta": "தானே",
+          "en": "Itself",
+          "hi": "आगे बढ़"
+        },
+        {
+          "no": 7,
+          "word": "முந்துறும் <br>(Mundhurum)",
+          "ta": "முன்வந்து உதவும்",
+          "en": "Leads the way",
+          "hi": "बँटावे हाथ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குடிசெய்வ லென்னு மொருவற்குத் தெய்வ",
+          "line2": "மடிதற்றுத் தான்முந் துறும்."
+        },
+        "en": {
+          "line1": "'I'll make my race renowned,' if man shall say,",
+          "line2": "With vest succinct the goddess leads the way."
+        },
+        "hi": {
+          "line1": "'कुल को अन्नत मैं करूँ', कहता है दृढ बात ।",
+          "line2": "तो आगे बढ़ कमर कस, दैव बँटावे हाथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kudiseyva Lennu Moruvarkuth Theyva",
+            "line2": "Madidhatruth Thaanmun Thurum."
+          },
+          "hi": {
+            "line1": "कुडिसॆय्व लॆन्नु मॊरुवर्क्कुत् दॆय्व",
+            "line2": "मडितत्र्रुत् तान्मुन् दुरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் குடியை உயரச் செய்வேன் என்று உறுதி பூண்ட ஒருவனுக்கு, தெய்வமும் தன் ஆடையை வரிந்து கட்டிக்கொண்டு தானே முன்வந்து உதவும்.",
+        "en": "When you truly commit to lifting up your family, even luck seems to roll up its sleeves and back you up.",
+        "hi": "जो व्यक्ति दृढ़ता से कहता है कि 'मैं अपने कुल को उन्नत करूँगा', तो दैव (भाग्य) भी कमर कसकर आगे बढ़कर उसका हाथ बँटाने लगता है।"
+      }
+    },
+    {
+      "num": 1024,
+      "line1": "சூழாமற் றானே முடிவெய்துந் தங்குடியைத்",
+      "line2": "தாழா துஞற்று பவர்க்கு.",
+      "enLine1": "Who labours for his race with unremitting pain,",
+      "enLine2": "Without a thought, spontaneously, his end will gain.",
+      "hiLine1": "कुल हित जो अविलम्ब ही, हैं प्रयत्न में चूर ।",
+      "hiLine2": "अनजाने ही यत्न वह, बने सफलता पूर ॥",
+      "general": "தம் குடியை உயர்த்துவதற்காகச் சோர்வின்றி உழைப்பவர்களுக்கு, அவர்கள் ஆராய்ந்து திட்டமிடாமலேயே செயல் தானே வெற்றியாக முடியும்.",
+      "en": "For those who tirelessly strive to uplift their family without delay, success comes naturally even without elaborate scheming.",
+      "hi": "जो लोग बिना किसी देरी के अपने कुल के कल्याण के लिए निरन्तर प्रयत्न में लगे रहते हैं, उनका वह प्रयत्न अनजाने ही पूर्ण सफलता प्राप्त कर लेता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சூழாமல் <br>(Soozhaamal)",
+          "ta": "ஆராயாமல்",
+          "en": "Without a thought",
+          "hi": "अनजाने ही"
+        },
+        {
+          "no": 2,
+          "word": "தானே <br>(Thaane)",
+          "ta": "தானாகவே",
+          "en": "Spontaneously",
+          "hi": "यत्न वह"
+        },
+        {
+          "no": 3,
+          "word": "முடிவு எய்தும் <br>(Mudivu eydhum)",
+          "ta": "வெற்றியாக முடியும்",
+          "en": "His end will gain",
+          "hi": "बने सफलता पूर"
+        },
+        {
+          "no": 4,
+          "word": "தம் குடியை <br>(Tham kudiyai)",
+          "ta": "தம் குடியை",
+          "en": "For his race",
+          "hi": "कुल हित"
+        },
+        {
+          "no": 5,
+          "word": "தாழாது <br>(Thaazhaadhu)",
+          "ta": "தளராமல்",
+          "en": "Unremitting",
+          "hi": "अविलम्ब ही"
+        },
+        {
+          "no": 6,
+          "word": "உஞற்றுபவர்க்கு <br>(Ugnatrupavarkku)",
+          "ta": "முயற்சி செய்பவர்க்கு",
+          "en": "Who labours",
+          "hi": "हैं प्रयत्न में चूर"
+        },
+        {
+          "no": 7,
+          "word": "வெற்றி <br>(Vetri)",
+          "ta": "வெற்றி",
+          "en": "Success",
+          "hi": "सफलता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சூழாமற் றானே முடிவெய்துந் தங்குடியைத்",
+          "line2": "தாழா துஞற்று பவர்க்கு."
+        },
+        "en": {
+          "line1": "Who labours for his race with unremitting pain,",
+          "line2": "Without a thought, spontaneously, his end will gain."
+        },
+        "hi": {
+          "line1": "कुल हित जो अविलम्ब ही, हैं प्रयत्न में चूर ।",
+          "line2": "अनजाने ही यत्न वह, बने सफलता पूर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Soozhaamar Raane Mudiveythun Thanggudiyaith",
+            "line2": "Thaazhaa Thunyatru Pavarkku."
+          },
+          "hi": {
+            "line1": "सूऴामर् राने मुडिवॆय्दुन् तङ्गुडियैत्",
+            "line2": "ताऴा दुञत्र्रु पवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம் குடியை உயர்த்துவதற்காகச் சோர்வின்றி உழைப்பவர்களுக்கு, அவர்கள் ஆராய்ந்து திட்டமிடாமலேயே செயல் தானே வெற்றியாக முடியும்.",
+        "en": "When you put in relentless effort for your family without procrastinating, things fall into place on their own.",
+        "hi": "जो लोग बिना किसी देरी के अपने कुल के कल्याण के लिए निरन्तर प्रयत्न में लगे रहते हैं, उनका वह प्रयत्न अनजाने ही पूर्ण सफलता प्राप्त कर लेता है।"
+      }
+    },
+    {
+      "num": 1025,
+      "line1": "குற்ற மிலனாய்க் குடிசெய்து வாழ்வானைச்",
+      "line2": "சுற்றமாச் சுற்று முலகு.",
+      "enLine1": "With blameless life who seeks to build his race's fame,",
+      "enLine2": "The world shall circle him, and kindred claim.",
+      "hiLine1": "कुल अन्नति हित दोष बिन, जिसका है आचार ।",
+      "hiLine2": "बन्धु बनाने को उसे, घेर रहा संसार ॥",
+      "general": "குற்றமற்றவனாய் தன் குடியை உயர்த்தி வாழ்பவனை, உலகத்தார் எல்லாரும் தம் சுற்றத்தாராகக் கருதி அவனைச் சூழ்ந்து கொள்வார்கள்.",
+      "en": "Everyone in the world will gather around and claim as their own kin the blameless person who builds up their family honorably.",
+      "hi": "जो व्यक्ति दोषरहित आचरण करते हुए अपने कुल की उन्नति के लिए जीता है, सारा संसार उसे अपना बन्धु बनाने के लिए घेर लेता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குற்றம் இலனாய் <br>(Kutram ilanaay)",
+          "ta": "குற்றம் இல்லாதவனாய்",
+          "en": "With blameless life",
+          "hi": "दोष बिन आचार"
+        },
+        {
+          "no": 2,
+          "word": "குடி செய்து <br>(Kudi seydhu)",
+          "ta": "குடியை உயர்த்தி",
+          "en": "Build his race's fame",
+          "hi": "कुल अन्नति हित"
+        },
+        {
+          "no": 3,
+          "word": "வாழ்வானை <br>(Vaazhvaanai)",
+          "ta": "வாழ்பவனை",
+          "en": "Who seeks",
+          "hi": "जिसका है"
+        },
+        {
+          "no": 4,
+          "word": "சுற்றமா <br>(Sutramaa)",
+          "ta": "உறவினனாக",
+          "en": "Kindred claim",
+          "hi": "बन्धु बनाने को"
+        },
+        {
+          "no": 5,
+          "word": "சுற்றும் <br>(Sutrum)",
+          "ta": "சூழ்ந்து கொள்ளும்",
+          "en": "Shall circle him",
+          "hi": "घेर रहा"
+        },
+        {
+          "no": 6,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "संसार"
+        },
+        {
+          "no": 7,
+          "word": "உறவு <br>(Uravu)",
+          "ta": "உறவு",
+          "en": "Kinship",
+          "hi": "बन्धुत्व"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குற்ற மிலனாய்க் குடிசெய்து வாழ்வானைச்",
+          "line2": "சுற்றமாச் சுற்று முலகு."
+        },
+        "en": {
+          "line1": "With blameless life who seeks to build his race's fame,",
+          "line2": "The world shall circle him, and kindred claim."
+        },
+        "hi": {
+          "line1": "कुल अन्नति हित दोष बिन, जिसका है आचार ।",
+          "line2": "बन्धु बनाने को उसे, घेर रहा संसार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kutra Milanaayk Kudiseythu Vaazhvaanais",
+            "line2": "Sutramaas Sutru Mulagu."
+          },
+          "hi": {
+            "line1": "कुत्र्र मिलनाय्क् कुडिसॆय्दु वाऴ्वानैच्",
+            "line2": "सुत्र्रमाच् सुत्र्रु मुलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குற்றமற்றவனாய் தன் குடியை உயர்த்தி வாழ்பவனை, உலகத்தார் எல்லாரும் தம் சுற்றத்தாராகக் கருதி அவனைச் சூழ்ந்து கொள்வார்கள்.",
+        "en": "Live with integrity while building up your family, and people everywhere will want to be in your corner.",
+        "hi": "जो व्यक्ति दोषरहित आचरण करते हुए अपने कुल की उन्नति के लिए जीता है, सारा संसार उसे अपना बन्धु बनाने के लिए घेर लेता है।"
+      }
+    },
+    {
+      "num": 1026,
+      "line1": "நல்லாண்மை யென்ப தொருவற்குத் தான்பிறந்த",
+      "line2": "வில்லாண்மை யாக்கிக் கொளல்.",
+      "enLine1": "Of virtuous manliness the world accords the praise",
+      "enLine2": "To him who gives his powers, the house from which he sprang to raise.",
+      "hiLine1": "स्वयं जनित निज वंश का, परिपालन का मान ।",
+      "hiLine2": "अपनाना है मनुज को, उत्तम पौरुष जान ॥",
+      "general": "ஒருவனுக்கு நல்ல ஆண்மை என்று சொல்லப்படுவது, தான் பிறந்த குடியை ஆளும் தலைமையைத் தனக்கு உரியதாக ஆக்கிக்கொள்வதேயாகும்.",
+      "en": "True nobility of character means taking up the responsibility to govern and elevate the household into which one was born.",
+      "hi": "मनुष्य को अपने उस वंश का भलीभाँति पालन और सम्मान करना ही उत्तम पौरुष (सच्ची मर्दानगी) समझना चाहिए जिसमें उसने जन्म लिया है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நல் ஆண்மை <br>(Nal aanmai)",
+          "ta": "நல்ல ஆண்மை",
+          "en": "Virtuous manliness",
+          "hi": "उत्तम पौरुष"
+        },
+        {
+          "no": 2,
+          "word": "என்பது <br>(Enbadhu)",
+          "ta": "என்று சொல்லப்படுவது",
+          "en": "Accords the praise",
+          "hi": "जान"
+        },
+        {
+          "no": 3,
+          "word": "ஒருவற்கு <br>(Oruvarku)",
+          "ta": "ஒருவனுக்கு",
+          "en": "To him",
+          "hi": "मनुज को"
+        },
+        {
+          "no": 4,
+          "word": "தான் பிறந்த <br>(Thaan pirandha)",
+          "ta": "தான் பிறந்த",
+          "en": "From which he sprang",
+          "hi": "स्वयं जनित"
+        },
+        {
+          "no": 5,
+          "word": "இல் <br>(Il)",
+          "ta": "குடியை",
+          "en": "The house",
+          "hi": "निज वंश का"
+        },
+        {
+          "no": 6,
+          "word": "ஆண்மை <br>(Aanmai)",
+          "ta": "ஆளும் தன்மையை",
+          "en": "Gives his powers",
+          "hi": "परिपालन का मान"
+        },
+        {
+          "no": 7,
+          "word": "ஆக்கிக்கொளல் <br>(Aakkikkolal)",
+          "ta": "உண்டாக்கிக்கொள்ளுதல்",
+          "en": "To raise",
+          "hi": "अपनाना है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நல்லாண்மை யென்ப தொருவற்குத் தான்பிறந்த",
+          "line2": "வில்லாண்மை யாக்கிக் கொளல்."
+        },
+        "en": {
+          "line1": "Of virtuous manliness the world accords the praise",
+          "line2": "To him who gives his powers, the house from which he sprang to raise."
+        },
+        "hi": {
+          "line1": "स्वयं जनित निज वंश का, परिपालन का मान ।",
+          "line2": "अपनाना है मनुज को, उत्तम पौरुष जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nallaanmai Yenpa Thoruvarkuth Thaanpirandha",
+            "line2": "Villaanmai Yaakkik Kolal."
+          },
+          "hi": {
+            "line1": "नल्लाण्मै यॆन्ब दॊरुवर्क्कुत् तान्बिरन्द",
+            "line2": "विल्लाण्मै याक्किक् कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவனுக்கு நல்ல ஆண்மை என்று சொல்லப்படுவது, தான் பிறந்த குடியை ஆளும் தலைமையைத் தனக்கு உரியதாக ஆக்கிக்கொள்வதேயாகும்.",
+        "en": "Real strength is stepping up to care for and elevate the very family you came from.",
+        "hi": "मनुष्य को अपने उस वंश का भलीभाँति पालन और सम्मान करना ही उत्तम पौरुष (सच्ची मर्दानगी) समझना चाहिए जिसमें उसने जन्म लिया है।"
+      }
+    },
+    {
+      "num": 1027,
+      "line1": "அமரகத்து வன்கண்ணர் போலத் தமரகத்து",
+      "line2": "மாற்றுவார் மேற்றே பொறை.",
+      "enLine1": "The fearless hero bears the brunt amid the warrior throng ;",
+      "enLine2": "Amid his kindred so the burthen rests upon the strong.",
+      "hiLine1": "महावीर रणक्षेत्र में, ज्यों हैं जिम्मेदार ।",
+      "hiLine2": "त्यों हैं सुयोग्य व्यक्ति पर, निज कुटुंब का भार ॥",
+      "general": "போர்க்களத்தில் அஞ்சாத வீரர்கள் போர்ச்சுமையைத் தாங்குவது போல, சுற்றத்தாரில் திறமையுடையவரின் மேல்தான் குடும்பப் பொறுப்பு இருக்கும்.",
+      "en": "Just as fearless warriors bear the brunt of battle, the responsibility of supporting a family rests upon its most capable member.",
+      "hi": "जिस प्रकार रणक्षेत्र में महावीर योद्धा सबसे आगे जिम्मेदार होते हैं, उसी प्रकार अपने कुटुम्ब का सारा भार भी कुल के सुयोग्य व्यक्ति पर ही होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அமரகத்து <br>(Amaragathu)",
+          "ta": "போர்க்களத்தில்",
+          "en": "Amid the warrior throng",
+          "hi": "रणक्षेत्र में"
+        },
+        {
+          "no": 2,
+          "word": "வன்கண்ணர் போல <br>(Vankannar pola)",
+          "ta": "அஞ்சாத வீரரைப் போல",
+          "en": "Fearless hero",
+          "hi": "महावीर ज्यों"
+        },
+        {
+          "no": 3,
+          "word": "தமரகத்தும் <br>(Thamaragathum)",
+          "ta": "சுற்றத்தாரிடத்தும்",
+          "en": "Amid his kindred",
+          "hi": "निज कुटुंब"
+        },
+        {
+          "no": 4,
+          "word": "ஆற்றுவார் <br>(Aatruvaar)",
+          "ta": "செயலாற்ற வல்லவர்",
+          "en": "The strong",
+          "hi": "सुयोग्य व्यक्ति पर"
+        },
+        {
+          "no": 5,
+          "word": "மேற்றே <br>(Metre)",
+          "ta": "மேலேயே உள்ளது",
+          "en": "Rests upon",
+          "hi": "हैं"
+        },
+        {
+          "no": 6,
+          "word": "பொறை <br>(Porai)",
+          "ta": "குடும்பப் பொறுப்பு",
+          "en": "The burthen",
+          "hi": "भार"
+        },
+        {
+          "no": 7,
+          "word": "பொறுப்பு <br>(Poruppu)",
+          "ta": "பொறுப்பு",
+          "en": "Responsibility",
+          "hi": "जिम्मेदार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அமரகத்து வன்கண்ணர் போலத் தமரகத்து",
+          "line2": "மாற்றுவார் மேற்றே பொறை."
+        },
+        "en": {
+          "line1": "The fearless hero bears the brunt amid the warrior throng ;",
+          "line2": "Amid his kindred so the burthen rests upon the strong."
+        },
+        "hi": {
+          "line1": "महावीर रणक्षेत्र में, ज्यों हैं जिम्मेदार ।",
+          "line2": "त्यों हैं सुयोग्य व्यक्ति पर, निज कुटुंब का भार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Amaragaththu Vankannar Polath Thamaragaththu",
+            "line2": "Maatruvaar Metre Porai."
+          },
+          "hi": {
+            "line1": "अमरगत्तु वन्कण्णर् पोलत् तमरगत्तु",
+            "line2": "मात्र्रुवार् मेत्र्रे पॊरै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "போர்க்களத்தில் அஞ்சாத வீரர்கள் போர்ச்சுமையைத் தாங்குவது போல, சுற்றத்தாரில் திறமையுடையவரின் மேல்தான் குடும்பப் பொறுப்பு இருக்கும்.",
+        "en": "Just like the bravest soldier takes the front line, the most capable person in a family naturally carries the weight.",
+        "hi": "जिस प्रकार रणक्षेत्र में महावीर योद्धा सबसे आगे जिम्मेदार होते हैं, उसी प्रकार अपने कुटुम्ब का सारा भार भी कुल के सुयोग्य व्यक्ति पर ही होता है।"
+      }
+    },
+    {
+      "num": 1028,
+      "line1": "குடிசெய்வார்க் கில்லைப் பருவ மடிசெய்து",
+      "line2": "மானங் கருதக் கெடும்.",
+      "enLine1": "Wait for no season, when you would your house uprear ;",
+      "enLine2": "'Twill perish, if you wait supine, or hold your honour dear.",
+      "hiLine1": "कुल-पालक का है नहीं, कोई अवसर खास ।",
+      "hiLine2": "आलसवश मानी बने, तो होता है नाश ॥",
+      "general": "குடியை உயர்த்த முயல்பவர்களுக்குத் தக்க காலம் என்று காத்திருப்பதில்லை; சோம்பல் கொண்டு வீண் மானம் பாராட்டினால் குடி கெட்டுப்போகும்.",
+      "en": "There is no waiting for a special season when uplifting one's family; laziness and false pride will only bring ruin.",
+      "hi": "कुल का पालन करने वाले के लिए कोई विशेष समय या अवसर नहीं होता; यदि वह आलस्य और झूठे अभिमान में पड़ा रहा, तो कुल का नाश हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குடி செய்வார்க்கு <br>(Kudi seyvaarkku)",
+          "ta": "குடியை உயர்த்துவோர்க்கு",
+          "en": "House uprear",
+          "hi": "कुल-पालक का"
+        },
+        {
+          "no": 2,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "No",
+          "hi": "है नहीं"
+        },
+        {
+          "no": 3,
+          "word": "பருவம் <br>(Paruvam)",
+          "ta": "தக்க காலம்",
+          "en": "Season",
+          "hi": "कोई अवसर खास"
+        },
+        {
+          "no": 4,
+          "word": "மடி செய்து <br>(Madi seydhu)",
+          "ta": "சோம்பல் கொண்டு",
+          "en": "Wait supine",
+          "hi": "आलसवश"
+        },
+        {
+          "no": 5,
+          "word": "மானம் <br>(Maanam)",
+          "ta": "வீண் மானத்தை",
+          "en": "Honour",
+          "hi": "मानी"
+        },
+        {
+          "no": 6,
+          "word": "கருத <br>(Karudha)",
+          "ta": "எண்ணினால்",
+          "en": "Hold dear",
+          "hi": "बने"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "கெடும்",
+          "en": "Perish",
+          "hi": "होता है नाश"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குடிசெய்வார்க் கில்லைப் பருவ மடிசெய்து",
+          "line2": "மானங் கருதக் கெடும்."
+        },
+        "en": {
+          "line1": "Wait for no season, when you would your house uprear ;",
+          "line2": "'Twill perish, if you wait supine, or hold your honour dear."
+        },
+        "hi": {
+          "line1": "कुल-पालक का है नहीं, कोई अवसर खास ।",
+          "line2": "आलसवश मानी बने, तो होता है नाश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kudiseyvaark Killaip Paruva Madiseythu",
+            "line2": "Maanang Karudhak Kedum."
+          },
+          "hi": {
+            "line1": "कुडिसॆय्वार्क् किल्लैप् परुव मडिसॆय्दु",
+            "line2": "मानङ् गरुदक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "குடியை உயர்த்த முயல்பவர்களுக்குத் தக்க காலம் என்று காத்திருப்பதில்லை; சோம்பல் கொண்டு வீண் மானம் பாராட்டினால் குடி கெட்டுப்போகும்.",
+        "en": "Don't wait for the 'right moment' to support your family—procrastination and false ego will only sink things.",
+        "hi": "कुल का पालन करने वाले के लिए कोई विशेष समय या अवसर नहीं होता; यदि वह आलस्य और झूठे अभिमान में पड़ा रहा, तो कुल का नाश हो जाता है।"
+      }
+    },
+    {
+      "num": 1029,
+      "line1": "இடும்பைக்கே கொள்கலங் கொல்லோ குடும்பத்தைக்",
+      "line2": "குற்ற மறைப்பா னுடம்பு.",
+      "enLine1": "Is not his body vase that various sorrows fill,",
+      "enLine2": "Who would his household screen from every ill ?",
+      "hiLine1": "जो होने देता नहीं, निज कुटुंब में दोष ।",
+      "hiLine2": "उसका बने शरीर क्या, दुख-दर्दों का कोष ॥",
+      "general": "தன் குடும்பத்திற்கு ஏற்படும் குற்றங்களையும் துன்பங்களையும் மறைத்துக் காப்பவனுடைய உடம்பு, துன்பங்கள் தங்கும் பாத்திரமாகத்தானே இருக்கும்?",
+      "en": "Does not the body of one who shields their family from every fault and hardship become a vessel filled with sorrows?",
+      "hi": "जो व्यक्ति अपने कुटुम्ब में कोई दोष या विपत्ति नहीं आने देता, उसका अपना शरीर मानो सारे दुख-दर्दों को समेटने का कोष (पात्र) बन जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இடும்பைக்கே <br>(Idumbaikke)",
+          "ta": "துன்பத்திற்கே",
+          "en": "Various sorrows",
+          "hi": "दुख-दर्दों का"
+        },
+        {
+          "no": 2,
+          "word": "கொள்கலங்கொல்லோ <br>(Kolgalangollo)",
+          "ta": "பாத்திரம் போலும்",
+          "en": "Vase that fill",
+          "hi": "बने कोष क्या"
+        },
+        {
+          "no": 3,
+          "word": "குடும்பத்தை <br>(Kudumbaththai)",
+          "ta": "குடும்பத்தை",
+          "en": "His household",
+          "hi": "निज कुटुंब में"
+        },
+        {
+          "no": 4,
+          "word": "குற்றம் <br>(Kutram)",
+          "ta": "குற்றங்கள் வராமல்",
+          "en": "Every ill",
+          "hi": "दोष"
+        },
+        {
+          "no": 5,
+          "word": "மறைப்பான் <br>(Maraippaan)",
+          "ta": "மறைத்துக் காப்பவன்",
+          "en": "Screen",
+          "hi": "होने देता नहीं"
+        },
+        {
+          "no": 6,
+          "word": "உடம்பு <br>(Udambu)",
+          "ta": "உடம்பு",
+          "en": "His body",
+          "hi": "उसका शरीर"
+        },
+        {
+          "no": 7,
+          "word": "பாதுகாப்பு <br>(Paadhugaappu)",
+          "ta": "பாதுகாப்பு",
+          "en": "Protection",
+          "hi": "रक्षा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இடும்பைக்கே கொள்கலங் கொல்லோ குடும்பத்தைக்",
+          "line2": "குற்ற மறைப்பா னுடம்பு."
+        },
+        "en": {
+          "line1": "Is not his body vase that various sorrows fill,",
+          "line2": "Who would his household screen from every ill ?"
+        },
+        "hi": {
+          "line1": "जो होने देता नहीं, निज कुटुंब में दोष ।",
+          "line2": "उसका बने शरीर क्या, दुख-दर्दों का कोष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Idumbaikke Kolkalang Kollo Kudumbaththaik",
+            "line2": "Kutra Maraippaa Nudambu."
+          },
+          "hi": {
+            "line1": "इडुम्बैक्के कॊळ्गलङ् गॊल्लो कुडुम्बत्तैक्",
+            "line2": "कुत्र्र मरैप्पा नुदम्बु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன் குடும்பத்திற்கு ஏற்படும் குற்றங்களையும் துன்பங்களையும் மறைத்துக் காப்பவனுடைய உடம்பு, துன்பங்கள் தங்கும் பாத்திரமாகத்தானே இருக்கும்?",
+        "en": "The person who shields their family from every storm often ends up absorbing all the stress themselves.",
+        "hi": "जो व्यक्ति अपने कुटुम्ब में कोई दोष या विपत्ति नहीं आने देता, उसका अपना शरीर मानो सारे दुख-दर्दों को समेटने का कोष (पात्र) बन जाता है।"
+      }
+    },
+    {
+      "num": 1030,
+      "line1": "இடுக்கண் கால்கொன் றிடவீழு மடுத்தூன்று",
+      "line2": "நல்லா ளிலாத குடி.",
+      "enLine1": "When trouble the foundation saps the house must fall,",
+      "enLine2": "If no strong hand be nigh to prop the tottering wall.",
+      "hiLine1": "योग्य व्यक्ति कुल में नहीं, जो थामेगा टेक ।",
+      "hiLine2": "जड़ में विपदा काटते, गिर जाये कुल नेक ॥",
+      "general": "வந்து தாங்கும் நல்ல ஆண்மகன் இல்லாத குடியானது, துன்பம் அதன் அடிவேரை வெட்டத் தொடங்கியவுடன் கீழே விழுந்துவிடும்.",
+      "en": "A family without a capable, strong supporter to prop it up will collapse the moment misfortune strikes at its foundation.",
+      "hi": "यदि किसी अच्छे कुल में कोई ऐसा योग्य व्यक्ति न हो जो संकट के समय उसे संभाल ले, तो विपत्ति द्वारा जड़ काटते ही वह कुल गिर जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இடுக்கண் <br>(Idukkan)",
+          "ta": "துன்பம்",
+          "en": "Trouble",
+          "hi": "विपदा"
+        },
+        {
+          "no": 2,
+          "word": "கால் கொன்றிட <br>(Kaal kondrida)",
+          "ta": "அடிவேரை வெட்ட",
+          "en": "Foundation saps",
+          "hi": "जड़ में काटते"
+        },
+        {
+          "no": 3,
+          "word": "வீழும் <br>(Veezhum)",
+          "ta": "விழுந்துவிடும்",
+          "en": "Must fall",
+          "hi": "गिर जाये"
+        },
+        {
+          "no": 4,
+          "word": "அடுத்து ஊன்றும் <br>(Aduththu oondrum)",
+          "ta": "பக்கத்தில் இருந்து தாங்கும்",
+          "en": "Prop the tottering wall",
+          "hi": "जो थामेगा टेक"
+        },
+        {
+          "no": 5,
+          "word": "நல் ஆள் <br>(Nal aal)",
+          "ta": "நல்ல திறமையாளன்",
+          "en": "Strong hand",
+          "hi": "योग्य व्यक्ति"
+        },
+        {
+          "no": 6,
+          "word": "இலாத <br>(Ilaadha)",
+          "ta": "இல்லாத",
+          "en": "No",
+          "hi": "नहीं"
+        },
+        {
+          "no": 7,
+          "word": "குடி <br>(Kudi)",
+          "ta": "குடி",
+          "en": "The house",
+          "hi": "कुल नेक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இடுக்கண் கால்கொன் றிடவீழு மடுத்தூன்று",
+          "line2": "நல்லா ளிலாத குடி."
+        },
+        "en": {
+          "line1": "When trouble the foundation saps the house must fall,",
+          "line2": "If no strong hand be nigh to prop the tottering wall."
+        },
+        "hi": {
+          "line1": "योग्य व्यक्ति कुल में नहीं, जो थामेगा टेक ।",
+          "line2": "जड़ में विपदा काटते, गिर जाये कुल नेक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Idukkan Kaalkon Ridaveezhu Maduththoonru",
+            "line2": "Nallaa Lilaadha Kudi."
+          },
+          "hi": {
+            "line1": "इडुक्कण् काल्गॊन् रिडवीऴु मडुत्तून्द्रु",
+            "line2": "नल्ला ळिलाद कुडि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வந்து தாங்கும் நல்ல ஆண்மகன் இல்லாத குடியானது, துன்பம் அதன் அடிவேரை வெட்டத் தொடங்கியவுடன் கீழே விழுந்துவிடும்.",
+        "en": "Without a steady, dependable pillar to hold things together, a household crumbles the moment crisis hits its roots.",
+        "hi": "यदि किसी अच्छे कुल में कोई ऐसा योग्य व्यक्ति न हो जो संकट के समय उसे संभाल ले, तो विपत्ति द्वारा जड़ काटते ही वह कुल गिर जाता है।"
+      }
+    }
+  ]
+}

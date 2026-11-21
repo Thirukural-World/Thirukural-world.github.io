@@ -1,0 +1,930 @@
+{
+  "chapterNum": 93,
+  "nameTa": "கள்ளுண்ணாமை",
+  "nameEn": "Not Drinking Palm-Wine",
+  "nameHi": "मद्य-निषेध",
+  "paal": "பொருட்பால்",
+  "iyal": "அங்கவியல்",
+  "kurals": [
+    {
+      "num": 921,
+      "line1": "உட்கப் படாஅ ரொளியிழப்ப ரெஞ்ஞான்றுங்",
+      "line2": "கட்காதல் கொண்டொழுகு வார்.",
+      "enLine1": "Who love the palm's intoxicating juice, each day,",
+      "enLine2": "No rev'rence they command, their glory fades away.",
+      "hiLine1": "जो मधु पर आसक्त हैं, खोते हैं सम्मान ।",
+      "hiLine2": "शत्रु कभी डरते नहीं, उनसे कुछ भय मान ॥",
+      "general": "கள்ளின் மேல் விருப்பம் கொண்டு நடப்பவர்கள், எக்காலத்திலும் பகைவரால் அஞ்சப்பட மாட்டார்கள்; தம் புகழையும் இழந்துவிடுவார்கள்.",
+      "en": "Those who indulge in intoxicating drink lose their dignity and never command respect or awe from others.",
+      "hi": "जो लोग मदिरा पर आसक्त रहते हैं, वे अपना सम्मान खो देते हैं; शत्रु भी उनसे तनिक भी भय नहीं मानते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உட்கப்படாஅர் <br>(Utkappadaaar)",
+          "ta": "பகைவரால் அஞ்சப்பட மாட்டார்",
+          "en": "No rev'rence command",
+          "hi": "शत्रु कभी डरते नहीं"
+        },
+        {
+          "no": 2,
+          "word": "ஒளி <br>(Oli)",
+          "ta": "தம் புகழை",
+          "en": "Their glory",
+          "hi": "सम्मान"
+        },
+        {
+          "no": 3,
+          "word": "இழப்பர் <br>(Izhappar)",
+          "ta": "இழப்பார்",
+          "en": "Fades away",
+          "hi": "खोते हैं"
+        },
+        {
+          "no": 4,
+          "word": "எஞ்ஞான்றும் <br>(Enjnaandrum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "Each day",
+          "hi": "कभी"
+        },
+        {
+          "no": 5,
+          "word": "கள் காதல் <br>(Kal kaadhal)",
+          "ta": "கள்ளின் மேல் ஆசை",
+          "en": "Love intoxicating juice",
+          "hi": "जो मधु पर आसक्त हैं"
+        },
+        {
+          "no": 6,
+          "word": "கொண்டு ஒழுகுவார் <br>(Kondu ozhuguvaar)",
+          "ta": "கொண்டு நடப்பவர்",
+          "en": "Who indulge",
+          "hi": "रहते हैं"
+        },
+        {
+          "no": 7,
+          "word": "மதிப்பு <br>(Madhippu)",
+          "ta": "மதிப்பு",
+          "en": "Reverence",
+          "hi": "सम्मान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உட்கப் படாஅ ரொளியிழப்ப ரெஞ்ஞான்றுங்",
+          "line2": "கட்காதல் கொண்டொழுகு வார்."
+        },
+        "en": {
+          "line1": "Who love the palm's intoxicating juice, each day,",
+          "line2": "No rev'rence they command, their glory fades away."
+        },
+        "hi": {
+          "line1": "जो मधु पर आसक्त हैं, खोते हैं सम्मान ।",
+          "line2": "शत्रु कभी डरते नहीं, उनसे कुछ भय मान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Utkap Padaaa Roliyizhappa Renynyaanrung",
+            "line2": "Katkaadhal Kondozhugu Vaar."
+          },
+          "hi": {
+            "line1": "उट्कप् पडाअ रॊळियिऴप्प रॆञ्ञान्द्रुङ्",
+            "line2": "गट्कादल् कॊण्डॊऴुगु वार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கள்ளின் மேல் விருப்பம் கொண்டு நடப்பவர்கள், எக்காலத்திலும் பகைவரால் அஞ்சப்பட மாட்டார்கள்; தம் புகழையும் இழந்துவிடுவார்கள்.",
+        "en": "Habitual drinking erodes your standing—people stop taking you seriously and your reputation fades.",
+        "hi": "जो लोग मदिरा पर आसक्त रहते हैं, वे अपना सम्मान खो देते हैं; शत्रु भी उनसे तनिक भी भय नहीं मानते।"
+      }
+    },
+    {
+      "num": 922,
+      "line1": "உண்ணற்க கள்ளை யுணிலுண்க சான்றோரா",
+      "line2": "லெண்ணப் படவேண்டா தார்.",
+      "enLine1": "Drink not inebriating draught. Let him count well the cost",
+      "enLine2": "Who drinks. By drinking, all good men's esteem is lost.",
+      "hiLine1": "मद्य न पीना, यदि पिये, वही पिये सोत्साह ।",
+      "hiLine2": "साधु जनों के मान की, जिसे नहीं परवाह ॥",
+      "general": "கள்ளை உண்ணக் கூடாது; சான்றோரால் நன்கு மதிக்கப்பட வேண்டாம் என்று நினைப்பவர்கள் வேண்டுமானால் அதனை உண்ணலாம்.",
+      "en": "Do not drink liquor; if anyone still chooses to drink it, let it be only those who do not care to be respected by the wise.",
+      "hi": "मदिरा कभी नहीं पीनी चाहिए; यदि कोई उत्साह से पीता है, तो वही पिए जिसे सज्जनों के सम्मान की कोई परवाह नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உண்ணற்க <br>(Unnarka)",
+          "ta": "உண்ணக் கூடாது",
+          "en": "Drink not",
+          "hi": "न पीना"
+        },
+        {
+          "no": 2,
+          "word": "கள்ளை <br>(Kallai)",
+          "ta": "கள்ளை",
+          "en": "Inebriating draught",
+          "hi": "मद्य"
+        },
+        {
+          "no": 3,
+          "word": "உணில் உண்க <br>(Unil unga)",
+          "ta": "குடிப்பதானால் குடிக்கட்டும்",
+          "en": "Who drinks",
+          "hi": "यदि पिये, वही पिये"
+        },
+        {
+          "no": 4,
+          "word": "சான்றோரால் <br>(Saandroraal)",
+          "ta": "சான்றோர்களால்",
+          "en": "Good men's",
+          "hi": "साधु जनों के"
+        },
+        {
+          "no": 5,
+          "word": "எண்ணப்பட <br>(Ennappada)",
+          "ta": "மதிக்கப்பட",
+          "en": "Esteem",
+          "hi": "मान की"
+        },
+        {
+          "no": 6,
+          "word": "வேண்டாதார் <br>(Vendaadhaar)",
+          "ta": "விரும்பாதவர்",
+          "en": "Who care not",
+          "hi": "जिसे नहीं परवाह"
+        },
+        {
+          "no": 7,
+          "word": "மதிப்பு <br>(Madhippu)",
+          "ta": "மதிப்பு",
+          "en": "Esteem",
+          "hi": "सम्मान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உண்ணற்க கள்ளை யுணிலுண்க சான்றோரா",
+          "line2": "லெண்ணப் படவேண்டா தார்."
+        },
+        "en": {
+          "line1": "Drink not inebriating draught. Let him count well the cost",
+          "line2": "Who drinks. By drinking, all good men's esteem is lost."
+        },
+        "hi": {
+          "line1": "मद्य न पीना, यदि पिये, वही पिये सोत्साह ।",
+          "line2": "साधु जनों के मान की, जिसे नहीं परवाह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Unnarka Kallai Yunilunka Saanroraa",
+            "line2": "Lennap Padavendaa Thaar."
+          },
+          "hi": {
+            "line1": "उण्णर्क कळ्ळै युणिलुण्ग सान्द्रोरा",
+            "line2": "लॆण्णप् पडवेण्डा दार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கள்ளை உண்ணக் கூடாது; சான்றோரால் நன்கு மதிக்கப்பட வேண்டாம் என்று நினைப்பவர்கள் வேண்டுமானால் அதனை உண்ணலாம்.",
+        "en": "Don't drink—the only people who can afford to are those who don't mind losing the respect of decent people.",
+        "hi": "मदिरा कभी नहीं पीनी चाहिए; यदि कोई उत्साह से पीता है, तो वही पिए जिसे सज्जनों के सम्मान की कोई परवाह नहीं है।"
+      }
+    },
+    {
+      "num": 923,
+      "line1": "ஈன்றாள் முகத்தேயு மின்னாதா லென்மற்றுச்",
+      "line2": "சான்றோர் முகத்துக் களி.",
+      "enLine1": "The drunkard's joy is sorrow to his mother's eyes;",
+      "enLine2": "What must it be in presence of the truly wise?",
+      "hiLine1": "माँ के सम्मुख भी रही, मद-मत्तता खराब ।",
+      "hiLine2": "तो फिर सम्मुख साधु के, कितनी बुरी शराब ॥",
+      "general": "கள் குடித்து மயங்குவது தன்னைப் பெற்ற தாயின் முகத்தின் எதிரிலும் துன்பம் தருவதாகும்; அப்படியிருக்கச் சான்றோரின் முகத்தின் எதிரில் அது எத்தகையதாக இருக்கும்?",
+      "en": "Drunkenness is painful even in the presence of one's own loving mother; how much more shameful is it before the wise?",
+      "hi": "जब अपनी जन्म देने वाली माँ के सामने भी मदिरा का नशा बुरा लगता है, तो फिर सज्जनों और साधु पुरुषों के सामने शराब पीना कितना बुरा होगा!",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஈன்றாள் <br>(Eendraal)",
+          "ta": "பெற்ற தாயின்",
+          "en": "His mother's",
+          "hi": "माँ के"
+        },
+        {
+          "no": 2,
+          "word": "முகத்தேயும் <br>(Mugaththeyum)",
+          "ta": "முகத்தின் முன்பும்",
+          "en": "To eyes",
+          "hi": "सम्मुख भी"
+        },
+        {
+          "no": 3,
+          "word": "இன்னாது ஆல் <br>(Innaadhu aal)",
+          "ta": "துன்பம் தருவது",
+          "en": "Is sorrow",
+          "hi": "रही खराब"
+        },
+        {
+          "no": 4,
+          "word": "என் மற்று <br>(En matru)",
+          "ta": "என்னவாகும்",
+          "en": "What must it be",
+          "hi": "तो फिर कितनी बुरी"
+        },
+        {
+          "no": 5,
+          "word": "சான்றோர் <br>(Saandror)",
+          "ta": "சான்றோர்களின்",
+          "en": "Truly wise",
+          "hi": "साधु के"
+        },
+        {
+          "no": 6,
+          "word": "முகத்து <br>(Mugaththu)",
+          "ta": "முகத்தின் முன்பு",
+          "en": "In presence of",
+          "hi": "सम्मुख"
+        },
+        {
+          "no": 7,
+          "word": "களி <br>(Kali)",
+          "ta": "குடி மயக்கம்",
+          "en": "Drunkard's joy",
+          "hi": "मद-मत्तता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஈன்றாள் முகத்தேயு மின்னாதா லென்மற்றுச்",
+          "line2": "சான்றோர் முகத்துக் களி."
+        },
+        "en": {
+          "line1": "The drunkard's joy is sorrow to his mother's eyes;",
+          "line2": "What must it be in presence of the truly wise?"
+        },
+        "hi": {
+          "line1": "माँ के सम्मुख भी रही, मद-मत्तता खराब ।",
+          "line2": "तो फिर सम्मुख साधु के, कितनी बुरी शराब ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Eenraal Mugaththeyu Minnaadhaa Lenmatrus",
+            "line2": "Saanror Mugaththuk Kali."
+          },
+          "hi": {
+            "line1": "ईन्द्राळ् मुगत्तेयु मिन्नादा लॆन्मत्र्रुच्",
+            "line2": "सान्द्रोर् मुगत्तुक् कळि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கள் குடித்து மயங்குவது தன்னைப் பெற்ற தாயின் முகத்தின் எதிரிலும் துன்பம் தருவதாகும்; அப்படியிருக்கச் சான்றோரின் முகத்தின் எதிரில் அது எத்தகையதாக இருக்கும்?",
+        "en": "Even a forgiving mother hates seeing her child drunk—imagine how much worse it looks in front of respected peers.",
+        "hi": "जब अपनी जन्म देने वाली माँ के सामने भी मदिरा का नशा बुरा लगता है, तो फिर सज्जनों और साधु पुरुषों के सामने शराब पीना कितना बुरा होगा!"
+      }
+    },
+    {
+      "num": 924,
+      "line1": "நாணென்னு நல்லாள் புறங்கொடுக்குங் கள்ளென்னும்",
+      "line2": "பேணாப் பெருங்குற்றத் தார்க்கு.",
+      "enLine1": "Shame, goodly maid, will turn her back for aye on them",
+      "enLine2": "Who sin the drunkard's grievous sin, that all condemn.",
+      "hiLine1": "जग-निंदित अति दोषयुत, जो हैं शराबखोर ।",
+      "hiLine2": "उनसे लज्जा-सुन्दरी, मुँह लेती है मोड़ ॥",
+      "general": "கள் உண்ணுதல் என்னும் பெரியோர் விரும்பாத பெரும் குற்றத்தைச் செய்பவர்க்கு, நாணம் என்னும் நல்ல பெண் முதுகு காட்டி விலகிச் செல்வாள்.",
+      "en": "The noble virtue of modesty turns its back on those guilty of the despised vice of drunkenness.",
+      "hi": "संसार द्वारा निन्दित और अत्यन्त दोषयुक्त जो शराबी लोग हैं, उनसे लज्जा रूपी सुन्दरी अपना मुँह मोड़ लेती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நாண் என்னும் <br>(Naan ennum)",
+          "ta": "நாணம் என்னும்",
+          "en": "Shame",
+          "hi": "लज्जा"
+        },
+        {
+          "no": 2,
+          "word": "நல்லாள் <br>(Nallaal)",
+          "ta": "நல்ல மங்கை",
+          "en": "Goodly maid",
+          "hi": "सुन्दरी"
+        },
+        {
+          "no": 3,
+          "word": "புறம் கொடுக்கும் <br>(Puram kodukkum)",
+          "ta": "விலகிச் செல்வாள்",
+          "en": "Will turn her back",
+          "hi": "मुँह लेती है मोड़"
+        },
+        {
+          "no": 4,
+          "word": "கள் என்னும் <br>(Kal ennum)",
+          "ta": "கள் உண்ணும்",
+          "en": "Drunkard's",
+          "hi": "शराबखोर"
+        },
+        {
+          "no": 5,
+          "word": "பேணாப் <br>(Penaap)",
+          "ta": "பழித்தற்குரிய",
+          "en": "That all condemn",
+          "hi": "जग-निंदित"
+        },
+        {
+          "no": 6,
+          "word": "பெருங் குற்றத்தார்க்கு <br>(Perung kutraththaarkku)",
+          "ta": "பெரிய குற்றமுடையவர்க்கு",
+          "en": "Grievous sin",
+          "hi": "अति दोषयुत"
+        },
+        {
+          "no": 7,
+          "word": "நாணம் <br>(Naanam)",
+          "ta": "நாணம்",
+          "en": "Modesty",
+          "hi": "लज्जा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாணென்னு நல்லாள் புறங்கொடுக்குங் கள்ளென்னும்",
+          "line2": "பேணாப் பெருங்குற்றத் தார்க்கு."
+        },
+        "en": {
+          "line1": "Shame, goodly maid, will turn her back for aye on them",
+          "line2": "Who sin the drunkard's grievous sin, that all condemn."
+        },
+        "hi": {
+          "line1": "जग-निंदित अति दोषयुत, जो हैं शराबखोर ।",
+          "line2": "उनसे लज्जा-सुन्दरी, मुँह लेती है मोड़ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naanennu Nallaal Puranggodukkung Kallennum",
+            "line2": "Penaap Perunggutrath Thaarkku."
+          },
+          "hi": {
+            "line1": "नाणॆन्नु नल्लाल् पुरङ्कॊडुक्कुङ् कळ्ळॆन्नुम्",
+            "line2": "पेणाप् पॆरुङ्कुत्र्रत् तार्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கள் உண்ணுதல் என்னும் பெரியோர் விரும்பாத பெரும் குற்றத்தைச் செய்பவர்க்கு, நாணம் என்னும் நல்ல பெண் முதுகு காட்டி விலகிச் செல்வாள்.",
+        "en": "Self-respect and a sense of shame walk right out the door when heavy drinking takes over.",
+        "hi": "संसार द्वारा निन्दित और अत्यन्त दोषयुक्त जो शराबी लोग हैं, उनसे लज्जा रूपी सुन्दरी अपना मुँह मोड़ लेती है।"
+      }
+    },
+    {
+      "num": 925,
+      "line1": "கையறி யாமை யுடைத்தே பொருள்கொடுத்து",
+      "line2": "மெய்யறி யாமை கொளல்.",
+      "enLine1": "With gift of goods who self-oblivion buys,",
+      "enLine2": "Is ignorant of all that man should prize.",
+      "hiLine1": "विस्मृति अपनी देह की, क्रय करना दे दाम ।",
+      "hiLine2": "यों जाने बिन कर्म-फल, कर देना है काम ॥",
+      "general": "கைப்பொருளைக் கொடுத்துத் தன்னையே மறந்துவிடும் மயக்கத்தை விலைக்கு வாங்குவது, செய்யத்தகும் முறை அறியாத அறியாமையை உடையதாகும்.",
+      "en": "Spending hard-earned money to buy a state where one loses awareness of oneself is sheer ignorance of right conduct.",
+      "hi": "पैसे देकर अपने ही शरीर की सुध-बुध खो देना (विस्मृति खरीद लेना), कर्म का फल जाने बिना किया गया मूर्खतापूर्ण कार्य है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கை அறியாமை <br>(Kai ariyaamai)",
+          "ta": "ஒழுக்கமறியாத தன்மை",
+          "en": "Is ignorant",
+          "hi": "जाने बिन कर्म-फल"
+        },
+        {
+          "no": 2,
+          "word": "உடைத்தே <br>(Udaiththe)",
+          "ta": "உடையது",
+          "en": "Has",
+          "hi": "है काम"
+        },
+        {
+          "no": 3,
+          "word": "பொருள் கொடுத்து <br>(Porul koduththu)",
+          "ta": "பொருளைக் கொடுத்து",
+          "en": "With gift of goods",
+          "hi": "दे दाम"
+        },
+        {
+          "no": 4,
+          "word": "மெய் அறியாமை <br>(Mey ariyaamai)",
+          "ta": "தன்னை மறக்கும் மயக்கத்தை",
+          "en": "Self-oblivion",
+          "hi": "विस्मृति अपनी देह की"
+        },
+        {
+          "no": 5,
+          "word": "கொளல் <br>(Kolal)",
+          "ta": "வாங்குதல்",
+          "en": "Buys",
+          "hi": "क्रय करना"
+        },
+        {
+          "no": 6,
+          "word": "அறியாமை <br>(Ariyaamai)",
+          "ta": "அறியாமை",
+          "en": "Ignorance",
+          "hi": "अज्ञान"
+        },
+        {
+          "no": 7,
+          "word": "மயக்கம் <br>(Mayakkam)",
+          "ta": "மயக்கம்",
+          "en": "Oblivion",
+          "hi": "विस्मृति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கையறி யாமை யுடைத்தே பொருள்கொடுத்து",
+          "line2": "மெய்யறி யாமை கொளல்."
+        },
+        "en": {
+          "line1": "With gift of goods who self-oblivion buys,",
+          "line2": "Is ignorant of all that man should prize."
+        },
+        "hi": {
+          "line1": "विस्मृति अपनी देह की, क्रय करना दे दाम ।",
+          "line2": "यों जाने बिन कर्म-फल, कर देना है काम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaiyari Yaamai Yudaiththe Porulkoduththu",
+            "line2": "Meyyari Yaamai Kolal."
+          },
+          "hi": {
+            "line1": "कैयरि यामै युडैत्ते पॊरुळ्गॊडुत्तु",
+            "line2": "मॆय्यरि यामै कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கைப்பொருளைக் கொடுத்துத் தன்னையே மறந்துவிடும் மயக்கத்தை விலைக்கு வாங்குவது, செய்யத்தகும் முறை அறியாத அறியாமையை உடையதாகும்.",
+        "en": "Paying good money just to lose control of your own mind is one of the strangest bargains a person can make.",
+        "hi": "पैसे देकर अपने ही शरीर की सुध-बुध खो देना (विस्मृति खरीद लेना), कर्म का फल जाने बिना किया गया मूर्खतापूर्ण कार्य है।"
+      }
+    },
+    {
+      "num": 926,
+      "line1": "துஞ்சினார் செத்தாரின் வேறல்ல ரெஞ்ஞான்று",
+      "line2": "நஞ்சுண்பார் கள்ளுண் பவர்.",
+      "enLine1": "Sleepers are as the dead, no otherwise they seem;",
+      "enLine2": "Who drink intoxicating draughts, they poison quaff, we deem.",
+      "hiLine1": "सोते जन तो मृतक से, होते हैं नहिं भिन्न ।",
+      "hiLine2": "विष पीते जन से सदा, मद्यप रहे अभिन्न ॥",
+      "general": "உறங்குபவர்கள் இறந்தவர்களை விட வேறுபட்டவர்கள் அல்லர்; அதுபோலக் கள் உண்பவர்களும் எப்போதும் நஞ்சு உண்பவர்களே ஆவர்.",
+      "en": "Those fast asleep are no different from the dead; likewise, those who drink liquor are no different from those who drink poison.",
+      "hi": "जिस प्रकार गहरी नींद में सोते हुए लोग मृतकों से भिन्न नहीं होते, उसी प्रकार मदिरा पीने वाले लोग सदा विष पीने वालों के ही समान हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "துஞ்சினார் <br>(Thunjinaar)",
+          "ta": "உறங்குபவர்",
+          "en": "Sleepers",
+          "hi": "सोते जन तो"
+        },
+        {
+          "no": 2,
+          "word": "செத்தாரின் <br>(Seththaarin)",
+          "ta": "இறந்தவரை விட",
+          "en": "As the dead",
+          "hi": "मृतक से"
+        },
+        {
+          "no": 3,
+          "word": "வேறு அல்லர் <br>(Veru allar)",
+          "ta": "வேறுபட்டவர் அல்லர்",
+          "en": "No otherwise",
+          "hi": "होते हैं नहिं भिन्न"
+        },
+        {
+          "no": 4,
+          "word": "எஞ்ஞான்றும் <br>(Enjnaandrum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "Always",
+          "hi": "सदा"
+        },
+        {
+          "no": 5,
+          "word": "நஞ்சு உண்பார் <br>(Nanju unbaar)",
+          "ta": "நஞ்சு உண்பவரே",
+          "en": "They poison quaff",
+          "hi": "विष पीते जन से"
+        },
+        {
+          "no": 6,
+          "word": "கள் உண்பவர் <br>(Kal unbavar)",
+          "ta": "கள் உண்பவர்",
+          "en": "Who drink draughts",
+          "hi": "मद्यप"
+        },
+        {
+          "no": 7,
+          "word": "நஞ்சு <br>(Nanju)",
+          "ta": "நஞ்சு",
+          "en": "Poison",
+          "hi": "विष"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "துஞ்சினார் செத்தாரின் வேறல்ல ரெஞ்ஞான்று",
+          "line2": "நஞ்சுண்பார் கள்ளுண் பவர்."
+        },
+        "en": {
+          "line1": "Sleepers are as the dead, no otherwise they seem;",
+          "line2": "Who drink intoxicating draughts, they poison quaff, we deem."
+        },
+        "hi": {
+          "line1": "सोते जन तो मृतक से, होते हैं नहिं भिन्न ।",
+          "line2": "विष पीते जन से सदा, मद्यप रहे अभिन्न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thunjinaar Seththaarin Veralla Renynyaanru",
+            "line2": "Nanjunpaar Kallun Pavar."
+          },
+          "hi": {
+            "line1": "तुञ्जिनार् सॆत्तारिन् वेरल्ल रॆञ्ञान्द्रु",
+            "line2": "नञ्जुण्बार् कळ्ळुण् बवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உறங்குபவர்கள் இறந்தவர்களை விட வேறுபட்டவர்கள் அல்லர்; அதுபோலக் கள் உண்பவர்களும் எப்போதும் நஞ்சு உண்பவர்களே ஆவர்.",
+        "en": "Deep sleep is a temporary death, and drinking liquor is just drinking slow poison.",
+        "hi": "जिस प्रकार गहरी नींद में सोते हुए लोग मृतकों से भिन्न नहीं होते, उसी प्रकार मदिरा पीने वाले लोग सदा विष पीने वालों के ही समान हैं।"
+      }
+    },
+    {
+      "num": 927,
+      "line1": "உள்ளொற்றி யுள்ளூர் நகப்படுவ ரெஞ்ஞான்றுங்",
+      "line2": "கள்ளொற்றிக் கண்சாய் பவர்.",
+      "enLine1": "Who turn aside to drink, and droop their heavy eye,",
+      "enLine2": "Shall be their townsmen's jest, when they the fault espy.",
+      "hiLine1": "जो लुक-छिप मधु पान कर, खोते होश-हवास ।",
+      "hiLine2": "भेद जान पुर-जन सदा, करते हैं परिहास ॥",
+      "general": "மறைவாகக் கள்ளைக் குடித்து மயங்கித் தள்ளாடுபவர்களை, உள்ளே ஆராய்ந்தறிந்து ஊர்மக்கள் எப்போதும் எள்ளி நகையாடுவார்கள்.",
+      "en": "Those who secretly drink and stagger with heavy eyes are always found out and mocked by their own townsfolk.",
+      "hi": "जो लोग लुक-छिपकर मदिरा पीते हैं और होश-हवास खो बैठते हैं, नगर के लोग उनका भेद जानकर सदा उनका उपहास करते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உள் ஒற்றி <br>(Ul otri)",
+          "ta": "உள்ளே மறைந்திருப்பதை அறிந்து",
+          "en": "When fault espy",
+          "hi": "भेद जान"
+        },
+        {
+          "no": 2,
+          "word": "உள்ளூர் <br>(Ulloor)",
+          "ta": "உள்ளூராரால்",
+          "en": "Townsmen's",
+          "hi": "पुर-जन"
+        },
+        {
+          "no": 3,
+          "word": "நகப்படுவர் <br>(Nagappaduvar)",
+          "ta": "சிரிக்கப்படுவர்",
+          "en": "Shall be jest",
+          "hi": "करते हैं परिहास"
+        },
+        {
+          "no": 4,
+          "word": "எஞ்ஞான்றும் <br>(Enjnaandrum)",
+          "ta": "எக்காலத்திலும்",
+          "en": "Always",
+          "hi": "सदा"
+        },
+        {
+          "no": 5,
+          "word": "கள் ஒற்றி <br>(Kal otri)",
+          "ta": "மறைவாகக் கள் குடித்து",
+          "en": "Turn aside to drink",
+          "hi": "जो लुक-छिप मधु पान कर"
+        },
+        {
+          "no": 6,
+          "word": "கண் சாய்பவர் <br>(Kan saaybavar)",
+          "ta": "கண் மயங்குபவர்",
+          "en": "Droop heavy eye",
+          "hi": "खोते होश-हवास"
+        },
+        {
+          "no": 7,
+          "word": "இகழ்ச்சி <br>(Igazhchi)",
+          "ta": "இகழ்ச்சி",
+          "en": "Mockery",
+          "hi": "उपहास"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உள்ளொற்றி யுள்ளூர் நகப்படுவ ரெஞ்ஞான்றுங்",
+          "line2": "கள்ளொற்றிக் கண்சாய் பவர்."
+        },
+        "en": {
+          "line1": "Who turn aside to drink, and droop their heavy eye,",
+          "line2": "Shall be their townsmen's jest, when they the fault espy."
+        },
+        "hi": {
+          "line1": "जो लुक-छिप मधु पान कर, खोते होश-हवास ।",
+          "line2": "भेद जान पुर-जन सदा, करते हैं परिहास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ullotri Yulloor Nagappaduva Renynyaanrung",
+            "line2": "Kallotrik Kansaay Pavar."
+          },
+          "hi": {
+            "line1": "उळ्ळॊत्रि युळ्ळूर् नगप्पडुव रॆञ्ञान्द्रुङ्",
+            "line2": "गळ्ळॊत्रिक् कण्साय् बवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மறைவாகக் கள்ளைக் குடித்து மயங்கித் தள்ளாடுபவர்களை, உள்ளே ஆராய்ந்தறிந்து ஊர்மக்கள் எப்போதும் எள்ளி நகையாடுவார்கள்.",
+        "en": "Drinking in secret doesn't fool anyone—people notice the slurred eyes and end up laughing behind your back.",
+        "hi": "जो लोग लुक-छिपकर मदिरा पीते हैं और होश-हवास खो बैठते हैं, नगर के लोग उनका भेद जानकर सदा उनका उपहास करते हैं।"
+      }
+    },
+    {
+      "num": 928,
+      "line1": "களித்தறியே னென்பது கைவிடுக நெஞ்சத்",
+      "line2": "தொளித்ததூஉ மாங்கே மிகும்.",
+      "enLine1": "No more in secret drink, and then deny thy hidden fraud ;",
+      "enLine2": "What in thy mind lies hid shall soon be known abroad.",
+      "hiLine1": "'मधु पीना जाना नहीं', तज देना यह घोष ।",
+      "hiLine2": "पीने पर झट हो प्रकट, मन में गोपित दोष ॥",
+      "general": "'நான் கள் குடித்து மயங்கியதில்லை' என்று பொய் சொல்வதை விட்டுவிட வேண்டும்; ஏனெனில் மனத்தில் ஒளித்திருந்த குற்றமும் குடித்தவுடன் வெளிப்பட்டுவிடும்.",
+      "en": "Stop claiming 'I have never been drunk'; whatever you hid in your mind will soon pour out openly once you drink.",
+      "hi": "'मैं शराब पीना नहीं जानता'—ऐसी झूठी घोषणा छोड़ दो, क्योंकि पीने पर मन में छिपे हुए सारे दोष तुरन्त बाहर प्रकट हो जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "களித்து அறியேன் <br>(Kaliththu ariyen)",
+          "ta": "குடித்து மயங்கியதில்லை",
+          "en": "Deny hidden fraud",
+          "hi": "मधु पीना जाना नहीं"
+        },
+        {
+          "no": 2,
+          "word": "என்பது <br>(Enbadhu)",
+          "ta": "என்று கூறுவதை",
+          "en": "That",
+          "hi": "यह घोष"
+        },
+        {
+          "no": 3,
+          "word": "கைவிடுக <br>(Kaividuga)",
+          "ta": "விட்டுவிடுக",
+          "en": "No more",
+          "hi": "तज देना"
+        },
+        {
+          "no": 4,
+          "word": "நெஞ்சத்து <br>(Nenjaththu)",
+          "ta": "மனத்தில்",
+          "en": "In thy mind",
+          "hi": "मन में"
+        },
+        {
+          "no": 5,
+          "word": "ஒளித்ததூஉம் <br>(Oliththadhooum)",
+          "ta": "மறைத்திருந்ததும்",
+          "en": "Lies hid",
+          "hi": "गोपित दोष"
+        },
+        {
+          "no": 6,
+          "word": "ஆங்கே <br>(Aange)",
+          "ta": "அப்போதே",
+          "en": "Soon",
+          "hi": "पीने पर झट"
+        },
+        {
+          "no": 7,
+          "word": "மிகும் <br>(Migum)",
+          "ta": "வெளிப்படும்",
+          "en": "Be known abroad",
+          "hi": "हो प्रकट"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "களித்தறியே னென்பது கைவிடுக நெஞ்சத்",
+          "line2": "தொளித்ததூஉ மாங்கே மிகும்."
+        },
+        "en": {
+          "line1": "No more in secret drink, and then deny thy hidden fraud ;",
+          "line2": "What in thy mind lies hid shall soon be known abroad."
+        },
+        "hi": {
+          "line1": "'मधु पीना जाना नहीं', तज देना यह घोष ।",
+          "line2": "पीने पर झट हो प्रकट, मन में गोपित दोष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaliththariye Nenpadhu Kaividuga Nenjath",
+            "line2": "Tholiththadhoou Maangge Migum."
+          },
+          "hi": {
+            "line1": "कळित्तऱिये नॆन्बदु कैविडुग नॆञ्जत्",
+            "line2": "तॊळित्तदूउ माङ्गे मिगुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'நான் கள் குடித்து மயங்கியதில்லை' என்று பொய் சொல்வதை விட்டுவிட வேண்டும்; ஏனெனில் மனத்தில் ஒளித்திருந்த குற்றமும் குடித்தவுடன் வெளிப்பட்டுவிடும்.",
+        "en": "Drop the act of pretending you don't drink—the moment alcohol hits, every secret you've been hiding spills right out.",
+        "hi": "'मैं शराब पीना नहीं जानता'—ऐसी झूठी घोषणा छोड़ दो, क्योंकि पीने पर मन में छिपे हुए सारे दोष तुरन्त बाहर प्रकट हो जाते हैं।"
+      }
+    },
+    {
+      "num": 929,
+      "line1": "களித்தானைக் காரணங் காட்டுதல் கீழ்நீர்க்",
+      "line2": "குளித்தானைத் தீத்துரீஇ யற்று.",
+      "enLine1": "Like him who, lamp in hand, would seek one sunk beneath the wave,",
+      "enLine2": "Is he who strives to sober drunken man with reasonings grave.",
+      "hiLine1": "मद्यप का उपदेश से, होना होश-हवास ।",
+      "hiLine2": "दीपक ले जल-मग्न की, करना यथा तलाश ॥",
+      "general": "கள் குடித்து மயங்கியவனுக்கு அறிவுரை கூறித் தெளிவிக்க முயல்வது, நீருக்குள் மூழ்கியவனைத் தீப்பந்தம் கொண்டு தேடுவது போன்றதாகும்.",
+      "en": "Trying to reason with a drunk person is like taking a lit torch underwater to search for someone who has drowned.",
+      "hi": "नशे में धुत व्यक्ति को उपदेश देकर होश में लाने का प्रयास करना वैसा ही है, जैसे कोई दीपक लेकर पानी में डूबे हुए व्यक्ति की तलाश करे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "களித்தானை <br>(Kaliththaanai)",
+          "ta": "குடித்து மயங்கியவனுக்கு",
+          "en": "Drunken man",
+          "hi": "मद्यप का"
+        },
+        {
+          "no": 2,
+          "word": "காரணம் காட்டுதல் <br>(Kaaranam kaattudhal)",
+          "ta": "அறிவுரை கூறுதல்",
+          "en": "Reasonings grave",
+          "hi": "उपदेश से"
+        },
+        {
+          "no": 3,
+          "word": "கீழ் நீர் <br>(Keezh neer)",
+          "ta": "ஆழமான நீரில்",
+          "en": "Beneath the wave",
+          "hi": "जल-मग्न की"
+        },
+        {
+          "no": 4,
+          "word": "குளித்தானை <br>(Kuliththaanai)",
+          "ta": "மூழ்கியவனை",
+          "en": "One sunk",
+          "hi": "डूबे हुए की"
+        },
+        {
+          "no": 5,
+          "word": "தீ <br>(Thee)",
+          "ta": "விளக்கால்",
+          "en": "Lamp in hand",
+          "hi": "दीपक ले"
+        },
+        {
+          "no": 6,
+          "word": "துரீஇயற்று <br>(Thureeiyatru)",
+          "ta": "தேடுவது போன்றது",
+          "en": "Would seek",
+          "hi": "करना यथा तलाश"
+        },
+        {
+          "no": 7,
+          "word": "பயனின்மை <br>(Payaninmai)",
+          "ta": "பயனற்றது",
+          "en": "Futile",
+          "hi": "व्यर्थ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "களித்தானைக் காரணங் காட்டுதல் கீழ்நீர்க்",
+          "line2": "குளித்தானைத் தீத்துரீஇ யற்று."
+        },
+        "en": {
+          "line1": "Like him who, lamp in hand, would seek one sunk beneath the wave,",
+          "line2": "Is he who strives to sober drunken man with reasonings grave."
+        },
+        "hi": {
+          "line1": "मद्यप का उपदेश से, होना होश-हवास ।",
+          "line2": "दीपक ले जल-मग्न की, करना यथा तलाश ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaliththaanaik Kaaranang Kaattudhal Keezhneerk",
+            "line2": "Kuliththaanaith Theeththureei Yatru."
+          },
+          "hi": {
+            "line1": "कळित्तानैक् कारणङ् काट्टुदल् कीऴ्नीर्क्",
+            "line2": "कुळित्तानैत् तीत्तुर्रीइ यत्र्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கள் குடித்து மயங்கியவனுக்கு அறிவுரை கூறித் தெளிவிக்க முயல்வது, நீருக்குள் மூழ்கியவனைத் தீப்பந்தம் கொண்டு தேடுவது போன்றதாகும்.",
+        "en": "Lecturing someone who's already drunk is as useless as bringing a candle underwater to find someone.",
+        "hi": "नशे में धुत व्यक्ति को उपदेश देकर होश में लाने का प्रयास करना वैसा ही है, जैसे कोई दीपक लेकर पानी में डूबे हुए व्यक्ति की तलाश करे।"
+      }
+    },
+    {
+      "num": 930,
+      "line1": "கள்ளுண்ணாப் போழ்திற் களித்தானைக் காணுங்கா",
+      "line2": "லுள்ளான்கொ லுண்டதன் சோர்வு.",
+      "enLine1": "When one, in sober interval, a drunken man espies,",
+      "enLine2": "Does he not think, 'Such is my folly in my revelries'?",
+      "hiLine1": "बिना पिये रहते समय, मद-मस्त को निहार ।",
+      "hiLine2": "सुस्ती का, पीते स्वयं, करता क्यों न विचार ॥",
+      "general": "கள் குடிக்காத தெளிந்த நேரத்தில் குடித்து மயங்கிய ஒருவனைப் பார்க்கும்போது, 'நானும் குடித்தால் இப்படித்தானே மயங்குவேன்' என்று அவன் எண்ணிப் பார்க்க மாட்டானா?",
+      "en": "When a drinker is sober and sees someone else staggering drunk, does he not realize how foolish he himself looks when he drinks?",
+      "hi": "जब शराबी व्यक्ति बिना पिए (होश में) रहते समय किसी दूसरे मदमस्त शराबी को देखता है, तो वह स्वयं पीते समय अपनी दशा का विचार क्यों नहीं करता?",
+      "words": [
+        {
+          "no": 1,
+          "word": "கள் உண்ணாப் போழ்தின் <br>(Kal unnaap pozhdhin)",
+          "ta": "கள் குடிக்காத நேரத்தில்",
+          "en": "In sober interval",
+          "hi": "बिना पिये रहते समय"
+        },
+        {
+          "no": 2,
+          "word": "களித்தானை <br>(Kaliththaanai)",
+          "ta": "குடித்து மயங்கியவனை",
+          "en": "A drunken man",
+          "hi": "मद-मस्त को"
+        },
+        {
+          "no": 3,
+          "word": "காணுங்கால் <br>(Kaanungaal)",
+          "ta": "பார்க்கும்போது",
+          "en": "Espies",
+          "hi": "निहार"
+        },
+        {
+          "no": 4,
+          "word": "உள்ளான்கொல் <br>(Ullaankol)",
+          "ta": "நினைக்க மாட்டானா",
+          "en": "Does he not think",
+          "hi": "करता क्यों न विचार"
+        },
+        {
+          "no": 5,
+          "word": "உண்டதன் <br>(Undadhan)",
+          "ta": "தானும் குடித்ததால் வரும்",
+          "en": "In my revelries",
+          "hi": "पीते स्वयं"
+        },
+        {
+          "no": 6,
+          "word": "சோர்வு <br>(Sorvu)",
+          "ta": "சோர்வை",
+          "en": "Folly",
+          "hi": "सुस्ती का"
+        },
+        {
+          "no": 7,
+          "word": "சிந்தனை <br>(Sindhanai)",
+          "ta": "சிந்தனை",
+          "en": "Reflection",
+          "hi": "विचार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கள்ளுண்ணாப் போழ்திற் களித்தானைக் காணுங்கா",
+          "line2": "லுள்ளான்கொ லுண்டதன் சோர்வு."
+        },
+        "en": {
+          "line1": "When one, in sober interval, a drunken man espies,",
+          "line2": "Does he not think, 'Such is my folly in my revelries'?"
+        },
+        "hi": {
+          "line1": "बिना पिये रहते समय, मद-मस्त को निहार ।",
+          "line2": "सुस्ती का, पीते स्वयं, करता क्यों न विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kallunnaap Pozhthir Kaliththaanaik Kaanunggaa",
+            "line2": "Lullaanko Lundadhan Sorvu."
+          },
+          "hi": {
+            "line1": "कळ्ळुण्णाप् पोऴ्दिर कळित्तानैक् काणुङ्गा",
+            "line2": "लुळ्ळान्गॊ लुण्डदन् सोर्वु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கள் குடிக்காத தெளிந்த நேரத்தில் குடித்து மயங்கிய ஒருவனைப் பார்க்கும்போது, 'நானும் குடித்தால் இப்படித்தானே மயங்குவேன்' என்று அவன் எண்ணிப் பார்க்க மாட்டானா?",
+        "en": "When you're sober and see someone else stumbling around drunk, why doesn't it click that you look just like that when you drink?",
+        "hi": "जब शराबी व्यक्ति बिना पिए (होश में) रहते समय किसी दूसरे मदमस्त शराबी को देखता है, तो वह स्वयं पीते समय अपनी दशा का विचार क्यों नहीं करता?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="ta" data-lang="ta">
+<head>
+<!-- ==========================================================================
+     DAILY-KURAL: CONSOLIDATED SPLIT-SCREEN SIGN IN & REGISTRATION GATEWAY (login.html)
+     - Left Panel: Editable Brand Logo, Email/Password Sign-In, Registration,
+                   Forgot Password, Google OAuth, Apple OAuth & Guest Access
+     - Right Panel: Editable Gold-Framed Thiruvalluvar Portrait & 4 Core Metrics
+     - Integrated Guest Session Tracking via Supabase RPC (increment_guest_visit)
+     ========================================================================== -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+<meta name="application-name" content="Daily-Kural">
+<meta name="description" content="Daily-Kural — திருக்குறள் (Thirukkural) Sign In & Reader Portal">
+<meta name="theme-color" content="#c26100">
+<title>Daily-Kural | திருக்குறள் — Sign In</title>
+
+<!-- GOOGLE FONTS -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Tamil:wght@400;600;700&display=swap" rel="stylesheet">
+
+<!-- SUPABASE SDK -->
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+<style>
+@font-face {
+  font-family: 'Vijaya';
+  src: local('Vijaya'), local('Vijaya Regular'), local('Vijaya-Regular');
+  font-display: swap;
+}
+
+:root {
+  --bg-color: #faf6ee;
+  --card-bg: #fffdf7;
+  --header-box: #fff8eb;
+  --text-main: #332619;
+  --text-muted: #59636a;
+  --accent: #c26100;
+  --accent-hover: #a34e00;
+  --border-color: #dfcba5;
+  --border-light: #ebd9b5;
+  --shadow-color: rgba(217, 119, 6, 0.10);
+}
+
+html.dark-mode, body.dark-mode {
+  --bg-color: #12161a !important;
+  --card-bg: #1c2228 !important;
+  --header-box: #242c34 !important;
+  --text-main: #e6edf3 !important;
+  --text-muted: #9ba7b4 !important;
+  --accent: #e58e26 !important;
+  --accent-hover: #fa983a !important;
+  --border-color: #3b4654 !important;
+  --border-light: #2d3742 !important;
+  --shadow-color: rgba(0, 0, 0, 0.45) !important;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  width: 100%;
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  font-family: 'Vijaya', 'Noto Serif Tamil', Georgia, serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* TOP MINI UTILITY BAR (THEME TOGGLE) */
+.login-top-utility {
+  width: 100%;
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 14px 20px 0;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.mini-util-btn {
+  background: var(--card-bg);
+  color: var(--text-main);
+  border: 1.5px solid var(--border-color);
+  border-radius: 20px;
+  padding: 5px 14px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.mini-util-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* SPLIT-SCREEN CONTAINER */
+.login-split-wrapper {
+  width: 100%;
+  max-width: 1120px;
+  margin: auto;
+  padding: 20px 20px 32px;
+  display: grid;
+  grid-template-columns: 1fr 1.05fr;
+  gap: 44px;
+  align-items: center;
+}
+
+/* LEFT COLUMN: BRAND HEADER + AUTH CARD */
+.login-left-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.brand-header-block {
+  margin-bottom: 18px;
+}
+
+.brand-logo-img {
+  width: 96px;
+  height: 68px;
+  object-fit: contain;
+  margin-bottom: 6px;
+}
+
+.brand-kicker {
+  font-size: 13px;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: bold;
+}
+
+.brand-tamil-sub {
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--accent);
+  margin-top: 2px;
+}
+
+.brand-main-title {
+  margin: 2px 0 6px;
+  font-size: clamp(32px, 4.5vw, 44px);
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: var(--text-main);
+  line-height: 1.1;
+}
+
+.brand-tagline {
+  font-size: 15px;
+  color: var(--text-muted);
+  max-width: 400px;
+  margin: 0 auto 6px;
+  line-height: 1.5;
+}
+
+.brand-about-link {
+  font-size: 14px;
+  color: var(--accent);
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* AUTH FORM CARD */
+.auth-form-card {
+  width: 100%;
+  max-width: 410px;
+  background: var(--card-bg);
+  border: 1.5px solid var(--border-color);
+  border-radius: 18px;
+  padding: 24px 24px 20px;
+  box-shadow: 0 8px 24px var(--shadow-color);
+}
+
+.auth-card-heading {
+  margin: 0 0 16px;
+  font-size: 26px;
+  font-weight: bold;
+  color: var(--text-main);
+}
+
+.auth-input-group {
+  margin-bottom: 12px;
+  text-align: left;
+  position: relative;
+}
+
+.auth-input {
+  width: 100%;
+  padding: 11px 14px;
+  border-radius: 10px;
+  border: 1.5px solid var(--border-color);
+  background: var(--header-box);
+  color: var(--text-main);
+  font-size: 15px;
+  font-family: inherit;
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+
+.auth-input:focus {
+  border-color: var(--accent);
+}
+
+.password-toggle-eye {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 16px;
+  padding: 0;
+}
+
+.forgot-row {
+  text-align: right;
+  margin: -4px 0 14px;
+}
+
+.forgot-link {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 13px;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-family: inherit;
+  text-decoration: underline;
+}
+
+.forgot-link:hover {
+  color: var(--accent);
+}
+
+.btn-auth-submit {
+  width: 100%;
+  padding: 11px 18px;
+  border-radius: 25px;
+  border: none;
+  background: var(--accent);
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+
+.btn-auth-submit:hover {
+  background: var(--accent-hover);
+  transform: translateY(-1px);
+}
+
+.auth-switch-row {
+  margin-top: 12px;
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.auth-switch-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--accent);
+  font-weight: bold;
+  font-size: 14px;
+  font-family: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.auth-divider {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 14px 0;
+  font-size: 12px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+
+.auth-divider::before,
+.auth-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--border-light);
+}
+
+/* SOCIAL SIGN IN BUTTONS (GOOGLE & APPLE) */
+.social-btn-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.btn-social {
+  width: 100%;
+  padding: 10px 14px;
+  border-radius: 22px;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: inherit;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  transition: transform 0.15s ease, border-color 0.2s ease;
+}
+
+.btn-social:hover {
+  transform: translateY(-1px);
+}
+
+.btn-google {
+  background: #ffffff;
+  color: #1f1f1f;
+  border: 1.5px solid var(--border-color);
+}
+
+.btn-google:hover {
+  border-color: var(--accent);
+}
+
+.btn-apple {
+  background: #1c1917;
+  color: #ffffff;
+  border: 1.5px solid #1c1917;
+}
+
+html.dark-mode .btn-apple {
+  background: #000000;
+  border-color: #3b4654;
+}
+
+/* CONTINUE AS GUEST BUTTON */
+.btn-guest {
+  width: 100%;
+  margin-top: 12px;
+  padding: 9px 14px;
+  border-radius: 22px;
+  background: var(--header-box);
+  color: var(--accent);
+  border: 1.5px dashed var(--accent);
+  font-size: 15px;
+  font-weight: bold;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.btn-guest:hover {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+.auth-status-msg {
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  color: var(--accent);
+  min-height: 20px;
+}
+
+/* RIGHT COLUMN: SHOWCASE CARD WITH THIRUVALLUVAR PORTRAIT */
+.showcase-card {
+  background: var(--card-bg);
+  border: 1.5px solid var(--border-color);
+  border-radius: 20px;
+  padding: 28px 26px 24px;
+  box-shadow: 0 10px 30px var(--shadow-color);
+  text-align: center;
+}
+
+.portrait-gold-frame {
+  width: 245px;
+  height: 295px;
+  margin: 0 auto 18px;
+  padding: 8px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #c26100, #e8b960, #9a4b00);
+  box-shadow: 0 8px 20px rgba(51, 38, 25, 0.18);
+}
+
+.portrait-inner-mat {
+  width: 100%;
+  height: 100%;
+  border-radius: 9px;
+  overflow: hidden;
+  background: var(--header-box);
+  border: 1.5px solid #fffdf7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.portrait-inner-mat img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.showcase-title {
+  margin: 0 0 10px;
+  font-size: clamp(24px, 3.2vw, 31px);
+  font-weight: 700;
+  color: var(--text-main);
+  letter-spacing: 0.5px;
+}
+
+.showcase-desc {
+  font-size: 15px;
+  color: var(--text-muted);
+  line-height: 1.6;
+  max-width: 440px;
+  margin: 0 auto 14px;
+}
+
+.showcase-dedication {
+  font-size: 12.5px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 18px;
+}
+
+/* 4 METRIC PILLS */
+.showcase-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.stat-pill-box {
+  background: var(--header-box);
+  border: 1.5px solid var(--border-light);
+  border-radius: 12px;
+  padding: 10px 6px;
+}
+
+.stat-pill-num {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--accent);
+  line-height: 1.2;
+}
+
+.stat-pill-label {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+/* FOOTER */
+.login-footer {
+  text-align: center;
+  padding: 12px 16px 18px;
+  font-size: 13px;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border-light);
+}
+
+@media screen and (max-width: 880px) {
+  .login-split-wrapper {
+    grid-template-columns: 1fr;
+    gap: 28px;
+    padding-top: 12px;
+  }
+  .portrait-gold-frame {
+    width: 210px;
+    height: 250px;
+  }
+  .showcase-stats-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+</style>
+</head>
+<body>
+
+  <!-- TOP MINI BAR -->
+  <div class="login-top-utility">
+    <button class="mini-util-btn" id="loginThemeBtn" type="button" onclick="toggleLoginTheme()">🌙 Dark / Light</button>
+  </div>
+
+  <!-- MAIN SPLIT-SCREEN SECTION -->
+  <main class="login-split-wrapper">
+
+    <!-- LEFT SIDE: LOGO + AUTHENTICATION CARD -->
+    <section class="login-left-col">
+      <div class="brand-header-block">
+        <img id="editableBrandLogo" class="brand-logo-img" alt="Daily-Kural Brand Logo">
+        <div class="brand-kicker">DAILY-KURAL • உலகப் பொதுமறை</div>
+        <div class="brand-tamil-sub">திருக்குறள்</div>
+        <h1 class="brand-main-title">THIRUKKURAL</h1>
+        <p class="brand-tagline">
+          தினசரி ஒரு திருக்குறள் — அறம், பொருள், இன்பம் (Tamil • English • Hindi)
+        </p>
+        <a class="brand-about-link" href="about.html" onclick="trackGuestSessionAsync()">
+          New here? Know more about Daily-Kural →
+        </a>
+      </div>
+
+      <div class="auth-form-card">
+        <h2 class="auth-card-heading" id="authCardHeading">Sign In</h2>
+
+        <form id="emailAuthForm" onsubmit="handleEmailAuthSubmit(event)">
+          <div class="auth-input-group" id="fullNameGroup" style="display:none;">
+            <input class="auth-input" id="regFullName" type="text" placeholder="Full Name (முழுப் பெயர்)">
+          </div>
+
+          <div class="auth-input-group">
+            <input class="auth-input" id="authEmailInput" type="email" placeholder="Email *" required>
+          </div>
+
+          <div class="auth-input-group" id="passwordGroup">
+            <input class="auth-input" id="authPasswordInput" type="password" placeholder="Password *" required>
+            <button class="password-toggle-eye" type="button" onclick="togglePasswordVisibility()" title="Show/Hide Password">👁️</button>
+          </div>
+
+          <div class="forgot-row" id="forgotPasswordRow">
+            <button class="forgot-link" type="button" onclick="handleForgotPassword()">Forgot password?</button>
+          </div>
+
+          <button class="btn-auth-submit" id="authSubmitBtn" type="submit">Sign In</button>
+        </form>
+
+        <div class="auth-switch-row" id="authSwitchRow">
+          <span>Don't have an account? </span>
+          <button class="auth-switch-btn" type="button" onclick="toggleAuthMode()">Create one</button>
+        </div>
+
+        <div class="auth-divider">or continue with</div>
+
+        <!-- GOOGLE & APPLE SIGN IN -->
+        <div class="social-btn-stack">
+          <button class="btn-social btn-google" type="button" onclick="handleSocialOAuth('google')">
+            <svg width="18" height="18" viewBox="0 0 48 48">
+              <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
+              <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/>
+              <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/>
+              <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/>
+            </svg>
+            <span>Sign in with Google</span>
+          </button>
+
+          <button class="btn-social btn-apple" type="button" onclick="handleSocialOAuth('apple')">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09l.01-.01zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/>
+            </svg>
+            <span>Sign in with Apple</span>
+          </button>
+        </div>
+
+        <!-- CONTINUE AS GUEST -->
+        <button class="btn-guest" type="button" onclick="continueAsGuest()">
+          Continue as Guest (விருந்தினராகத் தொடரவும்) →
+        </button>
+
+        <div class="auth-status-msg" id="authStatusMsg"></div>
+      </div>
+    </section>
+
+    <!-- RIGHT SIDE: FRAMED THIRUVALLUVAR SHOWCASE CARD -->
+    <section class="showcase-card">
+      <div class="portrait-gold-frame">
+        <div class="portrait-inner-mat">
+          <img id="editableThiruvalluvarImg" alt="Thiruvalluvar Portrait">
+        </div>
+      </div>
+
+      <h2 class="showcase-title">|| திருக்குறள் • THIRUKKURAL ||</h2>
+
+      <p class="showcase-desc">
+        1,330 Couplets (Aram, Porul, Inbam) — The Ethical, Political, and Social Wisdom of Ancient Tamil Nadu.
+        Complete with Word-by-Word Meanings, Scholar Commentaries, and Audio Recitations.
+      </p>
+
+      <div class="showcase-dedication">
+        FOUNDED ON THE UNIVERSAL WISDOM OF THIRUVALLUVAR
+      </div>
+
+      <div class="showcase-stats-grid">
+        <div class="stat-pill-box">
+          <div class="stat-pill-num">1,330</div>
+          <div class="stat-pill-label">Couplets</div>
+        </div>
+        <div class="stat-pill-box">
+          <div class="stat-pill-num">133</div>
+          <div class="stat-pill-label">Chapters</div>
+        </div>
+        <div class="stat-pill-box">
+          <div class="stat-pill-num">3</div>
+          <div class="stat-pill-label">Sections</div>
+        </div>
+        <div class="stat-pill-box">
+          <div class="stat-pill-num">TA • EN • HI</div>
+          <div class="stat-pill-label">Meanings</div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="login-footer">
+    © 2026 Daily-Kural • திருக்குறள் (Aram • Porul • Inbam). All rights reserved.
+  </footer>
+
+<script>
+  // ==========================================================================
+  // 1. EDITABLE BRAND LOGO & THIRUVALLUVAR PORTRAIT (REPLACE URLS ANYTIME)
+  // ==========================================================================
+  // To use your own image files later, simply replace these strings with your
+  // GitHub file paths, e.g.:
+  //   const BRAND_LOGO_URL = "logo.png";
+  //   const THIRUVALLUVAR_PORTRAIT_URL = "thiruvalluvar.jpg";
+
+  const BRAND_LOGO_URL = "data:image/svg+xml;utf8," + encodeURIComponent(`
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 120">
+      <defs>
+        <linearGradient id="goldLeaf" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#f3d08a"/>
+          <stop offset="100%" stop-color="#c26100"/>
+        </linearGradient>
+      </defs>
+      <rect x="22" y="28" width="136" height="22" rx="11" fill="url(#goldLeaf)" stroke="#7c3d00" stroke-width="2"/>
+      <rect x="18" y="48" width="144" height="24" rx="12" fill="#fff8eb" stroke="#c26100" stroke-width="2.5"/>
+      <circle cx="42" cy="60" r="4" fill="#c26100"/>
+      <circle cx="138" cy="60" r="4" fill="#c26100"/>
+      <text x="90" y="65" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#332619" text-anchor="middle">திருக்குறள்</text>
+      <line x1="30" y1="92" x2="152" y2="20" stroke="#7c3d00" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="152" cy="20" r="5" fill="#c26100"/>
+    </svg>
+  `);
+
+  const THIRUVALLUVAR_PORTRAIT_URL = "data:image/svg+xml;utf8," + encodeURIComponent(`
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 390">
+      <defs>
+        <radialGradient id="halo" cx="50%" cy="38%" r="55%">
+          <stop offset="0%" stop-color="#fffdf7"/>
+          <stop offset="65%" stop-color="#f5e3be"/>
+          <stop offset="100%" stop-color="#dfcba5"/>
+        </radialGradient>
+        <linearGradient id="shawl" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#ffffff"/>
+          <stop offset="100%" stop-color="#efe3cc"/>
+        </linearGradient>
+      </defs>
+      <rect width="320" height="390" fill="url(#halo)"/>
+      <circle cx="160" cy="135" r="78" fill="none" stroke="#c26100" stroke-width="2" stroke-dasharray="5 5" opacity="0.55"/>
+      <!-- Top Knot (Kondai) -->
+      <ellipse cx="160" cy="68" rx="22" ry="18" fill="#4a3b32"/>
+      <path d="M138 74 Q160 64 182 74" stroke="#c26100" stroke-width="3" fill="none"/>
+      <!-- Head & Face -->
+      <ellipse cx="160" cy="118" rx="36" ry="44" fill="#d99b66"/>
+      <!-- Sacred Thiruneeru Lines -->
+      <line x1="143" y1="97" x2="177" y2="97" stroke="#ffffff" stroke-width="2.2"/>
+      <line x1="145" y1="102" x2="175" y2="102" stroke="#ffffff" stroke-width="2.2"/>
+      <circle cx="160" cy="107" r="2.5" fill="#c26100"/>
+      <!-- Eyes & Brows -->
+      <path d="M142 113 Q149 109 155 113" stroke="#332619" stroke-width="2.2" fill="none"/>
+      <path d="M165 113 Q171 109 178 113" stroke="#332619" stroke-width="2.2" fill="none"/>
+      <circle cx="149" cy="116" r="2.5" fill="#332619"/>
+      <circle cx="171" cy="116" r="2.5" fill="#332619"/>
+      <!-- Flowing Beard -->
+      <path d="M126 125 Q122 185 160 222 Q198 185 194 125 Q176 144 160 144 Q144 144 126 125 Z" fill="#f4f1ea" stroke="#c7bba4" stroke-width="1.5"/>
+      <!-- White Angavastram / Robe -->
+      <path d="M68 355 Q80 235 160 225 Q240 235 252 355 Z" fill="url(#shawl)" stroke="#c26100" stroke-width="2"/>
+      <path d="M105 235 Q165 290 232 265" fill="none" stroke="#c26100" stroke-width="2.5"/>
+      <!-- Palm Leaf Manuscript (Olai Chuvadi) & Stylus (Ezhuthani) -->
+      <rect x="92" y="286" width="128" height="22" rx="6" transform="rotate(-7 156 297)" fill="#e8c37d" stroke="#7c3d00" stroke-width="2"/>
+      <line x1="175" y1="312" x2="226" y2="255" stroke="#5c2d00" stroke-width="4" stroke-linecap="round"/>
+      <!-- Bottom Tamil Caption -->
+      <text x="160" y="375" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#7c3d00" text-anchor="middle">தெய்வப்புலவர் திருவள்ளுவர்</text>
+    </svg>
+  `);
+
+  document.getElementById("editableBrandLogo").src = BRAND_LOGO_URL;
+  document.getElementById("editableThiruvalluvarImg").src = THIRUVALLUVAR_PORTRAIT_URL;
+
+  // ==========================================================================
+  // 2. SUPABASE CLIENT & DESTINATION REDIRECT HANDLER
+  // ==========================================================================
+  const SUPABASE_URL = "https://lgsfbhiscvjjlyzpzwuv.supabase.co";
+  const SUPABASE_ANON_KEY = "sb_publishable_HGWE1gz2FNuj-rdcosAxDQ_lpN8lzkz";
+  const sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+  function getNextDestination() {
+    const params = new URLSearchParams(window.location.search);
+    const next = params.get("next");
+    if (next && !next.includes("login.html")) {
+      return next;
+    }
+    return "index.html";
+  }
+
+  // If user is already logged in, redirect directly to Daily-Kural
+  sb.auth.getSession().then(({ data: { session } }) => {
+    if (session) {
+      window.location.replace(getNextDestination());
+    }
+  });
+
+  // ==========================================================================
+  // 3. SIGN IN / CREATE ACCOUNT / FORGOT PASSWORD / OAUTH / GUEST TRACKING
+  // ==========================================================================
+  let isSignUpMode = false;
+
+  window.toggleAuthMode = function() {
+    isSignUpMode = !isSignUpMode;
+    document.getElementById("authCardHeading").textContent = isSignUpMode ? "Create Account" : "Sign In";
+    document.getElementById("authSubmitBtn").textContent = isSignUpMode ? "Register Account" : "Sign In";
+    document.getElementById("fullNameGroup").style.display = isSignUpMode ? "block" : "none";
+    document.getElementById("forgotPasswordRow").style.display = isSignUpMode ? "none" : "block";
+    document.getElementById("authSwitchRow").innerHTML = isSignUpMode
+      ? '<span>Already registered? </span><button class="auth-switch-btn" type="button" onclick="toggleAuthMode()">Sign In</button>'
+      : '<span>Don\'t have an account? </span><button class="auth-switch-btn" type="button" onclick="toggleAuthMode()">Create one</button>';
+    document.getElementById("authStatusMsg").textContent = "";
+  };
+
+  window.togglePasswordVisibility = function() {
+    const pwd = document.getElementById("authPasswordInput");
+    pwd.type = (pwd.type === "password") ? "text" : "password";
+  };
+
+  window.handleEmailAuthSubmit = async function(e) {
+    e.preventDefault();
+    const email = document.getElementById("authEmailInput").value.trim();
+    const password = document.getElementById("authPasswordInput").value;
+    const fullName = document.getElementById("regFullName").value.trim();
+    const statusEl = document.getElementById("authStatusMsg");
+
+    statusEl.textContent = isSignUpMode ? "Creating your account..." : "Signing in...";
+
+    if (isSignUpMode) {
+      const { data, error } = await sb.auth.signUp({
+        email,
+        password,
+        options: {
+          data: { full_name: fullName },
+          emailRedirectTo: window.location.origin + "/Daily-Kural-Data/" + getNextDestination()
+        }
+      });
+      if (error) {
+        statusEl.textContent = error.message;
+      } else if (data.session) {
+        window.location.replace(getNextDestination());
+      } else {
+        statusEl.textContent = "✅ Registration successful! Please check your email inbox to confirm, then Sign In.";
+      }
+    } else {
+      const { error } = await sb.auth.signInWithPassword({ email, password });
+      if (error) {
+        statusEl.textContent = error.message;
+      } else {
+        window.location.replace(getNextDestination());
+      }
+    }
+  };
+
+  window.handleForgotPassword = async function() {
+    const email = document.getElementById("authEmailInput").value.trim();
+    const statusEl = document.getElementById("authStatusMsg");
+    if (!email) {
+      statusEl.textContent = "Enter your email address above first, then click Forgot password.";
+      return;
+    }
+    statusEl.textContent = "Sending password reset link...";
+    const { error } = await sb.auth.resetPasswordForEmail(email, {
+      redirectTo: window.location.origin + "/Daily-Kural-Data/login.html"
+    });
+    statusEl.textContent = error
+      ? error.message
+      : "✅ Password reset link sent to your email!";
+  };
+
+  window.handleSocialOAuth = async function(provider) {
+    const statusEl = document.getElementById("authStatusMsg");
+    statusEl.textContent = `Connecting to ${provider === "apple" ? "Apple" : "Google"}...`;
+    const { error } = await sb.auth.signInWithOAuth({
+      provider: provider,
+      options: {
+        redirectTo: window.location.origin + "/Daily-Kural-Data/" + getNextDestination()
+      }
+    });
+    if (error) {
+      statusEl.textContent = error.message;
+    }
+  };
+
+  window.enableGuestSession = function() {
+    try {
+      sessionStorage.setItem("dk_guest_mode", "true");
+      localStorage.setItem("dk_guest_mode", "true");
+    } catch (e) {}
+  };
+
+  window.trackGuestSessionAsync = function() {
+    enableGuestSession();
+    try {
+      if (!sessionStorage.getItem("dk_guest_counted")) {
+        sessionStorage.setItem("dk_guest_counted", "true");
+        sb.rpc("increment_guest_visit");
+      }
+    } catch (e) {}
+  };
+
+  window.continueAsGuest = async function() {
+    enableGuestSession();
+    try {
+      // Only increment once per browser session so page refreshes don't double-count
+      if (!sessionStorage.getItem("dk_guest_counted")) {
+        sessionStorage.setItem("dk_guest_counted", "true");
+        await sb.rpc("increment_guest_visit");
+      }
+    } catch (e) {
+      console.error("Guest tracking error:", e);
+    }
+    window.location.href = getNextDestination();
+  };
+
+  // Theme Loader & Toggle
+  (function initTheme() {
+    try {
+      const saved = localStorage.getItem("daily_kural_theme");
+      if (saved === "dark") document.documentElement.classList.add("dark-mode");
+    } catch (e) {}
+  })();
+
+  window.toggleLoginTheme = function() {
+    const isDark = !document.documentElement.classList.contains("dark-mode");
+    document.documentElement.classList.toggle("dark-mode", isDark);
+    try { localStorage.setItem("daily_kural_theme", isDark ? "dark" : "light"); } catch (e) {}
+  };
+</script>
+</body>
+</html>

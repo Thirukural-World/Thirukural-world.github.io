@@ -1,0 +1,930 @@
+{
+  "chapterNum": 120,
+  "nameTa": "தனிப்படர்மிகுதி",
+  "nameEn": "The Solitary Anguish",
+  "nameHi": "विरह-वेदनातिरेक",
+  "paal": "காமத்துப்பால்",
+  "iyal": "கற்பியல்",
+  "kurals": [
+    {
+      "num": 1191,
+      "line1": "தாம்வீழ்வார் தம்வீழப் பெற்றவர் பெற்றாரே",
+      "line2": "காமத்துக் காழில் கனி",
+      "enLine1": "The bliss to be beloved by those they love who gains,",
+      "enLine2": "Of love the stoneless, luscious fruit obtains.",
+      "hiLine1": "जिससे अपना प्यार है, यदि पाती वह प्यार ।",
+      "hiLine2": "बीज रहित फल प्रेम का, पाती है निर्धार ॥",
+      "general": "தாம் விரும்பும் காதலரால் தாமும் விரும்பப்படும் பேற்றைப் பெற்றவர்கள், காதலாகிய கொட்டையில்லாத இனிய கனியைப் பெற்றவர்களாவர்.",
+      "en": "Those who are loved in return by the ones they love have truly obtained the seedless, sweet fruit of love.",
+      "hi": "जिसे अपने प्रियतम से प्रेम है, यदि वह भी उसका प्रेम पाती है, तो निश्चय ही वह प्रेम का बीज-रहित मधुर फल प्राप्त करती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தாம் வீழ்வார் <br>(Thaamveezhvaar)",
+          "ta": "தாம் விரும்புபவர்",
+          "en": "Those they love",
+          "hi": "जिससे प्यार है"
+        },
+        {
+          "no": 2,
+          "word": "தம் வீழ <br>(Thamveezhap)",
+          "ta": "தம்மை விரும்ப",
+          "en": "To be beloved",
+          "hi": "पाती वह प्यार"
+        },
+        {
+          "no": 3,
+          "word": "பெற்றவர் <br>(Petravar)",
+          "ta": "அடைந்தவர்கள்",
+          "en": "Who gains",
+          "hi": "पाती है"
+        },
+        {
+          "no": 4,
+          "word": "பெற்றாரே <br>(Petraare)",
+          "ta": "பெற்றவர்களே",
+          "en": "Obtains",
+          "hi": "निश्चय पाती"
+        },
+        {
+          "no": 5,
+          "word": "காமத்து <br>(Kaamaththuk)",
+          "ta": "காதலின்",
+          "en": "Of love",
+          "hi": "प्रेम का"
+        },
+        {
+          "no": 6,
+          "word": "காழ் இல் <br>(Kaazhil)",
+          "ta": "கொட்டை இல்லாத",
+          "en": "Stoneless",
+          "hi": "बीज रहित"
+        },
+        {
+          "no": 7,
+          "word": "கனி <br>(Kani)",
+          "ta": "இனிய பழம்",
+          "en": "Luscious fruit",
+          "hi": "फल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தாம்வீழ்வார் தம்வீழப் பெற்றவர் பெற்றாரே",
+          "line2": "காமத்துக் காழில் கனி"
+        },
+        "en": {
+          "line1": "The bliss to be beloved by those they love who gains,",
+          "line2": "Of love the stoneless, luscious fruit obtains."
+        },
+        "hi": {
+          "line1": "जिससे अपना प्यार है, यदि पाती वह प्यार ।",
+          "line2": "बीज रहित फल प्रेम का, पाती है निर्धार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thaamveezhvaar Thamveezhap Petravar Petraare",
+            "line2": "Kaamaththuk Kaazhil Kani"
+          },
+          "hi": {
+            "line1": "ताम्वीऴ्वार् तम्वीऴप् पॆट्ऱवर् पॆट्ऱारे",
+            "line2": "कामत्तुक् काऴिल् कनि"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தாம் விரும்பும் காதலரால் தாமும் விரும்பப்படும் பேற்றைப் பெற்றவர்கள், காதலாகிய கொட்டையில்லாத இனிய கனியைப் பெற்றவர்களாவர்.",
+        "en": "Those who are loved in return by the ones they love have truly obtained the seedless, sweet fruit of love.",
+        "hi": "जिसे अपने प्रियतम से प्रेम है, यदि वह भी उसका प्रेम पाती है, तो निश्चय ही वह प्रेम का बीज-रहित मधुर फल प्राप्त करती है।"
+      }
+    },
+    {
+      "num": 1192,
+      "line1": "வாழ்வார்க்கு வானம் பயந்தற்றால் வீழ்வார்க்கு",
+      "line2": "வீழ்வா ரளிக்கு மளி",
+      "enLine1": "As heaven on living men showers blessings from above,",
+      "enLine2": "Is tender grace by lovers shown to those they love.",
+      "hiLine1": "जीवों का करता जलद, ज्यों जल दे कर क्षेम ।",
+      "hiLine2": "प्राण-पियारे का रहा, प्राण-प्रिया से प्रेम ॥",
+      "general": "உலகில் வாழும் உயிர்களுக்கு மழை பொழிந்து வானம் உதவுவது போல, விரும்புபவர்களுக்கு அவர் விரும்பிய காதலர் அளிக்கும் அன்பு இன்பம் தரும்.",
+      "en": "Like rain poured down from heaven upon living beings, is the tender affection shown by a lover to the one who loves him.",
+      "hi": "जैसे बादल जल बरसाकर जीवों का कल्याण करता है, वैसे ही प्राण-प्रियतम का प्राण-प्रिया के प्रति प्रेम सुखदायी होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வாழ்வார்க்கு <br>(Vaazhvaarkku)",
+          "ta": "வாழும் உயிர்களுக்கு",
+          "en": "To living men",
+          "hi": "जीवों का"
+        },
+        {
+          "no": 2,
+          "word": "வானம் <br>(Vaanam)",
+          "ta": "மழை / வானம்",
+          "en": "Heaven",
+          "hi": "जलद"
+        },
+        {
+          "no": 3,
+          "word": "பயந்தற்றால் <br>(Payanthatraal)",
+          "ta": "உதவுவது போன்றது",
+          "en": "Showers blessings",
+          "hi": "जल दे कर क्षेम"
+        },
+        {
+          "no": 4,
+          "word": "வீழ்வார்க்கு <br>(Veezhvaarkku)",
+          "ta": "விரும்புபவர்களுக்கு",
+          "en": "To those who love",
+          "hi": "प्राण-प्रिया से"
+        },
+        {
+          "no": 5,
+          "word": "வீழ்வார் <br>(Veezhvaa)",
+          "ta": "விரும்பப்படும் காதலர்",
+          "en": "By lovers",
+          "hi": "प्राण-पियारे का"
+        },
+        {
+          "no": 6,
+          "word": "அளிக்கும் <br>(Ralikku)",
+          "ta": "கொடுக்கும்",
+          "en": "Shown",
+          "hi": "रहा"
+        },
+        {
+          "no": 7,
+          "word": "அளி <br>(Mali)",
+          "ta": "அன்பு / அருள்",
+          "en": "Tender grace",
+          "hi": "प्रेम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வாழ்வார்க்கு வானம் பயந்தற்றால் வீழ்வார்க்கு",
+          "line2": "வீழ்வா ரளிக்கு மளி"
+        },
+        "en": {
+          "line1": "As heaven on living men showers blessings from above,",
+          "line2": "Is tender grace by lovers shown to those they love."
+        },
+        "hi": {
+          "line1": "जीवों का करता जलद, ज्यों जल दे कर क्षेम ।",
+          "line2": "प्राण-पियारे का रहा, प्राण-प्रिया से प्रेम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vaazhvaarkku Vaanam Payanthatraal Veezhvaarkku",
+            "line2": "Veezhvaa Ralikku Mali"
+          },
+          "hi": {
+            "line1": "वाऴ्वार्क्कु वानम् पयन्तट्ऱाल् वीऴ्वार्क्कु",
+            "line2": "वीऴ्वा रळिक्कु मळि"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உலகில் வாழும் உயிர்களுக்கு மழை பொழிந்து வானம் உதவுவது போல, விரும்புபவர்களுக்கு அவர் விரும்பிய காதலர் அளிக்கும் அன்பு இன்பம் தரும்.",
+        "en": "Like rain poured down from heaven upon living beings, is the tender affection shown by a lover to the one who loves him.",
+        "hi": "जैसे बादल जल बरसाकर जीवों का कल्याण करता है, वैसे ही प्राण-प्रियतम का प्राण-प्रिया के प्रति प्रेम सुखदायी होता है।"
+      }
+    },
+    {
+      "num": 1193,
+      "line1": "வீழுநர் வீழப் படுவார்க் கமையுமே",
+      "line2": "வாழுந மென்னுஞ் செருக்கு",
+      "enLine1": "Who love and are beloved, to them alone",
+      "enLine2": "Belongs the boast, ' We 've made life's very joys our own.'",
+      "hiLine1": "जिस नारी को प्राप्त है, प्राण-नाथ का प्यार ।",
+      "hiLine2": "‘जीऊँगी’ यों गर्व का, उसको है अधिकार ॥",
+      "general": "தாம் விரும்பும் காதலரால் தாமும் விரும்பப்படுபவர்களுக்கே 'நாம் வாழ்வோம்' என்ற பெருமித உணர்வு பொருந்தும்.",
+      "en": "Only to those who love and are loved in return belongs the proud confidence of saying, 'We truly live!'",
+      "hi": "जिस स्त्री को अपने प्राणनाथ का प्रेम प्राप्त है, उसी को गर्व के साथ यह कहने का अधिकार है कि 'मैं जीऊँगी'।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வீழுநர் <br>(Veezhunar)",
+          "ta": "விரும்புபவரால்",
+          "en": "Who love",
+          "hi": "प्राण-नाथ का"
+        },
+        {
+          "no": 2,
+          "word": "வீழப்படுவார்க்கு <br>(Veezhap)",
+          "ta": "விரும்பப்படுபவர்க்கு",
+          "en": "To those beloved",
+          "hi": "जिस नारी को प्राप्त"
+        },
+        {
+          "no": 3,
+          "word": "அமையுமே <br>(Paduvaark)",
+          "ta": "பொருந்தும்",
+          "en": "Belongs",
+          "hi": "अधिकार है"
+        },
+        {
+          "no": 4,
+          "word": "வாழுநம் <br>(Kamaiyume)",
+          "ta": "நாம் வாழ்கிறோம்",
+          "en": "We live",
+          "hi": "जीऊँगी"
+        },
+        {
+          "no": 5,
+          "word": "என்னும் <br>(Vaazhuna)",
+          "ta": "என்ற",
+          "en": "Saying",
+          "hi": "यों"
+        },
+        {
+          "no": 6,
+          "word": "செருக்கு <br>(Mennunj)",
+          "ta": "பெருமிதம்",
+          "en": "The boast / pride",
+          "hi": "गर्व"
+        },
+        {
+          "no": 7,
+          "word": "வாழ்க்கை <br>(Cherukku)",
+          "ta": "வாழ்வு",
+          "en": "Life's joys",
+          "hi": "प्यार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வீழுநர் வீழப் படுவார்க் கமையுமே",
+          "line2": "வாழுந மென்னுஞ் செருக்கு"
+        },
+        "en": {
+          "line1": "Who love and are beloved, to them alone",
+          "line2": "Belongs the boast, ' We 've made life's very joys our own.'"
+        },
+        "hi": {
+          "line1": "जिस नारी को प्राप्त है, प्राण-नाथ का प्यार ।",
+          "line2": "‘जीऊँगी’ यों गर्व का, उसको है अधिकार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Veezhunar Veezhap Paduvaark Kamaiyume",
+            "line2": "Vaazhuna Mennunj Cherukku"
+          },
+          "hi": {
+            "line1": "वीऴुनर् वीऴप् पटुवार्क् कमैयुमे",
+            "line2": "वाऴुन मॆन्नुञ् चॆरुक्कु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தாம் விரும்பும் காதலரால் தாமும் விரும்பப்படுபவர்களுக்கே 'நாம் வாழ்வோம்' என்ற பெருமித உணர்வு பொருந்தும்.",
+        "en": "Only to those who love and are loved in return belongs the proud confidence of saying, 'We truly live!'",
+        "hi": "जिस स्त्री को अपने प्राणनाथ का प्रेम प्राप्त है, उसी को गर्व के साथ यह कहने का अधिकार है कि 'मैं जीऊँगी'।"
+      }
+    },
+    {
+      "num": 1194,
+      "line1": "வீழப் படுவார் கெழீஇயலர் தாம்வீழ்வார்",
+      "line2": "வீழப் படாஅ ரெனின்",
+      "enLine1": "Those well-beloved will luckless prove,",
+      "enLine2": "Unless beloved by those they love.",
+      "hiLine1": "उसकी प्रिया बनी नहीं, जो उसका है प्रेय ।",
+      "hiLine2": "तो बहुमान्या नारि भी, पुण्यवति नहिं ज्ञेय ॥",
+      "general": "பலராலும் விரும்பப்படும் சிறப்புடையவராயினும், தாம் விரும்பும் காதலரால் விரும்பப்படாவிட்டால் அவர் நற்பேறு இல்லாதவரே.",
+      "en": "Even one who is admired by many is unfortunate if she is not loved by the one whom she herself loves.",
+      "hi": "यदि वह अपने ही प्रियतम की प्रिया न बन सकी, तो बहुतों द्वारा सम्मान पाने वाली नारी भी सौभाग्यवती नहीं मानी जाती।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வீழப்படுவார் <br>(Veezhap)",
+          "ta": "பலரால் விரும்பப்படுவார்",
+          "en": "Those well-beloved",
+          "hi": "बहुमान्या नारि"
+        },
+        {
+          "no": 2,
+          "word": "கெழீஇயலர் <br>(Paduvaar)",
+          "ta": "நற்பேறு இல்லாதவர்",
+          "en": "Luckless",
+          "hi": "पुण्यवति नहिं"
+        },
+        {
+          "no": 3,
+          "word": "தாம் வீழ்வார் <br>(Kezheeiyalar)",
+          "ta": "தாம் விரும்பும் காதலரால்",
+          "en": "By those they love",
+          "hi": "जो उसका प्रेय"
+        },
+        {
+          "no": 4,
+          "word": "வீழ <br>(Thaamveezhvaar)",
+          "ta": "விரும்ப",
+          "en": "Beloved",
+          "hi": "प्रिया बनी"
+        },
+        {
+          "no": 5,
+          "word": "படாஅர் <br>(Veezhap)",
+          "ta": "படாதவரானால்",
+          "en": "Not being",
+          "hi": "नहीं"
+        },
+        {
+          "no": 6,
+          "word": "எனின் <br>(Padaaa)",
+          "ta": "என்றால்",
+          "en": "Unless / if",
+          "hi": "तो"
+        },
+        {
+          "no": 7,
+          "word": "பேறு <br>(Renin)",
+          "ta": "சிறப்பு",
+          "en": "Fortune",
+          "hi": "ज्ञेय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வீழப் படுவார் கெழீஇயலர் தாம்வீழ்வார்",
+          "line2": "வீழப் படாஅ ரெனின்"
+        },
+        "en": {
+          "line1": "Those well-beloved will luckless prove,",
+          "line2": "Unless beloved by those they love."
+        },
+        "hi": {
+          "line1": "उसकी प्रिया बनी नहीं, जो उसका है प्रेय ।",
+          "line2": "तो बहुमान्या नारि भी, पुण्यवति नहिं ज्ञेय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Veezhap Paduvaar Kezheeiyalar Thaamveezhvaar",
+            "line2": "Veezhap Padaaa Renin"
+          },
+          "hi": {
+            "line1": "वीऴप् पटुवार् कॆऴीइयलर् ताम्वीऴ्वार्",
+            "line2": "वीऴप् पटाअ रॆनिन्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பலராலும் விரும்பப்படும் சிறப்புடையவராயினும், தாம் விரும்பும் காதலரால் விரும்பப்படாவிட்டால் அவர் நற்பேறு இல்லாதவரே.",
+        "en": "Even one who is admired by many is unfortunate if she is not loved by the one whom she herself loves.",
+        "hi": "यदि वह अपने ही प्रियतम की प्रिया न बन सकी, तो बहुतों द्वारा सम्मान पाने वाली नारी भी सौभाग्यवती नहीं मानी जाती।"
+      }
+    },
+    {
+      "num": 1195,
+      "line1": "நாங்காதல் கொண்டார் நமக்கெவன் செய்பவோ",
+      "line2": "தாங்காதல் கொள்ளாக் கடை",
+      "enLine1": "From him I love to me what gain can be,",
+      "enLine2": "Unless, as I love him, he loveth me ?",
+      "hiLine1": "प्यार किया मैंने जिन्हें, यदि खुद किया न प्यार ।",
+      "hiLine2": "तो उनसे क्या हो सके, मेरा कुछ उपकार ॥",
+      "general": "நாம் காதல் கொண்ட தலைவர் நம்மிடம் தாம் காதல் கொள்ளாதபோது, அவரால் நமக்கு என்ன நன்மை விளையப்போகிறது?",
+      "en": "When the one I love does not love me in return, what good can come to me from him?",
+      "hi": "जिनसे मैंने प्रेम किया है, यदि उन्होंने स्वयं मुझसे प्रेम न किया, तो उनसे मेरा क्या उपकार हो सकता है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "நாம் காதல் <br>(Naangkaadhal)",
+          "ta": "நாம் அன்பு",
+          "en": "I love",
+          "hi": "प्यार किया मैंने"
+        },
+        {
+          "no": 2,
+          "word": "கொண்டார் <br>(Kontaar)",
+          "ta": "கொண்டவர்",
+          "en": "Whom I love",
+          "hi": "जिन्हें"
+        },
+        {
+          "no": 3,
+          "word": "நமக்கு எவன் <br>(Namakkevan)",
+          "ta": "நமக்கு என்ன",
+          "en": "To me what",
+          "hi": "मेरा क्या"
+        },
+        {
+          "no": 4,
+          "word": "செய்பவோ <br>(Cheypavo)",
+          "ta": "செய்வாரோ",
+          "en": "Can do / gain",
+          "hi": "हो सके उपकार"
+        },
+        {
+          "no": 5,
+          "word": "தாம் காதல் <br>(Thaangkaadhal)",
+          "ta": "தாம் அன்பு",
+          "en": "He loves",
+          "hi": "खुद प्यार"
+        },
+        {
+          "no": 6,
+          "word": "கொள்ளா <br>(Kollaak)",
+          "ta": "கொள்ளாத",
+          "en": "Does not",
+          "hi": "किया न"
+        },
+        {
+          "no": 7,
+          "word": "கடை <br>(Kadai)",
+          "ta": "போது",
+          "en": "Unless / when",
+          "hi": "यदि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாங்காதல் கொண்டார் நமக்கெவன் செய்பவோ",
+          "line2": "தாங்காதல் கொள்ளாக் கடை"
+        },
+        "en": {
+          "line1": "From him I love to me what gain can be,",
+          "line2": "Unless, as I love him, he loveth me ?"
+        },
+        "hi": {
+          "line1": "प्यार किया मैंने जिन्हें, यदि खुद किया न प्यार ।",
+          "line2": "तो उनसे क्या हो सके, मेरा कुछ उपकार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naangkaadhal Kontaar Namakkevan Cheypavo",
+            "line2": "Thaangkaadhal Kollaak Kadai"
+          },
+          "hi": {
+            "line1": "नाङ्कातल् कॊण्टार् नमक्कॆवन् चॆय्पवो",
+            "line2": "ताङ्कातल् कॊळ्ळाक् कटै"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நாம் காதல் கொண்ட தலைவர் நம்மிடம் தாம் காதல் கொள்ளாதபோது, அவரால் நமக்கு என்ன நன்மை விளையப்போகிறது?",
+        "en": "When the one I love does not love me in return, what good can come to me from him?",
+        "hi": "जिनसे मैंने प्रेम किया है, यदि उन्होंने स्वयं मुझसे प्रेम न किया, तो उनसे मेरा क्या उपकार हो सकता है?"
+      }
+    },
+    {
+      "num": 1196,
+      "line1": "ஒருதலையா னின்னது காமங்காப் போல",
+      "line2": "விருதலை யானு மினிது",
+      "enLine1": "Love on one side is bad ; like balanced load",
+      "enLine2": "By porter borne, love on both sides is good.",
+      "hiLine1": "प्रेम एक-तरफ़ा रहे, तो है दुखद अपार ।",
+      "hiLine2": "दोय तरफ़ हो तो सुखद, ज्यों डंडी पर भार ॥",
+      "general": "ஒரு பக்கத்தில் மட்டும் உள்ள காதல் துன்பம் தருவதாகும்; காவடித் தண்டின் இரு பக்கமும் சமமாக உள்ள பாரம் போல இருவரிடமும் உள்ள காதலே இனிமையானது.",
+      "en": "One-sided love brings only pain; like a balanced burden on a carrying-pole, mutual love on both sides is sweet.",
+      "hi": "एकतरफ़ा प्रेम अपार दुख देने वाला होता है; डंडी (काँवड़) के दोनों ओर के भार की तरह दोनों तरफ़ का प्रेम ही सुखद होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒருதலையான் <br>(Orudhalaiyaa)",
+          "ta": "ஒரு பக்கத்தில் மட்டும்",
+          "en": "On one side",
+          "hi": "एक-तरफ़ा"
+        },
+        {
+          "no": 2,
+          "word": "இன்னது <br>(Ninnadhu)",
+          "ta": "துன்பம் தருவது",
+          "en": "Is bad / painful",
+          "hi": "दुखद अपार"
+        },
+        {
+          "no": 3,
+          "word": "காமம் <br>(Kaamangkaap)",
+          "ta": "காதல்",
+          "en": "Love",
+          "hi": "प्रेम"
+        },
+        {
+          "no": 4,
+          "word": "காப் போல <br>(Pola)",
+          "ta": "காவடி போல",
+          "en": "Like balanced load",
+          "hi": "ज्यों डंडी पर भार"
+        },
+        {
+          "no": 5,
+          "word": "இருதலை <br>(Virudhalai)",
+          "ta": "இரு பக்கத்திலும்",
+          "en": "On both sides",
+          "hi": "दोय तरफ़"
+        },
+        {
+          "no": 6,
+          "word": "யானும் <br>(Yaanu)",
+          "ta": "இருந்தால்",
+          "en": "If",
+          "hi": "हो तो"
+        },
+        {
+          "no": 7,
+          "word": "இனிது <br>(Minidhu)",
+          "ta": "இனிமையானது",
+          "en": "Is good / sweet",
+          "hi": "सुखद"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒருதலையா னின்னது காமங்காப் போல",
+          "line2": "விருதலை யானு மினிது"
+        },
+        "en": {
+          "line1": "Love on one side is bad ; like balanced load",
+          "line2": "By porter borne, love on both sides is good."
+        },
+        "hi": {
+          "line1": "प्रेम एक-तरफ़ा रहे, तो है दुखद अपार ।",
+          "line2": "दोय तरफ़ हो तो सुखद, ज्यों डंडी पर भार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Orudhalaiyaa Ninnadhu Kaamangkaap Pola",
+            "line2": "Virudhalai Yaanu Minidhu"
+          },
+          "hi": {
+            "line1": "ऒरुतलैया निन्नतु कामङ्काप् पोल",
+            "line2": "विरुतलै यानु मिनितु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒரு பக்கத்தில் மட்டும் உள்ள காதல் துன்பம் தருவதாகும்; காவடித் தண்டின் இரு பக்கமும் சமமாக உள்ள பாரம் போல இருவரிடமும் உள்ள காதலே இனிமையானது.",
+        "en": "One-sided love brings only pain; like a balanced burden on a carrying-pole, mutual love on both sides is sweet.",
+        "hi": "एकतरफ़ा प्रेम अपार दुख देने वाला होता है; डंडी (काँवड़) के दोनों ओर के भार की तरह दोनों तरफ़ का प्रेम ही सुखद होता है।"
+      }
+    },
+    {
+      "num": 1197,
+      "line1": "பருவரலும் பைதலுங் காணான்கொல் காம",
+      "line2": "னொருவர்க ணின்றொழுகு வான்",
+      "enLine1": "While Kâman rushes straight at me alone,",
+      "enLine2": "Is all my pain and wasting grief unknown ?",
+      "hiLine1": "जम कर सक्रिय एक में, रहा मदन बेदर्द ।",
+      "hiLine2": "क्या वह समझेगा नहीं, मेरा दुःख व दर्द ॥",
+      "general": "ஒருவரிடம் மட்டும் தங்கிச் செயல்படும் காமன், என்னுடைய துயரத்தையும் வருத்தத்தையும் அறியமாட்டானோ?",
+      "en": "Does Kaman, who settles and acts upon one person alone, not see all my distress and wasting sorrow?",
+      "hi": "केवल एक ही पक्ष में जमकर सक्रिय रहने वाला निर्दयी कामदेव क्या मेरे इस दुःख और दर्द को नहीं देखेगा?",
+      "words": [
+        {
+          "no": 1,
+          "word": "பருவரலும் <br>(Paruvaralum)",
+          "ta": "துயரத்தையும்",
+          "en": "Pain",
+          "hi": "मेरा दुःख"
+        },
+        {
+          "no": 2,
+          "word": "பைதலும் <br>(Paidhalung)",
+          "ta": "வருத்தத்தையும்",
+          "en": "And wasting grief",
+          "hi": "व दर्द"
+        },
+        {
+          "no": 3,
+          "word": "காணான்கொல் <br>(Kaanaankol)",
+          "ta": "பார்க்கமாட்டானோ",
+          "en": "Is it unknown",
+          "hi": "समझेगा नहीं"
+        },
+        {
+          "no": 4,
+          "word": "காமன் <br>(Kaama)",
+          "ta": "மன்மதன்",
+          "en": "Kaman",
+          "hi": "मदन"
+        },
+        {
+          "no": 5,
+          "word": "ஒருவர்கண் <br>(Noruvarka)",
+          "ta": "ஒருவரிடத்தில்",
+          "en": "At me alone",
+          "hi": "एक में"
+        },
+        {
+          "no": 6,
+          "word": "நின்று <br>(Ninrozhugu)",
+          "ta": "தங்கி",
+          "en": "Rushing / staying",
+          "hi": "जम कर"
+        },
+        {
+          "no": 7,
+          "word": "ஒழுகுவான் <br>(Vaan)",
+          "ta": "செயல்படுபவன்",
+          "en": "Acting",
+          "hi": "सक्रिय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பருவரலும் பைதலுங் காணான்கொல் காம",
+          "line2": "னொருவர்க ணின்றொழுகு வான்"
+        },
+        "en": {
+          "line1": "While Kâman rushes straight at me alone,",
+          "line2": "Is all my pain and wasting grief unknown ?"
+        },
+        "hi": {
+          "line1": "जम कर सक्रिय एक में, रहा मदन बेदर्द ।",
+          "line2": "क्या वह समझेगा नहीं, मेरा दुःख व दर्द ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Paruvaralum Paidhalung Kaanaankol Kaama",
+            "line2": "Noruvarka Ninrozhugu Vaan"
+          },
+          "hi": {
+            "line1": "परुवरलुम् पैतलुङ् काणान्कॊल् काम",
+            "line2": "नॊरुवर्क णिन्ऱॊऴुकु वान्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒருவரிடம் மட்டும் தங்கிச் செயல்படும் காமன், என்னுடைய துயரத்தையும் வருத்தத்தையும் அறியமாட்டானோ?",
+        "en": "Does Kaman, who settles and acts upon one person alone, not see all my distress and wasting sorrow?",
+        "hi": "केवल एक ही पक्ष में जमकर सक्रिय रहने वाला निर्दयी कामदेव क्या मेरे इस दुःख और दर्द को नहीं देखेगा?"
+      }
+    },
+    {
+      "num": 1198,
+      "line1": "வீழ்வாரி னின்சொற் பெறாஅ துலகத்து",
+      "line2": "வாழ்வாரின் வன்கணா ரில்",
+      "enLine1": "Who hear from lover's lips no pleasant word from day to day,",
+      "enLine2": "Yet in the world live out their life,—no braver souls than they !",
+      "hiLine1": "प्रियतम से पाये बिना, उसका मधुमय बैन ।",
+      "hiLine2": "जग में जीती स्त्री सदृश, कोई निष्ठुर है न ॥",
+      "general": "தாம் விரும்பும் காதலரிடமிருந்து இனிய சொல்லைப் பெறாமலும் இவ்வுலகில் உயிர் வாழ்ந்துகொண்டிருப்பவரைப் போல கல்நெஞ்சம் கொண்டவர் யாரும் இல்லை.",
+      "en": "There are none so hard-hearted as those who go on living in this world without receiving a single kind word from the one they love.",
+      "hi": "प्रियतम के मधुर वचन पाए बिना भी जो स्त्री संसार में जीवित रहती है, उसके समान कठोर हृदय वाला कोई नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வீழ்வாரின் <br>(Veezhvaari)",
+          "ta": "காதலரிடமிருந்து",
+          "en": "From lover's lips",
+          "hi": "प्रियतम से"
+        },
+        {
+          "no": 2,
+          "word": "இன்சொல் <br>(Ninchor)",
+          "ta": "இனிய சொல்லை",
+          "en": "Pleasant word",
+          "hi": "मधुमय बैन"
+        },
+        {
+          "no": 3,
+          "word": "பெறாஅது <br>(Peraaa)",
+          "ta": "பெறாமல்",
+          "en": "Without hearing",
+          "hi": "पाये बिना"
+        },
+        {
+          "no": 4,
+          "word": "உலகத்து <br>(Thulagaththu)",
+          "ta": "இவ்வுலகில்",
+          "en": "In the world",
+          "hi": "जग में"
+        },
+        {
+          "no": 5,
+          "word": "வாழ்வாரின் <br>(Vaazhvaarin)",
+          "ta": "வாழ்பவரைப் போல",
+          "en": "Who live out life",
+          "hi": "जीती स्त्री सदृश"
+        },
+        {
+          "no": 6,
+          "word": "வன்கணார் <br>(Vankanaa)",
+          "ta": "கல்நெஞ்சம் கொண்டவர்",
+          "en": "Braver / hard-hearted",
+          "hi": "निष्ठुर"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Ril)",
+          "ta": "யாருமில்லை",
+          "en": "No one",
+          "hi": "है न"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வீழ்வாரி னின்சொற் பெறாஅ துலகத்து",
+          "line2": "வாழ்வாரின் வன்கணா ரில்"
+        },
+        "en": {
+          "line1": "Who hear from lover's lips no pleasant word from day to day,",
+          "line2": "Yet in the world live out their life,—no braver souls than they !"
+        },
+        "hi": {
+          "line1": "प्रियतम से पाये बिना, उसका मधुमय बैन ।",
+          "line2": "जग में जीती स्त्री सदृश, कोई निष्ठुर है न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Veezhvaari Ninchor Peraaa Thulagaththu",
+            "line2": "Vaazhvaarin Vankanaa Ril"
+          },
+          "hi": {
+            "line1": "वीऴ्वारि निन्चॊऱ् पॆऱाअ तुलकत्तु",
+            "line2": "वाऴ्वारिन् वन्कणा रिल्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தாம் விரும்பும் காதலரிடமிருந்து இனிய சொல்லைப் பெறாமலும் இவ்வுலகில் உயிர் வாழ்ந்துகொண்டிருப்பவரைப் போல கல்நெஞ்சம் கொண்டவர் யாரும் இல்லை.",
+        "en": "There are none so hard-hearted as those who go on living in this world without receiving a single kind word from the one they love.",
+        "hi": "प्रियतम के मधुर वचन पाए बिना भी जो स्त्री संसार में जीवित रहती है, उसके समान कठोर हृदय वाला कोई नहीं है।"
+      }
+    },
+    {
+      "num": 1199,
+      "line1": "நசையியார் நல்கா ரெனினு மவர்மாட்",
+      "line2": "டிசையு மினிய செவிக்கு",
+      "enLine1": "Though he my heart desires no grace accords to me,",
+      "enLine2": "Yet every accent of his voice is melody.",
+      "hiLine1": "प्रेम रहित प्रियतम रहे, यद्यपि है यह ज्ञात ।",
+      "hiLine2": "कर्ण मधुर ही जो मिले, उनकी कोई बात ॥",
+      "general": "நான் விரும்பும் தலைவர் என்னிடம் அன்பு காட்டாவிட்டாலும், அவரைப் பற்றிய செய்திகளும் என் காதுகளுக்கு இனிமையாகவே உள்ளன.",
+      "en": "Even though the one I long for shows me no kindness, any word concerning him sounds sweet to my ears.",
+      "hi": "यद्यपि मुझे ज्ञात है कि प्रियतम प्रेम-रहित हैं, फिर भी उनसे संबंधित जो भी बात सुनने को मिले, वह कानों को मधुर ही लगती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நசையியார் <br>(Nasaiyiyaar)",
+          "ta": "விரும்பப்படுபவர்",
+          "en": "Whom heart desires",
+          "hi": "प्रियतम"
+        },
+        {
+          "no": 2,
+          "word": "நல்கார் <br>(Nalkaa)",
+          "ta": "அருளார்",
+          "en": "No grace accords",
+          "hi": "प्रेम रहित"
+        },
+        {
+          "no": 3,
+          "word": "எனினும் <br>(Reninu)",
+          "ta": "என்றாலும்",
+          "en": "Though",
+          "hi": "यद्यपि"
+        },
+        {
+          "no": 4,
+          "word": "அவர்மாட்டு <br>(Mavarmaat)",
+          "ta": "அவரிடமிருந்து",
+          "en": "Of his",
+          "hi": "उनकी"
+        },
+        {
+          "no": 5,
+          "word": "இசையும் <br>(Tisaiyu)",
+          "ta": "புகழும் / சொல்லும்",
+          "en": "Accent / voice",
+          "hi": "कोई बात"
+        },
+        {
+          "no": 6,
+          "word": "இனிய <br>(Miniya)",
+          "ta": "இனிமையானவை",
+          "en": "Is melody",
+          "hi": "मधुर ही"
+        },
+        {
+          "no": 7,
+          "word": "செவிக்கு <br>(Chevikku)",
+          "ta": "காதுகளுக்கு",
+          "en": "To the ear",
+          "hi": "कर्ण"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நசையியார் நல்கா ரெனினு மவர்மாட்",
+          "line2": "டிசையு மினிய செவிக்கு"
+        },
+        "en": {
+          "line1": "Though he my heart desires no grace accords to me,",
+          "line2": "Yet every accent of his voice is melody."
+        },
+        "hi": {
+          "line1": "प्रेम रहित प्रियतम रहे, यद्यपि है यह ज्ञात ।",
+          "line2": "कर्ण मधुर ही जो मिले, उनकी कोई बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nasaiyiyaar Nalkaa Reninu Mavarmaat",
+            "line2": "Tisaiyu Miniya Chevikku"
+          },
+          "hi": {
+            "line1": "नचैयियार् नल्का रॆनिनु मवर्माट्",
+            "line2": "टिचैयु मिनिय चॆविक्कु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நான் விரும்பும் தலைவர் என்னிடம் அன்பு காட்டாவிட்டாலும், அவரைப் பற்றிய செய்திகளும் என் காதுகளுக்கு இனிமையாகவே உள்ளன.",
+        "en": "Even though the one I long for shows me no kindness, any word concerning him sounds sweet to my ears.",
+        "hi": "यद्यपि मुझे ज्ञात है कि प्रियतम प्रेम-रहित हैं, फिर भी उनसे संबंधित जो भी बात सुनने को मिले, वह कानों को मधुर ही लगती है।"
+      }
+    },
+    {
+      "num": 1200,
+      "line1": "உறாஅர்க் குறுநோ யுரைப்பாய் கடலைச்",
+      "line2": "செறாஅய் வாழிய நெஞ்சு",
+      "enLine1": "Tell him thy pain that loves not thee ?",
+      "enLine2": "Farewell, my soul, fill up the sea !",
+      "hiLine1": "प्रेम हीन से कठिन रुज, कहने को तैयार ।",
+      "hiLine2": "रे दिल ! तू चिरजीव रह ! सुखा समुद्र अपार ॥",
+      "general": "நம்மிடம் அன்பில்லாதவரிடம் சென்று உன் காதல் நோயைச் சொல்லப் போகிறாயா? நெஞ்சமே, நீ வாழ்க! அதற்குப் பதிலாகக் கடலைத் தூர்க்கப் போ!",
+      "en": "My heart, you would tell your pain to one who loves you not? Farewell! You might as well try to fill up the sea.",
+      "hi": "हे मेरे हृदय, जो प्रेम से हीन है उससे अपनी कठिन पीड़ा कहने को तैयार होता है? तू चिरंजीवी रह, जाकर अपार समुद्र को सुखा दे!",
+      "words": [
+        {
+          "no": 1,
+          "word": "உறாஅர்க்கு <br>(Uraaark)",
+          "ta": "அன்பில்லாதவருக்கு",
+          "en": "That loves not thee",
+          "hi": "प्रेम हीन से"
+        },
+        {
+          "no": 2,
+          "word": "உறுநோய் <br>(Kuruno)",
+          "ta": "கொடிய நோயை",
+          "en": "Thy pain",
+          "hi": "कठिन रुज"
+        },
+        {
+          "no": 3,
+          "word": "உரைப்பாய் <br>(Yuraippaay)",
+          "ta": "சொல்லப் போகிறாய்",
+          "en": "Tell him",
+          "hi": "कहने को तैयार"
+        },
+        {
+          "no": 4,
+          "word": "கடலை <br>(Kadalaich)",
+          "ta": "கடலை",
+          "en": "The sea",
+          "hi": "समुद्र अपार"
+        },
+        {
+          "no": 5,
+          "word": "செறாஅய் <br>(Cheraaay)",
+          "ta": "தூர்ப்பாயாக",
+          "en": "Fill up",
+          "hi": "सुखा"
+        },
+        {
+          "no": 6,
+          "word": "வாழிய <br>(Vaazhiya)",
+          "ta": "வாழ்வாயாக",
+          "en": "Farewell / live long",
+          "hi": "तू चिरजीव रह"
+        },
+        {
+          "no": 7,
+          "word": "நெஞ்சு <br>(Nenjchu)",
+          "ta": "நெஞ்சமே",
+          "en": "My soul / heart",
+          "hi": "रे दिल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உறாஅர்க் குறுநோ யுரைப்பாய் கடலைச்",
+          "line2": "செறாஅய் வாழிய நெஞ்சு"
+        },
+        "en": {
+          "line1": "Tell him thy pain that loves not thee ?",
+          "line2": "Farewell, my soul, fill up the sea !"
+        },
+        "hi": {
+          "line1": "प्रेम हीन से कठिन रुज, कहने को तैयार ।",
+          "line2": "रे दिल ! तू चिरजीव रह ! सुखा समुद्र अपार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uraaark Kuruno Yuraippaay Kadalaich",
+            "line2": "Cheraaay Vaazhiya Nenjchu"
+          },
+          "hi": {
+            "line1": "उऱाअर्क् कुऱुनो युरैप्पाय् कटलैच्",
+            "line2": "चॆऱाअय् वाऴिय नॆञ्चु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நம்மிடம் அன்பில்லாதவரிடம் சென்று உன் காதல் நோயைச் சொல்லப் போகிறாயா? நெஞ்சமே, நீ வாழ்க! அதற்குப் பதிலாகக் கடலைத் தூர்க்கப் போ!",
+        "en": "My heart, you would tell your pain to one who loves you not? Farewell! You might as well try to fill up the sea.",
+        "hi": "हे मेरे हृदय, जो प्रेम से हीन है उससे अपनी कठिन पीड़ा कहने को तैयार होता है? तू चिरंजीवी रह, जाकर अपार समुद्र को सुखा दे!"
+      }
+    }
+  ]
+}

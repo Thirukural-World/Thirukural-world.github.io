@@ -1,0 +1,930 @@
+{
+  "chapterNum": 119,
+  "nameTa": "பசப்புறுபருவரல்",
+  "nameEn": "The Pallid Hue",
+  "nameHi": "पीलापन-जनित पीड़ा",
+  "paal": "காமத்துப்பால்",
+  "iyal": "கற்பியல்",
+  "kurals": [
+    {
+      "num": 1181,
+      "line1": "நயந்தவர்க்கு நல்காமை நேர்ந்தேன் பசந்தவென்",
+      "line2": "பண்பியார்க் குரைக்கோ பிற",
+      "enLine1": "I willed my lover absent should remain ;",
+      "enLine2": "Of pining's sickly hue to whom shall I complain?",
+      "hiLine1": "प्रिय को जाने के लिये, सम्मति दी उस काल ।",
+      "hiLine2": "अब जा कर किससे कहूँ, निज पीलापन-हाल ॥",
+      "general": "என் காதலர் என்னைப் பிரிந்து செல்லும்போது அன்று நானே அதற்கு இசைந்தேன்; அதனால் இப்போது பசலை நிறம் அடைந்த என் தன்மையை வேறு யாரிடம் சென்று முறையிடுவேன்?",
+      "en": "I myself consented to my lover's departure; so to whom else can I now complain about this sickly pallor of separation?",
+      "hi": "प्रियतम के जाने के समय मैंने स्वयं ही सम्मति दी थी; अब विरह से उत्पन्न अपने इस पीलेपन का हाल किससे जाकर कहूँ?",
+      "words": [
+        {
+          "no": 1,
+          "word": "நயந்தவர்க்கு <br>(Nayanthavarkku)",
+          "ta": "விரும்பிய தலைவருக்கு",
+          "en": "To the beloved",
+          "hi": "प्रिय को"
+        },
+        {
+          "no": 2,
+          "word": "நல்காமை <br>(Nalkaamai)",
+          "ta": "பிரிந்து செல்லுதலை",
+          "en": "Separation / absence",
+          "hi": "जाने के लिये"
+        },
+        {
+          "no": 3,
+          "word": "நேர்ந்தேன் <br>(Nernthen)",
+          "ta": "நானே இசைந்தேன்",
+          "en": "I consented",
+          "hi": "सम्मति दी"
+        },
+        {
+          "no": 4,
+          "word": "பசந்த என் <br>(Pasanthaven)",
+          "ta": "பசலை நிறம் கொண்ட என்",
+          "en": "My pining hue",
+          "hi": "निज पीलापन"
+        },
+        {
+          "no": 5,
+          "word": "பண்பு <br>(Panpiyaark)",
+          "ta": "தன்மையை",
+          "en": "Condition / nature",
+          "hi": "हाल"
+        },
+        {
+          "no": 6,
+          "word": "யார்க்கு உரைக்கோ <br>(Kuraikko)",
+          "ta": "யாரிடம் சொல்வேன்",
+          "en": "To whom shall I tell",
+          "hi": "किससे कहूँ"
+        },
+        {
+          "no": 7,
+          "word": "பிற <br>(Pira)",
+          "ta": "மற்றவர்களிடம்",
+          "en": "Else / other",
+          "hi": "अब जाकर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நயந்தவர்க்கு நல்காமை நேர்ந்தேன் பசந்தவென்",
+          "line2": "பண்பியார்க் குரைக்கோ பிற"
+        },
+        "en": {
+          "line1": "I willed my lover absent should remain ;",
+          "line2": "Of pining's sickly hue to whom shall I complain?"
+        },
+        "hi": {
+          "line1": "प्रिय को जाने के लिये, सम्मति दी उस काल ।",
+          "line2": "अब जा कर किससे कहूँ, निज पीलापन-हाल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nayanthavarkku Nalkaamai Nernthen Pasanthaven",
+            "line2": "Panpiyaark Kuraikko Pira"
+          },
+          "hi": {
+            "line1": "नयन्तवर्क्कु नल्कामै नेर्न्तेन् पचन्तवॆन्",
+            "line2": "पण्पियार्क् कुरैक्को पिऱ"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் காதலர் என்னைப் பிரிந்து செல்லும்போது அன்று நானே அதற்கு இசைந்தேன்; அதனால் இப்போது பசலை நிறம் அடைந்த என் தன்மையை வேறு யாரிடம் சென்று முறையிடுவேன்?",
+        "en": "I myself consented to my lover's departure; so to whom else can I now complain about this sickly pallor of separation?",
+        "hi": "प्रियतम के जाने के समय मैंने स्वयं ही सम्मति दी थी; अब विरह से उत्पन्न अपने इस पीलेपन का हाल किससे जाकर कहूँ?"
+      }
+    },
+    {
+      "num": 1182,
+      "line1": "அவர்தந்தா ரென்னுந் தகையா லிவர்தந்தென்",
+      "line2": "மேனிமே லூரும் பசப்பு",
+      "enLine1": "' He gave ' : this sickly hue thus proudly speaks,",
+      "enLine2": "Then climbs, and all my frame its chariot makes.",
+      "hiLine1": "पीलापन यह गर्व कर, ‘मैं हूँ उनसे प्राप्त’ ।",
+      "hiLine2": "चढ़ कर मेरी देह में, हो जाता है व्याप्त ॥",
+      "general": "'என்னைக் காதலர் தந்தார்' என்ற பெருமையுடன், இந்தப் பசலை என் உடல் முழுவதும் ஏறிப் படர்கிறது.",
+      "en": "Proudly claiming that my lover himself bestowed it, this pallor climbs and spreads across my entire body.",
+      "hi": "‘मैं तो प्रियतम द्वारा दिया गया हूँ’ ऐसा गर्व करके यह पीलापन मेरी सारी देह पर चढ़कर व्याप्त हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அவர் தந்தார் <br>(Avarthanthaa)",
+          "ta": "தலைவர் கொடுத்தார்",
+          "en": "He gave",
+          "hi": "उनसे प्राप्त"
+        },
+        {
+          "no": 2,
+          "word": "என்னும் <br>(Rennun)",
+          "ta": "என்று சொல்லும்",
+          "en": "Thus saying",
+          "hi": "यह कहकर"
+        },
+        {
+          "no": 3,
+          "word": "தகையால் <br>(Thagaiyaa)",
+          "ta": "பெருமையால்",
+          "en": "With pride / dignity",
+          "hi": "गर्व से"
+        },
+        {
+          "no": 4,
+          "word": "இவர்ந்து <br>(Livarthanthen)",
+          "ta": "மேலே ஏறி",
+          "en": "Climbing up",
+          "hi": "चढ़ कर"
+        },
+        {
+          "no": 5,
+          "word": "என் மேனி மேல் <br>(Menime)",
+          "ta": "என் உடலின் மீது",
+          "en": "Upon my frame",
+          "hi": "मेरी देह में"
+        },
+        {
+          "no": 6,
+          "word": "ஊரும் <br>(Loorum)",
+          "ta": "படர்ந்து செல்லும்",
+          "en": "Rides / spreads",
+          "hi": "व्याप्त होता है"
+        },
+        {
+          "no": 7,
+          "word": "பசப்பு <br>(Pasappu)",
+          "ta": "பசலை நிறம்",
+          "en": "The sickly hue",
+          "hi": "पीलापन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அவர்தந்தா ரென்னுந் தகையா லிவர்தந்தென்",
+          "line2": "மேனிமே லூரும் பசப்பு"
+        },
+        "en": {
+          "line1": "' He gave ' : this sickly hue thus proudly speaks,",
+          "line2": "Then climbs, and all my frame its chariot makes."
+        },
+        "hi": {
+          "line1": "पीलापन यह गर्व कर, ‘मैं हूँ उनसे प्राप्त’ ।",
+          "line2": "चढ़ कर मेरी देह में, हो जाता है व्याप्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Avarthanthaa Rennun Thagaiyaa Livarthanthen",
+            "line2": "Menime Loorum Pasappu"
+          },
+          "hi": {
+            "line1": "अवर्तन्ता रॆन्नुन् तकैया लिवर्तन्तॆन्",
+            "line2": "मेनिमे लूरुम् पचप्पु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'என்னைக் காதலர் தந்தார்' என்ற பெருமையுடன், இந்தப் பசலை என் உடல் முழுவதும் ஏறிப் படர்கிறது.",
+        "en": "Proudly claiming that my lover himself bestowed it, this pallor climbs and spreads across my entire body.",
+        "hi": "‘मैं तो प्रियतम द्वारा दिया गया हूँ’ ऐसा गर्व करके यह पीलापन मेरी सारी देह पर चढ़कर व्याप्त हो जाता है।"
+      }
+    },
+    {
+      "num": 1183,
+      "line1": "சாயலு நாணு மவர்கொண்டார் கைம்மாறா",
+      "line2": "நோயும் பசலையுந் தந்து",
+      "enLine1": "Of comeliness and shame he me bereft,",
+      "enLine2": "While pain and sickly hue, in recompense, he left.",
+      "hiLine1": "पीलापन औ’ रोग का, करके वे प्रतिदान ।",
+      "hiLine2": "मेरी छवि औ’ लाज का, ले कर चले सुदान ॥",
+      "general": "என்னிடம் இருந்த அழகையும் நாணத்தையும் தலைவர் எடுத்துக்கொண்டார்; அதற்குப் பதிலாகக் காதல் நோயையும் பசலை நிறத்தையும் எனக்குக் கொடுத்துவிட்டுச் சென்றார்.",
+      "en": "He took away my grace and bashfulness, and in exchange left behind love-sickness and this pallid hue.",
+      "hi": "वे मेरी सुंदर छवि और लज्जा तो अपने साथ ले गए और उसके बदले में मुझे विरह-रोग और पीलापन दे गए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சாயலும் <br>(Chaayalu)",
+          "ta": "என் அழகும்",
+          "en": "Comeliness",
+          "hi": "मेरी छवि"
+        },
+        {
+          "no": 2,
+          "word": "நாணும் <br>(Naanu)",
+          "ta": "வெட்கமும்",
+          "en": "And shame",
+          "hi": "औ' लाज"
+        },
+        {
+          "no": 3,
+          "word": "அவர் கொண்டார் <br>(Mavarkontaar)",
+          "ta": "தலைவர் எடுத்துக்கொண்டார்",
+          "en": "He took",
+          "hi": "ले कर चले"
+        },
+        {
+          "no": 4,
+          "word": "கைம்மாறா <br>(Kaimmaaraa)",
+          "ta": "பதிலாக",
+          "en": "In recompense",
+          "hi": "प्रतिदान करके"
+        },
+        {
+          "no": 5,
+          "word": "நோயும் <br>(Noyum)",
+          "ta": "காதல் துன்பமும்",
+          "en": "Pain",
+          "hi": "रोग"
+        },
+        {
+          "no": 6,
+          "word": "பசலையும் <br>(Pasalaiyun)",
+          "ta": "பசலை நிறமும்",
+          "en": "And sickly hue",
+          "hi": "औ' पीलापन"
+        },
+        {
+          "no": 7,
+          "word": "தந்து <br>(Thanthu)",
+          "ta": "கொடுத்து",
+          "en": "Having given",
+          "hi": "देकर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சாயலு நாணு மவர்கொண்டார் கைம்மாறா",
+          "line2": "நோயும் பசலையுந் தந்து"
+        },
+        "en": {
+          "line1": "Of comeliness and shame he me bereft,",
+          "line2": "While pain and sickly hue, in recompense, he left."
+        },
+        "hi": {
+          "line1": "पीलापन औ’ रोग का, करके वे प्रतिदान ।",
+          "line2": "मेरी छवि औ’ लाज का, ले कर चले सुदान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Chaayalu Naanu Mavarkontaar Kaimmaaraa",
+            "line2": "Noyum Pasalaiyun Thanthu"
+          },
+          "hi": {
+            "line1": "चायलु नाणु मवर्कॊण्टार् कैम्माऱा",
+            "line2": "नोयुम् पचलैयुन् तन्तु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என்னிடம் இருந்த அழகையும் நாணத்தையும் தலைவர் எடுத்துக்கொண்டார்; அதற்குப் பதிலாகக் காதல் நோயையும் பசலை நிறத்தையும் எனக்குக் கொடுத்துவிட்டுச் சென்றார்.",
+        "en": "He took away my grace and bashfulness, and in exchange left behind love-sickness and this pallid hue.",
+        "hi": "वे मेरी सुंदर छवि और लज्जा तो अपने साथ ले गए और उसके बदले में मुझे विरह-रोग और पीलापन दे गए।"
+      }
+    },
+    {
+      "num": 1184,
+      "line1": "உள்ளுவன் மன்யா னுரைப்ப தவர்திறமாற்",
+      "line2": "கள்ளம் பிறவோ பசப்பு",
+      "enLine1": "I meditate his words, his worth is theme of all I say,",
+      "enLine2": "This sickly hue is false that would my trust betray.",
+      "hiLine1": "उनके गुण का स्मरण कर, करती हूँ गुण-गान ।",
+      "hiLine2": "फिर भी पीलापन चढ़ा, तो क्या यह धोखा न ॥",
+      "general": "நான் எப்போதும் அவரையே நினைக்கிறேன்; பேசுவதும் அவருடைய பெருமையையே. அப்படியிருக்க, என் மேல் படரும் இந்தப் பசலை பொய்யானதல்லவா?",
+      "en": "I constantly think of him and speak only of his excellence; so is not this pallor that overtakes me deceitful?",
+      "hi": "मैं सदा उन्हीं के गुणों का स्मरण और गान करती रहती हूँ; फिर भी मुझ पर पीलापन चढ़ आए तो क्या यह छल नहीं है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "உள்ளுவன் மன் <br>(Ulluvan)",
+          "ta": "நினைத்துக்கொண்டிருப்பேன்",
+          "en": "I meditate",
+          "hi": "स्मरण करती हूँ"
+        },
+        {
+          "no": 2,
+          "word": "யான் <br>(Manyaa)",
+          "ta": "நான்",
+          "en": "I",
+          "hi": "मैं"
+        },
+        {
+          "no": 3,
+          "word": "உரைப்பது <br>(Nuraippa)",
+          "ta": "பேசுவது",
+          "en": "What I speak",
+          "hi": "गान करती हूँ"
+        },
+        {
+          "no": 4,
+          "word": "அவர் திறம் <br>(Thavarthiramaar)",
+          "ta": "அவரது பெருமை",
+          "en": "His worth",
+          "hi": "उनके गुण"
+        },
+        {
+          "no": 5,
+          "word": "கள்ளம் <br>(Kallam)",
+          "ta": "வஞ்சனை / பொய்",
+          "en": "False / deceit",
+          "hi": "धोखा"
+        },
+        {
+          "no": 6,
+          "word": "பிறவோ <br>(Piravo)",
+          "ta": "வேறொன்றோ",
+          "en": "Is it else",
+          "hi": "क्या यह"
+        },
+        {
+          "no": 7,
+          "word": "பசப்பு <br>(Pasappu)",
+          "ta": "பசலை நிறம்",
+          "en": "Sickly hue",
+          "hi": "पीलापन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உள்ளுவன் மன்யா னுரைப்ப தவர்திறமாற்",
+          "line2": "கள்ளம் பிறவோ பசப்பு"
+        },
+        "en": {
+          "line1": "I meditate his words, his worth is theme of all I say,",
+          "line2": "This sickly hue is false that would my trust betray."
+        },
+        "hi": {
+          "line1": "उनके गुण का स्मरण कर, करती हूँ गुण-गान ।",
+          "line2": "फिर भी पीलापन चढ़ा, तो क्या यह धोखा न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ulluvan Manyaa Nuraippa Thavarthiramaar",
+            "line2": "Kallam Piravo Pasappu"
+          },
+          "hi": {
+            "line1": "उळ्ळुवन् मन्या नुरैप्प तवर्तिऱमाऱ्",
+            "line2": "कळ्ळम् पिऱवो पचप्पु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நான் எப்போதும் அவரையே நினைக்கிறேன்; பேசுவதும் அவருடைய பெருமையையே. அப்படியிருக்க, என் மேல் படரும் இந்தப் பசலை பொய்யானதல்லவா?",
+        "en": "I constantly think of him and speak only of his excellence; so is not this pallor that overtakes me deceitful?",
+        "hi": "मैं सदा उन्हीं के गुणों का स्मरण और गान करती रहती हूँ; फिर भी मुझ पर पीलापन चढ़ आए तो क्या यह छल नहीं है?"
+      }
+    },
+    {
+      "num": 1185,
+      "line1": "உவக்காணெங் காதலர் செல்வா ரிவக்காணென்",
+      "line2": "மேனி பசப்பூர் வது",
+      "enLine1": "My lover there went forth to roam ;",
+      "enLine2": "This pallor of my frame usurps his place at home.",
+      "hiLine1": "वह देखो, जाते बिछुड़, मेरे प्रियतम आप्त ।",
+      "hiLine2": "यह देखो, इस देह पर, पीलापन है व्याप्त ॥",
+      "general": "அதோ பார், என் காதலர் பிரிந்து செல்கிறார்; இதோ பார், என் உடலின் மீது பசலை படர்ந்து ஏறுகிறது.",
+      "en": "Look there, my lover goes away; and look here, this pallor immediately takes over my body.",
+      "hi": "उधर देखो, मेरे प्रियतम बिछुड़कर जा रहे हैं, और इधर देखो, मेरी देह पर पीलापन व्याप्त हो रहा है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உவக்காண் <br>(Uvakkaaneng)",
+          "ta": "அதோ பார்",
+          "en": "Look there",
+          "hi": "वह देखो"
+        },
+        {
+          "no": 2,
+          "word": "எம் காதலர் <br>(Kaadhalar)",
+          "ta": "எம் காதலர்",
+          "en": "My lover",
+          "hi": "मेरे प्रियतम"
+        },
+        {
+          "no": 3,
+          "word": "செல்வார் <br>(Chelvaa)",
+          "ta": "பிரிந்து செல்கிறார்",
+          "en": "Goes away",
+          "hi": "जाते बिछुड़"
+        },
+        {
+          "no": 4,
+          "word": "இவக்காண் <br>(Rivakkaanen)",
+          "ta": "இதோ பார்",
+          "en": "Look here",
+          "hi": "यह देखो"
+        },
+        {
+          "no": 5,
+          "word": "என் மேனி <br>(Meni)",
+          "ta": "என் உடலில்",
+          "en": "My frame",
+          "hi": "इस देह पर"
+        },
+        {
+          "no": 6,
+          "word": "பசப்பு <br>(Pasappoor)",
+          "ta": "பசலை நிறம்",
+          "en": "Pallor",
+          "hi": "पीलापन"
+        },
+        {
+          "no": 7,
+          "word": "ஊர்வது <br>(Vadhu)",
+          "ta": "படர்ந்து ஏறுவது",
+          "en": "Usurping / spreading",
+          "hi": "व्याप्त है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உவக்காணெங் காதலர் செல்வா ரிவக்காணென்",
+          "line2": "மேனி பசப்பூர் வது"
+        },
+        "en": {
+          "line1": "My lover there went forth to roam ;",
+          "line2": "This pallor of my frame usurps his place at home."
+        },
+        "hi": {
+          "line1": "वह देखो, जाते बिछुड़, मेरे प्रियतम आप्त ।",
+          "line2": "यह देखो, इस देह पर, पीलापन है व्याप्त ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uvakkaaneng Kaadhalar Chelvaa Rivakkaanen",
+            "line2": "Meni Pasappoor Vadhu"
+          },
+          "hi": {
+            "line1": "उवक्काणॆङ् कातलर् चॆल्वा रिवक्काणॆन्",
+            "line2": "मेनि पचप्पूर् वतु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அதோ பார், என் காதலர் பிரிந்து செல்கிறார்; இதோ பார், என் உடலின் மீது பசலை படர்ந்து ஏறுகிறது.",
+        "en": "Look there, my lover goes away; and look here, this pallor immediately takes over my body.",
+        "hi": "उधर देखो, मेरे प्रियतम बिछुड़कर जा रहे हैं, और इधर देखो, मेरी देह पर पीलापन व्याप्त हो रहा है।"
+      }
+    },
+    {
+      "num": 1186,
+      "line1": "விளக்கற்றம் பார்க்கு மிருளேபோற் கொண்கன்",
+      "line2": "முயக்கற்றம் பார்க்கும் பசப்பு",
+      "enLine1": "As darkness waits till lamp expires, to fill the place,",
+      "enLine2": "This pallor waits till I enjoy no more my lord's embrace.",
+      "hiLine1": "दीपक बुझने की यथा, तम की जो है ताक ।",
+      "hiLine2": "प्रिय-आलिंगन ढील पर, पैलापन की ताक ॥",
+      "general": "விளக்கு அணையும் நேரத்தைப் பார்த்துக் காத்திருக்கும் இருளைப் போல, தலைவரின் தழுவல் குறையும் நேரத்தைப் பார்த்து இந்தப் பசலை காத்திருக்கிறது.",
+      "en": "Just as darkness waits for the moment the lamp goes out, this pallor waits for the moment my lord's embrace ceases.",
+      "hi": "जैसे दीपक के बुझने की ताक में अंधकार रहता है, वैसे ही प्रिय के आलिंगन में ढील पड़ते ही पीलापन छाने की ताक में रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "விளக்கு அற்றம் <br>(Vilakkatram)",
+          "ta": "விளக்கு அணையும் நேரம்",
+          "en": "Lamp expires",
+          "hi": "दीपक बुझने"
+        },
+        {
+          "no": 2,
+          "word": "பார்க்கும் <br>(Paarkku)",
+          "ta": "எதிர்பார்த்துக் காத்திருக்கும்",
+          "en": "Waits for",
+          "hi": "ताक"
+        },
+        {
+          "no": 3,
+          "word": "இருளே போல் <br>(Mirulebor)",
+          "ta": "இருட்டைப் போல",
+          "en": "As darkness",
+          "hi": "तम की यथा"
+        },
+        {
+          "no": 4,
+          "word": "கொண்கன் <br>(Konkan)",
+          "ta": "கணவன் / தலைவர்",
+          "en": "My lord",
+          "hi": "प्रिय"
+        },
+        {
+          "no": 5,
+          "word": "முயக்கு அற்றம் <br>(Muyakkatram)",
+          "ta": "தழுவல் இல்லாத நேரம்",
+          "en": "End of embrace",
+          "hi": "आलिंगन ढील"
+        },
+        {
+          "no": 6,
+          "word": "பார்க்கும் <br>(Paarkkum)",
+          "ta": "காத்திருக்கும்",
+          "en": "Waits",
+          "hi": "ताक में"
+        },
+        {
+          "no": 7,
+          "word": "பசப்பு <br>(Pasappu)",
+          "ta": "பசலை நிறம்",
+          "en": "This pallor",
+          "hi": "पैलापन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "விளக்கற்றம் பார்க்கு மிருளேபோற் கொண்கன்",
+          "line2": "முயக்கற்றம் பார்க்கும் பசப்பு"
+        },
+        "en": {
+          "line1": "As darkness waits till lamp expires, to fill the place,",
+          "line2": "This pallor waits till I enjoy no more my lord's embrace."
+        },
+        "hi": {
+          "line1": "दीपक बुझने की यथा, तम की जो है ताक ।",
+          "line2": "प्रिय-आलिंगन ढील पर, पैलापन की ताक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vilakkatram Paarkku Mirulebor Konkan",
+            "line2": "Muyakkatram Paarkkum Pasappu"
+          },
+          "hi": {
+            "line1": "विळक्कट्ऱम् पार्क्कु मिरुळेपोऱ् कॊण्कन्",
+            "line2": "मुयक्कट्ऱम् पार्क्कुम् पचप्पु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "விளக்கு அணையும் நேரத்தைப் பார்த்துக் காத்திருக்கும் இருளைப் போல, தலைவரின் தழுவல் குறையும் நேரத்தைப் பார்த்து இந்தப் பசலை காத்திருக்கிறது.",
+        "en": "Just as darkness waits for the moment the lamp goes out, this pallor waits for the moment my lord's embrace ceases.",
+        "hi": "जैसे दीपक के बुझने की ताक में अंधकार रहता है, वैसे ही प्रिय के आलिंगन में ढील पड़ते ही पीलापन छाने की ताक में रहता है।"
+      }
+    },
+    {
+      "num": 1187,
+      "line1": "புல்லிக் கிடந்தேன் புடைபெயர்ந்தே னவ்வளவி",
+      "line2": "லள்ளிக்கொள் வற்றே பசப்பு",
+      "enLine1": "I lay in his embrace, I turned unwittingly ;",
+      "enLine2": "Forthwith this hue, as you might grasp it, came on me.",
+      "hiLine1": "आलिंगन करके रही, करवट बदली थोर ।",
+      "hiLine2": "उस क्षण जम कर छा गया, पीलापन यह घोर ॥",
+      "general": "நான் தலைவரைத் தழுவிப் படுத்திருந்தேன்; சிறிது புரண்டு படுத்த அந்தக் கணத்திலேயே கையால் அள்ளிக்கொள்ளும் அளவுக்குப் பசலை என் மீது படர்ந்துவிட்டது.",
+      "en": "I lay in his embrace and merely turned aside; in that brief moment, this pallor came over me thick enough to grasp.",
+      "hi": "मैं प्रियतम के आलिंगन में थी और जरा सी करवट बदली, बस उसी क्षण यह घोर पीलापन जमकर छा गया।",
+      "words": [
+        {
+          "no": 1,
+          "word": "புல்லி <br>(Pullik)",
+          "ta": "தழுவி",
+          "en": "Having embraced",
+          "hi": "आलिंगन करके"
+        },
+        {
+          "no": 2,
+          "word": "கிடந்தேன் <br>(Kidanthen)",
+          "ta": "படுத்திருந்தேன்",
+          "en": "I lay",
+          "hi": "रही"
+        },
+        {
+          "no": 3,
+          "word": "புடைபெயர்ந்தேன் <br>(Pudaibeyarnthe)",
+          "ta": "பக்கம் திரும்பினேன்",
+          "en": "I turned aside",
+          "hi": "करवट बदली"
+        },
+        {
+          "no": 4,
+          "word": "அவ்வளவில் <br>(Navvalavi)",
+          "ta": "அந்த நொடியில்",
+          "en": "Forthwith",
+          "hi": "उस क्षण"
+        },
+        {
+          "no": 5,
+          "word": "அள்ளிக்கொள் <br>(Lallikkol)",
+          "ta": "கையால் அள்ளும்",
+          "en": "As might grasp",
+          "hi": "जम कर"
+        },
+        {
+          "no": 6,
+          "word": "அற்றே <br>(Vatre)",
+          "ta": "அளவுக்கு வந்தது",
+          "en": "Came on me",
+          "hi": "छा गया"
+        },
+        {
+          "no": 7,
+          "word": "பசப்பு <br>(Pasappu)",
+          "ta": "பசலை நிறம்",
+          "en": "This hue",
+          "hi": "पीलापन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புல்லிக் கிடந்தேன் புடைபெயர்ந்தே னவ்வளவி",
+          "line2": "லள்ளிக்கொள் வற்றே பசப்பு"
+        },
+        "en": {
+          "line1": "I lay in his embrace, I turned unwittingly ;",
+          "line2": "Forthwith this hue, as you might grasp it, came on me."
+        },
+        "hi": {
+          "line1": "आलिंगन करके रही, करवट बदली थोर ।",
+          "line2": "उस क्षण जम कर छा गया, पीलापन यह घोर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pullik Kidanthen Pudaibeyarnthe Navvalavi",
+            "line2": "Lallikkol Vatre Pasappu"
+          },
+          "hi": {
+            "line1": "पुल्लिक् किटन्तेन् पुटैपॆयर्न्ते नव्वळवि",
+            "line2": "लळ्ळिक्कॊळ् वट्ऱे पचप्पु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நான் தலைவரைத் தழுவிப் படுத்திருந்தேன்; சிறிது புரண்டு படுத்த அந்தக் கணத்திலேயே கையால் அள்ளிக்கொள்ளும் அளவுக்குப் பசலை என் மீது படர்ந்துவிட்டது.",
+        "en": "I lay in his embrace and merely turned aside; in that brief moment, this pallor came over me thick enough to grasp.",
+        "hi": "मैं प्रियतम के आलिंगन में थी और जरा सी करवट बदली, बस उसी क्षण यह घोर पीलापन जमकर छा गया।"
+      }
+    },
+    {
+      "num": 1188,
+      "line1": "பசந்தா ளிவளென்ப தல்லா லிவளைத்",
+      "line2": "துறந்தா ரவரென்பா ரில்",
+      "enLine1": "On me, because I pine, they cast a slur ;",
+      "enLine2": "But no one says, ' He first deserted her.'",
+      "hiLine1": "‘यह है पीली पड़ गयी’, यों करते हैं बात ।",
+      "hiLine2": "इसे त्याग कर वे गये, यों करते नहिं बात ॥",
+      "general": "'இவள் பசலை அடைந்துவிட்டாள்' என்று என்னைப் பழிப்பார்களே தவிர, 'அவர் இவளைப் பிரிந்து சென்றுவிட்டார்' என்று அவரை யாரும் சொல்வதில்லை.",
+      "en": "People remark that she has grown pale and pining, yet no one says that it was he who deserted her.",
+      "hi": "सब यही कहते हैं कि 'यह पीली पड़ गई है', लेकिन कोई यह नहीं कहता कि 'वे इसे छोड़कर चले गए हैं'।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பசந்தாள் <br>(Pasanthaa)",
+          "ta": "பசலை அடைந்தாள்",
+          "en": "She pines",
+          "hi": "पीली पड़ गयी"
+        },
+        {
+          "no": 2,
+          "word": "இவள் என்பதல்லால் <br>(Livalenpa)",
+          "ta": "இவள் என்று சொல்வதல்லாமல்",
+          "en": "Saying of her",
+          "hi": "यों करते बात"
+        },
+        {
+          "no": 3,
+          "word": "இவளை <br>(Thallaa)",
+          "ta": "இவளை",
+          "en": "Her",
+          "hi": "इसे"
+        },
+        {
+          "no": 4,
+          "word": "துறந்தார் <br>(Livalaith)",
+          "ta": "பிரிந்து சென்றார்",
+          "en": "Deserted",
+          "hi": "त्याग कर गये"
+        },
+        {
+          "no": 5,
+          "word": "அவர் <br>(Thuranthaa)",
+          "ta": "தலைவர்",
+          "en": "He",
+          "hi": "वे"
+        },
+        {
+          "no": 6,
+          "word": "என்பார் <br>(Ravarenpaa)",
+          "ta": "என்று சொல்பவர்",
+          "en": "Who say",
+          "hi": "कहते"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Ril)",
+          "ta": "யாருமில்லை",
+          "en": "No one",
+          "hi": "नहिं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பசந்தா ளிவளென்ப தல்லா லிவளைத்",
+          "line2": "துறந்தா ரவரென்பா ரில்"
+        },
+        "en": {
+          "line1": "On me, because I pine, they cast a slur ;",
+          "line2": "But no one says, ' He first deserted her.'"
+        },
+        "hi": {
+          "line1": "‘यह है पीली पड़ गयी’, यों करते हैं बात ।",
+          "line2": "इसे त्याग कर वे गये, यों करते नहिं बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pasanthaa Livalenpa Thallaa Livalaith",
+            "line2": "Thuranthaa Ravarenpaa Ril"
+          },
+          "hi": {
+            "line1": "पचन्ता ळिवळॆन्प तल्ला लिवळैत्",
+            "line2": "तुऱन्ता रवरॆन्पा रिल्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'இவள் பசலை அடைந்துவிட்டாள்' என்று என்னைப் பழிப்பார்களே தவிர, 'அவர் இவளைப் பிரிந்து சென்றுவிட்டார்' என்று அவரை யாரும் சொல்வதில்லை.",
+        "en": "People remark that she has grown pale and pining, yet no one says that it was he who deserted her.",
+        "hi": "सब यही कहते हैं कि 'यह पीली पड़ गई है', लेकिन कोई यह नहीं कहता कि 'वे इसे छोड़कर चले गए हैं'।"
+      }
+    },
+    {
+      "num": 1189,
+      "line1": "பசக்கமற் பட்டாங்கென் மேனி நயப்பித்தார்",
+      "line2": "நன்னிலைய ராவ ரெனின்",
+      "enLine1": "Well ! let my frame, as now, be sicklied o'er with pain,",
+      "enLine2": "If he who won my heart's consent, in good estate remain !",
+      "hiLine1": "मुझे मना कर तो गये, यदि सकुशल हों नाथ ।",
+      "hiLine2": "तो मेरा तन भी रहे, पीलापन के साथ ॥",
+      "general": "பிரியும்போது என்னை இணங்கச் செய்த என் தலைவர் நலமுடன் இருப்பாரானால், என் உடலும் இவ்வாறே பசலை நிறம் அடைந்தாலும் பரவாயில்லை.",
+      "en": "Let my body indeed be covered with pallor as it is, so long as he who won my consent remains in good health and happiness.",
+      "hi": "जो मुझे मनाकर गए हैं वे प्रियतम यदि सकुशल रहें, तो मेरा शरीर भी इसी प्रकार पीलेपन के साथ रहे, कोई बात नहीं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பசக்க மன் <br>(Pasakkamar)",
+          "ta": "பசலை நிறம் அடையட்டும்",
+          "en": "Let it be sicklied",
+          "hi": "पीलापन रहे"
+        },
+        {
+          "no": 2,
+          "word": "பட்டாங்கு <br>(Pattaangken)",
+          "ta": "உள்ளபடியே",
+          "en": "As now",
+          "hi": "इसी प्रकार"
+        },
+        {
+          "no": 3,
+          "word": "என் மேனி <br>(Meni)",
+          "ta": "என் உடல்",
+          "en": "My frame",
+          "hi": "मेरा तन"
+        },
+        {
+          "no": 4,
+          "word": "நயப்பித்தார் <br>(Nayappiththaar)",
+          "ta": "சம்மதிக்கச் செய்தவர்",
+          "en": "He who won consent",
+          "hi": "मना कर गये"
+        },
+        {
+          "no": 5,
+          "word": "நன்னிலையர் <br>(Nannilaiya)",
+          "ta": "நல்ல நிலையில்",
+          "en": "In good estate",
+          "hi": "सकुशल"
+        },
+        {
+          "no": 6,
+          "word": "ஆவர் <br>(Raava)",
+          "ta": "இருப்பார்",
+          "en": "Remain",
+          "hi": "हों"
+        },
+        {
+          "no": 7,
+          "word": "எனின் <br>(Renin)",
+          "ta": "என்றால்",
+          "en": "If",
+          "hi": "यदि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பசக்கமற் பட்டாங்கென் மேனி நயப்பித்தார்",
+          "line2": "நன்னிலைய ராவ ரெனின்"
+        },
+        "en": {
+          "line1": "Well ! let my frame, as now, be sicklied o'er with pain,",
+          "line2": "If he who won my heart's consent, in good estate remain !"
+        },
+        "hi": {
+          "line1": "मुझे मना कर तो गये, यदि सकुशल हों नाथ ।",
+          "line2": "तो मेरा तन भी रहे, पीलापन के साथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pasakkamar Pattaangken Meni Nayappiththaar",
+            "line2": "Nannilaiya Raava Renin"
+          },
+          "hi": {
+            "line1": "पचक्कमऱ् पट्टाङ्कॆन् मेनि नयप्पित्तार्",
+            "line2": "नन्निलैय राव रॆनिन्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிரியும்போது என்னை இணங்கச் செய்த என் தலைவர் நலமுடன் இருப்பாரானால், என் உடலும் இவ்வாறே பசலை நிறம் அடைந்தாலும் பரவாயில்லை.",
+        "en": "Let my body indeed be covered with pallor as it is, so long as he who won my consent remains in good health and happiness.",
+        "hi": "जो मुझे मनाकर गए हैं वे प्रियतम यदि सकुशल रहें, तो मेरा शरीर भी इसी प्रकार पीलेपन के साथ रहे, कोई बात नहीं।"
+      }
+    },
+    {
+      "num": 1190,
+      "line1": "பசப்பெனப் பேர்பெறுத னன்றே நயப்பித்தார்",
+      "line2": "நல்காமை தூற்றா ரெனின்",
+      "enLine1": "'Tis well, though men deride me for my sickly hue of pain ;",
+      "enLine2": "If they from calling him unkind, who won my love, refrain.",
+      "hiLine1": "अच्छा है पाना स्वयं, पीलापन का नाम ।",
+      "hiLine2": "प्रिय का तजना बन्धुजन, यदि न करें बदनाम ॥",
+      "general": "என்னை இணங்கச் செய்த தலைவரின் பிரிவை ஊரார் பழித்துப் பேசாமல் இருப்பார்களானால், எனக்கு 'பசலை கொண்டவள்' என்ற பெயர் வருவது நல்லதே.",
+      "en": "It is good that I bear the reproach of pallor, if only people refrain from blaming him as unkind for leaving me.",
+      "hi": "यदि लोग प्रियतम के त्यागने की निंदा न करें, तो मेरा स्वयं 'पीलापन' नाम पाना ही अच्छा है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பசப்பு என <br>(Pasappenap)",
+          "ta": "பசலை என்று",
+          "en": "As sickly hue",
+          "hi": "पीलापन का"
+        },
+        {
+          "no": 2,
+          "word": "பேர் பெறுதல் <br>(Perperudha)",
+          "ta": "பெயர் பெறுவது",
+          "en": "Bearing the name",
+          "hi": "नाम पाना"
+        },
+        {
+          "no": 3,
+          "word": "நன்றே <br>(Nanre)",
+          "ta": "நல்லதே",
+          "en": "'Tis well",
+          "hi": "अच्छा है"
+        },
+        {
+          "no": 4,
+          "word": "நயப்பித்தார் <br>(Nayappiththaar)",
+          "ta": "விரும்பச் செய்தவர்",
+          "en": "He who won love",
+          "hi": "प्रिय"
+        },
+        {
+          "no": 5,
+          "word": "நல்காமை <br>(Nalkaamai)",
+          "ta": "அருளாமையை",
+          "en": "Unkindness",
+          "hi": "तजना"
+        },
+        {
+          "no": 6,
+          "word": "தூற்றார் <br>(Thootraa)",
+          "ta": "பழித்துப் பேசார்",
+          "en": "Refrain from blaming",
+          "hi": "न करें बदनाम"
+        },
+        {
+          "no": 7,
+          "word": "எனின் <br>(Renin)",
+          "ta": "என்றால்",
+          "en": "If",
+          "hi": "यदि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பசப்பெனப் பேர்பெறுத னன்றே நயப்பித்தார்",
+          "line2": "நல்காமை தூற்றா ரெனின்"
+        },
+        "en": {
+          "line1": "'Tis well, though men deride me for my sickly hue of pain ;",
+          "line2": "If they from calling him unkind, who won my love, refrain."
+        },
+        "hi": {
+          "line1": "अच्छा है पाना स्वयं, पीलापन का नाम ।",
+          "line2": "प्रिय का तजना बन्धुजन, यदि न करें बदनाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pasappenap Perperudha Nanre Nayappiththaar",
+            "line2": "Nalkaamai Thootraa Renin"
+          },
+          "hi": {
+            "line1": "पचप्पॆनप् पेर्पॆऱुत नन्ऱे नयप्पित्तार्",
+            "line2": "नल्कामै तूट्ऱा रॆनिन्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என்னை இணங்கச் செய்த தலைவரின் பிரிவை ஊரார் பழித்துப் பேசாமல் இருப்பார்களானால், எனக்கு 'பசலை கொண்டவள்' என்ற பெயர் வருவது நல்லதே.",
+        "en": "It is good that I bear the reproach of pallor, if only people refrain from blaming him as unkind for leaving me.",
+        "hi": "यदि लोग प्रियतम के त्यागने की निंदा न करें, तो मेरा स्वयं 'पीलापन' नाम पाना ही अच्छा है।"
+      }
+    }
+  ]
+}

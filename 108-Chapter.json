@@ -1,0 +1,930 @@
+{
+  "chapterNum": 108,
+  "nameTa": "கயமை",
+  "nameEn": "Baseness",
+  "nameHi": "नीचता",
+  "paal": "பொருட்பால்",
+  "iyal": "ஒழிபியல்",
+  "kurals": [
+    {
+      "num": 1071,
+      "line1": "மக்களே போல்வர் கயவ ரவரன்ன",
+      "line2": "ஒப்பாரி யாங்கண் டதில்.",
+      "enLine1": "The base resemble men in outward form, I ween ;",
+      "enLine2": "But counterpart exact to them I've never seen.",
+      "hiLine1": "हैं मनुष्य के सदृश ही, नीच लोग भी दृश्य ।",
+      "hiLine2": "हमने तो देखा नहीं, ऐसा जो सादृश्य ॥",
+      "general": "கயவர்கள் உருவத்தில் மனிதர்களைப் போலவே இருப்பார்கள்; அவர்களைப் போலவே ஒத்திருக்கும் தன்மையை நாம் வேறெங்கும் கண்டதில்லை.",
+      "en": "Base people look just like ordinary human beings on the outside; such an exact outward likeness is hard to find anywhere else.",
+      "hi": "नीच लोग देखने में मनुष्यों के समान ही प्रतीत होते हैं; इससे पहले हमने ऐसी अद्भुत समानता (केवल आकार में) कहीं नहीं देखी।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மக்களே போல்வர் <br>(Makkale polvar)",
+          "ta": "மனிதர்களைப் போலவே இருப்பர்",
+          "en": "Resemble men",
+          "hi": "हैं मनुष्य के सदृश ही"
+        },
+        {
+          "no": 2,
+          "word": "கயவர் <br>(Kayavar)",
+          "ta": "கயவர்கள்",
+          "en": "The base",
+          "hi": "नीच लोग भी"
+        },
+        {
+          "no": 3,
+          "word": "அவர் அன்ன <br>(Avar anna)",
+          "ta": "அவர்களைப் போன்ற",
+          "en": "Counterpart exact",
+          "hi": "ऐसा जो"
+        },
+        {
+          "no": 4,
+          "word": "ஒப்பாரி <br>(Oppaari)",
+          "ta": "ஒப்புமையை",
+          "en": "Likeness",
+          "hi": "सादृश्य"
+        },
+        {
+          "no": 5,
+          "word": "யாம் <br>(Yaam)",
+          "ta": "நாம்",
+          "en": "I",
+          "hi": "हमने तो"
+        },
+        {
+          "no": 6,
+          "word": "கண்டது <br>(Kandadhu)",
+          "ta": "கண்டது",
+          "en": "Seen",
+          "hi": "देखा"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Never",
+          "hi": "नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மக்களே போல்வர் கயவ ரவரன்ன",
+          "line2": "ஒப்பாரி யாங்கண் டதில்."
+        },
+        "en": {
+          "line1": "The base resemble men in outward form, I ween ;",
+          "line2": "But counterpart exact to them I've never seen."
+        },
+        "hi": {
+          "line1": "हैं मनुष्य के सदृश ही, नीच लोग भी दृश्य ।",
+          "line2": "हमने तो देखा नहीं, ऐसा जो सादृश्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Makkale Polvar Kayava Ravaranna",
+            "line2": "Oppaari Yaanggan Dadhil."
+          },
+          "hi": {
+            "line1": "मक्कळे पोल्वर् कयव रवरन्न",
+            "line2": "ओप्पारि याङ्गण् डदिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கயவர்கள் உருவத்தில் மனிதர்களைப் போலவே இருப்பார்கள்; அவர்களைப் போலவே ஒத்திருக்கும் தன்மையை நாம் வேறெங்கும் கண்டதில்லை.",
+        "en": "Mean-spirited people look completely human on the outside—it's uncanny how convincing the resemblance is.",
+        "hi": "नीच लोग देखने में मनुष्यों के समान ही प्रतीत होते हैं; इससे पहले हमने ऐसी अद्भुत समानता (केवल आकार में) कहीं नहीं देखी।"
+      }
+    },
+    {
+      "num": 1072,
+      "line1": "நன்றறி வாரிற் கயவர் திருவுடையர்",
+      "line2": "நெஞ்சத் தவல மிலர்.",
+      "enLine1": "Than those of grateful heart the base must luckier be,",
+      "enLine2": "Their minds from every anxious thought are free !",
+      "hiLine1": "चिन्ता धर्माधर्म की, नहीं हृदय के बीच ।",
+      "hiLine2": "सो बढ़ कर धर्मज्ञ से, भाग्यवान हैं नीच ॥",
+      "general": "நன்மை தீமைகளை அறிந்து நடப்பவர்களைவிடக் கயவர்கள் பாக்கியம் செய்தவர்கள்; ஏனென்றால் அவர்கள் நெஞ்சத்தில் எந்தக் கவலையும் இல்லாமல் இருக்கிறார்கள்.",
+      "en": "Base people seem more fortunate than conscientious ones, for their hearts are never troubled by any pangs of guilt or worry.",
+      "hi": "नीच लोगों के हृदय में धर्म और अधर्म की कोई चिन्ता ही नहीं होती; इसलिए वे धर्म को जानने वाले सज्जनों से भी अधिक भाग्यवान (बेफिक्र) हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நன்று அறிவாரின் <br>(Nandru arivaarin)",
+          "ta": "நல்லதை அறிந்தவரைவிட",
+          "en": "Those of grateful heart",
+          "hi": "धर्मज्ञ से"
+        },
+        {
+          "no": 2,
+          "word": "கயவர் <br>(Kayavar)",
+          "ta": "கயவர்கள்",
+          "en": "The base",
+          "hi": "नीच"
+        },
+        {
+          "no": 3,
+          "word": "திருவுடையர் <br>(Thiruvudaiyar)",
+          "ta": "பேறு பெற்றவர்",
+          "en": "Luckier be",
+          "hi": "भाग्यवान हैं"
+        },
+        {
+          "no": 4,
+          "word": "நெஞ்சத்து <br>(Nenjaththu)",
+          "ta": "மனத்தில்",
+          "en": "Their minds",
+          "hi": "हृदय के बीच"
+        },
+        {
+          "no": 5,
+          "word": "அவலம் <br>(Avalam)",
+          "ta": "கவலை",
+          "en": "Anxious thought",
+          "hi": "चिन्ता धर्माधर्म की"
+        },
+        {
+          "no": 6,
+          "word": "இலர் <br>(Ilar)",
+          "ta": "இல்லாதவர்",
+          "en": "Are free",
+          "hi": "नहीं"
+        },
+        {
+          "no": 7,
+          "word": "மனச்சான்று <br>(Manachchaandru)",
+          "ta": "மனச்சான்று",
+          "en": "Conscience",
+          "hi": "विवेक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நன்றறி வாரிற் கயவர் திருவுடையர்",
+          "line2": "நெஞ்சத் தவல மிலர்."
+        },
+        "en": {
+          "line1": "Than those of grateful heart the base must luckier be,",
+          "line2": "Their minds from every anxious thought are free !"
+        },
+        "hi": {
+          "line1": "चिन्ता धर्माधर्म की, नहीं हृदय के बीच ।",
+          "line2": "सो बढ़ कर धर्मज्ञ से, भाग्यवान हैं नीच ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nandru Arivaarin Kayavar Thiruvudaiyar",
+            "line2": "Nenjaththu Avalam Ilar."
+          },
+          "hi": {
+            "line1": "नन्द्ररि वारिर् कयवर् तिरुवुडैयर्",
+            "line2": "नॆञ्जत् तवल मिलर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நன்மை தீமைகளை அறிந்து நடப்பவர்களைவிடக் கயவர்கள் பாக்கியம் செய்தவர்கள்; ஏனென்றால் அவர்கள் நெஞ்சத்தில் எந்தக் கவலையும் இல்லாமல் இருக்கிறார்கள்.",
+        "en": "Shameless people almost have it easier than good people—they never lose sleep over right and wrong.",
+        "hi": "नीच लोगों के हृदय में धर्म और अधर्म की कोई चिन्ता ही नहीं होती; इसलिए वे धर्म को जानने वाले सज्जनों से भी अधिक भाग्यवान (बेफिक्र) हैं।"
+      }
+    },
+    {
+      "num": 1073,
+      "line1": "தேவ ரனையர் கயவ ரவருந்தா",
+      "line2": "மேவன செய்தொழுக லான்.",
+      "enLine1": "The base are as the gods; they too",
+      "enLine2": "Do ever what they list to do !",
+      "hiLine1": "नीच लोग हैं देव सम, क्योंकि निरंकुश जीव ।",
+      "hiLine2": "वे भी करते आचरण, मनमानी बिन सींव ॥",
+      "general": "கயவர்களும் தேவர்களைப் போன்றவர்களே; ஏனென்றால் தேவர்களைப் போலவே இவர்களும் தாம் விரும்பியவற்றை எல்லாம் எதற்கும் அஞ்சாமல் செய்து நடப்பார்கள்.",
+      "en": "The base are just like the gods—in the sense that they too do whatever they please without any restraint.",
+      "hi": "नीच लोग भी देवताओं के समान हैं, क्योंकि वे भी निरंकुश होकर बिना किसी मर्यादा (सीमा) के अपने मनमानी ढंग से आचरण करते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தேவர் அனையர் <br>(Dhevar anaiyar)",
+          "ta": "தேவர்களைப் போன்றவர்",
+          "en": "As the gods",
+          "hi": "हैं देव सम"
+        },
+        {
+          "no": 2,
+          "word": "கயவர் <br>(Kayavar)",
+          "ta": "கயவர்கள்",
+          "en": "The base",
+          "hi": "नीच लोग"
+        },
+        {
+          "no": 3,
+          "word": "அவரும் <br>(Avarum)",
+          "ta": "அவர்களும்",
+          "en": "They too",
+          "hi": "वे भी"
+        },
+        {
+          "no": 4,
+          "word": "தாம் <br>(Thaam)",
+          "ta": "தாம்",
+          "en": "They",
+          "hi": "निरंकुश जीव"
+        },
+        {
+          "no": 5,
+          "word": "மேவன <br>(Mevana)",
+          "ta": "விரும்பியவற்றை",
+          "en": "What they list",
+          "hi": "मनमानी"
+        },
+        {
+          "no": 6,
+          "word": "செய்து <br>(Seydhu)",
+          "ta": "செய்து",
+          "en": "Do",
+          "hi": "करते"
+        },
+        {
+          "no": 7,
+          "word": "ஒழுகலான் <br>(Ozhugalaan)",
+          "ta": "நடப்பதால்",
+          "en": "To do",
+          "hi": "आचरण बिन सींव"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தேவ ரனையர் கயவ ரவருந்தா",
+          "line2": "மேவன செய்தொழுக லான்."
+        },
+        "en": {
+          "line1": "The base are as the gods; they too",
+          "line2": "Do ever what they list to do !"
+        },
+        "hi": {
+          "line1": "नीच लोग हैं देव सम, क्योंकि निरंकुश जीव ।",
+          "line2": "वे भी करते आचरण, मनमानी बिन सींव ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Theva Ranaiyar Kayava Ravarundhaa",
+            "line2": "Mevana Seythozhuga Laan."
+          },
+          "hi": {
+            "line1": "देव रनैयर् कयव रवरुन्दा",
+            "line2": "मेवन सॆय्दॊऴुग लान्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கயவர்களும் தேவர்களைப் போன்றவர்களே; ஏனென்றால் தேவர்களைப் போலவே இவர்களும் தாம் விரும்பியவற்றை எல்லாம் எதற்கும் அஞ்சாமல் செய்து நடப்பார்கள்.",
+        "en": "Ironically, shameless people act like gods—nobody's rules stop them from doing whatever they feel like.",
+        "hi": "नीच लोग भी देवताओं के समान हैं, क्योंकि वे भी निरंकुश होकर बिना किसी मर्यादा (सीमा) के अपने मनमानी ढंग से आचरण करते हैं।"
+      }
+    },
+    {
+      "num": 1074,
+      "line1": "அகப்பட்டி யாவாரைக் காணி னவரின்",
+      "line2": "மிகப்பட்டுச் செம்மாக்குங் கீழ்.",
+      "enLine1": "When base men those behold of conduct vile,",
+      "enLine2": "They straight surpass them, and exulting smile.",
+      "hiLine1": "मनमौजी ऐसा मिले, जो अपने से खर्व ।",
+      "hiLine2": "तो उससे बढ़ खुद समझ, नीच करेगा गर्व ॥",
+      "general": "தன்னைவிட இழிந்த ஒழுக்கமற்ற ஒருவனைக் கண்டால், கீழ்மகன் அவனைவிடத் தான் உயர்ந்தவன் என்று எண்ணிப் பெருமை கொள்வான்.",
+      "en": "When a base person sees someone of even lower conduct, they outdo them and feel proud of their own superiority.",
+      "hi": "यदि किसी नीच को अपने से भी अधिक हीन और मनमौजी व्यक्ति मिल जाए, तो वह स्वयं को उससे बढ़कर समझकर गर्व करने लगता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அகப்பட்டி <br>(Agappatti)",
+          "ta": "ஒழுக்கமற்ற",
+          "en": "Of conduct vile",
+          "hi": "मनमौजी"
+        },
+        {
+          "no": 2,
+          "word": "ஆவாரை <br>(Aavaarai)",
+          "ta": "ஒருவனை",
+          "en": "Those",
+          "hi": "ऐसा मिले"
+        },
+        {
+          "no": 3,
+          "word": "காணின் <br>(Kaanin)",
+          "ta": "கண்டால்",
+          "en": "When behold",
+          "hi": "मिले"
+        },
+        {
+          "no": 4,
+          "word": "அவரின் <br>(Avarin)",
+          "ta": "அவரைவிட",
+          "en": "Than them",
+          "hi": "उससे"
+        },
+        {
+          "no": 5,
+          "word": "மிகப்பட்டு <br>(Migappattu)",
+          "ta": "மேம்பட்டதாக எண்ணி",
+          "en": "Surpass them",
+          "hi": "बढ़ खुद समझ"
+        },
+        {
+          "no": 6,
+          "word": "செம்மாக்கும் <br>(Semmaakkum)",
+          "ta": "இறுமாந்து மகிழும்",
+          "en": "Exulting smile",
+          "hi": "करेगा गर्व"
+        },
+        {
+          "no": 7,
+          "word": "கீழ் <br>(Keezh)",
+          "ta": "கீழ்மகன்",
+          "en": "Base men",
+          "hi": "नीच"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அகப்பட்டி யாவாரைக் காணி னவரின்",
+          "line2": "மிகப்பட்டுச் செம்மாக்குங் கீழ்."
+        },
+        "en": {
+          "line1": "When base men those behold of conduct vile,",
+          "line2": "They straight surpass them, and exulting smile."
+        },
+        "hi": {
+          "line1": "मनमौजी ऐसा मिले, जो अपने से खर्व ।",
+          "line2": "तो उससे बढ़ खुद समझ, नीच करेगा गर्व ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Agappatti Aavaarai Kaanin Avarin",
+            "line2": "Migappattu Semmaakkum Keezh."
+          },
+          "hi": {
+            "line1": "अगप्पट्टि यावारैक् काणि नवरिन्",
+            "line2": "मिगप्पट्टुच् सॆम्माक्कुङ् गीऴ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன்னைவிட இழிந்த ஒழுக்கமற்ற ஒருவனைக் கண்டால், கீழ்மகன் அவனைவிடத் தான் உயர்ந்தவன் என்று எண்ணிப் பெருமை கொள்வான்.",
+        "en": "Petty people love finding someone behaving even worse than they do—it gives them an excuse to brag.",
+        "hi": "यदि किसी नीच को अपने से भी अधिक हीन और मनमौजी व्यक्ति मिल जाए, तो वह स्वयं को उससे बढ़कर समझकर गर्व करने लगता है।"
+      }
+    },
+    {
+      "num": 1075,
+      "line1": "அச்சமே கீழ்களது ஆசாரம் எச்சம்",
+      "line2": "அவாஉண்டேல் உண்டாம் சிறிது.",
+      "enLine1": "Fear is the base man's virtue; if that fail,",
+      "enLine2": "Intense desire some little may avail.",
+      "hiLine1": "नीचों के आचार का, भय ही है आधार ।",
+      "hiLine2": "भय बिन भी कुछ तो रहे, यदि हो लाभ-विचार ॥",
+      "general": "கீழ்மக்களின் நல்லொழுக்கத்திற்கு அச்சமே அடிப்படையாகும்; அது இல்லாவிட்டால் ஏதேனும் பயன் கிடைக்கும் என்ற ஆசை இருந்தால் சிறிதளவு ஒழுக்கம் இருக்கும்.",
+      "en": "Fear of punishment is the only basis for a base person's good conduct; if not fear, then only the hope of some personal gain keeps them in check.",
+      "hi": "नीच लोगों के अच्छे आचरण का आधार केवल भय ही होता है; यदि भय न हो तो भी किसी लाभ (स्वार्थ) के विचार से उनमें थोड़ा-बहुत आचार बना रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அச்சமே <br>(Achchame)",
+          "ta": "அச்சமே",
+          "en": "Fear",
+          "hi": "भय ही है"
+        },
+        {
+          "no": 2,
+          "word": "கீழ்களது <br>(Keezhgaladhu)",
+          "ta": "கீழ்மக்களின்",
+          "en": "Base man's",
+          "hi": "नीचों के"
+        },
+        {
+          "no": 3,
+          "word": "ஆசாரம் <br>(Aachaaram)",
+          "ta": "நல்லொழுக்கம்",
+          "en": "Virtue",
+          "hi": "आचार का आधार"
+        },
+        {
+          "no": 4,
+          "word": "எச்சம் <br>(Echcham)",
+          "ta": "மற்றபடி",
+          "en": "If that fail",
+          "hi": "भय बिन भी"
+        },
+        {
+          "no": 5,
+          "word": "அவா உண்டேல் <br>(Avaaundel)",
+          "ta": "ஆசை இருந்தால்",
+          "en": "Intense desire",
+          "hi": "यदि हो लाभ-विचार"
+        },
+        {
+          "no": 6,
+          "word": "உண்டாம் <br>(Undaam)",
+          "ta": "உண்டாகும்",
+          "en": "May avail",
+          "hi": "कुछ तो रहे"
+        },
+        {
+          "no": 7,
+          "word": "சிறிது <br>(Siridhu)",
+          "ta": "சிறிதளவு",
+          "en": "Some little",
+          "hi": "थोड़ा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அச்சமே கீழ்களது ஆசாரம் எச்சம்",
+          "line2": "அவாஉண்டேல் உண்டாம் சிறிது."
+        },
+        "en": {
+          "line1": "Fear is the base man's virtue; if that fail,",
+          "line2": "Intense desire some little may avail."
+        },
+        "hi": {
+          "line1": "नीचों के आचार का, भय ही है आधार ।",
+          "line2": "भय बिन भी कुछ तो रहे, यदि हो लाभ-विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Achchame Keezhgaladhu Aachaaram Echcham",
+            "line2": "Avaaundel Undaam Siridhu."
+          },
+          "hi": {
+            "line1": "अच्चमे कीऴ्गळदु आचारम् ऎच्चम्",
+            "line2": "अवाउण्डेल् उण्डाम् सिरिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கீழ்மக்களின் நல்லொழுக்கத்திற்கு அச்சமே அடிப்படையாகும்; அது இல்லாவிட்டால் ஏதேனும் பயன் கிடைக்கும் என்ற ஆசை இருந்தால் சிறிதளவு ஒழுக்கம் இருக்கும்.",
+        "en": "Base people only behave out of fear of getting caught—or when they think they'll get something out of it.",
+        "hi": "नीच लोगों के अच्छे आचरण का आधार केवल भय ही होता है; यदि भय न हो तो भी किसी लाभ (स्वार्थ) के विचार से उनमें थोड़ा-बहुत आचार बना रहता है।"
+      }
+    },
+    {
+      "num": 1076,
+      "line1": "அறைபறை யன்னர் கயவர் தாங்கேட்ட",
+      "line2": "மறைபிறர்க் குய்த்துரைக்க லான்.",
+      "enLine1": "The base are like the beaten drum; for, when they hear,",
+      "enLine2": "They sound the secret out in every neighbour's ear.",
+      "hiLine1": "नीच मनुज ऐसा रहा, जैसा पिटता ढोल ।",
+      "hiLine2": "स्वयं सुने जो भेद हैं, दो अन्यों को खोल ॥",
+      "general": "கயவர்கள் தாம் கேட்ட இரகசியத்தை மற்றவர்களிடம் சென்று எடுத்துச் சொல்லிவிடுவதால், அறையப்படும் பறையைப் போன்றவர்கள் ஆவர்.",
+      "en": "Base people are like a beaten drum because they immediately broadcast every secret they hear to everyone else.",
+      "hi": "नीच मनुष्य पिटते हुए ढोल के समान होते हैं, क्योंकि वे अपने द्वारा सुने गए गुप्त भेदों को दूसरों के सामने खोल देते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறைபறை <br>(Araiparai)",
+          "ta": "அறையப்படும் பறை",
+          "en": "Beaten drum",
+          "hi": "पिटता ढोल"
+        },
+        {
+          "no": 2,
+          "word": "அன்னர் <br>(Annar)",
+          "ta": "போன்றவர்",
+          "en": "Are like",
+          "hi": "जैसा रहा"
+        },
+        {
+          "no": 3,
+          "word": "கயவர் <br>(Kayavar)",
+          "ta": "கயவர்கள்",
+          "en": "The base",
+          "hi": "नीच मनुज"
+        },
+        {
+          "no": 4,
+          "word": "தாம் கேட்ட <br>(Thaam ketta)",
+          "ta": "தாம் கேட்ட",
+          "en": "When they hear",
+          "hi": "स्वयं सुने जो"
+        },
+        {
+          "no": 5,
+          "word": "மறை <br>(Marai)",
+          "ta": "இரகசியத்தை",
+          "en": "The secret",
+          "hi": "भेद हैं"
+        },
+        {
+          "no": 6,
+          "word": "பிறர்க்கு <br>(Pirarkku)",
+          "ta": "மற்றவர்க்கு",
+          "en": "Every neighbour's ear",
+          "hi": "अन्यों को"
+        },
+        {
+          "no": 7,
+          "word": "உய்த்து உரைக்கலான் <br>(Uyththu uraikkalaan)",
+          "ta": "கொண்டுபோய்ச் சொல்வதால்",
+          "en": "Sound out",
+          "hi": "दो खोल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறைபறை யன்னர் கயவர் தாங்கேட்ட",
+          "line2": "மறைபிறர்க் குய்த்துரைக்க லான்."
+        },
+        "en": {
+          "line1": "The base are like the beaten drum; for, when they hear,",
+          "line2": "They sound the secret out in every neighbour's ear."
+        },
+        "hi": {
+          "line1": "नीच मनुज ऐसा रहा, जैसा पिटता ढोल ।",
+          "line2": "स्वयं सुने जो भेद हैं, दो अन्यों को खोल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Araibarai Yannar Kayavar Thaanggetta",
+            "line2": "Maraibirark Kuyththuraikka Laan."
+          },
+          "hi": {
+            "line1": "अरैपरै यन्नर् कयवर् ताङ्गेट्",
+            "line2": "मरैपिरर्क् कुय्त्तुरैक्क लान्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கயவர்கள் தாம் கேட்ட இரகசியத்தை மற்றவர்களிடம் சென்று எடுத்துச் சொல்லிவிடுவதால், அறையப்படும் பறையைப் போன்றவர்கள் ஆவர்.",
+        "en": "Don't trust gossips with a secret—they're like a loud drum, broadcasting everything they hear.",
+        "hi": "नीच मनुष्य पिटते हुए ढोल के समान होते हैं, क्योंकि वे अपने द्वारा सुने गए गुप्त भेदों को दूसरों के सामने खोल देते हैं।"
+      }
+    },
+    {
+      "num": 1077,
+      "line1": "ஈர்ங்கை விதிரார் கயவர் கொடிறுடைக்குங்",
+      "line2": "கூன்கைய ரல்லா தவர்க்கு.",
+      "enLine1": "From off their moistened hands no clinging grain they shake,",
+      "enLine2": "Unless to those with clenched fist their jaws who break.",
+      "hiLine1": "गाल-तोड़ घूँसा बिना, जो फैलाये हाथ ।",
+      "hiLine2": "झाड़ेंगे नहिं अधम जन, निज जूठा भी हाथ ॥",
+      "general": "தங்கள் கன்னத்தை உடைக்கும்படியான வன்முறையாளர்களுக்கு அல்லாமல், மற்றவர்களுக்குக் கயவர்கள் உண்ட ஈரக் கையைக்கூட உதற மாட்டார்கள்.",
+      "en": "Base people will not even shake off a grain of rice from their wet hands for anyone except those who threaten to break their jaws with a clenched fist.",
+      "hi": "जो गाल तोड़ने वाला घूँसा न मारे, ऐसे सीधे व्यक्ति के सामने हाथ फैलाने पर अधम (नीच) लोग अपने जूठे हाथ का एक कण भी नहीं झाड़ते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஈர்ங்கை <br>(Eerngai)",
+          "ta": "உண்ட ஈரக்கையை",
+          "en": "Moistened hands",
+          "hi": "निज जूठा हाथ"
+        },
+        {
+          "no": 2,
+          "word": "விதிரார் <br>(Vidhiraar)",
+          "ta": "உதற மாட்டார்",
+          "en": "Shake",
+          "hi": "झाड़ेंगे नहिं"
+        },
+        {
+          "no": 3,
+          "word": "கயவர் <br>(Kayavar)",
+          "ta": "கயவர்கள்",
+          "en": "The base",
+          "hi": "अधम जन"
+        },
+        {
+          "no": 4,
+          "word": "கொடிறு <br>(Kodiru)",
+          "ta": "கன்னத்தை",
+          "en": "Their jaws",
+          "hi": "गाल-तोड़"
+        },
+        {
+          "no": 5,
+          "word": "உடைக்கும் <br>(Udaikkum)",
+          "ta": "உடைக்கும்",
+          "en": "Who break",
+          "hi": "तोड़ने वाला"
+        },
+        {
+          "no": 6,
+          "word": "கூன்கையர் <br>(Koonkaiyar)",
+          "ta": "மடக்கிய கையுடையவர்",
+          "en": "Clenched fist",
+          "hi": "घूँसा"
+        },
+        {
+          "no": 7,
+          "word": "அல்லாதவர்க்கு <br>(Allaadhavarkku)",
+          "ta": "அல்லாதவர்க்கு",
+          "en": "Unless to those",
+          "hi": "बिना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஈர்ங்கை விதிரார் கயவர் கொடிறுடைக்குங்",
+          "line2": "கூன்கைய ரல்லா தவர்க்கு."
+        },
+        "en": {
+          "line1": "From off their moistened hands no clinging grain they shake,",
+          "line2": "Unless to those with clenched fist their jaws who break."
+        },
+        "hi": {
+          "line1": "गाल-तोड़ घूँसा बिना, जो फैलाये हाथ ।",
+          "line2": "झाड़ेंगे नहिं अधम जन, निज जूठा भी हाथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Eernggai Vidhiraar Kayavar Kodirudaikkung",
+            "line2": "Koonkaiya Rallaa Thavarkku."
+          },
+          "hi": {
+            "line1": "ईर्ङ्गै विदिरार् कयवर् कॊडिरुडैक्कुङ्",
+            "line2": "गून्गैय रल्ला दवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தங்கள் கன்னத்தை உடைக்கும்படியான வன்முறையாளர்களுக்கு அல்லாமல், மற்றவர்களுக்குக் கயவர்கள் உண்ட ஈரக் கையைக்கூட உதற மாட்டார்கள்.",
+        "en": "Mean people won't part with even a scrap unless someone intimidates them into it.",
+        "hi": "जो गाल तोड़ने वाला घूँसा न मारे, ऐसे सीधे व्यक्ति के सामने हाथ फैलाने पर अधम (नीच) लोग अपने जूठे हाथ का एक कण भी नहीं झाड़ते।"
+      }
+    },
+    {
+      "num": 1078,
+      "line1": "சொல்லப் பயன்படுவர் சான்றோர் கரும்புபோற்",
+      "line2": "கொல்லப் பயன்படுங் கீழ்.",
+      "enLine1": "The good to those will profit yield fair words who use ;",
+      "enLine2": "The base, like sugar-cane, will profit those who bruise.",
+      "hiLine1": "सज्जन प्रार्थन मात्र से, देते हैं फल-दान ।",
+      "hiLine2": "नीच निचोड़ों ईख सम, तो देते रस-पान ॥",
+      "general": "சான்றோர்கள் ஒருவர் சொல்லியவுடனேயே பயன்படுவார்கள்; ஆனால் கீழ்மக்கள் கரும்பைப் போல நெருக்கிப் பிழிந்தால்தான் பயன்படுவார்கள்.",
+      "en": "Noble people respond helpfully as soon as they are asked; base people, like sugarcane, yield benefit only when crushed and squeezed.",
+      "hi": "सज्जन व्यक्ति तो केवल प्रार्थना करने मात्र से ही उपकार रूपी फल दे देते हैं, किन्तु नीच लोग गन्ने के समान हैं जिन्हें निचोड़ने पर ही उनसे रस (लाभ) मिलता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சொல்ல <br>(Solla)",
+          "ta": "சொல்லியவுடனே",
+          "en": "Fair words who use",
+          "hi": "प्रार्थन मात्र से"
+        },
+        {
+          "no": 2,
+          "word": "பயன்படுவர் <br>(Payanpaduvar)",
+          "ta": "பயன்படுவார்கள்",
+          "en": "Will profit yield",
+          "hi": "देते हैं फल-दान"
+        },
+        {
+          "no": 3,
+          "word": "சான்றோர் <br>(Saandror)",
+          "ta": "சான்றோர்",
+          "en": "The good",
+          "hi": "सज्जन"
+        },
+        {
+          "no": 4,
+          "word": "கரும்பு போல் <br>(Karumbu pol)",
+          "ta": "கரும்பைப் போல",
+          "en": "Like sugar-cane",
+          "hi": "ईख सम"
+        },
+        {
+          "no": 5,
+          "word": "கொல்ல <br>(Kolla)",
+          "ta": "நெருக்கிப் பிழிய",
+          "en": "Who bruise",
+          "hi": "निचोड़ों"
+        },
+        {
+          "no": 6,
+          "word": "பயன்படும் <br>(Payanpadum)",
+          "ta": "பயன்படும்",
+          "en": "Will profit",
+          "hi": "तो देते रस-पान"
+        },
+        {
+          "no": 7,
+          "word": "கீழ் <br>(Keezh)",
+          "ta": "கீழ்மக்கள்",
+          "en": "The base",
+          "hi": "नीच"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சொல்லப் பயன்படுவர் சான்றோர் கரும்புபோற்",
+          "line2": "கொல்லப் பயன்படுங் கீழ்."
+        },
+        "en": {
+          "line1": "The good to those will profit yield fair words who use ;",
+          "line2": "The base, like sugar-cane, will profit those who bruise."
+        },
+        "hi": {
+          "line1": "सज्जन प्रार्थन मात्र से, देते हैं फल-दान ।",
+          "line2": "नीच निचोड़ों ईख सम, तो देते रस-पान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sollap Payanpaduvar Saanror Karumbubor",
+            "line2": "Kollap Payanpadung Keezh."
+          },
+          "hi": {
+            "line1": "सॊल्लप् पयन्पडुवर् सान्द्रोर् करुम्बुपोर्",
+            "line2": "कॊल्लप् पयन्पडुङ् गीऴ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சான்றோர்கள் ஒருவர் சொல்லியவுடனேயே பயன்படுவார்கள்; ஆனால் கீழ்மக்கள் கரும்பைப் போல நெருக்கிப் பிழிந்தால்தான் பயன்படுவார்கள்.",
+        "en": "Good people help the moment you ask politely; stubborn, petty people only cooperate when you put them under heavy pressure, like crushing sugarcane.",
+        "hi": "सज्जन व्यक्ति तो केवल प्रार्थना करने मात्र से ही उपकार रूपी फल दे देते हैं, किन्तु नीच लोग गन्ने के समान हैं जिन्हें निचोड़ने पर ही उनसे रस (लाभ) मिलता है।"
+      }
+    },
+    {
+      "num": 1079,
+      "line1": "உடுப்பதூஉ முண்பதூஉங் காணிற் பிறர்மேல்",
+      "line2": "வடுக்காண வற்றாகுங் கீழ்.",
+      "enLine1": "If neighbours clothed and fed he see, the base",
+      "enLine2": "Is mighty man some hidden fault to trace ?",
+      "hiLine1": "खाते पीते पहनते, देख पराया तोष ।",
+      "hiLine2": "छिद्रान्वेषण-चतुर जो, नीच निकाले दोष ॥",
+      "general": "மற்றவர்கள் நல்ல உடை உடுத்துவதையும் நல்ல உணவு உண்பதையும் கண்டால், கீழ்மகன் அவர்கள் மேல் குற்றம் காண வல்லவனாகிவிடுவான்.",
+      "en": "When a base person sees others well-clothed and well-fed, they become quick to find fault and slander them out of envy.",
+      "hi": "दूसरों को सुख से खाते-पीते और पहनते देखकर, छिद्रान्वेषण (दोष खोजने) में चतुर नीच व्यक्ति उनमें कोई न कोई दोष निकाल ही लेता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உடுப்பதூஉம் <br>(Uduppadhooum)",
+          "ta": "நல்ல உடை உடுப்பதையும்",
+          "en": "Clothed",
+          "hi": "पहनते"
+        },
+        {
+          "no": 2,
+          "word": "உண்பதூஉம் <br>(Unbadhooum)",
+          "ta": "நல்ல உணவு உண்பதையும்",
+          "en": "Fed",
+          "hi": "खाते पीते"
+        },
+        {
+          "no": 3,
+          "word": "காணின் <br>(Kaanin)",
+          "ta": "கண்டால்",
+          "en": "If he see",
+          "hi": "देख पराया तोष"
+        },
+        {
+          "no": 4,
+          "word": "பிறர் மேல் <br>(Pirar mel)",
+          "ta": "மற்றவர்கள் மேல்",
+          "en": "Neighbours",
+          "hi": "दूसरों में"
+        },
+        {
+          "no": 5,
+          "word": "வடு காண <br>(Vadu kaana)",
+          "ta": "குற்றம் காண",
+          "en": "Fault to trace",
+          "hi": "छिद्रान्वेषण-चतुर"
+        },
+        {
+          "no": 6,
+          "word": "வற்றாகும் <br>(Vatraagum)",
+          "ta": "வல்லமையுடையதாகும்",
+          "en": "Mighty man",
+          "hi": "निकाले दोष"
+        },
+        {
+          "no": 7,
+          "word": "கீழ் <br>(Keezh)",
+          "ta": "கீழ்மகன்",
+          "en": "The base",
+          "hi": "नीच"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உடுப்பதூஉ முண்பதூஉங் காணிற் பிறர்மேல்",
+          "line2": "வடுக்காண வற்றாகுங் கீழ்."
+        },
+        "en": {
+          "line1": "If neighbours clothed and fed he see, the base",
+          "line2": "Is mighty man some hidden fault to trace ?"
+        },
+        "hi": {
+          "line1": "खाते पीते पहनते, देख पराया तोष ।",
+          "line2": "छिद्रान्वेषण-चतुर जो, नीच निकाले दोष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uduppadhoou Munpadhooung Kaanir Pirarmel",
+            "line2": "Vadukkaana Vatraagung Keezh."
+          },
+          "hi": {
+            "line1": "उडुप्पदूउ मुण्पदूउङ् गाणिर पिरर्मेल्",
+            "line2": "वडुक्काण वत्र्रागुङ् गीऴ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மற்றவர்கள் நல்ல உடை உடுத்துவதையும் நல்ல உணவு உண்பதையும் கண்டால், கீழ்மகன் அவர்கள் மேல் குற்றம் காண வல்லவனாகிவிடுவான்.",
+        "en": "Envious people can't stand seeing others eat well or dress nicely—they'll immediately start nitpicking for flaws.",
+        "hi": "दूसरों को सुख से खाते-पीते और पहनते देखकर, छिद्रान्वेषण (दोष खोजने) में चतुर नीच व्यक्ति उनमें कोई न कोई दोष निकाल ही लेता है।"
+      }
+    },
+    {
+      "num": 1080,
+      "line1": "எற்றிற் குரியர் கயவரொன் றுற்றக்கால்",
+      "line2": "விற்றற் குரியர் விரைந்து.",
+      "enLine1": "For what is base man fit, if griefs assail ?",
+      "enLine2": "Himself to offer, there and then, for sale !",
+      "hiLine1": "नीच लोग किस योग्य हों, आयेंगे क्या काम ।",
+      "hiLine2": "संकट हो तो झट स्वयं, बिक कर बनें गुलाम ॥",
+      "general": "கயவர்கள் எதற்கு உரியவர்கள் என்றால், தமக்கு ஒரு துன்பம் வந்தால் உடனே தம்மையே பிறருக்கு விற்றுக்கொள்ள உரியவர்கள் ஆவார்கள்.",
+      "en": "What are base people really good for? Whenever trouble strikes, they are quick to sell themselves off.",
+      "hi": "नीच लोग भला किस योग्य हैं और किस काम आएँगे? संकट आने पर वे झट से स्वयं को बेचकर दूसरों के गुलाम बन जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எற்றிற்கு <br>(Etrirku)",
+          "ta": "எதற்கு",
+          "en": "For what",
+          "hi": "किस योग्य हों"
+        },
+        {
+          "no": 2,
+          "word": "உரியர் <br>(Uriyar)",
+          "ta": "தகுதியுடையவர்",
+          "en": "Fit",
+          "hi": "आवेंगे क्या काम"
+        },
+        {
+          "no": 3,
+          "word": "கயவர் <br>(Kayavar)",
+          "ta": "கயவர்கள்",
+          "en": "Base man",
+          "hi": "नीच लोग"
+        },
+        {
+          "no": 4,
+          "word": "ஒன்று உற்றக்கால் <br>(Ondru utrakkaal)",
+          "ta": "ஒரு துன்பம் வந்தால்",
+          "en": "If griefs assail",
+          "hi": "संकट हो तो"
+        },
+        {
+          "no": 5,
+          "word": "விற்றற்கு <br>(Vitrarku)",
+          "ta": "தம்மை விற்றுக்கொள்ள",
+          "en": "For sale",
+          "hi": "बिक कर बनें गुलाम"
+        },
+        {
+          "no": 6,
+          "word": "உரியர் <br>(Uriyar)",
+          "ta": "உரியவர்",
+          "en": "To offer",
+          "hi": "स्वयं"
+        },
+        {
+          "no": 7,
+          "word": "விரைந்து <br>(Viraindhu)",
+          "ta": "விரைந்து",
+          "en": "There and then",
+          "hi": "झट"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எற்றிற் குரியர் கயவரொன் றுற்றக்கால்",
+          "line2": "விற்றற் குரியர் விரைந்து."
+        },
+        "en": {
+          "line1": "For what is base man fit, if griefs assail ?",
+          "line2": "Himself to offer, there and then, for sale !"
+        },
+        "hi": {
+          "line1": "नीच लोग किस योग्य हों, आयेंगे क्या काम ।",
+          "line2": "संकट हो तो झट स्वयं, बिक कर बनें गुलाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Etrir Kuriyar Kayavaron Rutrakkaal",
+            "line2": "Vitrar Kuriyar Viraindhu."
+          },
+          "hi": {
+            "line1": "ऎत्र्रिर् कुरियर् कयवरॊन् रुत्र्रक्काल्",
+            "line2": "वित्र्रर् कुरियर् विरैन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கயவர்கள் எதற்கு உரியவர்கள் என்றால், தமக்கு ஒரு துன்பம் வந்தால் உடனே தம்மையே பிறருக்கு விற்றுக்கொள்ள உரியவர்கள் ஆவார்கள்.",
+        "en": "When things get tough, people without integrity don't hold firm—they immediately sell themselves out.",
+        "hi": "नीच लोग भला किस योग्य हैं और किस काम आएँगे? संकट आने पर वे झट से स्वयं को बेचकर दूसरों के गुलाम बन जाते हैं।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "chapterNum": 114,
+  "nameTa": "நாணுத்துறவுரைத்தல்",
+  "nameEn": "The Abandonment of Reserve",
+  "nameHi": "लज्जा-त्याग-कथन",
+  "paal": "காமத்துப்பால்",
+  "iyal": "களவியல்",
+  "kurals": [
+    {
+      "num": 1131,
+      "line1": "காம முழந்து வருந்தினார்க் கேம",
+      "line2": "மடலல்ல தில்லை வலி.",
+      "enLine1": "To those who've proved love's joy, and now afflicted mourn,",
+      "enLine2": "Except the helpful 'horse of palm,' no other strength remains.",
+      "hiLine1": "जो चखने पर प्रेम रस, सहें वेदना हाय ।",
+      "hiLine2": "'मडल'-सुरक्षा के बिना, उन्हें न सबल सहाय ॥",
+      "general": "காதல் இன்பத்தை அனுபவித்துப் பின்னர் பிரிவால் வருந்துகின்றவர்களுக்கு, மடலேறுதல் என்னும் செயலே பாதுகாப்பன்றி வேறு வலிமை இல்லை.",
+      "en": "For those who have tasted love's joy and now suffer in separation, there is no stronger refuge left than mounting the palmyra stem (madal).",
+      "hi": "प्रेम का रस चखने के बाद जो विरह की वेदना सहते हैं, उनके लिए 'मडल' (ताड़ के तने की सवारी) की सुरक्षा के बिना कोई अन्य सबल सहारा नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "காமம் உழந்து <br>(Kaamam uzhandhu)",
+          "ta": "காதலில் மூழ்கி",
+          "en": "Proved love's joy",
+          "hi": "चखने पर प्रेम रस"
+        },
+        {
+          "no": 2,
+          "word": "வருந்தினார்க்கு <br>(Varundhinaarkku)",
+          "ta": "வருந்துபவர்க்கு",
+          "en": "Afflicted mourn",
+          "hi": "सहें वेदना"
+        },
+        {
+          "no": 3,
+          "word": "ஏமம் <br>(Emam)",
+          "ta": "பாதுகாப்பு",
+          "en": "Helpful",
+          "hi": "सुरक्षा"
+        },
+        {
+          "no": 4,
+          "word": "மடல் அல்லது <br>(Madal alladhu)",
+          "ta": "மடலேறுதல் அல்லாமல்",
+          "en": "Except horse of palm",
+          "hi": "'मडल' के बिना"
+        },
+        {
+          "no": 5,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "No other",
+          "hi": "न"
+        },
+        {
+          "no": 6,
+          "word": "வலி <br>(Vali)",
+          "ta": "துணை வலிமை",
+          "en": "Strength remains",
+          "hi": "सबल सहाय"
+        },
+        {
+          "no": 7,
+          "word": "துயர் <br>(Thuyar)",
+          "ta": "துயர்",
+          "en": "Mourning",
+          "hi": "वेदना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "காம முழந்து வருந்தினார்க் கேம",
+          "line2": "மடலல்ல தில்லை வலி."
+        },
+        "en": {
+          "line1": "To those who've proved love's joy, and now afflicted mourn,",
+          "line2": "Except the helpful 'horse of palm,' no other strength remains."
+        },
+        "hi": {
+          "line1": "जो चखने पर प्रेम रस, सहें वेदना हाय ।",
+          "line2": "'मडल'-सुरक्षा के बिना, उन्हें न सबल सहाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaama Muzhandhu Varundhinaark Kema",
+            "line2": "Madalalla Thillai Vali."
+          },
+          "hi": {
+            "line1": "काम मुऴन्दु वरुन्दिनार्क् केम",
+            "line2": "मडलल्ल दिल्लै वलि."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "காதல் இன்பத்தை அனுபவித்துப் பின்னர் பிரிவால் வருந்துகின்றவர்களுக்கு, மடலேறுதல் என்னும் செயலே பாதுகாப்பன்றி வேறு வலிமை இல்லை.",
+        "en": "When love turns to heartbreak, going all out and risking public embarrassment (madal) feels like the only lifeline left.",
+        "hi": "प्रेम का रस चखने के बाद जो विरह की वेदना सहते हैं, उनके लिए 'मडल' (ताड़ के तने की सवारी) की सुरक्षा के बिना कोई अन्य सबल सहारा नहीं है।"
+      }
+    },
+    {
+      "num": 1132,
+      "line1": "நோனா வுடம்பு முயிரு மடலேறு",
+      "line2": "நாணினை நீக்கி நிறுத்து.",
+      "enLine1": "My body and my soul, that can no more endure,",
+      "enLine2": "Will lay reserve aside, and mount the 'horse of palm.'",
+      "hiLine1": "आत्मा और शरीर भी, सह न सके जो आग ।",
+      "hiLine2": "चढ़े 'मडल' पर धैर्य से, करके लज्जा त्याग ॥",
+      "general": "காதல் துன்பத்தைப் பொறுக்க முடியாத என் உடம்பும் உயிரும், நாணத்தை நீக்கிவிட்டு மடலேறும் துணிவை மேற்கொள்ளும்.",
+      "en": "My body and soul, unable to bear this longing any longer, will cast aside all reserve and mount the palmyra stem.",
+      "hi": "जब आत्मा और शरीर भी विरह की आग को सहन न कर सकें, तब वे लज्जा को त्यागकर धैर्य के साथ 'मडल' पर चढ़ जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நோனா <br>(Nonaa)",
+          "ta": "பொறுக்க முடியாத",
+          "en": "Can no more endure",
+          "hi": "सह न सके जो आग"
+        },
+        {
+          "no": 2,
+          "word": "உடம்பும் <br>(Udambum)",
+          "ta": "உடம்பும்",
+          "en": "My body",
+          "hi": "शरीर भी"
+        },
+        {
+          "no": 3,
+          "word": "உயிரும் <br>(Uyirum)",
+          "ta": "உயிரும்",
+          "en": "My soul",
+          "hi": "आत्मा और"
+        },
+        {
+          "no": 4,
+          "word": "மடல் ஏறும் <br>(Madal erum)",
+          "ta": "மடலேறும்",
+          "en": "Mount horse of palm",
+          "hi": "चढ़े 'मडल' पर"
+        },
+        {
+          "no": 5,
+          "word": "நாணினை <br>(Naaninai)",
+          "ta": "நாணத்தை",
+          "en": "Reserve",
+          "hi": "लज्जा"
+        },
+        {
+          "no": 6,
+          "word": "நீக்கி <br>(Neekki)",
+          "ta": "நீக்கி",
+          "en": "Lay aside",
+          "hi": "करके त्याग"
+        },
+        {
+          "no": 7,
+          "word": "நிறுத்து <br>(Niruththu)",
+          "ta": "நிறுத்தி",
+          "en": "Firmly",
+          "hi": "धैर्य से"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நோனா வுடம்பு முயிரு மடலேறு",
+          "line2": "நாணினை நீக்கி நிறுத்து."
+        },
+        "en": {
+          "line1": "My body and my soul, that can no more endure,",
+          "line2": "Will lay reserve aside, and mount the 'horse of palm.'"
+        },
+        "hi": {
+          "line1": "आत्मा और शरीर भी, सह न सके जो आग ।",
+          "line2": "चढ़े 'मडल' पर धैर्य से, करके लज्जा त्याग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nonaa Vudambu Muyiru Madaleru",
+            "line2": "Naaninai Neekki Niruththu."
+          },
+          "hi": {
+            "line1": "नोना वुडम्बु मुयिरु मडलेरु",
+            "line2": "नाणिनै नीक्कि निरूत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "காதல் துன்பத்தைப் பொறுக்க முடியாத என் உடம்பும் உயிரும், நாணத்தை நீக்கிவிட்டு மடலேறும் துணிவை மேற்கொள்ளும்.",
+        "en": "When both body and soul can't take the ache anymore, shyness goes out the window.",
+        "hi": "जब आत्मा और शरीर भी विरह की आग को सहन न कर सकें, तब वे लज्जा को त्यागकर धैर्य के साथ 'मडल' पर चढ़ जाते हैं।"
+      }
+    },
+    {
+      "num": 1133,
+      "line1": "நாணொடு நல்லாண்மை பண்டுடையே னின்றுடையேன்",
+      "line2": "காமுற்றா ரேறு மடல்.",
+      "enLine1": "I once retained reserve and seemly manliness ;",
+      "enLine2": "To-day I nought possess but lovers' 'horse of palm.'",
+      "hiLine1": "पहले मेरे पास थीं, सुधीरता और लाज ।",
+      "hiLine2": "कामी जन जिसपर चढ़ें, वही 'मडल' है आज ॥",
+      "general": "முன்பு நான் நாணமும் நல்ல ஆண்மையும் உடையவனாக இருந்தேன்; ஆனால் இன்று காதல் கொண்டவர்கள் ஏறும் மடலை மட்டுமே உடையவனாக இருக்கிறேன்.",
+      "en": "Once I possessed modesty and noble self-restraint; today, all I have left is the desperate palmyra stem of lovers.",
+      "hi": "पहले मेरे पास भी सुधीरता और लज्जा थी, परन्तु आज तो मेरे पास केवल वही 'मडल' बचा है जिस पर कामी जन चढ़ते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நாணொடு <br>(Naanodu)",
+          "ta": "நாணத்தோடு",
+          "en": "Reserve",
+          "hi": "लाज"
+        },
+        {
+          "no": 2,
+          "word": "நல் ஆண்மை <br>(Nal aanmai)",
+          "ta": "நல்ல ஆண்மையை",
+          "en": "Seemly manliness",
+          "hi": "सुधीरता और"
+        },
+        {
+          "no": 3,
+          "word": "பண்டு உடையேன் <br>(Pandu udaiyen)",
+          "ta": "முன்பு உடையவனாய் இருந்தேன்",
+          "en": "Once retained",
+          "hi": "पहले मेरे पास थीं"
+        },
+        {
+          "no": 4,
+          "word": "இன்று உடையேன் <br>(Indru udaiyen)",
+          "ta": "இன்று உடையேன்",
+          "en": "To-day possess",
+          "hi": "है आज"
+        },
+        {
+          "no": 5,
+          "word": "காமுற்றார் <br>(Kaamutraar)",
+          "ta": "காதல் கொண்டவர்",
+          "en": "Lovers'",
+          "hi": "कामी जन"
+        },
+        {
+          "no": 6,
+          "word": "ஏறும் <br>(Erum)",
+          "ta": "ஏறும்",
+          "en": "Mount",
+          "hi": "जिसपर चढ़ें"
+        },
+        {
+          "no": 7,
+          "word": "மடல் <br>(Madal)",
+          "ta": "மடலை",
+          "en": "Horse of palm",
+          "hi": "वही 'मडल'"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாணொடு நல்லாண்மை பண்டுடையே னின்றுடையேன்",
+          "line2": "காமுற்றா ரேறு மடல்."
+        },
+        "en": {
+          "line1": "I once retained reserve and seemly manliness ;",
+          "line2": "To-day I nought possess but lovers' 'horse of palm.'"
+        },
+        "hi": {
+          "line1": "पहले मेरे पास थीं, सुधीरता और लाज ।",
+          "line2": "कामी जन जिसपर चढ़ें, वही 'मडल' है आज ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naanodu Nallaanmai Pandudaiye Ninrudaiyen",
+            "line2": "Kaamutraa Reru Madal."
+          },
+          "hi": {
+            "line1": "नाणॊडु नल्लाण्मै पण्डुडैये निन्द्रुडैयेन्",
+            "line2": "कामुत्र्रा रेरु मडल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முன்பு நான் நாணமும் நல்ல ஆண்மையும் உடையவனாக இருந்தேன்; ஆனால் இன்று காதல் கொண்டவர்கள் ஏறும் மடலை மட்டுமே உடையவனாக இருக்கிறேன்.",
+        "en": "I used to pride myself on self-control and dignity—now all I've got left is this desperate act of love.",
+        "hi": "पहले मेरे पास भी सुधीरता और लज्जा थी, परन्तु आज तो मेरे पास केवल वही 'मडल' बचा है जिस पर कामी जन चढ़ते हैं।"
+      }
+    },
+    {
+      "num": 1134,
+      "line1": "காமக் கடும்புன லுய்க்குமே நாணொடு",
+      "line2": "நல்லாண்மை யென்னும் புணை.",
+      "enLine1": "Love's rushing tide will sweep away the raft",
+      "enLine2": "Of seemly manliness and shame combined.",
+      "hiLine1": "मेरी थी लज्जा तथा, सुधीरता की नाव ।",
+      "hiLine2": "उसे बहा कर ले गया, भीषण काम-बहाव ॥",
+      "general": "நாணமும் நல்ல ஆண்மையும் ஆகிய தெப்பத்தைக் காதல் என்னும் கடுமையான வெள்ளம் அடித்துக்கொண்டு போய்விடுகிறது.",
+      "en": "The fierce flood of passion sweeps away the raft of modesty and self-control.",
+      "hi": "मेरी लज्जा और सुधीरता (धैर्य) की जो नाव थी, उसे काम-वेदना का भीषण प्रवाह बहाकर ले गया।",
+      "words": [
+        {
+          "no": 1,
+          "word": "காமக் கடும்புனல் <br>(Kaamak kadumpunal)",
+          "ta": "காதல் என்னும் கடுவெள்ளம்",
+          "en": "Love's rushing tide",
+          "hi": "भीषण काम-बहाव"
+        },
+        {
+          "no": 2,
+          "word": "உய்க்குமே <br>(Uykkume)",
+          "ta": "அடித்துக்கொண்டு போகுமே",
+          "en": "Will sweep away",
+          "hi": "बहा कर ले गया"
+        },
+        {
+          "no": 3,
+          "word": "நாணொடு <br>(Naanodu)",
+          "ta": "நாணத்தோடு",
+          "en": "And shame",
+          "hi": "लज्जा तथा"
+        },
+        {
+          "no": 4,
+          "word": "நல் ஆண்மை <br>(Nal aanmai)",
+          "ta": "நல்ல ஆண்மை",
+          "en": "Seemly manliness",
+          "hi": "सुधीरता की"
+        },
+        {
+          "no": 5,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்னும்",
+          "en": "Combined",
+          "hi": "मेरी थी"
+        },
+        {
+          "no": 6,
+          "word": "புணை <br>(Punai)",
+          "ta": "தெப்பத்தை",
+          "en": "The raft",
+          "hi": "नाव"
+        },
+        {
+          "no": 7,
+          "word": "வெள்ளம் <br>(Vellam)",
+          "ta": "வெள்ளம்",
+          "en": "Tide",
+          "hi": "बहाव"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "காமக் கடும்புன லுய்க்குமே நாணொடு",
+          "line2": "நல்லாண்மை யென்னும் புணை."
+        },
+        "en": {
+          "line1": "Love's rushing tide will sweep away the raft",
+          "line2": "Of seemly manliness and shame combined."
+        },
+        "hi": {
+          "line1": "मेरी थी लज्जा तथा, सुधीरता की नाव ।",
+          "line2": "उसे बहा कर ले गया, भीषण काम-बहाव ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaamak Kadumbuna Luykkume Naanodu",
+            "line2": "Nallaanmai Yennum Punai."
+          },
+          "hi": {
+            "line1": "कामक् कडुम्बुन लुय्क्कुमे नाणॊडु",
+            "line2": "नल्लाण्मै यॆन्नुम् पुणै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நாணமும் நல்ல ஆண்மையும் ஆகிய தெப்பத்தைக் காதல் என்னும் கடுமையான வெள்ளம் அடித்துக்கொண்டு போய்விடுகிறது.",
+        "en": "A fierce flood of love can wash away the little raft of dignity and restraint you were clinging to.",
+        "hi": "मेरी लज्जा और सुधीरता (धैर्य) की जो नाव थी, उसे काम-वेदना का भीषण प्रवाह बहाकर ले गया।"
+      }
+    },
+    {
+      "num": 1135,
+      "line1": "தொடலைக் குறுந்தொடி தந்தாண் மடலொடு",
+      "line2": "மாலை யுழக்குந் துயர்.",
+      "enLine1": "The maid that slender armlets wears, like flowers entwined,",
+      "enLine2": "Has brought me 'horse of palm,' and pangs of eventide !",
+      "hiLine1": "माला सम चूड़ी सजे, जिस बाला के हाथ ।",
+      "hiLine2": "उसने संध्या-विरह-दुख, दिया 'मडल' के साथ ॥",
+      "general": "மலர்மாலை போன்ற சிறிய வளையல்களை அணிந்த இவளே, மாலைப் பொழுதில் வருத்தும் துன்பத்தோடு மடலேறும் நிலையையும் எனக்குத் தந்தாள்.",
+      "en": "She who wears slender bangles like flower garlands is the one who gave me both the anguish of evening and the resort to madal.",
+      "hi": "जिस बाला के हाथों में माला के समान सुन्दर चूड़ियाँ सजी हैं, उसी ने मुझे संध्या की विरह-व्यथा के साथ-साथ 'मडल' भी दे दिया है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தொடலை <br>(Thodalai)",
+          "ta": "மலர்மாலை போன்ற",
+          "en": "Like flowers entwined",
+          "hi": "माला सम"
+        },
+        {
+          "no": 2,
+          "word": "குறுந்தொடி <br>(Kurunthodi)",
+          "ta": "சிறிய வளையல் அணிந்தவள்",
+          "en": "Slender armlets wears",
+          "hi": "चूड़ी सजे बाला"
+        },
+        {
+          "no": 3,
+          "word": "தந்தாள் <br>(Thandhaal)",
+          "ta": "தந்தாள்",
+          "en": "Has brought me",
+          "hi": "उसने दिया"
+        },
+        {
+          "no": 4,
+          "word": "மடலொடு <br>(Madalodu)",
+          "ta": "மடலேறும் துயரோடு",
+          "en": "Horse of palm",
+          "hi": "'मडल' के साथ"
+        },
+        {
+          "no": 5,
+          "word": "மாலை <br>(Maalai)",
+          "ta": "மாலை நேரத்தில்",
+          "en": "Eventide",
+          "hi": "संध्या"
+        },
+        {
+          "no": 6,
+          "word": "உழக்கும் <br>(Uzhakkum)",
+          "ta": "வருந்தும்",
+          "en": "Suffer",
+          "hi": "विरह"
+        },
+        {
+          "no": 7,
+          "word": "துயர் <br>(Thuyar)",
+          "ta": "துன்பத்தை",
+          "en": "Pangs",
+          "hi": "दुख"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தொடலைக் குறுந்தொடி தந்தாண் மடலொடு",
+          "line2": "மாலை யுழக்குந் துயர்."
+        },
+        "en": {
+          "line1": "The maid that slender armlets wears, like flowers entwined,",
+          "line2": "Has brought me 'horse of palm,' and pangs of eventide !"
+        },
+        "hi": {
+          "line1": "माला सम चूड़ी सजे, जिस बाला के हाथ ।",
+          "line2": "उसने संध्या-विरह-दुख, दिया 'मडल' के साथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thodalaik Kurundhodi Thandhaan Madalodu",
+            "line2": "Maalai Yuzhakkun Thuyar."
+          },
+          "hi": {
+            "line1": "तॊडलैक् कुरुन्दॊडि तन्दाण् मडलॊडु",
+            "line2": "मालै युऴक्कुन् तुयर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மலர்மாலை போன்ற சிறிய வளையல்களை அணிந்த இவளே, மாலைப் பொழுதில் வருத்தும் துன்பத்தோடு மடலேறும் நிலையையும் எனக்குத் தந்தாள்.",
+        "en": "The girl with delicate bangles is the one who brought me both lonely evenings and this desperate urge.",
+        "hi": "जिस बाला के हाथों में माला के समान सुन्दर चूड़ियाँ सजी हैं, उसी ने मुझे संध्या की विरह-व्यथा के साथ-साथ 'मडल' भी दे दिया है।"
+      }
+    },
+    {
+      "num": 1136,
+      "line1": "மடலூர்தல் யாமத்து முள்ளுவேன் மன்ற",
+      "line2": "படலொல்லாப் பேதைக்கென் கண்.",
+      "enLine1": "Of climbing 'horse of palm' in midnight hour, I think ;",
+      "enLine2": "My eyes know no repose for that same simple maid.",
+      "hiLine1": "कटती मुग्धा की वजह, आँखों में ही रात ।",
+      "hiLine2": "अर्द्ध-रात्रि में भी 'मडल', आता ही है याद ॥",
+      "general": "தூங்க விடாமல் செய்யும் இப்பேதைப் பெண்ணின் பொருட்டு, நள்ளிரவிலும் என் கண்கள் மடலேறுவதையே உறுதியாக நினைக்கின்றன.",
+      "en": "Because my eyes cannot sleep for thinking of that innocent maiden, I find myself contemplating madal even in the dead of night.",
+      "hi": "इस मुग्धा के कारण मेरी रात आँखों ही आँखों में (बिना सोए) कटती है, और आधी रात को भी मुझे 'मडल' पर चढ़ने का ही विचार आता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மடல் ஊர்தல் <br>(Madal oordhal)",
+          "ta": "மடலேறுவதை",
+          "en": "Climbing horse of palm",
+          "hi": "'मडल'"
+        },
+        {
+          "no": 2,
+          "word": "யாமத்தும் <br>(Yaamaththum)",
+          "ta": "நள்ளிரவிலும்",
+          "en": "In midnight hour",
+          "hi": "अर्द्ध-रात्रि में भी"
+        },
+        {
+          "no": 3,
+          "word": "உள்ளுவேன் <br>(Ulluven)",
+          "ta": "நினைப்பேன்",
+          "en": "I think",
+          "hi": "आता ही है याद"
+        },
+        {
+          "no": 4,
+          "word": "மன்ற <br>(Mandra)",
+          "ta": "உறுதியாக",
+          "en": "Surely",
+          "hi": "निश्चय ही"
+        },
+        {
+          "no": 5,
+          "word": "படல் ஒல்லா <br>(Padal ollaa)",
+          "ta": "தூங்கப் பொருந்தாத",
+          "en": "Know no repose",
+          "hi": "कटती रात"
+        },
+        {
+          "no": 6,
+          "word": "பேதைக்கு <br>(Pedhaikku)",
+          "ta": "இப்பேதைக்காக",
+          "en": "Simple maid",
+          "hi": "मुग्धा की वजह"
+        },
+        {
+          "no": 7,
+          "word": "என் கண் <br>(En kan)",
+          "ta": "என் கண்கள்",
+          "en": "My eyes",
+          "hi": "आँखों में ही"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மடலூர்தல் யாமத்து முள்ளுவேன் மன்ற",
+          "line2": "படலொல்லாப் பேதைக்கென் கண்."
+        },
+        "en": {
+          "line1": "Of climbing 'horse of palm' in midnight hour, I think ;",
+          "line2": "My eyes know no repose for that same simple maid."
+        },
+        "hi": {
+          "line1": "कटती मुग्धा की वजह, आँखों में ही रात ।",
+          "line2": "अर्द्ध-रात्रि में भी 'मडल', आता ही है याद ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Madaloorthal Yaamaththu Mulluven Manra",
+            "line2": "Padalollaap Pedhaikken Kan."
+          },
+          "hi": {
+            "line1": "मडलूर्दल् यामत्तु मुळ्ळुवेन् मन्द्र",
+            "line2": "पडलॊल्लाप् पेदैक्कॆन् कण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தூங்க விடாமல் செய்யும் இப்பேதைப் பெண்ணின் பொருட்டு, நள்ளிரவிலும் என் கண்கள் மடலேறுவதையே உறுதியாக நினைக்கின்றன.",
+        "en": "I can't sleep a wink thinking of her—even at midnight, all I can think about is going public with my love.",
+        "hi": "इस मुग्धा के कारण मेरी रात आँखों ही आँखों में (बिना सोए) कटती है, और आधी रात को भी मुझे 'मडल' पर चढ़ने का ही विचार आता है।"
+      }
+    },
+    {
+      "num": 1137,
+      "line1": "கடலன்ன காம முழந்து மடலேறாப்",
+      "line2": "பெண்ணிற் பெருந்தக்க தில்.",
+      "enLine1": "There's nought of greater worth than woman's long-enduring soul,",
+      "enLine2": "Who, vexed by love like ocean waves, climbs not the 'horse of palm.'",
+      "hiLine1": "काम-वेदना जलधि में, रहती मग्न यथेष्ट ।",
+      "hiLine2": "फिर भी 'मडल' न जो चढ़े, उस स्त्री से नहिं श्रेष्ठ ॥",
+      "general": "கடல் போன்ற காதல் துன்பத்தில் மூழ்கி வருந்தியபோதும் மடலேறாமல் பொறுத்திருக்கும் பெண்ணைவிடப் பெருமைக்குரியவர் எவருமில்லை.",
+      "en": "Nothing is nobler than a woman who endures an ocean-like tide of love's anguish without ever resorting to madal.",
+      "hi": "समुद्र के समान अपार काम-वेदना में डूबे रहने पर भी जो स्त्री मर्यादा रखकर 'मडल' पर नहीं चढ़ती, उससे श्रेष्ठ और कोई नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கடல் அன்ன <br>(Kadal anna)",
+          "ta": "கடல் போன்ற",
+          "en": "Like ocean waves",
+          "hi": "जलधि में"
+        },
+        {
+          "no": 2,
+          "word": "காமம் <br>(Kaamam)",
+          "ta": "காதல் துன்பத்தில்",
+          "en": "Love",
+          "hi": "काम-वेदना"
+        },
+        {
+          "no": 3,
+          "word": "உழந்தும் <br>(Uzhandhum)",
+          "ta": "வருந்தியும்",
+          "en": "Vexed by",
+          "hi": "रहती मग्न यथेष्ट"
+        },
+        {
+          "no": 4,
+          "word": "மடல் ஏறா <br>(Madal eraa)",
+          "ta": "மடலேறாத",
+          "en": "Climbs not horse of palm",
+          "hi": "'मडल' न जो चढ़े"
+        },
+        {
+          "no": 5,
+          "word": "பெண்ணின் <br>(Pennin)",
+          "ta": "பெண்ணைவிட",
+          "en": "Than woman's",
+          "hi": "उस स्त्री से"
+        },
+        {
+          "no": 6,
+          "word": "பெருந்தக்கது <br>(Perundhakkadhu)",
+          "ta": "பெருமைக்குரியது",
+          "en": "Greater worth",
+          "hi": "श्रेष्ठ"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Nought",
+          "hi": "नहिं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கடலன்ன காம முழந்து மடலேறாப்",
+          "line2": "பெண்ணிற் பெருந்தக்க தில்."
+        },
+        "en": {
+          "line1": "There's nought of greater worth than woman's long-enduring soul,",
+          "line2": "Who, vexed by love like ocean waves, climbs not the 'horse of palm.'"
+        },
+        "hi": {
+          "line1": "काम-वेदना जलधि में, रहती मग्न यथेष्ट ।",
+          "line2": "फिर भी 'मडल' न जो चढ़े, उस स्त्री से नहिं श्रेष्ठ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kadalanna Kaama Muzhandhu Madaleraap",
+            "line2": "Pennir Perundhakka Thil."
+          },
+          "hi": {
+            "line1": "कडलन्न काम मुऴन्दु मडलेराप्",
+            "line2": "पॆण्णिर पॆरुन्दक्क दिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கடல் போன்ற காதல் துன்பத்தில் மூழ்கி வருந்தியபோதும் மடலேறாமல் பொறுத்திருக்கும் பெண்ணைவிடப் பெருமைக்குரியவர் எவருமில்லை.",
+        "en": "Nothing deserves more respect than a woman who holds steady through an ocean of longing without losing her composure.",
+        "hi": "समुद्र के समान अपार काम-वेदना में डूबे रहने पर भी जो स्त्री मर्यादा रखकर 'मडल' पर नहीं चढ़ती, उससे श्रेष्ठ और कोई नहीं है।"
+      }
+    },
+    {
+      "num": 1138,
+      "line1": "நிறையரியர் மன்னளிய ரென்னாது காம",
+      "line2": "மறையிறந்து மன்று படும்.",
+      "enLine1": "In virtue hard to move, yet very tender, too, are we ;",
+      "enLine2": "Love deems not so, would rend the veil, and court publicity !",
+      "hiLine1": "संयम से रहती तथा, दया-पात्र अति वाम ।",
+      "hiLine2": "यह न सोच कर छिप न रह, प्रकट हुआ है काम ॥",
+      "general": "இவள் மன அடக்கத்தில் உறுதியானவள், இரக்கத்திற்கு உரியவள் என்று கருதாமல், காதல் தன் இரகசியத்தைக் கடந்து ஊர் அறிய வெளிப்பட்டுவிடுகிறது.",
+      "en": "Without considering that I am steadfast in modesty and deserving of pity, love breaks through secrecy and exposes itself in public.",
+      "hi": "यह सुन्दरी संयम से रहती है और अत्यन्त दया की पात्र है—यह न सोचकर काम-भाव छिपकर न रह सका और सबके सामने प्रकट हो गया।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நிறை அரியர் <br>(Nirai ariyar)",
+          "ta": "மன அடக்கத்தில் அரியவர்",
+          "en": "Hard to move",
+          "hi": "संयम से रहती"
+        },
+        {
+          "no": 2,
+          "word": "மன் அளியர் <br>(Man aliyar)",
+          "ta": "இரக்கத்திற்கு உரியவர்",
+          "en": "Very tender",
+          "hi": "दया-पात्र अति वाम"
+        },
+        {
+          "no": 3,
+          "word": "என்னாது <br>(Ennaadhu)",
+          "ta": "என்று கருதாமல்",
+          "en": "Deems not so",
+          "hi": "यह न सोच कर"
+        },
+        {
+          "no": 4,
+          "word": "காமம் <br>(Kaamam)",
+          "ta": "காதல்",
+          "en": "Love",
+          "hi": "काम"
+        },
+        {
+          "no": 5,
+          "word": "மறை இறந்து <br>(Marai irandhu)",
+          "ta": "மறைப்பைக் கடந்து",
+          "en": "Rend the veil",
+          "hi": "छिप न रह"
+        },
+        {
+          "no": 6,
+          "word": "மன்று <br>(Mandru)",
+          "ta": "ஊர் அறிய",
+          "en": "Publicity",
+          "hi": "प्रकट"
+        },
+        {
+          "no": 7,
+          "word": "படும் <br>(Padum)",
+          "ta": "வெளிப்பட்டுவிடும்",
+          "en": "Court",
+          "hi": "हुआ है"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நிறையரியர் மன்னளிய ரென்னாது காம",
+          "line2": "மறையிறந்து மன்று படும்."
+        },
+        "en": {
+          "line1": "In virtue hard to move, yet very tender, too, are we ;",
+          "line2": "Love deems not so, would rend the veil, and court publicity !"
+        },
+        "hi": {
+          "line1": "संयम से रहती तथा, दया-पात्र अति वाम ।",
+          "line2": "यह न सोच कर छिप न रह, प्रकट हुआ है काम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Niraiyariyar Mannaliya Rennaadhu Kaama",
+            "line2": "Maraiyirandhu Manru Padum."
+          },
+          "hi": {
+            "line1": "निरैयरियर् मन्नळिय रॆन्नादु काम",
+            "line2": "मरैयिरन्दु मन्द्रु पडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இவள் மன அடக்கத்தில் உறுதியானவள், இரக்கத்திற்கு உரியவள் என்று கருதாமல், காதல் தன் இரகசியத்தைக் கடந்து ஊர் அறிய வெளிப்பட்டுவிடுகிறது.",
+        "en": "Love doesn't care how composed or vulnerable you are—sooner or later, it breaks out of secrecy into the open.",
+        "hi": "यह सुन्दरी संयम से रहती है और अत्यन्त दया की पात्र है—यह न सोचकर काम-भाव छिपकर न रह सका और सबके सामने प्रकट हो गया।"
+      }
+    },
+    {
+      "num": 1139,
+      "line1": "அறிகிலா ரெல்லாரு மென்றே யென்காம",
+      "line2": "மறுகின் மறுகு மருண்டு.",
+      "enLine1": "'There's no one knows my heart,' so says my love,",
+      "enLine2": "And thus, in public ways, perturbed will rove.",
+      "hiLine1": "मेरा काम यही समझ, सबको वह नहिं ज्ञात ।",
+      "hiLine2": "नगर-वीथि में घूमता, है मस्ती के साथ ॥",
+      "general": "எல்லாரும் என் காதலை அறிய மாட்டார்கள் என்று நினைத்து, என் காதல் மனம் தெருவில் மயங்கிச் சுற்றித் திரிகிறது.",
+      "en": "Thinking 'nobody knows my secret,' my love wanders through the streets in bewildered abandon.",
+      "hi": "'मेरा यह प्रेम किसी को ज्ञात नहीं है' यही समझकर मेरा काम-भाव नगर की गलियों में मस्ती और उन्माद के साथ घूमता रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அறிகிலார் <br>(Arigilaar)",
+          "ta": "அறிய மாட்டார்கள்",
+          "en": "Knows not",
+          "hi": "नहिं ज्ञात"
+        },
+        {
+          "no": 2,
+          "word": "எல்லாரும் <br>(Ellaarum)",
+          "ta": "எல்லாரும்",
+          "en": "No one",
+          "hi": "सबको"
+        },
+        {
+          "no": 3,
+          "word": "என்றே <br>(Endre)",
+          "ta": "என்று நினைத்தே",
+          "en": "So says",
+          "hi": "यही समझ"
+        },
+        {
+          "no": 4,
+          "word": "என் காமம் <br>(En kaamam)",
+          "ta": "என் காதல்",
+          "en": "My love",
+          "hi": "मेरा काम"
+        },
+        {
+          "no": 5,
+          "word": "மறுகின் <br>(Marugin)",
+          "ta": "தெருவில்",
+          "en": "Public ways",
+          "hi": "नगर-वीथि में"
+        },
+        {
+          "no": 6,
+          "word": "மறுகும் <br>(Marugum)",
+          "ta": "சுற்றித் திரிகிறது",
+          "en": "Will rove",
+          "hi": "घूमता है"
+        },
+        {
+          "no": 7,
+          "word": "மருண்டு <br>(Marundu)",
+          "ta": "மயங்கி",
+          "en": "Perturbed",
+          "hi": "मस्ती के साथ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அறிகிலா ரெல்லாரு மென்றே யென்காம",
+          "line2": "மறுகின் மறுகு மருண்டு."
+        },
+        "en": {
+          "line1": "'There's no one knows my heart,' so says my love,",
+          "line2": "And thus, in public ways, perturbed will rove."
+        },
+        "hi": {
+          "line1": "मेरा काम यही समझ, सबको वह नहिं ज्ञात ।",
+          "line2": "नगर-वीथि में घूमता, है मस्ती के साथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arigilaa Rellaaru Menre Yenkaama",
+            "line2": "Marugin Marugu Marundu."
+          },
+          "hi": {
+            "line1": "अरिगिला रॆल्लारु मॆन्द्रे यॆन्गाम",
+            "line2": "मरुगिन् मरुगु मरुण्डु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லாரும் என் காதலை அறிய மாட்டார்கள் என்று நினைத்து, என் காதல் மனம் தெருவில் மயங்கிச் சுற்றித் திரிகிறது.",
+        "en": "Convinced that nobody can tell what I'm feeling, my heart wanders right out into the streets in a daze.",
+        "hi": "'मेरा यह प्रेम किसी को ज्ञात नहीं है' यही समझकर मेरा काम-भाव नगर की गलियों में मस्ती और उन्माद के साथ घूमता रहता है।"
+      }
+    },
+    {
+      "num": 1140,
+      "line1": "யாங்கண்ணிற் காண நகுப வறிவில்லார்",
+      "line2": "யாம்பட்ட தாம்படா வாறு.",
+      "enLine1": "Before my eyes the foolish make a mock of me,",
+      "enLine2": "Because they ne'er endured the pangs I now must drie.",
+      "hiLine1": "रहे भुक्त-भोगी नहीं, यथा चुकी हूँ भोग ।",
+      "hiLine2": "हँसते मेरे देखते, बुद्धि हीन जो लोग ॥",
+      "general": "நாம் பட்ட காதல் துன்பத்தைத் தாம் படாத காரணத்தால், அறிவில்லாதவர்கள் நம் கண்முன்னாலேயே நம்மைப் பார்த்துச் சிரிக்கிறார்கள்.",
+      "en": "Foolish people laugh right in front of my eyes, simply because they have never experienced the pangs of love that I have endured.",
+      "hi": "जिन बुद्धिहीन लोगों ने वह विरह-दुःख स्वयं नहीं भोगा है जैसा मैं भोग चुकी हूँ, वे मेरे देखते-देखते ही मुझ पर हँसते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "யாம் கண்ணில் <br>(Yaam kannil)",
+          "ta": "நம் கண்முன்னால்",
+          "en": "Before my eyes",
+          "hi": "मेरे देखते"
+        },
+        {
+          "no": 2,
+          "word": "காண <br>(Kaana)",
+          "ta": "பார்க்க",
+          "en": "See",
+          "hi": "देखते"
+        },
+        {
+          "no": 3,
+          "word": "நகுப <br>(Naguba)",
+          "ta": "சிரிக்கிறார்கள்",
+          "en": "Make a mock",
+          "hi": "हँसते"
+        },
+        {
+          "no": 4,
+          "word": "அறிவில்லார் <br>(Arivillaar)",
+          "ta": "அறிவில்லாதவர்",
+          "en": "The foolish",
+          "hi": "बुद्धि हीन जो लोग"
+        },
+        {
+          "no": 5,
+          "word": "யாம் பட்டது <br>(Yaam pattadhu)",
+          "ta": "நாம் பட்ட துன்பத்தை",
+          "en": "Pangs I endured",
+          "hi": "यथा चुकी हूँ भोग"
+        },
+        {
+          "no": 6,
+          "word": "தாம் <br>(Thaam)",
+          "ta": "அவர்கள்",
+          "en": "They",
+          "hi": "वे"
+        },
+        {
+          "no": 7,
+          "word": "படாவாறு <br>(Padaavaaru)",
+          "ta": "அனுபவிக்காததால்",
+          "en": "Ne'er endured",
+          "hi": "रहे भुक्त-भोगी नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "யாங்கண்ணிற் காண நகுப வறிவில்லார்",
+          "line2": "யாம்பட்ட தாம்படா வாறு."
+        },
+        "en": {
+          "line1": "Before my eyes the foolish make a mock of me,",
+          "line2": "Because they ne'er endured the pangs I now must drie."
+        },
+        "hi": {
+          "line1": "रहे भुक्त-भोगी नहीं, यथा चुकी हूँ भोग ।",
+          "line2": "हँसते मेरे देखते, बुद्धि हीन जो लोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Yaanggannir Kaana Naguba Varivillaar",
+            "line2": "Yaambatta Thaambadaa Vaaru."
+          },
+          "hi": {
+            "line1": "याङ्गण्णिर काण नगुब वरिविल्लार्",
+            "line2": "याम्बट्ट ताम्पडा वारु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நாம் பட்ட காதல் துன்பத்தைத் தாம் படாத காரணத்தால், அறிவில்லாதவர்கள் நம் கண்முன்னாலேயே நம்மைப் பார்த்துச் சிரிக்கிறார்கள்.",
+        "en": "People who've never felt this kind of heartbreak laugh right in my face because they have no idea what it's like.",
+        "hi": "जिन बुद्धिहीन लोगों ने वह विरह-दुःख स्वयं नहीं भोगा है जैसा मैं भोग चुकी हूँ, वे मेरे देखते-देखते ही मुझ पर हँसते हैं।"
+      }
+    }
+  ]
+}

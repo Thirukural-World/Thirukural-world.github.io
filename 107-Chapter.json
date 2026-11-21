@@ -1,0 +1,930 @@
+{
+  "chapterNum": 107,
+  "nameTa": "இரவச்சம்",
+  "nameEn": "The Dread of Mendicancy",
+  "nameHi": "याचना-भय",
+  "paal": "பொருட்பால்",
+  "iyal": "ஒழிபியல்",
+  "kurals": [
+    {
+      "num": 1061,
+      "line1": "கரவா துவந்தீயுங் கண்ணன்னார் கண்ணு",
+      "line2": "மிரவாமை கோடி யுறும்.",
+      "enLine1": "Ten million-fold 'tis greater gain, asking no alms to live,",
+      "enLine2": "Even from those, like eyes in worth, who nought concealing gladly give.",
+      "hiLine1": "जो न छिपा कर, प्रेम से, करते दान यथेष्ट ।",
+      "hiLine2": "उनसे भी नहिं माँगना, कोटि गुना है श्रेष्ठ ॥",
+      "general": "பொருளை ஒளிக்காமல் மனம் மகிழ்ந்து கொடுக்கும் கண்களைப் போன்ற சிறந்தவரிடத்தும்கூடச் சென்று இரவாமல் வாழ்வது கோடி மடங்கு நன்மை தருவதாகும்.",
+      "en": "Even from generous people as dear as one's own eyes who give gladly without hiding anything, not begging is ten million times better.",
+      "hi": "जो लोग बिना कुछ छिपाए प्रेमपूर्वक यथेष्ट दान करते हैं, उनसे भी कुछ न माँगना करोड़ गुना अधिक श्रेष्ठ है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கரவாது <br>(Karavaadhu)",
+          "ta": "ஒளிக்காமல்",
+          "en": "Nought concealing",
+          "hi": "न छिपा कर"
+        },
+        {
+          "no": 2,
+          "word": "உவந்து ஈயும் <br>(Uvandhu eeyum)",
+          "ta": "மனம் மகிழ்ந்து கொடுக்கும்",
+          "en": "Gladly give",
+          "hi": "प्रेम से करते दान"
+        },
+        {
+          "no": 3,
+          "word": "கண்ணன்னார் கண்ணும் <br>(Kannannaar kannum)",
+          "ta": "கண் போன்றவரிடத்தும்",
+          "en": "Like eyes in worth",
+          "hi": "उनसे भी"
+        },
+        {
+          "no": 4,
+          "word": "இரவாமை <br>(Iravaamai)",
+          "ta": "இரக்காமல் இருத்தல்",
+          "en": "Asking no alms",
+          "hi": "नहिं माँगना"
+        },
+        {
+          "no": 5,
+          "word": "கோடி <br>(Kodi)",
+          "ta": "கோடி மடங்கு",
+          "en": "Ten million-fold",
+          "hi": "कोटि गुना"
+        },
+        {
+          "no": 6,
+          "word": "உறும் <br>(Urum)",
+          "ta": "நன்மை பயக்கும்",
+          "en": "Greater gain",
+          "hi": "है श्रेष्ठ"
+        },
+        {
+          "no": 7,
+          "word": "தன்மானம் <br>(Thanmaanam)",
+          "ta": "தன்மானம்",
+          "en": "Self-respect",
+          "hi": "स्वाभिमान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கரவா துவந்தீயுங் கண்ணன்னார் கண்ணு",
+          "line2": "மிரவாமை கோடி யுறும்."
+        },
+        "en": {
+          "line1": "Ten million-fold 'tis greater gain, asking no alms to live,",
+          "line2": "Even from those, like eyes in worth, who nought concealing gladly give."
+        },
+        "hi": {
+          "line1": "जो न छिपा कर, प्रेम से, करते दान यथेष्ट ।",
+          "line2": "उनसे भी नहिं माँगना, कोटि गुना है श्रेष्ठ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Karavaa Thuvandheeyung Kannannaar Kannu",
+            "line2": "Miravaamai Kodi Yurum."
+          },
+          "hi": {
+            "line1": "करवा दुवन्दीयुङ् गण्णन्नार् कण्णु",
+            "line2": "मिरवामै कोडि युरुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பொருளை ஒளிக்காமல் மனம் மகிழ்ந்து கொடுக்கும் கண்களைப் போன்ற சிறந்தவரிடத்தும்கூடச் சென்று இரவாமல் வாழ்வது கோடி மடங்கு நன்மை தருவதாகும்.",
+        "en": "Even when someone is as generous as can be, standing on your own two feet without asking for handouts is ten million times better.",
+        "hi": "जो लोग बिना कुछ छिपाए प्रेमपूर्वक यथेष्ट दान करते हैं, उनसे भी कुछ न माँगना करोड़ गुना अधिक श्रेष्ठ है।"
+      }
+    },
+    {
+      "num": 1062,
+      "line1": "இரந்து முயிர்வாழ்தல் வேண்டிற் பரந்து",
+      "line2": "கெடுக வுலகியற்றி யான்.",
+      "enLine1": "If he that shaped the world desires that men should begging go,",
+      "enLine2": "Through life's long course, let him a wanderer be and perish so.",
+      "hiLine1": "यदि विधि की करतार ने, भीख माँग नर खाय ।",
+      "hiLine2": "मारा मारा फिर वही, नष्ट-भ्रष्ट हो जाय ॥",
+      "general": "மனிதர்கள் பிறரிடம் இரந்தே உயிர்வாழ வேண்டும் என்று இவ்வுலகத்தைப் படைத்தவன் விதித்திருந்தால், அவனும் அலைந்து திரிந்து கெட்டுப்போகட்டும்.",
+      "en": "If the Creator of the world intended that human beings should survive only by begging, may that Creator also wander about and perish.",
+      "hi": "यदि संसार के विधाता ने यह विधान बनाया है कि मनुष्य भीख माँगकर ही अपना पेट भरे, तो वह विधाता स्वयं भी मारा-मारा फिरकर नष्ट हो जाए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இரந்தும் <br>(Irandhum)",
+          "ta": "பிறரிடம் இரந்தும்",
+          "en": "Begging go",
+          "hi": "भीख माँग"
+        },
+        {
+          "no": 2,
+          "word": "உயிர் வாழ்தல் <br>(Uyir vaazhdhal)",
+          "ta": "உயிர் வாழ்வதை",
+          "en": "Live",
+          "hi": "नर खाय"
+        },
+        {
+          "no": 3,
+          "word": "வேண்டின் <br>(Vendin)",
+          "ta": "விரும்பியிருந்தால்",
+          "en": "Desires",
+          "hi": "यदि विधि की"
+        },
+        {
+          "no": 4,
+          "word": "பரந்து <br>(Parandhu)",
+          "ta": "அலைந்து திரிந்து",
+          "en": "A wanderer be",
+          "hi": "मारा मारा फिर"
+        },
+        {
+          "no": 5,
+          "word": "கெடுக <br>(Keduga)",
+          "ta": "கெட்டுப்போகட்டும்",
+          "en": "Perish so",
+          "hi": "नष्ट-भ्रष्ट हो जाय"
+        },
+        {
+          "no": 6,
+          "word": "உலகு இயற்றியான் <br>(Ulagu iyatriyaan)",
+          "ta": "உலகத்தைப் படைத்தவன்",
+          "en": "He that shaped the world",
+          "hi": "करतार ने"
+        },
+        {
+          "no": 7,
+          "word": "படைப்பு <br>(Padaippu)",
+          "ta": "படைப்பு",
+          "en": "Creation",
+          "hi": "सृष्टि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இரந்து முயிர்வாழ்தல் வேண்டிற் பரந்து",
+          "line2": "கெடுக வுலகியற்றி யான்."
+        },
+        "en": {
+          "line1": "If he that shaped the world desires that men should begging go,",
+          "line2": "Through life's long course, let him a wanderer be and perish so."
+        },
+        "hi": {
+          "line1": "यदि विधि की करतार ने, भीख माँग नर खाय ।",
+          "line2": "मारा मारा फिर वही, नष्ट-भ्रष्ट हो जाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Irandhu Muyirvaazhthal Vendir Parandhu",
+            "line2": "Keduga Vulagiyatri Yaan."
+          },
+          "hi": {
+            "line1": "इरन्दु मुयिर्वाऴ्दल् वेण्डिर परन्दु",
+            "line2": "कॆडुग वुलगियत्र्रि यान्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனிதர்கள் பிறரிடம் இரந்தே உயிர்வாழ வேண்டும் என்று இவ்வுலகத்தைப் படைத்தவன் விதித்திருந்தால், அவனும் அலைந்து திரிந்து கெட்டுப்போகட்டும்.",
+        "en": "If the Creator designed this world so anyone has to beg just to survive, then even the Creator deserves to wander in ruin.",
+        "hi": "यदि संसार के विधाता ने यह विधान बनाया है कि मनुष्य भीख माँगकर ही अपना पेट भरे, तो वह विधाता स्वयं भी मारा-मारा फिरकर नष्ट हो जाए।"
+      }
+    },
+    {
+      "num": 1063,
+      "line1": "இன்மை யிடும்பை யிரந்துதீர் வாமென்னும்",
+      "line2": "வன்மையின் வன்பாட் டதில்.",
+      "enLine1": "Nothing is harder than the hardness that will say,",
+      "enLine2": "'The plague of penury by asking alms we'll drive away.'",
+      "hiLine1": "'निर्धनता के दुःख को, करें माँग कर दूर' ।",
+      "hiLine2": "इस विचार से क्रूरतर, और न है कुछ क्रूर ॥",
+      "general": "வறுமையால் வரும் துன்பத்தைப் பிறரிடம் இரந்து தீர்த்துக்கொள்வோம் என்று எண்ணும் வன்கண்மையைவிடக் கொடியது வேறு ஒன்றும் இல்லை.",
+      "en": "There is no greater callousness than thinking, 'We will solve the hardship of poverty by begging from others.'",
+      "hi": "'अपनी निर्धनता के दुःख को हम माँगकर दूर कर लेंगे'—इस विचार से बढ़कर क्रूर और कठोर बात और कोई नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்மை இடும்பை <br>(Inmai idumbai)",
+          "ta": "வறுமைத் துன்பத்தை",
+          "en": "Plague of penury",
+          "hi": "निर्धनता के दुःख को"
+        },
+        {
+          "no": 2,
+          "word": "இரந்து <br>(Irandhu)",
+          "ta": "பிறரிடம் இரந்து",
+          "en": "By asking alms",
+          "hi": "माँग कर"
+        },
+        {
+          "no": 3,
+          "word": "தீர்வாம் <br>(Theervaam)",
+          "ta": "தீர்த்துக்கொள்வோம்",
+          "en": "Drive away",
+          "hi": "करें दूर"
+        },
+        {
+          "no": 4,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்று எண்ணும்",
+          "en": "That will say",
+          "hi": "इस विचार से"
+        },
+        {
+          "no": 5,
+          "word": "வன்மையின் <br>(Vanmaiyin)",
+          "ta": "வன்கண்மையைவிட",
+          "en": "Than the hardness",
+          "hi": "क्रूरतर"
+        },
+        {
+          "no": 6,
+          "word": "வன்பாட்டது <br>(Vanpaattadhu)",
+          "ta": "கொடியது",
+          "en": "Harder",
+          "hi": "क्रूर"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Nothing",
+          "hi": "और न है कुछ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்மை யிடும்பை யிரந்துதீர் வாமென்னும்",
+          "line2": "வன்மையின் வன்பாட் டதில்."
+        },
+        "en": {
+          "line1": "Nothing is harder than the hardness that will say,",
+          "line2": "'The plague of penury by asking alms we'll drive away.'"
+        },
+        "hi": {
+          "line1": "'निर्धनता के दुःख को, करें माँग कर दूर' ।",
+          "line2": "इस विचार से क्रूरतर, और न है कुछ क्रूर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inmai Yidumbai Yirandhudheer Vaamennum",
+            "line2": "Vanmaiyin Vanpaat Dadhil."
+          },
+          "hi": {
+            "line1": "इन्मै यिडुम्बै यिरन्दुतीर् वामॆन्नुम्",
+            "line2": "वन्मैयिन् वन्पाट् टदिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வறுமையால் வரும் துன்பத்தைப் பிறரிடம் இரந்து தீர்த்துக்கொள்வோம் என்று எண்ணும் வன்கண்மையைவிடக் கொடியது வேறு ஒன்றும் இல்லை.",
+        "en": "Deciding to fix poverty by relying on handouts instead of effort is one of the harshest traps a mind can fall into.",
+        "hi": "'अपनी निर्धनता के दुःख को हम माँगकर दूर कर लेंगे'—इस विचार से बढ़कर क्रूर और कठोर बात और कोई नहीं है।"
+      }
+    },
+    {
+      "num": 1064,
+      "line1": "இடமெல்லாங் கொள்ளாத் தகைத்தே யிடமில்லாக்",
+      "line2": "காலு மிரவொல்லாச் சால்பு.",
+      "enLine1": "Who ne'er consent to beg in utmost need, their worth",
+      "enLine2": "Has excellence of greatness that transcends the earth.",
+      "hiLine1": "दारिदवश भी याचना, जिसे नहीं स्वीकार ।",
+      "hiLine2": "भरने उसके पूर्ण-गुण, काफी नहिं संसार ॥",
+      "general": "வாழ்வதற்கு இடமில்லாத வறுமை வந்த காலத்திலும் பிறரிடம் இரக்க இசையாத சால்பு, இந்தப் பரந்த உலகம் முழுவதும் கொள்ளாத பெருமை உடையதாகும்.",
+      "en": "The noble character that refuses to beg even in extreme destitution has a greatness too vast for this whole world to contain.",
+      "hi": "दरिद्रता के कारण भी जो व्यक्ति याचना करना स्वीकार नहीं करता, उसके पूर्ण गुणों को समेटने के लिए यह सारा संसार भी पर्याप्त नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இடம் எல்லாம் <br>(Idam ellaam)",
+          "ta": "உலகம் முழுவதிலும்",
+          "en": "The earth",
+          "hi": "संसार"
+        },
+        {
+          "no": 2,
+          "word": "கொள்ளாத் தகைத்தே <br>(Kollaath thagaiththe)",
+          "ta": "அடங்காத பெருமையுடையது",
+          "en": "Transcends",
+          "hi": "भरने काफी नहिं"
+        },
+        {
+          "no": 3,
+          "word": "இடம் இல்லாக் காலும் <br>(Idam illaak kaalum)",
+          "ta": "வாழ்வதற்கு வழியில்லாதபோதும்",
+          "en": "In utmost need",
+          "hi": "दारिदवश भी"
+        },
+        {
+          "no": 4,
+          "word": "இரவு <br>(Iravu)",
+          "ta": "இரத்தலை",
+          "en": "To beg",
+          "hi": "याचना"
+        },
+        {
+          "no": 5,
+          "word": "ஒல்லா <br>(Ollaa)",
+          "ta": "ஏற்றுக்கொள்ளாத",
+          "en": "Ne'er consent",
+          "hi": "जिसे नहीं स्वीकार"
+        },
+        {
+          "no": 6,
+          "word": "சால்பு <br>(Saalbu)",
+          "ta": "சான்றாண்மை",
+          "en": "Excellence of greatness",
+          "hi": "उसके पूर्ण-गुण"
+        },
+        {
+          "no": 7,
+          "word": "பெருமை <br>(Perumai)",
+          "ta": "பெருமை",
+          "en": "Worth",
+          "hi": "महानता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இடமெல்லாங் கொள்ளாத் தகைத்தே யிடமில்லாக்",
+          "line2": "காலு மிரவொல்லாச் சால்பு."
+        },
+        "en": {
+          "line1": "Who ne'er consent to beg in utmost need, their worth",
+          "line2": "Has excellence of greatness that transcends the earth."
+        },
+        "hi": {
+          "line1": "दारिदवश भी याचना, जिसे नहीं स्वीकार ।",
+          "line2": "भरने उसके पूर्ण-गुण, काफी नहिं संसार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Idamellaang Kollaath Thagaiththe Yidamillaak",
+            "line2": "Kaalu Miravollaas Saalpu."
+          },
+          "hi": {
+            "line1": "इडमॆल्लाङ् गॊळ्ळात् तगैत्ते यिडमिल्लाक्",
+            "line2": "कालु मिरवॊल्लाच् साल्बु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வாழ்வதற்கு இடமில்லாத வறுமை வந்த காலத்திலும் பிறரிடம் இரக்க இசையாத சால்பு, இந்தப் பரந்த உலகம் முழுவதும் கொள்ளாத பெருமை உடையதாகும்.",
+        "en": "Refusing to compromise your dignity and beg—even when your back is completely against the wall—is a greatness bigger than the world itself.",
+        "hi": "दरिद्रता के कारण भी जो व्यक्ति याचना करना स्वीकार नहीं करता, उसके पूर्ण गुणों को समेटने के लिए यह सारा संसार भी पर्याप्त नहीं है।"
+      }
+    },
+    {
+      "num": 1065,
+      "line1": "தெண்ணீ ரடுபுற்கை யாயினுந் தாடந்த",
+      "line2": "துண்ணலி னூங்கினிய தில்.",
+      "enLine1": "Nothing is sweeter than to taste the toil-won cheer,",
+      "enLine2": "Though mess of pottage as tasteless as the water clear.",
+      "hiLine1": "पका माँड ही क्यों न हो, निर्मल नीर समान ।",
+      "hiLine2": "खाने से श्रम से कमा, बढ़ कर मधुर न जान ॥",
+      "general": "தெளிந்த நீர் போன்ற கூழாக இருந்தாலும், தன் முயற்சியால் உழைத்துப் பெற்றதை உண்பதைவிட இனிமையானது வேறு ஒன்றும் இல்லை.",
+      "en": "Even if it is only thin gruel like clear water, there is nothing sweeter than eating what one has earned through one's own labor.",
+      "hi": "भले ही वह निर्मल जल के समान पका हुआ माँड ही क्यों न हो, अपने परिश्रम से कमाकर खाने से बढ़कर मधुर और कुछ भी नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தெள் நீர் <br>(Thel neer)",
+          "ta": "தெளிந்த நீர் போன்ற",
+          "en": "Water clear",
+          "hi": "निर्मल नीर समान"
+        },
+        {
+          "no": 2,
+          "word": "அடு புற்கை ஆயினும் <br>(Adu purkai aayinum)",
+          "ta": "சமைத்த கூழே ஆனாலும்",
+          "en": "Mess of pottage",
+          "hi": "पका माँड ही क्यों न हो"
+        },
+        {
+          "no": 3,
+          "word": "தாள் தந்தது <br>(Thaal thandhadhu)",
+          "ta": "தன் முயற்சியால் கிடைத்தது",
+          "en": "Toil-won cheer",
+          "hi": "श्रम से कमा"
+        },
+        {
+          "no": 4,
+          "word": "உண்ணலின் <br>(Unnalin)",
+          "ta": "உண்பதைவிட",
+          "en": "Than to taste",
+          "hi": "खाने से"
+        },
+        {
+          "no": 5,
+          "word": "ஊங்கு <br>(Oongu)",
+          "ta": "மிகவும்",
+          "en": "More",
+          "hi": "बढ़ कर"
+        },
+        {
+          "no": 6,
+          "word": "இனியது <br>(Iniyadhu)",
+          "ta": "இனிமையானது",
+          "en": "Sweeter",
+          "hi": "मधुर"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Nothing",
+          "hi": "न जान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தெண்ணீ ரடுபுற்கை யாயினுந் தாடந்த",
+          "line2": "துண்ணலி னூங்கினிய தில்."
+        },
+        "en": {
+          "line1": "Nothing is sweeter than to taste the toil-won cheer,",
+          "line2": "Though mess of pottage as tasteless as the water clear."
+        },
+        "hi": {
+          "line1": "पका माँड ही क्यों न हो, निर्मल नीर समान ।",
+          "line2": "खाने से श्रम से कमा, बढ़ कर मधुर न जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thennee Raduburkai Yaayinun Thaadandha",
+            "line2": "Thunnali Noongginiya Thil."
+          },
+          "hi": {
+            "line1": "तॆण्णी रडुपुर्कै यायिनुन् ताडन्द",
+            "line2": "तुण्णलि नूङ्गिनिय दिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தெளிந்த நீர் போன்ற கூழாக இருந்தாலும், தன் முயற்சியால் உழைத்துப் பெற்றதை உண்பதைவிட இனிமையானது வேறு ஒன்றும் இல்லை.",
+        "en": "Even the plainest bowl of porridge tastes like a feast when you earned it with your own two hands.",
+        "hi": "भले ही वह निर्मल जल के समान पका हुआ माँड ही क्यों न हो, अपने परिश्रम से कमाकर खाने से बढ़कर मधुर और कुछ भी नहीं है।"
+      }
+    },
+    {
+      "num": 1066,
+      "line1": "ஆவிற்கு நீரென் றிரப்பினு நாவிற்",
+      "line2": "கிரவி னிளிவந்த தில்.",
+      "enLine1": "E'en if a draught of water for a cow you ask,",
+      "enLine2": "Nought's so distasteful to the tongue as begger's task.",
+      "hiLine1": "यद्यपि माँगे गाय हित, पानी का ही दान ।",
+      "hiLine2": "याचन से बदतर नहीं, जिह्वा को अपमान ॥",
+      "general": "தாகமுள்ள பசுவிற்குத் தண்ணீர் வேண்டும் என்று கேட்டாலும்கூட, நாக்கிற்குப் பிறரிடம் சென்று இரப்பதைவிட இழிவானது வேறு ஒன்றும் இல்லை.",
+      "en": "Even if you are only asking for water to give a thirsty cow, nothing brings more disgrace to the tongue than begging.",
+      "hi": "भले ही कोई प्यासी गाय के लिए पानी का ही दान क्यों न माँगे, फिर भी जिह्वा (जीभ) के लिए याचना करने से बढ़कर दूसरा कोई अपमान नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஆவிற்கு <br>(Aavirku)",
+          "ta": "பசுவிற்கு",
+          "en": "For a cow",
+          "hi": "गाय हित"
+        },
+        {
+          "no": 2,
+          "word": "நீர் என்று <br>(Neer endru)",
+          "ta": "தண்ணீர் என்று",
+          "en": "Draught of water",
+          "hi": "पानी का ही दान"
+        },
+        {
+          "no": 3,
+          "word": "இரப்பினும் <br>(Irappinum)",
+          "ta": "இரந்து கேட்டாலும்",
+          "en": "E'en if you ask",
+          "hi": "यद्यपि माँगे"
+        },
+        {
+          "no": 4,
+          "word": "நாவிற்கு <br>(Naavirku)",
+          "ta": "நாக்கிற்கு",
+          "en": "To the tongue",
+          "hi": "जिह्वा को"
+        },
+        {
+          "no": 5,
+          "word": "இரவின் <br>(Iravin)",
+          "ta": "இரத்தலைவிட",
+          "en": "Begger's task",
+          "hi": "याचन से"
+        },
+        {
+          "no": 6,
+          "word": "இளிவந்தது <br>(Ilivandhadhu)",
+          "ta": "இழிவானது",
+          "en": "Distasteful",
+          "hi": "बदतर अपमान"
+        },
+        {
+          "no": 7,
+          "word": "இல் <br>(Il)",
+          "ta": "இல்லை",
+          "en": "Nought's",
+          "hi": "नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஆவிற்கு நீரென் றிரப்பினு நாவிற்",
+          "line2": "கிரவி னிளிவந்த தில்."
+        },
+        "en": {
+          "line1": "E'en if a draught of water for a cow you ask,",
+          "line2": "Nought's so distasteful to the tongue as begger's task."
+        },
+        "hi": {
+          "line1": "यद्यपि माँगे गाय हित, पानी का ही दान ।",
+          "line2": "याचन से बदतर नहीं, जिह्वा को अपमान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aavirku Neeren Rirappinu Naavir",
+            "line2": "Kiravi Nilivandha Thil."
+          },
+          "hi": {
+            "line1": "आविर्कु नीरॆन् रिरप्पिनु नाविर्",
+            "line2": "किरवि निळिवन्द दिल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தாகமுள்ள பசுவிற்குத் தண்ணீர் வேண்டும் என்று கேட்டாலும்கூட, நாக்கிற்குப் பிறரிடம் சென்று இரப்பதைவிட இழிவானது வேறு ஒன்றும் இல்லை.",
+        "en": "Even when asking for something completely selfless—like water for a thirsty cow—the act of begging still stings the tongue.",
+        "hi": "भले ही कोई प्यासी गाय के लिए पानी का ही दान क्यों न माँगे, फिर भी जिह्वा (जीभ) के लिए याचना करने से बढ़कर दूसरा कोई अपमान नहीं है।"
+      }
+    },
+    {
+      "num": 1067,
+      "line1": "இரப்ப னிரப்பாரை யெல்லா மிரப்பிற்",
+      "line2": "கரப்பா ரிரவன்மி னென்று.",
+      "enLine1": "One thing I beg of beggars all, 'If beg ye may,",
+      "enLine2": "Of those who hide their wealth, beg not, I pray.'",
+      "hiLine1": "याचक सबसे याचना, यही कि जो भर स्वाँग ।",
+      "hiLine2": "याचन करने पर न दें, उनसे कभी न माँग ॥",
+      "general": "இரப்பவர்கள் எல்லாரையும் நான் ஒன்று கேட்டுக்கொள்கிறேன்: நீங்கள் இரப்பதாக இருந்தால், பொருளை ஒளித்து இல்லையென்பவரிடம் மட்டும் இரக்காதீர்கள்.",
+      "en": "I make one request of all who beg: if you must ask, never ask those who miserly conceal what they have.",
+      "hi": "मैं सभी याचकों से यही प्रार्थना करता हूँ कि जो लोग स्वाँग भरकर (छिपाकर) माँगने पर भी कुछ नहीं देते, उनसे कभी कुछ मत माँगो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இரப்பன் <br>(Irappan)",
+          "ta": "வேண்டிக்கொள்கிறேன்",
+          "en": "I beg",
+          "hi": "यही याचना"
+        },
+        {
+          "no": 2,
+          "word": "இரப்பாரை எல்லாம் <br>(Irappaarai ellaam)",
+          "ta": "இரப்பவர் எல்லாரையும்",
+          "en": "Of beggars all",
+          "hi": "याचक सबसे"
+        },
+        {
+          "no": 3,
+          "word": "இரப்பின் <br>(Irappin)",
+          "ta": "நீங்கள் இரப்பதானால்",
+          "en": "If beg ye may",
+          "hi": "याचन करने पर"
+        },
+        {
+          "no": 4,
+          "word": "கரப்பார் <br>(Karappaar)",
+          "ta": "ஒளித்துக்கொள்பவரிடம்",
+          "en": "Who hide their wealth",
+          "hi": "जो भर स्वाँग न दें"
+        },
+        {
+          "no": 5,
+          "word": "இரவன்மின் <br>(Iravanmin)",
+          "ta": "இரக்காதீர்கள்",
+          "en": "Beg not",
+          "hi": "कभी न माँग"
+        },
+        {
+          "no": 6,
+          "word": "என்று <br>(Endru)",
+          "ta": "என்று",
+          "en": "I pray",
+          "hi": "कि"
+        },
+        {
+          "no": 7,
+          "word": "வேண்டுகோள் <br>(Vendugol)",
+          "ta": "வேண்டுகோள்",
+          "en": "Request",
+          "hi": "प्रार्थना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இரப்ப னிரப்பாரை யெல்லா மிரப்பிற்",
+          "line2": "கரப்பா ரிரவன்மி னென்று."
+        },
+        "en": {
+          "line1": "One thing I beg of beggars all, 'If beg ye may,",
+          "line2": "Of those who hide their wealth, beg not, I pray.'"
+        },
+        "hi": {
+          "line1": "याचक सबसे याचना, यही कि जो भर स्वाँग ।",
+          "line2": "याचन करने पर न दें, उनसे कभी न माँग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Irappan Irappaarai Ellaam Irappin",
+            "line2": "Karappaar Iravanmin Endru."
+          },
+          "hi": {
+            "line1": "इरप्प निरप्पारै यॆल्ला मिरप्पिर्",
+            "line2": "करप्पा रिरवन्मि नॆन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இரப்பவர்கள் எல்லாரையும் நான் ஒன்று கேட்டுக்கொள்கிறேன்: நீங்கள் இரப்பதாக இருந்தால், பொருளை ஒளித்து இல்லையென்பவரிடம் மட்டும் இரக்காதீர்கள்.",
+        "en": "If you ever have to ask someone for help, at least don't waste your dignity on misers who pretend they have nothing.",
+        "hi": "मैं सभी याचकों से यही प्रार्थना करता हूँ कि जो लोग स्वाँग भरकर (छिपाकर) माँगने पर भी कुछ नहीं देते, उनसे कभी कुछ मत माँगो।"
+      }
+    },
+    {
+      "num": 1068,
+      "line1": "இரவென்னு மேமாப்பி றோணி கரவென்னும்",
+      "line2": "பார்தாக்கப் பக்கு விடும்.",
+      "enLine1": "The fragile bark of beggary",
+      "enLine2": "Wrecked on denial's rock will lie.",
+      "hiLine1": "याचन रूपी नाव यदि, जो रक्षा बिन नग्न ।",
+      "hiLine2": "गोपन की चट्टान से, टकराये तो भग्न ॥",
+      "general": "இரத்தல் என்னும் பாதுகாப்பற்ற தோணி, இல்லை என்று ஒளித்தல் என்னும் பாறை தாக்கியவுடன் உடைந்து சிதறிவிடும்.",
+      "en": "The unprotected boat of begging shatters to pieces the moment it strikes the rock of refusal.",
+      "hi": "याचना रूपी यह बिना रक्षा वाली कमज़ोर नाव जब 'नहीं' (गोपन) रूपी चट्टान से टकराती है, तो चूर-चूर होकर डूब जाती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இரவு என்னும் <br>(Iravu ennum)",
+          "ta": "இரத்தல் என்னும்",
+          "en": "Of beggary",
+          "hi": "याचन रूपी"
+        },
+        {
+          "no": 2,
+          "word": "ஏமாப்பு இல் <br>(Emaappu il)",
+          "ta": "பாதுகாப்பில்லாத",
+          "en": "Fragile",
+          "hi": "जो रक्षा बिन नग्न"
+        },
+        {
+          "no": 3,
+          "word": "தோணி <br>(Thoni)",
+          "ta": "மரக்கலம் (தோணி)",
+          "en": "Bark",
+          "hi": "नाव"
+        },
+        {
+          "no": 4,
+          "word": "கரவு என்னும் <br>(Karavu ennum)",
+          "ta": "ஒளித்தல் என்னும்",
+          "en": "Denial's",
+          "hi": "गोपन की"
+        },
+        {
+          "no": 5,
+          "word": "பார் <br>(Paar)",
+          "ta": "பாறை",
+          "en": "Rock",
+          "hi": "चट्टान से"
+        },
+        {
+          "no": 6,
+          "word": "தாக்க <br>(Thaakka)",
+          "ta": "மோதியவுடன்",
+          "en": "Wrecked",
+          "hi": "टकराये तो"
+        },
+        {
+          "no": 7,
+          "word": "பக்கு விடும் <br>(Pakku vidum)",
+          "ta": "உடைந்துவிடும்",
+          "en": "Will lie",
+          "hi": "भग्न"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இரவென்னு மேமாப்பி றோணி கரவென்னும்",
+          "line2": "பார்தாக்கப் பக்கு விடும்."
+        },
+        "en": {
+          "line1": "The fragile bark of beggary",
+          "line2": "Wrecked on denial's rock will lie."
+        },
+        "hi": {
+          "line1": "याचन रूपी नाव यदि, जो रक्षा बिन नग्न ।",
+          "line2": "गोपन की चट्टान से, टकराये तो भग्न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Iravennu Memaappi Roni Karavennum",
+            "line2": "Paarthaakkap Pakku Vidum."
+          },
+          "hi": {
+            "line1": "इरवॆन्नु मेमाप्पि रोणि करवॆन्नुम्",
+            "line2": "पार्ताक्कप् पक्कु विडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இரத்தல் என்னும் பாதுகாப்பற்ற தோணி, இல்லை என்று ஒளித்தல் என்னும் பாறை தாக்கியவுடன் உடைந்து சிதறிவிடும்.",
+        "en": "Depending on others is like sailing in a fragile boat—one sharp 'no' is enough to wreck it.",
+        "hi": "याचना रूपी यह बिना रक्षा वाली कमज़ोर नाव जब 'नहीं' (गोपन) रूपी चट्टान से टकराती है, तो चूर-चूर होकर डूब जाती है।"
+      }
+    },
+    {
+      "num": 1069,
+      "line1": "இரவுள்ள வுள்ள முருகுங் கரவுள்ள",
+      "line2": "வுள்ளதூஉ மின்றிக் கெடும்.",
+      "enLine1": "The heart will melt away at thought of beggary ;",
+      "enLine2": "With thought of stern repulse 'twill perish utterly.",
+      "hiLine1": "दिल गलता है, ख्याल कर, याचन का बदहाल ।",
+      "hiLine2": "गले बिना ही नष्ट हो, गोपन का कर ख्याल ॥",
+      "general": "பிறரிடம் சென்று இரப்பதை நினைத்தாலே உள்ளம் உருகிவிடும்; இல்லை என்று ஒளிப்பதை நினைத்தால் உள்ளதும் இல்லாமல் கெட்டுவிடும்.",
+      "en": "The very thought of begging melts the heart in shame, and the thought of being refused destroys whatever spirit remains.",
+      "hi": "याचना करने की दीन दशा का विचार करते ही हृदय गलने लगता है, और दाता द्वारा मना (गोपन) किए जाने का ख्याल आते ही वह बिना गले ही नष्ट हो जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இரவு உள்ள <br>(Iravu ulla)",
+          "ta": "இரப்பதை நினைக்க",
+          "en": "Thought of beggary",
+          "hi": "ख्याल कर याचन का"
+        },
+        {
+          "no": 2,
+          "word": "உள்ளம் <br>(Ullam)",
+          "ta": "மனம்",
+          "en": "The heart",
+          "hi": "दिल"
+        },
+        {
+          "no": 3,
+          "word": "உருகும் <br>(Urugum)",
+          "ta": "உருகிவிடும்",
+          "en": "Will melt away",
+          "hi": "गलता है"
+        },
+        {
+          "no": 4,
+          "word": "கரவு உள்ள <br>(Karavu ulla)",
+          "ta": "மறுப்பதை நினைக்க",
+          "en": "Thought of repulse",
+          "hi": "गोपन का कर ख्याल"
+        },
+        {
+          "no": 5,
+          "word": "உள்ளதூஉம் <br>(Ulladhooum)",
+          "ta": "உள்ளதும்",
+          "en": "What remains",
+          "hi": "बचा हुआ"
+        },
+        {
+          "no": 6,
+          "word": "இன்றி <br>(Indri)",
+          "ta": "இல்லாமல்",
+          "en": "Utterly",
+          "hi": "बिना ही"
+        },
+        {
+          "no": 7,
+          "word": "கெடும் <br>(Kedum)",
+          "ta": "அழிந்துவிடும்",
+          "en": "Will perish",
+          "hi": "नष्ट हो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இரவுள்ள வுள்ள முருகுங் கரவுள்ள",
+          "line2": "வுள்ளதூஉ மின்றிக் கெடும்."
+        },
+        "en": {
+          "line1": "The heart will melt away at thought of beggary ;",
+          "line2": "With thought of stern repulse 'twill perish utterly."
+        },
+        "hi": {
+          "line1": "दिल गलता है, ख्याल कर, याचन का बदहाल ।",
+          "line2": "गले बिना ही नष्ट हो, गोपन का कर ख्याल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Iravulla Vulla Murugung Karavulla",
+            "line2": "Vulladhoou Minrik Kedum."
+          },
+          "hi": {
+            "line1": "इरवुळ्ळ वुळ्ळ मुरुगुङ् करवुळ्ळ",
+            "line2": "वुळ्ळदूउ मिन्द्रिक् कॆडुम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறரிடம் சென்று இரப்பதை நினைத்தாலே உள்ளம் உருகிவிடும்; இல்லை என்று ஒளிப்பதை நினைத்தால் உள்ளதும் இல்லாமல் கெட்டுவிடும்.",
+        "en": "Just thinking about having to ask for money makes your heart sink—and imagining a cold rejection crushes what's left.",
+        "hi": "याचना करने की दीन दशा का विचार करते ही हृदय गलने लगता है, और दाता द्वारा मना (गोपन) किए जाने का ख्याल आते ही वह बिना गले ही नष्ट हो जाता है।"
+      }
+    },
+    {
+      "num": 1070,
+      "line1": "கரப்பவர்க் கியாங்கொளிக்குங் கொல்லோ விரப்பவர்",
+      "line2": "சொல்லாடப் போஒ முயிர்.",
+      "enLine1": "E'en as he asks, the shamefaced asker dies ;",
+      "enLine2": "Where shall his spirit hide who help denies ?",
+      "hiLine1": "'नहीं' शब्द सुन जायगी, याचक जन की जान ।",
+      "hiLine2": "गोपन करते मनुज के, कहाँ छिपेंगे प्राण ॥",
+      "general": "இரப்பவர் இல்லை என்ற சொல்லைக் கேட்டவுடனே உயிர் போய்விடுமானால், பொருளை ஒளித்து இல்லை என்பவரின் உயிர் எங்கே போய் ஒளிந்துகொள்ளுமோ?",
+      "en": "When the asker's spirit dies the moment a refusal is spoken, where will the life of the one who withholds go to hide?",
+      "hi": "यदि याचक के मुँह से निकलते ही या दाता के 'नहीं' कहते ही याचक के प्राण निकल जाते हैं, तो छिपाकर मना करने वाले के प्राण भला कहाँ छिपेंगे?",
+      "words": [
+        {
+          "no": 1,
+          "word": "கரப்பவர்க்கு <br>(Karappavarkku)",
+          "ta": "இல்லை என்று ஒளிப்பவர்க்கு",
+          "en": "Who help denies",
+          "hi": "गोपन करते मनुज के"
+        },
+        {
+          "no": 2,
+          "word": "யாங்கு <br>(Yaangu)",
+          "ta": "எங்கே",
+          "en": "Where",
+          "hi": "कहाँ"
+        },
+        {
+          "no": 3,
+          "word": "ஒளிக்கும் கொல்லோ <br>(Olikkum kollo)",
+          "ta": "ஒளிந்து கொள்ளுமோ",
+          "en": "Shall hide",
+          "hi": "छिपेंगे"
+        },
+        {
+          "no": 4,
+          "word": "இரப்பவர் <br>(Irappavar)",
+          "ta": "இரப்பவர்",
+          "en": "Shamefaced asker",
+          "hi": "याचक जन की"
+        },
+        {
+          "no": 5,
+          "word": "சொல்லாட <br>(Sollaada)",
+          "ta": "மறுப்புச் சொல் கேட்டவுடன்",
+          "en": "As he asks",
+          "hi": "'नहीं' शब्द सुन"
+        },
+        {
+          "no": 6,
+          "word": "போஒம் <br>(Poom)",
+          "ta": "போய்விடும்",
+          "en": "Dies",
+          "hi": "जायगी"
+        },
+        {
+          "no": 7,
+          "word": "உயிர் <br>(Uyir)",
+          "ta": "உயிர்",
+          "en": "Spirit",
+          "hi": "प्राण"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கரப்பவர்க் கியாங்கொளிக்குங் கொல்லோ விரப்பவர்",
+          "line2": "சொல்லாடப் போஒ முயிர்."
+        },
+        "en": {
+          "line1": "E'en as he asks, the shamefaced asker dies ;",
+          "line2": "Where shall his spirit hide who help denies ?"
+        },
+        "hi": {
+          "line1": "'नहीं' शब्द सुन जायगी, याचक जन की जान ।",
+          "line2": "गोपन करते मनुज के, कहाँ छिपेंगे प्राण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Karappavark Kiyaanggolikkung Kollo Virappavar",
+            "line2": "Sollaadap Poo Muyir."
+          },
+          "hi": {
+            "line1": "करप्पवर्क् कियाङ्गॊळिक्कुङ् गॊल्लो विरप्पवर्",
+            "line2": "सॊल्लाडप् पोओ मुयिर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "இரப்பவர் இல்லை என்ற சொல்லைக் கேட்டவுடனே உயிர் போய்விடுமானால், பொருளை ஒளித்து இல்லை என்பவரின் உயிர் எங்கே போய் ஒளிந்துகொள்ளுமோ?",
+        "en": "If the sheer shame of asking is enough to make someone die inside, where can the person who selfishly refuses even hide?",
+        "hi": "यदि याचक के मुँह से निकलते ही या दाता के 'नहीं' कहते ही याचक के प्राण निकल जाते हैं, तो छिपाकर मना करने वाले के प्राण भला कहाँ छिपेंगे?"
+      }
+    }
+  ]
+}

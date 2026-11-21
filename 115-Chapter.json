@@ -1,0 +1,930 @@
+{
+  "chapterNum": 115,
+  "nameTa": "அலரறிவுறுத்தல்",
+  "nameEn": "The Announcement of the Rumour",
+  "nameHi": "प्रवाद-जताना",
+  "paal": "காமத்துப்பால்",
+  "iyal": "களவியல்",
+  "kurals": [
+    {
+      "num": 1141,
+      "line1": "அலரெழ வாருயிர் நிற்கு மதனைப்",
+      "line2": "பலரறியார் பாக்கியத் தால்.",
+      "enLine1": "By this same rumour's rise, my precious life stands fast ;",
+      "enLine2": "Good fortune grant the many know this not !",
+      "hiLine1": "प्रचलन हुआ प्रवाद का, सो टिकता प्रिय प्राण ।",
+      "hiLine2": "इसका मेरे भाग्य से, लोगों को नहिं ज्ञान ॥",
+      "general": "ஊரில் அலர் (பழிச்சொல்) எழுவதால்தான் என் அரிய உயிர் நிலைபெற்று நிற்கிறது; என் நல்வினையால் இதைப் பலரும் அறியாமல் இருக்கிறார்கள்.",
+      "en": "It is because of this spreading rumour that my precious life endures; by my good fortune, most people do not realize this.",
+      "hi": "गाँव में प्रवाद (अफवाह) फैलने से ही मेरे प्रिय प्राण टिके हुए हैं; मेरे सौभाग्य से लोगों को इस बात का ज्ञान नहीं है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அலர் எழ <br>(Alar ezha)",
+          "ta": "பழிச்சொல் எழுவதால்",
+          "en": "Rumour's rise",
+          "hi": "प्रचलन हुआ प्रवाद का"
+        },
+        {
+          "no": 2,
+          "word": "ஆருயிர் <br>(Aaruyir)",
+          "ta": "அரிய உயிர்",
+          "en": "Precious life",
+          "hi": "प्रिय प्राण"
+        },
+        {
+          "no": 3,
+          "word": "நிற்கும் <br>(Nirkum)",
+          "ta": "நிலைத்து நிற்கும்",
+          "en": "Stands fast",
+          "hi": "टिकता"
+        },
+        {
+          "no": 4,
+          "word": "அதனை <br>(Adhanai)",
+          "ta": "அவ்வுண்மையை",
+          "en": "This",
+          "hi": "इसका"
+        },
+        {
+          "no": 5,
+          "word": "பலர் <br>(Palar)",
+          "ta": "பலரும்",
+          "en": "The many",
+          "hi": "लोगों को"
+        },
+        {
+          "no": 6,
+          "word": "அறியார் <br>(Ariyaar)",
+          "ta": "அறியார்",
+          "en": "Know not",
+          "hi": "नहिं ज्ञान"
+        },
+        {
+          "no": 7,
+          "word": "பாக்கியத்தால் <br>(Baakkiyaththaal)",
+          "ta": "என் நல்வினையால்",
+          "en": "Good fortune",
+          "hi": "मेरे भाग्य से"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அலரெழ வாருயிர் நிற்கு மதனைப்",
+          "line2": "பலரறியார் பாக்கியத் தால்."
+        },
+        "en": {
+          "line1": "By this same rumour's rise, my precious life stands fast ;",
+          "line2": "Good fortune grant the many know this not !"
+        },
+        "hi": {
+          "line1": "प्रचलन हुआ प्रवाद का, सो टिकता प्रिय प्राण ।",
+          "line2": "इसका मेरे भाग्य से, लोगों को नहिं ज्ञान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Alarezha Vaaruyir Nirku Madhanaip",
+            "line2": "Palarariyaar Paakkiyath Thaal."
+          },
+          "hi": {
+            "line1": "अलरॆऴ वारुयिर् निर्कु मदनैप्",
+            "line2": "पलरियार् पाक्कियत् ताल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஊரில் அலர் (பழிச்சொல்) எழுவதால்தான் என் அரிய உயிர் நிலைபெற்று நிற்கிறது; என் நல்வினையால் இதைப் பலரும் அறியாமல் இருக்கிறார்கள்.",
+        "en": "Ironically, all the town gossip about us is what keeps my hope alive—thankfully, the gossipers don't realize they're helping me!",
+        "hi": "गाँव में प्रवाद (अफवाह) फैलने से ही मेरे प्रिय प्राण टिके हुए हैं; मेरे सौभाग्य से लोगों को इस बात का ज्ञान नहीं है।"
+      }
+    },
+    {
+      "num": 1142,
+      "line1": "மலரன்ன கண்ணா ளருமை யறியா",
+      "line2": "தலரெமக் கீந்ததிவ் வூர்.",
+      "enLine1": "The village hath to us this rumour giv'n, that makes her mine ;",
+      "enLine2": "Unweeting all the rareness of the maid with flower-like eyne.",
+      "hiLine1": "सुमन-नयन-युत बाल की, दुर्लभता नहिं जान ।",
+      "hiLine2": "इस पुर ने अफवाह तो, की है मुझे प्रदान ॥",
+      "general": "மலர் போன்ற கண்களையுடைய இவளின் அருமையை அறியாமல், இவ்வூர் அவளை எனக்கு உரியவளாக்கிப் பழிச்சொல்லைத் தந்துவிட்டது.",
+      "en": "Not realizing how rare and precious this flower-eyed maiden is, the town has handed her to me through its rumours.",
+      "hi": "फूलों जैसे नेत्रों वाली इस बाला की दुर्लभता को जाने बिना ही इस नगर ने मुझे इस अफवाह का उपहार दे दिया है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "மலர் அன்ன <br>(Malar anna)",
+          "ta": "மலர் போன்ற",
+          "en": "Flower-like",
+          "hi": "सुमन"
+        },
+        {
+          "no": 2,
+          "word": "கண்ணாள் <br>(Kannaal)",
+          "ta": "கண்களையுடையவளின்",
+          "en": "Eyne",
+          "hi": "नयन-युत बाल की"
+        },
+        {
+          "no": 3,
+          "word": "அருமை <br>(Arumai)",
+          "ta": "அருமையை",
+          "en": "Rareness",
+          "hi": "दुर्लभता"
+        },
+        {
+          "no": 4,
+          "word": "அறியாது <br>(Ariyaadhu)",
+          "ta": "அறியாமல்",
+          "en": "Unweeting",
+          "hi": "नहिं जान"
+        },
+        {
+          "no": 5,
+          "word": "அலர் <br>(Alar)",
+          "ta": "பழிச்சொல்லை",
+          "en": "Rumour",
+          "hi": "अफवाह"
+        },
+        {
+          "no": 6,
+          "word": "எமக்கு ஈந்தது <br>(Emakku eendhadhu)",
+          "ta": "எமக்குத் தந்தது",
+          "en": "To us giv'n",
+          "hi": "मुझे की प्रदान"
+        },
+        {
+          "no": 7,
+          "word": "இவ்வூர் <br>(Ivvoor)",
+          "ta": "இந்த ஊர்",
+          "en": "The village",
+          "hi": "इस पुर ने"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "மலரன்ன கண்ணா ளருமை யறியா",
+          "line2": "தலரெமக் கீந்ததிவ் வூர்."
+        },
+        "en": {
+          "line1": "The village hath to us this rumour giv'n, that makes her mine ;",
+          "line2": "Unweeting all the rareness of the maid with flower-like eyne."
+        },
+        "hi": {
+          "line1": "सुमन-नयन-युत बाल की, दुर्लभता नहिं जान ।",
+          "line2": "इस पुर ने अफवाह तो, की है मुझे प्रदान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Malaranna Kannaa Larumai Yariyaa",
+            "line2": "Thalaremak Keendhadhiv Voor."
+          },
+          "hi": {
+            "line1": "मलरन्न कण्णा ळरुमै यरिया",
+            "line2": "तलरेमक् कीन्ददिव् वूर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மலர் போன்ற கண்களையுடைய இவளின் அருமையை அறியாமல், இவ்வூர் அவளை எனக்கு உரியவளாக்கிப் பழிச்சொல்லைத் தந்துவிட்டது.",
+        "en": "Without even realizing how extraordinary she is, the whole town has practically paired us together through its gossip.",
+        "hi": "फूलों जैसे नेत्रों वाली इस बाला की दुर्लभता को जाने बिना ही इस नगर ने मुझे इस अफवाह का उपहार दे दिया है।"
+      }
+    },
+    {
+      "num": 1143,
+      "line1": "உறாஅதோ வூரறிந்த கௌவை யதனைப்",
+      "line2": "பெறாஅது பெற்றன்ன நீர்த்து.",
+      "enLine1": "The rumour spread within the town, is it not gain to me?",
+      "enLine2": "It is as though that were obtained that may not be.",
+      "hiLine1": "क्या मेरे लायक नहीं, पुरजन-ज्ञात प्रवाह ।",
+      "hiLine2": "प्राप्त किये बिन मिलन तो, हुई प्राप्त सी बात ॥",
+      "general": "ஊரார் அறிந்து பேசும் பழிச்சொல் எனக்குப் பொருத்தமானதல்லவா? அது, அடைய முடியாத காதலியை அடையாமலேயே அடைந்ததைப் போன்ற தன்மையுடையது.",
+      "en": "Is not the rumour known throughout the town a blessing to me? It feels as if I have already won her even before winning her.",
+      "hi": "नगर के लोगों में फैला हुआ यह प्रवाद (चर्चा) क्या मेरे लिए लाभदायक नहीं है? बिना मिलन प्राप्त हुए भी यह मिलन प्राप्त होने के समान ही है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உறாஅதோ <br>(Uraadho)",
+          "ta": "பொருந்தாதோ (நன்மை தராதோ)",
+          "en": "Is it not gain",
+          "hi": "क्या मेरे लायक नहीं"
+        },
+        {
+          "no": 2,
+          "word": "ஊர் அறிந்த <br>(Oor arindha)",
+          "ta": "ஊர் அறிந்த",
+          "en": "Within the town",
+          "hi": "पुरजन-ज्ञात"
+        },
+        {
+          "no": 3,
+          "word": "கௌவை <br>(Kauvai)",
+          "ta": "பழிச்சொல்",
+          "en": "Rumour",
+          "hi": "प्रवाह"
+        },
+        {
+          "no": 4,
+          "word": "அதனை <br>(Adhanai)",
+          "ta": "அவளை",
+          "en": "That",
+          "hi": "मिलन"
+        },
+        {
+          "no": 5,
+          "word": "பெறாஅது <br>(Peraadhu)",
+          "ta": "அடையாமலேயே",
+          "en": "May not be",
+          "hi": "प्राप्त किये बिन"
+        },
+        {
+          "no": 6,
+          "word": "பெற்றன்ன <br>(Petranna)",
+          "ta": "பெற்றது போன்ற",
+          "en": "Were obtained",
+          "hi": "हुई प्राप्त सी"
+        },
+        {
+          "no": 7,
+          "word": "நீர்த்து <br>(Neerththu)",
+          "ta": "தன்மையுடையது",
+          "en": "Is as though",
+          "hi": "बात"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உறாஅதோ வூரறிந்த கௌவை யதனைப்",
+          "line2": "பெறாஅது பெற்றன்ன நீர்த்து."
+        },
+        "en": {
+          "line1": "The rumour spread within the town, is it not gain to me?",
+          "line2": "It is as though that were obtained that may not be."
+        },
+        "hi": {
+          "line1": "क्या मेरे लायक नहीं, पुरजन-ज्ञात प्रवाह ।",
+          "line2": "प्राप्त किये बिन मिलन तो, हुई प्राप्त सी बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uraaadho Voorarindha Kauvai Yadhanaip",
+            "line2": "Peraaadhu Petranna Neerththu."
+          },
+          "hi": {
+            "line1": "उराअदो वूररिन्द गौवै यदनैप्",
+            "line2": "पॆराअदु पॆत्र्रन्न नीर्त्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஊரார் அறிந்து பேசும் பழிச்சொல் எனக்குப் பொருத்தமானதல்லவா? அது, அடைய முடியாத காதலியை அடையாமலேயே அடைந்ததைப் போன்ற தன்மையுடையது.",
+        "en": "All the town talk actually works in my favor—it feels like having her already, even before we've officially united.",
+        "hi": "नगर के लोगों में फैला हुआ यह प्रवाद (चर्चा) क्या मेरे लिए लाभदायक नहीं है? बिना मिलन प्राप्त हुए भी यह मिलन प्राप्त होने के समान ही है।"
+      }
+    },
+    {
+      "num": 1144,
+      "line1": "கவ்வையாற் கவ்விது காம மதுவின்றேற்",
+      "line2": "றவ்வென்னுந் தன்மை யிழந்து.",
+      "enLine1": "The rumour rising makes my love to rise ;",
+      "enLine2": "My love would lose its power and languish otherwise.",
+      "hiLine1": "पुरजन के अपवाद से, बढ़ जाता है काम ।",
+      "hiLine2": "घट जायेगा अन्यथा, खो कर निज गुण-नाम ॥",
+      "general": "ஊராரின் பழிச்சொல்லால் காதல் மேலும் வளர்கிறது; அது இல்லாவிட்டால் காதல் தன் வலிமை குன்றிப் போய்விடும்.",
+      "en": "Love grows stronger through the town's gossip; without it, passion would lose its intensity and fade away.",
+      "hi": "नगर के लोगों के अपवाद (चर्चा) से ही प्रेम और बढ़ जाता है; अन्यथा अपना गुण और नाम खोकर वह घट जाएगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கவ்வையால் <br>(Kavvaiyaal)",
+          "ta": "பழிச்சொல்லால்",
+          "en": "Rumour rising",
+          "hi": "पुरजन के अपवाद से"
+        },
+        {
+          "no": 2,
+          "word": "கவ்விது <br>(Kavvidhu)",
+          "ta": "மேலும் பெருகுவது",
+          "en": "Makes to rise",
+          "hi": "बढ़ जाता है"
+        },
+        {
+          "no": 3,
+          "word": "காமம் <br>(Kaamam)",
+          "ta": "காதல்",
+          "en": "Love",
+          "hi": "काम"
+        },
+        {
+          "no": 4,
+          "word": "அது இன்றேல் <br>(Adhu indrel)",
+          "ta": "அது இல்லாவிட்டால்",
+          "en": "Otherwise",
+          "hi": "अन्यथा"
+        },
+        {
+          "no": 5,
+          "word": "தவ் என்னும் <br>(Thav ennum)",
+          "ta": "சுருங்கிப் போகும்",
+          "en": "Languish",
+          "hi": "घट जायेगा"
+        },
+        {
+          "no": 6,
+          "word": "தன்மை <br>(Thanmai)",
+          "ta": "தன் இயல்பை",
+          "en": "Its power",
+          "hi": "निज गुण-नाम"
+        },
+        {
+          "no": 7,
+          "word": "இழந்து <br>(Izhandhu)",
+          "ta": "இழந்து",
+          "en": "Lose",
+          "hi": "खो कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கவ்வையாற் கவ்விது காம மதுவின்றேற்",
+          "line2": "றவ்வென்னுந் தன்மை யிழந்து."
+        },
+        "en": {
+          "line1": "The rumour rising makes my love to rise ;",
+          "line2": "My love would lose its power and languish otherwise."
+        },
+        "hi": {
+          "line1": "पुरजन के अपवाद से, बढ़ जाता है काम ।",
+          "line2": "घट जायेगा अन्यथा, खो कर निज गुण-नाम ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kavvaiyaar Kavvidhu Kaama Madhuvinrer",
+            "line2": "Ravvennun Thanmai Yizhandhu."
+          },
+          "hi": {
+            "line1": "कव्वैयार् कव्विदु काम मदुविन्द्रेर",
+            "line2": "रव्वॆन्नुन् तन्मै यिऴन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஊராரின் பழிச்சொல்லால் காதல் மேலும் வளர்கிறது; அது இல்லாவிட்டால் காதல் தன் வலிமை குன்றிப் போய்விடும்.",
+        "en": "Gossip actually fuels romance—without a little resistance and talk, the spark would fade.",
+        "hi": "नगर के लोगों के अपवाद (चर्चा) से ही प्रेम और बढ़ जाता है; अन्यथा अपना गुण और नाम खोकर वह घट जाएगा।"
+      }
+    },
+    {
+      "num": 1145,
+      "line1": "களித்தொறுங் கள்ளுண்டல் வேட்டற்றாற் காமம்",
+      "line2": "வெளிப்படுந் தோறு மினிது.",
+      "enLine1": "The more man drinks, the more he ever drunk would be ;",
+      "enLine2": "The more my love's revealed, the sweeter 'tis to me !",
+      "hiLine1": "होते होते मस्त ज्यों, प्रिय लगता मधु-पान ।",
+      "hiLine2": "हो हो प्रकट प्रवाद से, मधुर काम की बान ॥",
+      "general": "மயக்கம் ஏற ஏறக் கள்ளுண்பவர் மேலும் குடிக்க விரும்புவதைப் போல, ஊரார் அறியக் காதல் வெளிப்பட வெளிப்பட மிகவும் இனிமையானதாகும்.",
+      "en": "Just as growing intoxicated makes a drinker crave more wine, the more openly our love becomes known, the sweeter it feels.",
+      "hi": "जिस प्रकार मस्त होते-होते मदिरा का पान और अधिक प्रिय लगता है, उसी प्रकार प्रवाद (चर्चा) से प्रकट होते-होते प्रेम और भी मधुर लगने लगता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "களித்தொறும் <br>(Kaliththorum)",
+          "ta": "மயங்கத் தொடங்கும் தோறும்",
+          "en": "Drunk would be",
+          "hi": "होते होते मस्त"
+        },
+        {
+          "no": 2,
+          "word": "கள் உண்டல் <br>(Kal undal)",
+          "ta": "கள் குடித்தலை",
+          "en": "Man drinks",
+          "hi": "मधु-पान"
+        },
+        {
+          "no": 3,
+          "word": "வேட்டற்றால் <br>(Vettatraal)",
+          "ta": "விரும்புவதைப் போன்றது",
+          "en": "Ever would",
+          "hi": "ज्यों प्रिय लगता"
+        },
+        {
+          "no": 4,
+          "word": "காமம் <br>(Kaamam)",
+          "ta": "காதல்",
+          "en": "My love",
+          "hi": "काम की बान"
+        },
+        {
+          "no": 5,
+          "word": "வெளிப்படுந்தோறும் <br>(Velippadundhorum)",
+          "ta": "வெளிப்படுந்தோறும்",
+          "en": "Revealed",
+          "hi": "हो हो प्रकट प्रवाद से"
+        },
+        {
+          "no": 6,
+          "word": "இனிது <br>(Inidhu)",
+          "ta": "இனிமையானது",
+          "en": "Sweeter 'tis",
+          "hi": "मधुर"
+        },
+        {
+          "no": 7,
+          "word": "இன்பம் <br>(Inbam)",
+          "ta": "இன்பம்",
+          "en": "Sweetness",
+          "hi": "माधुर्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "களித்தொறுங் கள்ளுண்டல் வேட்டற்றாற் காமம்",
+          "line2": "வெளிப்படுந் தோறு மினிது."
+        },
+        "en": {
+          "line1": "The more man drinks, the more he ever drunk would be ;",
+          "line2": "The more my love's revealed, the sweeter 'tis to me !"
+        },
+        "hi": {
+          "line1": "होते होते मस्त ज्यों, प्रिय लगता मधु-पान ।",
+          "line2": "हो हो प्रकट प्रवाद से, मधुर काम की बान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaliththorung Kallundal Vettatraar Kaamam",
+            "line2": "Velippadun Thoru Minidhu."
+          },
+          "hi": {
+            "line1": "कळित्तॊरुङ् गळ्ळुण्डल् वेट्टत्र्रार् कामम्",
+            "line2": "वॆळिप्पडुन् दोरु मिनिदु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மயக்கம் ஏற ஏறக் கள்ளுண்பவர் மேலும் குடிக்க விரும்புவதைப் போல, ஊரார் அறியக் காதல் வெளிப்பட வெளிப்பட மிகவும் இனிமையானதாகும்.",
+        "en": "Like wine that gets more tempting the tipsier you get, love only feels sweeter the more it's out in the open.",
+        "hi": "जिस प्रकार मस्त होते-होते मदिरा का पान और अधिक प्रिय लगता है, उसी प्रकार प्रवाद (चर्चा) से प्रकट होते-होते प्रेम और भी मधुर लगने लगता है।"
+      }
+    },
+    {
+      "num": 1146,
+      "line1": "கண்டது மன்னு மொருநா ளலர்மன்னுந்",
+      "line2": "திங்களைப் பாம்புகொண் டற்று.",
+      "enLine1": "I saw him but one single day : rumour spreads soon",
+      "enLine2": "As darkness, when the dragon seizes on the moon.",
+      "hiLine1": "प्रिय से केवल एक दिन, हुई मिलन की बात ।",
+      "hiLine2": "लेकिन चन्द्रग्रहण सम, व्यापक हुआ प्रवाद ॥",
+      "general": "நான் என் காதலரைக் கண்டது ஒரே ஒரு நாள்தான்; ஆனால் அதைப்பற்றிய அலர் நிலவைப் பாம்பு விழுங்குவதைப் போல எங்கும் பரவிவிட்டது.",
+      "en": "I saw him for only a single day, yet the rumour has spread everywhere, just like a serpent eclipsing the moon.",
+      "hi": "प्रियतम से मेरा मिलन तो केवल एक ही दिन हुआ था, परन्तु उसकी चर्चा चन्द्रग्रहण के समान चारों ओर फैल गई।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கண்டது மன்னும் <br>(Kandadhu mannum)",
+          "ta": "நாம் சந்தித்தது",
+          "en": "I saw him",
+          "hi": "प्रिय से हुई मिलन की बात"
+        },
+        {
+          "no": 2,
+          "word": "ஒரு நாள் <br>(Oru naal)",
+          "ta": "ஒரே ஒரு நாள்தான்",
+          "en": "One single day",
+          "hi": "केवल एक दिन"
+        },
+        {
+          "no": 3,
+          "word": "அலர் மன்னும் <br>(Alar mannum)",
+          "ta": "ஊர் அலரோ",
+          "en": "Rumour spreads",
+          "hi": "व्यापक हुआ प्रवाद"
+        },
+        {
+          "no": 4,
+          "word": "திங்களை <br>(Thingalai)",
+          "ta": "நிலவை",
+          "en": "The moon",
+          "hi": "चन्द्र"
+        },
+        {
+          "no": 5,
+          "word": "பாம்பு <br>(Paambu)",
+          "ta": "பாம்பு (ராகு)",
+          "en": "The dragon",
+          "hi": "ग्रहण"
+        },
+        {
+          "no": 6,
+          "word": "கொண்டற்று <br>(Kondatru)",
+          "ta": "விழுங்கியது போன்றது",
+          "en": "Seizes on",
+          "hi": "सम"
+        },
+        {
+          "no": 7,
+          "word": "பரவுதல் <br>(Paravudhal)",
+          "ta": "பரவுதல்",
+          "en": "Spreading",
+          "hi": "व्यापक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கண்டது மன்னு மொருநா ளலர்மன்னுந்",
+          "line2": "திங்களைப் பாம்புகொண் டற்று."
+        },
+        "en": {
+          "line1": "I saw him but one single day : rumour spreads soon",
+          "line2": "As darkness, when the dragon seizes on the moon."
+        },
+        "hi": {
+          "line1": "प्रिय से केवल एक दिन, हुई मिलन की बात ।",
+          "line2": "लेकिन चन्द्रग्रहण सम, व्यापक हुआ प्रवाद ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kandadhu Mannu Morunaa Lalarmannun",
+            "line2": "Thinggalaip Paambugon Datru."
+          },
+          "hi": {
+            "line1": "कण्डदु मन्नु मॊरुना ळलर्मन्नुन्",
+            "line2": "तिङ्गळैप् पाम्बुकॊण् डत्र्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நான் என் காதலரைக் கண்டது ஒரே ஒரு நாள்தான்; ஆனால் அதைப்பற்றிய அலர் நிலவைப் பாம்பு விழுங்குவதைப் போல எங்கும் பரவிவிட்டது.",
+        "en": "We only met once, yet the gossip spread across town as fast as an eclipse swallowing the moon.",
+        "hi": "प्रियतम से मेरा मिलन तो केवल एक ही दिन हुआ था, परन्तु उसकी चर्चा चन्द्रग्रहण के समान चारों ओर फैल गई।"
+      }
+    },
+    {
+      "num": 1147,
+      "line1": "ஊரவர் கௌவை யெருவாக வன்னைசொன்",
+      "line2": "னீராக நீளுமிந் நோய்.",
+      "enLine1": "My anguish grows apace : the town's report",
+      "enLine2": "Manures it ; my mother's word doth water it.",
+      "hiLine1": "पुरजन-निंदा खाद है, माँ का कटु वच नीर ।",
+      "hiLine2": "इनसे पोषित रोग यह, बढ़ता रहा अधीर ॥",
+      "general": "ஊராரின் பழிச்சொல் உரமாகவும், என் தாயின் கடுஞ்சொல் நீராகவும் இருந்து, என் காதல் நோயை மேலும் வளர்த்துவிடுகின்றன.",
+      "en": "With the village gossip as fertilizer and my mother's scolding words as water, this sickness of love grows taller every day.",
+      "hi": "नगर के लोगों की निन्दा खाद के समान है और माता के कटु वचन जल के समान हैं; इन्हीं दोनों से पोषित होकर यह प्रेम-रोग लगातार बढ़ता जा रहा है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊரவர் கௌவை <br>(Ooravar kauvai)",
+          "ta": "ஊரார் கூறும் பழிச்சொல்",
+          "en": "The town's report",
+          "hi": "पुरजन-निंदा"
+        },
+        {
+          "no": 2,
+          "word": "எருவாக <br>(Eruvaaga)",
+          "ta": "உரமாக",
+          "en": "Manures it",
+          "hi": "खाद है"
+        },
+        {
+          "no": 3,
+          "word": "அன்னை சொல் <br>(Annai sol)",
+          "ta": "தாயின் கடுஞ்சொல்",
+          "en": "My mother's word",
+          "hi": "माँ का कटु वच"
+        },
+        {
+          "no": 4,
+          "word": "நீராக <br>(Neeraaga)",
+          "ta": "நீராக",
+          "en": "Doth water it",
+          "hi": "नीर"
+        },
+        {
+          "no": 5,
+          "word": "நீளும் <br>(Neelum)",
+          "ta": "வளர்கின்றது",
+          "en": "Grows apace",
+          "hi": "बढ़ता रहा"
+        },
+        {
+          "no": 6,
+          "word": "இந்நோய் <br>(Innoy)",
+          "ta": "இந்தக் காதல் நோய்",
+          "en": "My anguish",
+          "hi": "रोग यह"
+        },
+        {
+          "no": 7,
+          "word": "வளர்ச்சி <br>(Valarchchi)",
+          "ta": "வளர்ச்சி",
+          "en": "Growth",
+          "hi": "पोषित"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊரவர் கௌவை யெருவாக வன்னைசொன்",
+          "line2": "னீராக நீளுமிந் நோய்."
+        },
+        "en": {
+          "line1": "My anguish grows apace : the town's report",
+          "line2": "Manures it ; my mother's word doth water it."
+        },
+        "hi": {
+          "line1": "पुरजन-निंदा खाद है, माँ का कटु वच नीर ।",
+          "line2": "इनसे पोषित रोग यह, बढ़ता रहा अधीर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ooravar Kauvai Yeruvaaga Vannaison",
+            "line2": "Neeraaga Neelumin Noy."
+          },
+          "hi": {
+            "line1": "ऊरवर् गव्वै यॆरुवाग वन्नैसॊन्",
+            "line2": "नीराग नीळुमिन् नोय्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஊராரின் பழிச்சொல் உரமாகவும், என் தாயின் கடுஞ்சொல் நீராகவும் இருந்து, என் காதல் நோயை மேலும் வளர்த்துவிடுகின்றன.",
+        "en": "Town gossip is the fertilizer and my mother's scolding is the water—together they only make my love grow faster.",
+        "hi": "नगर के लोगों की निन्दा खाद के समान है और माता के कटु वचन जल के समान हैं; इन्हीं दोनों से पोषित होकर यह प्रेम-रोग लगातार बढ़ता जा रहा है।"
+      }
+    },
+    {
+      "num": 1148,
+      "line1": "நெய்யா லெரிநுதுப்பே மென்றற்றாற் கௌவையாற்",
+      "line2": "காம நுதுப்பே மெனல்.",
+      "enLine1": "With butter-oil extinguish fire ! 'Twill prove",
+      "enLine2": "Harder by scandal to extinguish love.",
+      "hiLine1": "काम-शमन की सोचना, कर अपवाद प्रचार ।",
+      "hiLine2": "अग्नि-शमन घी डाल कर, करना सदृश विचार ॥",
+      "general": "ஊராரின் பழிச்சொல்லால் காதலை அவித்துவிடலாம் என்று நினைப்பது, நெய்யை ஊற்றி நெருப்பை அணைப்போம் என்று சொல்வதைப் போன்றதாகும்.",
+      "en": "Trying to extinguish love through public scandal is just like trying to put out a fire by pouring ghee on it.",
+      "hi": "अपवाद (निन्दा) का प्रचार करके प्रेम को शान्त करने की सोचना ठीक वैसा ही विचार है, जैसे आग में घी डालकर उसे बुझाने की सोचना।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நெய்யால் <br>(Neyyaal)",
+          "ta": "நெய்யினால்",
+          "en": "With butter-oil",
+          "hi": "घी डाल कर"
+        },
+        {
+          "no": 2,
+          "word": "எரி நுதுப்பேம் <br>(Eri nudhuppem)",
+          "ta": "நெருப்பை அணைப்போம்",
+          "en": "Extinguish fire",
+          "hi": "अग्नि-शमन"
+        },
+        {
+          "no": 3,
+          "word": "என்றற்றால் <br>(Endratraal)",
+          "ta": "என்றாற்போன்றது",
+          "en": "'Twill prove",
+          "hi": "सदृश विचार"
+        },
+        {
+          "no": 4,
+          "word": "கௌவையால் <br>(Kauvaiyaal)",
+          "ta": "பழிச்சொல்லால்",
+          "en": "By scandal",
+          "hi": "कर अपवाद प्रचार"
+        },
+        {
+          "no": 5,
+          "word": "காமம் <br>(Kaamam)",
+          "ta": "காதலை",
+          "en": "Love",
+          "hi": "काम"
+        },
+        {
+          "no": 6,
+          "word": "நுதுப்பேம் <br>(Nudhuppem)",
+          "ta": "அழிப்போம்",
+          "en": "Extinguish",
+          "hi": "शमन"
+        },
+        {
+          "no": 7,
+          "word": "எனல் <br>(Enal)",
+          "ta": "என்று கூறுவது",
+          "en": "To think",
+          "hi": "की सोचना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நெய்யா லெரிநுதுப்பே மென்றற்றாற் கௌவையாற்",
+          "line2": "காம நுதுப்பே மெனல்."
+        },
+        "en": {
+          "line1": "With butter-oil extinguish fire ! 'Twill prove",
+          "line2": "Harder by scandal to extinguish love."
+        },
+        "hi": {
+          "line1": "काम-शमन की सोचना, कर अपवाद प्रचार ।",
+          "line2": "अग्नि-शमन घी डाल कर, करना सदृश विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Neyyaa Lerinudhuppe Menratraar Kauvaiyaar",
+            "line2": "Kaama Nudhuppe Menal."
+          },
+          "hi": {
+            "line1": "नॆय्या लॆरिनुदुप्पे मॆन्द्रत्र्रार् कव्वैयार्",
+            "line2": "काम नुदुप्पे मॆनल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஊராரின் பழிச்சொல்லால் காதலை அவித்துவிடலாம் என்று நினைப்பது, நெய்யை ஊற்றி நெருப்பை அணைப்போம் என்று சொல்வதைப் போன்றதாகும்.",
+        "en": "Trying to kill a romance with scandal is like trying to put out a fire by pouring oil on it.",
+        "hi": "अपवाद (निन्दा) का प्रचार करके प्रेम को शान्त करने की सोचना ठीक वैसा ही विचार है, जैसे आग में घी डालकर उसे बुझाने की सोचना।"
+      }
+    },
+    {
+      "num": 1149,
+      "line1": "அலர்நாண வொல்வதோ வஞ்சலோ மென்றார்",
+      "line2": "பலர்நாண நீத்தக் கடை.",
+      "enLine1": "When he who said 'Fear not !' hath left me blamed,",
+      "enLine2": "While many shrink, can I from rumour hide ashamed ?",
+      "hiLine1": "अपवादों से क्यों डरूँ, जब कर अभय प्रदान ।",
+      "hiLine2": "सब को लज्जित कर गये, छोड़ मुझे प्रिय प्राण ॥",
+      "general": "'அஞ்சாதே' என்று உறுதி கூறிய என் காதலர், பலரும் நாணும்படியாக என்னைப் பிரிந்து சென்றுவிட்டபோது, நான் மட்டும் ஊர் அலருக்கு நாண முடியுமா?",
+      "en": "When the one who promised 'Do not fear' has left me behind, putting everyone to shame, how can I still feel ashamed of mere rumour?",
+      "hi": "जब 'डरो मत' ऐसा अभयदान देने वाले मेरे प्रियतम ही सबको लज्जित करके मुझे छोड़कर चले गए, तब मैं इन अपवादों (चर्चाओं) से भला क्यों डरूँ?",
+      "words": [
+        {
+          "no": 1,
+          "word": "அலர் நாண <br>(Alar naana)",
+          "ta": "ஊர் பழிக்கு நாண",
+          "en": "From rumour ashamed",
+          "hi": "अपवादों से"
+        },
+        {
+          "no": 2,
+          "word": "ஒல்வதோ <br>(Olvadho)",
+          "ta": "பொருந்துமோ",
+          "en": "Can I",
+          "hi": "क्यों डरूँ"
+        },
+        {
+          "no": 3,
+          "word": "அஞ்சல் ஓம் <br>(Anjal om)",
+          "ta": "அஞ்சாதே என்று",
+          "en": "'Fear not!'",
+          "hi": "कर अभय प्रदान"
+        },
+        {
+          "no": 4,
+          "word": "என்றார் <br>(Endraar)",
+          "ta": "கூறியவர்",
+          "en": "He who said",
+          "hi": "प्रिय प्राण"
+        },
+        {
+          "no": 5,
+          "word": "பலர் நாண <br>(Palar naana)",
+          "ta": "பலரும் நாணும்படி",
+          "en": "While many shrink",
+          "hi": "सब को लज्जित कर"
+        },
+        {
+          "no": 6,
+          "word": "நீத்தக்கடை <br>(Neeththakkadai)",
+          "ta": "பிரிந்து சென்றபின்",
+          "en": "Hath left me",
+          "hi": "गये छोड़ मुझे"
+        },
+        {
+          "no": 7,
+          "word": "துயர் <br>(Thuyar)",
+          "ta": "துயர்",
+          "en": "Sorrow",
+          "hi": "दुःख"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அலர்நாண வொல்வதோ வஞ்சலோ மென்றார்",
+          "line2": "பலர்நாண நீத்தக் கடை."
+        },
+        "en": {
+          "line1": "When he who said 'Fear not !' hath left me blamed,",
+          "line2": "While many shrink, can I from rumour hide ashamed ?"
+        },
+        "hi": {
+          "line1": "अपवादों से क्यों डरूँ, जब कर अभय प्रदान ।",
+          "line2": "सब को लज्जित कर गये, छोड़ मुझे प्रिय प्राण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Alarnaana Volvadho Vanjalo Menraar",
+            "line2": "Palarnaana Neeththak Kadai."
+          },
+          "hi": {
+            "line1": "अलर्नाण वॊल्वदो वञ्जलो मॆन्द्रार्",
+            "line2": "पलर्नाण नीत्तक् कडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'அஞ்சாதே' என்று உறுதி கூறிய என் காதலர், பலரும் நாணும்படியாக என்னைப் பிரிந்து சென்றுவிட்டபோது, நான் மட்டும் ஊர் அலருக்கு நாண முடியுமா?",
+        "en": "Why should I care about town gossip now, when the very person who told me 'don't be afraid' left me behind?",
+        "hi": "जब 'डरो मत' ऐसा अभयदान देने वाले मेरे प्रियतम ही सबको लज्जित करके मुझे छोड़कर चले गए, तब मैं इन अपवादों (चर्चाओं) से भला क्यों डरूँ?"
+      }
+    },
+    {
+      "num": 1150,
+      "line1": "தாம்வேண்டி னல்குவர் காதலர் யாம்வேண்டுங்",
+      "line2": "கௌவை யெடுக்குமிவ் வூர்.",
+      "enLine1": "If we desire, who loves will grant what we require ;",
+      "enLine2": "This town sends forth the rumour we desire !",
+      "hiLine1": "निज वांछित अपवाद का, पुर कर रहा प्रचार ।",
+      "hiLine2": "चाहूँ तो प्रिय नाथ भी, कर देंगे उपकार ॥",
+      "general": "நாம் விரும்பினால் என் காதலர் விரைவில் திருமணம் செய்து அருள்வார்; அதற்காகவே நாம் விரும்பும் பழிச்சொல்லை இவ்வூர் தானே எடுத்துப் பரப்புகிறது.",
+      "en": "If we wish, my beloved will grant our union; meanwhile, this town obligingly spreads the very rumour we want!",
+      "hi": "यह नगर तो स्वयं ही मेरे इच्छित अपवाद (चर्चा) का प्रचार कर रहा है, और यदि मैं चाहूँ तो मेरे प्रिय नाथ भी आकर मेरा मनोरथ पूरा कर देंगे।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தாம் வேண்டின் <br>(Thaam vendin)",
+          "ta": "நாம் விரும்பினால்",
+          "en": "If we desire",
+          "hi": "चाहूँ तो"
+        },
+        {
+          "no": 2,
+          "word": "நல்குவர் <br>(Nalguvar)",
+          "ta": "விரைவில் அருள்வார்",
+          "en": "Will grant",
+          "hi": "कर देंगे उपकार"
+        },
+        {
+          "no": 3,
+          "word": "காதலர் <br>(Kaadhalar)",
+          "ta": "என் காதலர்",
+          "en": "Who loves",
+          "hi": "प्रिय नाथ भी"
+        },
+        {
+          "no": 4,
+          "word": "யாம் வேண்டும் <br>(Yaam vendum)",
+          "ta": "நாம் விரும்பும்",
+          "en": "We desire",
+          "hi": "निज वांछित"
+        },
+        {
+          "no": 5,
+          "word": "கௌவை <br>(Kauvai)",
+          "ta": "பழிச்சொல்லை",
+          "en": "The rumour",
+          "hi": "अपवाद का"
+        },
+        {
+          "no": 6,
+          "word": "எடுக்கும் <br>(Edukkum)",
+          "ta": "எடுத்துப் பரப்புகிறது",
+          "en": "Sends forth",
+          "hi": "कर रहा प्रचार"
+        },
+        {
+          "no": 7,
+          "word": "இவ்வூர் <br>(Ivvoor)",
+          "ta": "இந்த ஊர்",
+          "en": "This town",
+          "hi": "पुर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தாம்வேண்டி னல்குவர் காதலர் யாம்வேண்டுங்",
+          "line2": "கௌவை யெடுக்குமிவ் வூர்."
+        },
+        "en": {
+          "line1": "If we desire, who loves will grant what we require ;",
+          "line2": "This town sends forth the rumour we desire !"
+        },
+        "hi": {
+          "line1": "निज वांछित अपवाद का, पुर कर रहा प्रचार ।",
+          "line2": "चाहूँ तो प्रिय नाथ भी, कर देंगे उपकार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thaamvendi Nalkuvar Kaadhalar Yaamvendung",
+            "line2": "Kauvai Yedukkumiv Voor."
+          },
+          "hi": {
+            "line1": "ताम्वेण्डि नल्गुवर् कादलर् याम्वेण्डुङ्",
+            "line2": "गव्वै यॆडुक्कुमिव् वूर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நாம் விரும்பினால் என் காதலர் விரைவில் திருமணம் செய்து அருள்வார்; அதற்காகவே நாம் விரும்பும் பழிச்சொல்லை இவ்வூர் தானே எடுத்துப் பரப்புகிறது.",
+        "en": "The whole town is spreading the exact rumour we wanted anyway—and whenever I'm ready, my love will make it official.",
+        "hi": "यह नगर तो स्वयं ही मेरे इच्छित अपवाद (चर्चा) का प्रचार कर रहा है, और यदि मैं चाहूँ तो मेरे प्रिय नाथ भी आकर मेरा मनोरथ पूरा कर देंगे।"
+      }
+    }
+  ]
+}

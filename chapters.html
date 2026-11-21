@@ -1,0 +1,1769 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+<!-- ==========================================================================
+     DAILY-KURAL: GitHub Pages Edition (Chapters 1 to 133)
+- Deployed from Private Repo (Thirukural-World/Thirukural-world-Chapters)
+  to Public GitHub Pages (thirukural-world.github.io)
+- Complete 133-Chapter Directory in Tamil, English, and Hindi
+- Fast Browser/PWA Caching with Relative JSON Paths
+     ========================================================================== -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+<meta name="application-name" content="Daily-Kural">
+<meta name="description" content="திருக்குறள் - முழுமையான தொகுப்பு (Thirukkural Chapters Viewer)">
+<meta name="theme-color" content="#263b50">
+<link rel="manifest" href="./manifest.json">
+<title>Daily-Kural | திருக்குறள் - அதிகாரங்கள் (Chapters 1–133)</title>
+
+<!-- GOOGLE FONTS FOR NOTO SERIF TAMIL & TIRO DEVANAGARI HINDI -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Tamil:ital,wght@0,400;0,600;0,700;1,400&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+
+<style>
+@font-face {
+  font-family: 'Vijaya';
+  src: local('Vijaya'), local('Vijaya Regular'), local('Vijaya-Regular');
+  font-display: swap;
+}
+
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  max-width: 100vw !important;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  background-color: #faf6ee;
+  font-family: 'Vijaya', 'Noto Serif Tamil', Georgia, serif !important;
+  color: #332619;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+  font-family: 'Vijaya', 'Noto Serif Tamil', Georgia, serif;
+}
+
+.kural-hi-script,
+[data-lang="hi"],
+.kural-word-table td:nth-child(5) {
+  font-family: 'Tiro Devanagari Hindi', serif !important;
+}
+
+.daily-kural-container {
+  max-width: 850px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 16px 14px 40px 14px;
+  box-sizing: border-box;
+}
+
+/* TOP ACTION BAR: CLEAN VERTICAL STACK FOR LABEL & DROPDOWN */
+.top-action-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin-bottom: 18px;
+  padding-bottom: 12px;
+  border-bottom: 1px dashed #dfcba5;
+  width: 100%;
+}
+
+.chapter-selector-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  width: 100%;
+}
+
+.top-label-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.chapter-label {
+  font-size: 16px;
+  font-weight: bold;
+  color: #c26100;
+  display: block;
+  letter-spacing: 0.5px;
+}
+
+/* STANDALONE GITHUB LANGUAGE SWITCHER PILL */
+.lang-switch-pill {
+  background: #fff8eb;
+  color: #c26100;
+  border: 1.5px solid #dfcba5;
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 5px rgba(217, 119, 6, 0.08);
+}
+
+.lang-switch-pill:hover {
+  background: #c26100;
+  color: #ffffff;
+  border-color: #c26100;
+}
+
+.chapter-dropdown {
+  width: 100%;
+  max-width: 100%;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1.5px solid #dfcba5;
+  background: #fff8eb;
+  font-size: 16px;
+  font-weight: bold;
+  color: #c26100;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 0 2px 6px rgba(217, 119, 6, 0.05);
+  box-sizing: border-box;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.chapter-dropdown:focus {
+  border-color: #c26100;
+  box-shadow: 0 0 0 2px rgba(194, 97, 0, 0.2);
+}
+
+/* KURAL LIST CARDS */
+.kural-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  width: 100%;
+}
+
+.kural-list-item {
+  background: #fffdfa;
+  border: 1.5px solid #dfcba5;
+  border-radius: 12px;
+  padding: 14px 16px 10px 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(217, 119, 6, 0.06);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  user-select: none;
+}
+
+.kural-list-item:hover {
+  transform: translateY(-2px);
+  border-color: #c26100;
+  box-shadow: 0 6px 16px rgba(217, 119, 6, 0.12);
+}
+
+.kural-item-text {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.kural-line-1,
+.kural-line-2 {
+  display: block;
+  width: 100%;
+  font-weight: bold;
+  color: #1a1208;
+  font-size: 22px;
+  line-height: 1.6;
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+.kural-item-footer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-top: 10px;
+  padding-top: 6px;
+  border-top: 1px dashed #ebd9b5;
+}
+
+.kural-heart-icon {
+  font-size: 15px;
+  color: #dfcba5;
+  transition: color 0.2s;
+}
+
+.kural-heart-icon.is-fav {
+  color: #e53935 !important;
+}
+
+.kural-item-num {
+  font-weight: bold;
+  color: #c26100;
+  font-size: 16px;
+}
+
+/* CHAPTER BOTTOM NAVIGATION */
+.chapter-bottom-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 25px;
+  padding-top: 16px;
+  border-top: 1px dashed #dfcba5;
+  gap: 12px;
+}
+
+.chapter-nav-btn {
+  background: #c26100;
+  color: #ffffff !important;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 22px;
+  border-radius: 25px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 4px 10px rgba(194, 97, 0, 0.25);
+  transition: background 0.2s, transform 0.15s;
+  user-select: none;
+}
+
+.chapter-nav-btn:hover {
+  background: #a34e00;
+  transform: translateY(-2px);
+}
+
+.chapter-nav-btn.prev-btn {
+  background: #332619;
+}
+
+.chapter-nav-btn.prev-btn:hover {
+  background: #1a1208;
+}
+
+/* POPUP MODAL STYLES */
+.modal-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.65);
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+  padding: 14px;
+}
+
+.modal-overlay.active {
+  display: flex;
+}
+
+.modal-content {
+  background-color: #fffdfa;
+  max-width: 720px;
+  width: 100%;
+  max-height: 90vh;
+  border-radius: 14px;
+  overflow-y: auto;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #dfcba5;
+}
+
+.modal-close-btn {
+  position: absolute;
+  top: 8px;
+  right: 14px;
+  font-size: 28px;
+  font-weight: bold;
+  color: #c26100;
+  cursor: pointer;
+  z-index: 10;
+  border: none;
+  background: transparent;
+  line-height: 1;
+}
+
+.modal-kural-header-box {
+  background: #fff8eb;
+  padding: 24px 18px 14px 18px;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  border-bottom: 1px solid #ebd9b5;
+}
+
+.modal-kural-no {
+  font-size: 19px;
+  font-weight: bold;
+  color: #c26100;
+  margin-bottom: 6px;
+}
+
+.modal-kural-text {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.modal-kural-text .kural-line-1,
+.modal-kural-text .kural-line-2 {
+  font-size: 20px;
+  color: #2b1f0d;
+}
+
+/* METADATA GRID */
+.modal-meta-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 3px;
+  margin-top: 14px;
+  text-align: right;
+  font-size: 16px;
+}
+
+.modal-meta-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.modal-meta-item .meta-label {
+  color: #8c6d48;
+}
+
+.modal-meta-item .meta-val {
+  font-weight: bold;
+  color: #c26100;
+}
+
+/* SHARE & ACTION BAR INSIDE MODAL */
+.modal-share-bar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 8px 18px;
+  background: #fdf5e6;
+  border-bottom: 1px dashed #ebd9b5;
+  gap: 10px;
+}
+
+.modal-share-icons {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.share-icon-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.15s ease, opacity 0.2s ease;
+  padding: 0;
+  line-height: 1;
+}
+
+.share-icon-btn:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
+.share-icon-btn svg {
+  width: 18px;
+  height: 18px;
+  fill: #ffffff;
+}
+
+/* CIRCULAR SCRIPT TOGGLE BUTTON */
+.btn-translit-circle {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: #fff8eb;
+  color: #c26100;
+  border: 1.5px solid #c26100;
+  font-size: 17px;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(194, 97, 0, 0.15);
+  transition: all 0.2s ease;
+  user-select: none;
+  line-height: 1;
+}
+
+.btn-translit-circle:hover {
+  background: #c26100;
+  color: #ffffff;
+  transform: scale(1.06);
+}
+
+.btn-card { background-color: #c26100; font-size: 18px; }
+.btn-wa { background-color: #25D366; }
+.btn-x { background-color: #000000; }
+.btn-fb { background-color: #1877F2; }
+.btn-insta { 
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); 
+}
+
+.modal-body {
+  padding: 16px 18px 75px 18px;
+}
+
+.scholar-title {
+  color: #c26100;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 14px;
+  margin-bottom: 6px;
+}
+
+.scholar-desc {
+  color: #332619;
+  font-size: 17px;
+  line-height: 1.7;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.table-responsive-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  margin: 16px 0 35px 0;
+  border-radius: 8px;
+  border: 1px solid #dfcba5;
+  box-shadow: 0 2px 8px rgba(217, 119, 6, 0.05);
+}
+
+.kural-word-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 15px;
+  background: #fffdfa;
+}
+
+.kural-word-table th {
+  background: #fff8eb;
+  color: #c26100;
+  padding: 10px 8px;
+  border: 1px solid #dfcba5;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.kural-word-table td {
+  padding: 8px;
+  border: 1px solid #ebd9b5;
+  color: #332619;
+  vertical-align: middle;
+}
+
+.kural-word-table tr:nth-child(even) { background-color: #ffffff; }
+.kural-word-table tr:nth-child(odd) { background-color: #fffdfa; }
+
+.kural-word-table td.col-sno {
+  text-align: center;
+  font-weight: bold;
+  color: #c26100;
+  width: 45px;
+}
+
+.kural-word-table td.col-word {
+  font-weight: bold;
+  color: #1a1208;
+}
+
+.modal-footer-nav {
+  position: sticky;
+  bottom: 0;
+  background: linear-gradient(to top, rgba(255, 253, 250, 1) 75%, rgba(255, 253, 250, 0));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 12px 0 16px 0;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+}
+
+.nav-circle-btn {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  background-color: #332619;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  cursor: pointer;
+  transition: transform 0.15s, background-color 0.2s;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.18);
+}
+
+.nav-circle-btn.teal { background-color: #c26100; }
+.nav-circle-btn.fav-active { color: #e53935 !important; }
+
+.choice-modal-content {
+  background-color: #fffdfa;
+  max-width: 360px;
+  width: 90%;
+  border-radius: 16px;
+  padding: 22px 20px 24px 20px;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.35);
+  border: 1.5px solid #dfcba5;
+  text-align: center;
+  position: relative;
+  z-index: 10005;
+}
+
+.choice-title { font-size: 20px; font-weight: bold; color: #c26100; margin-bottom: 8px; }
+.choice-desc { font-size: 15px; color: #6a5338; margin-bottom: 20px; line-height: 1.4; }
+.choice-btn-group { display: flex; flex-direction: column; gap: 12px; }
+
+.choice-action-btn {
+  width: 100%;
+  padding: 11px 16px;
+  border-radius: 25px;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: transform 0.15s, opacity 0.2s;
+}
+
+.choice-action-btn:hover { transform: translateY(-2px); opacity: 0.93; }
+.choice-btn-download { background: #332619; color: #ffffff; }
+.choice-btn-share { background: #c26100; color: #ffffff; }
+
+@media screen and (max-width: 768px) {
+  .daily-kural-container { padding: 10px 8px 30px 8px; }
+  .chapter-label { font-size: 15px; }
+  .chapter-dropdown { padding: 9px 12px; font-size: 15px; }
+  .kural-list-item { padding: 12px 12px 8px 12px; }
+  .kural-line-1, .kural-line-2 { font-size: 15px !important; line-height: 1.55 !important; }
+  .kural-item-num { font-size: 13px !important; }
+  .kural-heart-icon { font-size: 12px !important; }
+  .kural-word-table th, .kural-word-table td { font-size: 13px; padding: 6px 5px; }
+}
+</style>
+</head>
+<body>
+<script src="layout.js"></script>
+
+<div class="daily-kural-container">
+
+  <!-- TOP ACTION BAR: LABEL + LANGUAGE SWITCHER DIRECTLY ABOVE THE DROPDOWN -->
+  <div class="top-action-bar">
+    <div class="chapter-selector-wrapper">
+      <div class="top-label-row">
+        <label for="chapterDropdown" class="chapter-label" id="labelAdhikaram">அதிகாரம்:</label>
+        <button type="button" class="lang-switch-pill" id="githubLangToggleBtn" onclick="cycleCentralizedTranslation()" title="Switch Language (தமிழ் / English / हिंदी)">
+          文A <span id="langBadgeText">தமிழ்</span>
+        </button>
+      </div>
+      <select id="chapterDropdown" class="chapter-dropdown" onchange="onChapterSelectChange(this.value)">
+        <!-- Dynamic Chapter Options (Chapters 1 to 133 in TA / EN / HI) -->
+      </select>
+    </div>
+  </div>
+
+  <!-- KURAL LIST CONTAINER -->
+  <div class="kural-list" id="kuralListContainer">
+    <div style="text-align:center; padding: 30px; font-weight:bold; color:#c26100;">குறள்கள் ஏற்றப்படுகின்றன...</div>
+  </div>
+
+  <!-- CHAPTER BOTTOM NAVIGATION WITH STRICT BOUNDARY RULES -->
+  <div class="chapter-bottom-nav">
+    <a class="chapter-nav-btn prev-btn" id="prevChapterBtn" href="#" onclick="navigateChapter(-1); return false;">
+      <span id="prevNavText">⬅ முந்தைய அதிகாரம்</span>
+    </a>
+    <a class="chapter-nav-btn" id="nextChapterBtn" href="#" onclick="navigateChapter(1); return false;">
+      <span id="nextNavText">அடுத்த அதிகாரம் ➔</span>
+    </a>
+  </div>
+
+</div>
+
+<!-- MODAL 1: KURAL DETAIL (CARD VIEW) -->
+<div class="modal-overlay" id="kuralModal" onclick="closeModalOnBg(event, 'kuralModal')">
+  <div class="modal-content">
+    <button class="modal-close-btn" onclick="closeModal('kuralModal')" type="button">&times;</button>
+
+    <div class="modal-kural-header-box">
+      <div class="modal-kural-no" id="modalKuralNo"></div>
+      <div class="modal-kural-text" id="modalKuralText"></div>
+
+      <!-- METADATA GRID: DYNAMIC LABELS AND VALUES -->
+      <div class="modal-meta-grid">
+        <div class="modal-meta-item">
+          <span class="meta-label" id="metaAdhikaramLabel">அதிகாரம் :</span>
+          <span class="meta-val" id="metaAdhikaramVal">---</span>
+        </div>
+        <div class="modal-meta-item">
+          <span class="meta-label" id="metaPaalLabel">பால் :</span>
+          <span class="meta-val" id="metaPaalVal">---</span>
+        </div>
+        <div class="modal-meta-item">
+          <span class="meta-label" id="metaIyalLabel">இயல் :</span>
+          <span class="meta-val" id="metaIyalVal">---</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- ACTION & SHARE BAR INSIDE KURAL MODAL -->
+    <div class="modal-share-bar">
+      <div class="modal-share-icons">
+        <!-- Circular 3-Way Script Transliteration Toggle Button -->
+        <button class="btn-translit-circle" id="modalTranslitBtn" onclick="cycleModalTransliteration()" title="Switch Script (தமிழ் / English / हिंदी)" type="button">
+          அ
+        </button>
+
+        <button class="share-icon-btn btn-card" onclick="openCardChoiceModal()" title="அட்டைப் படம்" type="button">
+          <span>📜</span>
+        </button>
+        <button class="share-icon-btn btn-wa" onclick="shareToWhatsApp()" title="WhatsApp" type="button">
+          <svg viewBox="0 0 24 24"><path d="M12.031 2C6.495 2 2 6.494 2 12.029c0 1.97.57 3.81 1.554 5.374L2.086 22l4.78-1.442a9.98 9.98 0 0 0 5.165 1.47h.005c5.533 0 10.028-4.494 10.028-10.029C22.064 6.494 17.568 2 12.031 2zm5.836 14.18c-.244.686-1.42 1.309-1.954 1.393-.497.078-1.127.112-3.238-.763-2.544-1.054-4.175-3.649-4.301-3.818-.124-.17-1.026-1.365-1.026-2.604 0-1.238.647-1.849.878-2.102.23-.254.505-.318.673-.318.17 0 .34.002.488.01.159.008.371-.06.58.442.213.51.724 1.767.787 1.895.063.128.106.277.021.446-.084.17-.127.276-.254.425-.128.149-.268.332-.383.446-.128.128-.261.267-.113.522.148.255.659 1.087 1.413 1.758.97.863 1.789 1.13 2.044 1.257.255.127.404.106.552-.064.15-.17.638-.744.808-1.001.17-.255.34-.213.574-.128.234.085 1.488.701 1.743.829.255.128.425.191.488.298.064.106.064.616-.18 1.302z"/></svg>
+        </button>
+        <button class="share-icon-btn btn-x" onclick="shareToX()" title="X" type="button">
+          <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        </button>
+        <button class="share-icon-btn btn-fb" onclick="shareToFacebook()" title="Facebook" type="button">
+          <svg viewBox="0 0 24 24"><path d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.704 0-1.23.111-1.578.333-.348.222-.522.639-.522 1.252v2.395h4.43l-.7 3.667h-3.73v7.98H9.101z"/></svg>
+        </button>
+        <button class="share-icon-btn btn-insta" onclick="shareToInstagram()" title="Instagram" type="button">
+          <svg viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- MODAL BODY: DYNAMIC EXPLANATION IN SELECTED LANGUAGE + VOCABULARY TABLE -->
+    <div class="modal-body">
+      <div id="modalExplanationContainer">
+        <div class="scholar-title" id="modalExplanationTitle">தமிழ் விளக்கம்</div>
+        <p class="scholar-desc" id="modalExplanationText"></p>
+      </div>
+
+      <!-- DYNAMIC VOCABULARY BREAKDOWN TITLE -->
+      <div class="scholar-title" id="modalVocabHeading">சொல்-பொருள் விளக்கம் (Vocabulary Breakdown)</div>
+      <div class="table-responsive-wrapper">
+        <table class="kural-word-table">
+          <thead>
+            <tr>
+              <th style="width: 45px; text-align: center;">வ.எண்</th>
+              <th>சொல் (Word)</th>
+              <th>தமிழ் பொருள்</th>
+              <th>English Meaning</th>
+              <th>हिन्दी अर्थ</th>
+            </tr>
+          </thead>
+          <tbody id="modalWordTableBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="modal-footer-nav">
+      <button class="nav-circle-btn" onclick="prevKural()" title="முந்தைய குறள்" type="button">←</button>
+      <button class="nav-circle-btn teal" id="modalFavHeartBtn" onclick="toggleCurrentFavorite()" title="விருப்பம்" type="button">♥</button>
+      <button class="nav-circle-btn teal" onclick="nextKural()" title="அடுத்த குறள்" type="button">→</button>
+    </div>
+  </div>
+</div>
+
+<!-- MODAL 2: CARD CHOICE POPUP -->
+<div class="modal-overlay" id="cardChoiceModal" onclick="closeModalOnBg(event, 'cardChoiceModal')">
+  <div class="choice-modal-content">
+    <button class="modal-close-btn" onclick="closeModal('cardChoiceModal')" type="button">&times;</button>
+    <div class="choice-title">📜 குறள் அட்டைப் படம்</div>
+    <div class="choice-desc">அட்டைப் படத்தைப் பதிவிறக்க விரும்புகிறீர்களா அல்லது பிற செயலிகளில் பகிர விரும்புகிறீர்களா?</div>
+    <div class="choice-btn-group">
+      <button class="choice-action-btn choice-btn-download" onclick="triggerCardDownloadOnly()" type="button">
+        <span>📥</span> பதிவிறக்கம் (Download)
+      </button>
+      <button class="choice-action-btn choice-btn-share" onclick="triggerCardNativeShareOnly()" type="button">
+        <span>📤</span> பகிர்க (Share Card)
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+// Universal Double-Decoding UTF-8 & HTML Entity Resolver
+function decodeHtml(html) {
+  if (!html) return '';
+  var txt = document.createElement("textarea");
+  txt.innerHTML = html;
+  var decoded = txt.value;
+  if (decoded.indexOf('&') !== -1) {
+    txt.innerHTML = decoded;
+    decoded = txt.value;
+  }
+  return decoded;
+}
+
+// Dynamic Site URL for GitHub Pages (thirukural-world.github.io)
+function getSiteBaseUrl() {
+  if (window.location.protocol.startsWith('http')) {
+    return window.location.origin + window.location.pathname;
+  }
+  return 'https://thirukural-world.github.io';
+}
+
+// Global UI State
+let translationLang = localStorage.getItem('daily_kural_lang') || 'ta';
+let transliterationScript = 'ta';
+let currentChapter = 1;
+let kuralsData = [];
+let currentIndex = 0;
+let currentChapterMeta = {
+  nameTa: "", nameEn: "", nameHi: "",
+  paalTa: "", paalEn: "", paalHi: "",
+  iyalTa: "", iyalEn: "", iyalHi: ""
+};
+
+/* ==========================================================================
+   COMPLETE 133-CHAPTER DIRECTORY IN TAMIL, ENGLISH & HINDI
+   ========================================================================== */
+const chaptersDirectory = [
+  /* ARAM (1 - 38) */
+  {no: 1, ta: "கடவுள் வாழ்த்து", en: "The Praise of God", hi: "ईश्वर-स्तुति"},
+  {no: 2, ta: "வான் சிறப்பு", en: "The Excellence of Rain", hi: "वर्षा-महत्व"},
+  {no: 3, ta: "நீத்தார் பெருமை", en: "The Greatness of Ascetics", hi: "सन्यासी-महिमा"},
+  {no: 4, ta: "அறன் வலியுறுத்தல்", en: "The Assertion of Virtue's Power", hi: "धर्म पर आग्रह"},
+  {no: 5, ta: "இல்வாழ்க்கை", en: "Domestic Life", hi: "गार्हस्थ्य"},
+  {no: 6, ta: "வாழ்க்கைத் துணைநலம்", en: "The Worth of a Wife", hi: "सहधर्मिणी"},
+  {no: 7, ta: "மக்கட்பேறு", en: "The Wealth of Children", hi: "संतान-लाभ"},
+  {no: 8, ta: "அன்புடைமை", en: "Possession of Love", hi: "प्रेम-भाव"},
+  {no: 9, ta: "விருந்தோம்பல்", en: "Hospitality", hi: "अतिथि-सत्कार"},
+  {no: 10, ta: "இனியவை கூறல்", en: "Pleasant Speech", hi: "मधुर-भाषण"},
+  {no: 11, ta: "செய்ந்நன்றியறிதல்", en: "Gratitude", hi: "कृतज्ञता"},
+  {no: 12, ta: "நடுவுநிலைமை", en: "Impartiality", hi: "मध्यस्थता"},
+  {no: 13, ta: "அடக்கமுடைமை", en: "Self-Control", hi: "संयमशीलता"},
+  {no: 14, ta: "ஒழுக்கமுடைமை", en: "Right Conduct", hi: "आचारशीलता"},
+  {no: 15, ta: "பிறனில் விழையாமை", en: "Not Coveting Another's Wife", hi: "परदार-विरति"},
+  {no: 16, ta: "பொறையுடைமை", en: "Forgiveness", hi: "क्षमाशीलता"},
+  {no: 17, ta: "அழுக்காறாமை", en: "Avoidance of Envy", hi: "अनसूयता"},
+  {no: 18, ta: "வெஃகாமை", en: "Not Coveting", hi: "निर्लोभता"},
+  {no: 19, ta: "புறங்கூறாமை", en: "Not Backbiting", hi: "अपिशुनता"},
+  {no: 20, ta: "பயனில சொல்லாமை", en: "Against Vain Speech", hi: "वृथालाप-निषेध"},
+  {no: 21, ta: "தீவினையச்சம்", en: "Dread of Evil Deeds", hi: "पाप-भीरुता"},
+  {no: 22, ta: "ஒப்புரவறிதல்", en: "Duty to Society", hi: "लोकोपकारिता"},
+  {no: 23, ta: "ஈகை", en: "Charity", hi: "दान"},
+  {no: 24, ta: "புகழ்", en: "Renown", hi: "कीर्ति"},
+  {no: 25, ta: "அருளுடைமை", en: "Compassion", hi: "दयालुता"},
+  {no: 26, ta: "புலால் மறுத்தல்", en: "Abstinence from Flesh", hi: "माँस-वर्जन"},
+  {no: 27, ta: "தவம்", en: "Penance", hi: "तप"},
+  {no: 28, ta: "கூடாவொழுக்கம்", en: "Imposture", hi: "मिथ्याचार"},
+  {no: 29, ta: "கள்ளாமை", en: "Absence of Fraud", hi: "अस्तेय"},
+  {no: 30, ta: "வாய்மை", en: "Veracity", hi: "सत्य"},
+  {no: 31, ta: "வெகுளாமை", en: "Restraining Anger", hi: "अक्रोध"},
+  {no: 32, ta: "இன்னா செய்யாமை", en: "Non-Injury", hi: "अहिंसा"},
+  {no: 33, ta: "கொல்லாமை", en: "Non-Killing", hi: "वध-निषेध"},
+  {no: 34, ta: "நிலையாமை", en: "Instability", hi: "अनित्यता"},
+  {no: 35, ta: "துறவு", en: "Renunciation", hi: "संन्यास"},
+  {no: 36, ta: "மெய்யுணர்தல்", en: "Truth-Consciousness", hi: "तत्वज्ञान"},
+  {no: 37, ta: "அவாவறுத்தல்", en: "Extirpation of Desire", hi: "तृष्णा का उन्मूलन"},
+  {no: 38, ta: "ஊழ்", en: "Destiny", hi: "प्रारब्ध"},
+
+  /* PORUL (39 - 108) */
+  {no: 39, ta: "இறைமாட்சி", en: "The Greatness of a King", hi: "राजा की महानता"},
+  {no: 40, ta: "கல்வி", en: "Learning", hi: "विद्या / शिक्षा"},
+  {no: 41, ta: "கல்லாமை", en: "Ignorance", hi: "अविद्या / अशिक्षा"},
+  {no: 42, ta: "கேள்வி", en: "Listening", hi: "श्रवण ज्ञान"},
+  {no: 43, ta: "அறிவுடைமை", en: "The Possession of Wisdom", hi: "बुद्धिमत्ता"},
+  {no: 44, ta: "குற்றங்கடிதல்", en: "The Correction of Faults", hi: "दोष निवारण"},
+  {no: 45, ta: "பெரியாரைத் துணைக்கோடல்", en: "Seeking the Aid of Great Men", hi: "महापुरुषों का साथ"},
+  {no: 46, ta: "சிற்றினஞ்சேராமை", en: "Avoiding Mean Company", hi: "कुसंगति त्याग"},
+  {no: 47, ta: "தெரிந்துசெயல்வகை", en: "Deliberation before Action", hi: "विचार कर कार्य करना"},
+  {no: 48, ta: "வலியறிதல்", en: "Judging Strength", hi: "शक्ति का आंकलन"},
+  {no: 49, ta: "காலமறிதல்", en: "Knowing the Fitting Time", hi: "समय की पहचान"},
+  {no: 50, ta: "இடனறிதல்", en: "Knowing the Place", hi: "स्थान की पहचान"},
+  {no: 51, ta: "தெரிந்துதெளிதல்", en: "Testing of Men for Confidence", hi: "परख कर विश्वास करना"},
+  {no: 52, ta: "தெரிந்துவினையாடல்", en: "Testing and Employment of Men", hi: "योग्य व्यक्तियों को कार्य सौंपना"},
+  {no: 53, ta: "சுற்றந்தழால்", en: "Cherishing Kinsmen", hi: "स्वजनों का आदर"},
+  {no: 54, ta: "பொச்சாவாமை", en: "Unforgetfulness", hi: "प्रमाद त्याग / सतर्कता"},
+  {no: 55, ta: "செங்கோன்மை", en: "The Right Scepter", hi: "न्यायपूर्ण शासन"},
+  {no: 56, ta: "கொடுங்கோன்மை", en: "The Cruel Scepter", hi: "अन्यायपूर्ण शासन / अत्याचार"},
+  {no: 57, ta: "வெருவந்தசெய்யாமை", en: "Absence of Terrorism", hi: "आतंक का अभाव"},
+  {no: 58, ta: "கண்ணோட்டம்", en: "Benignity", hi: "सहानुभूति / कृपा"},
+  {no: 59, ta: "ஒற்றாடல்", en: "Espionage", hi: "गुप्तचर व्यवस्था"},
+  {no: 60, ta: "ஊக்கமுடைமை", en: "Energy", hi: "उत्साह"},
+  {no: 61, ta: "மடியின்மை", en: "Unsluggishness", hi: "आलस्य त्याग"},
+  {no: 62, ta: "ஆள்வினையுடைமை", en: "Manly Effort", hi: "परिश्रम व पुरुषार्थ"},
+  {no: 63, ta: "இடுக்கணழியாமை", en: "Hopefulness in Trouble", hi: "संकट में धैर्य"},
+  {no: 64, ta: "அமைச்சு", en: "The Office of Minister of State", hi: "मंत्रिपरिषद"},
+  {no: 65, ta: "சொல்வன்மை", en: "Power of Speech", hi: "वाकपटुता"},
+  {no: 66, ta: "வினைத்தூய்மை", en: "Purity in Action", hi: "कर्म की पवित्रता"},
+  {no: 67, ta: "வினைத்திட்பம்", en: "Power in Action", hi: "दृढ़ संकल्प"},
+  {no: 68, ta: "வினைசெயல்வகை", en: "Modes of Action", hi: "कार्य संपादन की विधि"},
+  {no: 69, ta: "தூது", en: "The Envoy", hi: "दूत कर्म"},
+  {no: 70, ta: "மன்னரைச்சேர்ந்தொழுகல்", en: "Conduct in the Presence of the King", hi: "राजा के समीप आचरण"},
+  {no: 71, ta: "குறிப்பறிதல்", en: "The Knowledge of Indications", hi: "भाव पहचानना"},
+  {no: 72, ta: "அவையறிதல்", en: "Knowledge of the Council Chamber", hi: "सभा की मर्यादा"},
+  {no: 73, ta: "அவையஞ்சாமை", en: "Not Dreading the Council", hi: "सभा में निर्भीकता"},
+  {no: 74, ta: "நாடு", en: "The Land", hi: "राष्ट्र / देश"},
+  {no: 75, ta: "அரண்", en: "The Fortification", hi: "दुर्ग / किला"},
+  {no: 76, ta: "பொருள்செயல்வகை", en: "Way of Making Wealth", hi: "धनोपार्जन की विधि"},
+  {no: 77, ta: "படைமாட்சி", en: "The Excellence of an Army", hi: "सेना की महत्ता"},
+  {no: 78, ta: "படைச்செருக்கு", en: "Military Spirit", hi: "सैनिक शौर्य"},
+  {no: 79, ta: "நட்பு", en: "Friendship", hi: "मित्रता"},
+  {no: 80, ta: "நட்பாராய்தல்", en: "Investigation in Forming Friendships", hi: "मित्र की परख"},
+  {no: 81, ta: "பழைமை", en: "Familiarity", hi: "पुरानी मित्रता"},
+  {no: 82, ta: "தீ நட்பு", en: "Evil Friendship", hi: "बुरी संगति / कुमित्रता"},
+  {no: 83, ta: "கூடாநட்பு", en: "Unreal Friendship", hi: "कपटपूर्ण मित्रता"},
+  {no: 84, ta: "பேதைமை", en: "Folly", hi: "मूर्खता"},
+  {no: 85, ta: "புல்லறிவாண்மை", en: "Ignorance and Conceit", hi: "अल्पज्ञता का घमंड"},
+  {no: 86, ta: "இகல்", en: "Hostility", hi: "शत्रुता"},
+  {no: 87, ta: "பகைமாட்சி", en: "The Might of Hatred", hi: "शत्रु की महत्ता"},
+  {no: 88, ta: "பகைத்திறந்தெரிதல்", en: "Knowing the Quality of Hate", hi: "शत्रुता का स्वरूप"},
+  {no: 89, ta: "உட்பகை", en: "Enmity Within", hi: "भीतरी शत्रु"},
+  {no: 90, ta: "பெரியாரைப் பிழையாமை", en: "Not Offending the Great", hi: "बड़ों का अनादर न करना"},
+  {no: 91, ta: "பெண்வழிச்சேறல்", en: "Being Led by Women", hi: "स्त्री के वशीभूत होना"},
+  {no: 92, ta: "வரைவின்மகளிர்", en: "Wanton Women", hi: "वेश्यावृत्ति त्याग"},
+  {no: 93, ta: "கள்ளுண்ணாமை", en: "Not Drinking Palm-Wine", hi: "मद्यपान निषेध"},
+  {no: 94, ta: "சூது", en: "Gambling", hi: "द्यूत / जुआ निषेध"},
+  {no: 95, ta: "மருந்து", en: "Medicine", hi: "औषधि व स्वास्थ्य"},
+  {no: 96, ta: "குடிமை", en: "Nobility", hi: "सत्कुल उत्पन्न"},
+  {no: 97, ta: "மானம்", en: "Honour", hi: "स्वाभिमान / मान"},
+  {no: 98, ta: "பெருமை", en: "Greatness", hi: "बड़प्पन / महानता"},
+  {no: 99, ta: "சான்றாண்மை", en: "Perfectness", hi: "सज्जनता"},
+  {no: 100, ta: "பண்புடைமை", en: "Courtesy", hi: "शिष्टता"},
+  {no: 101, ta: "நன்றியில்செல்வம்", en: "Wealth without Benefaction", hi: "अनुपयोगी धन"},
+  {no: 102, ta: "நாணுடைமை", en: "Shame / Modesty", hi: "लज्जाशीलता"},
+  {no: 103, ta: "குடிசெயல்வகை", en: "The Way of Maintaining the Family", hi: "कुल की उन्नति"},
+  {no: 104, ta: "உழவு", en: "Farming", hi: "कृषि / खेती"},
+  {no: 105, ta: "நல்குரவு", en: "Poverty", hi: "दरिद्रता / निर्धनता"},
+  {no: 106, ta: "இரவு", en: "Mendicancy", hi: "याचना"},
+  {no: 107, ta: "இரவச்சம்", en: "The Dread of Mendicancy", hi: "याचना का भय"},
+  {no: 108, ta: "கயமை", en: "Baseness", hi: "दुष्टता / नीचता"},
+
+  /* INBAM (109 - 133) */
+  {no: 109, ta: "தகையணங்குறுத்தல்", en: "Beauty's Dart", hi: "सौंदर्य की व्यथा"},
+  {no: 110, ta: "குறிப்பறிதல்", en: "Recognition of the Signs", hi: "संकेतों की पहचान"},
+  {no: 111, ta: "புணர்ச்சிமகிழ்தல்", en: "Rejoicing in the Embrace", hi: "मिलन का आनंद"},
+  {no: 112, ta: "நலம்புனைந்துரைத்தல்", en: "The Praise of Her Beauty", hi: "सौंदर्य प्रशंसा"},
+  {no: 113, ta: "காதற்சிறப்புரைத்தல்", en: "Declaration of Love's Special Excellence", hi: "प्रेम की महत्ता"},
+  {no: 114, ta: "நாணுத்துறவுரைத்தல்", en: "The Abandonment of Reserve", hi: "लज्जा त्याग"},
+  {no: 115, ta: "அலரறிவுறுத்தல்", en: "The Announcement of the Rumour", hi: "लोकचर्चा / प्रेम प्रवाद"},
+  {no: 116, ta: "பிரிவாற்றாமை", en: "Separation Unendurable", hi: "असह्य विरह"},
+  {no: 117, ta: "படர்மெலிந்திரங்கல்", en: "Complainings", hi: "विरह व्यथा"},
+  {no: 118, ta: "கண்விதுப்பழிதல்", en: "Eyes Consumed with Grief", hi: "नेत्रों की व्याकुलता"},
+  {no: 119, ta: "பசப்புறுபருவரல்", en: "The Pallid Hue", hi: "पीलापन / विरह-चिंता"},
+  {no: 120, ta: "தனிப்படர்மிகுதி", en: "The Solitary Anguish", hi: "एकाकी पीड़ा"},
+  {no: 121, ta: "நினைந்தவர்புலம்பல்", en: "Sad Memories", hi: "दुखद स्मृतियाँ"},
+  {no: 122, ta: "கனவுநிலையுரைத்தல்", en: "The Visions of the Night", hi: "स्वप्न दर्शन"},
+  {no: 123, ta: "பொழுதுகண்டிரங்கல்", en: "Lamentations at Eventide", hi: "संध्या कालीन विलाप"},
+  {no: 124, ta: "உறுப்புநலனழிதல்", en: "Wasting Away", hi: "शरीर की क्षीणता"},
+  {no: 125, ta: "நெஞ்சொடுகிளத்தல்", en: "Soliloquy", hi: "मन से वार्तालाप"},
+  {no: 126, ta: "நிறையழிதல்", en: "Reserve Overcome", hi: "धैर्य का टूटना"},
+  {no: 127, ta: "அவர்வயின்விதும்பல்", en: "Mutual Desire", hi: "पारस्परिक अभिलाषा"},
+  {no: 128, ta: "குறிப்பறிவுறுத்தல்", en: "The Reading of the Signs", hi: "संकेत बोध"},
+  {no: 129, ta: "புணர்ச்சிவிதும்பல்", en: "Desire for Reunion", hi: "पुनर्मिलन की उत्कंठा"},
+  {no: 130, ta: "நெஞ்சொடுபுலத்தல்", en: "Expostulation with Oneself", hi: "हृदय से उलाहना"},
+  {no: 131, ta: "புலவி", en: "Pouting", hi: "मान / रूठना"},
+  {no: 132, ta: "புலவி நுணுக்கம்", en: "Feigned Anger", hi: "सूक्ष्म मान"},
+  {no: 133, ta: "ஊடலுவகை", en: "The Pleasures of Temporary Variance", hi: "मान-आनंद / प्रणय-केलि"}
+];
+
+/* ==========================================================================
+   POPULATE DROPDOWN BASED ON SELECTED LANGUAGE (TA / EN / HI)
+   ========================================================================== */
+function populateDropdown() {
+  const dropdown = document.getElementById('chapterDropdown');
+  const labelEl = document.getElementById('labelAdhikaram');
+  const badgeEl = document.getElementById('langBadgeText');
+  if (!dropdown) return;
+
+  if (badgeEl) {
+    if (translationLang === 'en') badgeEl.textContent = 'English';
+    else if (translationLang === 'hi') badgeEl.textContent = 'हिंदी';
+    else badgeEl.textContent = 'தமிழ்';
+  }
+
+  // Update Label & Hindi Font Class
+  if (labelEl) {
+    if (translationLang === 'en') {
+      labelEl.innerHTML = decodeHtml("Chapter:");
+      labelEl.classList.remove('kural-hi-script');
+    } else if (translationLang === 'hi') {
+      labelEl.innerHTML = decodeHtml("अध्याय:");
+      labelEl.classList.add('kural-hi-script');
+    } else {
+      labelEl.innerHTML = decodeHtml("அதிகாரம்:");
+      labelEl.classList.remove('kural-hi-script');
+    }
+  }
+
+  if (translationLang === 'hi') {
+    dropdown.classList.add('kural-hi-script');
+  } else {
+    dropdown.classList.remove('kural-hi-script');
+  }
+
+  let currentVal = parseInt(dropdown.value, 10) || currentChapter || 1;
+  dropdown.innerHTML = "";
+
+  for (let i = 1; i <= 133; i++) {
+    let found = chaptersDirectory.find(c => c.no === i);
+    let title = `அதிகாரம் ${i}`;
+
+    if (found) {
+      if (translationLang === 'en') {
+        title = found.en || found.ta;
+      } else if (translationLang === 'hi') {
+        title = found.hi || found.ta;
+      } else {
+        title = found.ta;
+      }
+    }
+
+    let opt = document.createElement('option');
+    opt.value = i;
+    opt.innerHTML = decodeHtml(`${i}. ${title}`);
+    dropdown.appendChild(opt);
+  }
+
+  dropdown.value = currentVal;
+}
+
+async function loadChapterData(chNum, autoOpenKuralNum = null) {
+  try {
+    let formattedNum = String(chNum).padStart(3, '0');
+    let container = document.getElementById('kuralListContainer');
+
+    let loadingMsg = `அதிகாரம் ${chNum} குறள்கள் ஏற்றப்படுகின்றன...`;
+    if (translationLang === 'en') loadingMsg = `Loading Chapter ${chNum} Couplets...`;
+    if (translationLang === 'hi') loadingMsg = `अध्याय ${chNum} के कुरल लोड हो रहे हैं...`;
+    container.innerHTML = `<div style="text-align:center; padding: 30px; font-weight:bold; color:#c26100;">${loadingMsg}</div>`;
+
+    // Fetch relative to thirukural-world.github.io (deployed from Private Repo via GitHub Actions)
+    let targetUrl = `./${formattedNum}-Chapter.json`;
+    let response = await fetch(targetUrl);
+
+    if (!response.ok) {
+      targetUrl = `./${formattedNum}-Chapter-Revised.json`;
+      response = await fetch(targetUrl);
+    }
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}: Failed to load chapter data`);
+    }
+
+    let data = await response.json();
+    kuralsData = data.kurals || [];
+
+    let defaultPaalTa = "அறத்துப்பால்", defaultPaalEn = "Book of Virtue", defaultPaalHi = "धर्म-कांड";
+    let defaultIyalTa = "பாயிரவியல்", defaultIyalEn = "Prologue", defaultIyalHi = "प्रस्तावना";
+
+    if (chNum >= 1 && chNum <= 4) {
+      defaultIyalTa = "பாயிரவியல்"; defaultIyalEn = "Prologue"; defaultIyalHi = "प्रस्तावना";
+      defaultPaalTa = "அறத்துப்பால்"; defaultPaalEn = "Book of Virtue"; defaultPaalHi = "धर्म-कांड";
+    } else if (chNum >= 5 && chNum <= 24) {
+      defaultIyalTa = "இல்லறவியல்"; defaultIyalEn = "Domestic Virtue"; defaultIyalHi = "गृहस्थ-धर्म";
+      defaultPaalTa = "அறத்துப்பால்"; defaultPaalEn = "Book of Virtue"; defaultPaalHi = "धर्म-कांड";
+    } else if (chNum >= 25 && chNum <= 37) {
+      defaultIyalTa = "துறவறவியல்"; defaultIyalEn = "Ascetic Virtue"; defaultIyalHi = "सन्यास-धर्म";
+      defaultPaalTa = "அறத்துப்பால்"; defaultPaalEn = "Book of Virtue"; defaultPaalHi = "धर्म-कांड";
+    } else if (chNum === 38) {
+      defaultIyalTa = "ஊழியல்"; defaultIyalEn = "Destiny"; defaultIyalHi = "प्रारब्ध";
+      defaultPaalTa = "அறத்துப்பால்"; defaultPaalEn = "Book of Virtue"; defaultPaalHi = "धर्म-कांड";
+    } else if (chNum >= 39 && chNum <= 108) {
+      defaultPaalTa = "பொருட்பால்"; defaultPaalEn = "Book of Wealth"; defaultPaalHi = "अर्थ-कांड";
+      if (chNum <= 63) {
+        defaultIyalTa = "அரசியல்"; defaultIyalEn = "Royalty"; defaultIyalHi = "राज-धर्म";
+      } else if (chNum <= 73) {
+        defaultIyalTa = "அமைச்சியல்"; defaultIyalEn = "Ministers of State"; defaultIyalHi = "मंत्रिमंडल";
+      } else if (chNum <= 75) {
+        defaultIyalTa = "அரணியல்"; defaultIyalEn = "The Essentials of a State"; defaultIyalHi = "दुर्ग";
+      } else if (chNum === 76) {
+        defaultIyalTa = "கூழியல்"; defaultIyalEn = "Way of Making Wealth"; defaultIyalHi = "कोष";
+      } else if (chNum <= 78) {
+        defaultIyalTa = "படையில்"; defaultIyalEn = "The Excellence of an Army"; defaultIyalHi = "सेना-धर्म";
+      } else if (chNum <= 95) {
+        defaultIyalTa = "நட்பியல்"; defaultIyalEn = "Friendship"; defaultIyalHi = "मित्रता";
+      } else {
+        defaultIyalTa = "குடியியல்"; defaultIyalEn = "Citizenship"; defaultIyalHi = "नागरिकता";
+      }
+    } else {
+      defaultPaalTa = "இன்பத்துப்பால்"; defaultPaalEn = "Book of Love"; defaultPaalHi = "काम-कांड";
+      defaultIyalTa = (chNum <= 115) ? "களவியல்" : "கற்பியல்";
+      defaultIyalEn = (chNum <= 115) ? "Pre-marital Love" : "Post-marital Love";
+      defaultIyalHi = (chNum <= 115) ? "प्रणय पूर्व प्रेम" : "दांपत्य प्रेम";
+    }
+
+    let foundDir = chaptersDirectory.find(c => c.no === chNum);
+    currentChapterMeta = {
+      nameTa: decodeHtml(data.nameTa || (foundDir ? foundDir.ta : `அதிகாரம் ${chNum}`)),
+      nameEn: decodeHtml(data.nameEn || (foundDir ? foundDir.en : `Chapter ${chNum}`)),
+      nameHi: decodeHtml(data.nameHi || (foundDir ? foundDir.hi : `अध्याय ${chNum}`)),
+      paalTa: decodeHtml(data.paal || defaultPaalTa),
+      paalEn: decodeHtml(data.paalEn || defaultPaalEn),
+      paalHi: decodeHtml(data.paalHi || defaultPaalHi),
+      iyalTa: decodeHtml(data.iyal || defaultIyalTa),
+      iyalEn: decodeHtml(data.iyalEn || defaultIyalEn),
+      iyalHi: decodeHtml(data.iyalHi || defaultIyalHi)
+    };
+
+    currentIndex = 0;
+    renderKuralList();
+    updateModalMetadata();
+    updateBoundaryNavigation();
+
+    let dropdown = document.getElementById('chapterDropdown');
+    if (dropdown && dropdown.value != chNum) {
+      dropdown.value = chNum;
+    }
+
+    // Update browser URL cleanly without page reload
+    if (window.history && window.history.replaceState && window.location.protocol.startsWith('http')) {
+      const urlParams = new URLSearchParams(window.location.search);
+      const paalParam = urlParams.get('paal');
+      const paalSuffix = paalParam ? `&paal=${encodeURIComponent(paalParam)}` : '';
+      let newUrl = window.location.protocol + "//" + window.location.host + window.location.pathname + `?ch=${chNum}${paalSuffix}`;
+      window.history.replaceState({ path: newUrl }, '', newUrl);
+    }
+
+    // Automatically open the exact Kural modal if requested via URL
+    if (autoOpenKuralNum && kuralsData.length > 0) {
+      const kuralIdx = kuralsData.findIndex(k => parseInt(k.num, 10) === autoOpenKuralNum);
+      if (kuralIdx !== -1) {
+        openModal(kuralIdx);
+      }
+    }
+
+  } catch (error) {
+    console.error("Error loading chapter data:", error);
+    document.getElementById('kuralListContainer').innerHTML = `
+      <div style="text-align:center; padding: 30px; color:#e53935; font-weight:bold;">
+        ⚠️ அதிகாரம் ${chNum} தரவை ஏற்ற முடியவில்லை.<br>
+        <span style="font-size:13px; color:#6a5338; font-weight:normal;">
+          காரணம்: ${error.message}
+        </span>
+      </div>`;
+    updateBoundaryNavigation();
+  }
+}
+
+function onChapterSelectChange(val) {
+  currentChapter = parseInt(val, 10);
+  loadChapterData(currentChapter);
+}
+
+function navigateChapter(direction) {
+  let newCh = currentChapter + direction;
+  if (newCh >= 1 && newCh <= 133) {
+    currentChapter = newCh;
+    loadChapterData(newCh);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+}
+
+function updateBoundaryNavigation() {
+  let prevBtn = document.getElementById('prevChapterBtn');
+  let nextBtn = document.getElementById('nextChapterBtn');
+  let navContainer = document.querySelector('.chapter-bottom-nav');
+
+  if (prevBtn) prevBtn.style.display = (currentChapter <= 1) ? 'none' : 'inline-flex';
+  if (nextBtn) nextBtn.style.display = (currentChapter >= 133) ? 'none' : 'inline-flex';
+
+  if (navContainer) {
+    if (currentChapter <= 1) navContainer.style.justifyContent = 'flex-end';
+    else if (currentChapter >= 133) navContainer.style.justifyContent = 'flex-start';
+    else navContainer.style.justifyContent = 'space-between';
+  }
+
+  const prevTextEl = document.getElementById('prevNavText');
+  const nextTextEl = document.getElementById('nextNavText');
+
+  if (translationLang === 'en') {
+    prevTextEl.innerHTML = "⬅ Previous Chapter";
+    nextTextEl.innerHTML = "Next Chapter ➔";
+  } else if (translationLang === 'hi') {
+    prevTextEl.innerHTML = "⬅ पिछला अध्याय";
+    nextTextEl.innerHTML = "अगला अध्याय ➔";
+  } else {
+    prevTextEl.innerHTML = "⬅ முந்தைய அதிகாரம்";
+    nextTextEl.innerHTML = "அடுத்த அதிகாரம் ➔";
+  }
+}
+
+function hookCentralizedTranslationButton() {
+  const candidates = document.querySelectorAll('header button, .header button, nav button, .top-nav button, a, button');
+  candidates.forEach(el => {
+    if (el.id === 'githubLangToggleBtn') return;
+    const text = el.textContent || '';
+    if (text.includes('文') || (text.includes('A') && text.includes('அ')) || el.classList.contains('translate-btn') || el.id === 'headerTranslateBtn') {
+      el.addEventListener('click', function(e) {
+        e.preventDefault();
+        cycleCentralizedTranslation();
+      });
+    }
+  });
+}
+
+function setLanguageUI(lang) {
+  if (!['ta', 'en', 'hi'].includes(lang)) return;
+  translationLang = lang;
+  try {
+    localStorage.setItem('daily_kural_lang', translationLang);
+  } catch (e) {}
+
+  transliterationScript = 'ta';
+  updateTranslitBtnLabel();
+  populateDropdown();
+  updateBoundaryNavigation();
+  renderKuralList();
+
+  const modal = document.getElementById('kuralModal');
+  if (modal && modal.classList.contains('active')) {
+    updateModalContent();
+  }
+}
+
+function cycleCentralizedTranslation() {
+  let nextLang = 'ta';
+  if (translationLang === 'ta') nextLang = 'en';
+  else if (translationLang === 'en') nextLang = 'hi';
+  else nextLang = 'ta';
+
+  setLanguageUI(nextLang);
+}
+
+// Listen to global Daily-Kural language toggle event if triggered by parent wrapper
+window.addEventListener('kuralLanguageChanged', function(e) {
+  const newLang = (e && e.detail && e.detail.lang) ? e.detail.lang : localStorage.getItem('daily_kural_lang');
+  if (newLang && newLang !== translationLang) {
+    setLanguageUI(newLang);
+  }
+});
+
+function cycleModalTransliteration() {
+  if (transliterationScript === 'ta') transliterationScript = 'en';
+  else if (transliterationScript === 'en') transliterationScript = 'hi';
+  else transliterationScript = 'ta';
+
+  updateTranslitBtnLabel();
+  if (translationLang !== 'ta') {
+    translationLang = 'ta';
+    populateDropdown();
+    updateBoundaryNavigation();
+  }
+  renderKuralList();
+  updateModalContent();
+}
+
+function updateTranslitBtnLabel() {
+  const btn = document.getElementById('modalTranslitBtn');
+  if (!btn) return;
+  if (transliterationScript === 'en') {
+    btn.innerHTML = 'A';
+    btn.title = "Current: English Script";
+  } else if (transliterationScript === 'hi') {
+    btn.innerHTML = 'अ';
+    btn.title = "Current: हिंदी Script";
+  } else {
+    btn.innerHTML = 'அ';
+    btn.title = "Current: தமிழ் Script";
+  }
+}
+
+function extractTwoLines(val, fallbackLine1, fallbackLine2) {
+  if (!val) return { line1: fallbackLine1 || "", line2: fallbackLine2 || "" };
+  if (typeof val === 'object' && !Array.isArray(val)) return { line1: val.line1 || fallbackLine1 || "", line2: val.line2 || fallbackLine2 || "" };
+  if (Array.isArray(val)) return { line1: val[0] || fallbackLine1 || "", line2: val[1] || fallbackLine2 || "" };
+  if (typeof val === 'string') {
+    let parts = val.split('\n');
+    return { line1: parts[0] || fallbackLine1 || "", line2: parts[1] || fallbackLine2 || "" };
+  }
+  return { line1: fallbackLine1 || "", line2: fallbackLine2 || "" };
+}
+
+function getDisplayKuralLines(item) {
+  if (!item) return { line1: "", line2: "", isHindi: false };
+  if (translationLang === 'en') {
+    let p = item.poetic && item.poetic.en ? item.poetic.en : null;
+    let res = extractTwoLines(p, item.enLine1 || item.en, item.enLine2);
+    return { line1: res.line1, line2: res.line2, isHindi: false };
+  }
+  if (translationLang === 'hi') {
+    let p = item.poetic && item.poetic.hi ? item.poetic.hi : null;
+    let res = extractTwoLines(p, item.hiLine1 || item.hi, item.hiLine2);
+    return { line1: res.line1, line2: res.line2, isHindi: true };
+  }
+  if (transliterationScript === 'en') {
+    let t = (item.poetic && item.poetic.transliteration && item.poetic.transliteration.en) || null;
+    let res = extractTwoLines(t, item.enLine1 || item.line1, item.enLine2 || item.line2);
+    return { line1: res.line1, line2: res.line2, isHindi: false };
+  }
+  if (transliterationScript === 'hi') {
+    let t = (item.poetic && item.poetic.transliteration && item.poetic.transliteration.hi) || null;
+    let res = extractTwoLines(t, item.hiLine1 || item.line1, item.hiLine2 || item.line2);
+    return { line1: res.line1, line2: res.line2, isHindi: true };
+  }
+  let pTa = (item.poetic && item.poetic.ta) || null;
+  let res = extractTwoLines(pTa, item.line1, item.line2);
+  return { line1: res.line1, line2: res.line2, isHindi: false };
+}
+
+function getDisplayExplanation(item) {
+  if (!item) return { title: "விளக்கம்", text: "", isHindi: false };
+  if (translationLang === 'en') {
+    let text = (item.explanation && item.explanation.en) ? item.explanation.en : (item.en || "");
+    return { title: decodeHtml("English Explanation (Simple)"), text: decodeHtml(text), isHindi: false };
+  }
+  if (translationLang === 'hi') {
+    let text = (item.explanation && item.explanation.hi) ? item.explanation.hi : (item.hi || "");
+    return { title: decodeHtml("हिंदी में अर्थ (सरल भावार्थ)"), text: decodeHtml(text), isHindi: true };
+  }
+  let text = (item.explanation && item.explanation.ta) ? item.explanation.ta : (item.general || "");
+  return { title: decodeHtml("தமிழ் விளக்கம்"), text: decodeHtml(text), isHindi: false };
+}
+
+function updateModalMetadata() {
+  const lblAdhikaram = document.getElementById('metaAdhikaramLabel');
+  const valAdhikaram = document.getElementById('metaAdhikaramVal');
+  const lblPaal = document.getElementById('metaPaalLabel');
+  const valPaal = document.getElementById('metaPaalVal');
+  const lblIyal = document.getElementById('metaIyalLabel');
+  const valIyal = document.getElementById('metaIyalVal');
+  const vocabHeading = document.getElementById('modalVocabHeading');
+
+  if (translationLang === 'hi') {
+    if (lblAdhikaram) lblAdhikaram.innerHTML = decodeHtml("अध्याय :");
+    if (valAdhikaram) { valAdhikaram.innerHTML = decodeHtml(currentChapterMeta.nameHi || currentChapterMeta.nameTa); valAdhikaram.classList.add('kural-hi-script'); }
+    if (lblPaal) lblPaal.innerHTML = decodeHtml("भाग :");
+    if (valPaal) { valPaal.innerHTML = decodeHtml(currentChapterMeta.paalHi || currentChapterMeta.paalTa); valPaal.classList.add('kural-hi-script'); }
+    if (lblIyal) lblIyal.innerHTML = decodeHtml("प्रकरण :");
+    if (valIyal) { valIyal.innerHTML = decodeHtml(currentChapterMeta.iyalHi || currentChapterMeta.iyalTa); valIyal.classList.add('kural-hi-script'); }
+    if (vocabHeading) { vocabHeading.innerHTML = decodeHtml("शब्दार्थ एवं विवरण (Vocabulary Breakdown)"); vocabHeading.classList.add('kural-hi-script'); }
+  } else if (translationLang === 'en') {
+    if (lblAdhikaram) lblAdhikaram.innerHTML = decodeHtml("Chapter :");
+    if (valAdhikaram) { valAdhikaram.innerHTML = decodeHtml(currentChapterMeta.nameEn || currentChapterMeta.nameTa); valAdhikaram.classList.remove('kural-hi-script'); }
+    if (lblPaal) lblPaal.innerHTML = decodeHtml("Section :");
+    if (valPaal) { valPaal.innerHTML = decodeHtml(currentChapterMeta.paalEn || currentChapterMeta.paalTa); valPaal.classList.remove('kural-hi-script'); }
+    if (lblIyal) lblIyal.innerHTML = decodeHtml("Sub-Section :");
+    if (valIyal) { valIyal.innerHTML = decodeHtml(currentChapterMeta.iyalEn || currentChapterMeta.iyalTa); valIyal.classList.remove('kural-hi-script'); }
+    if (vocabHeading) { vocabHeading.innerHTML = decodeHtml("Vocabulary Breakdown"); vocabHeading.classList.remove('kural-hi-script'); }
+  } else {
+    if (lblAdhikaram) lblAdhikaram.innerHTML = decodeHtml("அதிகாரம் :");
+    if (valAdhikaram) { valAdhikaram.innerHTML = decodeHtml(currentChapterMeta.nameTa); valAdhikaram.classList.remove('kural-hi-script'); }
+    if (lblPaal) lblPaal.innerHTML = decodeHtml("பால் :");
+    if (valPaal) { valPaal.innerHTML = decodeHtml(currentChapterMeta.paalTa); valPaal.classList.remove('kural-hi-script'); }
+    if (lblIyal) lblIyal.innerHTML = decodeHtml("இயல் :");
+    if (valIyal) { valIyal.innerHTML = decodeHtml(currentChapterMeta.iyalTa); valIyal.classList.remove('kural-hi-script'); }
+    if (vocabHeading) { vocabHeading.innerHTML = decodeHtml("சொல்-பொருள் விளக்கம் (Vocabulary Breakdown)"); vocabHeading.classList.remove('kural-hi-script'); }
+  }
+}
+
+function renderKuralList() {
+  const container = document.getElementById('kuralListContainer');
+  const favs = JSON.parse(localStorage.getItem('daily_kural_favs') || '[]');
+
+  if (!kuralsData || kuralsData.length === 0) {
+    container.innerHTML = `<div style="text-align:center; padding: 20px; color:#c26100;">குறள்கள் இல்லை.</div>`;
+    return;
+  }
+
+  container.innerHTML = kuralsData.map((item, index) => {
+    const isFav = favs.includes(item.num);
+    const lines = getDisplayKuralLines(item);
+    const scriptClass = lines.isHindi ? 'kural-hi-script' : '';
+    let kuralLabel = (translationLang === 'hi') ? `दोहा ${item.num}` : (translationLang === 'en' ? `Kural ${item.num}` : `குறள் ${item.num}`);
+
+    return `
+      <div class="kural-list-item" id="kural-${item.num}" onclick="openModal(${index})">
+        <div class="kural-item-text">
+          <span class="kural-line-1 ${scriptClass}">${decodeHtml(lines.line1)}</span>
+          <span class="kural-line-2 ${scriptClass}">${decodeHtml(lines.line2)}</span>
+        </div>
+        <div class="kural-item-footer">
+          <span class="kural-heart-icon ${isFav ? 'is-fav' : ''}">&#10084;</span>
+          <span class="kural-item-num">${decodeHtml(kuralLabel)}</span>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function openModal(index) {
+  currentIndex = index;
+  updateTranslitBtnLabel();
+  updateModalContent();
+  document.getElementById('kuralModal').classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeModal(modalId) {
+  document.getElementById(modalId).classList.remove('active');
+  document.body.style.overflow = 'auto';
+}
+
+function closeModalOnBg(e, modalId) {
+  if (e.target.id === modalId) closeModal(modalId);
+}
+
+function updateModalContent() {
+  const item = kuralsData[currentIndex];
+  if (!item) return;
+
+  const lines = getDisplayKuralLines(item);
+  const exp = getDisplayExplanation(item);
+  const scriptClass = lines.isHindi ? 'kural-hi-script' : '';
+  let kuralLabel = (translationLang === 'hi') ? `दोहा ${item.num}` : (translationLang === 'en' ? `Kural ${item.num}` : `குறள் ${item.num}`);
+
+  document.getElementById('modalKuralNo').innerHTML = decodeHtml(kuralLabel);
+  document.getElementById('modalKuralText').innerHTML = `
+    <span class="kural-line-1 ${scriptClass}">${decodeHtml(lines.line1)}</span>
+    <span class="kural-line-2 ${scriptClass}">${decodeHtml(lines.line2)}</span>
+  `;
+
+  const expTitleEl = document.getElementById('modalExplanationTitle');
+  const expTextEl = document.getElementById('modalExplanationText');
+  expTitleEl.innerHTML = decodeHtml(exp.title);
+  expTextEl.innerHTML = decodeHtml(exp.text);
+  if (exp.isHindi) {
+    expTitleEl.classList.add('kural-hi-script');
+    expTextEl.classList.add('kural-hi-script');
+  } else {
+    expTitleEl.classList.remove('kural-hi-script');
+    expTextEl.classList.remove('kural-hi-script');
+  }
+
+  // VOCABULARY TABLE: Safely replace <br> with HTML tag so it renders cleanly
+  const tbody = document.getElementById('modalWordTableBody');
+  tbody.innerHTML = (item.words || []).slice(0, 7).map(w => {
+    let rawWord = w.word || '';
+    let formattedWord = rawWord.replace(/<br\s*[\/]?>/gi, '<br>');
+    return `
+      <tr>
+        <td class="col-sno">${w.no}</td>
+        <td class="col-word">${formattedWord}</td>
+        <td>${decodeHtml(w.ta || '')}</td>
+        <td>${decodeHtml(w.en || '')}</td>
+        <td class="kural-hi-script">${decodeHtml(w.hi || '')}</td>
+      </tr>
+    `;
+  }).join('');
+
+  const favs = JSON.parse(localStorage.getItem('daily_kural_favs') || '[]');
+  const favBtn = document.getElementById('modalFavHeartBtn');
+  if (favs.includes(item.num)) favBtn.classList.add('fav-active');
+  else favBtn.classList.remove('fav-active');
+
+  updateModalMetadata();
+}
+
+function prevKural() {
+  currentIndex = (currentIndex > 0) ? currentIndex - 1 : kuralsData.length - 1;
+  updateModalContent();
+}
+
+function nextKural() {
+  currentIndex = (currentIndex < kuralsData.length - 1) ? currentIndex + 1 : 0;
+  updateModalContent();
+}
+
+function toggleCurrentFavorite() {
+  const item = kuralsData[currentIndex];
+  let favs = JSON.parse(localStorage.getItem('daily_kural_favs') || '[]');
+  if (favs.includes(item.num)) favs = favs.filter(id => id !== item.num);
+  else favs.push(item.num);
+  localStorage.setItem('daily_kural_favs', JSON.stringify(favs));
+  updateModalContent();
+  renderKuralList();
+}
+
+function getUnifiedFooterText() {
+  return `One Kural. One Day. A Lifetime of Wisdom!\n👉 Visit our Web Page ${getSiteBaseUrl()} & Install as Web App on your device 📲`;
+}
+
+function getShareText() {
+  const item = kuralsData[currentIndex];
+  const lines = getDisplayKuralLines(item);
+  const exp = getDisplayExplanation(item);
+  let kuralLabel = (translationLang === 'hi') ? `दोहा ${item.num}` : (translationLang === 'en' ? `Kural ${item.num}` : `குறள் ${item.num}`);
+  return decodeHtml(`📜 *${kuralLabel}:*\n\n*“${lines.line1}\n${lines.line2}”*\n\n📖 *${exp.title}:*\n${exp.text}\n\n${getUnifiedFooterText()}`);
+}
+
+function shareToWhatsApp() { window.open("https://api.whatsapp.com/send?text=" + encodeURIComponent(getShareText()), "_blank"); }
+function shareToX() { window.open("https://twitter.com/intent/tweet?text=" + encodeURIComponent(getShareText()), "_blank"); }
+function shareToFacebook() { window.open("https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(getSiteBaseUrl() + `?ch=${currentChapter}&kural=${kuralsData[currentIndex].num}`), "_blank"); }
+function shareToInstagram() { 
+  if (navigator.clipboard && window.isSecureContext) {
+    navigator.clipboard.writeText(getShareText()).then(() => alert("✅ நகலெடுக்கப்பட்டது! Instagram-இல் Paste செய்யவும்."));
+  } else {
+    alert("✅ நகலெடுக்கப்பட்டது! Instagram-இல் Paste செய்யவும்.");
+  }
+}
+
+function openCardChoiceModal() { document.getElementById('cardChoiceModal').classList.add('active'); }
+
+function triggerCardDownloadOnly() {
+  closeModal('cardChoiceModal');
+  const canvas = generateCardCanvas(kuralsData[currentIndex]);
+  fallbackDownload(canvas, kuralsData[currentIndex].num);
+}
+
+async function triggerCardNativeShareOnly() {
+  closeModal('cardChoiceModal');
+  const canvas = generateCardCanvas(kuralsData[currentIndex]);
+
+  canvas.toBlob(async function(blob) {
+    if (!blob) {
+      fallbackDownload(canvas, kuralsData[currentIndex].num);
+      return;
+    }
+    const fileName = `Thirukkural_${kuralsData[currentIndex].num}_Card.png`;
+    const imageFile = new File([blob], fileName, { type: 'image/png' });
+
+    if (navigator.canShare && navigator.canShare({ files: [imageFile] })) {
+      try {
+        await navigator.share({
+          files: [imageFile],
+          title: `Thirukkural ${kuralsData[currentIndex].num}`,
+          text: getShareText()
+        });
+      } catch (err) {
+        if (err.name !== 'AbortError') {
+          fallbackDownload(canvas, kuralsData[currentIndex].num);
+        }
+      }
+    } else {
+      fallbackDownload(canvas, kuralsData[currentIndex].num);
+    }
+  }, 'image/png');
+}
+
+function fallbackDownload(canvas, kuralNum) {
+  const a = document.createElement('a');
+  a.download = `Thirukkural_${kuralNum}_Card.png`;
+  a.href = canvas.toDataURL('image/png');
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+}
+
+/* ==========================================================================
+   DYNAMIC 1080px CANVAS SHARE CARD GENERATOR
+   ========================================================================== */
+function generateCardCanvas(item) {
+  const FONT_DEFAULT = "'Vijaya', 'Noto Serif Tamil', Georgia, serif";
+  const FONT_HINDI = "'Tiro Devanagari Hindi', serif";
+  
+  const canvasWidth = 1080;
+  const paddingX = 75;
+  const contentWidth = canvasWidth - (paddingX * 2);
+  const lines = getDisplayKuralLines(item);
+  const exp = getDisplayExplanation(item);
+
+  let expFont = exp.isHindi ? "28px " + FONT_HINDI : "31px " + FONT_DEFAULT;
+
+  let metaAdhikaram = decodeHtml((translationLang === 'hi') ? `अध्याय : ${currentChapterMeta.nameHi || currentChapterMeta.nameTa}` : (translationLang === 'en' ? `Chapter : ${currentChapterMeta.nameEn || currentChapterMeta.nameTa}` : `அதிகாரம் : ${currentChapterMeta.nameTa}`));
+  let metaPaal = decodeHtml((translationLang === 'hi') ? `भाग : ${currentChapterMeta.paalHi || currentChapterMeta.paalTa}` : (translationLang === 'en' ? `Section : ${currentChapterMeta.paalEn || currentChapterMeta.paalTa}` : `பால் : ${currentChapterMeta.paalTa}`));
+  let metaIyal = decodeHtml((translationLang === 'hi') ? `प्रकरण : ${currentChapterMeta.iyalHi || currentChapterMeta.iyalTa}` : (translationLang === 'en' ? `Sub-Section : ${currentChapterMeta.iyalEn || currentChapterMeta.iyalTa}` : `இயல் : ${currentChapterMeta.iyalTa}`));
+  let metaFont = (translationLang === 'hi') ? "24px " + FONT_HINDI : "24px " + FONT_DEFAULT;
+
+  const calcCanvas = document.createElement('canvas');
+  const calcCtx = calcCanvas.getContext('2d');
+  calcCtx.font = expFont;
+  const expTextHeight = measureWrappedHeight(calcCtx, decodeHtml(exp.text), contentWidth, 46);
+
+  const tableHeaderHeight = 52;
+  const tableRowHeight = 48;
+  const totalTableHeight = tableHeaderHeight + (7 * tableRowHeight);
+  const footerGap = 120;
+  const headerHeight = 390;
+
+  const canvasHeight = Math.round(38 + headerHeight + 58 + 46 + expTextHeight + 45 + totalTableHeight + footerGap + 110 + 38);
+
+  const canvas = document.createElement('canvas');
+  const ctx = canvas.getContext('2d');
+  canvas.width = canvasWidth;
+  canvas.height = canvasHeight;
+
+  ctx.fillStyle = "#faf6ee";
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  const boxMargin = 38;
+  const boxWidth = canvasWidth - (boxMargin * 2);
+  const boxHeight = canvasHeight - (boxMargin * 2);
+
+  ctx.fillStyle = "#fffdfa";
+  ctx.strokeStyle = "#dfcba5";
+  ctx.lineWidth = 3.5;
+  roundRect(ctx, boxMargin, boxMargin, boxWidth, boxHeight, 26, true, true);
+
+  ctx.fillStyle = "#fff8eb";
+  roundRect(ctx, boxMargin, boxMargin, boxWidth, headerHeight, { tl: 26, tr: 26, br: 0, bl: 0 }, true, false);
+
+  ctx.strokeStyle = "#ebd9b5";
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  ctx.moveTo(boxMargin, boxMargin + headerHeight);
+  ctx.lineTo(boxMargin + boxWidth, boxMargin + headerHeight);
+  ctx.stroke();
+
+  ctx.textAlign = "left";
+  ctx.fillStyle = "#c26100";
+  ctx.font = (translationLang === 'hi') ? "bold 34px " + FONT_HINDI : "bold 36px " + FONT_DEFAULT;
+  let cardTitle = decodeHtml((translationLang === 'hi') ? `दोहा ${item.num}` : (translationLang === 'en' ? `Kural ${item.num}` : `குறள் ${item.num}`));
+  ctx.fillText(cardTitle, paddingX, 105);
+
+  ctx.fillStyle = "#1a1208";
+  const scriptFontFamily = lines.isHindi ? FONT_HINDI : FONT_DEFAULT;
+
+  let textLine1 = decodeHtml(lines.line1);
+  let textLine2 = decodeHtml(lines.line2);
+  let kuralFontSize = lines.isHindi ? 36 : 41;
+
+  ctx.font = "bold " + kuralFontSize + "px " + scriptFontFamily;
+  while (kuralFontSize > 28 && (ctx.measureText(textLine1).width > contentWidth || ctx.measureText(textLine2).width > contentWidth)) {
+    kuralFontSize -= 1;
+    ctx.font = "bold " + kuralFontSize + "px " + scriptFontFamily;
+  }
+
+  let lineSpacing = Math.round(kuralFontSize * 1.48);
+  ctx.fillText(textLine1, paddingX, 185);
+  ctx.fillText(textLine2, paddingX, 185 + lineSpacing);
+
+  ctx.textAlign = "right";
+  const rightX = canvasWidth - paddingX;
+  ctx.font = metaFont;
+  ctx.fillStyle = "#8c6d48";
+  ctx.fillText(metaAdhikaram, rightX, 318);
+  ctx.fillText(metaPaal, rightX, 354);
+  ctx.fillText(metaIyal, rightX, 390);
+
+  ctx.textAlign = "left";
+  let curY = boxMargin + headerHeight + 58;
+
+  ctx.fillStyle = "#c26100";
+  ctx.font = exp.isHindi ? "bold 32px " + FONT_HINDI : "bold italic 35px " + FONT_DEFAULT;
+  ctx.fillText(decodeHtml(exp.title) + ":", paddingX, curY);
+  curY += 50;
+
+  ctx.fillStyle = "#332619";
+  ctx.font = expFont;
+  curY = wrapText(ctx, decodeHtml(exp.text), paddingX, curY, contentWidth, 46);
+  curY += 45;
+
+  const colWidths = [55, 215, 240, 240, 180];
+  const colHeaders = [
+    decodeHtml("வ.எண்"),
+    decodeHtml("சொல் (Word)"),
+    decodeHtml("தமிழ் பொருள்"),
+    decodeHtml("English Meaning"),
+    decodeHtml("हिन्दी अर्थ")
+  ];
+
+  ctx.fillStyle = "#fff8eb";
+  ctx.fillRect(paddingX, curY, contentWidth, tableHeaderHeight);
+  ctx.strokeStyle = "#dfcba5";
+  ctx.lineWidth = 1.5;
+  ctx.strokeRect(paddingX, curY, contentWidth, tableHeaderHeight);
+
+  ctx.fillStyle = "#c26100";
+  ctx.font = "bold 20px " + FONT_DEFAULT;
+  let cellX = paddingX;
+
+  colHeaders.forEach((ch, idx) => {
+    const colW = colWidths[idx];
+    if (idx > 0) {
+      ctx.beginPath();
+      ctx.moveTo(cellX, curY);
+      ctx.lineTo(cellX, curY + tableHeaderHeight);
+      ctx.strokeStyle = "#dfcba5";
+      ctx.stroke();
+    }
+    if (idx === 0) {
+      ctx.textAlign = "center";
+      ctx.fillText(ch, cellX + (colW / 2), curY + 33, colW - 6);
+    } else {
+      ctx.textAlign = "left";
+      ctx.fillText(ch, cellX + 12, curY + 33, colW - 20);
+    }
+    cellX += colW;
+  });
+
+  curY += tableHeaderHeight;
+
+  const rows = (item.words || []).slice(0, 7);
+  rows.forEach((r, rIdx) => {
+    ctx.fillStyle = (rIdx % 2 === 0) ? "#ffffff" : "#fffcf5";
+    ctx.fillRect(paddingX, curY, contentWidth, tableRowHeight);
+    ctx.strokeStyle = "#ebd9b5";
+    ctx.lineWidth = 1;
+    ctx.strokeRect(paddingX, curY, contentWidth, tableRowHeight);
+
+    cellX = paddingX;
+    for (let c = 0; c < 5; c++) {
+      const colW = colWidths[c];
+      if (c > 0) {
+        ctx.beginPath();
+        ctx.moveTo(cellX, curY);
+        ctx.lineTo(cellX, curY + tableRowHeight);
+        ctx.strokeStyle = "#ebd9b5";
+        ctx.stroke();
+      }
+      if (c === 0) {
+        ctx.textAlign = "center";
+        ctx.fillStyle = "#c26100";
+        ctx.font = "bold 20px " + FONT_DEFAULT;
+        ctx.fillText(r.no.toString(), cellX + (colW / 2), curY + 31, colW - 6);
+      } else {
+        ctx.textAlign = "left";
+        const maxTextWidth = colW - 20;
+        const textStartX = cellX + 10;
+        if (c === 1) {
+          ctx.fillStyle = "#1a1208";
+          ctx.font = "bold 17px " + FONT_DEFAULT;
+          let cleanWordText = decodeHtml((r.word || '').replace(/<br\s*[\/]?>/gi, ' '));
+          ctx.fillText(cleanWordText, textStartX, curY + 31, maxTextWidth);
+        } else if (c === 2) {
+          ctx.fillStyle = "#332619";
+          ctx.font = "19px " + FONT_DEFAULT;
+          ctx.fillText(decodeHtml(r.ta || ''), textStartX, curY + 31, maxTextWidth);
+        } else if (c === 3) {
+          ctx.fillStyle = "#332619";
+          ctx.font = "19px " + FONT_DEFAULT;
+          ctx.fillText(decodeHtml(r.en || ''), textStartX, curY + 31, maxTextWidth);
+        } else if (c === 4) {
+          ctx.fillStyle = "#332619";
+          ctx.font = "18px " + FONT_HINDI;
+          ctx.fillText(decodeHtml(r.hi || ''), textStartX, curY + 31, maxTextWidth);
+        }
+      }
+      cellX += colW;
+    }
+    curY += tableRowHeight;
+  });
+
+  curY += footerGap;
+
+  ctx.textAlign = "center";
+  ctx.fillStyle = "#c26100";
+  ctx.font = "bold 24px " + FONT_DEFAULT;
+  ctx.fillText("One Kural. One Day. A Lifetime of Wisdom!", canvasWidth / 2, curY);
+
+  ctx.fillStyle = "#8c6d48";
+  ctx.font = "bold 21px " + FONT_DEFAULT;
+  ctx.fillText(`👉 Visit our Web Page ${getSiteBaseUrl()} & Install as Web App on your device 📲`, canvasWidth / 2, curY + 34);
+
+  return canvas;
+}
+
+function measureWrappedHeight(ctx, text, maxWidth, lineHeight) {
+  const words = text.split(' ');
+  let line = '';
+  let height = lineHeight;
+  for (let n = 0; n < words.length; n++) {
+    const testLine = line + words[n] + ' ';
+    if (ctx.measureText(testLine).width > maxWidth && n > 0) {
+      line = words[n] + ' ';
+      height += lineHeight;
+    } else {
+      line = testLine;
+    }
+  }
+  return height;
+}
+
+function wrapText(ctx, text, x, y, maxWidth, lineHeight) {
+  const words = text.split(' ');
+  let line = '';
+  for (let n = 0; n < words.length; n++) {
+    const testLine = line + words[n] + ' ';
+    if (ctx.measureText(testLine).width > maxWidth && n > 0) {
+      ctx.fillText(line, x, y);
+      line = words[n] + ' ';
+      y += lineHeight;
+    } else {
+      line = testLine;
+    }
+  }
+  ctx.fillText(line, x, y);
+  return y + lineHeight;
+}
+
+function roundRect(ctx, x, y, width, height, radius, fill, stroke) {
+  if (typeof radius === 'number') radius = { tl: radius, tr: radius, br: radius, bl: radius };
+  ctx.beginPath();
+  ctx.moveTo(x + radius.tl, y);
+  ctx.lineTo(x + width - radius.tr, y);
+  ctx.quadraticCurveTo(x + width, y, x + width, y + radius.tr);
+  ctx.lineTo(x + width, y + height - radius.br);
+  ctx.quadraticCurveTo(x + width, y + height, x + width - radius.br, y + height);
+  ctx.lineTo(x + radius.bl, y + height);
+  ctx.quadraticCurveTo(x, y + height, x, y + height - radius.bl);
+  ctx.lineTo(x, y + radius.tl);
+  ctx.quadraticCurveTo(x, y, x + radius.tl, y);
+  ctx.closePath();
+  if (fill) ctx.fill();
+  if (stroke) ctx.stroke();
+}
+
+// Register PWA Service Worker for Offline Caching
+if ('serviceWorker' in navigator && window.location.protocol.startsWith('http')) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('./sw.js').catch(function(err) {
+      console.warn('ServiceWorker registration skipped:', err);
+    });
+  });
+}
+
+window.addEventListener('DOMContentLoaded', function() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const chParam = parseInt(urlParams.get('ch'), 10);
+  let targetKural = parseInt(urlParams.get('kural'), 10);
+
+  if (!targetKural && window.location.hash.indexOf('#kural-') === 0) {
+    targetKural = parseInt(window.location.hash.replace('#kural-', ''), 10);
+  }
+
+  // Derive chapter automatically if ?kural= is given without ?ch=
+  if (chParam && chParam >= 1 && chParam <= 133) {
+    currentChapter = chParam;
+  } else if (targetKural && targetKural >= 1 && targetKural <= 1330) {
+    currentChapter = Math.ceil(targetKural / 10);
+  } else {
+    currentChapter = 1;
+  }
+
+  populateDropdown();
+  loadChapterData(currentChapter, (targetKural >= 1 && targetKural <= 1330) ? targetKural : null);
+  hookCentralizedTranslationButton();
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1554 @@
+<!DOCTYPE html>
+<html lang="ta" data-lang="ta">
+<head>
+<!--==========================================================================
+     DAILY-KURAL: பொருட்பால் (Porul) Main Hub — Standalone GitHub Edition
+     - Unified Styling Matching Daily-Kural Home & Aram Screen Exactly
+     - Vijaya, Noto Serif Tamil & Tiro Devanagari Hindi Fonts
+     - Multi-Language UI (Tamil / English / Hindi) + Light/Dark Theme Toggle
+     - Strict Porul Scope (7 Divisions, 70 Chapters [39-108], Kurals 381-1080)
+     - Contextual Navigation (chapters.html?ch=X&paal=porul) & Boundary Guard
+     ==========================================================================-->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+<meta name="application-name" content="Daily-Kural">
+<meta name="description" content="பொருட்பால் - இயல், அதிகாரம் & குறள் பட்டியல் (Book of Wealth & State)">
+<meta name="theme-color" content="#263b50">
+<title>Daily-Kural | பொருட்பால் (Book of Wealth)</title>
+
+<!-- GOOGLE FONTS FOR NOTO SERIF TAMIL & TIRO DEVANAGARI HINDI -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Tamil:ital,wght@0,400;0,600;0,700;1,400&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+
+<style>
+@font-face {
+  font-family: 'Vijaya';
+  src: local('Vijaya'), local('Vijaya Regular'), local('Vijaya-Regular');
+  font-display: swap;
+}
+
+/* ==========================================================================
+   CSS VARIABLES FOR LIGHT & DARK THEMES (MATCHING HOMEPAGE EXACTLY)
+   ========================================================================== */
+:root {
+  --bg-color: #faf6ee;
+  --card-bg: #fffdf7;
+  --header-box: #fff8eb;
+  --text-main: #332619;
+  --text-muted: #59636a;
+  --accent: #c26100;
+  --accent-hover: #a34e00;
+  --border-color: #dfcba5;
+  --border-light: #ebd9b5;
+  --line-color: #d8c9a5;
+  --shadow-color: rgba(217, 119, 6, 0.06);
+}
+
+html.dark-mode, body.dark-mode {
+  --bg-color: #12161a !important;
+  --card-bg: #1c2228 !important;
+  --header-box: #242c34 !important;
+  --text-main: #e6edf3 !important;
+  --text-muted: #9ba7b4 !important;
+  --accent: #e58e26 !important;
+  --accent-hover: #fa983a !important;
+  --border-color: #3b4654 !important;
+  --border-light: #2d3742 !important;
+  --line-color: #3b4654 !important;
+  --shadow-color: rgba(0, 0, 0, 0.4) !important;
+}
+
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  max-width: 100vw !important;
+  overflow-x: hidden !important;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  background-color: var(--bg-color) !important;
+  font-family: 'Vijaya', 'Noto Serif Tamil', Georgia, serif !important;
+  color: var(--text-main) !important;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+*, *::before, *::after, button, input, textarea, select {
+  box-sizing: inherit;
+  font-family: 'Vijaya', 'Noto Serif Tamil', Georgia, serif !important;
+}
+
+.kural-lang-hi,
+html[data-lang="hi"] .kural-lang-hi {
+  font-family: 'Tiro Devanagari Hindi', serif !important;
+}
+
+/* ==========================================================================
+   MULTI-LANGUAGE VISIBILITY TOGGLING (TA / EN / HI)
+   ========================================================================== */
+html[data-lang="ta"] .kural-lang-en,
+html[data-lang="ta"] .kural-lang-hi,
+html[data-lang="en"] .kural-lang-ta,
+html[data-lang="en"] .kural-lang-hi,
+html[data-lang="hi"] .kural-lang-ta,
+html[data-lang="hi"] .kural-lang-en {
+  display: none !important;
+}
+
+.porul-main-container {
+  width: 100%;
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 12px 16px 40px;
+  line-height: 1.7;
+}
+
+/* ==========================================================================
+   STANDALONE GITHUB TOP UTILITY BAR (LANGUAGE & THEME TOGGLES)
+   ========================================================================== */
+.github-utility-bar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.util-pill-btn {
+  background: var(--header-box);
+  color: var(--accent);
+  border: 1.5px solid var(--border-color);
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 5px var(--shadow-color);
+}
+
+.util-pill-btn:hover {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+
+/* ==========================================================================
+   HEADER (EXACT HOMEPAGE STYLING)
+   ========================================================================== */
+.porul-header {
+  text-align: center;
+  padding: 5px 10px 22px;
+  border-bottom: 1px solid var(--line-color);
+  margin-bottom: 24px;
+}
+
+.porul-header h1 {
+  margin: 0;
+  font-size: clamp(28px, 5.5vw, 42px);
+  font-weight: 600;
+  color: var(--text-main);
+  line-height: 1.3;
+}
+
+.porul-header .english {
+  margin-top: 4px;
+  font-size: 15px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.porul-header .subtitle {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+/* ==========================================================================
+   BOUNDARY NOTICE BANNER (SHOWN IF USER EXCEEDS PORUL SCOPE)
+   ========================================================================== */
+.porul-boundary-notice {
+  display: none;
+  background: var(--header-box);
+  border: 1.5px solid var(--accent);
+  border-radius: 12px;
+  padding: 14px 18px;
+  margin: 0 auto 20px;
+  max-width: 720px;
+  text-align: center;
+  color: var(--text-main);
+  box-shadow: 0 4px 12px var(--shadow-color);
+}
+
+.porul-boundary-notice.visible {
+  display: block;
+}
+
+.porul-boundary-notice strong {
+  color: var(--accent);
+  font-size: 17px;
+  display: block;
+  margin-bottom: 4px;
+}
+
+/* ==========================================================================
+   THREE PRIMARY CARDS (EXACT PAAL-CARD DESIGN FROM HOMEPAGE)
+   ========================================================================== */
+.three-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  margin: 30px 0;
+  align-items: stretch;
+}
+
+.hub-card {
+  min-width: 0;
+  padding: 28px 18px 22px;
+  text-align: center;
+  border: 1.5px solid var(--border-color);
+  border-radius: 14px;
+  background: var(--card-bg);
+  box-shadow: 0 4px 14px var(--shadow-color);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+  user-select: none;
+}
+
+.hub-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--accent);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.hub-card h2 {
+  margin: 0;
+  font-size: 32px;
+  font-weight: 600;
+  color: var(--accent);
+  line-height: 1.2;
+}
+
+.hub-card .english {
+  margin-top: 4px;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.hub-card .traditional {
+  margin-top: 10px;
+  font-size: 17px;
+  color: var(--text-main);
+  font-weight: 600;
+}
+
+.hub-card .count {
+  margin-top: 6px;
+  font-size: 14px;
+  color: var(--text-muted);
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1.4;
+}
+
+.hub-card-btn {
+  background: var(--accent);
+  color: #ffffff !important;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 8px 18px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s ease;
+  width: 100%;
+  margin-top: auto;
+}
+
+.hub-card:hover .hub-card-btn {
+  background: var(--accent-hover);
+}
+
+/* ==========================================================================
+   VOICE OVERVIEW (EXACT HOMEPAGE VOICE-OVERVIEW CARD FORMAT)
+   ========================================================================== */
+.porul-audio-banner {
+  max-width: 650px;
+  margin: 0 auto;
+  border: 1.5px solid var(--border-color);
+  border-radius: 14px;
+  background: var(--card-bg);
+  box-shadow: 0 4px 14px var(--shadow-color);
+  padding: 22px 24px;
+  text-align: left;
+}
+
+.voice-overview {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+  text-align: left;
+}
+
+.voice-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+  color: var(--accent);
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.voice-overview audio {
+  display: block;
+  width: 100% !important;
+  max-width: 100%;
+  height: 40px;
+}
+
+.voice-help {
+  margin: 6px 0 0;
+  color: var(--text-muted);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+/* ==========================================================================
+   POPUP MODAL STYLES (HOMEPAGE CLEAN BOXES)
+   ========================================================================== */
+.modal-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.65);
+  z-index: 99999;
+  justify-content: center;
+  align-items: center;
+  padding: 14px;
+}
+
+.modal-overlay.active {
+  display: flex;
+}
+
+.modal-box {
+  background-color: var(--card-bg);
+  max-width: 620px;
+  width: 100%;
+  max-height: 85vh;
+  border-radius: 16px;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.35);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: 1.5px solid var(--border-color);
+  overflow-y: auto;
+}
+
+.modal-header {
+  background: var(--header-box);
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border-light);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.modal-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--accent);
+  margin: 0;
+}
+
+.modal-close-btn {
+  font-size: 26px;
+  font-weight: bold;
+  color: var(--accent);
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  line-height: 1;
+}
+
+.modal-filter-bar {
+  background: var(--header-box);
+  padding: 8px 14px;
+  border-radius: 10px;
+  border: 1px solid var(--border-light);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  font-weight: bold;
+  color: var(--text-main);
+}
+
+.modal-reset-btn {
+  background: var(--accent);
+  color: #ffffff;
+  border: none;
+  border-radius: 14px;
+  padding: 4px 12px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.modal-body {
+  padding: 18px 20px 24px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.popup-item-row {
+  background: var(--card-bg);
+  border: 1px solid var(--border-light);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+  padding: 12px 14px;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  gap: 10px;
+}
+
+.popup-item-row:hover {
+  background: var(--header-box);
+  transform: translateX(3px);
+  border-color: var(--accent);
+}
+
+.popup-row-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 1;
+}
+
+.popup-row-badge {
+  background: var(--accent);
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: bold;
+  width: 32px;
+  height: 32px;
+  min-width: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.popup-row-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: var(--text-main);
+}
+
+.popup-row-desc {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.popup-row-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.popup-audio-btn {
+  background: var(--header-box);
+  color: var(--accent);
+  border: 1px solid var(--border-light);
+  border-radius: 18px;
+  padding: 4px 10px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.popup-audio-btn:hover {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+.popup-audio-btn.playing {
+  background: #b71c1c !important;
+  color: #ffffff;
+  border-color: #b71c1c;
+}
+
+.popup-row-right {
+  font-size: 13px;
+  font-weight: bold;
+  color: var(--accent);
+  background: var(--header-box);
+  padding: 4px 10px;
+  border-radius: 12px;
+  border: 1px solid var(--border-light);
+  white-space: nowrap;
+}
+
+.popup-end-badge {
+  text-align: center;
+  padding: 12px;
+  border-radius: 10px;
+  background: var(--header-box);
+  border: 1px dashed var(--accent);
+  color: var(--accent);
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 4px;
+}
+
+/* ==========================================================================
+   MOBILE RESPONSIVENESS
+   ========================================================================== */
+@media screen and (max-width: 768px) {
+  .porul-main-container {
+    padding: 12px 10px 40px !important;
+  }
+  .three-cards-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin: 20px 0;
+  }
+  .popup-item-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  .popup-row-actions {
+    width: 100%;
+    justify-content: space-between;
+  }
+}
+</style>
+</head>
+<body>
+<script src="layout.js"></script>
+
+<div class="porul-main-container">
+
+  <!-- STANDALONE GITHUB UTILITY BAR (LANGUAGE & THEME TOGGLES) -->
+  <div class="github-utility-bar">
+    <button type="button" class="util-pill-btn" onclick="cyclePorulLanguage()" title="Switch Language (தமிழ் / English / हिंदी)">
+      文A <span id="porulLangBadge">தமிழ்</span>
+    </button>
+    <button type="button" class="util-pill-btn" onclick="togglePorulDarkMode()" id="porulThemeBtn" title="Toggle Light / Dark Mode">
+      🌓
+    </button>
+  </div>
+
+  <!-- PAGE HEADER (MULTI-LANGUAGE) -->
+  <header class="porul-header">
+    <!-- Tamil -->
+    <div class="kural-lang-ta">
+      <h1>பொருட்பால்</h1>
+      <div class="english">BOOK OF WEALTH &amp; STATE</div>
+      <div class="subtitle">7 இயல்கள் • 70 அதிகாரங்கள் • 700 குறள்கள்</div>
+    </div>
+    <!-- English -->
+    <div class="kural-lang-en">
+      <h1>Book of Wealth</h1>
+      <div class="english">PORUL / ARTHA</div>
+      <div class="subtitle">7 Divisions • 70 Chapters • 700 Couplets</div>
+    </div>
+    <!-- Hindi -->
+    <div class="kural-lang-hi">
+      <h1>अर्थ खण्ड</h1>
+      <div class="english">PORUL / ARTHA</div>
+      <div class="subtitle">7 विभाग • 70 अध्याय • 700 कुरल</div>
+    </div>
+  </header>
+
+  <!-- END OF PORUL BOUNDARY NOTICE (AUTO-DISPLAYED IF REDIRECTED FROM CH < 39 OR CH > 108) -->
+  <div class="porul-boundary-notice" id="porulBoundaryNotice">
+    <div class="kural-lang-ta">
+      <strong>பொருட்பால் நிறைவுற்றது (குறள் 381 – 1080)</strong>
+      <span>இந்தப் பகுதியில் 7 இயல்கள், 70 அதிகாரங்கள் (39 – 108) மற்றும் 700 குறள்கள் மட்டுமே அணுகக்கூடியவை.</span>
+    </div>
+    <div class="kural-lang-en">
+      <strong>Porul (Book of Wealth) Section Completed (Kurals 381 – 1080)</strong>
+      <span>Only the 7 Divisions, 70 Chapters (39 – 108), and Couplets 381 to 1080 are accessible in this section.</span>
+    </div>
+    <div class="kural-lang-hi">
+      <strong>अर्थ खण्ड पूर्ण हुआ (कुरल 381 – 1080)</strong>
+      <span>इस भाग में केवल 7 विभाग, 70 अध्याय (39 – 108) और 381 से 1080 तक के कुरल ही उपलब्ध हैं।</span>
+    </div>
+  </div>
+
+  <!-- THREE PRIMARY TABS / CARDS (IYAL, ATHIKARAM, KURAL) -->
+  <main class="three-cards-grid">
+
+    <!-- 1. IYAL CARD (7 DIVISIONS ONLY) -->
+    <section class="hub-card" onclick="openModal('iyalModal')">
+      <!-- Tamil -->
+      <div class="kural-lang-ta" style="display: contents;">
+        <h2>இயல்</h2>
+        <div class="english">DIVISIONS</div>
+        <div class="traditional">7 இயல்கள்</div>
+        <div class="count">அரசியல் • அமைச்சியல் • அரணியல் • கூழியல் • படையில் • நட்பியல் • குடியியல்</div>
+        <button class="hub-card-btn" type="button">இயல்கள் காண்க →</button>
+      </div>
+
+      <!-- English -->
+      <div class="kural-lang-en" style="display: contents;">
+        <h2>Divisions</h2>
+        <div class="english">IYALS</div>
+        <div class="traditional">7 Divisions</div>
+        <div class="count">Royalty • Ministers • Forts • Wealth • Army • Friendship • Citizenship</div>
+        <button class="hub-card-btn" type="button">View Divisions →</button>
+      </div>
+
+      <!-- Hindi -->
+      <div class="kural-lang-hi" style="display: contents;">
+        <h2>विभाग</h2>
+        <div class="english">DIVISIONS (இயல்)</div>
+        <div class="traditional">7 विभाग</div>
+        <div class="count">राजधर्म • मंत्रिधर्म • दुर्ग • कोष • सेना • मित्रता • नागरिकता</div>
+        <button class="hub-card-btn" type="button">विभाग देखें →</button>
+      </div>
+    </section>
+
+    <!-- 2. ATHIKARAM CARD (70 CHAPTERS ONLY: 39 TO 108) -->
+    <section class="hub-card" onclick="openAllChaptersModal()">
+      <!-- Tamil -->
+      <div class="kural-lang-ta" style="display: contents;">
+        <h2>அதிகாரம்</h2>
+        <div class="english">CHAPTERS</div>
+        <div class="traditional">70 அதிகாரங்கள்</div>
+        <div class="count">இறைமாட்சி முதல் கயமை வரை</div>
+        <button class="hub-card-btn" type="button">அதிகாரங்கள் காண்க →</button>
+      </div>
+
+      <!-- English -->
+      <div class="kural-lang-en" style="display: contents;">
+        <h2>Chapters</h2>
+        <div class="english">ADHIKARAMS</div>
+        <div class="traditional">70 Chapters</div>
+        <div class="count">The Greatness of a King to Baseness</div>
+        <button class="hub-card-btn" type="button">View Chapters →</button>
+      </div>
+
+      <!-- Hindi -->
+      <div class="kural-lang-hi" style="display: contents;">
+        <h2>अध्याय</h2>
+        <div class="english">CHAPTERS (அதிகாரம்)</div>
+        <div class="traditional">70 अध्याय</div>
+        <div class="count">राजा की महानता से नीचता तक</div>
+        <button class="hub-card-btn" type="button">अध्याय देखें →</button>
+      </div>
+    </section>
+
+    <!-- 3. KURAL CARD (COUPLETS 381 - 1080 ONLY) -->
+    <section class="hub-card" onclick="openModal('kuralRangeModal')">
+      <!-- Tamil -->
+      <div class="kural-lang-ta" style="display: contents;">
+        <h2>குறள்</h2>
+        <div class="english">COUPLETS</div>
+        <div class="traditional">700 குறள்கள்</div>
+        <div class="count">குறள் எண் 381 – 1080</div>
+        <button class="hub-card-btn" type="button">குறள்கள் காண்க →</button>
+      </div>
+
+      <!-- English -->
+      <div class="kural-lang-en" style="display: contents;">
+        <h2>Couplets</h2>
+        <div class="english">KURALS</div>
+        <div class="traditional">700 Couplets</div>
+        <div class="count">Couplets 381 – 1080</div>
+        <button class="hub-card-btn" type="button">View Couplets →</button>
+      </div>
+
+      <!-- Hindi -->
+      <div class="kural-lang-hi" style="display: contents;">
+        <h2>कुरल</h2>
+        <div class="english">COUPLETS (दोहे)</div>
+        <div class="traditional">700 कुरल</div>
+        <div class="count">कुरल संख्या 381 – 1080</div>
+        <button class="hub-card-btn" type="button">कुरल देखें →</button>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- VOICE OVERVIEW (HOMEPAGE EMBEDDED PLAYER DESIGN) -->
+  <div class="porul-audio-banner">
+    <div class="voice-overview">
+      <div class="voice-title">
+        <span>🎙</span>
+        <span class="kural-lang-ta">குரல் விளக்கம் (Audio Overview)</span>
+        <span class="kural-lang-en">Tamil Audio Recitation</span>
+        <span class="kural-lang-hi">तमिल ऑडियो पाठ (Audio Recitation)</span>
+      </div>
+
+      <!-- Single Authentic Tamil audio player -->
+      <audio controls id="porulMasterAudioPlayer" preload="metadata">
+        <source src="YOUR_PORUL_AUDIO_MP3_URL" type="audio/mpeg">
+        Your browser does not support audio.
+      </audio>
+
+      <p class="voice-help kural-lang-ta">பொருட்பால் குரல் விளக்கத்தைக் கேட்க Play பொத்தானை அழுத்தவும்.</p>
+      <p class="voice-help kural-lang-en">Press Play to listen to the authentic Tamil recitation and overview.</p>
+      <p class="voice-help kural-lang-hi">अर्थ खण्ड का प्रामाणिक तमिल पाठ सुनने के लिए Play बटन दबाएं।</p>
+    </div>
+  </div>
+
+</div>
+
+<!-- POPUP 1: IYAL MODAL (7 DIVISIONS OF PORUL) -->
+<div class="modal-overlay" id="iyalModal" onclick="closeModalOnBg(event, 'iyalModal')">
+  <div class="modal-box">
+    <div class="modal-header">
+      <h3 class="modal-title">
+        <span class="kural-lang-ta">பொருட்பால் — 7 இயல்கள்</span>
+        <span class="kural-lang-en">Book of Wealth — 7 Divisions</span>
+        <span class="kural-lang-hi">अर्थ खण्ड — 7 विभाग</span>
+      </h3>
+      <button class="modal-close-btn" onclick="closeModal('iyalModal')" type="button">×</button>
+    </div>
+    <div class="modal-body">
+      <!-- Iyal 1 -->
+      <div class="popup-item-row" onclick="filterByIyal(1)">
+        <div class="popup-row-left">
+          <span class="popup-row-badge">1</span>
+          <div>
+            <div class="popup-row-title">
+              <span class="kural-lang-ta">அரசியல் (Royalty, Politics)</span>
+              <span class="kural-lang-en">Royalty / Politics</span>
+              <span class="kural-lang-hi">राजधर्म (Arasiyal)</span>
+            </div>
+            <div class="popup-row-desc">
+              <span class="kural-lang-ta">அதிகாரங்கள் 39 – 63</span>
+              <span class="kural-lang-en">Chapters 39 – 63</span>
+              <span class="kural-lang-hi">अध्याय 39 – 63</span>
+            </div>
+          </div>
+        </div>
+        <div class="popup-row-right">
+          <span class="kural-lang-ta">250 குறள்கள் →</span>
+          <span class="kural-lang-en">250 Kurals →</span>
+          <span class="kural-lang-hi">250 कुरल →</span>
+        </div>
+      </div>
+
+      <!-- Iyal 2 -->
+      <div class="popup-item-row" onclick="filterByIyal(2)">
+        <div class="popup-row-left">
+          <span class="popup-row-badge">2</span>
+          <div>
+            <div class="popup-row-title">
+              <span class="kural-lang-ta">அமைச்சியல் (Ministers of State)</span>
+              <span class="kural-lang-en">Ministers of State</span>
+              <span class="kural-lang-hi">मंत्रिधर्म (Amaichiyal)</span>
+            </div>
+            <div class="popup-row-desc">
+              <span class="kural-lang-ta">அதிகாரங்கள் 64 – 73</span>
+              <span class="kural-lang-en">Chapters 64 – 73</span>
+              <span class="kural-lang-hi">अध्याय 64 – 73</span>
+            </div>
+          </div>
+        </div>
+        <div class="popup-row-right">
+          <span class="kural-lang-ta">100 குறள்கள் →</span>
+          <span class="kural-lang-en">100 Kurals →</span>
+          <span class="kural-lang-hi">100 कुरल →</span>
+        </div>
+      </div>
+
+      <!-- Iyal 3 -->
+      <div class="popup-item-row" onclick="filterByIyal(3)">
+        <div class="popup-row-left">
+          <span class="popup-row-badge">3</span>
+          <div>
+            <div class="popup-row-title">
+              <span class="kural-lang-ta">அரணியல் (Essentials of a State / Forts)</span>
+              <span class="kural-lang-en">The Essentials of a State</span>
+              <span class="kural-lang-hi">दुर्ग / राज्य आवश्यकताएँ (Araniyal)</span>
+            </div>
+            <div class="popup-row-desc">
+              <span class="kural-lang-ta">அதிகாரங்கள் 74 – 75</span>
+              <span class="kural-lang-en">Chapters 74 – 75</span>
+              <span class="kural-lang-hi">अध्याय 74 – 75</span>
+            </div>
+          </div>
+        </div>
+        <div class="popup-row-right">
+          <span class="kural-lang-ta">20 குறள்கள் →</span>
+          <span class="kural-lang-en">20 Kurals →</span>
+          <span class="kural-lang-hi">20 कुरल →</span>
+        </div>
+      </div>
+
+      <!-- Iyal 4 -->
+      <div class="popup-item-row" onclick="filterByIyal(4)">
+        <div class="popup-row-left">
+          <span class="popup-row-badge">4</span>
+          <div>
+            <div class="popup-row-title">
+              <span class="kural-lang-ta">கூழியல் (Way of Making Wealth)</span>
+              <span class="kural-lang-en">Way of Making Wealth</span>
+              <span class="kural-lang-hi">कोष / धनोपार्जन (Koozhiyal)</span>
+            </div>
+            <div class="popup-row-desc">
+              <span class="kural-lang-ta">அதிகாரம் 76</span>
+              <span class="kural-lang-en">Chapter 76</span>
+              <span class="kural-lang-hi">अध्याय 76</span>
+            </div>
+          </div>
+        </div>
+        <div class="popup-row-right">
+          <span class="kural-lang-ta">10 குறள்கள் →</span>
+          <span class="kural-lang-en">10 Kurals →</span>
+          <span class="kural-lang-hi">10 कुरल →</span>
+        </div>
+      </div>
+
+      <!-- Iyal 5 -->
+      <div class="popup-item-row" onclick="filterByIyal(5)">
+        <div class="popup-row-left">
+          <span class="popup-row-badge">5</span>
+          <div>
+            <div class="popup-row-title">
+              <span class="kural-lang-ta">படையில் (The Excellence of an Army)</span>
+              <span class="kural-lang-en">The Excellence of an Army</span>
+              <span class="kural-lang-hi">सेना धर्म (Padaiyiyal)</span>
+            </div>
+            <div class="popup-row-desc">
+              <span class="kural-lang-ta">அதிகாரங்கள் 77 – 78</span>
+              <span class="kural-lang-en">Chapters 77 – 78</span>
+              <span class="kural-lang-hi">अध्याय 77 – 78</span>
+            </div>
+          </div>
+        </div>
+        <div class="popup-row-right">
+          <span class="kural-lang-ta">20 குறள்கள் →</span>
+          <span class="kural-lang-en">20 Kurals →</span>
+          <span class="kural-lang-hi">20 कुरल →</span>
+        </div>
+      </div>
+
+      <!-- Iyal 6 -->
+      <div class="popup-item-row" onclick="filterByIyal(6)">
+        <div class="popup-row-left">
+          <span class="popup-row-badge">6</span>
+          <div>
+            <div class="popup-row-title">
+              <span class="kural-lang-ta">நட்பியல் (Friendship)</span>
+              <span class="kural-lang-en">Friendship</span>
+              <span class="kural-lang-hi">मित्रता (Natpiyal)</span>
+            </div>
+            <div class="popup-row-desc">
+              <span class="kural-lang-ta">அதிகாரங்கள் 79 – 95</span>
+              <span class="kural-lang-en">Chapters 79 – 95</span>
+              <span class="kural-lang-hi">अध्याय 79 – 95</span>
+            </div>
+          </div>
+        </div>
+        <div class="popup-row-right">
+          <span class="kural-lang-ta">170 குறள்கள் →</span>
+          <span class="kural-lang-en">170 Kurals →</span>
+          <span class="kural-lang-hi">170 कुरल →</span>
+        </div>
+      </div>
+
+      <!-- Iyal 7 -->
+      <div class="popup-item-row" onclick="filterByIyal(7)">
+        <div class="popup-row-left">
+          <span class="popup-row-badge">7</span>
+          <div>
+            <div class="popup-row-title">
+              <span class="kural-lang-ta">குடியியல் (Miscellaneous / Citizenship)</span>
+              <span class="kural-lang-en">Citizenship / Miscellaneous</span>
+              <span class="kural-lang-hi">नागरिकता / प्रकीर्ण (Kudiyiyal)</span>
+            </div>
+            <div class="popup-row-desc">
+              <span class="kural-lang-ta">அதிகாரங்கள் 96 – 108</span>
+              <span class="kural-lang-en">Chapters 96 – 108</span>
+              <span class="kural-lang-hi">अध्याय 96 – 108</span>
+            </div>
+          </div>
+        </div>
+        <div class="popup-row-right">
+          <span class="kural-lang-ta">130 குறள்கள் →</span>
+          <span class="kural-lang-en">130 Kurals →</span>
+          <span class="kural-lang-hi">130 कुरल →</span>
+        </div>
+      </div>
+
+      <div class="popup-end-badge">
+        <span class="kural-lang-ta">பொருட்பால் 7 இயல்கள் நிறைவு</span>
+        <span class="kural-lang-en">End of 7 Divisions in Book of Wealth</span>
+        <span class="kural-lang-hi">अर्थ खण्ड के 7 विभाग समाप्त</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- POPUP 2: ATHIKARAM MODAL (CHAPTERS 39 - 108) -->
+<div class="modal-overlay" id="athikaramModal" onclick="closeModalOnBg(event, 'athikaramModal')">
+  <div class="modal-box">
+    <div class="modal-header">
+      <h3 class="modal-title">
+        <span class="kural-lang-ta">பொருட்பால் — 70 அதிகாரங்கள்</span>
+        <span class="kural-lang-en">Book of Wealth — 70 Chapters</span>
+        <span class="kural-lang-hi">अर्थ खण्ड — 70 अध्याय</span>
+      </h3>
+      <button class="modal-close-btn" onclick="closeModal('athikaramModal')" type="button">×</button>
+    </div>
+    <div class="modal-body" id="athikaramListContainer">
+      <!-- Auto-populated by JS -->
+    </div>
+  </div>
+</div>
+
+<!-- POPUP 3: KURAL RANGE MODAL (COUPLETS 381 - 1080) -->
+<div class="modal-overlay" id="kuralRangeModal" onclick="closeModalOnBg(event, 'kuralRangeModal')">
+  <div class="modal-box">
+    <div class="modal-header">
+      <h3 class="modal-title">
+        <span class="kural-lang-ta">பொருட்பால் குறள்கள் (381–1080)</span>
+        <span class="kural-lang-en">Wealth Couplets (381–1080)</span>
+        <span class="kural-lang-hi">अर्थ खण्ड कुरल (381–1080)</span>
+      </h3>
+      <button class="modal-close-btn" onclick="closeModal('kuralRangeModal')" type="button">×</button>
+    </div>
+    <div class="modal-body" id="kuralRangeListContainer">
+      <!-- Auto-populated by JS -->
+    </div>
+  </div>
+</div>
+
+<script>
+/* ==========================================================================
+   0. STANDALONE GITHUB LANGUAGE & THEME SYNC
+   ========================================================================== */
+function applyPorulLanguage(lang) {
+  if (!['ta', 'en', 'hi'].includes(lang)) lang = 'ta';
+  document.documentElement.setAttribute('data-lang', lang);
+  try {
+    localStorage.setItem('daily_kural_lang', lang);
+  } catch (e) {}
+
+  const badge = document.getElementById('porulLangBadge');
+  if (badge) {
+    if (lang === 'en') badge.textContent = 'English';
+    else if (lang === 'hi') badge.textContent = 'हिंदी';
+    else badge.textContent = 'தமிழ்';
+  }
+}
+
+function cyclePorulLanguage() {
+  const current = document.documentElement.getAttribute('data-lang') || localStorage.getItem('daily_kural_lang') || 'ta';
+  const next = (current === 'ta') ? 'en' : (current === 'en' ? 'hi' : 'ta');
+  applyPorulLanguage(next);
+  stopAllChapterAudio();
+  const mainAudio = document.getElementById('porulMasterAudioPlayer');
+  if (mainAudio && !mainAudio.paused) mainAudio.pause();
+}
+
+function applyPorulTheme(isDark) {
+  if (isDark) {
+    document.documentElement.classList.add('dark-mode');
+    document.body.classList.add('dark-mode');
+  } else {
+    document.documentElement.classList.remove('dark-mode');
+    document.body.classList.remove('dark-mode');
+  }
+}
+
+function togglePorulDarkMode() {
+  const isDark = !document.documentElement.classList.contains('dark-mode');
+  applyPorulTheme(isDark);
+  try {
+    localStorage.setItem('daily_kural_theme', isDark ? 'dark' : 'light');
+  } catch (e) {}
+}
+
+/* ==========================================================================
+   1. STRICT PORUL BOUNDARIES & GITHUB CHAPTER WEBPAGE LINKS
+   - Passes &paal=porul so chapters.html locks navigation to Kurals 381-1080
+   ========================================================================== */
+const PORUL_MAX_IYAL = 7;
+const PORUL_MIN_CHAPTER = 39;
+const PORUL_MAX_CHAPTER = 108;
+const PORUL_MIN_KURAL = 381;
+const PORUL_MAX_KURAL = 1080;
+
+const adhikaramLinks = {};
+for (let i = PORUL_MIN_CHAPTER; i <= PORUL_MAX_CHAPTER; i++) {
+  adhikaramLinks[i] = `chapters.html?ch=${i}&paal=porul`;
+}
+
+/* ==========================================================================
+   2. CHAPTER VOICE OVERVIEW AUDIO LINKS (AUTHENTIC TAMIL RECITATIONS)
+   ========================================================================== */
+const adhikaramAudioLinks = {
+  39: "PASTE-CHAPTER-39-AUDIO-URL-HERE",
+  40: "PASTE-CHAPTER-40-AUDIO-URL-HERE",
+  41: "PASTE-CHAPTER-41-AUDIO-URL-HERE",
+  42: "PASTE-CHAPTER-42-AUDIO-URL-HERE",
+  43: "PASTE-CHAPTER-43-AUDIO-URL-HERE",
+  44: "PASTE-CHAPTER-44-AUDIO-URL-HERE",
+  45: "PASTE-CHAPTER-45-AUDIO-URL-HERE",
+  46: "PASTE-CHAPTER-46-AUDIO-URL-HERE",
+  47: "PASTE-CHAPTER-47-AUDIO-URL-HERE",
+  48: "PASTE-CHAPTER-48-AUDIO-URL-HERE",
+  49: "PASTE-CHAPTER-49-AUDIO-URL-HERE",
+  50: "PASTE-CHAPTER-50-AUDIO-URL-HERE",
+  51: "PASTE-CHAPTER-51-AUDIO-URL-HERE",
+  52: "PASTE-CHAPTER-52-AUDIO-URL-HERE",
+  53: "PASTE-CHAPTER-53-AUDIO-URL-HERE",
+  54: "PASTE-CHAPTER-54-AUDIO-URL-HERE",
+  55: "PASTE-CHAPTER-55-AUDIO-URL-HERE",
+  56: "PASTE-CHAPTER-56-AUDIO-URL-HERE",
+  57: "PASTE-CHAPTER-57-AUDIO-URL-HERE",
+  58: "PASTE-CHAPTER-58-AUDIO-URL-HERE",
+  59: "PASTE-CHAPTER-59-AUDIO-URL-HERE",
+  60: "PASTE-CHAPTER-60-AUDIO-URL-HERE",
+  61: "PASTE-CHAPTER-61-AUDIO-URL-HERE",
+  62: "PASTE-CHAPTER-62-AUDIO-URL-HERE",
+  63: "PASTE-CHAPTER-63-AUDIO-URL-HERE",
+  64: "PASTE-CHAPTER-64-AUDIO-URL-HERE",
+  65: "PASTE-CHAPTER-65-AUDIO-URL-HERE",
+  66: "PASTE-CHAPTER-66-AUDIO-URL-HERE",
+  67: "PASTE-CHAPTER-67-AUDIO-URL-HERE",
+  68: "PASTE-CHAPTER-68-AUDIO-URL-HERE",
+  69: "PASTE-CHAPTER-69-AUDIO-URL-HERE",
+  70: "PASTE-CHAPTER-70-AUDIO-URL-HERE",
+  71: "PASTE-CHAPTER-71-AUDIO-URL-HERE",
+  72: "PASTE-CHAPTER-72-AUDIO-URL-HERE",
+  73: "PASTE-CHAPTER-73-AUDIO-URL-HERE",
+  74: "PASTE-CHAPTER-74-AUDIO-URL-HERE",
+  75: "PASTE-CHAPTER-75-AUDIO-URL-HERE",
+  76: "PASTE-CHAPTER-76-AUDIO-URL-HERE",
+  77: "PASTE-CHAPTER-77-AUDIO-URL-HERE",
+  78: "PASTE-CHAPTER-78-AUDIO-URL-HERE",
+  79: "PASTE-CHAPTER-79-AUDIO-URL-HERE",
+  80: "PASTE-CHAPTER-80-AUDIO-URL-HERE",
+  81: "PASTE-CHAPTER-81-AUDIO-URL-HERE",
+  82: "PASTE-CHAPTER-82-AUDIO-URL-HERE",
+  83: "PASTE-CHAPTER-83-AUDIO-URL-HERE",
+  84: "PASTE-CHAPTER-84-AUDIO-URL-HERE",
+  85: "PASTE-CHAPTER-85-AUDIO-URL-HERE",
+  86: "PASTE-CHAPTER-86-AUDIO-URL-HERE",
+  87: "PASTE-CHAPTER-87-AUDIO-URL-HERE",
+  88: "PASTE-CHAPTER-88-AUDIO-URL-HERE",
+  89: "PASTE-CHAPTER-89-AUDIO-URL-HERE",
+  90: "PASTE-CHAPTER-90-AUDIO-URL-HERE",
+  91: "PASTE-CHAPTER-91-AUDIO-URL-HERE",
+  92: "PASTE-CHAPTER-92-AUDIO-URL-HERE",
+  93: "PASTE-CHAPTER-93-AUDIO-URL-HERE",
+  94: "PASTE-CHAPTER-94-AUDIO-URL-HERE",
+  95: "PASTE-CHAPTER-95-AUDIO-URL-HERE",
+  96: "PASTE-CHAPTER-96-AUDIO-URL-HERE",
+  97: "PASTE-CHAPTER-97-AUDIO-URL-HERE",
+  98: "PASTE-CHAPTER-98-AUDIO-URL-HERE",
+  99: "PASTE-CHAPTER-99-AUDIO-URL-HERE",
+  100: "PASTE-CHAPTER-100-AUDIO-URL-HERE",
+  101: "PASTE-CHAPTER-101-AUDIO-URL-HERE",
+  102: "PASTE-CHAPTER-102-AUDIO-URL-HERE",
+  103: "PASTE-CHAPTER-103-AUDIO-URL-HERE",
+  104: "PASTE-CHAPTER-104-AUDIO-URL-HERE",
+  105: "PASTE-CHAPTER-105-AUDIO-URL-HERE",
+  106: "PASTE-CHAPTER-106-AUDIO-URL-HERE",
+  107: "PASTE-CHAPTER-107-AUDIO-URL-HERE",
+  108: "PASTE-CHAPTER-108-AUDIO-URL-HERE"
+};
+
+/* ==========================================================================
+   3. PORUL MASTER DATA (MAPPED TO 7 IYALS / CHAPTERS 39 TO 108)
+   ========================================================================== */
+const porulChapters = [
+  /* IYAL 1: அரசியல் (39-63) */
+  { id: 39, name: "இறைமாட்சி", eng: "The Greatness of a King", hi: "राजा की महानता", range: "381–390", iyal: 1 },
+  { id: 40, name: "கல்வி", eng: "Learning", hi: "विद्या / शिक्षा", range: "391–400", iyal: 1 },
+  { id: 41, name: "கல்லாமை", eng: "Ignorance", hi: "अविद्या / अशिक्षा", range: "401–410", iyal: 1 },
+  { id: 42, name: "கேள்வி", eng: "Listening / Knowledge acquired by Listening", hi: "श्रवण ज्ञान", range: "411–420", iyal: 1 },
+  { id: 43, name: "அறிவுடைமை", eng: "The Possession of Wisdom", hi: "बुद्धिमत्ता", range: "421–430", iyal: 1 },
+  { id: 44, name: "குற்றங்கடிதல்", eng: "The Correction of Faults", hi: "दोष निवारण", range: "431–440", iyal: 1 },
+  { id: 45, name: "பெரியாரைத் துணைக்கோடல்", eng: "Seeking the Aid of Great Men", hi: "महापुरुषों का साथ", range: "441–450", iyal: 1 },
+  { id: 46, name: "சிற்றினஞ்சேராமை", eng: "Avoiding Mean Company", hi: "कुसंगति त्याग", range: "451–460", iyal: 1 },
+  { id: 47, name: "தெரிந்துசெயல்வகை", eng: "Deliberation before Action", hi: "विचार कर कार्य करना", range: "461–470", iyal: 1 },
+  { id: 48, name: "வலியறிதல்", eng: "Judging Strength", hi: "शक्ति का आंकलन", range: "471–480", iyal: 1 },
+  { id: 49, name: "காலமறிதல்", eng: "Knowing the Fitting Time", hi: "समय की पहचान", range: "481–490", iyal: 1 },
+  { id: 50, name: "இடனறிதல்", eng: "Knowing the Place", hi: "स्थान की पहचान", range: "491–500", iyal: 1 },
+  { id: 51, name: "தெரிந்துதெளிதல்", eng: "Testing of Men for Confidence", hi: "परख कर विश्वास करना", range: "501–510", iyal: 1 },
+  { id: 52, name: "தெரிந்துவினையாடல்", eng: "Testing and Employment of Men", hi: "योग्य व्यक्तियों को कार्य सौंपना", range: "511–520", iyal: 1 },
+  { id: 53, name: "சுற்றந்தழால்", eng: "Cherishing Kinsmen", hi: "स्वजनों का आदर", range: "521–530", iyal: 1 },
+  { id: 54, name: "பொச்சாவாமை", eng: "Unforgetfulness / Alertness", hi: "प्रमाद त्याग / सतर्कता", range: "531–540", iyal: 1 },
+  { id: 55, name: "செங்கோன்மை", eng: "The Right Scepter / Just Rule", hi: "न्यायपूर्ण शासन", range: "541–550", iyal: 1 },
+  { id: 56, name: "கொடுங்கோன்மை", eng: "The Cruel Scepter / Tyranny", hi: "अन्यायपूर्ण शासन / अत्याचार", range: "551–560", iyal: 1 },
+  { id: 57, name: "வெருவந்தசெய்யாமை", eng: "Absence of Terrorism", hi: "आतंक का अभाव", range: "561–570", iyal: 1 },
+  { id: 58, name: "கண்ணோட்டம்", eng: "Benignity / Kindness", hi: "सहानुभूति / कृपा", range: "571–580", iyal: 1 },
+  { id: 59, name: "ஒற்றாடல்", eng: "Espionage / Spies", hi: "गुप्तचर व्यवस्था", range: "581–590", iyal: 1 },
+  { id: 60, name: "ஊக்கமுடைமை", eng: "Energy / Enthusiasm", hi: "उत्साह", range: "591–600", iyal: 1 },
+  { id: 61, name: "மடியின்மை", eng: "Unsluggishness / Avoidance of Laziness", hi: "आलस्य त्याग", range: "601–610", iyal: 1 },
+  { id: 62, name: "ஆள்வினையுடைமை", eng: "Manly Effort / Perseverance", hi: "परिश्रम व पुरुषार्थ", range: "611–620", iyal: 1 },
+  { id: 63, name: "இடுக்கணழியாமை", eng: "Hopefulness in Trouble", hi: "संकट में धैर्य", range: "621–630", iyal: 1 },
+
+  /* IYAL 2: அமைச்சியல் (64-73) */
+  { id: 64, name: "அமைச்சு", eng: "The Office of Minister of State", hi: "मंत्रिपरिषद", range: "631–640", iyal: 2 },
+  { id: 65, name: "சொல்வன்மை", eng: "Power of Speech", hi: "वाकपटुता", range: "641–650", iyal: 2 },
+  { id: 66, name: "வினைத்தூய்மை", eng: "Purity in Action", hi: "कर्म की पवित्रता", range: "651–660", iyal: 2 },
+  { id: 67, name: "வினைத்திட்பம்", eng: "Power in Action / Firmness", hi: "दृढ़ संकल्प", range: "661–670", iyal: 2 },
+  { id: 68, name: "வினைசெயல்வகை", eng: "Modes of Action", hi: "कार्य संपादन की विधि", range: "671–680", iyal: 2 },
+  { id: 69, name: "தூது", eng: "The Envoy / Ambassador", hi: "दूत कर्म", range: "681–690", iyal: 2 },
+  { id: 70, name: "மன்னரைச்சேர்ந்தொழுகல்", eng: "Conduct in the Presence of the King", hi: "राजा के समीप आचरण", range: "691–700", iyal: 2 },
+  { id: 71, name: "குறிப்பறிதல்", eng: "The Knowledge of Indications / Signs", hi: "भाव पहचानना", range: "701–710", iyal: 2 },
+  { id: 72, name: "அவையறிதல்", eng: "Knowledge of the Council Chamber", hi: "सभा की मर्यादा", range: "711–720", iyal: 2 },
+  { id: 73, name: "அவையஞ்சாமை", eng: "Not Dreading the Council", hi: "सभा में निर्भीकता", range: "721–730", iyal: 2 },
+
+  /* IYAL 3: அரணியல் (74-75) */
+  { id: 74, name: "நாடு", eng: "The Land / Country", hi: "राष्ट्र / देश", range: "731–740", iyal: 3 },
+  { id: 75, name: "அரண்", eng: "The Fortification", hi: "दुर्ग / किला", range: "741–750", iyal: 3 },
+
+  /* IYAL 4: கூழியல் (76) */
+  { id: 76, name: "பொருள்செயல்வகை", eng: "Way of Making Wealth", hi: "धनोपार्जन की विधि", range: "751–760", iyal: 4 },
+
+  /* IYAL 5: படையில் (77-78) */
+  { id: 77, name: "படைமாட்சி", eng: "The Excellence of an Army", hi: "सेना की महत्ता", range: "761–770", iyal: 5 },
+  { id: 78, name: "படைச்செருக்கு", eng: "Military Spirit / Valour", hi: "सैनिक शौर्य", range: "771–780", iyal: 5 },
+
+  /* IYAL 6: நட்பியல் (79-95) */
+  { id: 79, name: "நட்பு", eng: "Friendship", hi: "मित्रता", range: "781–790", iyal: 6 },
+  { id: 80, name: "நட்பாராய்தல்", eng: "Investigation in Forming Friendships", hi: "मित्र की परख", range: "791–800", iyal: 6 },
+  { id: 81, name: "பழைமை", eng: "Familiarity / Intimacy", hi: "पुरानी मित्रता", range: "801–810", iyal: 6 },
+  { id: 82, name: "தீ நட்பு", eng: "Evil Friendship", hi: "बुरी संगति / कुमित्रता", range: "811–820", iyal: 6 },
+  { id: 83, name: "கூடாநட்பு", eng: "Unreal Friendship", hi: "कपटपूर्ण मित्रता", range: "821–830", iyal: 6 },
+  { id: 84, name: "பேதைமை", eng: "Folly", hi: "मूर्खता", range: "831–840", iyal: 6 },
+  { id: 85, name: "புல்லறிவாண்மை", eng: "Ignorance / Conceit", hi: "अल्पज्ञता का घमंड", range: "841–850", iyal: 6 },
+  { id: 86, name: "இகல்", eng: "Hostility / Enmity", hi: "शत्रुता", range: "851–860", iyal: 6 },
+  { id: 87, name: "பகைமாட்சி", eng: "The Might of Hatred / Noble Hostility", hi: "शत्रु की महत्ता", range: "861–870", iyal: 6 },
+  { id: 88, name: "பகைத்திறந்தெரிதல்", eng: "Knowing the Quality of Hate", hi: "शत्रुता का स्वरूप", range: "871–880", iyal: 6 },
+  { id: 89, name: "உட்பகை", eng: "Enmity Within / Internal Enmity", hi: "भीतरी शत्रु", range: "881–890", iyal: 6 },
+  { id: 90, name: "பெரியாரைப் பிழையாமை", eng: "Not Offending the Great", hi: "बड़ों का अनादर न करना", range: "891–900", iyal: 6 },
+  { id: 91, name: "பெண்வழிச்சேறல்", eng: "Being Led by Women", hi: "स्त्री के वशीभूत होना", range: "901–910", iyal: 6 },
+  { id: 92, name: "வரைவின்மகளிர்", eng: "Wanton Women / Public Women", hi: "वेश्यावृत्ति त्याग", range: "911–920", iyal: 6 },
+  { id: 93, name: "கள்ளுண்ணாமை", eng: "Not Drinking Palm-Wine / Sobriety", hi: "मद्यपान निषेध", range: "921–930", iyal: 6 },
+  { id: 94, name: "சூது", eng: "Gambling", hi: "द्यूत / जुआ निषेध", range: "931–940", iyal: 6 },
+  { id: 95, name: "மருந்து", eng: "Medicine", hi: "औषधि व स्वास्थ्य", range: "941–950", iyal: 6 },
+
+  /* IYAL 7: குடியியல் (96-108) */
+  { id: 96, name: "குடிமை", eng: "Nobility / Noble Birth", hi: "सत्कुल उत्पन्न", range: "951–960", iyal: 7 },
+  { id: 97, name: "மானம்", eng: "Honour / Self-Respect", hi: "स्वाभिमान / मान", range: "961–970", iyal: 7 },
+  { id: 98, name: "பெருமை", eng: "Greatness", hi: "बड़प्पन / महानता", range: "971–980", iyal: 7 },
+  { id: 99, name: "சான்றாண்மை", eng: "Perfectness / Perfect Goodness", hi: "सज्जनता", range: "981–990", iyal: 7 },
+  { id: 100, name: "பண்புடைமை", eng: "Courtesy / Good Manners", hi: "शिष्टता", range: "991–1000", iyal: 7 },
+  { id: 101, name: "நன்றியில்செல்வம்", eng: "Wealth without Benefaction", hi: "अनुपयोगी धन", range: "1001–1010", iyal: 7 },
+  { id: 102, name: "நாணுடைமை", eng: "Shame / Modesty", hi: "लज्जाशीलता", range: "1011–1020", iyal: 7 },
+  { id: 103, name: "குடிசெயல்வகை", eng: "The Way of Maintaining the Family", hi: "कुल की उन्नति", range: "1021–1030", iyal: 7 },
+  { id: 104, name: "உழவு", eng: "Farming / Agriculture", hi: "कृषि / खेती", range: "1031–1040", iyal: 7 },
+  { id: 105, name: "நல்குரவு", eng: "Poverty", hi: "दरिद्रता / निर्धनता", range: "1041–1050", iyal: 7 },
+  { id: 106, name: "இரவு", eng: "Mendicancy / Asking Aid", hi: "याचना", range: "1051–1060", iyal: 7 },
+  { id: 107, name: "இரவச்சம்", eng: "The Dread of Mendicancy", hi: "याचना का भय", range: "1061–1070", iyal: 7 },
+  { id: 108, name: "கயமை", eng: "Baseness / Vileness", hi: "दुष्टता / नीचता", range: "1071–1080", iyal: 7 }
+];
+
+const iyalNames = {
+  1: { ta: "அரசியல்", en: "Royalty / Politics", hi: "राजधर्म" },
+  2: { ta: "அமைச்சியல்", en: "Ministers of State", hi: "मंत्रिधर्म" },
+  3: { ta: "அரணியல்", en: "The Essentials of a State", hi: "दुर्ग / राज्य आवश्यकताएँ" },
+  4: { ta: "கூழியல்", en: "Way of Making Wealth", hi: "कोष / धनोपार्जन" },
+  5: { ta: "படையில்", en: "The Excellence of an Army", hi: "सेना धर्म" },
+  6: { ta: "நட்பியல்", en: "Friendship", hi: "मित्रता" },
+  7: { ta: "குடியியல்", en: "Citizenship / Miscellaneous", hi: "नागरिकता / प्रकीर्ण" }
+};
+
+/* ==========================================================================
+   4. DYNAMIC LIST RENDERERS (STRICTLY CAPPED AT 7 DIVISIONS & CHAPTERS 39-108)
+   ========================================================================== */
+function renderAthikaramList(filterIyal = null) {
+  const container = document.getElementById('athikaramListContainer');
+  if (!container) return;
+
+  const validFilter = (filterIyal && filterIyal >= 1 && filterIyal <= PORUL_MAX_IYAL) ? filterIyal : null;
+  const list = porulChapters.filter(
+    c => c.id >= PORUL_MIN_CHAPTER && c.id <= PORUL_MAX_CHAPTER && (!validFilter || c.iyal === validFilter)
+  );
+
+  let filterBannerHTML = "";
+  if (validFilter) {
+    const info = iyalNames[validFilter];
+    filterBannerHTML = `
+      <div class="modal-filter-bar">
+        <span>
+          <span class="kural-lang-ta">இயல் ${validFilter}: ${info.ta}</span>
+          <span class="kural-lang-en">Division ${validFilter}: ${info.en}</span>
+          <span class="kural-lang-hi">विभाग ${validFilter}: ${info.hi}</span>
+        </span>
+        <button class="modal-reset-btn" onclick="renderAthikaramList(null)" type="button">
+          <span class="kural-lang-ta">அனைத்து 70 அதிகாரங்கள்</span>
+          <span class="kural-lang-en">All 70 Chapters</span>
+          <span class="kural-lang-hi">सभी 70 अध्याय</span>
+        </button>
+      </div>
+    `;
+  }
+
+  const rowsHTML = list.map(ch => `
+    <div class="popup-item-row" onclick="navigateToChapter(${ch.id})">
+      <div class="popup-row-left">
+        <span class="popup-row-badge">${ch.id}</span>
+        <div>
+          <div class="popup-row-title">
+            <span class="kural-lang-ta">${ch.name}</span>
+            <span class="kural-lang-en">${ch.eng}</span>
+            <span class="kural-lang-hi">${ch.hi}</span>
+          </div>
+          <div class="popup-row-desc">
+            <span class="kural-lang-ta">${ch.eng}</span>
+            <span class="kural-lang-en">${ch.name}</span>
+            <span class="kural-lang-hi">${ch.name}</span>
+          </div>
+        </div>
+      </div>
+      <div class="popup-row-actions">
+        <button class="popup-audio-btn" id="audioBtn_${ch.id}" onclick="playChapterAudio(event, ${ch.id})" type="button">
+          <span>▶</span>
+          <span>
+            <span class="kural-lang-ta">ஒலி</span>
+            <span class="kural-lang-en">Audio</span>
+            <span class="kural-lang-hi">ऑडियो</span>
+          </span>
+        </button>
+        <div class="popup-row-right">
+          <span class="kural-lang-ta">குறள் ${ch.range} &rarr;</span>
+          <span class="kural-lang-en">Kural ${ch.range} &rarr;</span>
+          <span class="kural-lang-hi">कुरल ${ch.range} &rarr;</span>
+        </div>
+      </div>
+    </div>
+  `).join('');
+
+  const endBadgeHTML = `
+    <div class="popup-end-badge">
+      <span class="kural-lang-ta">பொருட்பால் நிறைவுற்றது (குறள் 381 – 1080 வரை மட்டுமே)</span>
+      <span class="kural-lang-en">End of Porul — Book of Wealth (Couplets 381 – 1080 Only)</span>
+      <span class="kural-lang-hi">अर्थ खण्ड समाप्त (केवल कुरल 381 – 1080 तक)</span>
+    </div>
+  `;
+
+  container.innerHTML = filterBannerHTML + rowsHTML + endBadgeHTML;
+}
+
+function renderKuralRangeList() {
+  const container = document.getElementById('kuralRangeListContainer');
+  if (!container) return;
+
+  const rowsHTML = porulChapters
+    .filter(ch => ch.id >= PORUL_MIN_CHAPTER && ch.id <= PORUL_MAX_CHAPTER)
+    .map(ch => `
+      <div class="popup-item-row" onclick="navigateToChapter(${ch.id})">
+        <div class="popup-row-left">
+          <span class="popup-row-badge">${ch.id}</span>
+          <div>
+            <div class="popup-row-title">
+              <span class="kural-lang-ta">குறள் ${ch.range}</span>
+              <span class="kural-lang-en">Kurals ${ch.range}</span>
+              <span class="kural-lang-hi">कुरल ${ch.range}</span>
+            </div>
+            <div class="popup-row-desc">
+              <span class="kural-lang-ta">${ch.name}</span>
+              <span class="kural-lang-en">${ch.eng}</span>
+              <span class="kural-lang-hi">${ch.hi}</span>
+            </div>
+          </div>
+        </div>
+        <div class="popup-row-actions">
+          <button class="popup-audio-btn" id="audioBtn_range_${ch.id}" onclick="playChapterAudio(event, ${ch.id})" type="button">
+            <span>▶</span>
+            <span>
+              <span class="kural-lang-ta">ஒலி</span>
+              <span class="kural-lang-en">Audio</span>
+              <span class="kural-lang-hi">ऑडियो</span>
+            </span>
+          </button>
+          <div class="popup-row-right">
+            <span class="kural-lang-ta">படிக்க &rarr;</span>
+            <span class="kural-lang-en">Read &rarr;</span>
+            <span class="kural-lang-hi">पढ़ें &rarr;</span>
+          </div>
+        </div>
+      </div>
+    `).join('');
+
+  const endBadgeHTML = `
+    <div class="popup-end-badge">
+      <span class="kural-lang-ta">குறள் 1080-உடன் பொருட்பால் நிறைவுற்றது</span>
+      <span class="kural-lang-en">Porul (Book of Wealth) Ends at Kural 1080</span>
+      <span class="kural-lang-hi">कुरल 1080 पर अर्थ खण्ड समाप्त होता है</span>
+    </div>
+  `;
+
+  container.innerHTML = rowsHTML + endBadgeHTML;
+}
+
+/* ==========================================================================
+   5. MODAL CONTROLS & STRICT PORUL NAVIGATION GUARD
+   ========================================================================== */
+function openModal(id) {
+  document.getElementById(id).classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+
+function openAllChaptersModal() {
+  renderAthikaramList(null);
+  openModal('athikaramModal');
+}
+
+function closeModal(id) {
+  document.getElementById(id).classList.remove('active');
+  document.body.style.overflow = 'auto';
+  stopAllChapterAudio();
+}
+
+function closeModalOnBg(e, id) {
+  if (e.target.id === id) {
+    closeModal(id);
+  }
+}
+
+function filterByIyal(iyalId) {
+  if (iyalId < 1 || iyalId > PORUL_MAX_IYAL) {
+    showPorulEndAlert();
+    return;
+  }
+  closeModal('iyalModal');
+  renderAthikaramList(iyalId);
+  openModal('athikaramModal');
+}
+
+function showPorulEndAlert() {
+  const lang = localStorage.getItem('daily_kural_lang') || 'ta';
+  let msg = "பொருட்பால் நிறைவுற்றது (7 இயல்கள், 70 அதிகாரங்கள் [39–108], குறள் 381 – 1080 வரை மட்டுமே அணுக முடியும்).";
+  if (lang === 'en') {
+    msg = "Porul (Book of Wealth) has ended. Only 7 Divisions, 70 Chapters (39–108), and Kurals 381 to 1080 are accessible here.";
+  } else if (lang === 'hi') {
+    msg = "अर्थ खण्ड समाप्त हो गया है। यहाँ केवल 7 विभाग, 70 अध्याय (39–108) और कुरल 381 से 1080 तक ही उपलब्ध हैं।";
+  }
+  alert(decodeText(msg));
+}
+
+function navigateToChapter(id) {
+  // Enforce strict Porul scope (Chapters 39 to 108 / Kurals 381 to 1080)
+  if (id < PORUL_MIN_CHAPTER || id > PORUL_MAX_CHAPTER) {
+    showPorulEndAlert();
+    return;
+  }
+
+  // Save user session context so chapters.html knows user entered from Porul Hub
+  try {
+    sessionStorage.setItem('daily_kural_active_paal', 'porul');
+    sessionStorage.setItem('daily_kural_min_chapter', String(PORUL_MIN_CHAPTER));
+    sessionStorage.setItem('daily_kural_max_chapter', String(PORUL_MAX_CHAPTER));
+    sessionStorage.setItem('daily_kural_min_kural', String(PORUL_MIN_KURAL));
+    sessionStorage.setItem('daily_kural_max_kural', String(PORUL_MAX_KURAL));
+  } catch (e) {}
+
+  const link = adhikaramLinks[id];
+  if (link && !link.startsWith("PASTE-")) {
+    window.location.href = link;
+  } else {
+    const lang = localStorage.getItem('daily_kural_lang') || 'ta';
+    let msg = `அதிகாரம் ${id}-க்கான பக்கம் விரைவில் இணைக்கப்படும்.`;
+    if (lang === 'en') msg = `Chapter ${id} page will be linked soon.`;
+    if (lang === 'hi') msg = `अध्याय ${id} का पृष्ठ जल्द ही जोड़ा जाएगा।`;
+    alert(decodeText(msg));
+  }
+}
+
+// Check if user returned from chapters.html after reaching boundary (end=porul)
+function checkPorulBoundaryOnLoad() {
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('end') === 'porul' || params.get('status') === 'ended') {
+    const notice = document.getElementById('porulBoundaryNotice');
+    if (notice) notice.classList.add('visible');
+  }
+}
+
+/* ==========================================================================
+   6. AUDIO CONTROLLERS (WITH DECODED LABELS & CLEAN NOTIFICATIONS)
+   ========================================================================== */
+let activeChapterAudio = null;
+let currentPlayingId = null;
+
+function decodeText(str) {
+  var txt = document.createElement("textarea");
+  txt.innerHTML = str;
+  return txt.value;
+}
+
+function getAudioUnavailableMessage(chapterId) {
+  const lang = localStorage.getItem('daily_kural_lang') || 'ta';
+  if (lang === 'en') {
+    return `Audio recitation for Chapter ${chapterId} is not available yet.`;
+  } else if (lang === 'hi') {
+    return `अध्याय ${chapterId} का ऑडियो पाठ अभी उपलब्ध नहीं है।`;
+  } else {
+    return decodeText(`அதிகாரம் ${chapterId}-க்கான ஒலி விளக்கம் விரைவில் இணைக்கப்படும்.`);
+  }
+}
+
+function stopAllChapterAudio() {
+  if (activeChapterAudio) {
+    activeChapterAudio.pause();
+    activeChapterAudio.currentTime = 0;
+    activeChapterAudio = null;
+  }
+  if (currentPlayingId) {
+    resetAudioBtnUI(currentPlayingId);
+    currentPlayingId = null;
+  }
+}
+
+function getAudioPlayBtnHTML() {
+  return `
+    <span>▶</span>
+    <span>
+      <span class="kural-lang-ta">ஒலி</span>
+      <span class="kural-lang-en">Audio</span>
+      <span class="kural-lang-hi">ऑडियो</span>
+    </span>
+  `;
+}
+
+function getAudioStopBtnHTML() {
+  return `
+    <span>■</span>
+    <span>
+      <span class="kural-lang-ta">நிறுத்து</span>
+      <span class="kural-lang-en">Stop</span>
+      <span class="kural-lang-hi">रोकें</span>
+    </span>
+  `;
+}
+
+function resetAudioBtnUI(id) {
+  const btn1 = document.getElementById('audioBtn_' + id);
+  const btn2 = document.getElementById('audioBtn_range_' + id);
+  if (btn1) {
+    btn1.innerHTML = getAudioPlayBtnHTML();
+    btn1.classList.remove('playing');
+  }
+  if (btn2) {
+    btn2.innerHTML = getAudioPlayBtnHTML();
+    btn2.classList.remove('playing');
+  }
+}
+
+function setAudioBtnPlayingUI(id) {
+  const btn1 = document.getElementById('audioBtn_' + id);
+  const btn2 = document.getElementById('audioBtn_range_' + id);
+  if (btn1) {
+    btn1.innerHTML = getAudioStopBtnHTML();
+    btn1.classList.add('playing');
+  }
+  if (btn2) {
+    btn2.innerHTML = getAudioStopBtnHTML();
+    btn2.classList.add('playing');
+  }
+}
+
+function playChapterAudio(event, id) {
+  event.stopPropagation();
+
+  if (id < PORUL_MIN_CHAPTER || id > PORUL_MAX_CHAPTER) {
+    showPorulEndAlert();
+    return;
+  }
+
+  const url = adhikaramAudioLinks[id];
+  if (!url || url.trim() === "" || url.startsWith("PASTE-")) {
+    alert(getAudioUnavailableMessage(id));
+    return;
+  }
+
+  if (currentPlayingId === id && activeChapterAudio && !activeChapterAudio.paused) {
+    stopAllChapterAudio();
+    return;
+  }
+
+  stopAllChapterAudio();
+
+  const mainAudio = document.getElementById('porulMasterAudioPlayer');
+  if (mainAudio && !mainAudio.paused) {
+    mainAudio.pause();
+  }
+
+  activeChapterAudio = new Audio(url);
+  currentPlayingId = id;
+  setAudioBtnPlayingUI(id);
+
+  activeChapterAudio.play().catch(() => {
+    alert(decodeText("ஒலி கோப்பை இயக்க முடியவில்லை. / Could not play audio file."));
+    resetAudioBtnUI(id);
+    currentPlayingId = null;
+  });
+
+  activeChapterAudio.onended = () => {
+    resetAudioBtnUI(id);
+    currentPlayingId = null;
+  };
+}
+
+// Automatically pause all audio streams if the reader changes language
+window.addEventListener('kuralLanguageChanged', function(e) {
+  const newLang = (e && e.detail && e.detail.lang) ? e.detail.lang : localStorage.getItem('daily_kural_lang');
+  if (newLang) applyPorulLanguage(newLang);
+  stopAllChapterAudio();
+  const mainAudio = document.getElementById('porulMasterAudioPlayer');
+  if (mainAudio && !mainAudio.paused) {
+    mainAudio.pause();
+  }
+});
+
+// Initial Populator, Theme/Lang Sync & Boundary Check
+window.addEventListener('DOMContentLoaded', function() {
+  const savedLang = localStorage.getItem('daily_kural_lang') || 'ta';
+  applyPorulLanguage(savedLang);
+
+  const savedTheme = localStorage.getItem('daily_kural_theme');
+  if (savedTheme === 'dark') {
+    applyPorulTheme(true);
+  }
+
+  renderAthikaramList();
+  renderKuralRangeList();
+  checkPorulBoundaryOnLoad();
+});
+</script>
+
+</body>
+</html>

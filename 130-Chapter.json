@@ -1,0 +1,930 @@
+{
+  "chapterNum": 130,
+  "nameTa": "நெஞ்சொடுபுலத்தல்",
+  "nameEn": "Expostulation with Oneself",
+  "nameHi": "हृदय से रूठना",
+  "paal": "காமத்துப்பால்",
+  "iyal": "கற்பியல்",
+  "kurals": [
+    {
+      "num": 1291,
+      "line1": "அவர்நெஞ் சவர்க்காதல் கண்டு மெவனெஞ்சே",
+      "line2": "நீயெமக் காகா தது",
+      "enLine1": "You see his heart is his alone :",
+      "enLine2": "O heart, why not be all my own ?",
+      "hiLine1": "उनका दिल उनका रहा, देते उनका साथ ।",
+      "hiLine2": "उसे देख भी, हृदय तू, क्यों नहिं मेरे साथ ॥",
+      "general": "அவருடைய நெஞ்சம் அவருக்கே உரியதாக இருப்பதைக் கண்டும், என் நெஞ்சமே! நீ ஏன் எனக்குத் துணையாகாமல் இருக்கிறாய்?",
+      "en": "Even after seeing that his heart belongs solely to him, O my heart, why do you refuse to be on my side?",
+      "hi": "उनका हृदय उन्हीं का होकर उनका साथ देता है; यह देखकर भी, हे मेरे हृदय, तू मेरे साथ क्यों नहीं रहता?",
+      "words": [
+        {
+          "no": 1,
+          "word": "அவர் நெஞ்சு <br>(Avar Nenju)",
+          "ta": "அவர் மனம்",
+          "en": "His heart",
+          "hi": "उनका दिल"
+        },
+        {
+          "no": 2,
+          "word": "அவர்க்கு <br>(Avarkku)",
+          "ta": "அவருக்கே",
+          "en": "To him",
+          "hi": "उनका"
+        },
+        {
+          "no": 3,
+          "word": "ஆதல் <br>(Aadhal)",
+          "ta": "உரியதாதல்",
+          "en": "Being loyal",
+          "hi": "होना"
+        },
+        {
+          "no": 4,
+          "word": "கண்டும் <br>(Kandum)",
+          "ta": "பார்த்தும்",
+          "en": "Even seeing",
+          "hi": "देख कर भी"
+        },
+        {
+          "no": 5,
+          "word": "எவன் நெஞ்சே <br>(Evan Nenje)",
+          "ta": "ஏன் நெஞ்சமே",
+          "en": "Why, O heart",
+          "hi": "क्यों हृदय"
+        },
+        {
+          "no": 6,
+          "word": "நீ எமக்கு <br>(Nee Emakku)",
+          "ta": "நீ எனக்கு",
+          "en": "You to me",
+          "hi": "तू मेरे"
+        },
+        {
+          "no": 7,
+          "word": "ஆகாதது <br>(Aagaadhadhu)",
+          "ta": "உரியதாகாதது",
+          "en": "Not becoming mine",
+          "hi": "साथ नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அவர்நெஞ் சவர்க்காதல் கண்டு மெவனெஞ்சே",
+          "line2": "நீயெமக் காகா தது"
+        },
+        "en": {
+          "line1": "You see his heart is his alone :",
+          "line2": "O heart, why not be all my own ?"
+        },
+        "hi": {
+          "line1": "उनका दिल उनका रहा, देते उनका साथ ।",
+          "line2": "उसे देख भी, हृदय तू, क्यों नहिं मेरे साथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Avarneny Savarkkaadhal Kandu Mevanenje",
+            "line2": "Neeyemak Kaagaa Thadhu"
+          },
+          "hi": {
+            "line1": "अवर्नॆञ् सवर्क्कादल् कण्डु मॆवनॆञ्जे",
+            "line2": "नीयॆमक् कागा तदु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அவர் மனம் அவருக்கு மட்டுமே சொந்தமாக இருப்பதைப் பார்த்த பிறகும், என் மனமே நீ மட்டும் ஏன் என் பக்கம் நிற்காமல் அவர் பக்கமே போகிறாய்?",
+        "en": "You can clearly see his heart stays loyal only to him—so why won't you, my own heart, stay loyal to me?",
+        "hi": "जब उनका दिल उन्हीं के काबू में है, तो यह देखकर भी हे मेरे दिल, तू मेरे पक्ष में क्यों नहीं रहता?"
+      }
+    },
+    {
+      "num": 1292,
+      "line1": "உறாஅ தவர்க்கண்ட கண்ணு மவரைச்",
+      "line2": "செறாரெனச் சேறியென் னெஞ்சு",
+      "enLine1": "'Tis plain, my heart, that he 's estranged from thee ;",
+      "enLine2": "Why go to him as though he were not enemy ?",
+      "hiLine1": "प्रिय को निर्मम देख भी, ‘वे नहिं हो नाराज़’ ।",
+      "hiLine2": "यों विचार कर तू चला, रे दिल, उनके पास ॥",
+      "general": "அவர் நம்மோடு அன்பில்லாதவர் என்பதைக் கண்ட பிறகும், அவர் நம்மை வெறுக்க மாட்டார் என்று எண்ணி என் நெஞ்சமே அவரிடம் செல்கிறாயே!",
+      "en": "Even after seeing that he has no affection for us, my heart, you still go to him thinking he bears no ill will.",
+      "hi": "प्रियतम को निर्मम देखकर भी, 'वे नाराज नहीं होंगे'—ऐसा सोचकर हे हृदय, तू उन्हीं के पास चला जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உறாஅதவர் <br>(UraaadhaVar)",
+          "ta": "அன்பில்லாதவர்",
+          "en": "One without affection",
+          "hi": "निर्मम"
+        },
+        {
+          "no": 2,
+          "word": "கண்ட கண்ணும் <br>(Kanda Kannum)",
+          "ta": "கண்டபோதிலும்",
+          "en": "Even when seen",
+          "hi": "देख कर भी"
+        },
+        {
+          "no": 3,
+          "word": "அவரை <br>(Avarai)",
+          "ta": "அவரை",
+          "en": "Him",
+          "hi": "उन्हें"
+        },
+        {
+          "no": 4,
+          "word": "செறார் என <br>(Seraar Ena)",
+          "ta": "வெறுக்கமாட்டார் என",
+          "en": "Thinking he is not angry",
+          "hi": "नाराज़ न होंगे सोच"
+        },
+        {
+          "no": 5,
+          "word": "சேறி <br>(Seri)",
+          "ta": "செல்கிறாய்",
+          "en": "You go",
+          "hi": "तू चला"
+        },
+        {
+          "no": 6,
+          "word": "என் <br>(En)",
+          "ta": "என்",
+          "en": "My",
+          "hi": "मेरे"
+        },
+        {
+          "no": 7,
+          "word": "நெஞ்சு <br>(Nenju)",
+          "ta": "நெஞ்சமே",
+          "en": "Heart",
+          "hi": "दिल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உறாஅ தவர்க்கண்ட கண்ணு மவரைச்",
+          "line2": "செறாரெனச் சேறியென் னெஞ்சு"
+        },
+        "en": {
+          "line1": "'Tis plain, my heart, that he 's estranged from thee ;",
+          "line2": "Why go to him as though he were not enemy ?"
+        },
+        "hi": {
+          "line1": "प्रिय को निर्मम देख भी, ‘वे नहिं हो नाराज़’ ।",
+          "line2": "यों विचार कर तू चला, रे दिल, उनके पास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uraaa Thavarkkanda Kannu Mavarais",
+            "line2": "Seraarenas Seriyen Nenju"
+          },
+          "hi": {
+            "line1": "उऱाअ तवर्क्कण्ड कण्णु मवरैच्",
+            "line2": "सॆऱारॆनच् सेऱियॆन् नॆञ्जु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அவர் நம் மேல் அக்கறை இல்லாமல் இருக்கிறார் என்று தெரிந்தும், அவர் கோபப்பட மாட்டார் என்று நம்பி என் மனம் அவரைத் தேடிப் போகிறது.",
+        "en": "Even though it is obvious he has grown distant, my foolish heart still runs to him pretending nothing is wrong.",
+        "hi": "प्रिय की बेरुखी देखने के बाद भी मेरा दिल यही सोचकर उनके पास दौड़ा जाता है कि वे भला मुझसे क्या नाराज होंगे।"
+      }
+    },
+    {
+      "num": 1293,
+      "line1": "கெட்டார்க்கு நட்டாரில் லென்பதோ நெஞ்சேநீ",
+      "line2": "பெட்டாங் கவர்பின் செலல்",
+      "enLine1": "'The ruined have no friends,' they say ; and so, my heart,",
+      "enLine2": "To follow him, at thy desire, from me thou dost depart.",
+      "hiLine1": "रे दिल, जो हैं कष्ट में, उनके हैं नहिं इष्ट ।",
+      "hiLine2": "सो क्या उनका पिछलगा, बना यथा निज इष्ट ॥",
+      "general": "கெட்டவர்களுக்கு நண்பர்கள் இல்லை என்ற பழமொழிக்கேற்ப, நெஞ்சமே! நீயும் என்னை விட்டு உன் விருப்பப்படி அவர் பின்னால் செல்கிறாயோ?",
+      "en": "Is it because 'the ruined have no friends' that you, my heart, abandon me and follow your own desire after him?",
+      "hi": "हे हृदय! क्या 'दुखी व्यक्ति के कोई मित्र नहीं होते' इस कहावत को सच करने के लिए तू मुझे छोड़कर उन्हीं के पीछे चल पड़ा है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "கெட்டார்க்கு <br>(Kettaarkku)",
+          "ta": "கெட்டவர்களுக்கு",
+          "en": "To the ruined",
+          "hi": "कष्ट में पड़े को"
+        },
+        {
+          "no": 2,
+          "word": "நட்டார் இல் <br>(Nattaar Il)",
+          "ta": "நண்பர் இல்லை",
+          "en": "No friends",
+          "hi": "मित्र नहीं"
+        },
+        {
+          "no": 3,
+          "word": "என்பதோ <br>(Enbadho)",
+          "ta": "என்பதனாலோ",
+          "en": "Is it because they say",
+          "hi": "क्या इसलिये"
+        },
+        {
+          "no": 4,
+          "word": "நெஞ்சே நீ <br>(Nenje Nee)",
+          "ta": "நெஞ்சமே நீ",
+          "en": "O heart, you",
+          "hi": "रे दिल तू"
+        },
+        {
+          "no": 5,
+          "word": "பெட்டு ஆங்கு <br>(Pettu Aangu)",
+          "ta": "விரும்பியபடி",
+          "en": "As you desire",
+          "hi": "निज इष्ट सा"
+        },
+        {
+          "no": 6,
+          "word": "அவர் பின் <br>(Avar Pin)",
+          "ta": "அவர் பின்னே",
+          "en": "After him",
+          "hi": "उनके पीछे"
+        },
+        {
+          "no": 7,
+          "word": "செலல் <br>(Selal)",
+          "ta": "செல்வது",
+          "en": "Going",
+          "hi": "चलना"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கெட்டார்க்கு நட்டாரில் லென்பதோ நெஞ்சேநீ",
+          "line2": "பெட்டாங் கவர்பின் செலல்"
+        },
+        "en": {
+          "line1": "'The ruined have no friends,' they say ; and so, my heart,",
+          "line2": "To follow him, at thy desire, from me thou dost depart."
+        },
+        "hi": {
+          "line1": "रे दिल, जो हैं कष्ट में, उनके हैं नहिं इष्ट ।",
+          "line2": "सो क्या उनका पिछलगा, बना यथा निज इष्ट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kettaarkku Nattaaril Lenpadho Nenjenee",
+            "line2": "Pettaang Kavarpin Selal"
+          },
+          "hi": {
+            "line1": "कॆट्टार्क्कु नट्टारिल् लॆन्पदो नॆञ्जेनी",
+            "line2": "पॆट्टाङ् कवर्पिन् सॆलल्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "துன்பப்படுபவர்களுக்கு நண்பர்கள் இருக்க மாட்டார்கள் என்பார்களே, அதுபோல என் மனமே நீயும் என்னைத் தனிமையில் விட்டுவிட்டு அவர் பின்னால் போகிறாயா?",
+        "en": "They say the brokenhearted have no friends—is that why even my own heart deserts me to chase after him?",
+        "hi": "कहते हैं कि विपत्ति में पड़े लोगों का कोई मित्र नहीं होता; शायद इसीलिए मेरा अपना दिल भी मुझे छोड़कर उन्हीं के पीछे हो लिया है।"
+      }
+    },
+    {
+      "num": 1294,
+      "line1": "இனியன்ன நின்னோடு சூழ்வார்யார் நெஞ்சே",
+      "line2": "துனிசெய்து துவ்வாய்காண் மற்று",
+      "enLine1": "'See, thou first show offended pride, and then submit,' I bade ;",
+      "enLine2": "Henceforth such council who will share with thee, my heart ?",
+      "hiLine1": "रे दिल तू तो रूठ कर, बाद न ले सुख-स्वाद ।",
+      "hiLine2": "तुझसे कौन करे अभी, तत्सम्बन्धी बात ॥",
+      "general": "நெஞ்சமே! நீ ஊடல் கொண்டாற்போல் நடித்துவிட்டுப் பின் அதனை முடிக்காமல் விட்டுவிடுகிறாய்; இனி உன்னோடு யார் கலந்து ஆலோசிப்பார்கள்?",
+      "en": "O heart, you start a quarrel yet fail to hold out and enjoy its reconciliation; who will ever take counsel with you again?",
+      "hi": "हे हृदय! तू पहले रूठने का नाटक करता है और फिर मान का सुख लिए बिना ही झुक जाता है; अब भला तुझसे कौन सलाह करेगा?",
+      "words": [
+        {
+          "no": 1,
+          "word": "இனி அன்ன <br>(Ini Anna)",
+          "ta": "இனி அத்தகைய",
+          "en": "Henceforth such",
+          "hi": "अब वैसी"
+        },
+        {
+          "no": 2,
+          "word": "நின்னோடு <br>(Ninnodu)",
+          "ta": "உன்னோடு",
+          "en": "With you",
+          "hi": "तुझसे"
+        },
+        {
+          "no": 3,
+          "word": "சூழ்வார் யார் <br>(Soozhvaar Yaar)",
+          "ta": "ஆலோசிப்பவர் யார்",
+          "en": "Who will counsel",
+          "hi": "कौन बात करे"
+        },
+        {
+          "no": 4,
+          "word": "நெஞ்சே <br>(Nenje)",
+          "ta": "நெஞ்சமே",
+          "en": "O heart",
+          "hi": "रे दिल"
+        },
+        {
+          "no": 5,
+          "word": "துனி செய்து <br>(Thuni Seydhu)",
+          "ta": "ஊடல் கொண்டு",
+          "en": "Feigning anger",
+          "hi": "रूठ कर"
+        },
+        {
+          "no": 6,
+          "word": "துவ்வாய் காண் <br>(Thuvvaay Kaan)",
+          "ta": "முடியாமல் போவாய் பார்",
+          "en": "You fail to sustain",
+          "hi": "सुख न ले"
+        },
+        {
+          "no": 7,
+          "word": "மற்று <br>(Matru)",
+          "ta": "பிறகு",
+          "en": "Then",
+          "hi": "फिर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இனியன்ன நின்னோடு சூழ்வார்யார் நெஞ்சே",
+          "line2": "துனிசெய்து துவ்வாய்காண் மற்று"
+        },
+        "en": {
+          "line1": "'See, thou first show offended pride, and then submit,' I bade ;",
+          "line2": "Henceforth such council who will share with thee, my heart ?"
+        },
+        "hi": {
+          "line1": "रे दिल तू तो रूठ कर, बाद न ले सुख-स्वाद ।",
+          "line2": "तुझसे कौन करे अभी, तत्सम्बन्धी बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Iniyanna Ninnodu Soozhvaaryaar Nenje",
+            "line2": "Thuniseythu Thuvvaaykaan Matru"
+          },
+          "hi": {
+            "line1": "इनियन्न निन्नोडु सूऴ्वार्यार् नॆञ्जे",
+            "line2": "तुनिसॆय्तु तुव्वाय्काण् मट्रु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மனமே, கொஞ்ச நேரம்கூடக் கோபத்தைக் காட்டாமல் உடனே சரணடைந்துவிடுகிறாயே; இனி உன்னோடு சேர்ந்து யார் திட்டம் போடுவார்கள்?",
+        "en": "My heart, you can't even keep up a pretense of anger before giving in—who could ever strategize with you anymore?",
+        "hi": "हे मन, तू थोड़ी देर भी रूठकर नहीं रह पाता और तुरंत मान जाता है; भला अब तुझसे कौन कोई सलाह-मशविरा करेगा?"
+      }
+    },
+    {
+      "num": 1295,
+      "line1": "பெறாஅமை யஞ்சும் பெறிற்பிரி வஞ்சு",
+      "line2": "மறாஅ விடும்பைத் தென்னெஞ்சு",
+      "enLine1": "I fear I shall not gain, I fear to lose him when I gain ;",
+      "enLine2": "And thus my heart endures unceasing pain.",
+      "hiLine1": "न मिल तो भय, या मिले, तो भेतव्य वियोग ।",
+      "hiLine2": "मेरा दिल है चिर दुखी, वियोग या संयोग ॥",
+      "general": "தலைவரைப் பெறாதபோது கிடைக்காதோ என்று அஞ்சும்; பெற்றபோதும் பிரிந்துவிடுவாரோ என்று அஞ்சும்; இவ்வாறு என் நெஞ்சம் நீங்காத துன்பத்தை உடையது.",
+      "en": "When apart, my heart fears it may never win him; when united, it fears he will leave again—thus it suffers endless torment.",
+      "hi": "न मिलने पर न पाने का भय रहता है और मिल जाने पर वियोग का डर सताता है; इस प्रकार मेरा हृदय संयोग और वियोग दोनों में सदा दुखी रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பெறாஅமை <br>(Peraaamai)",
+          "ta": "பெறாதபோது",
+          "en": "Not gaining",
+          "hi": "न मिलने पर"
+        },
+        {
+          "no": 2,
+          "word": "அஞ்சும் <br>(Anjum)",
+          "ta": "அஞ்சும்",
+          "en": "Fears",
+          "hi": "डरता है"
+        },
+        {
+          "no": 3,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "பெற்றால்",
+          "en": "If gained",
+          "hi": "मिलने पर"
+        },
+        {
+          "no": 4,
+          "word": "பிரிவு அஞ்சும் <br>(Pirivu Anjum)",
+          "ta": "பிரிவுக்கு அஞ்சும்",
+          "en": "Fears separation",
+          "hi": "वियोग से डरता है"
+        },
+        {
+          "no": 5,
+          "word": "அறாஅ <br>(Araaa)",
+          "ta": "நீங்காத",
+          "en": "Unceasing",
+          "hi": "निरंतर"
+        },
+        {
+          "no": 6,
+          "word": "இடும்பைத்து <br>(Idumbaiththu)",
+          "ta": "துன்பத்தை உடையது",
+          "en": "Full of pain",
+          "hi": "दुखी है"
+        },
+        {
+          "no": 7,
+          "word": "என் நெஞ்சு <br>(En Nenju)",
+          "ta": "என் நெஞ்சம்",
+          "en": "My heart",
+          "hi": "मेरा दिल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பெறாஅமை யஞ்சும் பெறிற்பிரி வஞ்சு",
+          "line2": "மறாஅ விடும்பைத் தென்னெஞ்சு"
+        },
+        "en": {
+          "line1": "I fear I shall not gain, I fear to lose him when I gain ;",
+          "line2": "And thus my heart endures unceasing pain."
+        },
+        "hi": {
+          "line1": "न मिल तो भय, या मिले, तो भेतव्य वियोग ।",
+          "line2": "मेरा दिल है चिर दुखी, वियोग या संयोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Peraaamai Yanjum Perirpiri Vanju",
+            "line2": "Maraaa Vidumbaith Thennenju"
+          },
+          "hi": {
+            "line1": "पॆऱाअमै यञ्जुम् पॆऱिऱ्पिरि वञ्जु",
+            "line2": "मऱाअ विडुम्बैत् तॆन्नॆञ्जु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அவரைப் பிரிந்திருக்கும்போது சேருவோமா என்ற பயம்; சேர்ந்திருக்கும்போதோ மீண்டும் பிரிந்துவிடுவாரோ என்ற பயம்; என் மனதிற்கு எப்போதும் துன்பம்தான்.",
+        "en": "In his absence I dread never having him, and in his presence I dread losing him—my heart never gets a moment's peace.",
+        "hi": "मिलन न होने पर न मिलने का डर और मिलन होने पर बिछड़ने का डर—मेरा हृदय तो हमेशा ही दुख में डूबा रहता है।"
+      }
+    },
+    {
+      "num": 1296,
+      "line1": "தனியே யிருந்து நினைத்தக்கா லென்னைத்",
+      "line2": "தினிய விருந்ததென் னெஞ்சு",
+      "enLine1": "My heart consumes me when I ponder lone,",
+      "enLine2": "And all my lover's cruelty bemoan.",
+      "hiLine1": "विरह दशा में अलग रह, जब करती थी याद ।",
+      "hiLine2": "मानों मेरा दिल मुझे, खाता था रह साथ ॥",
+      "general": "நான் தனிமையில் இருந்து தலைவரின் கொடுமையை நினைக்கும்போது, என் நெஞ்சம் என்னையே தின்பதுபோல் வருத்துகிறது.",
+      "en": "When I sit alone and brood over his unkindness, my own heart stays within me only to gnaw and consume me.",
+      "hi": "विरह की दशा में अकेले बैठकर जब मैं प्रिय को याद करती हूँ, तब मेरा हृदय मानो मेरे साथ रहकर मुझे ही खाने को दौड़ता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தனியே <br>(Thaniye)",
+          "ta": "தனியாக",
+          "en": "Alone",
+          "hi": "अकेले"
+        },
+        {
+          "no": 2,
+          "word": "இருந்து <br>(Irundhu)",
+          "ta": "இருந்து",
+          "en": "Sitting",
+          "hi": "रह कर"
+        },
+        {
+          "no": 3,
+          "word": "நினைத்தக்கால் <br>(Ninaiththakkaal)",
+          "ta": "நினைக்கும்போது",
+          "en": "When pondering",
+          "hi": "याद करने पर"
+        },
+        {
+          "no": 4,
+          "word": "என்னை <br>(Ennai)",
+          "ta": "என்னை",
+          "en": "Me",
+          "hi": "मुझे"
+        },
+        {
+          "no": 5,
+          "word": "தினிய <br>(Thiniya)",
+          "ta": "தின்பதற்கு",
+          "en": "To consume",
+          "hi": "खाने को"
+        },
+        {
+          "no": 6,
+          "word": "இருந்தது <br>(Irundhadhu)",
+          "ta": "இருந்தது",
+          "en": "Remained",
+          "hi": "था"
+        },
+        {
+          "no": 7,
+          "word": "என் நெஞ்சு <br>(En Nenju)",
+          "ta": "என் நெஞ்சம்",
+          "en": "My heart",
+          "hi": "मेरा दिल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தனியே யிருந்து நினைத்தக்கா லென்னைத்",
+          "line2": "தினிய விருந்ததென் னெஞ்சு"
+        },
+        "en": {
+          "line1": "My heart consumes me when I ponder lone,",
+          "line2": "And all my lover's cruelty bemoan."
+        },
+        "hi": {
+          "line1": "विरह दशा में अलग रह, जब करती थी याद ।",
+          "line2": "मानों मेरा दिल मुझे, खाता था रह साथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thaniye Yirundhu Ninaiththakkaa Lennaith",
+            "line2": "Thiniya Virundhadhen Nenju"
+          },
+          "hi": {
+            "line1": "तनिये यिरुन्दु निनैत्तक्का लॆन्नैत्",
+            "line2": "तिनिय विरुन्ददॆन् नॆञ्जु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தனிமையில் அமர்ந்து அவருடைய செயல்களை நினைத்துப் பார்க்கும்போது, என் மனமே என்னைத் தின்று தீர்ப்பதுபோல் வேதனை தருகிறது.",
+        "en": "Whenever I sit alone brooding over how he treats me, my own heart seems to eat me alive from the inside.",
+        "hi": "अकेले बैठकर जब मैं उनकी निष्ठुरता को याद करती हूँ, तो मेरा अपना ही दिल मुझे भीतर से कचोटने और खाने लगता है।"
+      }
+    },
+    {
+      "num": 1297,
+      "line1": "நாணு மறந்தே னவர்மறக் கல்லாவென்",
+      "line2": "மாணா மடநெஞ்சிற் பட்டு",
+      "enLine1": "Fall'n neath the sway of this ignoble foolish heart,",
+      "enLine2": "Which will not him forget, I have forgotten shame.",
+      "hiLine1": "मूढ़ हृदय बहुमति रहित, नहीं भूलता नाथ ।",
+      "hiLine2": "मैं भूली निज लाज भी, पड़ कर इसके साथ ॥",
+      "general": "அவரை மறக்கத் தெரியாத என் மானமற்ற பேதை நெஞ்சோடு சேர்ந்து, நானும் என் நாணத்தை மறந்துவிட்டேன்.",
+      "en": "Falling under the sway of this shameless, foolish heart that cannot forget him, I too have forgotten all sense of modesty.",
+      "hi": "यह सम्मान-रहित मूढ़ हृदय प्रियतम को भुला नहीं पाता; इसके वश में पड़कर मैं अपनी लज्जा भी भूल बैठी हूँ।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நாணும் <br>(Naanum)",
+          "ta": "நாணத்தையும்",
+          "en": "Shame too",
+          "hi": "लाज भी"
+        },
+        {
+          "no": 2,
+          "word": "மறந்தேன் <br>(Marandhen)",
+          "ta": "மறந்துவிட்டேன்",
+          "en": "I forgot",
+          "hi": "भूल गई"
+        },
+        {
+          "no": 3,
+          "word": "அவர் மறக்கல்லா <br>(Avar Marakkallaa)",
+          "ta": "அவரை மறக்காத",
+          "en": "Not forgetting him",
+          "hi": "नाथ को न भूलने वाले"
+        },
+        {
+          "no": 4,
+          "word": "என் <br>(En)",
+          "ta": "என்",
+          "en": "My",
+          "hi": "मेरे"
+        },
+        {
+          "no": 5,
+          "word": "மாணா <br>(Maanaa)",
+          "ta": "மானமற்ற",
+          "en": "Ignoble",
+          "hi": "सम्मान-रहित"
+        },
+        {
+          "no": 6,
+          "word": "மட நெஞ்சில் <br>(Mada Nenjil)",
+          "ta": "அறிவற்ற நெஞ்சில்",
+          "en": "Foolish heart",
+          "hi": "मूढ़ हृदय में"
+        },
+        {
+          "no": 7,
+          "word": "பட்டு <br>(Pattu)",
+          "ta": "அகப்பட்டு",
+          "en": "Caught / swayed",
+          "hi": "पड़ कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாணு மறந்தே னவர்மறக் கல்லாவென்",
+          "line2": "மாணா மடநெஞ்சிற் பட்டு"
+        },
+        "en": {
+          "line1": "Fall'n neath the sway of this ignoble foolish heart,",
+          "line2": "Which will not him forget, I have forgotten shame."
+        },
+        "hi": {
+          "line1": "मूढ़ हृदय बहुमति रहित, नहीं भूलता नाथ ।",
+          "line2": "मैं भूली निज लाज भी, पड़ कर इसके साथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naanu Marandhe Navarmarak Kallaaven",
+            "line2": "Maanaa Madanenjir Pattu"
+          },
+          "hi": {
+            "line1": "नाणु मऱन्दे नवर्मऱक् कल्लावॆन्",
+            "line2": "माणा मडनॆञ्जिऱ् पट्टु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அவரை மறக்க முடியாத இந்த மடமை நிறைந்த மனதின் பேச்சைக் கேட்டு, நானும் என் வெட்கத்தை விட்டுவிட்டேன்.",
+        "en": "Dragged along by this foolish heart that refuses to forget him, I have lost all my own restraint and pride.",
+        "hi": "उनको न भुला पाने वाले इस नादान दिल के चक्कर में पड़कर मैंने अपनी शर्म-लिहाज भी खो दी है।"
+      }
+    },
+    {
+      "num": 1298,
+      "line1": "எள்ளி னிளிவா மென்றெண்ணி யவர்திற",
+      "line2": "முள்ளு முயிர்க்காத நெஞ்சு",
+      "enLine1": "If I contemn him, then disgrace awaits me evermore ;",
+      "enLine2": "My soul that seeks to live his virtues numbers o'er.",
+      "hiLine1": "नाथ-उपेक्षा निंद्य है, यों करके सुविचार ।",
+      "hiLine2": "करता उनका गुण-स्मरण, यह दिल जीवन-प्यार ॥",
+      "general": "அவரை இகழ்ந்தால் நமக்குத்தான் இழிவு என்று எண்ணி, உயிர் வாழ விரும்பும் என் நெஞ்சம் அவருடைய நற்குணங்களையே நினைத்துக்கொண்டிருக்கிறது.",
+      "en": "Thinking that scorning him would bring disgrace, my heart—desiring to survive—dwells only on his virtues.",
+      "hi": "प्रियतम की उपेक्षा करना निंदनीय है—ऐसा सोचकर, जीने की इच्छा रखने वाला मेरा यह हृदय उन्हीं के गुणों का स्मरण करता रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எள்ளின் <br>(Ellin)",
+          "ta": "இகழ்ந்தால்",
+          "en": "If despised",
+          "hi": "उपेक्षा करने पर"
+        },
+        {
+          "no": 2,
+          "word": "இளிவாம் என்று <br>(Ilivaam Endru)",
+          "ta": "இழிவாகும் என்று",
+          "en": "Thinking it disgrace",
+          "hi": "निंद्य मान कर"
+        },
+        {
+          "no": 3,
+          "word": "எண்ணி <br>(Enni)",
+          "ta": "நினைத்து",
+          "en": "Considering",
+          "hi": "विचार कर"
+        },
+        {
+          "no": 4,
+          "word": "அவர் திறம் <br>(Avar Thiram)",
+          "ta": "அவர் பெருமையை",
+          "en": "His virtues",
+          "hi": "उनके गुण"
+        },
+        {
+          "no": 5,
+          "word": "உள்ளும் <br>(Ullum)",
+          "ta": "நினைக்கும்",
+          "en": "Ponders",
+          "hi": "स्मरण करता है"
+        },
+        {
+          "no": 6,
+          "word": "உயிர்க்கு <br>(Uyirkku)",
+          "ta": "உயிர் வாழ",
+          "en": "To live",
+          "hi": "जीवन के लिए"
+        },
+        {
+          "no": 7,
+          "word": "ஆத நெஞ்சு <br>(Aadha Nenju)",
+          "ta": "ஆசைப்படும் நெஞ்சம்",
+          "en": "Longing heart",
+          "hi": "प्रिय हृदय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எள்ளி னிளிவா மென்றெண்ணி யவர்திற",
+          "line2": "முள்ளு முயிர்க்காத நெஞ்சு"
+        },
+        "en": {
+          "line1": "If I contemn him, then disgrace awaits me evermore ;",
+          "line2": "My soul that seeks to live his virtues numbers o'er."
+        },
+        "hi": {
+          "line1": "नाथ-उपेक्षा निंद्य है, यों करके सुविचार ।",
+          "line2": "करता उनका गुण-स्मरण, यह दिल जीवन-प्यार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Elli Nilivaa Menrenni Yavarthira",
+            "line2": "Mullu Muyirkkaadha Nenju"
+          },
+          "hi": {
+            "line1": "ऎळ्ळि निळिवा मॆन्दॆण्णि यवर्तिऱ",
+            "line2": "मुळ्ळु मुयिर्क्काद नॆञ्जु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அவரைக் குறை சொன்னால் நமக்குத்தான் அவமானம் என்று நினைத்து, உயிர் பிழைக்க விரும்பும் என் மனம் அவருடைய நல்ல குணங்களையே எண்ணிப் பார்க்கிறது.",
+        "en": "Fearing that despising him would only demean me, my heart clings to life by counting all his good qualities.",
+        "hi": "प्रिय की बुराई करने से अपनी ही निंदा होगी, यह सोचकर जीवन चाहने वाला मेरा दिल उनके सद्गुणों को ही याद करता रहता है।"
+      }
+    },
+    {
+      "num": 1299,
+      "line1": "துன்பத்திற் கியாரே துணையாவார் தாமுடைய",
+      "line2": "நெஞ்சந் துணையல் வழி",
+      "enLine1": "And who will aid me in my hour of grief,",
+      "enLine2": "If my own heart comes not to my relief ?",
+      "hiLine1": "संकट होने पर मदद, कौन करेगा हाय ।",
+      "hiLine2": "जब कि निजी दिल आपना, करता नहीं सहाय ॥",
+      "general": "தன்னுடைய நெஞ்சமே தனக்குத் துணையாக இல்லாதபோது, துன்பம் வந்த காலத்தில் வேறு யார் துணையாக இருக்க முடியும்?",
+      "en": "When one's own heart fails to stand by them, who else can possibly be a help in times of sorrow?",
+      "hi": "हाय! जब अपना ही हृदय अपनी सहायता नहीं करता, तो संकट के समय भला दूसरा कौन मदद करेगा?",
+      "words": [
+        {
+          "no": 1,
+          "word": "துன்பத்திற்கு <br>(Thunbaththirku)",
+          "ta": "துன்பத்திற்கு",
+          "en": "In sorrow",
+          "hi": "संकट में"
+        },
+        {
+          "no": 2,
+          "word": "யாரே <br>(Yaare)",
+          "ta": "யார்தான்",
+          "en": "Who indeed",
+          "hi": "कौन"
+        },
+        {
+          "no": 3,
+          "word": "துணையாவார் <br>(Thunaiyaavaar)",
+          "ta": "துணையாவார்கள்",
+          "en": "Will be a companion",
+          "hi": "मदद करेगा"
+        },
+        {
+          "no": 4,
+          "word": "தாம் உடைய <br>(Thaam Udaiya)",
+          "ta": "தன்னுடைய",
+          "en": "One's own",
+          "hi": "अपना निजी"
+        },
+        {
+          "no": 5,
+          "word": "நெஞ்சம் <br>(Nenjam)",
+          "ta": "நெஞ்சம்",
+          "en": "Heart",
+          "hi": "दिल"
+        },
+        {
+          "no": 6,
+          "word": "துணை அல் <br>(Thunai Al)",
+          "ta": "துணை அல்லாத",
+          "en": "Not aiding",
+          "hi": "सहायक न"
+        },
+        {
+          "no": 7,
+          "word": "வழி <br>(Vazhi)",
+          "ta": "போது",
+          "en": "When",
+          "hi": "होने पर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "துன்பத்திற் கியாரே துணையாவார் தாமுடைய",
+          "line2": "நெஞ்சந் துணையல் வழி"
+        },
+        "en": {
+          "line1": "And who will aid me in my hour of grief,",
+          "line2": "If my own heart comes not to my relief ?"
+        },
+        "hi": {
+          "line1": "संकट होने पर मदद, कौन करेगा हाय ।",
+          "line2": "जब कि निजी दिल आपना, करता नहीं सहाय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thunpaththir Kiyaare Thunaiyaavaar Thaamudaiya",
+            "line2": "Nenjan Thunaiyal Vazhi"
+          },
+          "hi": {
+            "line1": "तुन्पत्तिऱ् कियारे तुणैयावार् तामुडैय",
+            "line2": "नॆञ्जन् तुणैयल् वऴि"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தன் சொந்த மனமே தனக்கு ஆதரவாக இல்லாத நிலையில், கஷ்டமான நேரத்தில் வேறு யார் நமக்கு உதவ வருவார்கள்?",
+        "en": "If even your own heart refuses to stand with you, who else could possibly come to your rescue in times of grief?",
+        "hi": "जब संकट के समय अपना खुद का दिल ही साथ न दे, तो भला और कौन सहारा बन सकता है?"
+      }
+    },
+    {
+      "num": 1300,
+      "line1": "தஞ்சந் தமரல்ல ரேதிலார் தாமுடைய",
+      "line2": "நெஞ்சந் தமரல் வழி",
+      "enLine1": "A trifle is unfriendliness by aliens shown,",
+      "enLine2": "When our own heart itself is not our own !",
+      "hiLine1": "बन्धु बनें नहिं अन्य जन, है यह सहज, विचार ।",
+      "hiLine2": "जब अपना दिल ही नहीं, बनता नातेदार ॥",
+      "general": "தன்னுடைய நெஞ்சமே தனக்குச் சொந்தமானதாக இல்லாதபோது, அயலார் நம்மவராக இல்லாமல் போவது மிகவும் எளிய இயல்பானதே.",
+      "en": "It is no surprise if strangers are not friendly to us, when our very own heart is not on our side.",
+      "hi": "जब अपना ही हृदय अपना हितैषी नहीं बनता, तो अन्य लोग यदि अपने न बनें तो यह स्वाभाविक ही है—ऐसा विचार करो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "தஞ்சம் <br>(Thanjam)",
+          "ta": "எளிதானது",
+          "en": "Easy / trifle",
+          "hi": "सहज है"
+        },
+        {
+          "no": 2,
+          "word": "தமர் அல்லர் <br>(Thamar Allar)",
+          "ta": "உறவினர் அல்லர்",
+          "en": "Not kindred",
+          "hi": "बन्धु नहीं"
+        },
+        {
+          "no": 3,
+          "word": "ஏதிலார் <br>(Edhilaar)",
+          "ta": "அயலார்",
+          "en": "Strangers",
+          "hi": "अन्य जन"
+        },
+        {
+          "no": 4,
+          "word": "தாம் உடைய <br>(Thaam Udaiya)",
+          "ta": "தன்னுடைய",
+          "en": "One's own",
+          "hi": "अपना"
+        },
+        {
+          "no": 5,
+          "word": "நெஞ்சம் <br>(Nenjam)",
+          "ta": "நெஞ்சம்",
+          "en": "Heart",
+          "hi": "दिल"
+        },
+        {
+          "no": 6,
+          "word": "தமர் அல் <br>(Thamar Al)",
+          "ta": "உறவல்லாத",
+          "en": "Not one's own",
+          "hi": "नातेदार न"
+        },
+        {
+          "no": 7,
+          "word": "வழி <br>(Vazhi)",
+          "ta": "போது",
+          "en": "When",
+          "hi": "होने पर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தஞ்சந் தமரல்ல ரேதிலார் தாமுடைய",
+          "line2": "நெஞ்சந் தமரல் வழி"
+        },
+        "en": {
+          "line1": "A trifle is unfriendliness by aliens shown,",
+          "line2": "When our own heart itself is not our own !"
+        },
+        "hi": {
+          "line1": "बन्धु बनें नहिं अन्य जन, है यह सहज, विचार ।",
+          "line2": "जब अपना दिल ही नहीं, बनता नातेदार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thanjan Thamaralla Redhilaar Thaamudaiya",
+            "line2": "Nenjan Thamaral Vazhi"
+          },
+          "hi": {
+            "line1": "तञ्जन् तमरल्ल रेदिलार् तामुडैय",
+            "line2": "नॆञ्जन् तमरल् वऴि"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சொந்த மனமே நம் பேச்சைக் கேட்காமல் எதிராளி பக்கம் இருக்கும்போது, வெளியாட்கள் நமக்கு ஆதரவாக இல்லாததில் வியப்பில்லை.",
+        "en": "Why blame outsiders for not taking our side when our very own heart has turned against us?",
+        "hi": "जब अपना ही दिल अपना न रहा, तो पराए लोगों का साथ न देना तो बिल्कुल स्वाभाविक ही है।"
+      }
+    }
+  ]
+}

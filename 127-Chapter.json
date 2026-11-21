@@ -1,0 +1,930 @@
+{
+  "chapterNum": 127,
+  "nameTa": "அவர்வயின்விதும்பல்",
+  "nameEn": "Mutual Desire",
+  "nameHi": "उनकी उत्कंठा",
+  "paal": "காமத்துப்பால்",
+  "iyal": "கற்பியல்",
+  "kurals": [
+    {
+      "num": 1261,
+      "line1": "வாளற்றுப் புற்கென்ற கண்ணு மவர்சென்ற",
+      "line2": "நாளொற்றித் தேய்ந்த விரல்",
+      "enLine1": "My eyes have lost their brightness, sight is dimmed, my fingers worn,",
+      "enLine2": "With noting on the wall the days since I was left forlorn.",
+      "hiLine1": "छू कर गिनते विरह दिन, घिस अंगुलियाँ क्षीण ।",
+      "hiLine2": "तथा नेत्र भी हो गये, राह देख छवि-हीन ॥",
+      "general": "தலைவர் பிரிந்து சென்ற நாட்களைச் சுவரில் கோடு போட்டு எண்ணி எண்ணி என் விரல்களும் தேய்ந்தன; அவர் வரவைப் பார்த்துப் பார்த்துக் கண்களும் ஒளியிழந்து புல்லென்றன.",
+      "en": "My eyes have lost their lustre watching for his return, and my fingers are worn down marking on the wall the days since he left.",
+      "hi": "प्रिय के विरह के दिन दीवार पर गिनते-गिनते मेरी अंगुलियाँ घिसकर क्षीण हो गई हैं, तथा उनकी राह देखते-देखते नेत्र भी कांतिहीन हो गए हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வாள் அற்று <br>(Vaal Atru)",
+          "ta": "ஒளி இழந்து",
+          "en": "Having lost brightness",
+          "hi": "छवि-हीन"
+        },
+        {
+          "no": 2,
+          "word": "புற்கென்ற <br>(Purkendra)",
+          "ta": "மங்கிய",
+          "en": "Dimmed",
+          "hi": "मद्धिम"
+        },
+        {
+          "no": 3,
+          "word": "கண்ணும் <br>(Kannum)",
+          "ta": "கண்களும்",
+          "en": "Eyes too",
+          "hi": "नेत्र भी"
+        },
+        {
+          "no": 4,
+          "word": "அவர் சென்ற <br>(Avar Sendra)",
+          "ta": "அவர் பிரிந்து சென்ற",
+          "en": "Since he departed",
+          "hi": "विरह के"
+        },
+        {
+          "no": 5,
+          "word": "நாள் ஒற்றி <br>(Naal Otri)",
+          "ta": "நாட்களை எண்ணி",
+          "en": "Marking the days",
+          "hi": "दिन गिनते"
+        },
+        {
+          "no": 6,
+          "word": "தேய்ந்த <br>(Theyndha)",
+          "ta": "தேய்ந்துபோன",
+          "en": "Worn down",
+          "hi": "घिसकर क्षीण"
+        },
+        {
+          "no": 7,
+          "word": "விரல் <br>(Viral)",
+          "ta": "விரல்களும்",
+          "en": "Fingers",
+          "hi": "अंगुलियाँ"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வாளற்றுப் புற்கென்ற கண்ணு மவர்சென்ற",
+          "line2": "நாளொற்றித் தேய்ந்த விரல்"
+        },
+        "en": {
+          "line1": "My eyes have lost their brightness, sight is dimmed, my fingers worn,",
+          "line2": "With noting on the wall the days since I was left forlorn."
+        },
+        "hi": {
+          "line1": "छू कर गिनते विरह दिन, घिस अंगुलियाँ क्षीण ।",
+          "line2": "तथा नेत्र भी हो गये, राह देख छवि-हीन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vaalatrup Purkenra Kannu Mavarsenra",
+            "line2": "Naalotrith Theyndha Viral"
+          },
+          "hi": {
+            "line1": "वाळत्रुप् पुऱ्कॆन्द कण्णु मवर्चॆन्द",
+            "line2": "नाळॊत्रित् तेय्न्द विरल्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தலைவர் பிரிந்து சென்ற நாட்களைச் சுவரில் கோடு போட்டு எண்ணி எண்ணி என் விரல்களும் தேய்ந்தன; அவர் வரவைப் பார்த்துப் பார்த்துக் கண்களும் ஒளியிழந்து புல்லென்றன.",
+        "en": "She has spent so long counting the days of his absence on the wall that her fingers are sore and her eyes are dull from watching the road.",
+        "hi": "प्रिय के लौटने की प्रतीक्षा में दीवार पर दिन गिनते-गिनते अंगुलियाँ घिस गईं और राह ताकते-ताकते आँखों की चमक भी चली गई।"
+      }
+    },
+    {
+      "num": 1262,
+      "line1": "இலங்கிழா யின்று மறப்பினென் றோண்மேற்",
+      "line2": "கலங்கழியுங் காரிகை நீத்து",
+      "enLine1": "O thou with gleaming jewels decked, could I forget for this one day,",
+      "enLine2": "Henceforth these bracelets from my arms will slip, my beauty worn away.",
+      "hiLine1": "उज्ज्वल भूषण सज्जिते ! यदि मैं भूलूँ आज ।",
+      "hiLine2": "गिरें बाँह से चुड़ियाँ, औ' खोऊँ छवि-साज ॥",
+      "general": "ஒளி வீசும் அணிகலன்களை அணிந்த தோழியே! இன்றொரு நாள் மட்டும் நான் தலைவரை மறந்தேனானால், என் அழகு நீங்கித் தோள் மேலுள்ள வளையல்கள் கழன்று விழும்.",
+      "en": "O friend decked with gleaming jewels, if I were to forget him even for this single day, my beauty would vanish and my armlets would slip off.",
+      "hi": "हे उज्ज्वल आभूषणों से सजी सखी! यदि मैं आज एक दिन के लिए भी उन्हें भूल जाऊँ, तो मेरी छवि नष्ट होकर बांहों से चूड़ियाँ गिर पड़ेंगी।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இலங்கு இழாய் <br>(Ilangu Izhaai)",
+          "ta": "ஒளி வீசும் அணிகலன் அணிந்தவளே",
+          "en": "O gleaming-jeweled one",
+          "hi": "उज्ज्वल भूषण सज्जिते"
+        },
+        {
+          "no": 2,
+          "word": "இன்று <br>(Indru)",
+          "ta": "இன்று",
+          "en": "Today",
+          "hi": "आज"
+        },
+        {
+          "no": 3,
+          "word": "மறப்பின் என் <br>(Marappin En)",
+          "ta": "மறந்தால் என்",
+          "en": "If I forget, my",
+          "hi": "भूलूँ तो मेरे"
+        },
+        {
+          "no": 4,
+          "word": "தோள் மேல் <br>(Thol Mel)",
+          "ta": "தோள் மேலுள்ள",
+          "en": "Upon the arms",
+          "hi": "बांह से"
+        },
+        {
+          "no": 5,
+          "word": "கலம் கழியும் <br>(Kalam Kazhiyum)",
+          "ta": "வளையல் கழலும்",
+          "en": "Bracelets will slip",
+          "hi": "चूड़ियाँ गिरें"
+        },
+        {
+          "no": 6,
+          "word": "காரிகை <br>(Kaarigai)",
+          "ta": "அழகு",
+          "en": "Beauty",
+          "hi": "छवि-साज"
+        },
+        {
+          "no": 7,
+          "word": "நீத்து <br>(Neeththu)",
+          "ta": "நீங்கி",
+          "en": "Departing",
+          "hi": "खोकर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இலங்கிழா யின்று மறப்பினென் றோண்மேற்",
+          "line2": "கலங்கழியுங் காரிகை நீத்து"
+        },
+        "en": {
+          "line1": "O thou with gleaming jewels decked, could I forget for this one day,",
+          "line2": "Henceforth these bracelets from my arms will slip, my beauty worn away."
+        },
+        "hi": {
+          "line1": "उज्ज्वल भूषण सज्जिते ! यदि मैं भूलूँ आज ।",
+          "line2": "गिरें बाँह से चुड़ियाँ, औ' खोऊँ छवि-साज ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ilanggizhaa Yinru Marappinen Ronmer",
+            "line2": "Kalanggazhiyung Kaarigai Neeththu"
+          },
+          "hi": {
+            "line1": "इलङ्गिऴा यिन्दु मरप्पिनॆन् रोण्मेऱ्",
+            "line2": "कलङ्गऴियुङ् कारिगै नीत्तु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒளி வீசும் அணிகலன்களை அணிந்த தோழியே! இன்றொரு நாள் மட்டும் நான் தலைவரை மறந்தேனானால், என் அழகு நீங்கித் தோள் மேலுள்ள வளையல்கள் கழன்று விழும்.",
+        "en": "She tells her friend that she can't stop thinking of him even for a day—doing so feels like her whole beauty and strength would collapse.",
+        "hi": "वह अपनी सखी से कहती है कि उनकी याद के सहारे ही वह जीवित है; एक दिन भी भूलने पर उसका सारा शृंगार और सौंदर्य नष्ट हो जाएगा।"
+      }
+    },
+    {
+      "num": 1263,
+      "line1": "உரனசைஇ யுள்ளந் துணையாகச் சென்றார்",
+      "line2": "வரனசைஇ யின்னு முளேன்",
+      "enLine1": "On victory intent, His mind sole company he went ;",
+      "enLine2": "And I yet life sustain, And long to see his face again !",
+      "hiLine1": "विजय-कामना से चले, साथ लिये उत्साह ।",
+      "hiLine2": "सो अब भी जीती रही, 'लौटेंगे' यों चाह ॥",
+      "general": "வெற்றியை விரும்பித் தம் மனவலிமையையே துணையாகக் கொண்டு அவர் சென்றார்; அவர் திரும்பி வருவார் என்ற ஆசையால் நான் இன்னும் உயிரோடு இருக்கிறேன்.",
+      "en": "He departed with his resolute mind as his sole companion, intent on victory; I still cling to life, longing for his return.",
+      "hi": "वे विजय की कामना से अपने उत्साह को ही साथी बनाकर गए हैं; और मैं 'वे लौटेंगे' इसी आशा के सहारे अभी तक जीवित हूँ।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உரன் நசைஇ <br>(Uran Nasaii)",
+          "ta": "வெற்றியை விரும்பி",
+          "en": "Desiring victory",
+          "hi": "विजय-कामना से"
+        },
+        {
+          "no": 2,
+          "word": "உள்ளம் <br>(Ullam)",
+          "ta": "மனவலிமையை",
+          "en": "His mind",
+          "hi": "उत्साह"
+        },
+        {
+          "no": 3,
+          "word": "துணையாகச் <br>(Thunaiyaagach)",
+          "ta": "துணையாகக் கொண்டு",
+          "en": "As companion",
+          "hi": "साथ लिये"
+        },
+        {
+          "no": 4,
+          "word": "சென்றார் <br>(Sendraar)",
+          "ta": "சென்றார்",
+          "en": "He went",
+          "hi": "चले"
+        },
+        {
+          "no": 5,
+          "word": "வரன் நசைஇ <br>(Varan Nasaii)",
+          "ta": "வருவார் என்ற ஆசையால்",
+          "en": "Longing for return",
+          "hi": "लौटने की चाह में"
+        },
+        {
+          "no": 6,
+          "word": "இன்னும் <br>(Innum)",
+          "ta": "இன்னும்",
+          "en": "Still / yet",
+          "hi": "अब भी"
+        },
+        {
+          "no": 7,
+          "word": "உளேன் <br>(Ulen)",
+          "ta": "உயிரோடு உள்ளேன்",
+          "en": "I live",
+          "hi": "जीती रही"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உரனசைஇ யுள்ளந் துணையாகச் சென்றார்",
+          "line2": "வரனசைஇ யின்னு முளேன்"
+        },
+        "en": {
+          "line1": "On victory intent, His mind sole company he went ;",
+          "line2": "And I yet life sustain, And long to see his face again !"
+        },
+        "hi": {
+          "line1": "विजय-कामना से चले, साथ लिये उत्साह ।",
+          "line2": "सो अब भी जीती रही, 'लौटेंगे' यों चाह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uranasaii Yullan Thunaiyaagas Senraar",
+            "line2": "Varanasaii Yinnu Mulen"
+          },
+          "hi": {
+            "line1": "उरनसैइ युळ्ळन् तुणैयागच् सॆन्दार्",
+            "line2": "वरनसैइ यिन्नु मुळेन्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "வெற்றியை விரும்பித் தம் மனவலிமையையே துணையாகக் கொண்டு அவர் சென்றார்; அவர் திரும்பி வருவார் என்ற ஆசையால் நான் இன்னும் உயிரோடு இருக்கிறேன்.",
+        "en": "He went off driven by ambition and resolve; she stays alive solely on the hope of seeing him return.",
+        "hi": "वे विजय के उत्साह में चले गए, और वह केवल उनके वापस लौटने की उम्मीद के सहारे साँसें गिन रही है।"
+      }
+    },
+    {
+      "num": 1264,
+      "line1": "கூடிய காமம் பிரிந்தார் வரவுள்ளிக்",
+      "line2": "கோடுகொ டேறுமென் னெஞ்சு",
+      "enLine1": "' He comes again, who left my side, and I shall taste love's joy,'—",
+      "enLine2": "My heart with rapture swells, when thoughts like these my mind employ.",
+      "hiLine1": "प्रेम सहित हैं लौटते, बिछुड़ गये जो नाथ ।",
+      "hiLine2": "उमड़ रहा यों सोच कर, हृदय खुशी के साथ ॥",
+      "general": "முன்பு கூடியிருந்த அன்போடு பிரிந்து சென்ற தலைவர் திரும்பி வருவார் என்று நினைத்த அளவிலேயே என் நெஞ்சம் மகிழ்ச்சியால் பூரித்து உயர்கிறது.",
+      "en": "Thinking of the return of him who parted from our united love, my heart swells high with joy.",
+      "hi": "जो प्रियतम बिछुड़ गए थे वे प्रेम सहित लौट रहे हैं—यह सोचकर ही मेरा हृदय हर्ष से उमड़ रहा है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கூடிய <br>(Koodiya)",
+          "ta": "கூடியிருந்த",
+          "en": "United",
+          "hi": "प्रेम सहित"
+        },
+        {
+          "no": 2,
+          "word": "காமம் <br>(Kaamam)",
+          "ta": "அன்போடு",
+          "en": "Love",
+          "hi": "प्रेम"
+        },
+        {
+          "no": 3,
+          "word": "பிரிந்தார் <br>(Pirindhaar)",
+          "ta": "பிரிந்து சென்றவர்",
+          "en": "Who parted",
+          "hi": "बिछुड़ गये"
+        },
+        {
+          "no": 4,
+          "word": "வரவு உள்ளி <br>(Varavu Ulli)",
+          "ta": "வருவதை நினைத்து",
+          "en": "Thinking of return",
+          "hi": "लौटना सोच कर"
+        },
+        {
+          "no": 5,
+          "word": "கோடு கொடு <br>(Kodu Kodu)",
+          "ta": "மிக உயர்ந்து",
+          "en": "Swells high",
+          "hi": "उमड़ रहा"
+        },
+        {
+          "no": 6,
+          "word": "ஏறும் என் <br>(Erum En)",
+          "ta": "பூரிக்கும் என்",
+          "en": "Rises my",
+          "hi": "खुशी से"
+        },
+        {
+          "no": 7,
+          "word": "நெஞ்சு <br>(Nenju)",
+          "ta": "நெஞ்சம்",
+          "en": "Heart",
+          "hi": "हृदय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கூடிய காமம் பிரிந்தார் வரவுள்ளிக்",
+          "line2": "கோடுகொ டேறுமென் னெஞ்சு"
+        },
+        "en": {
+          "line1": "' He comes again, who left my side, and I shall taste love's joy,'—",
+          "line2": "My heart with rapture swells, when thoughts like these my mind employ."
+        },
+        "hi": {
+          "line1": "प्रेम सहित हैं लौटते, बिछुड़ गये जो नाथ ।",
+          "line2": "उमड़ रहा यों सोच कर, हृदय खुशी के साथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Koodiya Kaamam Pirindhaar Varavullik",
+            "line2": "Kodugo Derumen Nenju"
+          },
+          "hi": {
+            "line1": "कूडिय कामम् पिरिन्दार् वरवुळ्ळिक्",
+            "line2": "कोडुगॊ डेरुमॆन् नॆञ्जु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முன்பு கூடியிருந்த அன்போடு பிரிந்து சென்ற தலைவர் திரும்பி வருவார் என்று நினைத்த அளவிலேயே என் நெஞ்சம் மகிழ்ச்சியால் பூரித்து உயர்கிறது.",
+        "en": "Just imagining him coming back to her fills her heart with a surge of joy.",
+        "hi": "प्रिय के वापस आने का विचार आते ही उसका मन प्रसन्नता से झूम उठता है।"
+      }
+    },
+    {
+      "num": 1265,
+      "line1": "காண்கமற் கொண்கனைக் கண்ணாரக் கண்டபி",
+      "line2": "னீங்குமென் மென்றோட் பசப்பு",
+      "enLine1": "O let me see my spouse again and sate these longing eyes !",
+      "enLine2": "That instant from my wasted frame all pallor flies.",
+      "hiLine1": "प्रियतम को मैं देख लूँ, आँखों से भरपूर ।",
+      "hiLine2": "फिर पीलापन स्कंध का, हो जायेगा दूर ॥",
+      "general": "என் தலைவரை என் கண்கள் நிறையக் காண்பேனாக; அப்படிக் கண்ட உடனேயே என் மென்மையான தோள்களில் படர்ந்துள்ள பசலை நீங்கிவிடும்.",
+      "en": "Let me behold my spouse to my eyes' full content; the moment I see him, the pallor on my tender arms will vanish.",
+      "hi": "मैं अपने प्रियतम को आँखें भरकर देख लूँ, तो देखते ही मेरे कोमल कंधों का पीलापन दूर हो जाएगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "காண்க மன் <br>(Kaanga Man)",
+          "ta": "நான் காண்பேனாக",
+          "en": "Let me see",
+          "hi": "मैं देख लूँ"
+        },
+        {
+          "no": 2,
+          "word": "கொண்கனைக் <br>(Konkanik)",
+          "ta": "என் தலைவரை",
+          "en": "My spouse",
+          "hi": "प्रियतम को"
+        },
+        {
+          "no": 3,
+          "word": "கண் ஆர <br>(Kan Aara)",
+          "ta": "கண்கள் நிறைய",
+          "en": "To eyes' fill",
+          "hi": "आँखों से भरपूर"
+        },
+        {
+          "no": 4,
+          "word": "கண்ட பின் <br>(Kanda Pin)",
+          "ta": "கண்ட பிறகு",
+          "en": "After seeing",
+          "hi": "देखते ही"
+        },
+        {
+          "no": 5,
+          "word": "நீங்கும் என் <br>(Neengum En)",
+          "ta": "நீங்கிவிடும் என்",
+          "en": "Will vanish my",
+          "hi": "दूर होगा मेरे"
+        },
+        {
+          "no": 6,
+          "word": "மென் தோள் <br>(Men Thol)",
+          "ta": "மெல்லிய தோளின்",
+          "en": "Tender arms'",
+          "hi": "कोमल स्कंध का"
+        },
+        {
+          "no": 7,
+          "word": "பசப்பு <br>(Pasappu)",
+          "ta": "பசலை",
+          "en": "Pallor",
+          "hi": "पीलापन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "காண்கமற் கொண்கனைக் கண்ணாரக் கண்டபி",
+          "line2": "னீங்குமென் மென்றோட் பசப்பு"
+        },
+        "en": {
+          "line1": "O let me see my spouse again and sate these longing eyes !",
+          "line2": "That instant from my wasted frame all pallor flies."
+        },
+        "hi": {
+          "line1": "प्रियतम को मैं देख लूँ, आँखों से भरपूर ।",
+          "line2": "फिर पीलापन स्कंध का, हो जायेगा दूर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kaankamar Konkanaik Kannaarak Kandabi",
+            "line2": "Neenggumen Menrot Pasappu"
+          },
+          "hi": {
+            "line1": "काण्कमऱ् कॊण्कनैक् कण्णारक् कण्डबि",
+            "line2": "नीङ्गुमॆन् मॆन्दोट् पसप्पु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் தலைவரை என் கண்கள் நிறையக் காண்பேனாக; அப்படிக் கண்ட உடனேயே என் மென்மையான தோள்களில் படர்ந்துள்ள பசலை நீங்கிவிடும்.",
+        "en": "One good look at him will instantly erase all the paleness and fatigue from her arms.",
+        "hi": "वह कहती है कि प्रियतम को जी भरकर देख लेने मात्र से मेरे तन की सारी विरह-पीड़ा और पीलापन मिट जाएगा।"
+      }
+    },
+    {
+      "num": 1266,
+      "line1": "வருகமற் கொண்க னொருநாட் பருகுவன்",
+      "line2": "பைதனோ யெல்லாங் கெட",
+      "enLine1": "O let my spouse but come again to me one day !",
+      "enLine2": "I 'll drink that nectar : wasting grief shall flee away.",
+      "hiLine1": "प्रिय आवें तो एक दिन, यों कर लूँ रसपान ।",
+      "hiLine2": "जिससे पूरा ही मिटे, दुःखद रोग निदान ॥",
+      "general": "என் தலைவர் ஒருநாள் திரும்பி வருவாராக; இந்தப் பசலை நோய் முழுவதும் நீங்கும்படி அவரின் இன்பத்தை நான் அமிழ்தம் போலப் பருகுவேன்.",
+      "en": "Oh, let my spouse return for just one day! I will drink in the joy of his presence so that all this wasting grief perishes completely.",
+      "hi": "यदि प्रियतम एक दिन भी आ जाएँ, तो मैं उनका ऐसा रसपान कर लूँ जिससे यह दुःखद विरह-रोग जड़ से मिट जाए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வருக மன் <br>(Varuga Man)",
+          "ta": "திரும்பி வருவாராக",
+          "en": "Let him come",
+          "hi": "आवें तो"
+        },
+        {
+          "no": 2,
+          "word": "கொண்கன் <br>(Konkan)",
+          "ta": "என் தலைவர்",
+          "en": "My spouse",
+          "hi": "प्रिय"
+        },
+        {
+          "no": 3,
+          "word": "ஒரு நாள் <br>(Oru Naal)",
+          "ta": "ஒரு நாளாவது",
+          "en": "One day",
+          "hi": "एक दिन"
+        },
+        {
+          "no": 4,
+          "word": "பருகுவன் <br>(Paruguvan)",
+          "ta": "பருகுவேன்",
+          "en": "I will drink",
+          "hi": "कर लूँ रसपान"
+        },
+        {
+          "no": 5,
+          "word": "பைதல் நோய் <br>(Paidhal Noi)",
+          "ta": "பசலை நோய்",
+          "en": "Wasting grief",
+          "hi": "दुःखद रोग"
+        },
+        {
+          "no": 6,
+          "word": "எல்லாம் <br>(Ellaam)",
+          "ta": "முழுவதும்",
+          "en": "All",
+          "hi": "पूरा ही"
+        },
+        {
+          "no": 7,
+          "word": "கெட <br>(Keda)",
+          "ta": "அழியும்படி",
+          "en": "To perish",
+          "hi": "मिटे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வருகமற் கொண்க னொருநாட் பருகுவன்",
+          "line2": "பைதனோ யெல்லாங் கெட"
+        },
+        "en": {
+          "line1": "O let my spouse but come again to me one day !",
+          "line2": "I 'll drink that nectar : wasting grief shall flee away."
+        },
+        "hi": {
+          "line1": "प्रिय आवें तो एक दिन, यों कर लूँ रसपान ।",
+          "line2": "जिससे पूरा ही मिटे, दुःखद रोग निदान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Varugamar Konka Norunaat Paruguvan",
+            "line2": "Paidhano Yellaang Keda"
+          },
+          "hi": {
+            "line1": "वरुगमऱ् कॊण्क नॊरुनाट् परुगुवन्",
+            "line2": "पैदनो यॆल्लाङ् कॆड"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் தலைவர் ஒருநாள் திரும்பி வருவாராக; இந்தப் பசலை நோய் முழுவதும் நீங்கும்படி அவரின் இன்பத்தை நான் அமிழ்தம் போலப் பருகுவேன்.",
+        "en": "If he comes back even for a single day, she'll drink in his presence like nectar until every trace of sorrow is gone.",
+        "hi": "वह चाहती है कि प्रियतम बस एक बार आ जाएँ, ताकि उनके मिलन-सुख से उसका सारा संताप समाप्त हो जाए।"
+      }
+    },
+    {
+      "num": 1267,
+      "line1": "புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பேன்கொல்",
+      "line2": "கண்ணன்ன கேளிர் வரின்",
+      "enLine1": "Shall I draw back, or yield myself, or shall both mingled be,",
+      "enLine2": "When he returns, my spouse, dear as these eyes to me.",
+      "hiLine1": "नेत्र सदृश प्रिय आ मिलें, तो कर बैठूँ मान ?",
+      "hiLine2": "या आलिंगन ही करूँ, या दोनों, हे प्राण ॥",
+      "general": "என் கண்களைப் போன்ற தலைவர் திரும்பி வந்தால், அவரோடு ஊடுவேனோ? அல்லது தழுவுவேனோ? அல்லது இரண்டும் கலந்து நடப்பேனோ?",
+      "en": "When my beloved, dear as my own eyes, returns, shall I feign anger, or embrace him, or do both together?",
+      "hi": "नेत्रों के समान प्रिय वे जब आकर मिलेंगे, तो क्या मैं मान करूँगी, या आलिंगन करूँगी, या दोनों ही करूँगी?",
+      "words": [
+        {
+          "no": 1,
+          "word": "புலப்பேன்கொல் <br>(Pulappenkol)",
+          "ta": "ஊடுவேனோ",
+          "en": "Shall I draw back",
+          "hi": "मान कर बैठूँ"
+        },
+        {
+          "no": 2,
+          "word": "புல்லுவேன் கொல்லோ <br>(Pulluven Kolloa)",
+          "ta": "தழுவுவேனோ",
+          "en": "Or embrace",
+          "hi": "या आलिंगन करूँ"
+        },
+        {
+          "no": 3,
+          "word": "கலப்பேன்கொல் <br>(Kalappenkol)",
+          "ta": "இரண்டும் செய்வேனோ",
+          "en": "Or mingle both",
+          "hi": "या दोनों"
+        },
+        {
+          "no": 4,
+          "word": "கண் அன்ன <br>(Kan Anna)",
+          "ta": "கண் போன்ற",
+          "en": "Dear as eyes",
+          "hi": "नेत्र सदृश"
+        },
+        {
+          "no": 5,
+          "word": "கேளிர் <br>(Kelir)",
+          "ta": "தலைவர்",
+          "en": "Beloved spouse",
+          "hi": "प्रिय"
+        },
+        {
+          "no": 6,
+          "word": "வரின் <br>(Varin)",
+          "ta": "வந்தால்",
+          "en": "When he returns",
+          "hi": "आ मिलें तो"
+        },
+        {
+          "no": 7,
+          "word": "கொல் <br>(Kol)",
+          "ta": "(அசைநிலை)",
+          "en": "(Interrogative)",
+          "hi": "(प्रश्नवाचक)"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பேன்கொல்",
+          "line2": "கண்ணன்ன கேளிர் வரின்"
+        },
+        "en": {
+          "line1": "Shall I draw back, or yield myself, or shall both mingled be,",
+          "line2": "When he returns, my spouse, dear as these eyes to me."
+        },
+        "hi": {
+          "line1": "नेत्र सदृश प्रिय आ मिलें, तो कर बैठूँ मान ?",
+          "line2": "या आलिंगन ही करूँ, या दोनों, हे प्राण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pulappenkol Pulluven Kollo Kalappenkol",
+            "line2": "Kannanna Kelir Varin"
+          },
+          "hi": {
+            "line1": "पुलप्पेन्कॊल् पुल्लुवेन् कॊल्लो कलप्पेन्कॊल्",
+            "line2": "कण्णन्न केळिर् वरिन्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் கண்களைப் போன்ற தலைவர் திரும்பி வந்தால், அவரோடு ஊடுவேனோ? அல்லது தழுவுவேனோ? அல்லது இரண்டும் கலந்து நடப்பேனோ?",
+        "en": "She wonders how she'll greet him when he finally arrives—act mad, throw her arms around him, or both at once.",
+        "hi": "वह सोचती है कि जब आँखों के तारे प्रियतम लौटेंगे, तो वह उनसे रूठेगी, गले लगेगी, या दोनों एक साथ करेगी।"
+      }
+    },
+    {
+      "num": 1268,
+      "line1": "வினைகலந்து வென்றீக வேந்தன் மனைகலந்து",
+      "line2": "மாலை யயர்கம் விருந்து",
+      "enLine1": "O would my king would fight, o'ercome, divide the spoil ;",
+      "enLine2": "At home, to-night, the banquet spread should crown the toil.",
+      "hiLine1": "क्रियाशील हो युद्ध कर, राजा पावें जीत ।",
+      "hiLine2": "सपत्नीक हम भोज दें, संध्या हित सप्रीत ॥",
+      "general": "அரசர் போர் வினையை விரைந்து முடித்து வெற்றி தருவாராக; யாமும் இல்லம் சேர்ந்து மாலைப் பொழுதில் விருந்துண்டு மகிழ்வோமாக.",
+      "en": "May the king finish his campaign and win victory, so that we may return home and celebrate the evening feast with my wife.",
+      "hi": "राजा युद्ध में सक्रिय होकर विजय प्राप्त करें, ताकि हम भी घर लौटकर अपनी पत्नी के साथ संध्या का प्रीति-भोज करें।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வினை கலந்து <br>(Vinai Kalandhu)",
+          "ta": "போர் வினையில் ஈடுபட்டு",
+          "en": "Engaging in campaign",
+          "hi": "क्रियाशील हो युद्ध कर"
+        },
+        {
+          "no": 2,
+          "word": "வென்று ஈக <br>(Vendru Eega)",
+          "ta": "வெற்றி தருவாராக",
+          "en": "May he conquer",
+          "hi": "पावें जीत"
+        },
+        {
+          "no": 3,
+          "word": "வேந்தன் <br>(Vendhan)",
+          "ta": "அரசர்",
+          "en": "The king",
+          "hi": "राजा"
+        },
+        {
+          "no": 4,
+          "word": "மனை கலந்து <br>(Manai Kalandhu)",
+          "ta": "இல்லம் சேர்ந்து",
+          "en": "Returning home",
+          "hi": "सपत्नीक घर आ"
+        },
+        {
+          "no": 5,
+          "word": "மாலை <br>(Maalai)",
+          "ta": "மாலைப் பொழுதில்",
+          "en": "In the evening",
+          "hi": "संध्या हित"
+        },
+        {
+          "no": 6,
+          "word": "அயர்கம் <br>(Ayargam)",
+          "ta": "கொண்டாடுவோம்",
+          "en": "We shall celebrate",
+          "hi": "दें सप्रीत"
+        },
+        {
+          "no": 7,
+          "word": "விருந்து <br>(Virundhu)",
+          "ta": "விருந்து",
+          "en": "Banquet / feast",
+          "hi": "भोज"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வினைகலந்து வென்றீக வேந்தன் மனைகலந்து",
+          "line2": "மாலை யயர்கம் விருந்து"
+        },
+        "en": {
+          "line1": "O would my king would fight, o'ercome, divide the spoil ;",
+          "line2": "At home, to-night, the banquet spread should crown the toil."
+        },
+        "hi": {
+          "line1": "क्रियाशील हो युद्ध कर, राजा पावें जीत ।",
+          "line2": "सपत्नीक हम भोज दें, संध्या हित सप्रीत ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vinaigalandhu Venreega Vendhan Manaigalandhu",
+            "line2": "Maalai Yayarkam Virundhu"
+          },
+          "hi": {
+            "line1": "विनैगलन्दु वॆन्दीग वेन्दन् मनैगलन्दु",
+            "line2": "मालै ययर्कम् विरुन्दु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரசர் போர் வினையை விரைந்து முடித்து வெற்றி தருவாராக; யாமும் இல்லம் சேர்ந்து மாலைப் பொழுதில் விருந்துண்டு மகிழ்வோமாக.",
+        "en": "The husband wishes the king a swift victory so he can go home to his wife and celebrate with an evening feast.",
+        "hi": "नायक कामना करता है कि राजा शीघ्र युद्ध जीत लें, ताकि वह भी घर लौटकर अपनी प्रिया के साथ संध्या का उत्सव मना सके।"
+      }
+    },
+    {
+      "num": 1269,
+      "line1": "ஒருநா ளெழுநாள்போற் செல்லுஞ்சேட் சென்றார்",
+      "line2": "வருநாள்வைத் தேங்கு பவர்க்கு",
+      "enLine1": "One day will seem like seven, to those who watch and yearn",
+      "enLine2": "For that glad day when wanderers from afar return.",
+      "hiLine1": "जिसे प्रवासी पुरुष के, प्रत्यागम का सोच ।",
+      "hiLine2": "एक रोज़ है सात सम, लंबा होता रोज़ ॥",
+      "general": "தொலைதூரம் சென்ற தலைவர் திரும்பி வரும் நாளை எண்ணி ஏங்குபவர்க்கு, ஒரு நாள் என்பது ஏழு நாட்கள் போல நீண்டு செல்லும்.",
+      "en": "To those who watch and pine for the day when travelers from afar return, a single day drags on like seven.",
+      "hi": "जिसे दूर गए प्रवासी के लौटने की प्रतीक्षा और चिंता रहती है, उसके लिए एक दिन भी सात दिनों के समान लंबा बीतता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஒரு நாள் <br>(Oru Naal)",
+          "ta": "ஒரு நாள்",
+          "en": "One day",
+          "hi": "एक रोज़"
+        },
+        {
+          "no": 2,
+          "word": "எழு நாள் போல் <br>(Ezhu Naal Poal)",
+          "ta": "ஏழு நாட்கள் போல",
+          "en": "Like seven days",
+          "hi": "सात सम"
+        },
+        {
+          "no": 3,
+          "word": "செல்லும் <br>(Sellum)",
+          "ta": "நீண்டு செல்லும்",
+          "en": "Passes slowly",
+          "hi": "लंबा होता"
+        },
+        {
+          "no": 4,
+          "word": "சேண் சென்றார் <br>(Sen Sendraar)",
+          "ta": "தொலைதூரம் சென்றவர்",
+          "en": "Wanderers from afar",
+          "hi": "प्रवासी पुरुष के"
+        },
+        {
+          "no": 5,
+          "word": "வரு நாள் <br>(Varu Naal)",
+          "ta": "வரும் நாளை",
+          "en": "Day of return",
+          "hi": "प्रत्यागम का"
+        },
+        {
+          "no": 6,
+          "word": "வைத்து <br>(Vaiththu)",
+          "ta": "எண்ணி",
+          "en": "Holding in mind",
+          "hi": "सोच"
+        },
+        {
+          "no": 7,
+          "word": "ஏங்குபவர்க்கு <br>(Yengubavarkku)",
+          "ta": "ஏங்குபவர்க்கு",
+          "en": "To those who yearn",
+          "hi": "प्रतीक्षा करने वाले को"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஒருநா ளெழுநாள்போற் செல்லுஞ்சேட் சென்றார்",
+          "line2": "வருநாள்வைத் தேங்கு பவர்க்கு"
+        },
+        "en": {
+          "line1": "One day will seem like seven, to those who watch and yearn",
+          "line2": "For that glad day when wanderers from afar return."
+        },
+        "hi": {
+          "line1": "जिसे प्रवासी पुरुष के, प्रत्यागम का सोच ।",
+          "line2": "एक रोज़ है सात सम, लंबा होता रोज़ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Orunaa Lezhunaalpor Sellunjet Senraar",
+            "line2": "Varunaalvaith Thenggu Pavarkku"
+          },
+          "hi": {
+            "line1": "ऒरुना ळॆऴुनाळ्पोऱ् सॆल्लुञ्जेट् सॆन्दार्",
+            "line2": "वरुनाळ्वैत् तेङ्गु पवर्क्कु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தொலைதூரம் சென்ற தலைவர் திரும்பி வரும் நாளை எண்ணி ஏங்குபவர்க்கு, ஒரு நாள் என்பது ஏழு நாட்கள் போல நீண்டு செல்லும்.",
+        "en": "He knows that when you're waiting for someone far away to come home, every single day feels like a whole week.",
+        "hi": "वह अनुभव करता है कि प्रिय के लौटने की बाट जोहने वालों के लिए एक-एक दिन सात दिनों जितना लंबा लगता है।"
+      }
+    },
+    {
+      "num": 1270,
+      "line1": "பெறினென்னாம் பெற்றக்கா லென்னா முறினென்னா",
+      "line2": "முள்ள முடைந்துக்கக் கால்",
+      "enLine1": "What 's my return, the meeting hour, the wished-for greeting worth,",
+      "enLine2": "If she heart-broken lie, with all her life poured forth ?",
+      "hiLine1": "प्राप्य हुई या प्राप्त ही, या हो भी संयोग ।",
+      "hiLine2": "हृदय भग्न हो चल बसी, तो क्या हो उपयोग ॥",
+      "general": "அவள் உள்ளம் உடைந்து உயிர் நீங்கிவிட்டால், நான் திரும்பி வந்தால் என்ன? அவளைப் பெற்றால் என்ன? அவளோடு கூடினால் என்ன? (ஒன்றும் பயனில்லை).",
+      "en": "What is the worth of arriving, meeting, or uniting, if her heart has broken and her life has slipped away?",
+      "hi": "यदि उसका हृदय टूट गया और वह चल बसी, तो मेरे पहुँचने, मिलने या संयोग होने का क्या उपयोग रह जाएगा?",
+      "words": [
+        {
+          "no": 1,
+          "word": "பெறின் என்னாம் <br>(Perin Ennaam)",
+          "ta": "பெற்றால் என்னாகும்",
+          "en": "What worth if gained",
+          "hi": "प्राप्य हुई क्या"
+        },
+        {
+          "no": 2,
+          "word": "பெற்றக்கால் <br>(Petrakkaal)",
+          "ta": "பெற்றாலும்",
+          "en": "Even if obtained",
+          "hi": "या प्राप्त ही"
+        },
+        {
+          "no": 3,
+          "word": "என்னாம் <br>(Ennaam)",
+          "ta": "என்ன பயன்",
+          "en": "What use",
+          "hi": "क्या उपयोग"
+        },
+        {
+          "no": 4,
+          "word": "உறின் என்னாம் <br>(Urin Ennaam)",
+          "ta": "கூடினால் என்னாகும்",
+          "en": "What if united",
+          "hi": "या हो संयोग"
+        },
+        {
+          "no": 5,
+          "word": "உள்ளம் <br>(Ullam)",
+          "ta": "அவள் உள்ளம்",
+          "en": "Her heart",
+          "hi": "हृदय"
+        },
+        {
+          "no": 6,
+          "word": "உடைந்து <br>(Udaindhu)",
+          "ta": "உடைந்து",
+          "en": "Having broken",
+          "hi": "भग्न हो"
+        },
+        {
+          "no": 7,
+          "word": "உக்கக்கால் <br>(Ukkakkaal)",
+          "ta": "உயிர் நீங்கினால்",
+          "en": "If life pours forth",
+          "hi": "चल बसी तो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பெறினென்னாம் பெற்றக்கா லென்னா முறினென்னா",
+          "line2": "முள்ள முடைந்துக்கக் கால்"
+        },
+        "en": {
+          "line1": "What 's my return, the meeting hour, the wished-for greeting worth,",
+          "line2": "If she heart-broken lie, with all her life poured forth ?"
+        },
+        "hi": {
+          "line1": "प्राप्य हुई या प्राप्त ही, या हो भी संयोग ।",
+          "line2": "हृदय भग्न हो चल बसी, तो क्या हो उपयोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Perinennaam Petrakkaa Lennaa Murinennaa",
+            "line2": "Mulla Mudaindhukkak Kaal"
+          },
+          "hi": {
+            "line1": "पॆरिनॆन्नाम् पॆत्रक्का लॆन्ना मुरिनॆन्ना",
+            "line2": "मुळ्ळ मुडैन्दुक्कक् काल्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அவள் உள்ளம் உடைந்து உயிர் நீங்கிவிட்டால், நான் திரும்பி வந்தால் என்ன? அவளைப் பெற்றால் என்ன? அவளோடு கூடினால் என்ன? (ஒன்றும் பயனில்லை).",
+        "en": "He realizes that coming home means nothing if he waits too long and arrives after her heart has already broken.",
+        "hi": "नायक चिंतित है कि यदि विरह से उसका हृदय टूट गया, तो बाद में आकर मिलने का भी कोई अर्थ नहीं रह जाएगा।"
+      }
+    }
+  ]
+}

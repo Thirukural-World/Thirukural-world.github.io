@@ -1,0 +1,930 @@
+{
+  "chapterNum": 113,
+  "nameTa": "காதற்சிறப்புரைத்தல்",
+  "nameEn": "Declaration of Love's Special Excellence",
+  "nameHi": "प्रेम-प्रशंसा",
+  "paal": "காமத்துப்பால்",
+  "iyal": "களவியல்",
+  "kurals": [
+    {
+      "num": 1121,
+      "line1": "பாலொடு தேன்கலந் தற்றே பணிமொழி",
+      "line2": "வாலெயி றூறிய நீர்.",
+      "enLine1": "The dew on her white teeth, whose voice is soft and low,",
+      "enLine2": "Is as when milk and honey mingled flow.",
+      "hiLine1": "मधुर भाषिणी सुतुनु का, सित रद निःसृत नीर ।",
+      "hiLine2": "यों लगता है मधुर वह, ज्यों मधु-मिश्रित क्षीर ॥",
+      "general": "மென்மையாகப் பேசும் என் காதலியின் வெண்மையான பற்களிடையே ஊறிய அமிழ்தம், பாலோடு தேன் கலந்தது போல் இனிமையானது.",
+      "en": "The sweet moisture on the white teeth of my soft-spoken beloved is like milk and honey blended together.",
+      "hi": "मधुर बोलने वाली सुन्दरी के श्वेत दाँतों से निःसृत अमृत ऐसा मधुर लगता है, मानो दूध में शहद मिला दिया गया हो।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பாலொடு <br>(Paalodu)",
+          "ta": "பாலோடு",
+          "en": "With milk",
+          "hi": "क्षीर"
+        },
+        {
+          "no": 2,
+          "word": "தேன் <br>(Then)",
+          "ta": "தேன்",
+          "en": "Honey",
+          "hi": "मधु"
+        },
+        {
+          "no": 3,
+          "word": "கலந்தற்றே <br>(Kalandhatre)",
+          "ta": "கலந்தது போன்றதே",
+          "en": "Mingled flow",
+          "hi": "मिश्रित"
+        },
+        {
+          "no": 4,
+          "word": "பணிமொழி <br>(Panimozhi)",
+          "ta": "மென்மையாகப் பேசுபவளின்",
+          "en": "Voice soft and low",
+          "hi": "मधुर भाषिणी सुतुनु का"
+        },
+        {
+          "no": 5,
+          "word": "வால் எயிறு <br>(Vaal eyiru)",
+          "ta": "வெண்மையான பற்களில்",
+          "en": "White teeth",
+          "hi": "सित रद"
+        },
+        {
+          "no": 6,
+          "word": "ஊறிய <br>(Ooriya)",
+          "ta": "ஊறிய",
+          "en": "Dew on",
+          "hi": "निःसृत"
+        },
+        {
+          "no": 7,
+          "word": "நீர் <br>(Neer)",
+          "ta": "நீர் (அமிழ்தம்)",
+          "en": "Moisture",
+          "hi": "नीर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பாலொடு தேன்கலந் தற்றே பணிமொழி",
+          "line2": "வாலெயி றூறிய நீர்."
+        },
+        "en": {
+          "line1": "The dew on her white teeth, whose voice is soft and low,",
+          "line2": "Is as when milk and honey mingled flow."
+        },
+        "hi": {
+          "line1": "मधुर भाषिणी सुतुनु का, सित रद निःसृत नीर ।",
+          "line2": "यों लगता है मधुर वह, ज्यों मधु-मिश्रित क्षीर ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Paalodu Thenkalan Thatre Panimozhi",
+            "line2": "Vaaleyi Rooriya Neer."
+          },
+          "hi": {
+            "line1": "पालॊडु तेन्गलन् दत्र्रे पणिमॊऴि",
+            "line2": "वालेयि रूरिय नीर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மென்மையாகப் பேசும் என் காதலியின் வெண்மையான பற்களிடையே ஊறிய அமிழ்தம், பாலோடு தேன் கலந்தது போல் இனிமையானது.",
+        "en": "Every kiss from my soft-spoken love tastes as sweet as warm milk mixed with honey.",
+        "hi": "मधुर बोलने वाली सुन्दरी के श्वेत दाँतों से निःसृत अमृत ऐसा मधुर लगता है, मानो दूध में शहद मिला दिया गया हो।"
+      }
+    },
+    {
+      "num": 1122,
+      "line1": "உடம்போ டுயிரிடை யென்னமற் றன்ன",
+      "line2": "மடந்தையோ டெம்மிடை நட்பு.",
+      "enLine1": "Between this maid and me the friendship kind",
+      "enLine2": "Is as the bonds that soul and body bind.",
+      "hiLine1": "जैसा देही देह का, होता है सम्बन्ध ।",
+      "hiLine2": "वैसा मेरे, नारि के, बीच रहा सम्बन्ध ॥",
+      "general": "உடம்போடு உயிருக்கு உள்ள உறவு எத்தகையதோ, அத்தகையதே இளமைப் பெண்ணாகிய இவளுக்கும் எனக்கும் இடையே உள்ள காதல் நட்பாகும்.",
+      "en": "The bond of love between this maiden and me is just like the inseparable union between body and soul.",
+      "hi": "जैसा गहरा और अभिन्न सम्बन्ध शरीर और आत्मा (देही और देह) के बीच होता है, वैसा ही सम्बन्ध मेरे और मेरी प्रियतमा के बीच है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உடம்போடு <br>(Udambodu)",
+          "ta": "உடம்போடு",
+          "en": "And body",
+          "hi": "देह का"
+        },
+        {
+          "no": 2,
+          "word": "உயிரிடை <br>(Uyiridai)",
+          "ta": "உயிருக்கு இடையே",
+          "en": "Soul bind",
+          "hi": "देही"
+        },
+        {
+          "no": 3,
+          "word": "என்ன மற்று <br>(Enna matru)",
+          "ta": "எத்தகையதோ",
+          "en": "Is as",
+          "hi": "जैसा होता है"
+        },
+        {
+          "no": 4,
+          "word": "அன்ன <br>(Anna)",
+          "ta": "அத்தகையதே",
+          "en": "Such",
+          "hi": "वैसा"
+        },
+        {
+          "no": 5,
+          "word": "மடந்தையோடு <br>(Madandhaiyodu)",
+          "ta": "இப்பெண்ணோடு",
+          "en": "This maid",
+          "hi": "नारि के"
+        },
+        {
+          "no": 6,
+          "word": "எம் இடை <br>(Em idai)",
+          "ta": "எமக்கு இடையே உள்ள",
+          "en": "Between me and",
+          "hi": "मेरे बीच रहा"
+        },
+        {
+          "no": 7,
+          "word": "நட்பு <br>(Natpu)",
+          "ta": "காதல் நட்பு",
+          "en": "Friendship kind",
+          "hi": "सम्बन्ध"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உடம்போ டுயிரிடை யென்னமற் றன்ன",
+          "line2": "மடந்தையோ டெம்மிடை நட்பு."
+        },
+        "en": {
+          "line1": "Between this maid and me the friendship kind",
+          "line2": "Is as the bonds that soul and body bind."
+        },
+        "hi": {
+          "line1": "जैसा देही देह का, होता है सम्बन्ध ।",
+          "line2": "वैसा मेरे, नारि के, बीच रहा सम्बन्ध ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Udambo Duyiridai Yennamar Ranna",
+            "line2": "Madandhaiyo Demmidai Natpu."
+          },
+          "hi": {
+            "line1": "उडम्बो डुयिरिडै यॆन्नमर् रन्न",
+            "line2": "मदन्दैयो डॆम्मिडै नट्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உடம்போடு உயிருக்கு உள்ள உறவு எத்தகையதோ, அத்தகையதே இளமைப் பெண்ணாகிய இவளுக்கும் எனக்கும் இடையே உள்ள காதல் நட்பாகும்.",
+        "en": "Our connection isn't just close—it's as inseparable as body and soul.",
+        "hi": "जैसा गहरा और अभिन्न सम्बन्ध शरीर और आत्मा (देही और देह) के बीच होता है, वैसा ही सम्बन्ध मेरे और मेरी प्रियतमा के बीच है।"
+      }
+    },
+    {
+      "num": 1123,
+      "line1": "கருமணியிற் பாவாய் நீபோதா யாம்வீழுந்",
+      "line2": "திருநுதற் கில்லை யிடம்.",
+      "enLine1": "For her with beauteous brow, the maid I love, there place is none ;",
+      "enLine2": "To give her image room, O pupil of mine eye, begone !",
+      "hiLine1": "पुतली में पुतली अरी, हट जाओ यह जान ।",
+      "hiLine2": "मेरी ललित ललाटयुत, प्यारी को नहिं स्थान ॥",
+      "general": "என் கண்ணின் கருமணியில் இருக்கும் பாவையே! நீ இங்கிருந்து போய்விடு; நான் விரும்பும் அழகிய நெற்றியையுடைய என் காதலி தங்குவதற்கு இங்கே இடமில்லை.",
+      "en": "O tiny reflection in the pupil of my eye, move aside! There is no room left for the image of my fair-browed beloved to dwell there.",
+      "hi": "अरी मेरी आँख की पुतली! तू यहाँ से हट जा, क्योंकि तेरे रहने के कारण मेरी सुन्दर मस्तक वाली प्रियतमा के बसने के लिए स्थान नहीं बचा है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கருமணியில் <br>(Karumaniyil)",
+          "ta": "கண்ணின் கருமணியில் உள்ள",
+          "en": "Pupil of mine eye",
+          "hi": "पुतली में"
+        },
+        {
+          "no": 2,
+          "word": "பாவாய் <br>(Paavaay)",
+          "ta": "பாவையே",
+          "en": "Image",
+          "hi": "पुतली अरी"
+        },
+        {
+          "no": 3,
+          "word": "நீ போதாய் <br>(Nee podhaay)",
+          "ta": "நீ போய்விடு",
+          "en": "Begone!",
+          "hi": "हट जाओ"
+        },
+        {
+          "no": 4,
+          "word": "யாம் வீழும் <br>(Yaam veezhum)",
+          "ta": "நாம் விரும்பும்",
+          "en": "The maid I love",
+          "hi": "मेरी प्यारी को"
+        },
+        {
+          "no": 5,
+          "word": "திருநுதற்கு <br>(Thirunudharku)",
+          "ta": "அழகிய நெற்றியுடையவளுக்கு",
+          "en": "Beauteous brow",
+          "hi": "ललित ललाटयुत"
+        },
+        {
+          "no": 6,
+          "word": "இல்லை <br>(Illai)",
+          "ta": "இல்லை",
+          "en": "Is none",
+          "hi": "नहिं"
+        },
+        {
+          "no": 7,
+          "word": "இடம் <br>(Idam)",
+          "ta": "இடம்",
+          "en": "Place",
+          "hi": "स्थान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கருமணியிற் பாவாய் நீபோதா யாம்வீழுந்",
+          "line2": "திருநுதற் கில்லை யிடம்."
+        },
+        "en": {
+          "line1": "For her with beauteous brow, the maid I love, there place is none ;",
+          "line2": "To give her image room, O pupil of mine eye, begone !"
+        },
+        "hi": {
+          "line1": "पुतली में पुतली अरी, हट जाओ यह जान ।",
+          "line2": "मेरी ललित ललाटयुत, प्यारी को नहिं स्थान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Karumaniyir Paavaay Neebodhaa Yaamveezhun",
+            "line2": "Thirunudhar Killai Yidam."
+          },
+          "hi": {
+            "line1": "करुमणियिर पावाय् नीबोदा याम्वीऴुन्",
+            "line2": "तिरुनुदर किल्लै यिडम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் கண்ணின் கருமணியில் இருக்கும் பாவையே! நீ இங்கிருந்து போய்விடு; நான் விரும்பும் அழகிய நெற்றியையுடைய என் காதலி தங்குவதற்கு இங்கே இடமில்லை.",
+        "en": "Little reflection in my eye, step aside—I need all the space in there for her image!",
+        "hi": "अरी मेरी आँख की पुतली! तू यहाँ से हट जा, क्योंकि तेरे रहने के कारण मेरी सुन्दर मस्तक वाली प्रियतमा के बसने के लिए स्थान नहीं बचा है।"
+      }
+    },
+    {
+      "num": 1124,
+      "line1": "வாழ்த லுயிர்க்கன்ன ளாயிழை சாத",
+      "line2": "லதற்கன்ன ணீங்கு மிடத்து.",
+      "enLine1": "Life is she to my very soul when she draws nigh ;",
+      "enLine2": "Dissevered from the maid with jewels rare, I die !",
+      "hiLine1": "जीना सम है प्राण हित, बाला, जब संयोग ।",
+      "hiLine2": "मरना सम उसके लिये, होता अगर वियोग ॥",
+      "general": "ஆராய்ந்த அணிகலன்களை அணிந்த இவள் கூடியிருக்கும்போது உயிருக்கு வாழ்வைப் போன்றவள்; பிரிந்து நீங்கும்போது உயிருக்குச் சாவைப் போன்றவள்.",
+      "en": "When she is near, this jewel-adorned maiden is like life itself to my soul; when she parts from me, it is like death.",
+      "hi": "इस सुन्दरी का संयोग (मिलन) मेरे प्राणों के लिए जीवन के समान है, और यदि इससे वियोग हो जाए तो वह मृत्यु के समान है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வாழ்தல் <br>(Vaazhdhal)",
+          "ta": "வாழ்வது",
+          "en": "Life",
+          "hi": "जीना"
+        },
+        {
+          "no": 2,
+          "word": "உயிர்க்கு அன்னள் <br>(Uyirkku annal)",
+          "ta": "உயிருக்கு அத்தகையவள்",
+          "en": "To my very soul",
+          "hi": "प्राण हित सम है"
+        },
+        {
+          "no": 3,
+          "word": "ஆயிழை <br>(Aayizhai)",
+          "ta": "அழகிய அணிகலன் அணிந்தவள்",
+          "en": "Maid with jewels rare",
+          "hi": "बाला"
+        },
+        {
+          "no": 4,
+          "word": "சாதல் <br>(Saadhal)",
+          "ta": "சாவது",
+          "en": "I die",
+          "hi": "मरना"
+        },
+        {
+          "no": 5,
+          "word": "அதற்கு அன்னள் <br>(Adharku annal)",
+          "ta": "உயிருக்கு அத்தகையவள்",
+          "en": "Like that",
+          "hi": "उसके लिये सम"
+        },
+        {
+          "no": 6,
+          "word": "நீங்கும் <br>(Neengum)",
+          "ta": "பிரிந்து செல்லும்",
+          "en": "Dissevered",
+          "hi": "होता वियोग"
+        },
+        {
+          "no": 7,
+          "word": "இடத்து <br>(Idaththu)",
+          "ta": "காலத்தில்",
+          "en": "When",
+          "hi": "अगर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வாழ்த லுயிர்க்கன்ன ளாயிழை சாத",
+          "line2": "லதற்கன்ன ணீங்கு மிடத்து."
+        },
+        "en": {
+          "line1": "Life is she to my very soul when she draws nigh ;",
+          "line2": "Dissevered from the maid with jewels rare, I die !"
+        },
+        "hi": {
+          "line1": "जीना सम है प्राण हित, बाला, जब संयोग ।",
+          "line2": "मरना सम उसके लिये, होता अगर वियोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vaazhtha Luyirkkanna Laayizhai Saadha",
+            "line2": "Ladharkanna Neenggu Midaththu."
+          },
+          "hi": {
+            "line1": "वाऴ्द लुयिर्क्कन्न ळायिऴै साद",
+            "line2": "लदर्कन्न णीङ्गु मिडत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஆராய்ந்த அணிகலன்களை அணிந்த இவள் கூடியிருக்கும்போது உயிருக்கு வாழ்வைப் போன்றவள்; பிரிந்து நீங்கும்போது உயிருக்குச் சாவைப் போன்றவள்.",
+        "en": "Being with her feels like pure life; being apart from her feels like dying.",
+        "hi": "इस सुन्दरी का संयोग (मिलन) मेरे प्राणों के लिए जीवन के समान है, और यदि इससे वियोग हो जाए तो वह मृत्यु के समान है।"
+      }
+    },
+    {
+      "num": 1125,
+      "line1": "உள்ளுவன் மன்யான் மறப்பின் மறப்பறியே",
+      "line2": "னொள்ளமர்க் கண்ணாள் குணம்.",
+      "enLine1": "I might recall, if I could once forget ; but from my heart",
+      "enLine2": "Her charms fade not, whose eyes gleam like the warrior's dart.",
+      "hiLine1": "लड़ते दृग युत बाल के, गुण यदि जाऊँ भूल ।",
+      "hiLine2": "तब तो कर सकता स्मरण, पर जाता नहिं भूल ॥",
+      "general": "ஒளிபொருந்திய போர் செய்யும் கண்களையுடைய இவள் குணத்தை நான் மறந்தால்தானே மீண்டும் நினைக்க முடியும்? ஒருபோதும் மறப்பதையே நான் அறியேனே!",
+      "en": "I could remember her qualities if I ever forgot them—but I never even know a moment of forgetting the charms of this bright-eyed maiden.",
+      "hi": "चंचल नेत्रों वाली इस बाला के गुणों को यदि मैं कभी भूलूँ, तब तो उन्हें फिर से याद करूँ; पर मैं तो उन्हें एक पल के लिए भी नहीं भूल पाता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உள்ளுவன் மன் <br>(Ulluvan man)",
+          "ta": "நினைப்பேன்",
+          "en": "I might recall",
+          "hi": "कर सकता स्मरण"
+        },
+        {
+          "no": 2,
+          "word": "யான் மறப்பின் <br>(Yaan marappin)",
+          "ta": "நான் மறந்தால்",
+          "en": "If I could forget",
+          "hi": "यदि जाऊँ भूल"
+        },
+        {
+          "no": 3,
+          "word": "மறப்பு அறியேன் <br>(Marappu ariyen)",
+          "ta": "மறப்பதையே அறியேன்",
+          "en": "Forget not",
+          "hi": "जाता नहिं भूल"
+        },
+        {
+          "no": 4,
+          "word": "ஒள் அமர் <br>(Ol amar)",
+          "ta": "ஒளிபொருந்திய போர் செய்யும்",
+          "en": "Warrior's dart",
+          "hi": "लड़ते"
+        },
+        {
+          "no": 5,
+          "word": "கண்ணாள் <br>(Kannaal)",
+          "ta": "கண்களையுடையவளின்",
+          "en": "Whose eyes gleam",
+          "hi": "दृग युत बाल के"
+        },
+        {
+          "no": 6,
+          "word": "குணம் <br>(Gunam)",
+          "ta": "நற்குணத்தை",
+          "en": "Her charms",
+          "hi": "गुण"
+        },
+        {
+          "no": 7,
+          "word": "நினைவு <br>(Ninaivu)",
+          "ta": "நினைவு",
+          "en": "Memory",
+          "hi": "स्मरण"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உள்ளுவன் மன்யான் மறப்பின் மறப்பறியே",
+          "line2": "னொள்ளமர்க் கண்ணாள் குணம்."
+        },
+        "en": {
+          "line1": "I might recall, if I could once forget ; but from my heart",
+          "line2": "Her charms fade not, whose eyes gleam like the warrior's dart."
+        },
+        "hi": {
+          "line1": "लड़ते दृग युत बाल के, गुण यदि जाऊँ भूल ।",
+          "line2": "तब तो कर सकता स्मरण, पर जाता नहिं भूल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ulluvan Manyaan Marappin Marappariye",
+            "line2": "Nollamark Kannaal Kunam."
+          },
+          "hi": {
+            "line1": "उळ्ळुवन् मन्यान् मरप्पिन् मरप्परिये",
+            "line2": "नॊळ्ळमर्क् कण्णाळ् गुणम्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "ஒளிபொருந்திய போர் செய்யும் கண்களையுடைய இவள் குணத்தை நான் மறந்தால்தானே மீண்டும் நினைக்க முடியும்? ஒருபோதும் மறப்பதையே நான் அறியேனே!",
+        "en": "I'd have to forget her first in order to 'remember' her—and she hasn't left my mind for a single second.",
+        "hi": "चंचल नेत्रों वाली इस बाला के गुणों को यदि मैं कभी भूलूँ, तब तो उन्हें फिर से याद करूँ; पर मैं तो उन्हें एक पल के लिए भी नहीं भूल पाता।"
+      }
+    },
+    {
+      "num": 1126,
+      "line1": "கண்ணுள்ளிற் போகா ரிமைப்பிற் பருவரார்",
+      "line2": "நுண்ணியரெங் காத லவர்.",
+      "enLine1": "My loved one's subtle form departs not from my eyes ;",
+      "enLine2": "I wink them not, lest I should pain him where he lies.",
+      "hiLine1": "दृग में से निकलें नहीं, मेरे सुभग सुजान ।",
+      "hiLine2": "झपकी लूँ तो हो न दुख, वे हैं सूक्ष्म प्राण ॥",
+      "general": "என் காதலர் என் கண்ணுக்குள்ளிருந்து போகவும் மாட்டார்; நான் இமைத்தாலும் அதனால் வருந்தவும் மாட்டார்; அவ்வளவு நுண்மையானவர் அவர்!",
+      "en": "My beloved never leaves my eyes, nor is he hurt even when I blink—so subtle and tender is his presence.",
+      "hi": "मेरे प्रियतम मेरी आँखों से कभी बाहर नहीं निकलते, और वे इतने सूक्ष्म हैं कि यदि मैं पलक झपकाऊँ भी तो उन्हें कोई कष्ट न हो (फिर भी मैं डरती हूँ)।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கண்ணுள்ளில் <br>(Kannullil)",
+          "ta": "என் கண்ணுக்குள்ளிருந்து",
+          "en": "From my eyes",
+          "hi": "दृग में से"
+        },
+        {
+          "no": 2,
+          "word": "போகார் <br>(Pogaaar)",
+          "ta": "போகமாட்டார்",
+          "en": "Departs not",
+          "hi": "निकलें नहीं"
+        },
+        {
+          "no": 3,
+          "word": "இமைப்பின் <br>(Imaippin)",
+          "ta": "நான் இமைத்தாலும்",
+          "en": "Wink them",
+          "hi": "झपकी लूँ तो"
+        },
+        {
+          "no": 4,
+          "word": "பருவரார் <br>(Paruvaraar)",
+          "ta": "வருந்தமாட்டார்",
+          "en": "Pain him",
+          "hi": "हो न दुख"
+        },
+        {
+          "no": 5,
+          "word": "நுண்ணியர் <br>(Nunniyar)",
+          "ta": "நுண்மையானவர்",
+          "en": "Subtle form",
+          "hi": "वे हैं सूक्ष्म प्राण"
+        },
+        {
+          "no": 6,
+          "word": "எம் <br>(Em)",
+          "ta": "எம்முடைய",
+          "en": "My",
+          "hi": "मेरे"
+        },
+        {
+          "no": 7,
+          "word": "காதலவர் <br>(Kaadhalavar)",
+          "ta": "காதலர்",
+          "en": "Loved one's",
+          "hi": "सुभग सुजान"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கண்ணுள்ளிற் போகா ரிமைப்பிற் பருவரார்",
+          "line2": "நுண்ணியரெங் காத லவர்."
+        },
+        "en": {
+          "line1": "My loved one's subtle form departs not from my eyes ;",
+          "line2": "I wink them not, lest I should pain him where he lies."
+        },
+        "hi": {
+          "line1": "दृग में से निकलें नहीं, मेरे सुभग सुजान ।",
+          "line2": "झपकी लूँ तो हो न दुख, वे हैं सूक्ष्म प्राण ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kannullil Pogaar Imaippin Paruvaraar",
+            "line2": "Nunniyar Em Kaadhalavar."
+          },
+          "hi": {
+            "line1": "कण्णुळ्ळिर् पोगा रिमैप्पिर् परुवरार्",
+            "line2": "नुण्णियरॆङ् गाद लवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் காதலர் என் கண்ணுக்குள்ளிருந்து போகவும் மாட்டார்; நான் இமைத்தாலும் அதனால் வருந்தவும் மாட்டார்; அவ்வளவு நுண்மையானவர் அவர்!",
+        "en": "He lives right inside my eyes—so delicate that I'm almost afraid to blink in case it bothers him.",
+        "hi": "मेरे प्रियतम मेरी आँखों से कभी बाहर नहीं निकलते, और वे इतने सूक्ष्म हैं कि यदि मैं पलक झपकाऊँ भी तो उन्हें कोई कष्ट न हो (फिर भी मैं डरती हूँ)।"
+      }
+    },
+    {
+      "num": 1127,
+      "line1": "கண்ணுள்ளாற் காத லவராகக் கண்ணு",
+      "line2": "மெழுதேங் கரப்பாக் கறிந்து.",
+      "enLine1": "My love doth ever in my eyes reside ;",
+      "enLine2": "I stain them not, fearing his form to hide.",
+      "hiLine1": "यों विचार कर नयन में, करते वास सुजान ।",
+      "hiLine2": "नहीं आंजतीं हम नयन, छिप जायेंगे जान ॥",
+      "general": "என் காதலர் என் கண்களுக்கு உள்ளே இருப்பதால், கண்களில் மை தீட்டினால் அவர் மறைந்துவிடுவாரோ என்று எண்ணி மையும் தீட்ட மாட்டேன்.",
+      "en": "Because my beloved dwells within my eyes, I do not even apply kohl to them, fearing it might hide him from view.",
+      "hi": "यह सोचकर कि मेरे प्रियतम मेरी आँखों में ही निवास करते हैं, मैं आँखों में काजल भी नहीं लगाती कि कहीं वे छिप न जाएँ।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கண்ணுள்ளால் <br>(Kannullaal)",
+          "ta": "கண்ணுக்கு உள்ளே",
+          "en": "In my eyes",
+          "hi": "नयन में"
+        },
+        {
+          "no": 2,
+          "word": "காதலவர் ஆக <br>(Kaadhalavar aaga)",
+          "ta": "காதலர் இருப்பதால்",
+          "en": "Love reside",
+          "hi": "करते वास सुजान"
+        },
+        {
+          "no": 3,
+          "word": "கண்ணும் <br>(Kannum)",
+          "ta": "கண்களையும்",
+          "en": "Eyes",
+          "hi": "नयन"
+        },
+        {
+          "no": 4,
+          "word": "எழுதேம் <br>(Ezhudhem)",
+          "ta": "மை தீட்ட மாட்டோம்",
+          "en": "Stain them not",
+          "hi": "नहीं आंजतीं हम"
+        },
+        {
+          "no": 5,
+          "word": "கரப்பாக்கு <br>(Karappaakku)",
+          "ta": "மறைந்துவிடுவாரோ என்று",
+          "en": "Form to hide",
+          "hi": "छिप जायेंगे"
+        },
+        {
+          "no": 6,
+          "word": "அறிந்து <br>(Arindhu)",
+          "ta": "எண்ணி",
+          "en": "Fearing",
+          "hi": "यों विचार कर"
+        },
+        {
+          "no": 7,
+          "word": "அன்பு <br>(Anbu)",
+          "ta": "அன்பு",
+          "en": "Love",
+          "hi": "प्रेम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கண்ணுள்ளாற் காத லவராகக் கண்ணு",
+          "line2": "மெழுதேங் கரப்பாக் கறிந்து."
+        },
+        "en": {
+          "line1": "My love doth ever in my eyes reside ;",
+          "line2": "I stain them not, fearing his form to hide."
+        },
+        "hi": {
+          "line1": "यों विचार कर नयन में, करते वास सुजान ।",
+          "line2": "नहीं आंजतीं हम नयन, छिप जायेंगे जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kannullaar Kaadha Lavaraagak Kannu",
+            "line2": "Mezhudheng Karappaak Karindhu."
+          },
+          "hi": {
+            "line1": "कण्णुळ्ळार् काद लवरगक् कण्णु",
+            "line2": "मॆऴुदेङ् गरप्पाक् करिन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் காதலர் என் கண்களுக்கு உள்ளே இருப்பதால், கண்களில் மை தீட்டினால் அவர் மறைந்துவிடுவாரோ என்று எண்ணி மையும் தீட்ட மாட்டேன்.",
+        "en": "Since he lives inside my eyes, I won't even put on eyeliner—I'm afraid I'd cover him up.",
+        "hi": "यह सोचकर कि मेरे प्रियतम मेरी आँखों में ही निवास करते हैं, मैं आँखों में काजल भी नहीं लगाती कि कहीं वे छिप न जाएँ।"
+      }
+    },
+    {
+      "num": 1128,
+      "line1": "நெஞ்சத்தார் காத லவராக வெய்துண்ட",
+      "line2": "லஞ்சுதும் வேபாக் கறிந்து.",
+      "enLine1": "Within my heart my lover dwells ; from food I turn",
+      "enLine2": "That smacks of heat, lest he should feel it burn.",
+      "hiLine1": "यों विचार कर हृदय में, करते वास सुजान ।",
+      "hiLine2": "खाने से डर है गरम, जल जायेंगे जान ॥",
+      "general": "என் நெஞ்சத்திற்குள்ளே என் காதலர் தங்கியிருப்பதால், சூடான உணவை உண்டால் அவர் வெந்துவிடுவாரோ என்று அஞ்சிச் சூடான உணவை உண்ணவும் அஞ்சுகிறேன்.",
+      "en": "Because my beloved dwells inside my heart, I am afraid even to eat warm food, fearing the heat might burn him.",
+      "hi": "यह सोचकर कि मेरे प्रियतम मेरे हृदय में वास करते हैं, मैं गरम भोजन खाने से भी डरती हूँ कि कहीं वे जल न जाएँ।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நெஞ்சத்தார் <br>(Nenjaththaar)",
+          "ta": "நெஞ்சுக்குள் இருப்பவர்",
+          "en": "Within my heart",
+          "hi": "हृदय में"
+        },
+        {
+          "no": 2,
+          "word": "காதலவர் ஆக <br>(Kaadhalavar aaga)",
+          "ta": "காதலராக இருப்பதால்",
+          "en": "Lover dwells",
+          "hi": "करते वास सुजान"
+        },
+        {
+          "no": 3,
+          "word": "வெய்து உண்டல் <br>(Veydhu undal)",
+          "ta": "சூடானதை உண்ண",
+          "en": "Food that smacks of heat",
+          "hi": "खाने से गरम"
+        },
+        {
+          "no": 4,
+          "word": "அஞ்சுதும் <br>(Anjudhum)",
+          "ta": "அஞ்சுகிறோம்",
+          "en": "I turn",
+          "hi": "डर है"
+        },
+        {
+          "no": 5,
+          "word": "வேபாக்கு <br>(Vebaakku)",
+          "ta": "வெந்துவிடுவார் என்று",
+          "en": "Feel it burn",
+          "hi": "जल जायेंगे"
+        },
+        {
+          "no": 6,
+          "word": "அறிந்து <br>(Arindhu)",
+          "ta": "நினைத்து",
+          "en": "Lest",
+          "hi": "यों विचार कर"
+        },
+        {
+          "no": 7,
+          "word": "பாசம் <br>(Paasam)",
+          "ta": "பாசம்",
+          "en": "Affection",
+          "hi": "प्रेम"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நெஞ்சத்தார் காத லவராக வெய்துண்ட",
+          "line2": "லஞ்சுதும் வேபாக் கறிந்து."
+        },
+        "en": {
+          "line1": "Within my heart my lover dwells ; from food I turn",
+          "line2": "That smacks of heat, lest he should feel it burn."
+        },
+        "hi": {
+          "line1": "यों विचार कर हृदय में, करते वास सुजान ।",
+          "line2": "खाने से डर है गरम, जल जायेंगे जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nenjaththaar Kaadha Lavaraaga Veythunda",
+            "line2": "Lanjudhum Vebaak Karindhu."
+          },
+          "hi": {
+            "line1": "नॆञ्जत्तार् काद लवराग वॆय्दुण्ड",
+            "line2": "लञ्जुदुम् वेबाक् करिन्दु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் நெஞ்சத்திற்குள்ளே என் காதலர் தங்கியிருப்பதால், சூடான உணவை உண்டால் அவர் வெந்துவிடுவாரோ என்று அஞ்சிச் சூடான உணவை உண்ணவும் அஞ்சுகிறேன்.",
+        "en": "Since he's right there inside my heart, I won't even touch hot food—what if it burns him?",
+        "hi": "यह सोचकर कि मेरे प्रियतम मेरे हृदय में वास करते हैं, मैं गरम भोजन खाने से भी डरती हूँ कि कहीं वे जल न जाएँ।"
+      }
+    },
+    {
+      "num": 1129,
+      "line1": "இமைப்பிற் கரப்பாக் கறிவ லனைத்திற்கே",
+      "line2": "யேதில ரென்னுமிவ் வூர்.",
+      "enLine1": "I fear his form to hide, nor close my eyes :",
+      "enLine2": "'Her love estranged is gone !' the village cries.",
+      "hiLine1": "झपकी लूँ तो जात है, होंगे नाथ विलीन ।",
+      "hiLine2": "पर इससे पुरजन उन्हें, कहते प्रेम विहीन ॥",
+      "general": "கண் இமைத்தால் என் காதலர் மறைந்துவிடுவாரோ என்று அஞ்சி நான் இமைக்காமல் இருக்கிறேன்; அதற்காகவே இவ்வூர் அவரை அன்பில்லாதவர் என்று பழி கூறுகிறதே!",
+      "en": "I keep my eyes open without blinking lest he vanish from sight—yet for that very reason, the town gossips that he has grown cold toward me!",
+      "hi": "यदि मैं पलक झपकाऊँ तो मेरे स्वामी ओझल हो जाएँगे (इस डर से नहीं झपकाती), पर गाँव वाले इसे देखकर उन्हें ही प्रेम-विहीन कहते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இமைப்பின் <br>(Imaippin)",
+          "ta": "கண் இமைத்தால்",
+          "en": "Close my eyes",
+          "hi": "झपकी लूँ तो"
+        },
+        {
+          "no": 2,
+          "word": "கரப்பாக்கு <br>(Karappaakku)",
+          "ta": "மறைந்துவிடுவார் என்று",
+          "en": "His form to hide",
+          "hi": "होंगे नाथ विलीन"
+        },
+        {
+          "no": 3,
+          "word": "அறிவல் <br>(Arival)",
+          "ta": "அஞ்சி அறிவேன்",
+          "en": "I fear",
+          "hi": "जात है"
+        },
+        {
+          "no": 4,
+          "word": "அனைத்திற்கே <br>(Anaiththirke)",
+          "ta": "அதற்கே",
+          "en": "For that",
+          "hi": "पर इससे"
+        },
+        {
+          "no": 5,
+          "word": "ஏதிலர் <br>(Edhilar)",
+          "ta": "அன்பில்லாதவர்",
+          "en": "Love estranged",
+          "hi": "प्रेम विहीन"
+        },
+        {
+          "no": 6,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்று பழிக்கும்",
+          "en": "Cries",
+          "hi": "कहते"
+        },
+        {
+          "no": 7,
+          "word": "இவ்வூர் <br>(Ivvoor)",
+          "ta": "இந்த ஊர்",
+          "en": "The village",
+          "hi": "पुरजन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இமைப்பிற் கரப்பாக் கறிவ லனைத்திற்கே",
+          "line2": "யேதில ரென்னுமிவ் வூர்."
+        },
+        "en": {
+          "line1": "I fear his form to hide, nor close my eyes :",
+          "line2": "'Her love estranged is gone !' the village cries."
+        },
+        "hi": {
+          "line1": "झपकी लूँ तो जात है, होंगे नाथ विलीन ।",
+          "line2": "पर इससे पुरजन उन्हें, कहते प्रेम विहीन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Imaippir Karappaak Kariva Lanaiththirke",
+            "line2": "Yedhila Rennumiv Voor."
+          },
+          "hi": {
+            "line1": "इमैप्पिर् करप्पाक् करिव लनैत्तिर्के",
+            "line2": "येदिल रॆन्नुमिव् वूर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கண் இமைத்தால் என் காதலர் மறைந்துவிடுவாரோ என்று அஞ்சி நான் இமைக்காமல் இருக்கிறேன்; அதற்காகவே இவ்வூர் அவரை அன்பில்லாதவர் என்று பழி கூறுகிறதே!",
+        "en": "I stay awake without blinking just to keep his image in my eyes—and the whole town mistakes my sleeplessness for him abandoning me!",
+        "hi": "यदि मैं पलक झपकाऊँ तो मेरे स्वामी ओझल हो जाएँगे (इस डर से नहीं झपकाती), पर गाँव वाले इसे देखकर उन्हें ही प्रेम-विहीन कहते हैं।"
+      }
+    },
+    {
+      "num": 1130,
+      "line1": "உவந்துறைவ ருள்ளத்து ளென்று மிகந்துறைவ",
+      "line2": "ரேதில ரென்னுமிவ் வூர்.",
+      "enLine1": "Rejoicing in my very soul he ever lies ;",
+      "enLine2": "'Her love estranged is gone far off !' the village cries.",
+      "hiLine1": "यद्यपि दिल में प्रिय सदा, रहे मजे में लीन ।",
+      "hiLine2": "पुरजन कहते तज चले, कहते प्रेम विहीन ॥",
+      "general": "என் காதலர் எப்போதும் என் உள்ளத்தில் மகிழ்ச்சியுடன் தங்கியிருக்கிறார்; ஆனால் இவ்வூரார் அவரைப் பிரிந்து வாழும் அன்பற்றவர் என்று கூறுகிறார்கள்!",
+      "en": "He dwells ever joyfully within my heart, yet the town insists he has gone far away and grown indifferent!",
+      "hi": "यद्यपि मेरे प्रियतम सदा मेरे हृदय में आनन्दपूर्वक लीन होकर रहते हैं, फिर भी गाँव वाले कहते हैं कि वे मुझे छोड़कर चले गए हैं और प्रेम-विहीन हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உவந்து <br>(Uvandhu)",
+          "ta": "மகிழ்ந்து",
+          "en": "Rejoicing",
+          "hi": "मजे में लीन"
+        },
+        {
+          "no": 2,
+          "word": "உறைவர் <br>(Uraivar)",
+          "ta": "தங்கியிருப்பார்",
+          "en": "He lies",
+          "hi": "रहे"
+        },
+        {
+          "no": 3,
+          "word": "உள்ளத்துள் <br>(Ullaththul)",
+          "ta": "என் உள்ளத்தில்",
+          "en": "In my very soul",
+          "hi": "दिल में"
+        },
+        {
+          "no": 4,
+          "word": "என்றும் <br>(Endrum)",
+          "ta": "எப்போதும்",
+          "en": "Ever",
+          "hi": "सदा"
+        },
+        {
+          "no": 5,
+          "word": "இகந்து உறைவர் <br>(Igandhu uraivar)",
+          "ta": "பிரிந்து வாழ்பவர்",
+          "en": "Gone far off",
+          "hi": "तज चले"
+        },
+        {
+          "no": 6,
+          "word": "ஏதிலர் என்னும் <br>(Edhilar ennum)",
+          "ta": "அன்பற்றவர் என்று கூறும்",
+          "en": "Love estranged cries",
+          "hi": "कहते प्रेम विहीन"
+        },
+        {
+          "no": 7,
+          "word": "இவ்வூர் <br>(Ivvoor)",
+          "ta": "இந்த ஊர்",
+          "en": "The village",
+          "hi": "पुरजन"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உவந்துறைவ ருள்ளத்து ளென்று மிகந்துறைவ",
+          "line2": "ரேதில ரென்னுமிவ் வூர்."
+        },
+        "en": {
+          "line1": "Rejoicing in my very soul he ever lies ;",
+          "line2": "'Her love estranged is gone far off !' the village cries."
+        },
+        "hi": {
+          "line1": "यद्यपि दिल में प्रिय सदा, रहे मजे में लीन ।",
+          "line2": "पुरजन कहते तज चले, कहते प्रेम विहीन ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uvandhuraiva Rullaththu Lenru Migandhuraiva",
+            "line2": "Redhila Rennumiv Voor."
+          },
+          "hi": {
+            "line1": "उवन्दुरैव रुळ्ळत्तु ळॆन्द्रु मिगन्दुरैव",
+            "line2": "रेदिल रॆन्नुमिव् वूर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் காதலர் எப்போதும் என் உள்ளத்தில் மகிழ்ச்சியுடன் தங்கியிருக்கிறார்; ஆனால் இவ்வூரார் அவரைப் பிரிந்து வாழும் அன்பற்றவர் என்று கூறுகிறார்கள்!",
+        "en": "He's living happily right inside my heart, while everyone in town gossips that he left me!",
+        "hi": "यद्यपि मेरे प्रियतम सदा मेरे हृदय में आनन्दपूर्वक लीन होकर रहते हैं, फिर भी गाँव वाले कहते हैं कि वे मुझे छोड़कर चले गए हैं और प्रेम-विहीन हैं।"
+      }
+    }
+  ]
+}

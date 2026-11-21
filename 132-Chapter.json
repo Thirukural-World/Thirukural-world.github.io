@@ -1,0 +1,930 @@
+{
+  "chapterNum": 132,
+  "nameTa": "புலவிநுணுக்கம்",
+  "nameEn": "Feigned Anger",
+  "nameHi": "मान की सूक्ष्मता",
+  "paal": "காமத்துப்பால்",
+  "iyal": "கற்பியல்",
+  "kurals": [
+    {
+      "num": 1311,
+      "line1": "பெண்ணியலா ரெல்லாருங் கண்ணிற் பொதுவுண்பர்",
+      "line2": "நண்ணேன் பரத்தநின் மார்பு",
+      "enLine1": "From thy regard all womankind Enjoys an equal grace ;",
+      "enLine2": "O thou of wandering fickle mind, I shrink from thine embrace !",
+      "hiLine1": "सभी स्त्रियाँ सम भाव से, करतीं दृग से भोग ।",
+      "hiLine2": "रे विट् तेरे वक्ष से, मैं न करूँ संयोग ॥",
+      "general": "பெண் தன்மையுடைய எல்லோருமே உம்மைக் கண்களால் பொதுவாக நுகர்வார்கள்; ஆகையால் பரத்தமை கொண்ட உம் மார்பை நான் தழுவ மாட்டேன்.",
+      "en": "All women alike feast their eyes on you; O fickle one, I will not come near your embrace!",
+      "hi": "सभी स्त्रियाँ समान रूप से तुम्हारे सौंदर्य का नेत्रों से पान करती हैं; इसलिए हे चंचल प्रेमी, मैं तुम्हारे वक्ष से आलिंगन नहीं करूँगी।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பெண்ணியலார் <br>(Penniyalaar)",
+          "ta": "பெண்கள்",
+          "en": "Womankind",
+          "hi": "सभी स्त्रियाँ"
+        },
+        {
+          "no": 2,
+          "word": "எல்லாரும் <br>(Ellaarum)",
+          "ta": "எல்லோரும்",
+          "en": "All",
+          "hi": "सब"
+        },
+        {
+          "no": 3,
+          "word": "கண்ணின் <br>(Kannin)",
+          "ta": "கண்களால்",
+          "en": "With their eyes",
+          "hi": "दृग से"
+        },
+        {
+          "no": 4,
+          "word": "பொது உண்பர் <br>(Podhu Unbar)",
+          "ta": "பொதுவாக நுகர்வர்",
+          "en": "Enjoy in common",
+          "hi": "सम भाव से भोग करतीं"
+        },
+        {
+          "no": 5,
+          "word": "நண்ணேன் <br>(Nannen)",
+          "ta": "நெருங்கமாட்டேன்",
+          "en": "I will not approach",
+          "hi": "मैं न करूँ संयोग"
+        },
+        {
+          "no": 6,
+          "word": "பரத்த நின் <br>(Paraththa Nin)",
+          "ta": "பரத்தனே உன்",
+          "en": "Fickle one, thine",
+          "hi": "हे विट् तेरे"
+        },
+        {
+          "no": 7,
+          "word": "மார்பு <br>(Maarbu)",
+          "ta": "மார்பை",
+          "en": "Chest / embrace",
+          "hi": "वक्ष से"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பெண்ணியலா ரெல்லாருங் கண்ணிற் பொதுவுண்பர்",
+          "line2": "நண்ணேன் பரத்தநின் மார்பு"
+        },
+        "en": {
+          "line1": "From thy regard all womankind Enjoys an equal grace ;",
+          "line2": "O thou of wandering fickle mind, I shrink from thine embrace !"
+        },
+        "hi": {
+          "line1": "सभी स्त्रियाँ सम भाव से, करतीं दृग से भोग ।",
+          "line2": "रे विट् तेरे वक्ष से, मैं न करूँ संयोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Penniyalaa Rellaarung Kannir Podhuvunpar",
+            "line2": "Nannen Paraththanin Maarpu"
+          },
+          "hi": {
+            "line1": "पॆण्णियला रॆल्लारुङ् कण्णिऱ् पॊदुवुण्पर्",
+            "line2": "नण्णेन् परत्तनिन् मार्पु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பெண்கள் எல்லோருமே உன்னைப் பார்வையால் ரசிக்கிறார்கள்; அதனால் எல்லோருக்கும் பொதுவான உன் மார்பை நான் அணைக்க மாட்டேன்.",
+        "en": "Every woman out there feasts her eyes on you equally—so stay away, I won't touch a chest shared by all gazes!",
+        "hi": "सभी स्त्रियाँ तुम्हें एक जैसी नजरों से निहारती हैं; इसलिए हे रसिक, मैं तुम्हारे गले नहीं लगूँगी।"
+      }
+    },
+    {
+      "num": 1312,
+      "line1": "ஊடி யிருந்தேமாத் தும்மினார் யாந்தம்மை",
+      "line2": "நீடுவாழ் கென்பாக் கறிந்து",
+      "enLine1": "One day we silent sulked ; he sneezed : The reason well I knew ;",
+      "enLine2": "He thought that I, to speak well pleased, Would say, 'Long life to you ! '",
+      "hiLine1": "हम बैठी थीं मान कर, छींक गये तब नाथ ।",
+      "hiLine2": "यों विचार ‘चिर जीव’ कह, हम कर लेंगी बात ॥",
+      "general": "நாம் ஊடியிருந்தபோது, நாம் தம்மை 'நீடு வாழ்க' என்று வாழ்த்திப் பேசுவோம் என்றெண்ணி அவர் வேண்டுமென்றே தும்மினார்!",
+      "en": "While I sat sulking in silence, he sneezed—knowing well I would be tempted to break my silence and say, 'Long life to you!'",
+      "hi": "जब मैं रूठकर मौन बैठी थी, तब प्रियतम ने यह सोचकर छींक दिया कि मैं 'चिरंजीवी हो' कहकर उनसे बात करना शुरू कर दूँगी।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊடி <br>(Oodi)",
+          "ta": "ஊடல் கொண்டு",
+          "en": "Sulking",
+          "hi": "मान कर"
+        },
+        {
+          "no": 2,
+          "word": "இருந்தேம் ஆ <br>(Irundhem Aa)",
+          "ta": "இருந்தோம் ஆக",
+          "en": "As we sat",
+          "hi": "बैठी थीं"
+        },
+        {
+          "no": 3,
+          "word": "தும்மினார் <br>(Thumminaar)",
+          "ta": "தும்மினார்",
+          "en": "He sneezed",
+          "hi": "छींक गये"
+        },
+        {
+          "no": 4,
+          "word": "யாம் தம்மை <br>(Yaam Thammai)",
+          "ta": "நாம் தம்மை",
+          "en": "That I to him",
+          "hi": "हम उन्हें"
+        },
+        {
+          "no": 5,
+          "word": "நீடு வாழ்க <br>(Needu Vaazhga)",
+          "ta": "நீடு வாழ்க",
+          "en": "Long live",
+          "hi": "चिर जीव"
+        },
+        {
+          "no": 6,
+          "word": "என்பாக்கு <br>(Enbaakku)",
+          "ta": "என்று சொல்வோம் என",
+          "en": "Would say",
+          "hi": "कह कर बात करेंगी"
+        },
+        {
+          "no": 7,
+          "word": "அறிந்து <br>(Arindhu)",
+          "ta": "அறிந்து",
+          "en": "Knowing",
+          "hi": "विचार कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊடி யிருந்தேமாத் தும்மினார் யாந்தம்மை",
+          "line2": "நீடுவாழ் கென்பாக் கறிந்து"
+        },
+        "en": {
+          "line1": "One day we silent sulked ; he sneezed : The reason well I knew ;",
+          "line2": "He thought that I, to speak well pleased, Would say, 'Long life to you ! '"
+        },
+        "hi": {
+          "line1": "हम बैठी थीं मान कर, छींक गये तब नाथ ।",
+          "line2": "यों विचार ‘चिर जीव’ कह, हम कर लेंगी बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oodi Yirundhemaath Thumminaar Yaandhammai",
+            "line2": "Needuvaazh Kenpaak Karindhu"
+          },
+          "hi": {
+            "line1": "ऊडि यिरुन्देमात् तुम्मिनार् यान्दम्मै",
+            "line2": "नीडुवाऴ् कॆन्पाक् कऱिन्दु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நான் கோபமாகப் பேசாமல் இருந்தபோது, 'நூறாண்டு வாழ்க' என்று சொல்லிப் பேச்சைத் தொடங்குவேன் என்ற தந்திரத்தோடு அவர் தும்மினார்.",
+        "en": "I was giving him the silent treatment, so he sneezed on purpose, hoping I'd slip up and say 'Bless you!' to break the ice.",
+        "hi": "जब मैं रूठकर चुप बैठी थी, तो उन्होंने जानबूझकर छींक दिया कि इसी बहाने 'दीर्घायु हों' कहकर मैं बोल पड़ूँगी।"
+      }
+    },
+    {
+      "num": 1313,
+      "line1": "கோட்டுப்பூச் சூடினுங் காயு மொருத்தியைக்",
+      "line2": "காட்டிய சூடினீ ரென்று",
+      "enLine1": "I wreathed with flowers one day my brow, The angry tempest lowers ;",
+      "enLine2": "She cries, ' Pray, for what woman now Do you put on your flowers ? '",
+      "hiLine1": "धरूँ डाल का फूल तो, यों होती नाराज़ ।",
+      "hiLine2": "दर्शनार्थ औ’ नारि से, करते हैं यह साज ॥",
+      "general": "(தலைவன் கூற்று) நான் மரக்கிளையில் பூத்த பூவைச் சூடிக்கொண்டாலும், 'எந்தப் பெண்ணுக்குக் காட்டுவதற்காக இதனைச் சூடினீர்?' என்று கோபிப்பாள்.",
+      "en": "(He says:) Even if I wear a simple flower plucked from a branch, she flares up asking, 'Which woman are you trying to impress with those flowers?'",
+      "hi": "(नायक कहता है) यदि मैं डाल का एक फूल भी सिर पर सजा लूँ, तो वह यह कहकर रूठ जाती है कि 'किसी और स्त्री को दिखाने के लिए ही यह शृंगार किया है!'",
+      "words": [
+        {
+          "no": 1,
+          "word": "கோட்டுப்பூ <br>(Kottuppoo)",
+          "ta": "மரக்கிளைப் பூவை",
+          "en": "Branch flower",
+          "hi": "डाल का फूल"
+        },
+        {
+          "no": 2,
+          "word": "சூடினும் <br>(Soodinum)",
+          "ta": "சூடினாலும்",
+          "en": "Even if I wear",
+          "hi": "धारण करूँ तो"
+        },
+        {
+          "no": 3,
+          "word": "காயும் <br>(Kaayum)",
+          "ta": "கோபிப்பாள்",
+          "en": "She grows angry",
+          "hi": "नाराज़ होती है"
+        },
+        {
+          "no": 4,
+          "word": "ஒருத்தியை <br>(Oruththiyai)",
+          "ta": "ஒரு பெண்ணுக்கு",
+          "en": "To some woman",
+          "hi": "अन्य नारी को"
+        },
+        {
+          "no": 5,
+          "word": "காட்டிய <br>(Kaattiya)",
+          "ta": "காட்டுவதற்காக",
+          "en": "To show",
+          "hi": "दिखाने को"
+        },
+        {
+          "no": 6,
+          "word": "சூடினீர் <br>(Soodineer)",
+          "ta": "சூடினீர்",
+          "en": "You wore it",
+          "hi": "सजाया है"
+        },
+        {
+          "no": 7,
+          "word": "என்று <br>(Endru)",
+          "ta": "என்று",
+          "en": "Saying thus",
+          "hi": "यों कह कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கோட்டுப்பூச் சூடினுங் காயு மொருத்தியைக்",
+          "line2": "காட்டிய சூடினீ ரென்று"
+        },
+        "en": {
+          "line1": "I wreathed with flowers one day my brow, The angry tempest lowers ;",
+          "line2": "She cries, ' Pray, for what woman now Do you put on your flowers ? '"
+        },
+        "hi": {
+          "line1": "धरूँ डाल का फूल तो, यों होती नाराज़ ।",
+          "line2": "दर्शनार्थ औ’ नारि से, करते हैं यह साज ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kottuppoos Soodinung Kaayu Moruththiyaik",
+            "line2": "Kaattiya Soodinee Renru"
+          },
+          "hi": {
+            "line1": "कोट्टुप्पूच् सूडिनुङ् कायु मॊरुत्तियैक्",
+            "line2": "काट्टिय सूडिनी रॆन्दु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நான் சாதாரணமாகத் தலையில் பூச்சூடினால்கூட, 'எந்தப் பெண்ணுக்கு அழகு காட்டப் பூ வைத்திருக்கிறீர்கள்?' என்று சந்தேகப்பட்டுக் கோபித்துக்கொள்வாள்.",
+        "en": "Even if I tuck a wildflower behind my ear, she immediately fumes, 'Who are you dressing up for now?'",
+        "hi": "अगर मैं डाल का एक फूल भी लगा लूँ, तो वह यह कहकर नाराज हो जाती है कि 'किस दूसरी स्त्री को दिखाने के लिए सजावट कर रहे हैं?'"
+      }
+    },
+    {
+      "num": 1314,
+      "line1": "யாரினுங் காதலமென் றேனா வூடினாள்",
+      "line2": "யாரினும் யாரினு மென்று",
+      "enLine1": "'I love you more than all beside,' 'Twas thus I gently spoke ;",
+      "enLine2": "'What all, what all ? ' she instant cried, And all her anger woke.",
+      "hiLine1": "‘सब से बढ़’, मैंने कहा, ‘हम करते हैं प्यार’ ।",
+      "hiLine2": "‘किस किस से’ कहती हुई, लगी रुठने यार ॥",
+      "general": "'எல்லோரையும்விட நாம் இருவரும் அதிகக் காதல் உடையவர்கள்' என்று சொன்னேன்; உடனே 'எந்த எல்லோரையும்விட?' என்று கேட்டு ஊடினாள்.",
+      "en": "I gently said, 'We love each other more than anyone else'; she immediately pouted, demanding, 'More than who? More than who?'",
+      "hi": "मैंने कहा, 'हम दोनों का प्यार सबसे बढ़कर है'; इस पर वह 'किस-किस से बढ़कर?' कहती हुई रूठने लगी।",
+      "words": [
+        {
+          "no": 1,
+          "word": "யாரினும் <br>(Yaarinum)",
+          "ta": "எல்லோரையும்விட",
+          "en": "More than all",
+          "hi": "सब से बढ़"
+        },
+        {
+          "no": 2,
+          "word": "காதலம் <br>(Kaadhalam)",
+          "ta": "காதலுடையோம்",
+          "en": "We are loving",
+          "hi": "प्यार करते हैं"
+        },
+        {
+          "no": 3,
+          "word": "என்றேனா <br>(Endrenaa)",
+          "ta": "என்றேனாக",
+          "en": "As I said",
+          "hi": "मैंने कहा"
+        },
+        {
+          "no": 4,
+          "word": "ஊடினாள் <br>(Oodinaal)",
+          "ta": "ஊடினாள்",
+          "en": "She pouted",
+          "hi": "रूठने लगी"
+        },
+        {
+          "no": 5,
+          "word": "யாரினும் <br>(Yaarinum)",
+          "ta": "எவரெவரைவிட",
+          "en": "Than whom",
+          "hi": "किस से"
+        },
+        {
+          "no": 6,
+          "word": "யாரினும் <br>(Yaarinum)",
+          "ta": "எவரெவரைவிட",
+          "en": "Than whom",
+          "hi": "किस से"
+        },
+        {
+          "no": 7,
+          "word": "என்று <br>(Endru)",
+          "ta": "என்று",
+          "en": "Asking thus",
+          "hi": "कहती हुई"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "யாரினுங் காதலமென் றேனா வூடினாள்",
+          "line2": "யாரினும் யாரினு மென்று"
+        },
+        "en": {
+          "line1": "'I love you more than all beside,' 'Twas thus I gently spoke ;",
+          "line2": "'What all, what all ? ' she instant cried, And all her anger woke."
+        },
+        "hi": {
+          "line1": "‘सब से बढ़’, मैंने कहा, ‘हम करते हैं प्यार’ ।",
+          "line2": "‘किस किस से’ कहती हुई, लगी रुठने यार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Yaarinung Kaadhalamen Renaa Voodinaal",
+            "line2": "Yaarinum Yaarinu Menru"
+          },
+          "hi": {
+            "line1": "यारिनुङ् कादलमॆन् ऱेना वूडिनाळ्",
+            "line2": "यारिनुम् यारिनु मॆन्दु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'மற்ற எல்லாரையும்விட நாம்தான் அதிகம் காதலிக்கிறோம்' என்றேன்; உடனே 'மற்ற எல்லாரும் என்றால் யார் யார்?' என்று கேட்டுச் சண்டை போட ஆரம்பித்துவிட்டாள்.",
+        "en": "I told her, 'We love each other more than anyone else,' and she snapped back, 'Who is everyone else? Name them!'",
+        "hi": "मैंने कहा कि 'हमारा प्यार सबसे बढ़कर है,' तो वह 'किस-किस से बढ़कर? जरा नाम तो बताओ!' कहकर रूठ गई।"
+      }
+    },
+    {
+      "num": 1315,
+      "line1": "இம்மைப் பிறப்பிற் பிரியல னென்றேனாக்",
+      "line2": "கண்ணிறை நீர்கொண் டனள்",
+      "enLine1": "' While here I live, I leave you not,' I said to calm her fears.",
+      "enLine2": "She cried, ' There, then, I read your thought ' ; And straight dissolved in tears.",
+      "hiLine1": "यों कहने पर- हम नहीं, ‘बिछुड़ेंगे इस जन्म’ ।",
+      "hiLine2": "भर लायी दृग, सोच यह, क्या हो अगले जन्म ॥",
+      "general": "'இந்தப் பிறவியில் உன்னைப் பிரிய மாட்டேன்' என்று சொன்னேன்; உடனே 'அப்படியானால் அடுத்த பிறவியில் பிரிவீர்களா?' என்று கண் கலங்கினாள்.",
+      "en": "When I said, 'I will never part from you in this birth,' her eyes filled with tears—fearing I meant we would part in the next!",
+      "hi": "'इस जन्म में हम कभी नहीं बिछुड़ेंगे'—मेरे ऐसा कहने पर वह 'तो क्या अगले जन्म में बिछुड़ जाओगे?' यह सोचकर आँखों में आँसू भर लाई।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இம்மை <br>(Immai)",
+          "ta": "இந்த",
+          "en": "This",
+          "hi": "इस"
+        },
+        {
+          "no": 2,
+          "word": "பிறப்பில் <br>(Pirappil)",
+          "ta": "பிறவியில்",
+          "en": "In birth / life",
+          "hi": "जन्म में"
+        },
+        {
+          "no": 3,
+          "word": "பிரியலன் <br>(Piriyalan)",
+          "ta": "பிரியமாட்டேன்",
+          "en": "I will not part",
+          "hi": "नहीं बिछुड़ेंगे"
+        },
+        {
+          "no": 4,
+          "word": "என்றேனா <br>(Endrenaa)",
+          "ta": "என்றேனாக",
+          "en": "As I said",
+          "hi": "कहने पर"
+        },
+        {
+          "no": 5,
+          "word": "கண் நிறை <br>(Kan Nirai)",
+          "ta": "கண் நிறைய",
+          "en": "Filling her eyes",
+          "hi": "दृग भर लायी"
+        },
+        {
+          "no": 6,
+          "word": "நீர் <br>(Neer)",
+          "ta": "கண்ணீரை",
+          "en": "Tears",
+          "hi": "आँसू"
+        },
+        {
+          "no": 7,
+          "word": "கொண்டனள் <br>(Kondanal)",
+          "ta": "கொண்டாள்",
+          "en": "She held",
+          "hi": "ले आई"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இம்மைப் பிறப்பிற் பிரியல னென்றேனாக்",
+          "line2": "கண்ணிறை நீர்கொண் டனள்"
+        },
+        "en": {
+          "line1": "' While here I live, I leave you not,' I said to calm her fears.",
+          "line2": "She cried, ' There, then, I read your thought ' ; And straight dissolved in tears."
+        },
+        "hi": {
+          "line1": "यों कहने पर- हम नहीं, ‘बिछुड़ेंगे इस जन्म’ ।",
+          "line2": "भर लायी दृग, सोच यह, क्या हो अगले जन्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Immaip Pirappir Piriyala Nenrenaak",
+            "line2": "Kannirai Neerkon Danal"
+          },
+          "hi": {
+            "line1": "इम्मैप् पिऱप्पिऱ् पिरियल नॆन्देनाक्",
+            "line2": "कण्णिऱै नीर्कॊण् टनळ्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'இந்தப் பிறவியில் உன்னைப் பிரியவே மாட்டேன்' என்று ஆறுதல் சொன்னேன்; உடனே 'அப்படியானால் மறுபிறவியில் பிரிந்துவிடுவீர்களோ?' என்று அழத் தொடங்கிவிட்டாள்.",
+        "en": "I promised, 'I'll never leave you in this lifetime,' and she burst into tears asking, 'So you're planning to leave me in the next life?'",
+        "hi": "मैंने कहा 'इस जन्म में कभी नहीं बिछुड़ेंगे,' तो वह यह सोचकर रो पड़ी कि 'क्या अगले जन्म में बिछड़ने का इरादा है?'"
+      }
+    },
+    {
+      "num": 1316,
+      "line1": "உள்ளினே னென்றேன்மற் றென்மறந்தீ ரென்றென்னைப்",
+      "line2": "புல்லாள் புலத்தக் கனள்",
+      "enLine1": "' Each day I called to mind your charms.' ' O, then, you had forgot,'",
+      "enLine2": "She cried, and then her opened arms, Forthwith embraced me not.",
+      "hiLine1": "‘स्मरण किया’ मैंने कहा, तो क्यों बैठे भूल ।",
+      "hiLine2": "यों कह मिले बिना रही, पकड़ मान का तूल ॥",
+      "general": "'உன்னை நினைத்தேன்' என்று நான் சொன்னேன்; அதற்கு அவள் 'என்னை மறந்ததனால்தானே நினைத்தீர்கள்?' என்று கூறித் தழுவாமல் ஊடினாள்.",
+      "en": "I said, 'I remembered you'; she retorted, 'Why did you forget me in the first place?' and refused my embrace in a huff.",
+      "hi": "मैंने कहा कि 'मैंने तुम्हें याद किया था'; इस पर वह 'तो पहले मुझे भूल ही क्यों गए थे?' यह कहकर मान पकड़ बैठी और गले न लगी।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உள்ளினேன் <br>(Ullinen)",
+          "ta": "நினைத்தேன்",
+          "en": "I remembered",
+          "hi": "स्मरण किया"
+        },
+        {
+          "no": 2,
+          "word": "என்றேன் <br>(Endren)",
+          "ta": "என்றேன்",
+          "en": "I said",
+          "hi": "मैंने कहा"
+        },
+        {
+          "no": 3,
+          "word": "மற்று என் <br>(Matru En)",
+          "ta": "அப்படியானால் ஏன்",
+          "en": "Then why",
+          "hi": "तो क्यों"
+        },
+        {
+          "no": 4,
+          "word": "மறந்தீர் <br>(Marandheer)",
+          "ta": "மறந்தீர்கள்",
+          "en": "Did you forget",
+          "hi": "भूल बैठे"
+        },
+        {
+          "no": 5,
+          "word": "என்று என்னை <br>(Endru Ennai)",
+          "ta": "என்று என்னை",
+          "en": "Saying thus to me",
+          "hi": "यों कह मुझसे"
+        },
+        {
+          "no": 6,
+          "word": "புல்லாள் <br>(Pullaal)",
+          "ta": "தழுவாமல்",
+          "en": "Embraced not",
+          "hi": "मिले बिना रही"
+        },
+        {
+          "no": 7,
+          "word": "புலத்தகனள் <br>(Pulatththaganal)",
+          "ta": "ஊடினாள்",
+          "en": "She pouted",
+          "hi": "मान पकड़ बैठी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உள்ளினே னென்றேன்மற் றென்மறந்தீ ரென்றென்னைப்",
+          "line2": "புல்லாள் புலத்தக் கனள்"
+        },
+        "en": {
+          "line1": "' Each day I called to mind your charms.' ' O, then, you had forgot,'",
+          "line2": "She cried, and then her opened arms, Forthwith embraced me not."
+        },
+        "hi": {
+          "line1": "‘स्मरण किया’ मैंने कहा, तो क्यों बैठे भूल ।",
+          "line2": "यों कह मिले बिना रही, पकड़ मान का तूल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ulline Nenrenmar Renmarandhee Renrennaip",
+            "line2": "Pullaal Pulaththak Kanal"
+          },
+          "hi": {
+            "line1": "उळ्ळिने नॆन्देन्मऱ् ऱॆन्मऱन्दी रॆन्दॆन्नैप्",
+            "line2": "पुल्लाळ् पुलत्तक् कनळ्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "'உன்னைத்தான் நினைத்துக்கொண்டிருந்தேன்' என்றேன்; அதற்கு 'நினைப்பதற்கு முன்னால் என்னை மறந்துவிட்டீர்களா?' என்று கேட்டுக் கோபித்துக்கொண்டு விலகிவிட்டாள்.",
+        "en": "I said, 'I was thinking of you,' and she snapped, 'Which means you had forgotten me before that!' and pushed my arms away.",
+        "hi": "मैंने कहा 'मैंने तुम्हें याद किया,' तो वह 'भूल ही क्यों गए थे जो याद करना पड़ा?' कहकर रूठ गई और गले नहीं लगी।"
+      }
+    },
+    {
+      "num": 1317,
+      "line1": "வழுத்தினா டும்மினே னாகவழித் தழுதாள்",
+      "line2": "யாருள்ளித் தும்மினீ ரென்று",
+      "enLine1": "She hailed me when I sneezed one day ; But straight with anger seized,",
+      "enLine2": "She cried, ' Who was the woman, pray, Thinking of whom you sneezed ? '",
+      "hiLine1": "छींका तो, कह शुभ वचन, तभी बदल दी बात ।",
+      "hiLine2": "‘कौन स्मरण कर छींक दी’, कह रोयी सविषाद ॥",
+      "general": "நான் தும்மியபோது முதலில் வாழ்த்தினாள்; ஆனால் அடுத்த கணமே 'உம்மை யாரோ நினைத்ததால்தானே தும்மினீர்?' என்று சொல்லி அழுதாள்.",
+      "en": "When I sneezed, she first blessed me—but immediately broke down weeping, demanding, 'Who was thinking of you to make you sneeze?'",
+      "hi": "मेरे छींकने पर पहले तो उसने शुभ वचन ('चिरंजीवी हो') कहा, पर तुरंत ही बात बदल दी और 'किसके याद करने पर छींक आई?' कहकर दुखी हो रो पड़ी।",
+      "words": [
+        {
+          "no": 1,
+          "word": "வழுத்தினாள் <br>(Vazhuththinaal)",
+          "ta": "வாழ்த்தினாள்",
+          "en": "She blessed",
+          "hi": "शुभ वचन कहा"
+        },
+        {
+          "no": 2,
+          "word": "தும்மினேன் ஆக <br>(Thumminen Aaga)",
+          "ta": "தும்மினேனாக",
+          "en": "When I sneezed",
+          "hi": "छींका तो"
+        },
+        {
+          "no": 3,
+          "word": "அழித்து <br>(Azhiththu)",
+          "ta": "அதை மாற்றி",
+          "en": "Reversing it",
+          "hi": "बात बदल कर"
+        },
+        {
+          "no": 4,
+          "word": "அழுதாள் <br>(Azhudhaal)",
+          "ta": "அழுதாள்",
+          "en": "She wept",
+          "hi": "रोयी"
+        },
+        {
+          "no": 5,
+          "word": "யார் உள்ளி <br>(Yaar Ulli)",
+          "ta": "யார் நினைத்து",
+          "en": "Thinking of whom",
+          "hi": "कौन स्मरण कर"
+        },
+        {
+          "no": 6,
+          "word": "தும்மினீர் <br>(Thummineer)",
+          "ta": "தும்மினீர்",
+          "en": "Did you sneeze",
+          "hi": "छींक दी"
+        },
+        {
+          "no": 7,
+          "word": "என்று <br>(Endru)",
+          "ta": "என்று",
+          "en": "Asking thus",
+          "hi": "कह कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "வழுத்தினா டும்மினே னாகவழித் தழுதாள்",
+          "line2": "யாருள்ளித் தும்மினீ ரென்று"
+        },
+        "en": {
+          "line1": "She hailed me when I sneezed one day ; But straight with anger seized,",
+          "line2": "She cried, ' Who was the woman, pray, Thinking of whom you sneezed ? '"
+        },
+        "hi": {
+          "line1": "छींका तो, कह शुभ वचन, तभी बदल दी बात ।",
+          "line2": "‘कौन स्मरण कर छींक दी’, कह रोयी सविषाद ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Vazhuththinaa Dummine Naagavazhith Thazhudhaal",
+            "line2": "Yaarullith Thumminee Renru"
+          },
+          "hi": {
+            "line1": "वऴुत्तिना टुम्मिने नागवऴित् तऴुदाळ्",
+            "line2": "यारुळ्ळित् तुम्मिनी रॆन्दु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நான் தும்மியவுடன் 'நூறாண்டு வாழ்க' என்று வாழ்த்தினாள்; ஆனால் உடனே 'யார் உங்களை நினைத்ததால் தும்மினீர்கள்?' என்று சந்தேகப்பட்டு அழத் தொடங்கிவிட்டாள்.",
+        "en": "When I sneezed she reflexively said 'Bless you,' then instantly burst into tears asking, 'Which woman was thinking about you?'",
+        "hi": "मेरे छींकते ही पहले तो उसने आशीर्वाद दिया, फिर तुरंत बात पलटकर 'किसके याद करने से छींक आई?' कहकर रोने लगी।"
+      }
+    },
+    {
+      "num": 1318,
+      "line1": "தும்முச் செறுப்ப வழுதா ணுமருள்ள",
+      "line2": "லெம்மை மறைத்திரோ வென்று",
+      "enLine1": "And so next time I checked my sneeze ; She forthwith wept and cried,",
+      "enLine2": "(That woman difficult to please,) ' Your thoughts from me you hide.'",
+      "hiLine1": "छींक दबाता मैं रहा, रोयी कह यह बैन ।",
+      "hiLine2": "अपनी जो करती स्मरण, उसे छिपाते हैं न ॥",
+      "general": "அதனால் அடுத்த முறை தும்மலை நான் அடக்கிக்கொண்டேன்; அதற்கும் 'உம்மை உம்மவர் நினைப்பதை என்னிடம் மறைக்கிறீரா?' என்று அழுதாள்.",
+      "en": "So the next time I suppressed my sneeze; yet she wept at that too, crying, 'Are you hiding from me that your loved ones are thinking of you?'",
+      "hi": "इस कारण अगली बार मैं छींक दबाता रहा, तो वह यह कहकर रो पड़ी कि 'आपकी कोई प्रियतमा आपको याद कर रही है, उसे मुझसे छिपा रहे हैं न!'",
+      "words": [
+        {
+          "no": 1,
+          "word": "தும்மு <br>(Thummu)",
+          "ta": "தும்மலை",
+          "en": "The sneeze",
+          "hi": "छींक"
+        },
+        {
+          "no": 2,
+          "word": "செறுப்ப <br>(Seruppa)",
+          "ta": "அடக்க",
+          "en": "As I checked",
+          "hi": "दबाते रहने पर"
+        },
+        {
+          "no": 3,
+          "word": "அழுதாள் <br>(Azhudhaal)",
+          "ta": "அழுதாள்",
+          "en": "She wept",
+          "hi": "रोयी"
+        },
+        {
+          "no": 4,
+          "word": "நுமருள்ளல் <br>(Numarullal)",
+          "ta": "உம்மவர் நினைப்பதை",
+          "en": "Your loved ones' thought",
+          "hi": "अपनी का स्मरण"
+        },
+        {
+          "no": 5,
+          "word": "எம்மை <br>(Emmai)",
+          "ta": "என்னிடமிருந்து",
+          "en": "From me",
+          "hi": "मुझसे"
+        },
+        {
+          "no": 6,
+          "word": "மறைத்திரோ <br>(Maraiththiro)",
+          "ta": "மறைக்கிறீரோ",
+          "en": "Do you hide",
+          "hi": "छिपाते हैं न"
+        },
+        {
+          "no": 7,
+          "word": "என்று <br>(Endru)",
+          "ta": "என்று",
+          "en": "Saying thus",
+          "hi": "कह कर"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தும்முச் செறுப்ப வழுதா ணுமருள்ள",
+          "line2": "லெம்மை மறைத்திரோ வென்று"
+        },
+        "en": {
+          "line1": "And so next time I checked my sneeze ; She forthwith wept and cried,",
+          "line2": "(That woman difficult to please,) ' Your thoughts from me you hide.'"
+        },
+        "hi": {
+          "line1": "छींक दबाता मैं रहा, रोयी कह यह बैन ।",
+          "line2": "अपनी जो करती स्मरण, उसे छिपाते हैं न ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thummus Seruppa Vazhudhaa Numarulla",
+            "line2": "Lemmai Maraiththiro Venru"
+          },
+          "hi": {
+            "line1": "तुम्मुच् सॆऱुप्प वऴुदा णुमरुळ्ळ",
+            "line2": "लॆम्मै मऱैत्तिरो वॆन्दु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சரி, தும்மினால் தானே பிரச்சனை என்று அடுத்த முறை தும்மலை அடக்கினேன்; அதற்கும் 'யாரோ உங்களை நினைப்பதை என்னிடம் மறைக்கிறீர்களா?' என்று அழுதாள்.",
+        "en": "So next time I held my sneeze in, and she still cried, accusing me: 'You're trying to hide who's thinking of you!'",
+        "hi": "अगली बार मैंने छींक रोक ली, तो भी वह रोकर बोली कि 'आपको जो याद कर रही है, मुझसे उसकी बात छिपा रहे हैं न!'"
+      }
+    },
+    {
+      "num": 1319,
+      "line1": "தன்னை யுணர்த்தினுங் காயும் பிறர்க்குநீ",
+      "line2": "ரிந்நீ ராகுதி ரென்று",
+      "enLine1": "I then began to soothe and coax, To calm her jealous mind ;",
+      "enLine2": "' I see,' quoth she, 'to other folks How you are wondrous kind.'",
+      "hiLine1": "अगर मनाऊँ तो सही, यों कह होती रुष्ट ।",
+      "hiLine2": "करते होंगे अन्य को, इसी तरह से तुष्ट ॥",
+      "general": "அவளைச் சமாதானப்படுத்த முயன்றாலும், 'மற்ற பெண்களிடமும் நீங்கள் இப்படித்தானே இனிமையாகப் பேசிச் சமாதானம் செய்வீர்கள்!' என்று கோபிப்பாள்.",
+      "en": "Even when I try to soothe and appease her, she grows angry saying, 'No doubt you are just as sweet and persuasive with other women too!'",
+      "hi": "यदि मैं उसे मनाऊँ भी, तो वह यह कहकर रूठ जाती है कि 'आप दूसरी स्त्रियों को भी इसी तरह मीठी बातों से संतुष्ट करते होंगे!'",
+      "words": [
+        {
+          "no": 1,
+          "word": "தன்னை <br>(Thannai)",
+          "ta": "தன்னை",
+          "en": "Her",
+          "hi": "उसे"
+        },
+        {
+          "no": 2,
+          "word": "உணர்த்தினும் <br>(Unarththinum)",
+          "ta": "சமாதானப்படுத்தினாலும்",
+          "en": "Even if I soothe",
+          "hi": "मनाऊँ तो भी"
+        },
+        {
+          "no": 3,
+          "word": "காயும் <br>(Kaayum)",
+          "ta": "கோபிப்பாள்",
+          "en": "She gets angry",
+          "hi": "रुष्ट होती है"
+        },
+        {
+          "no": 4,
+          "word": "பிறர்க்கு நீர் <br>(Pirarkku Neer)",
+          "ta": "மற்றவர்களுக்கும் நீங்கள்",
+          "en": "To others you",
+          "hi": "अन्य को आप"
+        },
+        {
+          "no": 5,
+          "word": "இந்நீர் <br>(Inneer)",
+          "ta": "இத்தன்மையராக",
+          "en": "Of this kind",
+          "hi": "इसी तरह से"
+        },
+        {
+          "no": 6,
+          "word": "ஆகுதிர் <br>(Aagudhir)",
+          "ta": "இருப்பீர்கள்",
+          "en": "You behave",
+          "hi": "तुष्ट करते होंगे"
+        },
+        {
+          "no": 7,
+          "word": "என்று <br>(Endru)",
+          "ta": "என்று",
+          "en": "Saying thus",
+          "hi": "यों कह"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தன்னை யுணர்த்தினுங் காயும் பிறர்க்குநீ",
+          "line2": "ரிந்நீ ராகுதி ரென்று"
+        },
+        "en": {
+          "line1": "I then began to soothe and coax, To calm her jealous mind ;",
+          "line2": "' I see,' quoth she, 'to other folks How you are wondrous kind.'"
+        },
+        "hi": {
+          "line1": "अगर मनाऊँ तो सही, यों कह होती रुष्ट ।",
+          "line2": "करते होंगे अन्य को, इसी तरह से तुष्ट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thannai Yunarththinung Kaayum Pirarkkunee",
+            "line2": "Rinnee Raagudhi Renru"
+          },
+          "hi": {
+            "line1": "तन्नै युणर्त्तिनुङ् कायुम् पिऱर्क्कुनी",
+            "line2": "रिन्नी रागुदि रॆन्दु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அவள் கோபத்தைத் தணிக்க எவ்வளவு கெஞ்சிக் கொஞ்சினாலும், 'மற்ற பெண்களிடமும் இதேபோலத்தானே நடித்துச் சமாதானப்படுத்துவீர்கள்!' என்று கோபித்துக்கொள்வாள்.",
+        "en": "Even when I try to sweet-talk and soothe her, she snaps, 'I'm sure this is the exact line you use on other women!'",
+        "hi": "अगर मैं उसे प्यार से मनाने की कोशिश करूँ, तो भी वह यह कहकर चिढ़ जाती है कि 'दूसरों को भी आप ऐसे ही बहलाते होंगे!'"
+      }
+    },
+    {
+      "num": 1320,
+      "line1": "நினைத்திருந்து நோக்கினுங் காயு மனைத்துநீர்",
+      "line2": "யாருள்ளி நோக்கினீ ரென்று",
+      "enLine1": "I silent sat, but thought the more, And gazed on her. Then she",
+      "enLine2": "Cried out, ' While thus you eye me o'er, Tell me whose form you see.'",
+      "hiLine1": "देखूँ यदि मैं मुग्ध हो, यों कह करती रार ।",
+      "hiLine2": "देख रहे हैं आप सब, दिल में किसे विचार ॥",
+      "general": "அவளைப் பார்த்துக் கொண்டே பேசாமல் சிந்தித்தாலும், 'என் உறுப்புகளை யாருடைய உறுப்புகளோடு ஒப்பிட்டுப் பார்க்கிறீர்கள்?' என்று கோபிப்பாள்.",
+      "en": "Even if I sit silently gazing at her in thought, she flares up asking, 'Who are you picturing and comparing me with as you look at me?'",
+      "hi": "यदि मैं मुग्ध होकर चुपचाप उसे देखता भी रहूँ, तो भी वह यह कहकर झगड़ा करती है कि 'मुझे देखते हुए आप मन में किसे याद कर रहे हैं?'",
+      "words": [
+        {
+          "no": 1,
+          "word": "நினைத்திருந்து <br>(Ninaiththirundhu)",
+          "ta": "நினைத்துக்கொண்டு",
+          "en": "Pondering silently",
+          "hi": "विचार कर"
+        },
+        {
+          "no": 2,
+          "word": "நோக்கினும் <br>(Nokkinum)",
+          "ta": "பார்த்தாலும்",
+          "en": "Even if I gaze",
+          "hi": "देखूँ यदि"
+        },
+        {
+          "no": 3,
+          "word": "காயும் <br>(Kaayum)",
+          "ta": "கோபிப்பாள்",
+          "en": "She gets angry",
+          "hi": "करती रार"
+        },
+        {
+          "no": 4,
+          "word": "அனைத்து நீர் <br>(Anaiththu Neer)",
+          "ta": "என் அழகை எல்லாம்",
+          "en": "All my form",
+          "hi": "सब कुछ आप"
+        },
+        {
+          "no": 5,
+          "word": "யார் உள்ளி <br>(Yaar Ulli)",
+          "ta": "யாரை நினைத்து",
+          "en": "Thinking of whom",
+          "hi": "किसे विचार कर"
+        },
+        {
+          "no": 6,
+          "word": "நோக்கினீர் <br>(Nokkineer)",
+          "ta": "பார்த்தீர்",
+          "en": "Did you gaze",
+          "hi": "देख रहे हैं"
+        },
+        {
+          "no": 7,
+          "word": "என்று <br>(Endru)",
+          "ta": "என்று",
+          "en": "Asking thus",
+          "hi": "यों कह"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நினைத்திருந்து நோக்கினுங் காயு மனைத்துநீர்",
+          "line2": "யாருள்ளி நோக்கினீ ரென்று"
+        },
+        "en": {
+          "line1": "I silent sat, but thought the more, And gazed on her. Then she",
+          "line2": "Cried out, ' While thus you eye me o'er, Tell me whose form you see.'"
+        },
+        "hi": {
+          "line1": "देखूँ यदि मैं मुग्ध हो, यों कह करती रार ।",
+          "line2": "देख रहे हैं आप सब, दिल में किसे विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ninaiththirundhu Nokkinung Kaayu Manaiththuneer",
+            "line2": "Yaarulli Nokkinee Renru"
+          },
+          "hi": {
+            "line1": "निनैत्तिरुन्दु नोक्किनुङ् कायु मनैत्तुनीर्",
+            "line2": "यारुळ्ळि नोक्किनी रॆन्दु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சரி என்று எதுவும் பேசாமல் அவளைப் பார்த்துக்கொண்டே இருந்தால், 'என்னைப் பார்த்துக்கொண்டு மனசுக்குள் வேறு யாரை நினைக்கிறீர்கள்?' என்று சண்டை போடுவாள்.",
+        "en": "Even if I just sit quietly admiring her, she demands to know, 'Who else are you picturing in your head while staring at me?'",
+        "hi": "अगर मैं चुपचाप मुग्ध होकर उसे निहारता रहूँ, तब भी वह झगड़ पड़ती है कि 'मुझे देखते हुए मन में किसका ध्यान कर रहे हैं?'"
+      }
+    }
+  ]
+}

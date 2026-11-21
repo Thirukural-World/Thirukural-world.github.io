@@ -1,0 +1,930 @@
+{
+  "chapterNum": 99,
+  "nameTa": "சான்றாண்மை",
+  "nameEn": "Perfectness",
+  "nameHi": "सर्वगुण-पूर्णता",
+  "paal": "பொருட்பால்",
+  "iyal": "ஒழிபியல்",
+  "kurals": [
+    {
+      "num": 981,
+      "line1": "கடனென்ப நல்லவை எல்லாம் கடனறிந்து",
+      "line2": "சான்றாண்மை மேற்கொள் பவர்க்கு.",
+      "enLine1": "All goodly things are duties to the men, they say,",
+      "enLine2": "Who set themselves to walk in virtue's perfect way.",
+      "hiLine1": "जो सब गुण हैं पालते, समझ योग्य कर्तव्य ।",
+      "hiLine2": "उनको अच्छे कार्य सब, सहज बने कर्तव्य ॥",
+      "general": "தம் கடமைகளை அறிந்து சான்றாண்மை என்னும் நற்பண்பை மேற்கொண்டு நடப்பவர்களுக்கு, நல்ல செயல்கள் எல்லாம் இயல்பான கடமைகளாகும் என்று அறிஞர் கூறுவர்.",
+      "en": "For those who know their duty and embrace noble perfection of character, every good deed is simply their natural duty.",
+      "hi": "जो लोग सभी सद्गुणों को अपना योग्य कर्तव्य समझकर उनका पालन करते हैं, उनके लिए सभी अच्छे कार्य सहज ही कर्तव्य बन जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கடன் என்ப <br>(Kadan enba)",
+          "ta": "கடமை என்று கூறுவர்",
+          "en": "Are duties, they say",
+          "hi": "सहज बने कर्तव्य"
+        },
+        {
+          "no": 2,
+          "word": "நல்லவை எல்லாம் <br>(Nallavai ellaam)",
+          "ta": "நல்ல செயல்கள் எல்லாம்",
+          "en": "All goodly things",
+          "hi": "अच्छे कार्य सब"
+        },
+        {
+          "no": 3,
+          "word": "கடன் அறிந்து <br>(Kadan arindhu)",
+          "ta": "தம் கடமையை அறிந்து",
+          "en": "Knowing duty",
+          "hi": "समझ योग्य कर्तव्य"
+        },
+        {
+          "no": 4,
+          "word": "சான்றாண்மை <br>(Saandraanmai)",
+          "ta": "சான்றாண்மையை",
+          "en": "Virtue's perfect way",
+          "hi": "सब गुण"
+        },
+        {
+          "no": 5,
+          "word": "மேற்கொள்பவர்க்கு <br>(Merkolbavarkku)",
+          "ta": "மேற்கொண்டு நடப்பவர்க்கு",
+          "en": "Who walk in",
+          "hi": "जो हैं पालते"
+        },
+        {
+          "no": 6,
+          "word": "பண்பு <br>(Panbu)",
+          "ta": "நற்பண்பு",
+          "en": "Virtue",
+          "hi": "सद्गुण"
+        },
+        {
+          "no": 7,
+          "word": "கடமை <br>(Kadamai)",
+          "ta": "கடமை",
+          "en": "Duty",
+          "hi": "कर्तव्य"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கடனென்ப நல்லவை எல்லாம் கடனறிந்து",
+          "line2": "சான்றாண்மை மேற்கொள் பவர்க்கு."
+        },
+        "en": {
+          "line1": "All goodly things are duties to the men, they say,",
+          "line2": "Who set themselves to walk in virtue's perfect way."
+        },
+        "hi": {
+          "line1": "जो सब गुण हैं पालते, समझ योग्य कर्तव्य ।",
+          "line2": "उनको अच्छे कार्य सब, सहज बने कर्तव्य ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kadanenba Nallavai Ellaam Kadanarindhu",
+            "line2": "Saandraanmai Merkol Bavarkku."
+          },
+          "hi": {
+            "line1": "कडनॆन्ब नल्लवै ऎल्लाम् कडनरिन्दु",
+            "line2": "सान्द्राण्मै मेर्कॊळ् बवर्क्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தம் கடமைகளை அறிந்து சான்றாண்மை என்னும் நற்பண்பை மேற்கொண்டு நடப்பவர்களுக்கு, நல்ல செயல்கள் எல்லாம் இயல்பான கடமைகளாகும் என்று அறிஞர் கூறுவர்.",
+        "en": "For people committed to excellence of character, doing the right thing isn't extra credit—it's just their baseline duty.",
+        "hi": "जो लोग सभी सद्गुणों को अपना योग्य कर्तव्य समझकर उनका पालन करते हैं, उनके लिए सभी अच्छे कार्य सहज ही कर्तव्य बन जाते हैं।"
+      }
+    },
+    {
+      "num": 982,
+      "line1": "குணநலஞ் சான்றோர் நலனே பிறநல",
+      "line2": "மெந்நலத் துள்ளதூஉ மன்று.",
+      "enLine1": "The good of inward excellence they claim,",
+      "enLine2": "The perfect men; all other good is only good in name.",
+      "hiLine1": "गुण-श्रेष्ठता-लाभ ही, महापुरुष को श्रेय ।",
+      "hiLine2": "अन्य लाभ की प्राप्ति से, श्रेय न कुछ भी ज्ञेय ॥",
+      "general": "சான்றோர்களின் சிறப்பு என்பது அவர்களிடம் உள்ள நற்குணங்களின் நலமே; மற்ற செல்வம் முதலிய நலன்கள் எந்த நலத்தைச் சேர்ந்தவையும் அல்ல.",
+      "en": "The true excellence of noble people lies in their good character; any other advantage does not count as true excellence.",
+      "hi": "महापुरुषों का सच्चा कल्याण गुणों की श्रेष्ठता प्राप्त करने में ही है; अन्य सांसारिक लाभों की प्राप्ति से कोई वास्तविक श्रेय नहीं मिलता।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குண நலம் <br>(Guna nalam)",
+          "ta": "நற்குணங்களின் நலமே",
+          "en": "Inward excellence",
+          "hi": "गुण-श्रेष्ठता-लाभ ही"
+        },
+        {
+          "no": 2,
+          "word": "சான்றோர் <br>(Saandror)",
+          "ta": "சான்றோர்களின்",
+          "en": "The perfect men",
+          "hi": "महापुरुष को"
+        },
+        {
+          "no": 3,
+          "word": "நலனே <br>(Nalane)",
+          "ta": "சிறப்பாகும்",
+          "en": "The good",
+          "hi": "श्रेय"
+        },
+        {
+          "no": 4,
+          "word": "பிற நலம் <br>(Pira nalam)",
+          "ta": "மற்ற நலன்கள்",
+          "en": "All other good",
+          "hi": "अन्य लाभ की प्राप्ति से"
+        },
+        {
+          "no": 5,
+          "word": "எந்நலத்து <br>(Ennalaththu)",
+          "ta": "எந்த நலத்திலும்",
+          "en": "Good in name",
+          "hi": "कोई भी श्रेय"
+        },
+        {
+          "no": 6,
+          "word": "உள்ளதூஉம் <br>(Ulladhooum)",
+          "ta": "சேர்ந்ததும்",
+          "en": "Included",
+          "hi": "ज्ञेय"
+        },
+        {
+          "no": 7,
+          "word": "அன்று <br>(Andru)",
+          "ta": "அல்ல",
+          "en": "Is not",
+          "hi": "न कुछ भी"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குணநலஞ் சான்றோர் நலனே பிறநல",
+          "line2": "மெந்நலத் துள்ளதூஉ மன்று."
+        },
+        "en": {
+          "line1": "The good of inward excellence they claim,",
+          "line2": "The perfect men; all other good is only good in name."
+        },
+        "hi": {
+          "line1": "गुण-श्रेष्ठता-लाभ ही, महापुरुष को श्रेय ।",
+          "line2": "अन्य लाभ की प्राप्ति से, श्रेय न कुछ भी ज्ञेय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kunanalany Saanror Nalane Piranala",
+            "line2": "Mennalath Thulladhoou Manru."
+          },
+          "hi": {
+            "line1": "गुणनलञ् सान्द्रोर् नलने पिरनल",
+            "line2": "मॆन्नलत् तुळ्ळदूउ मन्द्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சான்றோர்களின் சிறப்பு என்பது அவர்களிடம் உள்ள நற்குணங்களின் நலமே; மற்ற செல்வம் முதலிய நலன்கள் எந்த நலத்தைச் சேர்ந்தவையும் அல்ல.",
+        "en": "Real greatness is measured by your character—status, wealth, and everything else are secondary.",
+        "hi": "महापुरुषों का सच्चा कल्याण गुणों की श्रेष्ठता प्राप्त करने में ही है; अन्य सांसारिक लाभों की प्राप्ति से कोई वास्तविक श्रेय नहीं मिलता।"
+      }
+    },
+    {
+      "num": 983,
+      "line1": "அன்புநா ணொப்புரவு கண்ணோட்டம் வாய்மையோ",
+      "line2": "டைந்துசால் பூன்றிய தூண்.",
+      "enLine1": "Love, modesty, beneficence, benignant grace,",
+      "enLine2": "With truth, are pillars five of perfect virtue's resting-place.",
+      "hiLine1": "लोकोपकारिता, दया, प्रेम हया औ' साँच ।",
+      "hiLine2": "सुगुणालय के थामते, खंभे हैं ये पाँच ॥",
+      "general": "அன்பு, நாணம், ஒப்புரவு (உதவி செய்தல்), கண்ணோட்டம் (இரக்கம்), வாய்மை ஆகிய ஐந்தும் சான்றாண்மை என்னும் மாளிகையைத் தாங்கும் தூண்களாகும்.",
+      "en": "Love, moral modesty, generosity, graciousness, and truthfulness—these five are the pillars supporting the edifice of noble perfection.",
+      "hi": "परोपकार, दया, प्रेम, लज्जा और सत्य—ये पाँच गुण ही सद्गुणों के भवन (सर्वगुण-पूर्णता) को थामने वाले पाँच स्तम्भ हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அன்பு <br>(Anbu)",
+          "ta": "அன்பு",
+          "en": "Love",
+          "hi": "प्रेम"
+        },
+        {
+          "no": 2,
+          "word": "நாண் <br>(Naan)",
+          "ta": "நாணம்",
+          "en": "Modesty",
+          "hi": "हया"
+        },
+        {
+          "no": 3,
+          "word": "ஒப்புரவு <br>(Oppuravu)",
+          "ta": "உலக நடைக்கு ஒத்த உதவி",
+          "en": "Beneficence",
+          "hi": "लोकोपकारिता"
+        },
+        {
+          "no": 4,
+          "word": "கண்ணோட்டம் <br>(Kannottam)",
+          "ta": "இரக்கப் பார்வை",
+          "en": "Benignant grace",
+          "hi": "दया"
+        },
+        {
+          "no": 5,
+          "word": "வாய்மையோடு <br>(Vaaymaiyodu)",
+          "ta": "உண்மையோடு",
+          "en": "With truth",
+          "hi": "औ' साँच"
+        },
+        {
+          "no": 6,
+          "word": "ஐந்து சால்பு <br>(Aindhu saalbu)",
+          "ta": "ஐந்தும் சான்றாண்மையை",
+          "en": "Five of perfect virtue",
+          "hi": "ये पाँच सुगुणालय के"
+        },
+        {
+          "no": 7,
+          "word": "ஊன்றிய தூண் <br>(Oondriya thoon)",
+          "ta": "தாங்கும் தூண்கள்",
+          "en": "Are pillars",
+          "hi": "थामते खंभे हैं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அன்புநா ணொப்புரவு கண்ணோட்டம் வாய்மையோ",
+          "line2": "டைந்துசால் பூன்றிய தூண்."
+        },
+        "en": {
+          "line1": "Love, modesty, beneficence, benignant grace,",
+          "line2": "With truth, are pillars five of perfect virtue's resting-place."
+        },
+        "hi": {
+          "line1": "लोकोपकारिता, दया, प्रेम हया औ' साँच ।",
+          "line2": "सुगुणालय के थामते, खंभे हैं ये पाँच ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Anpunaa Noppuravu Kannottam Vaaymaiyo",
+            "line2": "Daindhusaal Poonriya Thoon."
+          },
+          "hi": {
+            "line1": "अन्बुना णॊप्पुरवु कण्णोट्टम् वाय्मैयो",
+            "line2": "डैन्दुसाल् बून्द्रिय तूण्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அன்பு, நாணம், ஒப்புரவு (உதவி செய்தல்), கண்ணோட்டம் (இரக்கம்), வாய்மை ஆகிய ஐந்தும் சான்றாண்மை என்னும் மாளிகையைத் தாங்கும் தூண்களாகும்.",
+        "en": "Love, humility, generosity, compassion, and honesty—those are the five pillars holding up a truly great character.",
+        "hi": "परोपकार, दया, प्रेम, लज्जा और सत्य—ये पाँच गुण ही सद्गुणों के भवन (सर्वगुण-पूर्णता) को थामने वाले पाँच स्तम्भ हैं।"
+      }
+    },
+    {
+      "num": 984,
+      "line1": "கொல்லா நலத்தது நோன்மை பிறர்தீமை",
+      "line2": "சொல்லா நலத்தது சால்பு.",
+      "enLine1": "The type of 'penitence' is virtuous good that nothing slays;",
+      "enLine2": "To speak no ill of other men is perfect virtue's praise.",
+      "hiLine1": "वध-निषेध-व्रत-लाभ ही, तप को रहा प्रधान ।",
+      "hiLine2": "पर-निंदा वर्जन रही, गुणपूर्णता महान ॥",
+      "general": "எவ்வுயிரையும் கொல்லாத நலத்தை உடையது தவம்; அதுபோலப் பிறருடைய தீமையை எடுத்துச் சொல்லாத நலத்தை உடையது சான்றாண்மையாகும்.",
+      "en": "True austerity rests on the virtue of not killing; true perfection of character rests on the virtue of never speaking ill of others.",
+      "hi": "जिस प्रकार अहिंसा (वध-निषेध) के व्रत का पालन ही तपस्या का प्रमुख गुण है, उसी प्रकार दूसरों की निन्दा न करना ही महान गुणपूर्णता (सज्जनता) है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கொல்லா <br>(Kollaa)",
+          "ta": "கொல்லாத",
+          "en": "That nothing slays",
+          "hi": "वध-निषेध-व्रत"
+        },
+        {
+          "no": 2,
+          "word": "நலத்தது <br>(Nalaththadhu)",
+          "ta": "நலத்தை உடையது",
+          "en": "Virtuous good",
+          "hi": "लाभ ही"
+        },
+        {
+          "no": 3,
+          "word": "நோன்மை <br>(Nonmai)",
+          "ta": "தவம்",
+          "en": "Penitence",
+          "hi": "तप को रहा प्रधान"
+        },
+        {
+          "no": 4,
+          "word": "பிறர் தீமை <br>(Pirar theemai)",
+          "ta": "பிறர் குற்றத்தைச்",
+          "en": "Ill of other men",
+          "hi": "पर-निंदा"
+        },
+        {
+          "no": 5,
+          "word": "சொல்லா <br>(Sollaa)",
+          "ta": "சொல்லாத",
+          "en": "To speak no",
+          "hi": "वर्जन रही"
+        },
+        {
+          "no": 6,
+          "word": "நலத்தது <br>(Nalaththadhu)",
+          "ta": "நலத்தை உடையது",
+          "en": "Praise",
+          "hi": "महान"
+        },
+        {
+          "no": 7,
+          "word": "சால்பு <br>(Saalbu)",
+          "ta": "சான்றாண்மை",
+          "en": "Perfect virtue's",
+          "hi": "गुणपूर्णता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கொல்லா நலத்தது நோன்மை பிறர்தீமை",
+          "line2": "சொல்லா நலத்தது சால்பு."
+        },
+        "en": {
+          "line1": "The type of 'penitence' is virtuous good that nothing slays;",
+          "line2": "To speak no ill of other men is perfect virtue's praise."
+        },
+        "hi": {
+          "line1": "वध-निषेध-व्रत-लाभ ही, तप को रहा प्रधान ।",
+          "line2": "पर-निंदा वर्जन रही, गुणपूर्णता महान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kollaa Nalaththadhu Nonmai Pirartheemai",
+            "line2": "Sollaa Nalaththadhu Saalpu."
+          },
+          "hi": {
+            "line1": "कॊल्ला नलत्तदु नोन्मै पिरर्तीमै",
+            "line2": "सॊल्ला नलत्तदु साल्बु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எவ்வுயிரையும் கொல்லாத நலத்தை உடையது தவம்; அதுபோலப் பிறருடைய தீமையை எடுத்துச் சொல்லாத நலத்தை உடையது சான்றாண்மையாகும்.",
+        "en": "Just as spiritual discipline means harming no living thing, true nobility means refusing to gossip about others' faults.",
+        "hi": "जिस प्रकार अहिंसा (वध-निषेध) के व्रत का पालन ही तपस्या का प्रमुख गुण है, उसी प्रकार दूसरों की निन्दा न करना ही महान गुणपूर्णता (सज्जनता) है।"
+      }
+    },
+    {
+      "num": 985,
+      "line1": "ஆற்றுவா ராற்றல் பணித லதுசான்றோர்",
+      "line2": "மாற்றாரை மாற்றும் படை.",
+      "enLine1": "Submission is the might of men of mighty acts; the sage",
+      "enLine2": "With that same weapon stills his foeman's rage.",
+      "hiLine1": "विनयशीलता जो रही, बलवानों का सार ।",
+      "hiLine2": "है रिपु-रिपुता नाश-हित, सज्जन का हथियार ॥",
+      "general": "செயலாற்றும் வலிமையுடையவரின் வலிமை என்பது பணிந்து நடத்தலே; அதுவே சான்றோர் தம் பகைவரின் பகைமையை மாற்றும் படையாகும்.",
+      "en": "The true strength of capable people is humility; that very humility is the weapon by which the wise disarm their enemies.",
+      "hi": "विनयशीलता ही बलवानों का वास्तविक बल है, और यही सज्जनों के लिए शत्रु की शत्रुता समाप्त करने का सबसे बड़ा हथियार है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஆற்றுவார் <br>(Aatruvaar)",
+          "ta": "செயலாற்றும் வலிமையுடையவரின்",
+          "en": "Men of mighty acts",
+          "hi": "बलवानों का"
+        },
+        {
+          "no": 2,
+          "word": "ஆற்றல் <br>(Aatral)",
+          "ta": "ஆற்றலாவது",
+          "en": "The might",
+          "hi": "सार"
+        },
+        {
+          "no": 3,
+          "word": "பணிதல் <br>(Panidhal)",
+          "ta": "பணிவுடைமையே",
+          "en": "Submission",
+          "hi": "विनयशीलता जो रही"
+        },
+        {
+          "no": 4,
+          "word": "அது சான்றோர் <br>(Adhu saandror)",
+          "ta": "அதுவே சான்றோர்",
+          "en": "The sage",
+          "hi": "सज्जन का"
+        },
+        {
+          "no": 5,
+          "word": "மாற்றாரை <br>(Maatraarai)",
+          "ta": "பகைவரை",
+          "en": "Foeman's rage",
+          "hi": "रिपु-रिपुता"
+        },
+        {
+          "no": 6,
+          "word": "மாற்றும் <br>(Maatrum)",
+          "ta": "நட்பாக மாற்றும்",
+          "en": "Stills",
+          "hi": "नाश-हित"
+        },
+        {
+          "no": 7,
+          "word": "படை <br>(Padai)",
+          "ta": "ஆயுதமாகும்",
+          "en": "Weapon",
+          "hi": "हथियार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஆற்றுவா ராற்றல் பணித லதுசான்றோர்",
+          "line2": "மாற்றாரை மாற்றும் படை."
+        },
+        "en": {
+          "line1": "Submission is the might of men of mighty acts; the sage",
+          "line2": "With that same weapon stills his foeman's rage."
+        },
+        "hi": {
+          "line1": "विनयशीलता जो रही, बलवानों का सार ।",
+          "line2": "है रिपु-रिपुता नाश-हित, सज्जन का हथियार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aatruvaa Raatral Panidha Ladhusaanror",
+            "line2": "Maatraarai Maatrum Padai."
+          },
+          "hi": {
+            "line1": "आत्र्रुवा रात्र्रल् पणिद लदुसान्द्रोर्",
+            "line2": "मात्र्रारै मात्र्रुम् पडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செயலாற்றும் வலிமையுடையவரின் வலிமை என்பது பணிந்து நடத்தலே; அதுவே சான்றோர் தம் பகைவரின் பகைமையை மாற்றும் படையாகும்.",
+        "en": "Real strength shows up as humility—and that humility is how wise people disarm their opponents.",
+        "hi": "विनयशीलता ही बलवानों का वास्तविक बल है, और यही सज्जनों के लिए शत्रु की शत्रुता समाप्त करने का सबसे बड़ा हथियार है।"
+      }
+    },
+    {
+      "num": 986,
+      "line1": "சால்பிற்குக் கட்டளை யாதெனின் தோல்வி",
+      "line2": "துலையல்லார் கண்ணும் கொளல்.",
+      "enLine1": "What is perfection's test? The equal mind,",
+      "enLine2": "To bear repulse from even meaner men resigned.",
+      "hiLine1": "कौन कसौटी जो परख, जाने गुण-आगार ।",
+      "hiLine2": "है वह गुण जो मान ले, नीचों से भी हार ॥",
+      "general": "சான்றாண்மையை உரைத்துப் பார்க்கும் உரைகல் எதுவென்றால், தமக்கு நிகரல்லாத கீழோரிடத்தும் தோல்வியை ஏற்றுக்கொள்ளும் பண்பேயாகும்.",
+      "en": "What is the touchstone of noble character? The grace to accept defeat calmly even at the hands of one's inferiors.",
+      "hi": "गुणपूर्णता की परख करने वाली कसौटी कौन-सी है? वह गुण है कि व्यक्ति अपने से हीन लोगों से भी विनम्रता से हार मान ले।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சால்பிற்கு <br>(Saalbirku)",
+          "ta": "சான்றாண்மைக்கு",
+          "en": "Perfection's",
+          "hi": "गुण-आगार"
+        },
+        {
+          "no": 2,
+          "word": "கட்டளை <br>(Kattalai)",
+          "ta": "உரைகல்",
+          "en": "Test",
+          "hi": "कौन कसौटी जो परख"
+        },
+        {
+          "no": 3,
+          "word": "யாதெனின் <br>(Yaadhenin)",
+          "ta": "எதுவென்றால்",
+          "en": "What is",
+          "hi": "जाने"
+        },
+        {
+          "no": 4,
+          "word": "தோல்வி <br>(Tholvi)",
+          "ta": "தோல்வியை",
+          "en": "Repulse",
+          "hi": "हार"
+        },
+        {
+          "no": 5,
+          "word": "துலை அல்லார் <br>(Thulai allaar)",
+          "ta": "தமக்கு நிகரல்லாதவரிடத்தும்",
+          "en": "Even meaner men",
+          "hi": "नीचों से भी"
+        },
+        {
+          "no": 6,
+          "word": "கண்ணும் <br>(Kannum)",
+          "ta": "இடத்தும்",
+          "en": "From",
+          "hi": "से भी"
+        },
+        {
+          "no": 7,
+          "word": "கொளல் <br>(Kolal)",
+          "ta": "ஏற்றுக்கொள்ளல்",
+          "en": "To bear resigned",
+          "hi": "मान ले"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சால்பிற்குக் கட்டளை யாதெனின் தோல்வி",
+          "line2": "துலையல்லார் கண்ணும் கொளல்."
+        },
+        "en": {
+          "line1": "What is perfection's test? The equal mind,",
+          "line2": "To bear repulse from even meaner men resigned."
+        },
+        "hi": {
+          "line1": "कौन कसौटी जो परख, जाने गुण-आगार ।",
+          "line2": "है वह गुण जो मान ले, नीचों से भी हार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Saalbirkuk Kattalai Yaadhenin Tholvi",
+            "line2": "Thulaiyallaar Kannum Kolal."
+          },
+          "hi": {
+            "line1": "साल्बिरकुक् कट्टळै यादॆनिन् तोल्वि",
+            "line2": "तुलैयल्लार् कण्णुम् कॊळल्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சான்றாண்மையை உரைத்துப் பார்க்கும் உரைகல் எதுவென்றால், தமக்கு நிகரல்லாத கீழோரிடத்தும் தோல்வியை ஏற்றுக்கொள்ளும் பண்பேயாகும்.",
+        "en": "The real test of maturity is gracefully stepping back and letting even an inferior opponent win an argument.",
+        "hi": "गुणपूर्णता की परख करने वाली कसौटी कौन-सी है? वह गुण है कि व्यक्ति अपने से हीन लोगों से भी विनम्रता से हार मान ले।"
+      }
+    },
+    {
+      "num": 987,
+      "line1": "இன்னாசெய் தார்க்கு மினியவே செய்யாக்கா",
+      "line2": "லென்ன பயத்ததோ சால்பு.",
+      "enLine1": "What fruit doth your perfection yield you, say !",
+      "enLine2": "Unless to men who work you ill you good repay?",
+      "hiLine1": "अपकारी को भी अगर, किया नहीं उपकार ।",
+      "hiLine2": "होता क्या उपयोग है, हो कर गुण-आगार ॥",
+      "general": "தமக்குத் தீமை செய்தவர்க்கும் இனிய நன்மைகளையே செய்யாவிட்டால், சான்றாண்மை என்னும் நற்பண்பினால் என்ன பயன் உண்டு?",
+      "en": "What is the use of noble perfection of character if one does not repay even those who do harm with kindness?",
+      "hi": "यदि अपकार (बुराई) करने वाले के साथ भी उपकार (भलाई) न किया जाए, तो गुणों का भण्डार (सज्जन) होने का भला क्या उपयोग है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்னா செய்தார்க்கும் <br>(Innaa seydhaarkkum)",
+          "ta": "தீமை செய்தவர்க்கும்",
+          "en": "Men who work you ill",
+          "hi": "अपकारी को भी अगर"
+        },
+        {
+          "no": 2,
+          "word": "இனியவே <br>(Iniyave)",
+          "ta": "நன்மைகளையே",
+          "en": "Good",
+          "hi": "उपकार"
+        },
+        {
+          "no": 3,
+          "word": "செய்யாக்கால் <br>(Seyyaakkaal)",
+          "ta": "செய்யாவிட்டால்",
+          "en": "Unless repay",
+          "hi": "किया नहीं"
+        },
+        {
+          "no": 4,
+          "word": "என்ன <br>(Enna)",
+          "ta": "என்ன",
+          "en": "What",
+          "hi": "क्या"
+        },
+        {
+          "no": 5,
+          "word": "பயத்ததோ <br>(Payaththadho)",
+          "ta": "பயனைத் தருவதோ",
+          "en": "Fruit doth yield",
+          "hi": "होता उपयोग है"
+        },
+        {
+          "no": 6,
+          "word": "சால்பு <br>(Saalbu)",
+          "ta": "சான்றாண்மை",
+          "en": "Perfection",
+          "hi": "गुण-आगार"
+        },
+        {
+          "no": 7,
+          "word": "நன்மை <br>(Nanmai)",
+          "ta": "நன்மை",
+          "en": "Kindness",
+          "hi": "भलाई"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்னாசெய் தார்க்கு மினியவே செய்யாக்கா",
+          "line2": "லென்ன பயத்ததோ சால்பு."
+        },
+        "en": {
+          "line1": "What fruit doth your perfection yield you, say !",
+          "line2": "Unless to men who work you ill you good repay?"
+        },
+        "hi": {
+          "line1": "अपकारी को भी अगर, किया नहीं उपकार ।",
+          "line2": "होता क्या उपयोग है, हो कर गुण-आगार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Innaa Seydhaarkkum Iniyave Seyyaakkaal",
+            "line2": "Enna Payaththadho Saalbu."
+          },
+          "hi": {
+            "line1": "इन्नासॆय् दार्क्कु मिनियवे सॆय्याक्का",
+            "line2": "लॆन्न पयत्तदो साल्बु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தமக்குத் தீமை செய்தவர்க்கும் இனிய நன்மைகளையே செய்யாவிட்டால், சான்றாண்மை என்னும் நற்பண்பினால் என்ன பயன் உண்டு?",
+        "en": "What's the point of having high character if you can't respond with kindness when someone wrongs you?",
+        "hi": "यदि अपकार (बुराई) करने वाले के साथ भी उपकार (भलाई) न किया जाए, तो गुणों का भण्डार (सज्जन) होने का भला क्या उपयोग है?"
+      }
+    },
+    {
+      "num": 988,
+      "line1": "இன்மை யொருவற் கிளிவன்று சால்பென்னுந்",
+      "line2": "திண்மை யுண்டாகப் பெறின்.",
+      "enLine1": "To soul with perfect virtue's strength endued,",
+      "enLine2": "Brings no disgrace the lack of every earthly good.",
+      "hiLine1": "निर्धनता नर के लिये, होता नहिं अपमान ।",
+      "hiLine2": "यदि बल है जिसको कहें, सर्व गुणों की खान ॥",
+      "general": "சான்றாண்மை என்னும் மன வலிமை ஒருவனுக்கு உண்டாகப் பெற்றால், பொருள் இல்லாத வறுமை அவனுக்கு இழிவாகாது.",
+      "en": "Poverty is no disgrace to a person if they possess the inner strength of noble character.",
+      "hi": "यदि मनुष्य के पास वह आन्तरिक बल है जिसे सभी गुणों की खान (सज्जनता) कहते हैं, तो निर्धनता उसके लिए अपमान की बात नहीं होती।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்மை <br>(Inmai)",
+          "ta": "வறுமை",
+          "en": "Lack of earthly good",
+          "hi": "निर्धनता"
+        },
+        {
+          "no": 2,
+          "word": "ஒருவற்கு <br>(Oruvarku)",
+          "ta": "ஒருவனுக்கு",
+          "en": "To soul",
+          "hi": "नर के लिये"
+        },
+        {
+          "no": 3,
+          "word": "இளிவு அன்று <br>(Ilivu andru)",
+          "ta": "இழிவல்ல",
+          "en": "Brings no disgrace",
+          "hi": "होता नहिं अपमान"
+        },
+        {
+          "no": 4,
+          "word": "சால்பு என்னும் <br>(Saalbu ennum)",
+          "ta": "சான்றாண்மை என்னும்",
+          "en": "Perfect virtue's",
+          "hi": "सर्व गुणों की खान"
+        },
+        {
+          "no": 5,
+          "word": "திண்மை <br>(Thinmai)",
+          "ta": "மன உறுதி",
+          "en": "Strength",
+          "hi": "बल"
+        },
+        {
+          "no": 6,
+          "word": "உண்டாகப் <br>(Undaagap)",
+          "ta": "உண்டாகப்",
+          "en": "Endued",
+          "hi": "यदि है"
+        },
+        {
+          "no": 7,
+          "word": "பெறின் <br>(Perin)",
+          "ta": "பெற்றால்",
+          "en": "Obtain",
+          "hi": "मिले"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்மை யொருவற் கிளிவன்று சால்பென்னுந்",
+          "line2": "திண்மை யுண்டாகப் பெறின்."
+        },
+        "en": {
+          "line1": "To soul with perfect virtue's strength endued,",
+          "line2": "Brings no disgrace the lack of every earthly good."
+        },
+        "hi": {
+          "line1": "निर्धनता नर के लिये, होता नहिं अपमान ।",
+          "line2": "यदि बल है जिसको कहें, सर्व गुणों की खान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inmai Yoruvar Kilivanru Saalpennun",
+            "line2": "Thinmai Yundaagap Perin."
+          },
+          "hi": {
+            "line1": "इन्मै यॊरुवर् किळिवन्द्रु साल्बॆन्नुन्",
+            "line2": "तिण्मै युण्डागप् पॆरिन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சான்றாண்மை என்னும் மன வலிமை ஒருவனுக்கு உண்டாகப் பெற்றால், பொருள் இல்லாத வறுமை அவனுக்கு இழிவாகாது.",
+        "en": "Being broke is never shameful when you carry yourself with solid, unshakeable integrity.",
+        "hi": "यदि मनुष्य के पास वह आन्तरिक बल है जिसे सभी गुणों की खान (सज्जनता) कहते हैं, तो निर्धनता उसके लिए अपमान की बात नहीं होती।"
+      }
+    },
+    {
+      "num": 989,
+      "line1": "ஊழி பெயரினுந் தாம்பெயரார் சான்றாண்மைக்",
+      "line2": "காழி யெனப்படு வார்.",
+      "enLine1": "Call them of perfect virtue's sea the shore,",
+      "enLine2": "Who, though the fates should fail, fail not for evermore.",
+      "hiLine1": "गुण-सागर के कूल सम, जो मर्यादा-पाल ।",
+      "hiLine2": "मर्यादा छोड़े नहीं, यद्यपि युगान्त-काल ॥",
+      "general": "சான்றாண்மை என்னும் பண்புக்குக் கடற்கரை போல எல்லை எனப்படுபவர்கள், உலகம் அழியும் ஊழிக்காலம் வந்தாலும் தம் நிலையிலிருந்து மாற மாட்டார்கள்.",
+      "en": "Those who are called the shore of the ocean of perfection never waver from their principles, even if the ages themselves overturn.",
+      "hi": "जो गुणों के सागर के किनारे के समान मर्यादा के रक्षक हैं, वे प्रलय-काल (युगान्त) आ जाने पर भी अपनी मर्यादा नहीं छोड़ते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊழி பெயரினும் <br>(Oozhi peyarinum)",
+          "ta": "உலகம் அழியும் காலம் வந்தாலும்",
+          "en": "Though fates should fail",
+          "hi": "यद्यपि युगान्त-काल"
+        },
+        {
+          "no": 2,
+          "word": "தாம் பெயரார் <br>(Thaam peyaraar)",
+          "ta": "தாம் நிலை மாறார்",
+          "en": "Fail not for evermore",
+          "hi": "मर्यादा छोड़े नहीं"
+        },
+        {
+          "no": 3,
+          "word": "சான்றாண்மைக்கு <br>(Saandraanmaikku)",
+          "ta": "சான்றாண்மைக்கு",
+          "en": "Perfect virtue's",
+          "hi": "गुण-सागर के"
+        },
+        {
+          "no": 4,
+          "word": "ஆழி <br>(Aazhi)",
+          "ta": "கடற்கரை (எல்லை)",
+          "en": "Sea the shore",
+          "hi": "कूल सम"
+        },
+        {
+          "no": 5,
+          "word": "எனப்படுவார் <br>(Enappaduvaar)",
+          "ta": "எனக் கூறப்படுபவர்",
+          "en": "Call them",
+          "hi": "जो मर्यादा-पाल"
+        },
+        {
+          "no": 6,
+          "word": "உறுதி <br>(Urudhi)",
+          "ta": "உறுதி",
+          "en": "Steadfastness",
+          "hi": "दृढ़ता"
+        },
+        {
+          "no": 7,
+          "word": "மரியாதை <br>(Mariyaadhai)",
+          "ta": "நன்னெறி",
+          "en": "Integrity",
+          "hi": "मर्यादा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊழி பெயரினுந் தாம்பெயரார் சான்றாண்மைக்",
+          "line2": "காழி யெனப்படு வார்."
+        },
+        "en": {
+          "line1": "Call them of perfect virtue's sea the shore,",
+          "line2": "Who, though the fates should fail, fail not for evermore."
+        },
+        "hi": {
+          "line1": "गुण-सागर के कूल सम, जो मर्यादा-पाल ।",
+          "line2": "मर्यादा छोड़े नहीं, यद्यपि युगान्त-काल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oozhi Peyarinun Thaambeyaraar Saanraanmaik",
+            "line2": "Kaazhi Yenappadu Vaar."
+          },
+          "hi": {
+            "line1": "ऊऴि पॆयरिनुन् ताम्बॆयरार् सान्द्राण्मैक्",
+            "line2": "काऴि यॆनप्पडु वार्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சான்றாண்மை என்னும் பண்புக்குக் கடற்கரை போல எல்லை எனப்படுபவர்கள், உலகம் அழியும் ஊழிக்காலம் வந்தாலும் தம் நிலையிலிருந்து மாற மாட்டார்கள்.",
+        "en": "People who embody the very shoreline of integrity don't budge from their values, even if the whole world shifts.",
+        "hi": "जो गुणों के सागर के किनारे के समान मर्यादा के रक्षक हैं, वे प्रलय-काल (युगान्त) आ जाने पर भी अपनी मर्यादा नहीं छोड़ते।"
+      }
+    },
+    {
+      "num": 990,
+      "line1": "சான்றவர் சான்றாண்மை குன்றி னிருநிலந்",
+      "line2": "தாங்காது மன்னோ பொறை.",
+      "enLine1": "The mighty earth its burthen to sustain must cease,",
+      "enLine2": "If perfect virtue of the perfect men decrease.",
+      "hiLine1": "घटता है गुण-पूर्ण का, यदि गुण का आगार ।",
+      "hiLine2": "तो विस्तृत संसार भी, ढो सकता नहिं भार ॥",
+      "general": "சான்றோர்களிடம் உள்ள சான்றாண்மை என்னும் பண்பு குறையுமானால், இந்தப் பெரிய பூமியும் தன் பாரத்தைத் தாங்கிக்கொள்ள மாட்டாது.",
+      "en": "If the noble perfection of the wise diminishes, even this vast earth cannot bear its own weight.",
+      "hi": "यदि सर्वगुण-सम्पन्न महापुरुषों के गुणों का भण्डार कम होने लगे, तो यह विस्तृत संसार भी अपना भार नहीं ढो सकेगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "சான்றவர் <br>(Saandravar)",
+          "ta": "சான்றோர்களின்",
+          "en": "Of perfect men",
+          "hi": "गुण-पूर्ण का"
+        },
+        {
+          "no": 2,
+          "word": "சான்றாண்மை <br>(Saandraanmai)",
+          "ta": "சான்றாண்மை",
+          "en": "Perfect virtue",
+          "hi": "गुण का आगार"
+        },
+        {
+          "no": 3,
+          "word": "குன்றின் <br>(Kundrin)",
+          "ta": "குறைந்தால்",
+          "en": "Decrease",
+          "hi": "यदि घटता है"
+        },
+        {
+          "no": 4,
+          "word": "இரு நிலம் <br>(Iru nilam)",
+          "ta": "பெரிய பூமி",
+          "en": "Mighty earth",
+          "hi": "विस्तृत संसार भी"
+        },
+        {
+          "no": 5,
+          "word": "தாங்காது <br>(Thaangaadhu)",
+          "ta": "தாங்காது",
+          "en": "Must cease",
+          "hi": "ढो सकता नहिं"
+        },
+        {
+          "no": 6,
+          "word": "மன்னோ <br>(Manno)",
+          "ta": "நிச்சயமாக",
+          "en": "To sustain",
+          "hi": "तो"
+        },
+        {
+          "no": 7,
+          "word": "பொறை <br>(Porai)",
+          "ta": "தன் பாரத்தை",
+          "en": "Its burthen",
+          "hi": "भार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "சான்றவர் சான்றாண்மை குன்றி னிருநிலந்",
+          "line2": "தாங்காது மன்னோ பொறை."
+        },
+        "en": {
+          "line1": "The mighty earth its burthen to sustain must cease,",
+          "line2": "If perfect virtue of the perfect men decrease."
+        },
+        "hi": {
+          "line1": "घटता है गुण-पूर्ण का, यदि गुण का आगार ।",
+          "line2": "तो विस्तृत संसार भी, ढो सकता नहिं भार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Saanravar Saanraanmai Kunri Nirunilan",
+            "line2": "Thaanggaadhu Manno Porai."
+          },
+          "hi": {
+            "line1": "सान्द्रवर् सान्द्राण्मै कुन्द्रि निरुनिलन्",
+            "line2": "ताङ्गादु मन्नो पॊरै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சான்றோர்களிடம் உள்ள சான்றாண்மை என்னும் பண்பு குறையுமானால், இந்தப் பெரிய பூமியும் தன் பாரத்தைத் தாங்கிக்கொள்ள மாட்டாது.",
+        "en": "Society stays standing because of people of real character—if their integrity fades, the whole world feels the collapse.",
+        "hi": "यदि सर्वगुण-सम्पन्न महापुरुषों के गुणों का भण्डार कम होने लगे, तो यह विस्तृत संसार भी अपना भार नहीं ढो सकेगा।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "chapterNum": 116,
+  "nameTa": "பிரிவாற்றாமை",
+  "nameEn": "Separation Unendurable",
+  "nameHi": "विरह-वेदना",
+  "paal": "காமத்துப்பால்",
+  "iyal": "கற்பியல்",
+  "kurals": [
+    {
+      "num": 1151,
+      "line1": "செல்லாமை யுண்டே லெனக்குரை மற்றுநின்",
+      "line2": "வல்வரவு வாழ்வார்க் குரை",
+      "enLine1": "If you will say, 'I leave thee not,' then tell me so ;",
+      "enLine2": "Of quick return tell those that can survive this woe.",
+      "hiLine1": "अगर बिछुड़ जाते नहीं, मुझे जताओ नाथ ।",
+      "hiLine2": "जो जियें उनसे कहो, झट फिरने की बात ॥",
+      "general": "நீ பிரியாமல் இருப்பதாக இருந்தால் அதை எனக்குச் சொல்; பிரிந்து விரைவில் திரும்பி வருவதைப் பற்றி உன் பிரிவைத் தாங்கி உயிர் வாழ்வாரிடம் சொல்.",
+      "en": "If you are not going to leave me, tell me that; speak of a quick return only to those who can survive your absence.",
+      "hi": "यदि आप मुझे छोड़कर न जाने वाले हों, तो मुझसे यही कहिए; शीघ्र लौट आने की बात उनसे कहिए जो आपके विरह को सहकर जीवित रह सकें।",
+      "words": [
+        {
+          "no": 1,
+          "word": "செல்லாமை <br>(Sellaamai)",
+          "ta": "பிரிந்து செல்லாதிருத்தல்",
+          "en": "Not departing",
+          "hi": "बिछुड़ जाते नहीं"
+        },
+        {
+          "no": 2,
+          "word": "உண்டேல் <br>(Undeal)",
+          "ta": "உண்டானால்",
+          "en": "If there is",
+          "hi": "अगर हो"
+        },
+        {
+          "no": 3,
+          "word": "எனக்கு உரை <br>(Enakku Urai)",
+          "ta": "எனக்குச் சொல்",
+          "en": "Tell me so",
+          "hi": "मुझे जताओ"
+        },
+        {
+          "no": 4,
+          "word": "மற்று <br>(Matru)",
+          "ta": "அல்லாமல்",
+          "en": "Otherwise",
+          "hi": "वरना"
+        },
+        {
+          "no": 5,
+          "word": "நின் வல்வரவு <br>(Nin Valvaravu)",
+          "ta": "உன் விரைவான வருகையை",
+          "en": "Thy quick return",
+          "hi": "झट फिरने की बात"
+        },
+        {
+          "no": 6,
+          "word": "வாழ்வார்க்கு <br>(Vaazhvaarkku)",
+          "ta": "உயிர் வாழ்வார்க்கு",
+          "en": "To those who survive",
+          "hi": "जो जियें उनसे"
+        },
+        {
+          "no": 7,
+          "word": "உரை <br>(Urai)",
+          "ta": "சொல்வாயாக",
+          "en": "Tell",
+          "hi": "कहो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "செல்லாமை யுண்டே லெனக்குரை மற்றுநின்",
+          "line2": "வல்வரவு வாழ்வார்க் குரை"
+        },
+        "en": {
+          "line1": "If you will say, 'I leave thee not,' then tell me so ;",
+          "line2": "Of quick return tell those that can survive this woe."
+        },
+        "hi": {
+          "line1": "अगर बिछुड़ जाते नहीं, मुझे जताओ नाथ ।",
+          "line2": "जो जियें उनसे कहो, झट फिरने की बात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Sellaamai Yunde Lenakkurai Matrunin",
+            "line2": "Valvaravu Vaazhvaark Kurai"
+          },
+          "hi": {
+            "line1": "सॆल्लामै युण्डे लॆनक्कुरै मट्रुनिन्",
+            "line2": "वल्लरवु वाऴ्वार्क् कुरै"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நீ பிரியாமல் இருப்பதாக இருந்தால் அதை எனக்குச் சொல்; பிரிந்து விரைவில் திரும்பி வருவதைப் பற்றி உன் பிரிவைத் தாங்கி உயிர் வாழ்வாரிடம் சொல்.",
+        "en": "Don't try to comfort me with promises of coming back soon—if you leave, I won't survive it. Only tell me if you're staying.",
+        "hi": "यदि आप मुझे छोड़कर न जाने वाले हों, तो मुझसे यही कहिए; शीघ्र लौट आने की बात उनसे कहिए जो आपके विरह को सहकर जीवित रह सकें।"
+      }
+    },
+    {
+      "num": 1152,
+      "line1": "இன்க ணுடைத்தவர் பார்வல் பிரிவஞ்சும்",
+      "line2": "புன்க ணுடைத்தாற் புணர்வு",
+      "enLine1": "It once was perfect joy to look upon his face ;",
+      "enLine2": "But now the fear of parting saddens each embrace.",
+      "hiLine1": "पहले उनकी दृष्टि तो, देती थी सुख-भोग ।",
+      "hiLine2": "विरह-भीति से दुखद है, अब उनका संयोग ॥",
+      "general": "முன்பெல்லாம் தலைவரின் பார்வையே இன்பம் தருவதாக இருந்தது; ஆனால் இப்போதோ பிரிந்து விடுவாரோ என்ற அச்சத்தால் கூடியிருக்கும் போதும் துன்பம் உண்டாகிறது.",
+      "en": "Formerly, even a mere glance from him brought joy; now, even his embrace is filled with sorrow due to the fear of impending separation.",
+      "hi": "पहले उनकी दृष्टि मात्र ही सुख देती थी; परंतु अब तो विरह के भय से उनका संयोग भी दुःखदायी हो गया है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்கண் <br>(Inkan)",
+          "ta": "இனிமை",
+          "en": "Perfect joy",
+          "hi": "सुख-भोग"
+        },
+        {
+          "no": 2,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "உடையதாக இருந்தது",
+          "en": "Possessed",
+          "hi": "देती थी"
+        },
+        {
+          "no": 3,
+          "word": "அவர் பார்வல் <br>(Avar Paarval)",
+          "ta": "அவரது பார்வை",
+          "en": "His glance",
+          "hi": "उनकी दृष्टि"
+        },
+        {
+          "no": 4,
+          "word": "பிரிவு அஞ்சும் <br>(Pirivu Anjum)",
+          "ta": "பிரிவுக்கு அஞ்சும்",
+          "en": "Fearing parting",
+          "hi": "विरह-भीति से"
+        },
+        {
+          "no": 5,
+          "word": "புன்கண் <br>(Punkan)",
+          "ta": "துன்பம்",
+          "en": "Sorrow",
+          "hi": "दुखद"
+        },
+        {
+          "no": 6,
+          "word": "உடைத்தால் <br>(Udaiththaal)",
+          "ta": "உடையதாயிற்று",
+          "en": "Has become",
+          "hi": "हो गया है"
+        },
+        {
+          "no": 7,
+          "word": "புணர்வு <br>(Punarvu)",
+          "ta": "சேர்க்கையும்",
+          "en": "Embrace",
+          "hi": "उनका संयोग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்க ணுடைத்தவர் பார்வல் பிரிவஞ்சும்",
+          "line2": "புன்க ணுடைத்தாற் புணர்வு"
+        },
+        "en": {
+          "line1": "It once was perfect joy to look upon his face ;",
+          "line2": "But now the fear of parting saddens each embrace."
+        },
+        "hi": {
+          "line1": "पहले उनकी दृष्टि तो, देती थी सुख-भोग ।",
+          "line2": "विरह-भीति से दुखद है, अब उनका संयोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Inka Nudaiththavar Paarval Pirivanjum",
+            "line2": "Punka Nudaiththaar Punarvu"
+          },
+          "hi": {
+            "line1": "इन्क णुडैत्तवर् पार्वल् पिरिवञ्जुम्",
+            "line2": "पुन्क णुडैत्ताऱ् पुणर्वु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முன்பெல்லாம் தலைவரின் பார்வையே இன்பம் தருவதாக இருந்தது; ஆனால் இப்போதோ பிரிந்து விடுவாரோ என்ற அச்சத்தால் கூடியிருக்கும் போதும் துன்பம் உண்டாகிறது.",
+        "en": "There was a time when just catching his eye brought pure joy; now, the looming dread of him leaving casts a shadow over every moment we're together.",
+        "hi": "पहले उनकी दृष्टि मात्र ही सुख देती थी; परंतु अब तो विरह के भय से उनका संयोग भी दुःखदायी हो गया है।"
+      }
+    },
+    {
+      "num": 1153,
+      "line1": "அரிதரோ தேற்ற மறிவுடையார் கண்ணும்",
+      "line2": "பிரிவோ ரிடத்துண்மை யான்",
+      "enLine1": "To trust henceforth is hard, if ever he depart,",
+      "enLine2": "E'en he, who knows his promise and my breaking heart.",
+      "hiLine1": "विज्ञ नाथ का भी कभी, संभव रहा प्रवास ।",
+      "hiLine2": "सो करना संभव नहीं, इनपर भी विश्वास ॥",
+      "general": "என் துன்பத்தையும் தம் வாக்குறுதியையும் அறிந்த தலைவரிடமும் பிரிவு எண்ணம் தோன்றுவதால், இனி அவரை நம்பித் தெளிவடைவது அரிதாகும்.",
+      "en": "Because the thought of separation arises even in one so wise and aware of my distress, it is hard to feel assured and trustful.",
+      "hi": "मेरी व्यथा को जानने वाले बुद्धिमान नाथ के मन में भी प्रवास (विरह) की बात आ जाने के कारण, अब उन पर भी विश्वास कर पाना कठिन है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அரிதரோ <br>(Aridharo)",
+          "ta": "மிகவும் அரிது",
+          "en": "Is hard indeed",
+          "hi": "संभव नहीं"
+        },
+        {
+          "no": 2,
+          "word": "தேற்றம் <br>(Theatram)",
+          "ta": "தெளிந்து நம்புதல்",
+          "en": "To trust",
+          "hi": "विश्वास करना"
+        },
+        {
+          "no": 3,
+          "word": "அறிவுடையார் <br>(Arivudaiyaar)",
+          "ta": "அறிவுடைய தலைவர்",
+          "en": "Wise one",
+          "hi": "विज्ञ नाथ"
+        },
+        {
+          "no": 4,
+          "word": "கண்ணும் <br>(Kannum)",
+          "ta": "இடத்தும் கூட",
+          "en": "Even in him",
+          "hi": "उनका भी"
+        },
+        {
+          "no": 5,
+          "word": "பிரிவு <br>(Pirivu)",
+          "ta": "பிரிவு",
+          "en": "Departure",
+          "hi": "प्रवास"
+        },
+        {
+          "no": 6,
+          "word": "ஓரிடத்து <br>(Oridaththu)",
+          "ta": "ஒரு சமயத்தில்",
+          "en": "At some time",
+          "hi": "कभी"
+        },
+        {
+          "no": 7,
+          "word": "உண்மையான் <br>(Unmaiyaan)",
+          "ta": "உள்ளமையால்",
+          "en": "Because it exists",
+          "hi": "संभव रहा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அரிதரோ தேற்ற மறிவுடையார் கண்ணும்",
+          "line2": "பிரிவோ ரிடத்துண்மை யான்"
+        },
+        "en": {
+          "line1": "To trust henceforth is hard, if ever he depart,",
+          "line2": "E'en he, who knows his promise and my breaking heart."
+        },
+        "hi": {
+          "line1": "विज्ञ नाथ का भी कभी, संभव रहा प्रवास ।",
+          "line2": "सो करना संभव नहीं, इनपर भी विश्वास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aridharo Theatram Arivudaiyaar Kannum",
+            "line2": "Pirivu Oridaththu Unmaiyaan"
+          },
+          "hi": {
+            "line1": "अरिदरो तेट्र मऱिवुडैयार् कण्णुम्",
+            "line2": "पिरिवो रिडत्तुण्मै यान्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் துன்பத்தையும் தம் வாக்குறுதியையும் அறிந்த தலைவரிடமும் பிரிவு எண்ணம் தோன்றுவதால், இனி அவரை நம்பித் தெளிவடைவது அரிதாகும்.",
+        "en": "If even someone as thoughtful and aware of my feelings can decide to leave, it becomes very hard to truly rely on anyone's promises.",
+        "hi": "मेरी व्यथा को जानने वाले बुद्धिमान नाथ के मन में भी प्रवास (विरह) की बात आ जाने के कारण, अब उन पर भी विश्वास कर पाना कठिन है।"
+      }
+    },
+    {
+      "num": 1154,
+      "line1": "அளித்தஞ்ச லென்றவர் நீப்பிற் றெளித்தசொற்",
+      "line2": "றேறியார்க் குண்டோ தவறு",
+      "enLine1": "If he depart, who fondly said, 'Fear not,' what blame 's incurred",
+      "enLine2": "By those who trusted to his reassuring word ?",
+      "hiLine1": "छोड़ चलेंगे यदि सदय, कर निर्भय का घोष ।",
+      "hiLine2": "जो दृढ़-वच विश्वासिनी, उसका है क्या दोष ॥",
+      "general": "முன்பு அன்பு செய்து 'அஞ்சாதே' என்று தேற்றியவர் இப்போது பிரிந்து சென்றால், அவரது உறுதிமொழியை நம்பிய என்னிடம் என்ன தவறு உள்ளது?",
+      "en": "If he who lovingly said 'Fear not' now departs, is there any fault in those who believed his reassuring words?",
+      "hi": "पहले प्रेमपूर्वक 'भय मत करो' कहकर आश्वासन देने वाले यदि अब छोड़कर चले जाएँ, तो उनके दृढ़ वचनों पर विश्वास करने वाली का क्या दोष है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "அளித்து <br>(Aliththu)",
+          "ta": "அன்பு செய்து",
+          "en": "Fondly",
+          "hi": "सदय होकर"
+        },
+        {
+          "no": 2,
+          "word": "அஞ்சல் என்றவர் <br>(Anjal Endravar)",
+          "ta": "அஞ்சாதே என்றவர்",
+          "en": "Who said 'Fear not'",
+          "hi": "कर निर्भय का घोष"
+        },
+        {
+          "no": 3,
+          "word": "நீப்பின் <br>(Neeppin)",
+          "ta": "பிரிந்து சென்றால்",
+          "en": "If he depart",
+          "hi": "छोड़ चलेंगे यदि"
+        },
+        {
+          "no": 4,
+          "word": "தெளித்த சொல் <br>(Theliththa Sol)",
+          "ta": "தெளியச் சொன்ன சொல்லை",
+          "en": "Reassuring word",
+          "hi": "दृढ़-वच"
+        },
+        {
+          "no": 5,
+          "word": "தேறியார்க்கு <br>(Theariyaarkku)",
+          "ta": "நம்பியவர்களுக்கு",
+          "en": "To those who trusted",
+          "hi": "विश्वासिनी को"
+        },
+        {
+          "no": 6,
+          "word": "உண்டோ <br>(Undoa)",
+          "ta": "உள்ளதோ",
+          "en": "Is there",
+          "hi": "है क्या"
+        },
+        {
+          "no": 7,
+          "word": "தவறு <br>(Thavaru)",
+          "ta": "குற்றம்",
+          "en": "Blame",
+          "hi": "दोष"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அளித்தஞ்ச லென்றவர் நீப்பிற் றெளித்தசொற்",
+          "line2": "றேறியார்க் குண்டோ தவறு"
+        },
+        "en": {
+          "line1": "If he depart, who fondly said, 'Fear not,' what blame 's incurred",
+          "line2": "By those who trusted to his reassuring word ?"
+        },
+        "hi": {
+          "line1": "छोड़ चलेंगे यदि सदय, कर निर्भय का घोष ।",
+          "line2": "जो दृढ़-वच विश्वासिनी, उसका है क्या दोष ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aliththanja Lenravar Neeppir Reliththasor",
+            "line2": "Reriyaark Kundo Thavaru"
+          },
+          "hi": {
+            "line1": "अळित्तञ्ज लॆन्द्रवर् नीप्पिऱ् ऱॆळित्तसॊऱ्",
+            "line2": "ऱेऱियार्क् कुण्डो तवऱु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "முன்பு அன்பு செய்து 'அஞ்சாதே' என்று தேற்றியவர் இப்போது பிரிந்து சென்றால், அவரது உறுதிமொழியை நம்பிய என்னிடம் என்ன தவறு உள்ளது?",
+        "en": "He lovingly promised I had nothing to fear—if he leaves anyway, how could anyone blame me for taking him at his word?",
+        "hi": "पहले प्रेमपूर्वक 'भय मत करो' कहकर आश्वासन देने वाले यदि अब छोड़कर चले जाएँ, तो उनके दृढ़ वचनों पर विश्वास करने वाली का क्या दोष है?"
+      }
+    },
+    {
+      "num": 1155,
+      "line1": "ஓம்பி னமைந்தார் பிரிவோம்பன் மற்றவர்",
+      "line2": "நீங்கி னரிதாற் புணர்வு",
+      "enLine1": "If you would guard my life, from going him restrain",
+      "enLine2": "Who fills my life ! If he depart, hardly we meet again.",
+      "hiLine1": "बचा सके तो यों बचा, जिससे चलें न नाथ ।",
+      "hiLine2": "फिर मिलना संभव नहीं, छोड़ गये यदि साथ ॥",
+      "general": "என் உயிரைக் காக்க விரும்பினால் என் தலைவரின் பிரிவைத் தடுத்து நிறுத்துங்கள்; அவர் பிரிந்து சென்றால் மீண்டும் சேர்வது அரிதாகும்.",
+      "en": "If you wish to save my life, prevent the departure of my beloved; if he goes away, our reunion will be impossible.",
+      "hi": "यदि मेरे प्राण बचाना चाहती हो, तो ऐसे प्रयास करो जिससे नाथ न जाएँ; यदि वे साथ छोड़कर चले गए, तो फिर से मिलन संभव नहीं होगा।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஓம்பின் <br>(Oambin)",
+          "ta": "காக்க விரும்பினால்",
+          "en": "If you would guard",
+          "hi": "बचा सके तो"
+        },
+        {
+          "no": 2,
+          "word": "அமைந்தார் <br>(Amaindhaar)",
+          "ta": "பொருந்திய தலைவரின்",
+          "en": "Who fills my life",
+          "hi": "नाथ का"
+        },
+        {
+          "no": 3,
+          "word": "பிரிவு <br>(Pirivu)",
+          "ta": "பிரிவை",
+          "en": "Going",
+          "hi": "जाना"
+        },
+        {
+          "no": 4,
+          "word": "ஓம்பல் <br>(Oambal)",
+          "ta": "தடுத்துக் காப்பாய்",
+          "en": "Restrain",
+          "hi": "यों बचा जिससे चलें न"
+        },
+        {
+          "no": 5,
+          "word": "மற்று அவர் <br>(Matru Avar)",
+          "ta": "அவர்",
+          "en": "If he",
+          "hi": "यदि वे"
+        },
+        {
+          "no": 6,
+          "word": "நீங்கின் <br>(Neengin)",
+          "ta": "பிரிந்து சென்றால்",
+          "en": "Depart",
+          "hi": "छोड़ गये साथ"
+        },
+        {
+          "no": 7,
+          "word": "அரிதால் புணர்வு <br>(Aridhaal Punarvu)",
+          "ta": "சேர்தல் அரிது",
+          "en": "Hardly we meet again",
+          "hi": "फिर मिलना संभव नहीं"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஓம்பி னமைந்தார் பிரிவோம்பன் மற்றவர்",
+          "line2": "நீங்கி னரிதாற் புணர்வு"
+        },
+        "en": {
+          "line1": "If you would guard my life, from going him restrain",
+          "line2": "Who fills my life ! If he depart, hardly we meet again."
+        },
+        "hi": {
+          "line1": "बचा सके तो यों बचा, जिससे चलें न नाथ ।",
+          "line2": "फिर मिलना संभव नहीं, छोड़ गये यदि साथ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Ombi Namaindhaar Pirivomban Matravar",
+            "line2": "Neenggi Naridhaar Punarvu"
+          },
+          "hi": {
+            "line1": "ओम्पि नमैन्दार् पिरिवोम्पन् मट्रवर्",
+            "line2": "नीङ्कि नरिताऱ् पुणर्वु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "என் உயிரைக் காக்க விரும்பினால் என் தலைவரின் பிரிவைத் தடுத்து நிறுத்துங்கள்; அவர் பிரிந்து சென்றால் மீண்டும் சேர்வது அரிதாகும்.",
+        "en": "If you want to keep me alive, stop him from leaving—once he goes, I won't survive long enough to see him return.",
+        "hi": "यदि मेरे प्राण बचाना चाहती हो, तो ऐसे प्रयास करो जिससे नाथ न जाएँ; यदि वे साथ छोड़कर चले गए, तो फिर से मिलन संभव नहीं होगा।"
+      }
+    },
+    {
+      "num": 1156,
+      "line1": "பிரிவுரைக்கும் வன்கண்ண ராயி னரிதவர்",
+      "line2": "நல்குவ ரென்னு நசை",
+      "enLine1": "To cherish longing hope that he should ever gracious be,",
+      "enLine2": "Is hard, when he could stand, and of departure speak to me.",
+      "hiLine1": "विरह बताने तक हुए, इतने निठुर समर्थ ।",
+      "hiLine2": "प्रेम करेंगे लौट कर, यह आशा है व्यर्थ ॥",
+      "general": "பிரிந்து செல்லப் போவதாக நேரில் சொல்லும் அளவுக்குக் கல்நெஞ்சம் உடையவராக அவர் இருப்பாரானால், திரும்பி வந்து அன்பு செய்வார் என்ற ஆசை வீணாகும்.",
+      "en": "If he is hard-hearted enough to speak of parting to my face, any hope that he will return and show affection is futile.",
+      "hi": "जब वे स्वयं विरह (प्रवास) की बात कहने तक के लिए इतने निष्ठुर हो गए हैं, तो वे लौटकर पुनः प्रेम करेंगे—यह आशा करना ही व्यर्थ है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பிரிவு உரைக்கும் <br>(Pirivu Uraikkum)",
+          "ta": "பிரிவைச் சொல்லும்",
+          "en": "Speak of departure",
+          "hi": "विरह बताने तक"
+        },
+        {
+          "no": 2,
+          "word": "வன்கண்ணர் <br>(Vankannar)",
+          "ta": "கல்நெஞ்சர்",
+          "en": "Hard-hearted",
+          "hi": "निठुर"
+        },
+        {
+          "no": 3,
+          "word": "ஆயின் <br>(Aayin)",
+          "ta": "ஆனால்",
+          "en": "When he is",
+          "hi": "हुए"
+        },
+        {
+          "no": 4,
+          "word": "அரிது <br>(Aridhu)",
+          "ta": "கிடைத்தற்கரியது",
+          "en": "Is hard",
+          "hi": "व्यर्थ है"
+        },
+        {
+          "no": 5,
+          "word": "அவர் நல்குவர் <br>(Avar Nalguvar)",
+          "ta": "அவர் அருள்வார்",
+          "en": "He should be gracious",
+          "hi": "प्रेम करेंगे लौट कर"
+        },
+        {
+          "no": 6,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்ற",
+          "en": "That",
+          "hi": "यह"
+        },
+        {
+          "no": 7,
+          "word": "நசை <br>(Nasai)",
+          "ta": "ஆசை",
+          "en": "Longing hope",
+          "hi": "आशा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பிரிவுரைக்கும் வன்கண்ண ராயி னரிதவர்",
+          "line2": "நல்குவ ரென்னு நசை"
+        },
+        "en": {
+          "line1": "To cherish longing hope that he should ever gracious be,",
+          "line2": "Is hard, when he could stand, and of departure speak to me."
+        },
+        "hi": {
+          "line1": "विरह बताने तक हुए, इतने निठुर समर्थ ।",
+          "line2": "प्रेम करेंगे लौट कर, यह आशा है व्यर्थ ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pirivuraikkum Vankanna Raayi Naridhavar",
+            "line2": "Nalkuva Rennu Nasai"
+          },
+          "hi": {
+            "line1": "पिरिवुरैक्कुम् वन्कण्ण रायि नरिदवर्",
+            "line2": "नल्गुव रॆन्नु नसै"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிரிந்து செல்லப் போவதாக நேரில் சொல்லும் அளவுக்குக் கல்நெஞ்சம் உடையவராக அவர் இருப்பாரானால், திரும்பி வந்து அன்பு செய்வார் என்ற ஆசை வீணாகும்.",
+        "en": "If he had the heart to tell me to my face that he's leaving, how can I possibly hold onto hope that he'll come back and love me?",
+        "hi": "जब वे स्वयं विरह (प्रवास) की बात कहने तक के लिए इतने निष्ठुर हो गए हैं, तो वे लौटकर पुनः प्रेम करेंगे—यह आशा करना ही व्यर्थ है।"
+      }
+    },
+    {
+      "num": 1157,
+      "line1": "துறைவன் றுறந்தமை தூற்றாகொன் முன்கை",
+      "line2": "யிறையிறவா நின்ற வளை",
+      "enLine1": "The bracelet slipping from my wrist announced before",
+      "enLine2": "Departure of the Prince that rules the ocean shore.",
+      "hiLine1": "नायक ने जो छोड़ कर, गमन किया, वह बात ।",
+      "hiLine2": "वलय कलाई से पतित, क्या न करें विख्यात ॥",
+      "general": "கடற்கரைத் தலைவன் என்னைப் பிரிந்து சென்ற செய்தியை, என் முன்கையின் சந்திலிருந்து நழுவி விழும் வளையல்கள் ஊரறியத் தூற்றிவிடாதோ?",
+      "en": "Do not the bracelets slipping down from my wrist proclaim to all that the lord of the seashore has forsaken me?",
+      "hi": "नायक ने जो मुझे छोड़कर प्रवास किया है, क्या कलाई से खिसकते हुए ये कंगन उस बात को सबके सामने प्रकट नहीं कर देंगे?",
+      "words": [
+        {
+          "no": 1,
+          "word": "துறைவன் <br>(Thuraivan)",
+          "ta": "கடற்கரைத் தலைவன்",
+          "en": "Prince of the shore",
+          "hi": "नायक ने"
+        },
+        {
+          "no": 2,
+          "word": "துறந்தமை <br>(Thurandhamai)",
+          "ta": "பிரிந்ததை",
+          "en": "Departure",
+          "hi": "छोड़ कर गमन किया"
+        },
+        {
+          "no": 3,
+          "word": "தூற்றாகொல் <br>(Thootraagoal)",
+          "ta": "ஊரறியச் சொல்லிவிடாதோ",
+          "en": "Announced",
+          "hi": "क्या न करें विख्यात"
+        },
+        {
+          "no": 4,
+          "word": "முன்கை <br>(Munkai)",
+          "ta": "முன்கையில்",
+          "en": "Wrist",
+          "hi": "कलाई से"
+        },
+        {
+          "no": 5,
+          "word": "இறை <br>(Irai)",
+          "ta": "சந்திலிருந்து",
+          "en": "Joint",
+          "hi": "जोड़ से"
+        },
+        {
+          "no": 6,
+          "word": "இறவா நின்ற <br>(Iravaa Nindra)",
+          "ta": "நழுவி விழுகின்ற",
+          "en": "Slipping",
+          "hi": "पतित"
+        },
+        {
+          "no": 7,
+          "word": "வளை <br>(Valai)",
+          "ta": "வளையல்",
+          "en": "Bracelet",
+          "hi": "वलय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "துறைவன் றுறந்தமை தூற்றாகொன் முன்கை",
+          "line2": "யிறையிறவா நின்ற வளை"
+        },
+        "en": {
+          "line1": "The bracelet slipping from my wrist announced before",
+          "line2": "Departure of the Prince that rules the ocean shore."
+        },
+        "hi": {
+          "line1": "नायक ने जो छोड़ कर, गमन किया, वह बात ।",
+          "line2": "वलय कलाई से पतित, क्या न करें विख्यात ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thuraivan Rurandhamai Thootraagon Munkai",
+            "line2": "Yiraiyiravaa Ninra Valai"
+          },
+          "hi": {
+            "line1": "तुरैवन् ऱुऱन्दमै तूट्रागॊन् मुन्कै",
+            "line2": "यिऱैयिऱवा निन्द्र वळै"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "கடற்கரைத் தலைவன் என்னைப் பிரிந்து சென்ற செய்தியை, என் முன்கையின் சந்திலிருந்து நழுவி விழும் வளையல்கள் ஊரறியத் தூற்றிவிடாதோ?",
+        "en": "My bangles are slipping off my thinning wrists—they've already given away the secret that he's left me!",
+        "hi": "नायक ने जो मुझे छोड़कर प्रवास किया है, क्या कलाई से खिसकते हुए ये कंगन उस बात को सबके सामने प्रकट नहीं कर देंगे?"
+      }
+    },
+    {
+      "num": 1158,
+      "line1": "இன்னா தினனிலூர் வாழ்த லதனினு",
+      "line2": "மின்னா தினியார்ப் பிரிவு",
+      "enLine1": "'Tis sad to sojourn in the town where no kind kinsmen dwell ;",
+      "enLine2": "'Tis sadder still to bid a friend beloved farewell.",
+      "hiLine1": "उस पुर में रहना दुखद, जहाँ न साथिन लोग ।",
+      "hiLine2": "उससे भी बढ़ कर दुखद, प्रिय से रहा वियोग ॥",
+      "general": "உற்றார் உறவினரும் தோழியரும் இல்லாத ஊரில் வாழ்வது துன்பமானது; அதைவிடப் பெருந்துன்பமானது இனிய காதலரைப் பிரிந்து வாழ்வதாகும்.",
+      "en": "Painful is it to live in a town where there are no friends or kinsmen; even more painful than that is separation from one's beloved.",
+      "hi": "जिस नगर में अपने मित्र या प्रियजन न हों, वहाँ रहना दुःखदायी होता है; परंतु उससे भी अधिक दुःखदायी अपने प्रियतम से वियोग होना है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "இன்னாது <br>(Innaadhu)",
+          "ta": "துன்பமானது",
+          "en": "'Tis sad",
+          "hi": "दुखद है"
+        },
+        {
+          "no": 2,
+          "word": "இனன் இல் ஊர் <br>(Inan Il Oor)",
+          "ta": "சுற்றத்தார் இல்லாத ஊரில்",
+          "en": "Town with no kinsmen",
+          "hi": "पुर जहाँ न साथिन लोग"
+        },
+        {
+          "no": 3,
+          "word": "வாழ்தல் <br>(Vaazhdhal)",
+          "ta": "வாழ்வது",
+          "en": "To sojourn",
+          "hi": "रहना"
+        },
+        {
+          "no": 4,
+          "word": "அதனினும் <br>(Adhaninum)",
+          "ta": "அதை விடவும்",
+          "en": "Than that",
+          "hi": "उससे भी बढ़ कर"
+        },
+        {
+          "no": 5,
+          "word": "இன்னாது <br>(Innaadhu)",
+          "ta": "மிகத் துன்பமானது",
+          "en": "'Tis sadder still",
+          "hi": "दुखद"
+        },
+        {
+          "no": 6,
+          "word": "இனியார் <br>(Iniyaar)",
+          "ta": "இனிய காதலரை",
+          "en": "A friend beloved",
+          "hi": "प्रिय से"
+        },
+        {
+          "no": 7,
+          "word": "பிரிவு <br>(Pirivu)",
+          "ta": "பிரிதல்",
+          "en": "Farewell",
+          "hi": "वियोग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "இன்னா தினனிலூர் வாழ்த லதனினு",
+          "line2": "மின்னா தினியார்ப் பிரிவு"
+        },
+        "en": {
+          "line1": "'Tis sad to sojourn in the town where no kind kinsmen dwell ;",
+          "line2": "'Tis sadder still to bid a friend beloved farewell."
+        },
+        "hi": {
+          "line1": "उस पुर में रहना दुखद, जहाँ न साथिन लोग ।",
+          "line2": "उससे भी बढ़ कर दुखद, प्रिय से रहा वियोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Innaa Thinaniloor Vaazhtha Ladhaninu",
+            "line2": "Minnaa Thiniyaarp Pirivu"
+          },
+          "hi": {
+            "line1": "इन्ना दिननिलूर् वाऴ्द लदनिनु",
+            "line2": "मिन्ना दिनियार्प् पिरिवु"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உற்றார் உறவினரும் தோழியரும் இல்லாத ஊரில் வாழ்வது துன்பமானது; அதைவிடப் பெருந்துன்பமானது இனிய காதலரைப் பிரிந்து வாழ்வதாகும்.",
+        "en": "Living in a town without friends or family is lonely enough, but being separated from the one you love hurts far worse.",
+        "hi": "जिस नगर में अपने मित्र या प्रियजन न हों, वहाँ रहना दुःखदायी होता है; परंतु उससे भी अधिक दुःखदायी अपने प्रियतम से वियोग होना है।"
+      }
+    },
+    {
+      "num": 1159,
+      "line1": "தொடிற்சுடி னல்லது காமநோய் போல",
+      "line2": "விடிற்சுட லாற்றுமோ தீ",
+      "enLine1": "Fire burns the hands that touch ; but smart of love",
+      "enLine2": "Will burn in hearts that far away remove.",
+      "hiLine1": "छूने पर ही तो जला, सकती है, बस आग ।",
+      "hiLine2": "काम-ज्वर सम वह जला, सकती क्या, कर त्याग ॥",
+      "general": "நெருப்பு தன்னைத் தொட்டால் மட்டுமே சுடும்; ஆனால் காமநோயைப் போலப் பிரிந்து விலகியிருக்கும் போதும் சுடும் வல்லமை நெருப்புக்கு உண்டோ?",
+      "en": "Fire burns only when touched; can fire ever burn from afar when left behind, like the pangs of love?",
+      "hi": "अग्नि तो केवल छूने पर ही जला सकती है; क्या वह विरह के काम-ज्वर की तरह दूर रहने पर (त्याग करने पर) भी जला सकती है?",
+      "words": [
+        {
+          "no": 1,
+          "word": "தொடின் <br>(Thodin)",
+          "ta": "தொட்டால்",
+          "en": "That touch",
+          "hi": "छूने पर ही"
+        },
+        {
+          "no": 2,
+          "word": "சுடின் அல்லது <br>(Sudin Alladhu)",
+          "ta": "சுடுமே அல்லாமல்",
+          "en": "Burns only",
+          "hi": "जला सकती है"
+        },
+        {
+          "no": 3,
+          "word": "காமநோய் போல <br>(Kaamanoi Poala)",
+          "ta": "காதல் நோயைப் போல",
+          "en": "Like smart of love",
+          "hi": "काम-ज्वर सम"
+        },
+        {
+          "no": 4,
+          "word": "விடின் <br>(Vidin)",
+          "ta": "விலகிச் சென்றால்",
+          "en": "When far away",
+          "hi": "कर त्याग"
+        },
+        {
+          "no": 5,
+          "word": "சுடல் <br>(Sudal)",
+          "ta": "சுடுதல்",
+          "en": "To burn",
+          "hi": "जला"
+        },
+        {
+          "no": 6,
+          "word": "ஆற்றுமோ <br>(Aatrumoa)",
+          "ta": "வல்லமை உடையதோ",
+          "en": "Can it",
+          "hi": "सकती क्या"
+        },
+        {
+          "no": 7,
+          "word": "தீ <br>(Thee)",
+          "ta": "நெருப்பு",
+          "en": "Fire",
+          "hi": "आग"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "தொடிற்சுடி னல்லது காமநோய் போல",
+          "line2": "விடிற்சுட லாற்றுமோ தீ"
+        },
+        "en": {
+          "line1": "Fire burns the hands that touch ; but smart of love",
+          "line2": "Will burn in hearts that far away remove."
+        },
+        "hi": {
+          "line1": "छूने पर ही तो जला, सकती है, बस आग ।",
+          "line2": "काम-ज्वर सम वह जला, सकती क्या, कर त्याग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Thodirsudi Nalladhu Kaamanoy Pola",
+            "line2": "Vidirsuda Laatrumo Thee"
+          },
+          "hi": {
+            "line1": "तॊडिऱ्चुडि नल्लदु कामनोय् पोल",
+            "line2": "विडिऱ्चुड लाट्रुमो ती"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நெருப்பு தன்னைத் தொட்டால் மட்டுமே சுடும்; ஆனால் காமநோயைப் போலப் பிரிந்து விலகியிருக்கும் போதும் சுடும் வல்லமை நெருப்புக்கு உண்டோ?",
+        "en": "Ordinary fire only burns you if you touch it—unlike the fire of love, which scorches you the most when the other person walks away.",
+        "hi": "अग्नि तो केवल छूने पर ही जला सकती है; क्या वह विरह के काम-ज्वर की तरह दूर रहने पर (त्याग करने पर) भी जला सकती है?"
+      }
+    },
+    {
+      "num": 1160,
+      "line1": "அரிதாற்றி யல்லனோய் நீக்கிப் பிரிவாற்றிப்",
+      "line2": "பின்னிருந்து வாழ்வார் பலர்",
+      "enLine1": "Sorrow's sadness meek sustaining, Driving sore distress away,",
+      "enLine2": "Separation uncomplaining Many bear the livelong day !",
+      "hiLine1": "दुखद विरह को मानती, चिन्ता; व्याधि न नेक ।",
+      "hiLine2": "विरह-वेदना सहन कर, जीवित रहीं अनेक ॥",
+      "general": "தாங்குதற்கு அரிய பிரிவுத் துன்பத்தைத் தாங்கி, மனக்கவலையை நீக்கி, தலைவரின் பிரிவைப் பொறுத்து உயிர் வாழ்கின்ற பெண்கள் உலகில் பலர் உள்ளனர் (என்று தோழி ஆற்றுவித்தாள்).",
+      "en": "There are many who patiently endure the hard pangs of separation, cast off their sore distress, and live on after their beloved's departure.",
+      "hi": "विरह के कठिन दुःख को सहन करके और मन की व्याधि (चिंता) को दूर रखकर, प्रिय के जाने के बाद भी जीवित रहने वाली अनेक स्त्रियाँ हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அரிது ஆற்றி <br>(Aridhu Aatri)",
+          "ta": "பொறுத்தற்கரியதைப் பொறுத்து",
+          "en": "Meek sustaining",
+          "hi": "सहन कर"
+        },
+        {
+          "no": 2,
+          "word": "அல்லல் நோய் <br>(Allal Noi)",
+          "ta": "துன்ப நோயை",
+          "en": "Sore distress",
+          "hi": "व्याधि"
+        },
+        {
+          "no": 3,
+          "word": "நீக்கி <br>(Neekki)",
+          "ta": "போக்கி",
+          "en": "Driving away",
+          "hi": "दूर रखकर"
+        },
+        {
+          "no": 4,
+          "word": "பிரிவு ஆற்றி <br>(Pirivu Aatri)",
+          "ta": "பிரிவைத் தாங்கி",
+          "en": "Bearing separation",
+          "hi": "विरह-वेदना सहन कर"
+        },
+        {
+          "no": 5,
+          "word": "பின் இருந்து <br>(Pin Irundhu)",
+          "ta": "பிரிந்த பின்பும் இருந்து",
+          "en": "Staying behind",
+          "hi": "बाद भी"
+        },
+        {
+          "no": 6,
+          "word": "வாழ்வார் <br>(Vaazhvaar)",
+          "ta": "உயிர் வாழ்வோர்",
+          "en": "Who live on",
+          "hi": "जीवित रहीं"
+        },
+        {
+          "no": 7,
+          "word": "பலர் <br>(Palar)",
+          "ta": "பலர் உள்ளனர்",
+          "en": "Many",
+          "hi": "अनेक"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அரிதாற்றி யல்லனோய் நீக்கிப் பிரிவாற்றிப்",
+          "line2": "பின்னிருந்து வாழ்வார் பலர்"
+        },
+        "en": {
+          "line1": "Sorrow's sadness meek sustaining, Driving sore distress away,",
+          "line2": "Separation uncomplaining Many bear the livelong day !"
+        },
+        "hi": {
+          "line1": "दुखद विरह को मानती, चिन्ता; व्याधि न नेक ।",
+          "line2": "विरह-वेदना सहन कर, जीवित रहीं अनेक ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aridhaatri Yallanoy Neekkip Pirivaatrip",
+            "line2": "Pinnirundhu Vaazhvaar Palar"
+          },
+          "hi": {
+            "line1": "अरिदाट्रि यल्लनोय् नीक्किप् पिरिवाट्रिप्",
+            "line2": "पिन्निरुन्दु वाऴ्वार् पलर्"
+          }
+        }
+      },
+      "explanation": {
+        "ta": "தாங்குதற்கு அரிய பிரிவுத் துன்பத்தைத் தாங்கி, மனக்கவலையை நீக்கி, தலைவரின் பிரிவைப் பொறுத்து உயிர் வாழ்கின்ற பெண்கள் உலகில் பலர் உள்ளனர்.",
+        "en": "There are plenty of people who quietly endure the pain of being apart, push aside their grief, and manage to keep living until their loved one returns.",
+        "hi": "विरह के कठिन दुःख को सहन करके और मन की व्याधि (चिंता) को दूर रखकर, प्रिय के जाने के बाद भी जीवित रहने वाली अनेक स्त्रियाँ हैं।"
+      }
+    }
+  ]
+}

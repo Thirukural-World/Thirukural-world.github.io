@@ -1,0 +1,930 @@
+{
+  "chapterNum": 102,
+  "nameTa": "நாணுடைமை",
+  "nameEn": "Shame",
+  "nameHi": "लज्जाशीलता",
+  "paal": "பொருட்பால்",
+  "iyal": "ஒழிபியல்",
+  "kurals": [
+    {
+      "num": 1011,
+      "line1": "கருமத்தா னாணுத னாணுத் திருநுத",
+      "line2": "னல்லவர் நாணுப் பிற.",
+      "enLine1": "To shrink abashed from evil deed is 'generous shame';",
+      "enLine2": "Other is that of bright-browed ones of virtuous fame.",
+      "hiLine1": "लज्जित होना कर्म से, लज्जा रही बतौर ।",
+      "hiLine2": "सुमुखी कुलांगना-सुलभ, लज्जा है कुछ और ॥",
+      "general": "செய்யத்தகாத தீய செயலைச் செய்ய அஞ்சி நாணுவதே உண்மையான நாணம்; அழகிய நெற்றியையுடைய பெண்களிடம் காணப்படும் நாணம் வேறு வகையானது.",
+      "en": "Shrinking back with moral modesty from wrongdoing is true sense of shame; the shyness of noble women is of a different kind.",
+      "hi": "अनुचित कर्म करने से लज्जित होना ही वास्तविक लज्जा (संकोच) है; सुन्दर मुख वाली कुलांगनाओं की लज्जा इससे भिन्न प्रकार की होती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "கருமத்தான் <br>(Karumaththaan)",
+          "ta": "செய்யத்தகாத செயலால்",
+          "en": "From evil deed",
+          "hi": "कर्म से"
+        },
+        {
+          "no": 2,
+          "word": "நாணுதல் <br>(Naanudhal)",
+          "ta": "வெட்கப்படுதல்",
+          "en": "To shrink abashed",
+          "hi": "लज्जित होना"
+        },
+        {
+          "no": 3,
+          "word": "நாணு <br>(Naanu)",
+          "ta": "உண்மையான நாணம்",
+          "en": "Generous shame",
+          "hi": "लज्जा रही बतौर"
+        },
+        {
+          "no": 4,
+          "word": "திருநுதல் <br>(Thirunudhal)",
+          "ta": "அழகிய நெற்றியுடைய",
+          "en": "Bright-browed ones",
+          "hi": "सुमुखी"
+        },
+        {
+          "no": 5,
+          "word": "நல்லவர் <br>(Nallavar)",
+          "ta": "பெண்களின்",
+          "en": "Of virtuous fame",
+          "hi": "कुलांगना-सुलभ"
+        },
+        {
+          "no": 6,
+          "word": "நாணு <br>(Naanu)",
+          "ta": "நாணம்",
+          "en": "Shame",
+          "hi": "लज्जा"
+        },
+        {
+          "no": 7,
+          "word": "பிற <br>(Pira)",
+          "ta": "வேறானவை",
+          "en": "Other",
+          "hi": "है कुछ और"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "கருமத்தா னாணுத னாணுத் திருநுத",
+          "line2": "னல்லவர் நாணுப் பிற."
+        },
+        "en": {
+          "line1": "To shrink abashed from evil deed is 'generous shame';",
+          "line2": "Other is that of bright-browed ones of virtuous fame."
+        },
+        "hi": {
+          "line1": "लज्जित होना कर्म से, लज्जा रही बतौर ।",
+          "line2": "सुमुखी कुलांगना-सुलभ, लज्जा है कुछ और ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Karumaththaa Naanudha Naanuth Thirunudha",
+            "line2": "Nallavar Naanup Pira."
+          },
+          "hi": {
+            "line1": "करुमत्ता णाणुद णाणुत् तिरुनुद",
+            "line2": "नल्लवर् नाणुप् पिर."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "செய்யத்தகாத தீய செயலைச் செய்ய அஞ்சி நாணுவதே உண்மையான நாணம்; அழகிய நெற்றியையுடைய பெண்களிடம் காணப்படும் நாணம் வேறு வகையானது.",
+        "en": "True moral modesty means hesitating to do wrong—it's different from everyday social shyness.",
+        "hi": "अनुचित कर्म करने से लज्जित होना ही वास्तविक लज्जा (संकोच) है; सुन्दर मुख वाली कुलांगनाओं की लज्जा इससे भिन्न प्रकार की होती है।"
+      }
+    },
+    {
+      "num": 1012,
+      "line1": "ஊணுடை யெச்ச முயிர்க்கெல்லாம் வேறல்ல",
+      "line2": "நாணுடைமை மாந்தர் சிறப்பு.",
+      "enLine1": "Food, clothes, and other things alike all beings own ;",
+      "enLine2": "By sense of shame the excellence of men is known.",
+      "hiLine1": "अन्न वस्त्र इत्यादि हैं, सब के लिये समान ।",
+      "hiLine2": "सज्जन की है श्रेष्ठता, होना लज्जावान ॥",
+      "general": "உணவு, உடை முதலிய மற்ற தேவைகள் எல்லா உயிர்களுக்கும் பொதுவானவையே; ஆனால் நாணுடைமையே மனிதர்களுக்குரிய தனிச் சிறப்பாகும்.",
+      "en": "Food, clothing, and basic needs are common to all living beings; a sense of moral shame is what distinguishes human excellence.",
+      "hi": "भोजन, वस्त्र आदि आवश्यकताएँ तो सभी प्राणियों के लिए समान हैं, परन्तु सज्जन मनुष्यों की वास्तविक श्रेष्ठता लज्जाशील होने में ही है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊண் <br>(Oon)",
+          "ta": "உணவு",
+          "en": "Food",
+          "hi": "अन्न"
+        },
+        {
+          "no": 2,
+          "word": "உடை <br>(Udai)",
+          "ta": "உடை",
+          "en": "Clothes",
+          "hi": "वस्त्र"
+        },
+        {
+          "no": 3,
+          "word": "எச்சம் <br>(Echcham)",
+          "ta": "மற்றவை",
+          "en": "Other things",
+          "hi": "इत्यादि हैं"
+        },
+        {
+          "no": 4,
+          "word": "உயிர்க்கு எல்லாம் <br>(Uyirkku ellaam)",
+          "ta": "எல்லா உயிர்களுக்கும்",
+          "en": "All beings",
+          "hi": "सब के लिये"
+        },
+        {
+          "no": 5,
+          "word": "வேறு அல்ல <br>(Veru alla)",
+          "ta": "வேறுபாடு இல்லை",
+          "en": "Alike",
+          "hi": "समान"
+        },
+        {
+          "no": 6,
+          "word": "நாணுடைமை <br>(Naanudaimai)",
+          "ta": "நாணுடைமையே",
+          "en": "Sense of shame",
+          "hi": "होना लज्जावान"
+        },
+        {
+          "no": 7,
+          "word": "மாந்தர் சிறப்பு <br>(Maandhar sirappu)",
+          "ta": "மனிதர்களின் சிறப்பு",
+          "en": "Excellence of men",
+          "hi": "सज्जन की श्रेष्ठता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊணுடை யெச்ச முயிர்க்கெல்லாம் வேறல்ல",
+          "line2": "நாணுடைமை மாந்தர் சிறப்பு."
+        },
+        "en": {
+          "line1": "Food, clothes, and other things alike all beings own ;",
+          "line2": "By sense of shame the excellence of men is known."
+        },
+        "hi": {
+          "line1": "अन्न वस्त्र इत्यादि हैं, सब के लिये समान ।",
+          "line2": "सज्जन की है श्रेष्ठता, होना लज्जावान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oonudai Yechcha Muyirkkellaam Veralla",
+            "line2": "Naanudaimai Maandhar Sirappu."
+          },
+          "hi": {
+            "line1": "ऊणुडै यॆच्च मुयिर्क्कॆल्लाम् वेरल्ल",
+            "line2": "नाणुडैमै मान्दर् सिरप्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உணவு, உடை முதலிய மற்ற தேவைகள் எல்லா உயிர்களுக்கும் பொதுவானவையே; ஆனால் நாணுடைமையே மனிதர்களுக்குரிய தனிச் சிறப்பாகும்.",
+        "en": "Everyone shares basic needs like food and shelter, but having a conscience is what truly sets great people apart.",
+        "hi": "भोजन, वस्त्र आदि आवश्यकताएँ तो सभी प्राणियों के लिए समान हैं, परन्तु सज्जन मनुष्यों की वास्तविक श्रेष्ठता लज्जाशील होने में ही है।"
+      }
+    },
+    {
+      "num": 1013,
+      "line1": "ஊனைக் குறித்த வுயிரெல்லா நாணென்னு",
+      "line2": "நன்மை குறித்தது சால்பு.",
+      "enLine1": "All spirits homes of flesh as habitation claim,",
+      "enLine2": "And perfect virtue ever dwells with shame.",
+      "hiLine1": "सभी प्राणियों के लिये, आश्रय तो है देह ।",
+      "hiLine2": "रखती है गुण-पूर्णता, लज्जा का शुभ गेह ॥",
+      "general": "எல்லா உயிர்களும் உடலைத் தமக்கு இருப்பிடமாகக் கொண்டுள்ளன; அதுபோலச் சான்றாண்மை என்னும் நற்பண்பு நாணம் என்னும் நன்மையைத் தன் இருப்பிடமாகக் கொண்டுள்ளது.",
+      "en": "Just as every living soul dwells within a body of flesh, noble perfection of character dwells within the virtue of shame.",
+      "hi": "जिस प्रकार सभी प्राणियों का निवास स्थान शरीर (देह) है, उसी प्रकार सर्वगुण-पूर्णता (सज्जनता) सदैव लज्जा रूपी शुभ घर में निवास करती है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "ஊனைக் குறித்த <br>(Oonaik kuriththa)",
+          "ta": "உடலைப் பற்றியுள்ள",
+          "en": "Homes of flesh",
+          "hi": "आश्रय तो है देह"
+        },
+        {
+          "no": 2,
+          "word": "உயிர் எல்லாம் <br>(Uyir ellaam)",
+          "ta": "எல்லா உயிர்களும்",
+          "en": "All spirits",
+          "hi": "सभी प्राणियों के लिये"
+        },
+        {
+          "no": 3,
+          "word": "நாண் என்னும் <br>(Naan ennum)",
+          "ta": "நாணம் என்னும்",
+          "en": "With shame",
+          "hi": "लज्जा का"
+        },
+        {
+          "no": 4,
+          "word": "நன்மை <br>(Nanmai)",
+          "ta": "நன்மையை",
+          "en": "Goodness",
+          "hi": "शुभ"
+        },
+        {
+          "no": 5,
+          "word": "குறித்தது <br>(Kuriththadhu)",
+          "ta": "இருப்பிடமாகக் கொண்டது",
+          "en": "Dwells",
+          "hi": "रखती है गेह"
+        },
+        {
+          "no": 6,
+          "word": "சால்பு <br>(Saalbu)",
+          "ta": "சான்றாண்மை",
+          "en": "Perfect virtue",
+          "hi": "गुण-पूर्णता"
+        },
+        {
+          "no": 7,
+          "word": "இருப்பிடம் <br>(Iruppidam)",
+          "ta": "இருப்பிடம்",
+          "en": "Habitation",
+          "hi": "आश्रय"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "ஊனைக் குறித்த வுயிரெல்லா நாணென்னு",
+          "line2": "நன்மை குறித்தது சால்பு."
+        },
+        "en": {
+          "line1": "All spirits homes of flesh as habitation claim,",
+          "line2": "And perfect virtue ever dwells with shame."
+        },
+        "hi": {
+          "line1": "सभी प्राणियों के लिये, आश्रय तो है देह ।",
+          "line2": "रखती है गुण-पूर्णता, लज्जा का शुभ गेह ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Oonaik Kuriththa Vuyirellaa Naanennu",
+            "line2": "Nanmai Kuriththadhu Saalpu."
+          },
+          "hi": {
+            "line1": "ऊनैक् कुरित्त वुयिरॆल्ला नाणॆन्नु",
+            "line2": "नन्मै कुरित्तदु साल्बु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லா உயிர்களும் உடலைத் தமக்கு இருப்பிடமாகக் கொண்டுள்ளன; அதுபோலச் சான்றாண்மை என்னும் நற்பண்பு நாணம் என்னும் நன்மையைத் தன் இருப்பிடமாகக் கொண்டுள்ளது.",
+        "en": "Just as life lives inside a body, great character lives inside a healthy sense of conscience.",
+        "hi": "जिस प्रकार सभी प्राणियों का निवास स्थान शरीर (देह) है, उसी प्रकार सर्वगुण-पूर्णता (सज्जनता) सदैव लज्जा रूपी शुभ घर में निवास करती है।"
+      }
+    },
+    {
+      "num": 1014,
+      "line1": "அணியன்றோ நாணுடைமை சான்றோர்க் கஃதின்றேற்",
+      "line2": "பிணியன்றோ பீடு நடை.",
+      "enLine1": "And is not shame an ornament to men of dignity ?",
+      "enLine2": "Without it step of stately pride is piteous thing to see.",
+      "hiLine1": "भूषण महानुभाव का, क्या नहिं लज्जा-भाव ।",
+      "hiLine2": "उसके बिन गंभीर गति, क्या नहिं रोग-तनाव ॥",
+      "general": "சான்றோர்களுக்கு நாணுடைமை ஒரு சிறந்த அணிகலன் அல்லவா? அந்நாணம் இல்லாவிட்டால் அவர்களின் பெருமிதமான நடை ஒரு நோயல்லவா?",
+      "en": "Is not moral shame a true ornament for the noble? Without it, a proud and stately walk is nothing but a disease.",
+      "hi": "क्या लज्जा का भाव महानुभावों (सज्जनों) का आभूषण नहीं है? इसके बिना तो उनकी गम्भीर चाल भी एक रोग के समान ही है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அணி அன்றோ <br>(Ani andro)",
+          "ta": "அணிகலன் அல்லவா",
+          "en": "Is not an ornament",
+          "hi": "भूषण क्या नहिं"
+        },
+        {
+          "no": 2,
+          "word": "நாணுடைமை <br>(Naanudaimai)",
+          "ta": "நாணம் உடைமை",
+          "en": "Shame",
+          "hi": "लज्जा-भाव"
+        },
+        {
+          "no": 3,
+          "word": "சான்றோர்க்கு <br>(Saandrorkku)",
+          "ta": "சான்றோர்களுக்கு",
+          "en": "To men of dignity",
+          "hi": "महानुभाव का"
+        },
+        {
+          "no": 4,
+          "word": "அஃது இன்றேல் <br>(Agdhu indrel)",
+          "ta": "அது இல்லாவிட்டால்",
+          "en": "Without it",
+          "hi": "उसके बिन"
+        },
+        {
+          "no": 5,
+          "word": "பிணி அன்றோ <br>(Pini andro)",
+          "ta": "நோய் அல்லவா",
+          "en": "Piteous thing",
+          "hi": "क्या नहिं रोग-तनाव"
+        },
+        {
+          "no": 6,
+          "word": "பீடு <br>(Peedu)",
+          "ta": "பெருமை",
+          "en": "Stately pride",
+          "hi": "गंभीर"
+        },
+        {
+          "no": 7,
+          "word": "நடை <br>(Nadai)",
+          "ta": "நடை",
+          "en": "Step",
+          "hi": "गति"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அணியன்றோ நாணுடைமை சான்றோர்க் கஃதின்றேற்",
+          "line2": "பிணியன்றோ பீடு நடை."
+        },
+        "en": {
+          "line1": "And is not shame an ornament to men of dignity ?",
+          "line2": "Without it step of stately pride is piteous thing to see."
+        },
+        "hi": {
+          "line1": "भूषण महानुभाव का, क्या नहिं लज्जा-भाव ।",
+          "line2": "उसके बिन गंभीर गति, क्या नहिं रोग-तनाव ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Aniyanro Naanudaimai Saanrork Kahdhinrer",
+            "line2": "Piniyanro Peedu Nadai."
+          },
+          "hi": {
+            "line1": "अणियन्द्रो नाणुडैमै सान्द्रोर्क् कग्दिन्द्रेर्",
+            "line2": "पिणियन्द्रो पीडु नडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "சான்றோர்களுக்கு நாணுடைமை ஒரு சிறந்த அணிகலன் அல்லவா? அந்நாணம் இல்லாவிட்டால் அவர்களின் பெருமிதமான நடை ஒரு நோயல்லவா?",
+        "en": "Humility and conscience are what make dignity look good—without them, strutting around with pride is just embarrassing.",
+        "hi": "क्या लज्जा का भाव महानुभावों (सज्जनों) का आभूषण नहीं है? इसके बिना तो उनकी गम्भीर चाल भी एक रोग के समान ही है।"
+      }
+    },
+    {
+      "num": 1015,
+      "line1": "பிறர்பழியுந் தம்பழியு நாணுவார் நாணுக்",
+      "line2": "குறைபதி யென்னு முலகு.",
+      "enLine1": "As home of virtuous shame by all the world the men are known,",
+      "enLine2": "Who feel ashamed for others' guilt as for their own.",
+      "hiLine1": "लज्जित है, जो देख निज, तथा पराया दोष ।",
+      "hiLine2": "उनको कहता है जगत, 'यह लज्जा का कोष' ॥",
+      "general": "பிறருக்கு ஏற்படும் பழிக்காகவும் தமக்கு ஏற்படும் பழிக்காகவும் நாணுகின்றவர்களை, நாணத்தின் இருப்பிடம் என்று உலகம் போற்றும்.",
+      "en": "The world calls those people the very home of virtuous shame who feel ashamed not only for their own faults but also for the faults of others.",
+      "hi": "जो लोग अपने दोष के साथ-साथ दूसरों के दोष देखकर भी लज्जित होते हैं, उन्हें सारा संसार 'लज्जा का भण्डार (कोष)' कहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பிறர் பழியும் <br>(Pirar pazhiyum)",
+          "ta": "பிறருக்கு வரும் பழியும்",
+          "en": "Others' guilt",
+          "hi": "पराया दोष"
+        },
+        {
+          "no": 2,
+          "word": "தம் பழியும் <br>(Tham pazhiyum)",
+          "ta": "தமக்கு வரும் பழியும்",
+          "en": "Their own",
+          "hi": "निज"
+        },
+        {
+          "no": 3,
+          "word": "நாணுவார் <br>(Naanuvaar)",
+          "ta": "கண்டு நாணுபவரை",
+          "en": "Who feel ashamed",
+          "hi": "लज्जित है"
+        },
+        {
+          "no": 4,
+          "word": "நாணுக்கு <br>(Naanukku)",
+          "ta": "நாணத்திற்கு",
+          "en": "Of virtuous shame",
+          "hi": "लज्जा का"
+        },
+        {
+          "no": 5,
+          "word": "உறைபதி <br>(Uraipadhi)",
+          "ta": "உறைவிடம்",
+          "en": "Home",
+          "hi": "कोष"
+        },
+        {
+          "no": 6,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்று கூறும்",
+          "en": "Are known",
+          "hi": "कहता है"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "जगत"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பிறர்பழியுந் தம்பழியு நாணுவார் நாணுக்",
+          "line2": "குறைபதி யென்னு முலகு."
+        },
+        "en": {
+          "line1": "As home of virtuous shame by all the world the men are known,",
+          "line2": "Who feel ashamed for others' guilt as for their own."
+        },
+        "hi": {
+          "line1": "लज्जित है, जो देख निज, तथा पराया दोष ।",
+          "line2": "उनको कहता है जगत, 'यह लज्जा का कोष' ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pirarpazhiyun Thambazhiyu Naanuvaar Naanuk",
+            "line2": "Kuraibadhi Yennu Mulagu."
+          },
+          "hi": {
+            "line1": "पिरर्पऴियुन् तम्पऴियु नाणुवार् नाणुक्",
+            "line2": "कुरैपदि यॆन्नु मुलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறருக்கு ஏற்படும் பழிக்காகவும் தமக்கு ஏற்படும் பழிக்காகவும் நாணுகின்றவர்களை, நாணத்தின் இருப்பிடம் என்று உலகம் போற்றும்.",
+        "en": "Truly empathetic people feel embarrassed not just when they mess up, but even when someone else is humiliated.",
+        "hi": "जो लोग अपने दोष के साथ-साथ दूसरों के दोष देखकर भी लज्जित होते हैं, उन्हें सारा संसार 'लज्जा का भण्डार (कोष)' कहता है।"
+      }
+    },
+    {
+      "num": 1016,
+      "line1": "நாண்வேலி கொள்ளாது மன்னோ வியன்ஞாலம்",
+      "line2": "பேணலர் மேலா யவர்.",
+      "enLine1": "Unless the hedge of shame inviolate remain,",
+      "enLine2": "For men of lofty soul the earth's vast realms no charms retain.",
+      "hiLine1": "लज्जा को घेरा किये, बिना सुरक्षण-योग ।",
+      "hiLine2": "चाहेंगे नहिं श्रेष्ठ जन, विस्तृत जग का भोग ॥",
+      "general": "மேலான சான்றோர்கள், நாணம் என்னும் வேலியைத் தமக்குப் பாதுகாப்பாகக் கொள்ளாமல் இந்தப் பரந்த உலகத்தின் இன்பங்களை விரும்ப மாட்டார்கள்.",
+      "en": "Noble souls will not care for the pleasures of this wide world unless they are protected within the boundary of moral shame.",
+      "hi": "श्रेष्ठ जन लज्जा रूपी बाड़ (घेरे) की सुरक्षा के बिना इस विस्तृत संसार के सुखों का भोग करना कभी नहीं चाहते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நாண் வேலி <br>(Naan veli)",
+          "ta": "நாணம் என்னும் வேலியை",
+          "en": "Hedge of shame",
+          "hi": "लज्जा को घेरा किये"
+        },
+        {
+          "no": 2,
+          "word": "கொள்ளாது <br>(Kollaadhu)",
+          "ta": "பாதுகாப்பாகக் கொள்ளாமல்",
+          "en": "Unless remain",
+          "hi": "बिना सुरक्षण-योग"
+        },
+        {
+          "no": 3,
+          "word": "மன்னோ <br>(Manno)",
+          "ta": "நிச்சயமாக",
+          "en": "Inviolate",
+          "hi": "निश्चय ही"
+        },
+        {
+          "no": 4,
+          "word": "வியன் ஞாலம் <br>(Viyan gnaalam)",
+          "ta": "பரந்த உலகத்தை",
+          "en": "Earth's vast realms",
+          "hi": "विस्तृत जग का भोग"
+        },
+        {
+          "no": 5,
+          "word": "பேணலர் <br>(Penalar)",
+          "ta": "விரும்ப மாட்டார்",
+          "en": "No charms retain",
+          "hi": "चाहेंगे नहिं"
+        },
+        {
+          "no": 6,
+          "word": "மேலாயவர் <br>(Melaayavar)",
+          "ta": "மேலான சான்றோர்",
+          "en": "Men of lofty soul",
+          "hi": "श्रेष्ठ जन"
+        },
+        {
+          "no": 7,
+          "word": "பாதுகாப்பு <br>(Paadhugaappu)",
+          "ta": "பாதுகாப்பு",
+          "en": "Protection",
+          "hi": "सुरक्षा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாண்வேலி கொள்ளாது மன்னோ வியன்ஞாலம்",
+          "line2": "பேணலர் மேலா யவர்."
+        },
+        "en": {
+          "line1": "Unless the hedge of shame inviolate remain,",
+          "line2": "For men of lofty soul the earth's vast realms no charms retain."
+        },
+        "hi": {
+          "line1": "लज्जा को घेरा किये, बिना सुरक्षण-योग ।",
+          "line2": "चाहेंगे नहिं श्रेष्ठ जन, विस्तृत जग का भोग ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naanveli Kollaadhu Manno Viyannyaalam",
+            "line2": "Penalar Melaa Yavar."
+          },
+          "hi": {
+            "line1": "नाण्वेलि कॊळ्ळादु मन्नो वियञ्ञालम्",
+            "line2": "पेणलर् मेला यवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மேலான சான்றோர்கள், நாணம் என்னும் வேலியைத் தமக்குப் பாதுகாப்பாகக் கொள்ளாமல் இந்தப் பரந்த உலகத்தின் இன்பங்களை விரும்ப மாட்டார்கள்.",
+        "en": "People of high character won't chase worldly rewards if it means stepping outside the guardrails of decency.",
+        "hi": "श्रेष्ठ जन लज्जा रूपी बाड़ (घेरे) की सुरक्षा के बिना इस विस्तृत संसार के सुखों का भोग करना कभी नहीं चाहते।"
+      }
+    },
+    {
+      "num": 1017,
+      "line1": "நாணா லுயிரைத் துறப்ப ருயிர்பொருட்டா",
+      "line2": "னாண்டுறவார் நாணாள் பவர்.",
+      "enLine1": "The men of modest soul for shame would life an offering make,",
+      "enLine2": "But ne'er abandon virtuous shame for life's dear sake.",
+      "hiLine1": "लज्जा-पालक त्याग दें, लज्जा के हित प्राण ।",
+      "hiLine2": "लज्जा को छोड़ें नहीं, रक्षित रखने जान ॥",
+      "general": "நாணத்தைக் காக்கும் இயல்புடைய சான்றோர்கள் நாணத்திற்காகத் தம் உயிரையும் விட்டுவிடுவார்களே தவிர, உயிரைக் காப்பதற்காக நாணத்தை விட மாட்டார்கள்.",
+      "en": "Those who guard their sense of shame would rather give up their lives for honor than abandon shame just to save their lives.",
+      "hi": "लज्जा का पालन करने वाले सज्जन मर्यादा (लज्जा) की रक्षा के लिए अपने प्राण भले ही त्याग दें, पर प्राण बचाने के लिए कभी लज्जा नहीं छोड़ते।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நாணால் <br>(Naanaal)",
+          "ta": "நாணத்தைக் காக்க",
+          "en": "For shame",
+          "hi": "लज्जा के हित"
+        },
+        {
+          "no": 2,
+          "word": "உயிரைத் துறப்பர் <br>(Uyiraith thurappar)",
+          "ta": "உயிரையும் விட்டுவிடுவர்",
+          "en": "Would life offering make",
+          "hi": "त्याग दें प्राण"
+        },
+        {
+          "no": 3,
+          "word": "உயிர் பொருட்டால் <br>(Uyir poruttaal)",
+          "ta": "உயிரைக் காக்கும் பொருட்டு",
+          "en": "For life's dear sake",
+          "hi": "रक्षित रखने जान"
+        },
+        {
+          "no": 4,
+          "word": "நாண் <br>(Naan)",
+          "ta": "நாணத்தை",
+          "en": "Virtuous shame",
+          "hi": "लज्जा को"
+        },
+        {
+          "no": 5,
+          "word": "துறவார் <br>(Thuravaar)",
+          "ta": "விடமாட்டார்",
+          "en": "Ne'er abandon",
+          "hi": "छोड़ें नहीं"
+        },
+        {
+          "no": 6,
+          "word": "நாண் ஆள்பவர் <br>(Naan aalbavar)",
+          "ta": "நாணத்தைக் காப்பவர்",
+          "en": "Men of modest soul",
+          "hi": "लज्जा-पालक"
+        },
+        {
+          "no": 7,
+          "word": "மானம் <br>(Maanam)",
+          "ta": "மானம்",
+          "en": "Honor",
+          "hi": "मर्यादा"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாணா லுயிரைத் துறப்ப ருயிர்பொருட்டா",
+          "line2": "னாண்டுறவார் நாணாள் பவர்."
+        },
+        "en": {
+          "line1": "The men of modest soul for shame would life an offering make,",
+          "line2": "But ne'er abandon virtuous shame for life's dear sake."
+        },
+        "hi": {
+          "line1": "लज्जा-पालक त्याग दें, लज्जा के हित प्राण ।",
+          "line2": "लज्जा को छोड़ें नहीं, रक्षित रखने जान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naanaa Luyiraith Thurappa Ruyirporuttaa",
+            "line2": "Naanduravaar Naanaal Pavar."
+          },
+          "hi": {
+            "line1": "नाणा लुयिरैत् तुरप्प रुयिर्पॊरुट्टा",
+            "line2": "नाण्डुरवार् नाणाळ् पवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நாணத்தைக் காக்கும் இயல்புடைய சான்றோர்கள் நாணத்திற்காகத் தம் உயிரையும் விட்டுவிடுவார்களே தவிர, உயிரைக் காப்பதற்காக நாணத்தை விட மாட்டார்கள்.",
+        "en": "People of true integrity would rather lose everything—even life itself—than compromise their self-respect just to get by.",
+        "hi": "लज्जा का पालन करने वाले सज्जन मर्यादा (लज्जा) की रक्षा के लिए अपने प्राण भले ही त्याग दें, पर प्राण बचाने के लिए कभी लज्जा नहीं छोड़ते।"
+      }
+    },
+    {
+      "num": 1018,
+      "line1": "பிறர்நாணத் தக்கது தானாணா னாயி",
+      "line2": "னறநாணத் தக்க துடைத்து.",
+      "enLine1": "Thou know'st no shame, while all around ashamed must be :",
+      "enLine2": "Virtue will shrink away ashamed of thee !",
+      "hiLine1": "अन्यों को लज्जित करे, करते ऐसे कर्म ।",
+      "hiLine2": "उससे खुद लज्जित नहीं, तो लज्जित हो धर्म ॥",
+      "general": "பிறர் வெட்கப்படத்தக்க செயலைச் செய்தும் தான் வெட்கப்படாமல் இருப்பானானால், அறக்கடவுளும் அவனைக் கண்டு வெட்கப்படும்படியான இழிநிலை உண்டாகும்.",
+      "en": "If a person feels no shame for actions that make everyone else blush, then virtue itself will turn away ashamed of them.",
+      "hi": "यदि कोई व्यक्ति ऐसे कर्म करता है जिनसे दूसरों को लज्जित होना पड़े, और फिर भी वह स्वयं लज्जित न हो, तो धर्म भी उससे लज्जित होकर दूर हट जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பிறர் <br>(Pirar)",
+          "ta": "மற்றவர்கள்",
+          "en": "All around",
+          "hi": "अन्यों को"
+        },
+        {
+          "no": 2,
+          "word": "நாணத்தக்கது <br>(Naanaththakkadhu)",
+          "ta": "வெட்கப்படத்தக்க செயலை",
+          "en": "Ashamed must be",
+          "hi": "लज्जित करे ऐसे कर्म"
+        },
+        {
+          "no": 3,
+          "word": "தான் <br>(Thaan)",
+          "ta": "தான்",
+          "en": "Thou",
+          "hi": "खुद"
+        },
+        {
+          "no": 4,
+          "word": "நாணான் ஆயின் <br>(Naanaan aayin)",
+          "ta": "நாணாமல் இருந்தால்",
+          "en": "Know'st no shame",
+          "hi": "लज्जित नहीं"
+        },
+        {
+          "no": 5,
+          "word": "அறம் <br>(Aram)",
+          "ta": "அறம்",
+          "en": "Virtue",
+          "hi": "धर्म"
+        },
+        {
+          "no": 6,
+          "word": "நாணத்தக்கது <br>(Naanaththakkadhu)",
+          "ta": "வெட்கப்படத்தக்க",
+          "en": "Ashamed of thee",
+          "hi": "लज्जित हो"
+        },
+        {
+          "no": 7,
+          "word": "உடைத்து <br>(Udaiththu)",
+          "ta": "தன்மையுடையது",
+          "en": "Will shrink away",
+          "hi": "तो"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பிறர்நாணத் தக்கது தானாணா னாயி",
+          "line2": "னறநாணத் தக்க துடைத்து."
+        },
+        "en": {
+          "line1": "Thou know'st no shame, while all around ashamed must be :",
+          "line2": "Virtue will shrink away ashamed of thee !"
+        },
+        "hi": {
+          "line1": "अन्यों को लज्जित करे, करते ऐसे कर्म ।",
+          "line2": "उससे खुद लज्जित नहीं, तो लज्जित हो धर्म ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Pirarnaanath Thakkadhu Thaanaanaa Naayi",
+            "line2": "Naranaanath Thakka Thudaiththu."
+          },
+          "hi": {
+            "line1": "पिरर्नाणत् तक्कदु तानाणा नायि",
+            "line2": "नरनाणत् तक्क दुडैत्तु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "பிறர் வெட்கப்படத்தக்க செயலைச் செய்தும் தான் வெட்கப்படாமல் இருப்பானானால், அறக்கடவுளும் அவனைக் கண்டு வெட்கப்படும்படியான இழிநிலை உண்டாகும்.",
+        "en": "When you do things that embarrass everyone else and don't even flinch, ethics itself walks away from you.",
+        "hi": "यदि कोई व्यक्ति ऐसे कर्म करता है जिनसे दूसरों को लज्जित होना पड़े, और फिर भी वह स्वयं लज्जित न हो, तो धर्म भी उससे लज्जित होकर दूर हट जाता है।"
+      }
+    },
+    {
+      "num": 1019,
+      "line1": "குலஞ்சுடுங் கொள்கை பிழைப்பி னலஞ்சுடு",
+      "line2": "நாணின்மை நின்றக் கடை.",
+      "enLine1": "'Twill race consume if right observance fail ;",
+      "enLine2": "'Twill every good consume if shamelessness prevail.",
+      "hiLine1": "यदि चूके सिद्धान्त से, तो होगा कुल नष्ट ।",
+      "hiLine2": "स्थाई हो निर्लज्जता, तो हों सब गुण नष्ट ॥",
+      "general": "நல்ல ஒழுக்கக் கொள்கையிலிருந்து தவறினால் அது குலத்தின் பெருமையை அழிக்கும்; நாணமின்மை நிலைத்துவிட்டால் எல்லா நலன்களையும் அழித்துவிடும்.",
+      "en": "Failing in right principles ruins one's family honor; letting shamelessness take root destroys every single good quality.",
+      "hi": "यदि मनुष्य अपने उत्तम सिद्धान्त से चूक जाए तो उसका कुल नष्ट हो जाता है, और यदि उसमें निर्लज्जता घर कर जाए तो उसके सारे सद्गुण नष्ट हो जाते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "குலம் சுடும் <br>(Kulam sudum)",
+          "ta": "குலப் பெருமையை அழிக்கும்",
+          "en": "Race consume",
+          "hi": "होगा कुल नष्ट"
+        },
+        {
+          "no": 2,
+          "word": "கொள்கை <br>(Kolgai)",
+          "ta": "நல்லொழுக்கக் கொள்கை",
+          "en": "Right observance",
+          "hi": "सिद्धान्त से"
+        },
+        {
+          "no": 3,
+          "word": "பிழைப்பின் <br>(Pizhaippin)",
+          "ta": "தவறினால்",
+          "en": "If fail",
+          "hi": "यदि चूके"
+        },
+        {
+          "no": 4,
+          "word": "நலம் சுடும் <br>(Nalam sudum)",
+          "ta": "எல்லா நலனையும் அழிக்கும்",
+          "en": "Every good consume",
+          "hi": "हों सब गुण नष्ट"
+        },
+        {
+          "no": 5,
+          "word": "நாணின்மை <br>(Naaninmai)",
+          "ta": "நாணமில்லாத தன்மை",
+          "en": "Shamelessness",
+          "hi": "निर्लज्जता"
+        },
+        {
+          "no": 6,
+          "word": "நின்றக்கடை <br>(Nindrakkadai)",
+          "ta": "நிலைத்துவிட்டால்",
+          "en": "If prevail",
+          "hi": "स्थाई हो"
+        },
+        {
+          "no": 7,
+          "word": "அழிவு <br>(Azhivu)",
+          "ta": "அழிவு",
+          "en": "Ruin",
+          "hi": "नाश"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "குலஞ்சுடுங் கொள்கை பிழைப்பி னலஞ்சுடு",
+          "line2": "நாணின்மை நின்றக் கடை."
+        },
+        "en": {
+          "line1": "'Twill race consume if right observance fail ;",
+          "line2": "'Twill every good consume if shamelessness prevail."
+        },
+        "hi": {
+          "line1": "यदि चूके सिद्धान्त से, तो होगा कुल नष्ट ।",
+          "line2": "स्थाई हो निर्लज्जता, तो हों सब गुण नष्ट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Kulanjudung Kolkai Pizhaippi Nalanjudu",
+            "line2": "Naaninmai Ninrak Kadai."
+          },
+          "hi": {
+            "line1": "कुलञ्चुडुङ् गॊळ्गै पिऴैप्पि नलञ्चुडु",
+            "line2": "नाणिन्मै निन्द्रक् कडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நல்ல ஒழுக்கக் கொள்கையிலிருந்து தவறினால் அது குலத்தின் பெருமையை அழிக்கும்; நாணமின்மை நிலைத்துவிட்டால் எல்லா நலன்களையும் அழித்துவிடும்.",
+        "en": "Dropping your principles tarnishes your name, but losing all sense of shame burns down every good trait you have.",
+        "hi": "यदि मनुष्य अपने उत्तम सिद्धान्त से चूक जाए तो उसका कुल नष्ट हो जाता है, और यदि उसमें निर्लज्जता घर कर जाए तो उसके सारे सद्गुण नष्ट हो जाते हैं।"
+      }
+    },
+    {
+      "num": 1020,
+      "line1": "நாணகத் தில்லா ரியக்க மரப்பாவை",
+      "line2": "நாணா லுயிர்மருட்டி யற்று.",
+      "enLine1": "'Tis as with strings a wooden puppet apes life's functions, when",
+      "enLine2": "Those void of shame within hold intercourse with men.",
+      "hiLine1": "कठपुतली में सूत्र से, है जीवन-आभास ।",
+      "hiLine2": "त्यों है लज्जाहीन में, चैतन्य का निवास ॥",
+      "general": "உள்ளத்தில் நாணம் இல்லாதவர்களின் வாழ்க்கை இயக்கம், மரப்பாவையைக் கயிற்றால் கட்டி ஆட்டி உயிருள்ளதாக மயங்கச் செய்வதைப் போன்றதாகும்.",
+      "en": "The actions of those who have no sense of shame within are like a wooden puppet moved by strings to imitate living beings.",
+      "hi": "जिस प्रकार सूत्र (धागे) के सहारे नाचती हुई कठपुतली में जीवन का केवल आभास मात्र होता है, उसी प्रकार लज्जाहीन व्यक्ति का व्यवहार भी केवल दिखावा मात्र है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நாண் அகத்து <br>(Naan agaththu)",
+          "ta": "உள்ளத்தில் நாணம்",
+          "en": "Shame within",
+          "hi": "लज्जा"
+        },
+        {
+          "no": 2,
+          "word": "இல்லார் <br>(Illaar)",
+          "ta": "இல்லாதவரின்",
+          "en": "Those void of",
+          "hi": "लज्जाहीन में"
+        },
+        {
+          "no": 3,
+          "word": "இயக்கம் <br>(Iyakkam)",
+          "ta": "செயல்பாடு",
+          "en": "Intercourse",
+          "hi": "चैतन्य का निवास"
+        },
+        {
+          "no": 4,
+          "word": "மரப்பாவை <br>(Marappaavai)",
+          "ta": "மரப்பாவையை",
+          "en": "Wooden puppet",
+          "hi": "कठपुतली में"
+        },
+        {
+          "no": 5,
+          "word": "நாணால் <br>(Naanaal)",
+          "ta": "கயிற்றால்",
+          "en": "With strings",
+          "hi": "सूत्र से"
+        },
+        {
+          "no": 6,
+          "word": "உயிர் மருட்டியற்று <br>(Uyir maruttiyatru)",
+          "ta": "உயிர்போல மயக்கியது போன்றது",
+          "en": "Apes life's functions",
+          "hi": "है जीवन-आभास"
+        },
+        {
+          "no": 7,
+          "word": "பொம்மை <br>(Bommai)",
+          "ta": "பொம்மை",
+          "en": "Puppet",
+          "hi": "पुतली"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நாணகத் தில்லா ரியக்க மரப்பாவை",
+          "line2": "நாணா லுயிர்மருட்டி யற்று."
+        },
+        "en": {
+          "line1": "'Tis as with strings a wooden puppet apes life's functions, when",
+          "line2": "Those void of shame within hold intercourse with men."
+        },
+        "hi": {
+          "line1": "कठपुतली में सूत्र से, है जीवन-आभास ।",
+          "line2": "त्यों है लज्जाहीन में, चैतन्य का निवास ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Naanagath Thillaa Riyakka Marappaavai",
+            "line2": "Naanaa Luyirmarutti Yatru."
+          },
+          "hi": {
+            "line1": "नाणगत् तिल्ला रियक्क मरप्पावै",
+            "line2": "नाणा लुयिर्मरुट्टि यत्र्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உள்ளத்தில் நாணம் இல்லாதவர்களின் வாழ்க்கை இயக்கம், மரப்பாவையைக் கயிற்றால் கட்டி ஆட்டி உயிருள்ளதாக மயங்கச் செய்வதைப் போன்றதாகும்.",
+        "en": "Someone moving through life without a conscience is just going through mechanical motions, like a wooden marionette on strings.",
+        "hi": "जिस प्रकार सूत्र (धागे) के सहारे नाचती हुई कठपुतली में जीवन का केवल आभास मात्र होता है, उसी प्रकार लज्जाहीन व्यक्ति का व्यवहार भी केवल दिखावा मात्र है।"
+      }
+    }
+  ]
+}

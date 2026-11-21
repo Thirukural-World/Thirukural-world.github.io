@@ -1,0 +1,930 @@
+{
+  "chapterNum": 100,
+  "nameTa": "பண்புடைமை",
+  "nameEn": "Courtesy",
+  "nameHi": "शिष्टाचार",
+  "paal": "பொருட்பால்",
+  "iyal": "ஒழிபியல்",
+  "kurals": [
+    {
+      "num": 991,
+      "line1": "எண்பதத்தா லெய்த லெளிதென்ப யார்மாட்டும்",
+      "line2": "பண்புடைமை யென்னும் வழக்கு.",
+      "enLine1": "Who easy access give to every man, they say,",
+      "enLine2": "Of kindly courtesy will learn with ease the way.",
+      "hiLine1": "मिलनसार रहते अगर, सब लोगों को मान ।",
+      "hiLine2": "पाना शिष्टाचार है, कहते हैं आसान ॥",
+      "general": "யாரிடத்தும் எளிமையாகப் பழகும் தன்மை உடையவர்களுக்குப் பண்புடைமை என்னும் நன்னெறியை அடைவது எளிது என்று அறிஞர் கூறுவர்.",
+      "en": "Those who are easily approachable to everyone find it easy to attain the way of true courtesy.",
+      "hi": "विद्वान कहते हैं कि जो लोग सभी को मान देते हुए मिलनसार रहते हैं, उनके लिए शिष्टाचार (सद्गुण) प्राप्त करना आसान होता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "எண்பதத்தால் <br>(Enpadhaththaal)",
+          "ta": "எளிமையாகப் பழகுவதால்",
+          "en": "Easy access",
+          "hi": "मिलनसार रहते"
+        },
+        {
+          "no": 2,
+          "word": "எய்தல் <br>(Eydhal)",
+          "ta": "அடைதல்",
+          "en": "Will learn",
+          "hi": "पाना"
+        },
+        {
+          "no": 3,
+          "word": "எளிது என்ப <br>(Elidhu enba)",
+          "ta": "எளிது என்று கூறுவர்",
+          "en": "With ease, they say",
+          "hi": "कहते हैं आसान"
+        },
+        {
+          "no": 4,
+          "word": "யார்மாட்டும் <br>(Yaarmaattum)",
+          "ta": "யாரிடத்தும்",
+          "en": "To every man",
+          "hi": "सब लोगों को"
+        },
+        {
+          "no": 5,
+          "word": "பண்புடைமை <br>(Panbudaimai)",
+          "ta": "பண்புடைமை",
+          "en": "Kindly courtesy",
+          "hi": "शिष्टाचार"
+        },
+        {
+          "no": 6,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்று சொல்லப்படும்",
+          "en": "Called",
+          "hi": "है"
+        },
+        {
+          "no": 7,
+          "word": "வழக்கு <br>(Vazhakku)",
+          "ta": "நன்னெறி",
+          "en": "The way",
+          "hi": "व्यवहार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "எண்பதத்தா லெய்த லெளிதென்ப யார்மாட்டும்",
+          "line2": "பண்புடைமை யென்னும் வழக்கு."
+        },
+        "en": {
+          "line1": "Who easy access give to every man, they say,",
+          "line2": "Of kindly courtesy will learn with ease the way."
+        },
+        "hi": {
+          "line1": "मिलनसार रहते अगर, सब लोगों को मान ।",
+          "line2": "पाना शिष्टाचार है, कहते हैं आसान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Enpadhaththaa Leytha Lelidhenpa Yaarmaattum",
+            "line2": "Panpudaimai Yennum Vazhakku."
+          },
+          "hi": {
+            "line1": "ऎण्पदत्ता लॆय्द लॆळिदॆन्ब यार्माट्टुम्",
+            "line2": "पण्पुडैमै यॆन्नुम् वऴक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "யாரிடத்தும் எளிமையாகப் பழகும் தன்மை உடையவர்களுக்குப் பண்புடைமை என்னும் நன்னெறியை அடைவது எளிது என்று அறிஞர் கூறுவர்.",
+        "en": "Being approachable and warm with everyone makes genuine courtesy effortless to master.",
+        "hi": "विद्वान कहते हैं कि जो लोग सभी को मान देते हुए मिलनसार रहते हैं, उनके लिए शिष्टाचार (सद्गुण) प्राप्त करना आसान होता है।"
+      }
+    },
+    {
+      "num": 992,
+      "line1": "அன்புடைமை யான்ற குடிப்பிறத்த லிவ்விரண்டும்",
+      "line2": "பண்புடைமை யென்னும் வழக்கு.",
+      "enLine1": "Benevolence and high-born dignity,",
+      "enLine2": "These two are beaten paths of courtesy.",
+      "hiLine1": "उत्तम कुल में जन्म औ', प्रेम पूर्ण व्यवहार ।",
+      "hiLine2": "दोनों शिष्टाचार के, हैं ही श्रेष्ठ प्रकार ॥",
+      "general": "எல்லாரிடத்தும் அன்புடையவராக இருத்தலும், உயர்ந்த குடிப்பிறப்புக்கு உரிய ஒழுக்கமும் ஆகிய இவ்விரண்டும் பண்புடைமை என்னும் நன்னெறியாகும்.",
+      "en": "Having love for all and possessing noble, dignified conduct—these two together form the true path of courtesy.",
+      "hi": "उत्तम कुल की मर्यादा के अनुरूप आचरण और सबसे प्रेमपूर्ण व्यवहार—ये दोनों ही शिष्टाचार के श्रेष्ठ रूप हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அன்புடைமை <br>(Anbudaimai)",
+          "ta": "அன்புடையவராக இருத்தல்",
+          "en": "Benevolence",
+          "hi": "प्रेम पूर्ण व्यवहार"
+        },
+        {
+          "no": 2,
+          "word": "ஆன்ற <br>(Aandra)",
+          "ta": "உயர்ந்த",
+          "en": "High-born",
+          "hi": "उत्तम"
+        },
+        {
+          "no": 3,
+          "word": "குடிப்பிறத்தல் <br>(Kudippiraththal)",
+          "ta": "குடிப்பிறப்புக்குரிய ஒழுக்கம்",
+          "en": "Dignity",
+          "hi": "कुल में जन्म"
+        },
+        {
+          "no": 4,
+          "word": "இவ்விரண்டும் <br>(Ivvirandum)",
+          "ta": "இந்த இரண்டும்",
+          "en": "These two",
+          "hi": "दोनों"
+        },
+        {
+          "no": 5,
+          "word": "பண்புடைமை <br>(Panbudaimai)",
+          "ta": "பண்புடைமை",
+          "en": "Courtesy",
+          "hi": "शिष्टाचार के"
+        },
+        {
+          "no": 6,
+          "word": "என்னும் <br>(Ennum)",
+          "ta": "என்று சொல்லப்படும்",
+          "en": "Called",
+          "hi": "हैं ही"
+        },
+        {
+          "no": 7,
+          "word": "வழக்கு <br>(Vazhakku)",
+          "ta": "நன்னெறி",
+          "en": "Beaten paths",
+          "hi": "श्रेष्ठ प्रकार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அன்புடைமை யான்ற குடிப்பிறத்த லிவ்விரண்டும்",
+          "line2": "பண்புடைமை யென்னும் வழக்கு."
+        },
+        "en": {
+          "line1": "Benevolence and high-born dignity,",
+          "line2": "These two are beaten paths of courtesy."
+        },
+        "hi": {
+          "line1": "उत्तम कुल में जन्म औ', प्रेम पूर्ण व्यवहार ।",
+          "line2": "दोनों शिष्टाचार के, हैं ही श्रेष्ठ प्रकार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Anbudaimai Aandra Kudippiraththal Ivvirandum",
+            "line2": "Panbudaimai Ennum Vazhakku."
+          },
+          "hi": {
+            "line1": "अन्बुडैमै यान्द्र कुडिप्पिरत्त लिव्विरण्डुम्",
+            "line2": "पण्पुडैमै यॆन्नुम् वऴक्कु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "எல்லாரிடத்தும் அன்புடையவராக இருத்தலும், உயர்ந்த குடிப்பிறப்புக்கு உரிய ஒழுக்கமும் ஆகிய இவ்விரண்டும் பண்புடைமை என்னும் நன்னெறியாகும்.",
+        "en": "Genuine warmth paired with dignified conduct is the surest path to real courtesy.",
+        "hi": "उत्तम कुल की मर्यादा के अनुरूप आचरण और सबसे प्रेमपूर्ण व्यवहार—ये दोनों ही शिष्टाचार के श्रेष्ठ रूप हैं।"
+      }
+    },
+    {
+      "num": 993,
+      "line1": "உறுப்பொத்தன் மக்களொப் பன்றால் வெறுத்தக்க",
+      "line2": "பண்பொத்த லொப்பதா மொப்பு.",
+      "enLine1": "Men are not one because their members seem alike to outward view ;",
+      "enLine2": "Similitude of kindred quality makes likeness true.",
+      "hiLine1": "न हो देह के मेल से, श्रेष्ठ जनों का मेल ।",
+      "hiLine2": "आत्माओं के योग्य तो, हैं संस्कृति का मेल ॥",
+      "general": "உடலின் உறுப்புகளால் ஒத்திருத்தல் மக்களின் ஒப்புமை ஆகாது; அறிஞரால் விரும்பத்தக்க பண்பால் ஒத்திருத்தலே உண்மையான ஒப்புமையாகும்.",
+      "en": "Physical resemblance does not make people truly alike; similarity in admirable character is what creates true kinship.",
+      "hi": "केवल शारीरिक बनावट की समानता से मनुष्यों में सच्ची समानता नहीं होती; सद्गुणों और संस्कारों की समानता ही आत्माओं का सच्चा मेल है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "உறுப்பு ஒத்தல் <br>(Uruppu oththal)",
+          "ta": "உடல் உறுப்புகளால் ஒத்திருத்தல்",
+          "en": "Members seem alike",
+          "hi": "देह के मेल से"
+        },
+        {
+          "no": 2,
+          "word": "மக்கள் ஒப்பு அன்றால் <br>(Makkal oppu andraal)",
+          "ta": "மக்களின் ஒப்புமை ஆகாது",
+          "en": "Men are not one",
+          "hi": "न हो श्रेष्ठ जनों का मेल"
+        },
+        {
+          "no": 3,
+          "word": "வெறுத்தக்க <br>(Veruththakka)",
+          "ta": "விரும்பத்தக்க",
+          "en": "Kindred",
+          "hi": "आत्माओं के योग्य"
+        },
+        {
+          "no": 4,
+          "word": "பண்பு <br>(Panbu)",
+          "ta": "நற்பண்பால்",
+          "en": "Quality",
+          "hi": "संस्कृति"
+        },
+        {
+          "no": 5,
+          "word": "ஒத்தல் <br>(Oththal)",
+          "ta": "ஒத்திருத்தலே",
+          "en": "Similitude",
+          "hi": "का मेल"
+        },
+        {
+          "no": 6,
+          "word": "ஒப்பதாம் <br>(Oppadhaam)",
+          "ta": "பொருந்தும்",
+          "en": "Makes",
+          "hi": "तो हैं"
+        },
+        {
+          "no": 7,
+          "word": "ஒப்பு <br>(Oppu)",
+          "ta": "உண்மையான ஒப்புமை",
+          "en": "Likeness true",
+          "hi": "सच्चा मेल"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "உறுப்பொத்தன் மக்களொப் பன்றால் வெறுத்தக்க",
+          "line2": "பண்பொத்த லொப்பதா மொப்பு."
+        },
+        "en": {
+          "line1": "Men are not one because their members seem alike to outward view ;",
+          "line2": "Similitude of kindred quality makes likeness true."
+        },
+        "hi": {
+          "line1": "न हो देह के मेल से, श्रेष्ठ जनों का मेल ।",
+          "line2": "आत्माओं के योग्य तो, हैं संस्कृति का मेल ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Uruppoththan Makkalop Panraal Veruththakka",
+            "line2": "Panpoththa Loppadhaa Moppu."
+          },
+          "hi": {
+            "line1": "उरुप्पॊत्तन् मक्कळॊप् पन्द्राल् वॆरुत्तक्क",
+            "line2": "पण्पॊत्त लॊप्पदा मॊप्पु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "உடலின் உறுப்புகளால் ஒத்திருத்தல் மக்களின் ஒப்புமை ஆகாது; அறிஞரால் விரும்பத்தக்க பண்பால் ஒத்திருத்தலே உண்மையான ஒப்புமையாகும்.",
+        "en": "Looking human doesn't make us equals in spirit—shared values and character are what truly unite people.",
+        "hi": "केवल शारीरिक बनावट की समानता से मनुष्यों में सच्ची समानता नहीं होती; सद्गुणों और संस्कारों की समानता ही आत्माओं का सच्चा मेल है।"
+      }
+    },
+    {
+      "num": 994,
+      "line1": "நயனொடு நன்றி புரிந்த பயனுடையார்",
+      "line2": "பண்புபா ராட்டு முலகு.",
+      "enLine1": "Of men of fruitful life, who kindly benefits dispense,",
+      "enLine2": "The world unites to praise the 'noble excellence.'",
+      "hiLine1": "नीति धर्म को चाहते, जो करते उपकार ।",
+      "hiLine2": "उनके शिष्ट स्वभाव को, सराहता संसार ॥",
+      "general": "நீதியோடு நன்மையையும் விரும்பிப் பிறருக்குப் பயன்படுமாறு வாழும் சான்றோர்களின் பண்பை உலகம் போற்றிப் பாராட்டும்.",
+      "en": "The world praises the courteous character of those whose lives are fruitful through justice and kindness to others.",
+      "hi": "जो लोग नीति और धर्म का पालन करते हुए दूसरों का उपकार करते हैं, उनके शिष्ट स्वभाव की सारा संसार सराहना करता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நயனொடு <br>(Nayanodu)",
+          "ta": "நீதியோடு",
+          "en": "Kindly",
+          "hi": "नीति धर्म को चाहते"
+        },
+        {
+          "no": 2,
+          "word": "நன்றி <br>(Nandri)",
+          "ta": "நன்மையை",
+          "en": "Benefits",
+          "hi": "उपकार"
+        },
+        {
+          "no": 3,
+          "word": "புரிந்த <br>(Purindha)",
+          "ta": "விரும்பிச் செய்த",
+          "en": "Dispense",
+          "hi": "जो करते"
+        },
+        {
+          "no": 4,
+          "word": "பயனுடையார் <br>(Payanudaiyaar)",
+          "ta": "பயனுள்ள வாழ்க்கையுடையவரின்",
+          "en": "Men of fruitful life",
+          "hi": "उनके"
+        },
+        {
+          "no": 5,
+          "word": "பண்பு <br>(Panbu)",
+          "ta": "பண்பை",
+          "en": "Noble excellence",
+          "hi": "शिष्ट स्वभाव को"
+        },
+        {
+          "no": 6,
+          "word": "பாராட்டும் <br>(Paaraattum)",
+          "ta": "புகழ்ந்து பாராட்டும்",
+          "en": "Unites to praise",
+          "hi": "सराहता"
+        },
+        {
+          "no": 7,
+          "word": "உலகு <br>(Ulagu)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "संसार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நயனொடு நன்றி புரிந்த பயனுடையார்",
+          "line2": "பண்புபா ராட்டு முலகு."
+        },
+        "en": {
+          "line1": "Of men of fruitful life, who kindly benefits dispense,",
+          "line2": "The world unites to praise the 'noble excellence.'"
+        },
+        "hi": {
+          "line1": "नीति धर्म को चाहते, जो करते उपकार ।",
+          "line2": "उनके शिष्ट स्वभाव को, सराहता संसार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nayanodu Nanri Purindha Payanudaiyaar",
+            "line2": "Panpubaa Raattu Mulagu."
+          },
+          "hi": {
+            "line1": "नयनॊडु नन्द्रि पुरिन्द पयनुडैयार्",
+            "line2": "पण्पुपा राट्टु मुलगु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நீதியோடு நன்மையையும் விரும்பிப் பிறருக்குப் பயன்படுமாறு வாழும் சான்றோர்களின் பண்பை உலகம் போற்றிப் பாராட்டும்.",
+        "en": "People who combine fairness with generosity earn lasting admiration everywhere they go.",
+        "hi": "जो लोग नीति और धर्म का पालन करते हुए दूसरों का उपकार करते हैं, उनके शिष्ट स्वभाव की सारा संसार सराहना करता है।"
+      }
+    },
+    {
+      "num": 995,
+      "line1": "நகையுள்ளு மின்னா திகழ்ச்சி பகையுள்ளும்",
+      "line2": "பண்புள பாடறிவார் மாட்டு.",
+      "enLine1": "Contempt is evil though in sport. They who man's nature know,",
+      "enLine2": "E'en in their wrath, a courteous mind will show.",
+      "hiLine1": "हँसी खेल में भी नहीं, निंदा करना इष्ट ।",
+      "hiLine2": "पर-स्वभाव जाता रहें, रिपुता में भी शिष्ट ॥",
+      "general": "விளையாட்டாகக்கூட ஒருவரை இகழ்ந்து பேசுவது துன்பம் தருவதாகும்; பிறர் இயல்பை அறிந்த சான்றோரிடம் பகைமையிலும் நற்பண்பு இருக்கும்.",
+      "en": "Mockery is painful even in jest; those who understand human nature remain courteous even toward their enemies.",
+      "hi": "हँसी-खेल में भी किसी की निन्दा या अपमान करना उचित नहीं है; दूसरों के स्वभाव को जानने वाले सज्जन शत्रुता में भी शिष्ट बने रहते हैं।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நகையுள்ளும் <br>(Nagaiyullum)",
+          "ta": "விளையாட்டிலும்",
+          "en": "Though in sport",
+          "hi": "हँसी खेल में भी"
+        },
+        {
+          "no": 2,
+          "word": "இன்னாது <br>(Innaadhu)",
+          "ta": "துன்பம் தருவது",
+          "en": "Is evil",
+          "hi": "नहीं इष्ट"
+        },
+        {
+          "no": 3,
+          "word": "இகழ்ச்சி <br>(Igazhchchi)",
+          "ta": "இகழ்தல்",
+          "en": "Contempt",
+          "hi": "निंदा करना"
+        },
+        {
+          "no": 4,
+          "word": "பகையுள்ளும் <br>(Pagaiyullum)",
+          "ta": "பகைமையிலும்",
+          "en": "E'en in their wrath",
+          "hi": "रिपुता में भी"
+        },
+        {
+          "no": 5,
+          "word": "பண்பு உள <br>(Panbu ula)",
+          "ta": "நற்பண்பு உண்டு",
+          "en": "Courteous mind will show",
+          "hi": "शिष्ट"
+        },
+        {
+          "no": 6,
+          "word": "பாடு அறிவார் <br>(Paadu arivaar)",
+          "ta": "பிறர் இயல்பை அறிந்தவர்",
+          "en": "Who man's nature know",
+          "hi": "पर-स्वभाव जाता"
+        },
+        {
+          "no": 7,
+          "word": "மாட்டு <br>(Maattu)",
+          "ta": "இடத்தில்",
+          "en": "With",
+          "hi": "रहे"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நகையுள்ளு மின்னா திகழ்ச்சி பகையுள்ளும்",
+          "line2": "பண்புள பாடறிவார் மாட்டு."
+        },
+        "en": {
+          "line1": "Contempt is evil though in sport. They who man's nature know,",
+          "line2": "E'en in their wrath, a courteous mind will show."
+        },
+        "hi": {
+          "line1": "हँसी खेल में भी नहीं, निंदा करना इष्ट ।",
+          "line2": "पर-स्वभाव जाता रहें, रिपुता में भी शिष्ट ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nagaiyullu Minnaa Thigazhchchi Pagaiyullum",
+            "line2": "Panpula Paadarivaar Maattu."
+          },
+          "hi": {
+            "line1": "नगैयुळ्ळु मिन्ना दिगऴ्च्चि पगैयुळ्ळुम्",
+            "line2": "पण्पुळ पाडरिमार् माट्टु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "விளையாட்டாகக்கூட ஒருவரை இகழ்ந்து பேசுவது துன்பம் தருவதாகும்; பிறர் இயல்பை அறிந்த சான்றோரிடம் பகைமையிலும் நற்பண்பு இருக்கும்.",
+        "en": "Put-downs hurt even when framed as a joke; emotionally intelligent people stay respectful even when they're angry or opposed to someone.",
+        "hi": "हँसी-खेल में भी किसी की निन्दा या अपमान करना उचित नहीं है; दूसरों के स्वभाव को जानने वाले सज्जन शत्रुता में भी शिष्ट बने रहते हैं।"
+      }
+    },
+    {
+      "num": 996,
+      "line1": "பண்புடையார் பட்டுண் டுலக மதுவின்றேன்",
+      "line2": "மண்புக்கு மாய்வது மன்.",
+      "enLine1": "The world abides; for 'worthy' men its weight sustain.",
+      "enLine2": "Were it not so, 'twould fall to dust again.",
+      "hiLine1": "शिष्टों के आधार पर, टिकता है संसार ।",
+      "hiLine2": "उनके बिन तो वह मिले, मिट्टी में निर्धार ॥",
+      "general": "நற்பண்பு உடையவர்களின் துணை இருப்பதால்தான் இவ்வுலகம் நிலைபெற்றுள்ளது; அது இல்லாவிட்டால் மண்ணுக்குள் புகுந்து அழிந்துவிடும்.",
+      "en": "The world endures because it is sustained by courteous and noble people; without them, it would perish into dust.",
+      "hi": "यह संसार शिष्ट और सद्गुणी लोगों के आधार पर ही टिका हुआ है; उनके बिना तो यह निश्चित ही मिट्टी में मिल जाए।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பண்புடையார் <br>(Panbudaiyaar)",
+          "ta": "நற்பண்பு உடையவரால்",
+          "en": "Worthy men",
+          "hi": "शिष्टों के आधार पर"
+        },
+        {
+          "no": 2,
+          "word": "பட்டு உண்டு <br>(Pattu undu)",
+          "ta": "நிலைபெற்று உள்ளது",
+          "en": "Abides",
+          "hi": "टिकता है"
+        },
+        {
+          "no": 3,
+          "word": "உலகம் <br>(Ulagam)",
+          "ta": "உலகம்",
+          "en": "The world",
+          "hi": "संसार"
+        },
+        {
+          "no": 4,
+          "word": "அது இன்றேல் <br>(Adhu indrel)",
+          "ta": "அது இல்லாவிட்டால்",
+          "en": "Were it not so",
+          "hi": "उनके बिन तो"
+        },
+        {
+          "no": 5,
+          "word": "மண்புக்கு <br>(Manpukku)",
+          "ta": "மண்ணுள் புகுந்து",
+          "en": "To dust",
+          "hi": "मिट्टी में"
+        },
+        {
+          "no": 6,
+          "word": "மாய்வது <br>(Maayvadhu)",
+          "ta": "அழிந்துவிடும்",
+          "en": "Fall",
+          "hi": "मिले"
+        },
+        {
+          "no": 7,
+          "word": "மன் <br>(Man)",
+          "ta": "நிச்சயமாக",
+          "en": "Again",
+          "hi": "निर्धार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பண்புடையார் பட்டுண் டுலக மதுவின்றேன்",
+          "line2": "மண்புக்கு மாய்வது மன்."
+        },
+        "en": {
+          "line1": "The world abides; for 'worthy' men its weight sustain.",
+          "line2": "Were it not so, 'twould fall to dust again."
+        },
+        "hi": {
+          "line1": "शिष्टों के आधार पर, टिकता है संसार ।",
+          "line2": "उनके बिन तो वह मिले, मिट्टी में निर्धार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Panpudaiyaar Pattun Dulaga Madhuvinren",
+            "line2": "Manpukku Maayvadhu Man."
+          },
+          "hi": {
+            "line1": "पण्पुडैयार् पट्टुण् डुलग मदुविन्द्रेन्",
+            "line2": "मण्पुक्कु माय्वदु मन्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நற்பண்பு உடையவர்களின் துணை இருப்பதால்தான் இவ்வுலகம் நிலைபெற்றுள்ளது; அது இல்லாவிட்டால் மண்ணுக்குள் புகுந்து அழிந்துவிடும்.",
+        "en": "Humanity holds together because of kind, principled people—without them, society would crumble.",
+        "hi": "यह संसार शिष्ट और सद्गुणी लोगों के आधार पर ही टिका हुआ है; उनके बिना तो यह निश्चित ही मिट्टी में मिल जाए।"
+      }
+    },
+    {
+      "num": 997,
+      "line1": "அரம்போலுங் கூர்மைய ரேனு மரம்போல்வர்",
+      "line2": "மக்கட்பண் பில்லா தவர்.",
+      "enLine1": "Though sharp their wit as file, as blocks they must remain,",
+      "enLine2": "Whose souls are void of 'courtesy humane.'",
+      "hiLine1": "यद्यपि हैं रेती सदृश, तीक्षण बुद्धि-निधान ।",
+      "hiLine2": "मानव-संस्कृति के बिना, नर हैं वृक्ष समान ॥",
+      "general": "அரத்தைப்போலக் கூர்மையான அறிவு உடையவரானாலும், மக்களுக்குரிய நற்பண்பு இல்லாதவர்கள் மரத்தைப் போன்றவர்களே ஆவர்.",
+      "en": "Even if their intellect is as sharp as a file, those who lack human courtesy are no better than lifeless blocks of wood.",
+      "hi": "यद्यपि मनुष्य की बुद्धि रेती के समान अत्यन्त तीक्ष्ण हो, फिर भी मानवोचित शिष्टाचार (संस्कृति) के बिना वह वृक्ष के समान जड़ ही है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "அரம் போலும் <br>(Aram polum)",
+          "ta": "அரத்தைப்போல",
+          "en": "As file",
+          "hi": "रेती सदृश"
+        },
+        {
+          "no": 2,
+          "word": "கூர்மையர் ஏனும் <br>(Koormaiyar enum)",
+          "ta": "கூரறிவு உடையவரானாலும்",
+          "en": "Though sharp their wit",
+          "hi": "यद्यपि तीक्षण बुद्धि-निधान"
+        },
+        {
+          "no": 3,
+          "word": "மரம் போல்வர் <br>(Maram polvar)",
+          "ta": "மரத்தைப் போன்றவர்",
+          "en": "As blocks remain",
+          "hi": "नर हैं वृक्ष समान"
+        },
+        {
+          "no": 4,
+          "word": "மக்கள் <br>(Makkal)",
+          "ta": "மனிதர்களுக்குரிய",
+          "en": "Humane",
+          "hi": "मानव"
+        },
+        {
+          "no": 5,
+          "word": "பண்பு <br>(Panbu)",
+          "ta": "நற்பண்பு",
+          "en": "Courtesy",
+          "hi": "संस्कृति"
+        },
+        {
+          "no": 6,
+          "word": "இல்லாதவர் <br>(Illaadhavar)",
+          "ta": "இல்லாதவர்",
+          "en": "Void of",
+          "hi": "के बिना"
+        },
+        {
+          "no": 7,
+          "word": "அறிவு <br>(Arivu)",
+          "ta": "அறிவு",
+          "en": "Wit",
+          "hi": "बुद्धि"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "அரம்போலுங் கூர்மைய ரேனு மரம்போல்வர்",
+          "line2": "மக்கட்பண் பில்லா தவர்."
+        },
+        "en": {
+          "line1": "Though sharp their wit as file, as blocks they must remain,",
+          "line2": "Whose souls are void of 'courtesy humane.'"
+        },
+        "hi": {
+          "line1": "यद्यपि हैं रेती सदृश, तीक्षण बुद्धि-निधान ।",
+          "line2": "मानव-संस्कृति के बिना, नर हैं वृक्ष समान ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Arambolung Koormaiya Renu Marambolvar",
+            "line2": "Makkatpan Pillaa Thavar."
+          },
+          "hi": {
+            "line1": "अरम्बोलुङ् कूर्मैय रेनु मरम्बोल्वर्",
+            "line2": "मक्कट्पण् पिल्ला दवर्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "அரத்தைப்போலக் கூர்மையான அறிவு உடையவரானாலும், மக்களுக்குரிய நற்பண்பு இல்லாதவர்கள் மரத்தைப் போன்றவர்களே ஆவர்.",
+        "en": "Razor-sharp intelligence means little if someone lacks basic human decency—without kindness, they're as unfeeling as a block of wood.",
+        "hi": "यद्यपि मनुष्य की बुद्धि रेती के समान अत्यन्त तीक्ष्ण हो, फिर भी मानवोचित शिष्टाचार (संस्कृति) के बिना वह वृक्ष के समान जड़ ही है।"
+      }
+    },
+    {
+      "num": 998,
+      "line1": "நண்பாற்றா ராகி நயமில செய்வார்க்கும்",
+      "line2": "பண்பாற்றா ராதல் கடை.",
+      "enLine1": "Though men with all unfriendly acts and wrongs assail,",
+      "enLine2": "'Tis uttermost disgrace in 'courtesy' to fail.",
+      "hiLine1": "मित्र न रह जो शत्रु हैं, उनसे भी व्यवहार ।",
+      "hiLine2": "सभ्य पुरुष का नहिं किया, तो वह अधम विचार ॥",
+      "general": "நட்புக்கொள்ளாமல் தீய செயல்களைச் செய்பவர்களிடத்திலும், தாம் பண்புடையவராக நடந்துகொள்ளாமல் போவது மிகவும் இழிவானதாகும்.",
+      "en": "Even toward those who act without friendship and do wrong, failing to show courtesy on one's own part is the lowest disgrace.",
+      "hi": "जो मित्र न रहकर शत्रुतापूर्ण और अनुचित व्यवहार करते हैं, उनके साथ भी यदि कोई सभ्य पुरुष जैसा व्यवहार न करे, तो यह अत्यन्त नीच विचार है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நண்பு ஆற்றார் ஆகி <br>(Nanbu aatraar aagi)",
+          "ta": "நட்புக்கொள்ளாதவராகி",
+          "en": "Unfriendly acts",
+          "hi": "मित्र न रह जो शत्रु हैं"
+        },
+        {
+          "no": 2,
+          "word": "நயம் இல <br>(Nayam ila)",
+          "ta": "தீமைகளை",
+          "en": "Wrongs",
+          "hi": "अनुचित"
+        },
+        {
+          "no": 3,
+          "word": "செய்வார்க்கும் <br>(Seyvaarkkum)",
+          "ta": "செய்பவரிடத்தும்",
+          "en": "Assail",
+          "hi": "उनसे भी"
+        },
+        {
+          "no": 4,
+          "word": "பண்பு <br>(Panbu)",
+          "ta": "நற்பண்புடன்",
+          "en": "Courtesy",
+          "hi": "सभ्य पुरुष का व्यवहार"
+        },
+        {
+          "no": 5,
+          "word": "ஆற்றார் <br>(Aatraar)",
+          "ta": "நடந்துகொள்ளாமல்",
+          "en": "To fail",
+          "hi": "नहिं किया"
+        },
+        {
+          "no": 6,
+          "word": "ஆதல் <br>(Aadhal)",
+          "ta": "இருப்பது",
+          "en": "Is",
+          "hi": "तो वह"
+        },
+        {
+          "no": 7,
+          "word": "கடை <br>(Kadai)",
+          "ta": "மிகவும் இழிவானது",
+          "en": "Uttermost disgrace",
+          "hi": "अधम विचार"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நண்பாற்றா ராகி நயமில செய்வார்க்கும்",
+          "line2": "பண்பாற்றா ராதல் கடை."
+        },
+        "en": {
+          "line1": "Though men with all unfriendly acts and wrongs assail,",
+          "line2": "'Tis uttermost disgrace in 'courtesy' to fail."
+        },
+        "hi": {
+          "line1": "मित्र न रह जो शत्रु हैं, उनसे भी व्यवहार ।",
+          "line2": "सभ्य पुरुष का नहिं किया, तो वह अधम विचार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nanpaatraa Raagi Nayamila Seyvaarkkum",
+            "line2": "Panpaatraa Raadhal Kadai."
+          },
+          "hi": {
+            "line1": "नण्पात्र्रा रागि नयमिल सॆय्वार्क्कुम्",
+            "line2": "पण्पात्र्रा रादल् कडै."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நட்புக்கொள்ளாமல் தீய செயல்களைச் செய்பவர்களிடத்திலும், தாம் பண்புடையவராக நடந்துகொள்ளாமல் போவது மிகவும் இழிவானதாகும்.",
+        "en": "Even when others treat you poorly, letting yourself drop to rudeness is a failure of your own standards.",
+        "hi": "जो मित्र न रहकर शत्रुतापूर्ण और अनुचित व्यवहार करते हैं, उनके साथ भी यदि कोई सभ्य पुरुष जैसा व्यवहार न करे, तो यह अत्यन्त नीच विचार है।"
+      }
+    },
+    {
+      "num": 999,
+      "line1": "நகல்வல்ல ரல்லார்க்கு மாயிரு ஞாலம்",
+      "line2": "பகலும்பாற் பட்டன் றிருள்.",
+      "enLine1": "To him who knows not how to smile in kindly mirth,",
+      "enLine2": "Darkness in daytime broods o'er all the vast and mighty earth.",
+      "hiLine1": "जो जन कर सकते नहीं, प्रसन्न मन व्यवहार ।",
+      "hiLine2": "दिन में भी तम में पड़ा, है उनका संसार ॥",
+      "general": "மற்றவர்களோடு மகிழ்ந்து சிரித்துப் பழகத் தெரியாதவர்களுக்கு, இந்த மிகப் பெரிய உலகம் பகற்பொழுதிலும்கூட இருளில் மூழ்கியிருப்பதைப் போன்றதாகும்.",
+      "en": "For those who cannot smile and share cheerful warmth with others, this vast earth remains shrouded in darkness even at midday.",
+      "hi": "जो लोग दूसरों के साथ प्रसन्न मन से हँस-बोलकर व्यवहार नहीं कर सकते, उनका संसार तो दिन के उजाले में भी अन्धकार में ही पड़ा रहता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "நகல் வல்லர் <br>(Nagal vallar)",
+          "ta": "மகிழ்ந்து சிரிக்க வல்லவர்",
+          "en": "Smile in kindly mirth",
+          "hi": "प्रसन्न मन व्यवहार"
+        },
+        {
+          "no": 2,
+          "word": "அல்லார்க்கு <br>(Allaarkku)",
+          "ta": "அல்லாதவர்க்கு",
+          "en": "Knows not how",
+          "hi": "कर सकते नहीं"
+        },
+        {
+          "no": 3,
+          "word": "மா இரு ஞாலம் <br>(Maa iru gnaalam)",
+          "ta": "மிகப் பெரிய உலகம்",
+          "en": "Vast and mighty earth",
+          "hi": "उनका संसार"
+        },
+        {
+          "no": 4,
+          "word": "பகலும் <br>(Pagalum)",
+          "ta": "பகற்பொழுதிலும்",
+          "en": "In daytime",
+          "hi": "दिन में भी"
+        },
+        {
+          "no": 5,
+          "word": "பாற்பட்டன்று <br>(Paarpattandru)",
+          "ta": "மூழ்கியுள்ளது",
+          "en": "Broods o'er",
+          "hi": "में पड़ा है"
+        },
+        {
+          "no": 6,
+          "word": "இருள் <br>(Irul)",
+          "ta": "இருளில்",
+          "en": "Darkness",
+          "hi": "तम"
+        },
+        {
+          "no": 7,
+          "word": "மகிழ்ச்சி <br>(Magizhchchi)",
+          "ta": "மகிழ்ச்சி",
+          "en": "Mirth",
+          "hi": "प्रसन्नता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "நகல்வல்ல ரல்லார்க்கு மாயிரு ஞாலம்",
+          "line2": "பகலும்பாற் பட்டன் றிருள்."
+        },
+        "en": {
+          "line1": "To him who knows not how to smile in kindly mirth,",
+          "line2": "Darkness in daytime broods o'er all the vast and mighty earth."
+        },
+        "hi": {
+          "line1": "जो जन कर सकते नहीं, प्रसन्न मन व्यवहार ।",
+          "line2": "दिन में भी तम में पड़ा, है उनका संसार ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Nagalvalla Rallaarkku Maayiru Nyaalam",
+            "line2": "Pagalumbaar Pattan Rirul."
+          },
+          "hi": {
+            "line1": "नगल्वल्ल रल्लार्क्कु मायिरु ञालम्",
+            "line2": "पगलुम्पार् पट्टन् रिरुळ्."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "மற்றவர்களோடு மகிழ்ந்து சிரித்துப் பழகத் தெரியாதவர்களுக்கு, இந்த மிகப் பெரிய உலகம் பகற்பொழுதிலும்கூட இருளில் மூழ்கியிருப்பதைப் போன்றதாகும்.",
+        "en": "If you can't share a warm smile and genuine friendliness, life feels dark and gloomy even in broad daylight.",
+        "hi": "जो लोग दूसरों के साथ प्रसन्न मन से हँस-बोलकर व्यवहार नहीं कर सकते, उनका संसार तो दिन के उजाले में भी अन्धकार में ही पड़ा रहता है।"
+      }
+    },
+    {
+      "num": 1000,
+      "line1": "பண்பிலான் பெற்ற பெருஞ்செல்வ நன்பால்",
+      "line2": "கலந்தீமை யாற்றிரிந் தற்று.",
+      "enLine1": "Like sweet milk soured because in filthy vessel poured,",
+      "enLine2": "Is ample wealth in churlish man's unopened coffers stored.",
+      "hiLine1": "जो है प्राप्त असभ्य को, धन-सम्पत्ति अमेय ।",
+      "hiLine2": "कलश-दोष से फट गया, शुद्ध दूध सम ज्ञेय ॥",
+      "general": "நற்பண்பு இல்லாதவன் பெற்ற பெருஞ்செல்வமானது, நல்ல பால் தூய்மையற்ற பாத்திரத்தின் குற்றத்தால் கெட்டுத் திரிந்து போனதைப் போன்றதாகும்.",
+      "en": "Great wealth acquired by an uncourteous person is like pure milk spoiled by being poured into an unclean vessel.",
+      "hi": "असभ्य और गुणहीन व्यक्ति को प्राप्त हुई अपार धन-सम्पत्ति उसी प्रकार व्यर्थ हो जाती है, जैसे कलश (पात्र) के दोष से शुद्ध दूध फट जाता है।",
+      "words": [
+        {
+          "no": 1,
+          "word": "பண்பு இலான் <br>(Panbu ilaan)",
+          "ta": "நற்பண்பு இல்லாதவன்",
+          "en": "Churlish man",
+          "hi": "असभ्य को"
+        },
+        {
+          "no": 2,
+          "word": "பெற்ற <br>(Petra)",
+          "ta": "அடைந்த",
+          "en": "Stored",
+          "hi": "जो है प्राप्त"
+        },
+        {
+          "no": 3,
+          "word": "பெருஞ்செல்வம் <br>(Perunjelvam)",
+          "ta": "பெரிய செல்வம்",
+          "en": "Ample wealth",
+          "hi": "धन-सम्पत्ति अमेय"
+        },
+        {
+          "no": 4,
+          "word": "நன்பால் <br>(Nanbaal)",
+          "ta": "நல்ல பால்",
+          "en": "Sweet milk",
+          "hi": "शुद्ध दूध सम"
+        },
+        {
+          "no": 5,
+          "word": "கலன் தீமையால் <br>(Kalan theemaiyaal)",
+          "ta": "பாத்திரத்தின் குற்றத்தால்",
+          "en": "Filthy vessel",
+          "hi": "कलश-दोष से"
+        },
+        {
+          "no": 6,
+          "word": "திரிந்தற்று <br>(Thirindhatru)",
+          "ta": "திரிந்து கெட்டது போன்றது",
+          "en": "Soured",
+          "hi": "फट गया"
+        },
+        {
+          "no": 7,
+          "word": "தூய்மை <br>(Thooimai)",
+          "ta": "தூய்மை",
+          "en": "Purity",
+          "hi": "शुद्धता"
+        }
+      ],
+      "poetic": {
+        "ta": {
+          "line1": "பண்பிலான் பெற்ற பெருஞ்செல்வ நன்பால்",
+          "line2": "கலந்தீமை யாற்றிரிந் தற்று."
+        },
+        "en": {
+          "line1": "Like sweet milk soured because in filthy vessel poured,",
+          "line2": "Is ample wealth in churlish man's unopened coffers stored."
+        },
+        "hi": {
+          "line1": "जो है प्राप्त असभ्य को, धन-सम्पत्ति अमेय ।",
+          "line2": "कलश-दोष से फट गया, शुद्ध दूध सम ज्ञेय ॥"
+        },
+        "transliteration": {
+          "en": {
+            "line1": "Panpilaan Petra Perunjelva Nanpaal",
+            "line2": "Kalandheemai Yaatririn Thatru."
+          },
+          "hi": {
+            "line1": "पण्पिलान् पॆत्र्र पॆरुञ्जॆल्व नन्बाल्",
+            "line2": "कलन्दीमै यात्र्रिरिन् दत्र्रु."
+          }
+        }
+      },
+      "explanation": {
+        "ta": "நற்பண்பு இல்லாதவன் பெற்ற பெருஞ்செல்வமானது, நல்ல பால் தூய்மையற்ற பாத்திரத்தின் குற்றத்தால் கெட்டுத் திரிந்து போனதைப் போன்றதாகும்.",
+        "en": "Wealth in the hands of someone without character goes to waste, just like fresh milk spoiling in a dirty pot.",
+        "hi": "असभ्य और गुणहीन व्यक्ति को प्राप्त हुई अपार धन-सम्पत्ति उसी प्रकार व्यर्थ हो जाती है, जैसे कलश (पात्र) के दोष से शुद्ध दूध फट जाता है।"
+      }
+    }
+  ]
+}
