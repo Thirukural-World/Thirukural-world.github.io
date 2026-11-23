@@ -2,22 +2,37 @@
 <html lang="ta" data-lang="ta">
 <head>
 <!-- ==========================================================================
-     DAILY-KURAL: MASTER SPA SHELL & HOME PAGE (index.html)
-     - Single GitHub-Hosted Shell that dynamically loads subpages from Firestore (`/Pages`)
-     - Loads shared `layout_js` directly from Firestore (`/Pages/layout_js`)
-     - Daily Kural Banner fetched directly from Firestore (`chapters` collection)
-     - 6:00 AM Daily Push Notification registration for both Guests & Signed-In Users
+     THIRUKURAL-WORLD: MASTER SPA SHELL & HOME PAGE (index.html)
+- Single GitHub-Hosted Shell that dynamically loads subpages from Firestore (`/Pages`)
+- Loads shared `layout_js` directly from Firestore (`/Pages/layout_js`)
+- Responsive Brand Logos (`images/Thirukural_World_192.png`, `512.png`, `1024.png`)
+- Daily Kural Banner fetched directly from Firestore (`chapters` collection)
+- 6:00 AM Daily Push Notification registration for both Guests & Signed-In Users
      ========================================================================== -->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
-<meta name="application-name" content="Daily-Kural">
+<meta name="application-name" content="Thirukural-World">
 <meta name="description" content="Explore Thirukkural - அறம், பொருள், இன்பம்">
 <meta name="theme-color" content="#c26100">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Daily-Kural">
+<meta name="apple-mobile-web-app-title" content="Thirukural-World">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<title>Daily-Kural | திருக்குறள் (Thirukkural)</title>
+<title>Thirukural-World | திருக்குறள் (Thirukkural)</title>
+
+<!-- FAVICONS & APPLE TOUCH ICONS (EXACT GITHUB /images PATHS) -->
+<link rel="icon" type="image/png" sizes="192x192" href="images/Thirukural_World_192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="images/Thirukural_World_512.png">
+<link rel="apple-touch-icon" sizes="192x192" href="images/Thirukural_World_192.png">
+<link rel="apple-touch-icon" sizes="512x512" href="images/Thirukural_World_512.png">
+
+<!-- OPEN GRAPH / WHATSAPP / SOCIAL PREVIEW (1024x1024 HIGH-RES LOGO) -->
+<meta property="og:title" content="Thirukural-World | திருக்குறள்">
+<meta property="og:description" content="Explore all 1,330 Thirukkural couplets in Tamil, English, and Hindi.">
+<meta property="og:image" content="https://thirukural-world.github.io/images/Thirukural_World_1024.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://thirukural-world.github.io/images/Thirukural_World_1024.png">
 
 <!-- FIREBASE WEB SDK (COMPAT MODE) -->
 <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
@@ -245,11 +260,34 @@ html[data-lang="hi"] .kural-lang-en {
   line-height: 1.7;
 }
 
-/* HEADER */
+/* HEADER & RESPONSIVE BRAND LOGO */
 .kural-header {
   text-align: center;
   padding: 5px 10px 22px;
   border-bottom: 1px solid var(--line-color);
+}
+
+.hero-brand-logo-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 12px auto;
+}
+
+.hero-brand-logo {
+  width: 88px;
+  height: 88px;
+  border-radius: 20px;
+  object-fit: contain;
+  border: 1.5px solid var(--border-color);
+  background: var(--card-bg);
+  padding: 4px;
+  box-shadow: 0 4px 14px var(--shadow-color);
+  transition: transform 0.2s ease;
+}
+
+.hero-brand-logo:hover {
+  transform: scale(1.04);
 }
 
 .kural-header h1 {
@@ -534,6 +572,11 @@ html[data-lang="hi"] .kural-lang-en {
   .kural-main {
     padding: 14px 10px 30px !important;
   }
+  .hero-brand-logo {
+    width: 72px;
+    height: 72px;
+    border-radius: 16px;
+  }
   .paal-container {
     grid-template-columns: 1fr !important;
     gap: 16px;
@@ -552,16 +595,29 @@ html[data-lang="hi"] .kural-lang-en {
       <div class="carousel-slide">
         <div class="carousel-slide-title" id="bannerTitle1">📜 இன்றைய குறள் (Daily Kural)</div>
         <div class="carousel-slide-text">
-          <span id="kuralLine1">அகர முதல எழுத்தெல்லாம்</span>
-          <span id="kuralLine2">ஆதி பகவன் முதற்றே உலகு.</span>
+          <span id="kuralLine1">அகர முதல எழுத்தெல்லாம் ஆதி</span>
+          <span id="kuralLine2">பகவன் முதற்றே உலகு.</span>
         </div>
         <div class="carousel-slide-sub" id="carouselKuralSub">குறள் 1 (அதிகாரம் 1)</div>
       </div>
     </div>
   </a>
 
-  <!-- HEADER (MULTI-LANGUAGE) -->
+  <!-- HEADER (RESPONSIVE BRAND LOGO + MULTI-LANGUAGE TITLE) -->
   <header class="kural-header">
+    <div class="hero-brand-logo-wrap">
+      <img
+        src="images/Thirukural_World_192.png"
+        srcset="images/Thirukural_World_192.png 192w, images/Thirukural_World_512.png 512w, images/Thirukural_World_1024.png 1024w"
+        sizes="(max-width: 768px) 72px, 88px"
+        alt="Thirukural-World Logo"
+        width="88"
+        height="88"
+        class="hero-brand-logo"
+        decoding="async"
+      >
+    </div>
+
     <div class="kural-lang-ta">
       <h1>திருக்குறள்</h1>
       <div class="english">THIRUKKURAL</div>
@@ -779,7 +835,7 @@ html[data-lang="hi"] .kural-lang-en {
 <div class="modal-overlay" id="pwaActionModal" onclick="closeModalOnBg(event, 'pwaActionModal')">
   <div class="modal-box">
     <div class="modal-header">
-      <h3 class="modal-title">📲 Install Daily-Kural App</h3>
+      <h3 class="modal-title">📲 Install Thirukural-World App</h3>
       <button class="modal-close-btn" onclick="closePwaActionModal()" type="button">×</button>
     </div>
     <div class="modal-body" id="pwaModalDynamicBody">
@@ -841,12 +897,12 @@ function decodeHtml(html) {
   let todayKuralNum = 1;
 
   let cachedKuralData = { 
-    taL1: "அகர முதல எழுத்தெல்லாம்", taL2: "ஆதி பகவன் முதற்றே உலகு.", 
-    enL1: "A is the first of all letters;", enL2: "the Primal Lord is first in the world.", 
-    hiL1: "समस्त अक्षरों का आदि 'अ' है;", hiL2: "वैसे ही यह संसार आदि भगवान से संचालित है।", 
+    taL1: "அகர முதல எழுத்தெல்லாம் ஆதி", taL2: "பகவன் முதற்றே உலகு.", 
+    enL1: "A, as its first of letters, every speech maintains;", enL2: "The 'Primal Deity' is first through all the world's domains.", 
+    hiL1: "अगर मुदल एऴुत्तेल्लाम् आदि", hiL2: "पगवन् मुदत्रे उलगु.", 
     subTa: "குறள் 1 (அதிகாரம் 1)", 
     subEn: "Kural 1 (Chapter 1)", 
-    subHi: "दोहा 1 (अध्याय 1)" 
+    subHi: "कुरल 1 (अध्याय 1) — देवनागरी लिप्यंतरण" 
   };
 
   function getPaalForChapter(ch) {
@@ -889,9 +945,11 @@ function decodeHtml(html) {
           cachedKuralData.enL2 = decodeHtml(kuralObj.enLine2 || (kuralObj.poetic && kuralObj.poetic.en ? kuralObj.poetic.en.line2 : ""));
           cachedKuralData.subEn = decodeHtml(`Kural ${todayKuralNum} (Chapter ${todayChapterNum})`);
 
-          cachedKuralData.hiL1 = decodeHtml(kuralObj.hiLine1 || (kuralObj.poetic && kuralObj.poetic.hi ? kuralObj.poetic.hi.line1 : kuralObj.hi || ""));
-          cachedKuralData.hiL2 = decodeHtml(kuralObj.hiLine2 || (kuralObj.poetic && kuralObj.poetic.hi ? kuralObj.poetic.hi.line2 : ""));
-          cachedKuralData.subHi = decodeHtml(`दोहा ${todayKuralNum} (अध्याय ${todayChapterNum})`);
+          /* Use Devanagari phonetic transliteration instead of copyrighted 1964 poetic verse */
+          const hiTranslit = (kuralObj.poetic && kuralObj.poetic.transliteration && kuralObj.poetic.transliteration.hi) || {};
+          cachedKuralData.hiL1 = decodeHtml(hiTranslit.line1 || kuralObj.line1 || "");
+          cachedKuralData.hiL2 = decodeHtml(hiTranslit.line2 || kuralObj.line2 || "");
+          cachedKuralData.subHi = decodeHtml(`कुरल ${todayKuralNum} (अध्याय ${todayChapterNum}) — देवनागरी लिप्यंतरण`);
 
           updateBannerLanguageContent();
         }
@@ -988,8 +1046,8 @@ function decodeHtml(html) {
       var notifBody = decodeHtml(`${cachedKuralData.taL1} ${cachedKuralData.taL2} (குறள் ${todayKuralNum})`);
       var options = {
         body: notifBody,
-        icon: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZtQ_7i07D9fWc8k3pXGj0Ue4d4A0kQ/s192/icon.png",
-        badge: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZtQ_7i07D9fWc8k3pXGj0Ue4d4A0kQ/s192/icon.png"
+        icon: "images/Thirukural_World_192.png",
+        badge: "images/Thirukural_World_192.png"
       };
       new Notification(notifTitle, options);
     }
@@ -1049,8 +1107,8 @@ function decodeHtml(html) {
         bodyEl.innerHTML = `
           <div style="text-align: left; background: var(--header-box); padding: 14px; border-radius: 10px; border: 1px solid var(--border-color); font-size: 14px; line-height: 1.6; color: var(--text-main);">
             <b>🍎 iPhone / Safari-யில் நிறுவ:</b><br>
-            1. கீழே உள்ள <b>Share (பகிர் ⎋)</b> பொத்தானை அழுத்தவும்.<br>
-            2. சிறிது கீழே சென்று <b>'Add to Home Screen' (முகப்புத் திரையில் சேர் ⊕)</b> என்பதைத் தட்டவும்.
+1. கீழே உள்ள <b>Share (பகிர் ⎋)</b> பொத்தானை அழுத்தவும்.<br>
+2. சிறிது கீழே சென்று <b>'Add to Home Screen' (முகப்புத் திரையில் சேர் ⊕)</b> என்பதைத் தட்டவும்.
           </div>
           <div style="margin-top: 14px;">
             <button class="pwa-confirm-btn btn-pwa-install" onclick="closePwaActionModal()" style="width: 100%;">சரி (OK)</button>
@@ -1060,8 +1118,8 @@ function decodeHtml(html) {
         bodyEl.innerHTML = `
           <div style="text-align: left; background: var(--header-box); padding: 14px; border-radius: 10px; border: 1px solid var(--border-color); font-size: 14px; line-height: 1.6; color: var(--text-main);">
             <b>📱 Android Chrome-ல் நிறுவ:</b><br>
-            1. உலாவியின் மேல் வலது மூலையில் உள்ள <b>மூன்று புள்ளிகளை (⋮ Menu)</b> தட்டவும்.<br>
-            2. <b>'Install app'</b> அல்லது <b>'Add to Home screen'</b> என்பதைத் தேர்ந்தெடுக்கவும்.
+1. உலாவியின் மேல் வலது மூலையில் உள்ள <b>மூன்று புள்ளிகளை (⋮ Menu)</b> தட்டவும்.<br>
+2. <b>'Install app'</b> அல்லது <b>'Add to Home screen'</b> என்பதைத் தேர்ந்தெடுக்கவும்.
           </div>
           <div style="margin-top: 14px;">
             <button class="pwa-confirm-btn btn-pwa-install" onclick="closePwaActionModal()" style="width: 100%;">சரி (OK)</button>
