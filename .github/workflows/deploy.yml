@@ -35,7 +35,7 @@ jobs:
           FIREBASE_MEASUREMENT_ID: ${{ secrets.FIREBASE_MEASUREMENT_ID }}
           FIREBASE_VAPID_KEY: ${{ secrets.FIREBASE_VAPID_KEY }}
         run: |
-          for file in firebase-messaging-sw.js firebase-push.js; do
+          for file in index.html firebase-messaging-sw.js; do
             sed -i "s|__FIREBASE_API_KEY__|$FIREBASE_API_KEY|g" "$file"
             sed -i "s|__FIREBASE_AUTH_DOMAIN__|$FIREBASE_AUTH_DOMAIN|g" "$file"
             sed -i "s|__FIREBASE_PROJECT_ID__|$FIREBASE_PROJECT_ID|g" "$file"
