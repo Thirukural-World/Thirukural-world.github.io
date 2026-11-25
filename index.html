@@ -43,20 +43,22 @@
 <!-- IMMEDIATE ENTRY GATE & FIRESTORE SUBPAGE ROUTER -->
 <script>
   const FIREBASE_CONFIG = {
-    apiKey: "AIzaSyCnt5bkfjnFGpe3MYPrIkCUFXFuujI7tTc",
-    authDomain: "thirukural-world-2026.firebaseapp.com",
-    projectId: "thirukural-world-2026",
-    storageBucket: "thirukural-world-2026.firebasestorage.app",
-    messagingSenderId: "1046709675211",
-    appId: "1:1046709675211:web:6bcbfad0defca99991a74e",
-    measurementId: "G-MFD6KHGJBD"
+    apiKey: "__FIREBASE_API_KEY__",
+    authDomain: "__FIREBASE_AUTH_DOMAIN__",
+    projectId: "__FIREBASE_PROJECT_ID__",
+    storageBucket: "__FIREBASE_STORAGE_BUCKET__",
+    messagingSenderId: "__FIREBASE_MESSAGING_SENDER_ID__",
+    appId: "__FIREBASE_APP_ID__",
+    measurementId: "__FIREBASE_MEASUREMENT_ID__"
   };
+  const FIREBASE_VAPID_KEY = "__FIREBASE_VAPID_KEY__";
 
   if (!firebase.apps.length) {
     firebase.initializeApp(FIREBASE_CONFIG);
   }
   window.dkFirebaseAuth = firebase.auth();
   window.dkFirebaseDb = firebase.firestore();
+  window.dkFirebaseMessaging = firebase.messaging.isSupported() ? firebase.messaging() : null;
 
   (function routeOrGate() {
     const params = new URLSearchParams(window.location.search);
@@ -1011,34 +1013,78 @@ function decodeHtml(html) {
     document.body.style.overflow = "auto";
   };
 
+  window.registerDailyKuralPush = async function(forcePrompt) {
+    try {
+      if (!("Notification" in window) || !window.dkFirebaseMessaging) {
+        if (forcePrompt) alert(decodeHtml("உங்கள் உலாவியில் அறிவிப்பு வசதி ஆதரிக்கப்படவில்லை."));
+        return false;
+      }
+
+      const permission = await Notification.requestPermission();
+      if (permission !== "granted") {
+        if (forcePrompt) alert(decodeHtml("அறிவிப்புகள் முடக்கப்பட்டுள்ளன. உலாவியின் அமைப்புகளில் அனுமதி வழங்கவும்."));
+        return false;
+      }
+
+      const swReg = await navigator.serviceWorker.register("/firebase-messaging-sw.js");
+      const token = await window.dkFirebaseMessaging.getToken({
+        vapidKey: FIREBASE_VAPID_KEY,
+        serviceWorkerRegistration: swReg
+      });
+
+      if (token) {
+        console.log("FCM Registration Token:", token);
+        localStorage.setItem("daily_kural_notify_enabled", "true");
+        localStorage.setItem("daily_kural_fcm_token", token);
+
+        /* Save FCM token to Firestore so 6:00 AM scheduled notifications can target all subscribers */
+        const uid = localStorage.getItem("dk_firebase_uid") || "guest";
+        const lang = getHomepageLanguage();
+        await window.dkFirebaseDb.collection("fcm_tokens").doc(token).set({
+          token: token,
+          uid: uid,
+          lang: lang,
+          enabled: true,
+          updatedAt: firebase.firestore.FieldValue.serverTimestamp()
+        }, { merge: true });
+
+        return true;
+      }
+      return false;
+    } catch (err) {
+      console.error("FCM Push Registration Error:", err);
+      return false;
+    }
+  };
+
   window.enableDailyNotification = async function() {
     const btn = document.getElementById("confirmNotifyBtn");
     if (btn) btn.textContent = "Enabling...";
 
-    if (typeof window.registerDailyKuralPush === "function") {
-      const success = await window.registerDailyKuralPush(true);
-      if (btn) btn.textContent = "அனுமதி (Enable 6 AM Push)";
-      window.closeNotificationPromptModal();
-      if (success) {
-        triggerCleanNotification();
-      }
-      return;
-    }
-
+    const success = await window.registerDailyKuralPush(true);
+    if (btn) btn.textContent = "அனுமதி (Enable 6 AM Push)";
     window.closeNotificationPromptModal();
-    if (!("Notification" in window)) {
-      alert(decodeHtml("உங்கள் உலாவியில் அறிவிப்பு வசதி ஆதரிக்கப்படவில்லை."));
-      return;
+
+    if (success) {
+      triggerCleanNotification();
     }
-    Notification.requestPermission().then(function(permission) {
-      if (permission === "granted") {
-        localStorage.setItem("daily_kural_notify_enabled", "true");
-        triggerCleanNotification();
-      } else {
-        alert(decodeHtml("அறிவிப்புகள் முடக்கப்பட்டுள்ளன. உலாவியின் அமைப்புகளில் அனுமதி வழங்கவும்."));
+  };
+
+  /* Handle foreground push messages when app is actively open */
+  if (window.dkFirebaseMessaging) {
+    window.dkFirebaseMessaging.onMessage(function(payload) {
+      console.log("Foreground FCM message:", payload);
+      if (Notification.permission === "granted") {
+        const title = (payload.notification && payload.notification.title) || "Daily Thirukkural";
+        const body = (payload.notification && payload.notification.body) || "";
+        new Notification(title, {
+          body: body,
+          icon: "images/Thirukural_World_192.png",
+          badge: "images/Thirukural_World_192.png"
+        });
       }
     });
-  };
+  }
 
   function triggerCleanNotification() {
     if (Notification.permission === "granted") {
@@ -1053,17 +1099,13 @@ function decodeHtml(html) {
     }
   }
 
-  /* --- MOBILE PWA REGISTRATION VIA CLOUDFLARE WORKER HTTPS --- */
+  /* --- ROOT SERVICE WORKER REGISTRATION (FCM + PWA) --- */
   var deferredPrompt = null;
 
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register("https://thirukural-world-pwa.hello-enchuvadi.workers.dev/sw.js")
-      .catch(function() {
-        try {
-          var swInline = "self.addEventListener('fetch', function(e){});";
-          var swBlob = new Blob([swInline], { type: 'text/javascript' });
-          navigator.serviceWorker.register(URL.createObjectURL(swBlob)).catch(function(){});
-        } catch(e) {}
+    navigator.serviceWorker.register("/firebase-messaging-sw.js")
+      .catch(function(err) {
+        console.warn("Service worker registration failed:", err);
       });
   }
 
@@ -1177,6 +1219,10 @@ function decodeHtml(html) {
     loadSharedLayoutFromFirestore();
     updateBannerLanguageContent();
     loadTodayKuralBanner();
+    /* Refresh FCM token silently if user already granted permission previously */
+    if (Notification.permission === "granted" && localStorage.getItem("daily_kural_notify_enabled") === "true") {
+      window.registerDailyKuralPush(false);
+    }
   });
 })();
 </script>
