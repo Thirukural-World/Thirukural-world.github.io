@@ -1037,10 +1037,10 @@ function decodeHtml(html) {
         localStorage.setItem("daily_kural_notify_enabled", "true");
         localStorage.setItem("daily_kural_fcm_token", token);
 
-        /* Save FCM token to Firestore so 6:00 AM scheduled notifications can target all subscribers */
+        /* Save FCM token to Firestore `fcm_subscribers` for both Guests & Signed-In Users */
         const uid = localStorage.getItem("dk_firebase_uid") || "guest";
         const lang = getHomepageLanguage();
-        await window.dkFirebaseDb.collection("fcm_tokens").doc(token).set({
+        await window.dkFirebaseDb.collection("fcm_subscribers").doc(token).set({
           token: token,
           uid: uid,
           lang: lang,
@@ -1219,9 +1219,16 @@ function decodeHtml(html) {
     loadSharedLayoutFromFirestore();
     updateBannerLanguageContent();
     loadTodayKuralBanner();
+
     /* Refresh FCM token silently if user already granted permission previously */
     if (Notification.permission === "granted" && localStorage.getItem("daily_kural_notify_enabled") === "true") {
       window.registerDailyKuralPush(false);
+    } else if (Notification.permission === "default" && !localStorage.getItem("dk_notify_prompt_seen")) {
+      /* Gently invite new Guests & Registered Users once after 5 seconds */
+      setTimeout(function() {
+        localStorage.setItem("dk_notify_prompt_seen", "true");
+        window.openNotificationPromptModal();
+      }, 5000);
     }
   });
 })();
