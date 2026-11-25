@@ -14,13 +14,12 @@ firebase.initializeApp({
 
 const messaging = firebase.messaging();
 
-// Handle background push notifications when the app or tab is closed
 messaging.onBackgroundMessage((payload) => {
   const title = payload.notification?.title || "Daily Thirukkural";
   const options = {
     body: payload.notification?.body || "Read today's Kural!",
-    icon: payload.notification?.icon || "/icon-192x192.png",
-    badge: "/icon-192x192.png",
+    icon: "/images/Thirukural_World_192.png",
+    badge: "/images/Thirukural_World_192.png",
     data: {
       url: payload.fcmOptions?.link || payload.data?.url || "/"
     }
@@ -29,7 +28,6 @@ messaging.onBackgroundMessage((payload) => {
   return self.registration.showNotification(title, options);
 });
 
-// Focus an open Thirukkural-World tab or open a new one when clicked
 self.addEventListener('notificationclick', (event) => {
   event.notification.close();
   const targetUrl = new URL(event.notification.data?.url || "/", self.location.origin).href;
