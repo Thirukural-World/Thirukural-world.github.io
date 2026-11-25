@@ -7,7 +7,6 @@
 - Loads shared `layout_js` directly from Firestore (`/Pages/layout_js`)
 - Responsive Brand Logos (`images/Thirukural_World_192.png`, `512.png`, `1024.png`)
 - Daily Kural Banner fetched directly from Firestore (`chapters` collection)
-- 6:00 AM Daily Push Notification registration for both Guests & Signed-In Users
      ========================================================================== -->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
@@ -312,60 +311,6 @@ html[data-lang="hi"] .kural-lang-en {
   color: var(--accent);
 }
 
-/* UTILITY BAR (4 CIRCULAR QUICK ACTIONS) */
-.header-utility-bar {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 14px;
-  margin-top: 18px;
-}
-
-.header-icon-actions-bar {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 14px;
-}
-
-.icon-action-btn {
-  width: 42px;
-  height: 42px;
-  border-radius: 50%;
-  background: var(--header-box);
-  color: var(--accent);
-  border: 1.5px solid var(--border-color);
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 18px;
-  cursor: pointer;
-  text-decoration: none;
-  transition: transform 0.15s ease, background 0.2s ease, border-color 0.2s ease;
-  position: relative;
-  padding: 0;
-}
-
-.icon-action-btn:hover {
-  transform: translateY(-2px);
-  border-color: var(--accent);
-  background: var(--card-bg);
-}
-
-.icon-badge {
-  position: absolute;
-  top: -4px;
-  right: -4px;
-  background: var(--accent);
-  color: #ffffff;
-  font-size: 10px;
-  font-weight: bold;
-  padding: 1px 6px;
-  border-radius: 10px;
-  line-height: 1.3;
-}
-
 /* 3 PAAL CARDS CONTAINER */
 .paal-container {
   display: grid;
@@ -471,105 +416,6 @@ html[data-lang="hi"] .kural-lang-en {
 .footer-text { text-align: center; width: 100%; }
 .footer-text p { margin: 3px 0; }
 
-/* MODALS */
-.modal-overlay {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-color: rgba(0, 0, 0, 0.65);
-  z-index: 99999;
-  justify-content: center;
-  align-items: center;
-  padding: 14px;
-}
-
-.modal-overlay.active {
-  display: flex;
-}
-
-.modal-box {
-  background-color: var(--card-bg);
-  max-width: 460px;
-  width: 100%;
-  border-radius: 16px;
-  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.35);
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  border: 1.5px solid var(--border-color);
-  overflow: hidden;
-  text-align: center;
-}
-
-.modal-header {
-  background: var(--header-box);
-  padding: 16px 20px;
-  border-bottom: 1px solid var(--border-light);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.modal-title {
-  font-size: 18px;
-  font-weight: bold;
-  color: var(--accent);
-  margin: 0;
-}
-
-.modal-close-btn {
-  font-size: 26px;
-  font-weight: bold;
-  color: var(--accent);
-  cursor: pointer;
-  border: none;
-  background: transparent;
-  line-height: 1;
-}
-
-.modal-body {
-  padding: 22px 20px 24px 20px;
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
-}
-
-.pwa-confirm-btn-group {
-  display: flex;
-  gap: 10px;
-  margin-top: 10px;
-}
-
-.pwa-confirm-btn {
-  flex: 1;
-  padding: 11px 16px;
-  border-radius: 25px;
-  font-size: 15px;
-  font-weight: bold;
-  cursor: pointer;
-  border: none;
-  transition: transform 0.15s ease, opacity 0.2s ease;
-}
-
-.pwa-confirm-btn:hover {
-  transform: translateY(-2px);
-  opacity: 0.95;
-}
-
-.btn-pwa-cancel {
-  background: var(--header-box);
-  color: var(--text-main);
-  border: 1px solid var(--border-color);
-}
-
-.btn-pwa-install {
-  background: var(--accent);
-  color: #ffffff;
-}
-
 @media screen and (max-width: 768px) {
   .kural-main {
     padding: 14px 10px 30px !important;
@@ -636,28 +482,6 @@ html[data-lang="hi"] .kural-lang-en {
       <h1>तिरुक्कुरल</h1>
       <div class="english">THIRUKURAL</div>
       <div class="subtitle">धर्म • अर्थ • काम</div>
-    </div>
-
-    <!-- UTILITY BAR (4 CIRCULAR QUICK ACTIONS) -->
-    <div class="header-utility-bar">
-      <div class="header-icon-actions-bar">
-        <button class="icon-action-btn" id="pwaInstallBtn" onclick="triggerPwaInstall()" title="Install App (செயலியை நிறுவுக)" type="button">
-          <span>📥</span>
-        </button>
-
-        <a class="icon-action-btn" href="index.html?page=favourite" title="விருப்பக் குறள்கள் (Favorites)">
-          <span>❤️</span>
-          <span class="icon-badge" id="homeFavCount">0</span>
-        </a>
-
-        <a class="icon-action-btn" href="index.html?page=calendar" title="நாள்காட்டி (Calendar View)">
-          <span>📅</span>
-        </a>
-
-        <button class="icon-action-btn" id="headerNotifyBtn" onclick="openNotificationPromptModal()" title="அறிவிப்புகள் (6:00 AM Daily Kural Notification)" type="button">
-          <span>🔔</span>
-        </button>
-      </div>
     </div>
   </header>
 
@@ -806,61 +630,8 @@ html[data-lang="hi"] .kural-lang-en {
 
 </div>
 
-<!-- NOTIFICATION MODAL (6:00 AM DAILY PUSH FOR GUESTS & REGISTERED USERS) -->
-<div class="modal-overlay" id="notifyPromptModal" onclick="closeModalOnBg(event, 'notifyPromptModal')">
-  <div class="modal-box">
-    <div class="modal-header">
-      <h3 class="modal-title">🔔 தினசரி காலை 6:00 மணி குறள் அறிவிப்பு</h3>
-      <button class="modal-close-btn" onclick="closeNotificationPromptModal()" type="button">×</button>
-    </div>
-    <div class="modal-body">
-      <div style="font-size: 28px;">📖✨</div>
-      <div style="color: var(--text-main); font-size: 16px; font-weight: bold; line-height: 1.5;">
-        One Day. One Kural. Every Morning at 6:00 AM!
-      </div>
-      <div style="color: var(--text-muted); font-size: 14px; line-height: 1.6;">
-        தினசரி காலை 6:00 மணிக்கு நாள்காட்டியின் இன்றைய திருக்குறள் உங்கள் சாதனத்தின் அறிவிப்பாக (Notification) நேரடியாக வர அனுமதி வழங்கவும்.
-      </div>
-      <div class="pwa-confirm-btn-group">
-        <button class="pwa-confirm-btn btn-pwa-cancel" onclick="closeNotificationPromptModal()" type="button">
-          பிறகு (Later)
-        </button>
-        <button class="pwa-confirm-btn btn-pwa-install" id="confirmNotifyBtn" onclick="enableDailyNotification()" type="button">
-          அனுமதி (Enable 6 AM Push)
-        </button>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- PWA INSTALL CONFIRMATION MODAL -->
-<div class="modal-overlay" id="pwaActionModal" onclick="closeModalOnBg(event, 'pwaActionModal')">
-  <div class="modal-box">
-    <div class="modal-header">
-      <h3 class="modal-title">📲 Install Thirukural-World App</h3>
-      <button class="modal-close-btn" onclick="closePwaActionModal()" type="button">×</button>
-    </div>
-    <div class="modal-body" id="pwaModalDynamicBody">
-      <div style="color: var(--text-main); font-size: 16px; font-weight: bold;">
-        செயலி உங்கள் சாதனத்தில் நிறுவ விரும்புகிறீர்களா?
-      </div>
-      <div style="color: var(--text-muted); font-size: 13px;">
-        இணைய இணைப்பு இல்லாமலும் தினசரி திருக்குறளை மிக விரைவாக வாசிக்க முடியும்.
-      </div>
-      <div class="pwa-confirm-btn-group">
-        <button class="pwa-confirm-btn btn-pwa-cancel" onclick="closePwaActionModal()" type="button">
-          Cancel (ரத்து)
-        </button>
-        <button class="pwa-confirm-btn btn-pwa-install" onclick="confirmDirectInstall()" type="button">
-          Install (நிறுவுக)
-        </button>
-      </div>
-    </div>
-  </div>
-</div>
-
 <!-- ==========================================================================
-     SCRIPTS: FIRESTORE LAYOUT LOADER, DAILY KURAL BANNER & 6:00 AM PUSH
+     SCRIPTS: FIRESTORE LAYOUT LOADER & DAILY KURAL BANNER
      ========================================================================== -->
 <script>
 function decodeHtml(html) {
@@ -1002,106 +773,7 @@ function decodeHtml(html) {
 
   window.addEventListener("kuralLanguageChanged", updateBannerLanguageContent);
 
-  /* --- 6:00 AM DAILY PUSH NOTIFICATION HANDLER (GUESTS & REGISTERED USERS) --- */
-  window.openNotificationPromptModal = function() {
-    document.getElementById("notifyPromptModal").classList.add("active");
-    document.body.style.overflow = "hidden";
-  };
-
-  window.closeNotificationPromptModal = function() {
-    document.getElementById("notifyPromptModal").classList.remove("active");
-    document.body.style.overflow = "auto";
-  };
-
-  window.registerDailyKuralPush = async function(forcePrompt) {
-    try {
-      if (!("Notification" in window) || !window.dkFirebaseMessaging) {
-        if (forcePrompt) alert(decodeHtml("உங்கள் உலாவியில் அறிவிப்பு வசதி ஆதரிக்கப்படவில்லை."));
-        return false;
-      }
-
-      const permission = await Notification.requestPermission();
-      if (permission !== "granted") {
-        if (forcePrompt) alert(decodeHtml("அறிவிப்புகள் முடக்கப்பட்டுள்ளன. உலாவியின் அமைப்புகளில் அனுமதி வழங்கவும்."));
-        return false;
-      }
-
-      const swReg = await navigator.serviceWorker.register("/firebase-messaging-sw.js");
-      const token = await window.dkFirebaseMessaging.getToken({
-        vapidKey: FIREBASE_VAPID_KEY,
-        serviceWorkerRegistration: swReg
-      });
-
-      if (token) {
-        console.log("FCM Registration Token:", token);
-        localStorage.setItem("daily_kural_notify_enabled", "true");
-        localStorage.setItem("daily_kural_fcm_token", token);
-
-        /* Save FCM token to Firestore `fcm_subscribers` for both Guests & Signed-In Users */
-        const uid = localStorage.getItem("dk_firebase_uid") || "guest";
-        const lang = getHomepageLanguage();
-        await window.dkFirebaseDb.collection("fcm_subscribers").doc(token).set({
-          token: token,
-          uid: uid,
-          lang: lang,
-          enabled: true,
-          updatedAt: firebase.firestore.FieldValue.serverTimestamp()
-        }, { merge: true });
-
-        return true;
-      }
-      return false;
-    } catch (err) {
-      console.error("FCM Push Registration Error:", err);
-      return false;
-    }
-  };
-
-  window.enableDailyNotification = async function() {
-    const btn = document.getElementById("confirmNotifyBtn");
-    if (btn) btn.textContent = "Enabling...";
-
-    const success = await window.registerDailyKuralPush(true);
-    if (btn) btn.textContent = "அனுமதி (Enable 6 AM Push)";
-    window.closeNotificationPromptModal();
-
-    if (success) {
-      triggerCleanNotification();
-    }
-  };
-
-  /* Handle foreground push messages when app is actively open */
-  if (window.dkFirebaseMessaging) {
-    window.dkFirebaseMessaging.onMessage(function(payload) {
-      console.log("Foreground FCM message:", payload);
-      if (Notification.permission === "granted") {
-        const title = (payload.notification && payload.notification.title) || "Daily Thirukkural";
-        const body = (payload.notification && payload.notification.body) || "";
-        new Notification(title, {
-          body: body,
-          icon: "images/Thirukural_World_192.png",
-          badge: "images/Thirukural_World_192.png"
-        });
-      }
-    });
-  }
-
-  function triggerCleanNotification() {
-    if (Notification.permission === "granted") {
-      var notifTitle = decodeHtml("திருக்குறள் - காலை 6:00 மணி அறிவிப்பு இயக்கப்பட்டது");
-      var notifBody = decodeHtml(`${cachedKuralData.taL1} ${cachedKuralData.taL2} (குறள் ${todayKuralNum})`);
-      var options = {
-        body: notifBody,
-        icon: "images/Thirukural_World_192.png",
-        badge: "images/Thirukural_World_192.png"
-      };
-      new Notification(notifTitle, options);
-    }
-  }
-
-  /* --- ROOT SERVICE WORKER REGISTRATION (FCM + PWA) --- */
-  var deferredPrompt = null;
-
+  /* Register root Service Worker for PWA & FCM */
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register("/firebase-messaging-sw.js")
       .catch(function(err) {
@@ -1109,86 +781,7 @@ function decodeHtml(html) {
       });
   }
 
-  window.addEventListener("beforeinstallprompt", function(e) {
-    e.preventDefault();
-    deferredPrompt = e;
-  });
-
-  window.addEventListener("appinstalled", function() {
-    deferredPrompt = null;
-    alert(decodeHtml("செயலி வெற்றிகரமாக நிறுவப்பட்டது!"));
-  });
-
-  window.confirmDirectInstall = function() {
-    window.closePwaActionModal();
-    if (deferredPrompt) {
-      deferredPrompt.prompt();
-      deferredPrompt.userChoice.then(function() {
-        deferredPrompt = null;
-      });
-    }
-  };
-
-  window.triggerPwaInstall = function() {
-    if (window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true) {
-      alert(decodeHtml("செயலி ஏற்கனவே உங்கள் மொபைலில் நிறுவப்பட்டுவிட்டது."));
-      return;
-    }
-
-    if (deferredPrompt) {
-      deferredPrompt.prompt();
-      deferredPrompt.userChoice.then(function() {
-        deferredPrompt = null;
-      });
-    } else {
-      var isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
-      var isAndroid = /Android/i.test(navigator.userAgent);
-      var bodyEl = document.getElementById("pwaModalDynamicBody");
-
-      if (isIOS) {
-        bodyEl.innerHTML = `
-          <div style="text-align: left; background: var(--header-box); padding: 14px; border-radius: 10px; border: 1px solid var(--border-color); font-size: 14px; line-height: 1.6; color: var(--text-main);">
-            <b>🍎 iPhone / Safari-யில் நிறுவ:</b><br>
-1. கீழே உள்ள <b>Share (பகிர் ⎋)</b> பொத்தானை அழுத்தவும்.<br>
-2. சிறிது கீழே சென்று <b>'Add to Home Screen' (முகப்புத் திரையில் சேர் ⊕)</b> என்பதைத் தட்டவும்.
-          </div>
-          <div style="margin-top: 14px;">
-            <button class="pwa-confirm-btn btn-pwa-install" onclick="closePwaActionModal()" style="width: 100%;">சரி (OK)</button>
-          </div>
-        `;
-      } else if (isAndroid) {
-        bodyEl.innerHTML = `
-          <div style="text-align: left; background: var(--header-box); padding: 14px; border-radius: 10px; border: 1px solid var(--border-color); font-size: 14px; line-height: 1.6; color: var(--text-main);">
-            <b>📱 Android Chrome-ல் நிறுவ:</b><br>
-1. உலாவியின் மேல் வலது மூலையில் உள்ள <b>மூன்று புள்ளிகளை (⋮ Menu)</b> தட்டவும்.<br>
-2. <b>'Install app'</b> அல்லது <b>'Add to Home screen'</b> என்பதைத் தேர்ந்தெடுக்கவும்.
-          </div>
-          <div style="margin-top: 14px;">
-            <button class="pwa-confirm-btn btn-pwa-install" onclick="closePwaActionModal()" style="width: 100%;">சரி (OK)</button>
-          </div>
-        `;
-      } else {
-        bodyEl.innerHTML = `
-          <div style="text-align: left; background: var(--header-box); padding: 14px; border-radius: 10px; border: 1px solid var(--border-color); font-size: 14px; line-height: 1.6; color: var(--text-main);">
-            <b>💻 கணினியில் நேரடியாக நிறுவ:</b><br>
-            உலாவியின் முகவரிப்பட்டையின் (Address Bar) வலதுபுறத்தில் உள்ள <b>Install (⊕ / கணினித் திரை)</b> ஐகானை அழுத்தவும்.
-          </div>
-          <div style="margin-top: 14px;">
-            <button class="pwa-confirm-btn btn-pwa-install" onclick="closePwaActionModal()" style="width: 100%;">சரி (OK)</button>
-          </div>
-        `;
-      }
-
-      document.getElementById("pwaActionModal").classList.add("active");
-      document.body.style.overflow = "hidden";
-    }
-  };
-
-  window.closePwaActionModal = function() {
-    document.getElementById("pwaActionModal").classList.remove("active");
-    document.body.style.overflow = "auto";
-  };
-
+  /* Pause other audio players when one starts playing */
   var players = document.querySelectorAll(".paal-card audio");
   players.forEach(function(player) {
     player.addEventListener("play", function() {
@@ -1198,38 +791,10 @@ function decodeHtml(html) {
     });
   });
 
-  function updateHomeFavCount() {
-    try {
-      var favs = JSON.parse(localStorage.getItem('daily_kural_favs') || '[]');
-      var countEl = document.getElementById('homeFavCount');
-      if (countEl) countEl.innerText = favs.length;
-    } catch(e) {}
-  }
-
-  updateHomeFavCount();
-
-  window.closeModalOnBg = function(e, modalId) {
-    if (e.target.id === modalId) {
-      if (modalId === 'pwaActionModal') window.closePwaActionModal();
-      if (modalId === 'notifyPromptModal') window.closeNotificationPromptModal();
-    }
-  };
-
   document.addEventListener("DOMContentLoaded", function() {
     loadSharedLayoutFromFirestore();
     updateBannerLanguageContent();
     loadTodayKuralBanner();
-
-    /* Refresh FCM token silently if user already granted permission previously */
-    if (Notification.permission === "granted" && localStorage.getItem("daily_kural_notify_enabled") === "true") {
-      window.registerDailyKuralPush(false);
-    } else if (Notification.permission === "default" && !localStorage.getItem("dk_notify_prompt_seen")) {
-      /* Gently invite new Guests & Registered Users once after 5 seconds */
-      setTimeout(function() {
-        localStorage.setItem("dk_notify_prompt_seen", "true");
-        window.openNotificationPromptModal();
-      }, 5000);
-    }
   });
 })();
 </script>
