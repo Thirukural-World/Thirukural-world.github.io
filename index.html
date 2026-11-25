@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="ta" data-lang="ta">
 <head>
-<!-- ==========================================================================
-     THIRUKURAL-WORLD: MASTER SPA SHELL & HOME PAGE (index.html)
-- Single GitHub-Hosted Shell that dynamically loads subpages from Firestore (`/Pages`)
-- Loads shared `layout_js` directly from Firestore (`/Pages/layout_js`)
-- Responsive Brand Logos (`images/Thirukural_World_192.png`, `512.png`, `1024.png`)
-- Daily Kural Banner fetched directly from Firestore (`chapters` collection)
-     ========================================================================== -->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
 <meta name="application-name" content="Thirukural-World">
@@ -19,13 +12,11 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <title>Thirukural-World | திருக்குறள் (Thirukural)</title>
 
-<!-- FAVICONS & APPLE TOUCH ICONS (EXACT GITHUB /images PATHS) -->
 <link rel="icon" type="image/png" sizes="192x192" href="images/Thirukural_World_192.png">
 <link rel="icon" type="image/png" sizes="512x512" href="images/Thirukural_World_512.png">
 <link rel="apple-touch-icon" sizes="192x192" href="images/Thirukural_World_192.png">
 <link rel="apple-touch-icon" sizes="512x512" href="images/Thirukural_World_512.png">
 
-<!-- OPEN GRAPH / WHATSAPP / SOCIAL PREVIEW (1024x1024 HIGH-RES LOGO) -->
 <meta property="og:title" content="Thirukural-World | திருக்குறள்">
 <meta property="og:description" content="Explore all 1,330 Thirukural couplets in Tamil, English, and Hindi.">
 <meta property="og:image" content="https://thirukural-world.github.io/images/Thirukural_World_1024.png">
@@ -33,37 +24,49 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://thirukural-world.github.io/images/Thirukural_World_1024.png">
 
-<!-- FIREBASE WEB SDK (COMPAT MODE) -->
 <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-auth-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-messaging-compat.js"></script>
 
-<!-- IMMEDIATE ENTRY GATE & FIRESTORE SUBPAGE ROUTER -->
+<!-- ASYNC CONFIG LOADER FROM CLOUDFLARE WORKER + ENTRY GATE + ROUTER -->
 <script>
-  const FIREBASE_CONFIG = {
-    apiKey: "__FIREBASE_API_KEY__",
-    authDomain: "__FIREBASE_AUTH_DOMAIN__",
-    projectId: "__FIREBASE_PROJECT_ID__",
-    storageBucket: "__FIREBASE_STORAGE_BUCKET__",
-    messagingSenderId: "__FIREBASE_MESSAGING_SENDER_ID__",
-    appId: "__FIREBASE_APP_ID__",
-    measurementId: "__FIREBASE_MEASUREMENT_ID__"
-  };
-  const FIREBASE_VAPID_KEY = "__FIREBASE_VAPID_KEY__";
+  window.dkInitFirebase = (async function() {
+    const res = await fetch("https://thirukural-world-pwa.hello-enchuvadi.workers.dev/config", {
+      cache: "no-store"
+    });
+    if (!res.ok) throw new Error("Failed to load app configuration.");
+    const cfg = await res.json();
+    window.FIREBASE_VAPID_KEY = cfg.vapidKey || "";
 
-  if (!firebase.apps.length) {
-    firebase.initializeApp(FIREBASE_CONFIG);
-  }
-  window.dkFirebaseAuth = firebase.auth();
-  window.dkFirebaseDb = firebase.firestore();
-  window.dkFirebaseMessaging = firebase.messaging.isSupported() ? firebase.messaging() : null;
+    if (!firebase.apps.length) {
+      firebase.initializeApp({
+        apiKey: cfg.apiKey,
+        authDomain: cfg.authDomain,
+        projectId: cfg.projectId,
+        storageBucket: cfg.storageBucket,
+        messagingSenderId: cfg.messagingSenderId,
+        appId: cfg.appId,
+        measurementId: cfg.measurementId
+      });
+    }
+    window.dkFirebaseAuth = firebase.auth();
+    window.dkFirebaseDb = firebase.firestore();
+    window.dkFirebaseMessaging = (firebase.messaging && firebase.messaging.isSupported())
+      ? firebase.messaging()
+      : null;
+    return {
+      auth: window.dkFirebaseAuth,
+      db: window.dkFirebaseDb,
+      messaging: window.dkFirebaseMessaging,
+      vapidKey: window.FIREBASE_VAPID_KEY
+    };
+  })();
 
   (function routeOrGate() {
     const params = new URLSearchParams(window.location.search);
     const requestedPage = (params.get("page") || "").trim().toLowerCase();
 
-    /* If not on login/admin, enforce Guest or Signed-In entry gate */
     if (requestedPage !== "login" && requestedPage !== "admin") {
       try {
         const isGuest = sessionStorage.getItem("dk_guest_mode") === "true" || localStorage.getItem("dk_guest_mode") === "true";
@@ -76,13 +79,13 @@
       } catch (e) {}
     }
 
-    /* If ?page=<docId> is specified, fetch that HTML document from Firestore /Pages */
     if (requestedPage && requestedPage !== "home" && requestedPage !== "index") {
       window.__DK_SUBPAGE_MODE__ = true;
       window.addEventListener("DOMContentLoaded", async function() {
         document.body.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;min-height:100vh;font-family:Georgia,serif;color:#c26100;font-size:20px;font-weight:bold;">📜 ஏற்றப்படுகிறது... (Loading...)</div>';
         try {
-          const docSnap = await window.dkFirebaseDb.collection("Pages").doc(requestedPage).get();
+          const { db } = await window.dkInitFirebase;
+          const docSnap = await db.collection("Pages").doc(requestedPage).get();
           if (!docSnap.exists || !docSnap.data().content) {
             document.body.innerHTML = '<div style="text-align:center;padding:60px 20px;font-family:Georgia,serif;"><h2>Page Not Found</h2><p>Requested page "' + requestedPage + '" was not found in Firestore.</p><a href="index.html" style="color:#c26100;font-weight:bold;">← Return Home</a></div>';
             return;
@@ -92,9 +95,8 @@
           document.write(htmlContent);
           document.close();
 
-          /* Inject layout_js automatically on all subpages except login & admin */
           if (requestedPage !== "login" && requestedPage !== "admin") {
-            const layoutSnap = await window.dkFirebaseDb.collection("Pages").doc("layout_js").get();
+            const layoutSnap = await db.collection("Pages").doc("layout_js").get();
             if (layoutSnap.exists && layoutSnap.data().content) {
               const s = document.createElement("script");
               s.textContent = layoutSnap.data().content;
@@ -109,10 +111,7 @@
   })();
 </script>
 
-<!-- MANIFEST.JSON LINK -->
 <link rel="manifest" href="https://thirukural-world-pwa.hello-enchuvadi.workers.dev/">
-
-<!-- GOOGLE FONTS FOR NOTO SERIF TAMIL & TIRO DEVANAGARI HINDI -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Tamil:ital,wght@0,400;0,600;0,700;1,400&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
@@ -123,7 +122,6 @@
   src: local('Vijaya'), local('Vijaya Regular'), local('Vijaya-Regular');
   font-display: swap;
 }
-
 :root {
   --bg-color: #faf6ee;
   --card-bg: #fffdf7;
@@ -137,7 +135,6 @@
   --line-color: #d8c9a5;
   --shadow-color: rgba(217, 119, 6, 0.08);
 }
-
 html.dark-mode, body.dark-mode {
   --bg-color: #12161a !important;
   --card-bg: #1c2228 !important;
@@ -151,7 +148,6 @@ html.dark-mode, body.dark-mode {
   --line-color: #3b4654 !important;
   --shadow-color: rgba(0, 0, 0, 0.4) !important;
 }
-
 html, body {
   margin: 0 !important;
   padding: 0 !important;
@@ -165,27 +161,16 @@ html, body {
   font-family: 'Vijaya', 'Noto Serif Tamil', Georgia, serif !important;
   transition: background-color 0.25s ease, color 0.25s ease;
 }
-
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
+*, *::before, *::after { box-sizing: inherit; }
 .kural-lang-hi,
 html[data-lang="hi"] .kural-lang-hi,
-html[data-lang="hi"] .carousel-slide-text {
-  font-family: 'Tiro Devanagari Hindi', serif !important;
-}
-
+html[data-lang="hi"] .carousel-slide-text { font-family: 'Tiro Devanagari Hindi', serif !important; }
 html[data-lang="ta"] .kural-lang-en,
 html[data-lang="ta"] .kural-lang-hi,
 html[data-lang="en"] .kural-lang-ta,
 html[data-lang="en"] .kural-lang-hi,
 html[data-lang="hi"] .kural-lang-ta,
-html[data-lang="hi"] .kural-lang-en {
-  display: none !important;
-}
-
-/* TOP DAILY KURAL BANNER */
+html[data-lang="hi"] .kural-lang-en { display: none !important; }
 .carousel-container {
   display: block;
   text-decoration: none !important;
@@ -199,30 +184,19 @@ html[data-lang="hi"] .kural-lang-en {
   border-radius: 14px;
   overflow: hidden;
   box-shadow: 0 4px 14px var(--shadow-color);
-  box-sizing: border-box;
   cursor: pointer;
   transition: border-color 0.2s;
 }
-
-.carousel-container:hover {
-  border-color: var(--accent);
-}
-
-.carousel-track {
-  display: flex;
-  width: 100%;
-}
-
+.carousel-container:hover { border-color: var(--accent); }
+.carousel-track { display: flex; width: 100%; }
 .carousel-slide {
   min-width: 100%;
-  box-sizing: border-box;
   padding: 16px 20px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   min-height: 135px;
 }
-
 .carousel-slide-title {
   font-size: 13px;
   font-weight: bold;
@@ -231,7 +205,6 @@ html[data-lang="hi"] .kural-lang-en {
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
-
 .carousel-slide-text {
   font-size: 17px;
   font-weight: bold;
@@ -239,42 +212,26 @@ html[data-lang="hi"] .kural-lang-en {
   line-height: 1.5;
   min-height: 52px;
 }
-
-.carousel-slide-text span {
-  display: block;
-}
-
-.carousel-slide-sub {
-  font-size: 14px;
-  color: var(--text-muted);
-  margin-top: 4px;
-}
-
-/* MAIN CONTAINER */
+.carousel-slide-text span { display: block; }
+.carousel-slide-sub { font-size: 14px; color: var(--text-muted); margin-top: 4px; }
 .kural-main {
   width: 100%;
   max-width: 1050px;
   margin: 0 auto;
   padding: 18px 16px 40px;
-  font-family: 'Vijaya', 'Noto Serif Tamil', Georgia, serif;
-  color: var(--text-main);
   line-height: 1.7;
 }
-
-/* HEADER & RESPONSIVE BRAND LOGO */
 .kural-header {
   text-align: center;
   padding: 5px 10px 22px;
   border-bottom: 1px solid var(--line-color);
 }
-
 .hero-brand-logo-wrap {
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 0 auto 12px auto;
 }
-
 .hero-brand-logo {
   width: 88px;
   height: 88px;
@@ -286,32 +243,10 @@ html[data-lang="hi"] .kural-lang-en {
   box-shadow: 0 4px 14px var(--shadow-color);
   transition: transform 0.2s ease;
 }
-
-.hero-brand-logo:hover {
-  transform: scale(1.04);
-}
-
-.kural-header h1 {
-  margin: 0;
-  font-size: clamp(28px, 5.5vw, 42px);
-  font-weight: 600;
-  color: var(--text-main);
-}
-
-.kural-header .english {
-  margin-top: 4px;
-  font-size: 15px;
-  letter-spacing: 4px;
-  color: var(--text-muted);
-}
-
-.kural-header .subtitle {
-  margin-top: 10px;
-  font-size: 18px;
-  color: var(--accent);
-}
-
-/* 3 PAAL CARDS CONTAINER */
+.hero-brand-logo:hover { transform: scale(1.04); }
+.kural-header h1 { margin: 0; font-size: clamp(28px, 5.5vw, 42px); font-weight: 600; }
+.kural-header .english { margin-top: 4px; font-size: 15px; letter-spacing: 4px; color: var(--text-muted); }
+.kural-header .subtitle { margin-top: 10px; font-size: 18px; color: var(--accent); }
 .paal-container {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -319,7 +254,6 @@ html[data-lang="hi"] .kural-lang-en {
   margin: 36px 0;
   align-items: stretch;
 }
-
 .paal-card {
   min-width: 0;
   padding: 28px 18px 22px;
@@ -333,54 +267,22 @@ html[data-lang="hi"] .kural-lang-en {
   flex-direction: column;
   justify-content: space-between;
 }
-
 .paal-card:hover {
   transform: translateY(-4px);
   border-color: var(--accent);
   box-shadow: 0 10px 25px rgba(0,0,0,.15);
 }
-
-.paal-card-clickable {
-  cursor: pointer;
-  text-decoration: none;
-  color: inherit;
-}
-
-.paal-card h2 {
-  margin: 0;
-  font-size: 32px;
-  font-weight: 600;
-  color: var(--accent);
-}
-
-.paal-card .english {
-  margin-top: 4px;
-  font-size: 14px;
-  letter-spacing: 2px;
-  color: var(--text-muted);
-}
-
-.paal-card .traditional {
-  margin-top: 10px;
-  font-size: 17px;
-  color: var(--text-main);
-  font-weight: 600;
-}
-
-.paal-card .count {
-  margin-top: 6px;
-  font-size: 14px;
-  color: var(--text-muted);
-}
-
-/* AUDIO OVERVIEW */
+.paal-card-clickable { cursor: pointer; text-decoration: none; color: inherit; }
+.paal-card h2 { margin: 0; font-size: 32px; font-weight: 600; color: var(--accent); }
+.paal-card .english { margin-top: 4px; font-size: 14px; letter-spacing: 2px; color: var(--text-muted); }
+.paal-card .traditional { margin-top: 10px; font-size: 17px; font-weight: 600; }
+.paal-card .count { margin-top: 6px; font-size: 14px; color: var(--text-muted); }
 .voice-overview {
   margin-top: 20px;
   padding-top: 14px;
   border-top: 1px solid var(--border-light);
   text-align: left;
 }
-
 .voice-title {
   display: flex;
   align-items: center;
@@ -390,54 +292,21 @@ html[data-lang="hi"] .kural-lang-en {
   font-size: 15px;
   font-weight: bold;
 }
-
-.voice-overview audio {
-  display: block;
-  width: 100% !important;
-  max-width: 100%;
-  height: 40px;
-}
-
-.voice-help {
-  margin: 6px 0 0;
-  color: var(--text-muted);
-  font-size: 12px;
-  line-height: 1.4;
-}
-
-/* FOOTER */
-.kural-footer {
-  text-align: center;
-  border-top: 1px solid var(--line-color);
-  padding-top: 20px;
-  font-size: 15px;
-}
-
+.voice-overview audio { display: block; width: 100% !important; max-width: 100%; height: 40px; }
+.voice-help { margin: 6px 0 0; color: var(--text-muted); font-size: 12px; line-height: 1.4; }
+.kural-footer { text-align: center; border-top: 1px solid var(--line-color); padding-top: 20px; font-size: 15px; }
 .footer-text { text-align: center; width: 100%; }
 .footer-text p { margin: 3px 0; }
-
 @media screen and (max-width: 768px) {
-  .kural-main {
-    padding: 14px 10px 30px !important;
-  }
-  .hero-brand-logo {
-    width: 72px;
-    height: 72px;
-    border-radius: 16px;
-  }
-  .paal-container {
-    grid-template-columns: 1fr !important;
-    gap: 16px;
-    margin: 25px 0;
-  }
+  .kural-main { padding: 14px 10px 30px !important; }
+  .hero-brand-logo { width: 72px; height: 72px; border-radius: 16px; }
+  .paal-container { grid-template-columns: 1fr !important; gap: 16px; margin: 25px 0; }
 }
 </style>
 </head>
 <body>
 
 <div class="kural-main">
-
-  <!-- TOP DAILY KURAL BANNER (SINGLE CARD - CLICKABLE & MULTI-LANGUAGE) -->
   <a class="carousel-container" href="index.html?page=chapters&ch=1&paal=aram&kural=1#kural-1" id="homeCarousel" onclick="onBannerClick(event)" title="Click to view full Kural">
     <div class="carousel-track" id="carouselTrack">
       <div class="carousel-slide">
@@ -451,7 +320,6 @@ html[data-lang="hi"] .kural-lang-en {
     </div>
   </a>
 
-  <!-- HEADER (RESPONSIVE BRAND LOGO + MULTI-LANGUAGE TITLE) -->
   <header class="kural-header">
     <div class="hero-brand-logo-wrap">
       <img
@@ -465,19 +333,16 @@ html[data-lang="hi"] .kural-lang-en {
         decoding="async"
       >
     </div>
-
     <div class="kural-lang-ta">
       <h1>திருக்குறள்</h1>
       <div class="english">THIRUKURAL</div>
       <div class="subtitle">அறம் • பொருள் • இன்பம்</div>
     </div>
-
     <div class="kural-lang-en">
       <h1>Thirukural</h1>
       <div class="english">THE SACRED KURAL</div>
       <div class="subtitle">Virtue • Wealth • Love</div>
     </div>
-
     <div class="kural-lang-hi">
       <h1>तिरुक्कुरल</h1>
       <div class="english">THIRUKURAL</div>
@@ -485,10 +350,7 @@ html[data-lang="hi"] .kural-lang-en {
     </div>
   </header>
 
-  <!-- 3 PAAL CARDS (MULTI-LANGUAGE + NATIVE AUDIO) -->
   <main class="paal-container">
-
-    <!-- ARAM CARD -->
     <section aria-labelledby="aram-title" class="paal-card">
       <div class="paal-card-clickable" onclick="window.location.href='index.html?page=aram'">
         <div class="kural-lang-ta">
@@ -510,7 +372,6 @@ html[data-lang="hi"] .kural-lang-en {
           <div class="count">38 अध्याय • 380 कुरल</div>
         </div>
       </div>
-
       <div class="voice-overview">
         <div class="voice-title">
           <span>🎙</span>
@@ -520,7 +381,6 @@ html[data-lang="hi"] .kural-lang-en {
         </div>
         <audio controls preload="metadata">
           <source src="YOUR_ARAM_AUDIO_MP3_URL" type="audio/mpeg">
-          Your browser does not support audio.
         </audio>
         <p class="voice-help kural-lang-ta">அறத்துப்பால் குரல் விளக்கத்தைக் கேட்க Play பொத்தானை அழுத்தவும்.</p>
         <p class="voice-help kural-lang-en">Listen to the authentic Tamil recitation and overview.</p>
@@ -528,7 +388,6 @@ html[data-lang="hi"] .kural-lang-en {
       </div>
     </section>
 
-    <!-- PORUL CARD -->
     <section aria-labelledby="porul-title" class="paal-card">
       <div class="paal-card-clickable" onclick="window.location.href='index.html?page=porul'">
         <div class="kural-lang-ta">
@@ -550,7 +409,6 @@ html[data-lang="hi"] .kural-lang-en {
           <div class="count">70 अध्याय • 700 कुरल</div>
         </div>
       </div>
-
       <div class="voice-overview">
         <div class="voice-title">
           <span>🎙</span>
@@ -560,7 +418,6 @@ html[data-lang="hi"] .kural-lang-en {
         </div>
         <audio controls preload="metadata">
           <source src="YOUR_PORUL_AUDIO_MP3_URL" type="audio/mpeg">
-          Your browser does not support audio.
         </audio>
         <p class="voice-help kural-lang-ta">பொருட்பால் குரல் விளக்கத்தைக் கேட்க Play பொத்தானை அழுத்தவும்.</p>
         <p class="voice-help kural-lang-en">Listen to the authentic Tamil recitation and overview.</p>
@@ -568,7 +425,6 @@ html[data-lang="hi"] .kural-lang-en {
       </div>
     </section>
 
-    <!-- INBAM CARD -->
     <section aria-labelledby="inbam-title" class="paal-card">
       <div class="paal-card-clickable" onclick="window.location.href='index.html?page=inbam'">
         <div class="kural-lang-ta">
@@ -590,7 +446,6 @@ html[data-lang="hi"] .kural-lang-en {
           <div class="count">25 अध्याय • 250 कुरल</div>
         </div>
       </div>
-
       <div class="voice-overview">
         <div class="voice-title">
           <span>🎙</span>
@@ -600,17 +455,14 @@ html[data-lang="hi"] .kural-lang-en {
         </div>
         <audio controls preload="metadata">
           <source src="YOUR_INBAM_AUDIO_MP3_URL" type="audio/mpeg">
-          Your browser does not support audio.
         </audio>
         <p class="voice-help kural-lang-ta">இன்பத்துப்பால் குரல் விளக்கத்தைக் கேட்க Play பொத்தானை அழுத்தவும்.</p>
         <p class="voice-help kural-lang-en">Listen to the authentic Tamil recitation and overview.</p>
         <p class="voice-help kural-lang-hi">प्रामाणिक तमिल पाठ सुनने के लिए Play बटन दबाएं।</p>
       </div>
     </section>
-
   </main>
 
-  <!-- FOOTER (MULTI-LANGUAGE) -->
   <footer class="kural-footer">
     <div class="footer-text">
       <div class="kural-lang-ta">
@@ -627,12 +479,8 @@ html[data-lang="hi"] .kural-lang-en {
       </div>
     </div>
   </footer>
-
 </div>
 
-<!-- ==========================================================================
-     SCRIPTS: FIRESTORE LAYOUT LOADER & DAILY KURAL BANNER
-     ========================================================================== -->
 <script>
 function decodeHtml(html) {
   if (!html) return '';
@@ -648,14 +496,12 @@ function decodeHtml(html) {
 
 (function() {
   "use strict";
-
-  /* Skip home initialization if routing to a subpage */
   if (window.__DK_SUBPAGE_MODE__) return;
 
-  /* Load shared layout_js from Firestore /Pages/layout_js */
   async function loadSharedLayoutFromFirestore() {
     try {
-      const snap = await window.dkFirebaseDb.collection("Pages").doc("layout_js").get();
+      const { db } = await window.dkInitFirebase;
+      const snap = await db.collection("Pages").doc("layout_js").get();
       if (snap.exists && snap.data().content) {
         const scriptEl = document.createElement("script");
         scriptEl.textContent = snap.data().content;
@@ -669,13 +515,13 @@ function decodeHtml(html) {
   let todayChapterNum = 1;
   let todayKuralNum = 1;
 
-  let cachedKuralData = { 
-    taL1: "அகர முதல எழுத்தெல்லாம் ஆதி", taL2: "பகவன் முதற்றே உலகு.", 
-    enL1: "A, as its first of letters, every speech maintains;", enL2: "The 'Primal Deity' is first through all the world's domains.", 
-    hiL1: "अगर मुदल एऴुत्तेल्लाम् आदि", hiL2: "पगवन् मुदत्रे उलगु.", 
-    subTa: "குறள் 1 (அதிகாரம் 1)", 
-    subEn: "Kural 1 (Chapter 1)", 
-    subHi: "कुरल 1 (अध्याय 1) — देवनागरी लिप्यंतरण" 
+  let cachedKuralData = {
+    taL1: "அகர முதல எழுத்தெல்லாம் ஆதி", taL2: "பகவன் முதற்றே உலகு.",
+    enL1: "A, as its first of letters, every speech maintains;", enL2: "The 'Primal Deity' is first through all the world's domains.",
+    hiL1: "अगर मुदल एऴुत्तेल्लाम् आदि", hiL2: "पगवन् मुदत्रे उलगु.",
+    subTa: "குறள் 1 (அதிகாரம் 1)",
+    subEn: "Kural 1 (Chapter 1)",
+    subHi: "कुरल 1 (अध्याय 1) — देवनागरी लिप्यंतरण"
   };
 
   function getPaalForChapter(ch) {
@@ -689,23 +535,23 @@ function decodeHtml(html) {
     return `index.html?page=chapters&ch=${todayChapterNum}&paal=${paal}&kural=${todayKuralNum}#kural-${todayKuralNum}`;
   }
 
-  /* Fetch Today's Kural directly from Firestore `chapters` collection */
   async function loadTodayKuralBanner() {
     try {
       const now = new Date();
       const start = new Date(now.getFullYear(), 0, 0);
       const diff = (now - start) + ((start.getTimezoneOffset() - now.getTimezoneOffset()) * 60 * 1000);
       const dayOfYear = Math.floor(diff / (1000 * 60 * 60 * 24));
-      
+
       todayKuralNum = ((dayOfYear - 1) % 1330) + 1;
       todayChapterNum = Math.floor((todayKuralNum - 1) / 10) + 1;
 
       const bannerEl = document.getElementById('homeCarousel');
       if (bannerEl) bannerEl.href = getTodayKuralUrl();
-      
+
+      const { db } = await window.dkInitFirebase;
       let formattedCh = String(todayChapterNum).padStart(3, '0') + "-Chapter";
-      const docSnap = await window.dkFirebaseDb.collection("chapters").doc(formattedCh).get();
-      
+      const docSnap = await db.collection("chapters").doc(formattedCh).get();
+
       if (docSnap.exists) {
         let data = docSnap.data();
         let kuralObj = (data.kurals || []).find(k => Number(k.num) === Number(todayKuralNum));
@@ -718,7 +564,6 @@ function decodeHtml(html) {
           cachedKuralData.enL2 = decodeHtml(kuralObj.enLine2 || (kuralObj.poetic && kuralObj.poetic.en ? kuralObj.poetic.en.line2 : ""));
           cachedKuralData.subEn = decodeHtml(`Kural ${todayKuralNum} (Chapter ${todayChapterNum})`);
 
-          /* Use Devanagari phonetic transliteration instead of copyrighted 1964 poetic verse */
           const hiTranslit = (kuralObj.poetic && kuralObj.poetic.transliteration && kuralObj.poetic.transliteration.hi) || {};
           cachedKuralData.hiL1 = decodeHtml(hiTranslit.line1 || kuralObj.line1 || "");
           cachedKuralData.hiL2 = decodeHtml(hiTranslit.line2 || kuralObj.line2 || "");
@@ -744,7 +589,6 @@ function decodeHtml(html) {
 
   function updateBannerLanguageContent() {
     let currentLang = getHomepageLanguage();
-
     const bannerEl = document.getElementById('homeCarousel');
     if (bannerEl) bannerEl.href = getTodayKuralUrl();
 
@@ -773,15 +617,10 @@ function decodeHtml(html) {
 
   window.addEventListener("kuralLanguageChanged", updateBannerLanguageContent);
 
-  /* Register root Service Worker for PWA & FCM */
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register("/firebase-messaging-sw.js")
-      .catch(function(err) {
-        console.warn("Service worker registration failed:", err);
-      });
+    navigator.serviceWorker.register("/firebase-messaging-sw.js").catch(() => {});
   }
 
-  /* Pause other audio players when one starts playing */
   var players = document.querySelectorAll(".paal-card audio");
   players.forEach(function(player) {
     player.addEventListener("play", function() {
@@ -798,6 +637,5 @@ function decodeHtml(html) {
   });
 })();
 </script>
-
 </body>
 </html>
