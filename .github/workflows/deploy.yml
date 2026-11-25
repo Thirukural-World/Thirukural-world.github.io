@@ -24,7 +24,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Inject Firebase Secrets
+      - name: Prepare site directory and inject Firebase secrets
         env:
           FIREBASE_API_KEY: ${{ secrets.FIREBASE_API_KEY }}
           FIREBASE_AUTH_DOMAIN: ${{ secrets.FIREBASE_AUTH_DOMAIN }}
@@ -35,7 +35,11 @@ jobs:
           FIREBASE_MEASUREMENT_ID: ${{ secrets.FIREBASE_MEASUREMENT_ID }}
           FIREBASE_VAPID_KEY: ${{ secrets.FIREBASE_VAPID_KEY }}
         run: |
-          for file in index.html firebase-messaging-sw.js; do
+          mkdir -p _site
+          cp index.html firebase-messaging-sw.js _site/
+          cp -r images _site/
+
+          for file in _site/index.html _site/firebase-messaging-sw.js; do
             sed -i "s|__FIREBASE_API_KEY__|$FIREBASE_API_KEY|g" "$file"
             sed -i "s|__FIREBASE_AUTH_DOMAIN__|$FIREBASE_AUTH_DOMAIN|g" "$file"
             sed -i "s|__FIREBASE_PROJECT_ID__|$FIREBASE_PROJECT_ID|g" "$file"
@@ -50,9 +54,9 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
-          path: '.'
+          path: '_site'
 
       - name: Deploy to GitHub Pages
         id: deployment
