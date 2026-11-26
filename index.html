@@ -4,8 +4,9 @@
 <!-- ==========================================================================
      THIRUKURAL-WORLD: MASTER SPA SHELL & HOME PAGE (index.html)
 - Zero Hardcoded Firebase Keys (Fetched dynamically from Cloudflare /config)
-- Single GitHub-Hosted Shell that dynamically loads subpages from Firestore (`/Pages`)
+- Routes public pages from Firestore (`/Pages`) and admin pages from (`/Pages_admin`)
 - Loads shared `layout_js` directly from Firestore (`/Pages/layout_js`)
+- Strict Entry & Back-Button Sign-Out Gate across all protected sections
 - Responsive Brand Logos (`images/Thirukural_World_192.png`, `512.png`, `1024.png`)
 - Daily Kural Banner fetched directly from Firestore (`chapters` collection)
      ========================================================================== -->
@@ -81,48 +82,89 @@
   (function routeOrGate() {
     const params = new URLSearchParams(window.location.search);
     const requestedPage = (params.get("page") || "").trim().toLowerCase();
+    const isAdminRoute = (requestedPage === "admin" || requestedPage.startsWith("admin_"));
 
-    /* Enforce Guest or Signed-In entry gate on all pages except login & admin */
-    if (requestedPage !== "login" && requestedPage !== "admin") {
+    function checkReaderAccess() {
+      if (requestedPage === "login" || isAdminRoute) return true;
       try {
         const isGuest = sessionStorage.getItem("dk_guest_mode") === "true" || localStorage.getItem("dk_guest_mode") === "true";
         const hasFirebaseUid = !!localStorage.getItem("dk_firebase_uid");
         if (!isGuest && !hasFirebaseUid) {
+          document.documentElement.style.visibility = "hidden";
           const nextTarget = encodeURIComponent("index.html" + window.location.search + window.location.hash);
           window.location.replace("index.html?page=login&next=" + nextTarget);
-          return;
+          return false;
         }
       } catch (e) {}
+      return true;
     }
 
-    /* If ?page=<docId> is specified, fetch that HTML document from Firestore /Pages */
+    /* Enforce Guest or Signed-In entry gate immediately + on browser back/forward */
+    if (!checkReaderAccess()) return;
+    window.addEventListener("pageshow", checkReaderAccess);
+    window.addEventListener("popstate", checkReaderAccess);
+
+    /* If ?page=<docId> is specified, fetch from Firestore /Pages_admin (for admin) or /Pages (for public) */
     if (requestedPage && requestedPage !== "home" && requestedPage !== "index") {
       window.__DK_SUBPAGE_MODE__ = true;
       window.addEventListener("DOMContentLoaded", async function() {
         document.body.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;min-height:100vh;font-family:Georgia,serif;color:#c26100;font-size:20px;font-weight:bold;">📜 ஏற்றப்படுகிறது... (Loading...)</div>';
         try {
-          const { db } = await window.dkInitFirebase;
-          const docSnap = await db.collection("Pages").doc(requestedPage).get();
+          const { auth, db } = await window.dkInitFirebase;
+
+          /* Wait briefly for Firebase Auth state on protected admin routes so Firestore rules receive request.auth */
+          if (isAdminRoute && !auth.currentUser) {
+            await new Promise(function(resolve) {
+              const unsubscribe = auth.onAuthStateChanged(function() {
+                unsubscribe();
+                resolve();
+              });
+              setTimeout(resolve, 2500);
+            });
+            if (!auth.currentUser) {
+              const nextAdmin = encodeURIComponent("index.html" + window.location.search + window.location.hash);
+              window.location.replace("index.html?page=login&next=" + nextAdmin);
+              return;
+            }
+          }
+
+          const targetCollection = isAdminRoute ? "Pages_admin" : "Pages";
+          const docSnap = await db.collection(targetCollection).doc(requestedPage).get();
+
           if (!docSnap.exists || !docSnap.data().content) {
-            document.body.innerHTML = '<div style="text-align:center;padding:60px 20px;font-family:Georgia,serif;"><h2>Page Not Found</h2><p>Requested page "' + requestedPage + '" was not found in Firestore.</p><a href="index.html" style="color:#c26100;font-weight:bold;">← Return Home</a></div>';
+            document.body.innerHTML = '<div style="text-align:center;padding:60px 20px;font-family:Georgia,serif;"><h2>Page Not Found</h2><p>Requested page "' + requestedPage + '" was not found in ' + targetCollection + '.</p><a href="index.html" style="color:#c26100;font-weight:bold;">← Return Home</a></div>';
             return;
           }
+
           const htmlContent = docSnap.data().content;
           document.open();
           document.write(htmlContent);
           document.close();
 
-          /* Inject layout_js automatically on all subpages except login & admin */
-          if (requestedPage !== "login" && requestedPage !== "admin") {
+          /* Inject layout_js automatically on public subpages (excluding login & admin) */
+          if (requestedPage !== "login" && !isAdminRoute) {
             const layoutSnap = await db.collection("Pages").doc("layout_js").get();
             if (layoutSnap.exists && layoutSnap.data().content) {
               const s = document.createElement("script");
               s.textContent = layoutSnap.data().content;
               document.body.appendChild(s);
             }
+          } else if (isAdminRoute && requestedPage !== "admin") {
+            /* Optional: automatically inject Pages_admin/admin_layout_js on future admin_* subpages if created */
+            const adminLayoutSnap = await db.collection("Pages_admin").doc("admin_layout_js").get().catch(function() { return null; });
+            if (adminLayoutSnap && adminLayoutSnap.exists && adminLayoutSnap.data().content) {
+              const s = document.createElement("script");
+              s.textContent = adminLayoutSnap.data().content;
+              document.body.appendChild(s);
+            }
           }
         } catch (err) {
-          document.body.innerHTML = '<div style="text-align:center;padding:60px 20px;color:#b71c1c;">Error loading page: ' + err.message + '</div>';
+          if (isAdminRoute && err && (err.code === "permission-denied" || (err.message && err.message.toLowerCase().includes("permission")))) {
+            const nextAdmin = encodeURIComponent("index.html" + window.location.search + window.location.hash);
+            window.location.replace("index.html?page=login&next=" + nextAdmin);
+            return;
+          }
+          document.body.innerHTML = '<div style="text-align:center;padding:60px 20px;color:#b71c1c;font-family:Georgia,serif;">Error loading page: ' + err.message + '<br><br><a href="index.html" style="color:#c26100;font-weight:bold;">← Return Home</a></div>';
         }
       });
     }
